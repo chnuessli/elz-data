@@ -2123,6 +2123,42 @@
 },
 {
   "type": "Feature",
+  "id": "way/877773543",
+  "properties": {
+    "aeroway": "helipad",
+    "name": "Helipad Kantonspolizei Zürich Bülach",
+    "id": "way/877773543"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5214608,
+          47.5126444
+        ],
+        [
+          8.521396,
+          47.5127178
+        ],
+        [
+          8.5212849,
+          47.5126731
+        ],
+        [
+          8.5213498,
+          47.5125997
+        ],
+        [
+          8.5214608,
+          47.5126444
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/281385797",
   "properties": {
     "aeroway": "helipad",
