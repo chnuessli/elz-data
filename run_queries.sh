@@ -52,3 +52,9 @@ echo -ne "Query Feuerwehrwachen Kanton Zürich...           "
 cat $DIR/queries/firestation_kt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/firestation_kt_zh.geojson
 echo -ne "\t\t - Done.\r"
 echo ""
+
+# Helipads Dispogebiet SRZ
+echo -ne "Query Helipads Dispogebiet SRZ...           "
+cat $DIR/queries/helipads_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/helipads_dispo_srz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
