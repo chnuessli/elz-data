@@ -204,6 +204,53 @@ out body;
 out skel qt;
 ```
 
+## Polizeiwachen 
+
+### Dispogebiet SRZ
+
+```
+[out:json][timeout:25];
+(
+//Kanton Zürich
+area["ISO3166-2"="CH-ZH"];
+//Kanton Schwyz
+area["ISO3166-2"="CH-SZ"];
+//Kanton Schaffhausen
+area["ISO3166-2"="CH-SH"];
+//Kanton Zug
+area["ISO3166-2"="CH-ZG"];
+)->.searchArea;
+// gather results
+(
+nwr["amenity"="police"](area.searchArea);
+);
+// print results
+out body;
+>;
+out skel qt;
+```
+
+## Kanton Zürich
+
+```
+[out:json][timeout:25];
+(
+//Kanton Zürich
+area["ISO3166-2"="CH-ZH"];
+)->.searchArea;
+// gather results
+(
+  // query part for: “amenity=fire_station”
+  node["amenity"="police"](area.searchArea);
+  way["amenity"="police"](area.searchArea);
+  relation["amenity"="police"](area.searchArea);
+);
+// print results
+out body;
+>;
+out skel qt;
+```
+
 </p>
 </details>
 
