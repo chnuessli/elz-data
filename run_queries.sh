@@ -59,6 +59,36 @@ cat $DIR/queries/hospital_kt_zg.txt | python $DIR/overpass_query.py | osmtogeojs
 echo -ne "\t\t - Done.\r"
 echo ""
 
+# Altersheime Dispogebiet SRZ
+echo -ne "Query Altersheime Dispogebiet SRZ..."
+cat $DIR/queries/nursing_home_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/facilities/nursing_home/nursing_home_dispo_srz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Altersheime Kanton ZH
+echo -ne "Query Altersheime Kanton ZH..."
+cat $DIR/queries/nursing_home_kt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/facilities/nursing_home/nursing_home_kt_zh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Altersheime Kanton SH
+echo -ne "Query Altersheime Kanton SH..."
+cat $DIR/queries/nursing_home_kt_sh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/facilities/nursing_home/nursing_home_kt_sh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Altersheime Kanton SZ
+echo -ne "Query Altersheime Kanton SZ..."
+cat $DIR/queries/nursing_home_kt_sz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/facilities/nursing_home/nursing_home_kt_sz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Altersheime Kanton ZG
+echo -ne "Query Altersheime Kanton ZG..."
+cat $DIR/queries/nursing_home_kt_zg.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/facilities/nursing_home/nursing_home_kt_zg.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
 # Rettungswachen Dispogebiet SRZ
 echo -ne "Query Rettungswachen Dispogebiet SRZ...           "
 cat $DIR/queries/ambulancestation_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/ambulance_station/ambulancestation_dispo_srz.geojson
