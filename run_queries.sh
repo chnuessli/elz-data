@@ -73,7 +73,7 @@ echo ""
 
 # Tore und Barrieren Dispogebiet SRZ
 echo -ne "Query Gates Dispo SRZ...           "
-cat $DIR/queries/gates_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/access/gates/gate_dispo_srz.geojson
+cat $DIR/queries/gates_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/access/gates/gates_dispo_srz.geojson
 echo -ne "\t\t - Done.\r"
 echo ""
 
