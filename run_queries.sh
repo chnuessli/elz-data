@@ -29,15 +29,33 @@ cat $DIR/queries/defis_kt_zh.txt | python $DIR/overpass_query.py | osmtogeojson 
 echo -ne "\t\t - Done.\r"
 echo ""
 
-# Spitäler und Altersheime Dispogebiet SRZ
-echo -ne "Query Spitäler und Altersheime Dispogebiet SRZ..."
-cat $DIR/queries/facilities_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/facilities/facilities_dispo_srz.geojson
+# Spitäler Dispogebiet SRZ
+echo -ne "Query Spitäler Dispogebiet SRZ..."
+cat $DIR/queries/hospital_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/facilities/hospital/hospital_dispo_srz.geojson
 echo -ne "\t\t - Done.\r"
 echo ""
 
-# Spitäler und Altersheime Stadt Zürich
-echo -ne "Query Spitäler und Altersheime Stadt Zürich...  "
-cat $DIR/queries/facilities_stadt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/facilities/facilities_stadt_zh.geojson
+# Spitäler Kanton ZH
+echo -ne "Query Spitäler Kanton ZH..."
+cat $DIR/queries/hospital_kt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/facilities/hospital/hospital_kt_zh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Spitäler Kanton SH
+echo -ne "Query Spitäler Kanton SH..."
+cat $DIR/queries/hospital_kt_sh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/facilities/hospital/hospital_kt_sh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Spitäler Kanton SZ
+echo -ne "Query Spitäler Kanton SZ..."
+cat $DIR/queries/hospital_kt_sz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/facilities/hospital/hospital_kt_sz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Spitäler Kanton ZG
+echo -ne "Query Spitäler Kanton ZG..."
+cat $DIR/queries/hospital_kt_zg.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/facilities/hospital/hospital_kt_zg.geojson
 echo -ne "\t\t - Done.\r"
 echo ""
 
