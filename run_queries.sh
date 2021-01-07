@@ -37,7 +37,7 @@ echo ""
 
 # Spitäler und Altersheime Stadt Zürich
 echo -ne "Query Spitäler und Altersheime Stadt Zürich...  "
-cat $DIR/queries/facilities_stadt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/ambulance_station/facilities/facilities_stadt_zh.geojson
+cat $DIR/queries/facilities_stadt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/facilities/facilities_stadt_zh.geojson
 echo -ne "\t\t - Done.\r"
 echo ""
 
