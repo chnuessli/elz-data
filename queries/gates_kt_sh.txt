@@ -7,6 +7,7 @@ area["ISO3166-2"="CH-SH"];
 // gather results
 (
 nwr["barrier"="gate"](area.searchArea);
+nwr["barrier"="lift_gate"](area.searchArea);
 );
 // print results
 out body;
