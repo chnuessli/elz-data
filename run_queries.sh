@@ -70,3 +70,33 @@ echo -ne "Query Polizeistationen Kanton Zürich...           "
 cat $DIR/queries/police_station_kt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/police_station/police_station_kt_zh.geojson
 echo -ne "\t\t - Done.\r"
 echo ""
+
+# Gates in Dispogebiet SRZ
+echo -ne "Query Gates Dispo SRZ...           "
+cat $DIR/queries/gates_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/access/gates/gate_dispo_srz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Gates in Kanton ZH
+echo -ne "Query Gates Dispo SRZ...           "
+cat $DIR/queries/gates_kt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/access/gates/gates_kt_zh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Gates in Kanton SZ
+echo -ne "Query Gates Dispo SRZ...           "
+cat $DIR/queries/gates_kt_sz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/access/gates/gates_kt_sz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Gates in Kanton SH
+echo -ne "Query Gates Dispo SRZ...           "
+cat $DIR/queries/gates_kt_sh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/access/gates/gates_kt_sh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Gates in Kanton ZG
+echo -ne "Query Gates Dispo SRZ...           "
+cat $DIR/queries/gates_kt_sh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/access/gates/gates_kt_zg.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
