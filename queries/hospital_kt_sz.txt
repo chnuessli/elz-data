@@ -1,0 +1,14 @@
+[out:json][timeout:25];
+(
+//Kanton Schwyz
+area["ISO3166-2"="CH-SZ"];
+)->.searchArea;
+// gather results
+(
+nwr["amenity"="hospital"]["name"!~"^$"](area.searchArea);
+nwr["healthcare"="hospital"]["name"!~"^$"](area.searchArea);
+);
+// print results
+out body;
+>;
+out skel qt;
