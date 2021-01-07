@@ -107,6 +107,12 @@ cat $DIR/queries/helipads_dispo_srz.txt | python $DIR/overpass_query.py | osmtog
 echo -ne "\t\t - Done.\r"
 echo ""
 
+# Helipads ganze CH
+echo -ne "Query Helipads ganze Schweiz...           "
+cat $DIR/queries/helipads_switzerland.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/helipad/helipads_switzerland.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
 # Polizeistationen Dispogebiet SRZ
 echo -ne "Query Polizeistationen Dispogebiet SRZ...           "
 cat $DIR/queries/police_station_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/police_station/police_station_dispo_srz.geojson
