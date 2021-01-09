@@ -10674,6 +10674,7 @@
     "amenity": "hospital",
     "name": "Universitätsspital Zürich Flughafen",
     "short_name": "USZ Flughafen",
+    "wheelchair": "yes",
     "id": "way/856698475"
   },
   "geometry": {
