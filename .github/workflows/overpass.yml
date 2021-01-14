@@ -2,7 +2,8 @@ name: Get data from Overpass
 
 on:
   schedule:
-  - cron:  '20 5 * * *' # run every day at 05:20 UTC
+  #- cron:  '00 6 * * *' # run every day at 06:00 UTC
+  - cron:  '*/60 * * * *' # run every hour
   workflow_dispatch: ~
 
 jobs:
