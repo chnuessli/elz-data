@@ -1,6 +1,27 @@
 {
 "type": "FeatureCollection",
 "features": [
-
+{
+  "type": "Feature",
+  "id": "node/8320845110",
+  "properties": {
+    "addr:city": "Neuhausen am Rheinfall",
+    "addr:postcode": "8212",
+    "addr:street": "Charlottenfels",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
+    "vaccination": "covid19",
+    "website": "https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-7126057-DE.html",
+    "id": "node/8320845110"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.621357,
+      47.6905053
+    ]
+  }
+}
 ]
 }

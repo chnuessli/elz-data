@@ -48,6 +48,102 @@
       47.3759572
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8320819660",
+  "properties": {
+    "addr:city": "Schwyz",
+    "addr:housenumber": "10",
+    "addr:postcode": "6430",
+    "addr:street": "Waldeggstrasse",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Spital Schwyz",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
+    "phone": "041 818 41 11",
+    "vaccination": "covid19",
+    "website": "https://www.spital-schwyz.ch",
+    "id": "node/8320819660"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6595687,
+      47.0157115
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8320819661",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:housenumber": "28",
+    "addr:postcode": "8840",
+    "addr:street": "Spitalstrasse",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Spital Einsiedeln",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
+    "vaccination": "covid19",
+    "website": "https://www.spital-einsiedeln.ch/home",
+    "id": "node/8320819661"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7391121,
+      47.1306871
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8320819662",
+  "properties": {
+    "addr:city": "Lachen",
+    "addr:housenumber": "41",
+    "addr:postcode": "8853",
+    "addr:street": "Oberdorfstrasse",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Spital Lachen",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
+    "phone": "+41 41 819 15 95",
+    "vaccination": "covid19",
+    "website": "https://www.spital-lachen.ch/coronavirus.html",
+    "id": "node/8320819662"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8589057,
+      47.1892207
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8320845110",
+  "properties": {
+    "addr:city": "Neuhausen am Rheinfall",
+    "addr:postcode": "8212",
+    "addr:street": "Charlottenfels",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
+    "vaccination": "covid19",
+    "website": "https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-7126057-DE.html",
+    "id": "node/8320845110"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.621357,
+      47.6905053
+    ]
+  }
 }
 ]
 }
