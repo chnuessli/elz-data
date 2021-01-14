@@ -3,23 +3,28 @@
 "features": [
 {
   "type": "Feature",
-  "id": "node/5273646228",
+  "id": "node/8320771141",
   "properties": {
-    "amenity": "clinic",
-    "healthcare": "clinic",
+    "addr:city": "Zürich",
+    "addr:housenumber": "84",
+    "addr:postcode": "8001",
+    "addr:street": "Hirschengraben",
+    "healthcare": "centre",
     "healthcare:speciality": "vaccination",
-    "level": "0",
-    "name": "Zentrum für Reisemedizin",
-    "opening_hours": "Mo 16:30-19:00; We 11:30-17:00; Th 16:30-19:00; Fr 9:00-11:00; PH off",
+    "name": "Impfzentrum Corona Reisezentrum",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "operator": "Universität Zürich",
+    "phone": "0800 33 66 55",
     "vaccination": "covid19",
-    "website": "https://www.ebpi.uzh.ch/de/services/travelclinic.html",
-    "id": "node/5273646228"
+    "website": "https://coronazentrum.uzh.ch/",
+    "id": "node/8320771141"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5454394,
-      47.3758735
+      8.545448,
+      47.3759572
     ]
   }
 }
