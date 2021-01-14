@@ -163,7 +163,7 @@ echo ""
 
 # Impfzentren Dispo SRZ
 echo -ne "Query Impfzentren Dispo SRZ...           "
-cat $DIR/queries/vaccination_dispo_srz | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/vaccination/vaccination_dispo_srz.geojson
+cat $DIR/queries/vaccination_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/vaccination/vaccination_dispo_srz.geojson
 echo -ne "\t\t - Done.\r"
 echo ""
 
