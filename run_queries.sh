@@ -154,3 +154,21 @@ echo -ne "Query Tore und Barrieren Kanton ZG...           "
 cat $DIR/queries/gates_kt_zg.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/access/gates/gates_kt_zg.geojson
 echo -ne "\t\t - Done.\r"
 echo ""
+
+# Impfzentren Schweiz
+echo -ne "Query Impfzentren Schweiz...           "
+cat $DIR/queries/vaccination_switzerland.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/vaccination/vaccination_switzerland.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Impfzentren Dispo SRZ
+echo -ne "Query Impfzentren Dispo SRZ...           "
+cat $DIR/queries/vaccination_dispo_srz | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/vaccination/vaccination_dispo_srz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Impfzentren Kanton Zürich
+echo -ne "Query Impfzentren Kanton Zürich...           "
+cat $DIR/queries/vaccination_kt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/vaccination/vaccination_kt_zh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
