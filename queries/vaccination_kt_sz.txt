@@ -1,7 +1,7 @@
 [out:json][timeout:25];
 (
-//Kanton Zürich
-area["ISO3166-2"="CH-ZH"];
+//Kanton Schwyz
+area["ISO3166-2"="CH-SZ"];
 )->.searchArea;
 // gather results
 (
