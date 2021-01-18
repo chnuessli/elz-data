@@ -6954,23 +6954,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/699179547",
-  "properties": {
-    "barrier": "gate",
-    "bicycle": "no",
-    "foot": "no",
-    "id": "node/699179547"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5918652,
-      47.4119378
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/700154032",
   "properties": {
     "barrier": "gate",
