@@ -10,6 +10,23 @@ Die Daten sind direkt aus OSM exportiert.
 Sinn dieses Archivs ist es, Datenveränderungen täglich nachzuvollziehen. Täglich wird nun automatisiert, ein GeoJSON generiert und somit Datenveränderungen dokumentiert.
 Die JSON Datensammlung soll stetig wachsen und so ein sauberes Archiv generieren.
 
+## Datenkatalog
+
+In der Tabelle seht ihr, welche Daten verfügbar sind und aus welchen Kantonen.
+
+| Daten | Beschreibung | Verfügbarkeit | Kantone
+| --- | --- | --- | ---
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 ## Overpass Abfragen via Overpass API
 
 Umgebaute Queries die mit der Overpass API korrespondieren können. Alle Queries und die dazugehörigen Overpass Abfragen die auch im Web funktionieren findet man in `queries`
