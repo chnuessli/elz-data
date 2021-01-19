@@ -14,19 +14,19 @@ Die JSON Datensammlung soll stetig wachsen und so ein sauberes Archiv generieren
 
 In der Tabelle seht ihr, welche Daten verfügbar sind und aus welchen Kantonen.
 
-| Daten | Beschreibung | Verfügbarkeit | Kantone
+| Daten | Beschreibung | Ordner | Kantone
 | --- | --- | --- | ---
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| gates | Tore und Barrieren | `data/access/gates` | SH, SZ, ZG, ZH
+| ambulance_station | Rettungswachen | `data/ambulance_station` | Dispo SRZ
+| defis | Defibrillatoren | `data/defis` | Dispo SRZ, ZH, Stadt Zürich
+| fire_station | Feuerwehrwachen| `data/fire_station` | ZH
+| helipad | Hubschrauber Landeplätze | `data/helipad` | Dispo SRZ, Schweiz
+| hospital | Spitäler | `data/facilities/hospital` | Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
+| nursing_home | Alters- und Pflegeheime | `data/facilities/nursing_home` | Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
+| police_station | Polizeiwachen | `data/police_station` | Dispo SRZ, ZH
+| vaccination | Impfzentren | `data/vaccination` | Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
+
+
 ## Overpass Abfragen via Overpass API
 
 Umgebaute Queries die mit der Overpass API korrespondieren können. Alle Queries und die dazugehörigen Overpass Abfragen die auch im Web funktionieren findet man in `queries`
