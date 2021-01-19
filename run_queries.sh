@@ -59,6 +59,12 @@ cat $DIR/queries/hospital_kt_zg.txt | python $DIR/overpass_query.py | osmtogeojs
 echo -ne "\t\t - Done.\r"
 echo ""
 
+# Spitäler Schweiz
+echo -ne "Query Spitäler Schweiz..."
+cat $DIR/queries/hospital_switzerland.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/facilities/hospital/hospital_switzerland.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
 # Altersheime Dispogebiet SRZ
 echo -ne "Query Altersheime Dispogebiet SRZ..."
 cat $DIR/queries/nursing_home_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/facilities/nursing_home/nursing_home_dispo_srz.geojson
