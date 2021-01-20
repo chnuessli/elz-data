@@ -11652,6 +11652,23 @@
       47.197964
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8341149165",
+  "properties": {
+    "aeroway": "helipad",
+    "description": "prov. während Umbauphase",
+    "end_date": "ca. 2024-03",
+    "id": "node/8341149165"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.963877,
+      46.3121173
+    ]
+  }
 }
 ]
 }
