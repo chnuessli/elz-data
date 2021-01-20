@@ -7,6 +7,7 @@
   "properties": {
     "building": "yes",
     "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum KSB",
     "source": "bing",
     "vaccination": "covid19",
     "id": "way/33789454"
@@ -1143,6 +1144,23 @@
     "coordinates": [
       7.4587517,
       46.9654508
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8339138325",
+  "properties": {
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum KSA",
+    "vaccination": "covid19",
+    "id": "node/8339138325"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0590561,
+      47.3896113
     ]
   }
 }
