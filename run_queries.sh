@@ -161,6 +161,36 @@ cat $DIR/queries/gates_kt_zg.txt | python $DIR/overpass_query.py | osmtogeojson 
 echo -ne "\t\t - Done.\r"
 echo ""
 
+# Apotheken Dispo SRZ
+echo -ne "Query Apotheken Dispo SRZ...           "
+cat $DIR/queries/pharmacy_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/pharmacy/pharmacy_dispo_srz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Apotheken Kanton Zürich
+echo -ne "Query Apotheken Kanton Zürich...           "
+cat $DIR/queries/pharmacy_kt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/pharmacy/pharmacy_kt_zh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Apotheken Kanton Schwyz
+echo -ne "Query Apotheken Kanton Schwyz...           "
+cat $DIR/queries/pharmacy_kt_sz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/pharmacy/pharmacy_kt_sz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Apotheken Kanton Schaffhausen
+echo -ne "Query Apotheken Kanton Schaffhausen...           "
+cat $DIR/queries/pharmacy_kt_sh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/pharmacy/pharmacy_kt_sh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Apotheken Kanton Schwyz
+echo -ne "Query Apotheken Kanton Zug...           "
+cat $DIR/queries/pharmacy_kt_zg.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/pharmacy/pharmacy_kt_zg.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
 # Impfzentren Schweiz
 echo -ne "Query Impfzentren Schweiz...           "
 cat $DIR/queries/vaccination_switzerland.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/vaccination/vaccination_switzerland.geojson
