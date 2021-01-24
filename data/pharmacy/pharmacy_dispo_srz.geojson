@@ -818,6 +818,11 @@
     "brand": "TopPharm",
     "dispensing": "yes",
     "healthcare": "pharmacy",
+    "kids_area": "yes",
+    "kids_area:fee": "no",
+    "kids_area:indoor": "yes",
+    "kids_area:outdoor": "no",
+    "kids_area:supervised": "no",
     "name": "TopPharm Apotheke Siebnen",
     "old_name": "Apotheke Dr. Hahn",
     "operator": "TopPharm Genossenschaft",
@@ -7836,6 +7841,25 @@
     "coordinates": [
       8.5399059,
       47.2890316
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8286494176",
+  "properties": {
+    "amenity": "pharmacy",
+    "name": "Bahnhof Apotheke Stettbach",
+    "opening_date": "2021-01-28",
+    "phone": "+41 44 244 05 05",
+    "website": "https://www.instagram.com/apotheke_stettbach/",
+    "id": "node/8286494176"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5972908,
+      47.3970803
     ]
   }
 }
