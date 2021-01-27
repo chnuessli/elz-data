@@ -1171,6 +1171,25 @@
       47.3896113
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8364542922",
+  "properties": {
+    "amenity": "doctors",
+    "healthcare": "doctor",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Alte Mühle",
+    "opening_hours:covid19": "open",
+    "id": "node/8364542922"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7921505,
+      47.2145985
+    ]
+  }
 }
 ]
 }
