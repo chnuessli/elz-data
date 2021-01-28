@@ -10160,6 +10160,7 @@
   "id": "node/1952898620",
   "properties": {
     "aeroway": "helipad",
+    "lit": "yes",
     "id": "node/1952898620"
   },
   "geometry": {

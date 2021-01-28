@@ -3827,7 +3827,7 @@
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
-    "healthcare:speciality": "intensive",
+    "healthcare:speciality": "intensive;general;vaccination;maternity;physiatry;internal;community;radiology;paediatrics;dentistry;ophthalmology;orthopaedics;gynaecology;emergency;dialysis;biology;surgery;orthodontics;oncology;psychiatry;chiropractic;cardiology;dermatology;osteopathy",
     "name": "Luzerner Kantonsspital",
     "operator": "Luzerner Kantonsspital",
     "operator:type": "government",
@@ -12922,6 +12922,7 @@
     "name": "Clienia Schlössli",
     "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Clienia",
+    "website": "https://www.clienia.ch/",
     "id": "way/263135458"
   },
   "geometry": {
