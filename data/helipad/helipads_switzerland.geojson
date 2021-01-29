@@ -10159,15 +10159,20 @@
   "type": "Feature",
   "id": "node/1952898620",
   "properties": {
+    "addr:city": "Luzern 16",
+    "addr:postcode": "6000",
+    "addr:street": "Spitalstrasse",
     "aeroway": "helipad",
     "lit": "yes",
+    "operator": "Luzerner Kantonsspital",
+    "surface": "asphalt",
     "id": "node/1952898620"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.2970198,
-      47.0590417
+      8.2970225,
+      47.0594236
     ]
   }
 },
@@ -10175,14 +10180,17 @@
   "type": "Feature",
   "id": "node/1952898631",
   "properties": {
+    "access": "no",
     "aeroway": "helipad",
+    "lit": "yes",
+    "operator": "Luzerner Kantonsspital",
     "id": "node/1952898631"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.29673,
-      47.0593707
+      8.2972852,
+      47.0590911
     ]
   }
 },
