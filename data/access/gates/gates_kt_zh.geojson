@@ -33219,6 +33219,7 @@
   "id": "node/4189252341",
   "properties": {
     "barrier": "lift_gate",
+    "entrance": "garage",
     "id": "node/4189252341"
   },
   "geometry": {
