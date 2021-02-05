@@ -4431,6 +4431,33 @@
 },
 {
   "type": "Feature",
+  "id": "node/2258851964",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8202",
+    "addr:street": "Unterstadt",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "info@unterstadtapotheke.ch",
+    "healthcare": "pharmacy",
+    "name": "Unterstadt-Apotheke & Post",
+    "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-17:00",
+    "phone": "+41 52 625 11 44",
+    "website": "https://www.unterstadtapotheke.ch/",
+    "id": "node/2258851964"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6403009,
+      47.6957809
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2288600722",
   "properties": {
     "amenity": "pharmacy",
@@ -7859,6 +7886,52 @@
     "coordinates": [
       8.5972908,
       47.3970803
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8393568468",
+  "properties": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "rueden@volksapotheke.ch",
+    "healthcare": "pharmacy",
+    "name": "Volksapotheke - Zum Rüden",
+    "opening_hours": "Mo-Fr 07:30–18:30; Sa 07:30-17:00",
+    "website": "https://www.volksapotheke.ch/",
+    "id": "node/8393568468"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6324253,
+      47.6973096
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8393572202",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "29",
+    "addr:postcode": "8200",
+    "addr:street": "Unterstadt",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Volksapotheke zum Zitronenbaum",
+    "opening_hours": "Mo-Fr 08:00–18:30; Sa 08:00-16:00",
+    "phone": "+41526254045",
+    "website": "http://www.volksapotheke.ch",
+    "id": "node/8393572202"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6388949,
+      47.695815
     ]
   }
 }

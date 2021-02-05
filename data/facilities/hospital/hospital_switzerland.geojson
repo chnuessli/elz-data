@@ -5761,7 +5761,7 @@
     "addr:housenumber": "15",
     "addr:postcode": "3001",
     "addr:street": "Riedweg",
-    "alt_name": "Engeried",
+    "alt_name": "Engeried, Spital Engeried, Klinik Engeried",
     "amenity": "hospital",
     "emergency": "no",
     "healthcare": "hospital",
@@ -7205,6 +7205,7 @@
     "addr:housenumber": "2",
     "addr:postcode": "1110",
     "addr:street": "Chemin du Crêt",
+    "alt_name": "Spital Morges, Klinik Morges",
     "amenity": "hospital",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
@@ -7374,6 +7375,7 @@
     "addr:postcode": "7265",
     "addr:street": "Herman-Burchard-Strasse",
     "amenity": "hospital",
+    "email": "hochgebirgsklinik@hgk.ch",
     "emergency": "no",
     "healthcare": "hospital",
     "healthcare:speciality": "psychiatry;paediatrics;dermatology;cardiology;internal",
@@ -7753,8 +7755,11 @@
     "addr:housenumber": "9",
     "addr:postcode": "1632",
     "addr:street": "Rue de l'Hôpital",
+    "alt_name": "Spital Riaz, Klinik Riaz",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Hôpital Riaz",
+    "operator": "HFR",
     "phone": "+41263064000",
     "website": "http://www.h-fr.ch/hfr/fr/pub/index.htm",
     "id": "way/128032694"
@@ -8348,9 +8353,11 @@
     "addr:housenumber": "11",
     "addr:postcode": "1245",
     "addr:street": "Chemin de la Savonnière",
+    "alt_name": "Spital Bellerive",
     "amenity": "hospital",
     "healthcare": "rehabilitation",
     "name": "Hôpital de Bellerive (HUG)",
+    "operator": "HUG Hopitaux Universitaires Genève",
     "phone": "+41 22 035 71 11",
     "website": "https://www.hug-ge.ch/hopital-bellerive/",
     "id": "way/134877024"
@@ -13338,6 +13345,161 @@
 },
 {
   "type": "Feature",
+  "id": "way/304442144",
+  "properties": {
+    "addr:housenumber": "1",
+    "addr:street": "Spitalstrasse",
+    "amenity": "hospital",
+    "name": "Kantonspital Uri - Hauptgebäude",
+    "wheelchair": "yes",
+    "id": "way/304442144"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6377671,
+          46.8829305
+        ],
+        [
+          8.6380215,
+          46.8831693
+        ],
+        [
+          8.6378343,
+          46.8832625
+        ],
+        [
+          8.6375883,
+          46.8830316
+        ],
+        [
+          8.6374668,
+          46.8830866
+        ],
+        [
+          8.6375178,
+          46.8831343
+        ],
+        [
+          8.6374297,
+          46.8831728
+        ],
+        [
+          8.6373047,
+          46.883061
+        ],
+        [
+          8.6375714,
+          46.8829327
+        ],
+        [
+          8.6375043,
+          46.8828777
+        ],
+        [
+          8.6374588,
+          46.8827933
+        ],
+        [
+          8.6374061,
+          46.8826868
+        ],
+        [
+          8.6370135,
+          46.882731
+        ],
+        [
+          8.6369599,
+          46.8825697
+        ],
+        [
+          8.6373455,
+          46.8825269
+        ],
+        [
+          8.6373338,
+          46.8824763
+        ],
+        [
+          8.6375467,
+          46.882452
+        ],
+        [
+          8.6375556,
+          46.8825035
+        ],
+        [
+          8.6375875,
+          46.8825
+        ],
+        [
+          8.637617,
+          46.8824817
+        ],
+        [
+          8.6375795,
+          46.8824542
+        ],
+        [
+          8.6379739,
+          46.882245
+        ],
+        [
+          8.6381488,
+          46.8824066
+        ],
+        [
+          8.6381311,
+          46.8824151
+        ],
+        [
+          8.6382056,
+          46.8824837
+        ],
+        [
+          8.6378423,
+          46.8826742
+        ],
+        [
+          8.6377726,
+          46.8826118
+        ],
+        [
+          8.6376945,
+          46.8826471
+        ],
+        [
+          8.6376214,
+          46.8826593
+        ],
+        [
+          8.6376841,
+          46.8827805
+        ],
+        [
+          8.6377484,
+          46.8828428
+        ],
+        [
+          8.6378745,
+          46.8827567
+        ],
+        [
+          8.6379624,
+          46.8828338
+        ],
+        [
+          8.6377671,
+          46.8829305
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/305875553",
   "properties": {
     "amenity": "hospital",
@@ -15239,11 +15401,13 @@
     "addr:city": "Gilly",
     "addr:housenumber": "12",
     "addr:street": "Route du Pavillon",
+    "alt_name": "Spital Gilly, Klinik Gilly",
     "amenity": "hospital",
     "building": "hospital",
     "emergency": "no",
     "healthcare": "hospital",
-    "name": "Hôpital de Gilly",
+    "name": "EHC Hôpital de Gilly",
+    "operator": "Ensemble Hospitalier de la Côte EHC",
     "phone": "+41 21 822 47 00",
     "website": "http://www.ehc-vd.ch/hopital-gilly/",
     "id": "way/445220895"
@@ -26739,6 +26903,7 @@
     "addr:housenumber": "1",
     "addr:postcode": "6924",
     "addr:street": "Via S. Anna",
+    "alt_name": "Klinik Sant Anna, Spital Sant Anna",
     "amenity": "hospital",
     "healthcare": "hospital",
     "name": "Ospedale Sant'Anna",
@@ -27091,10 +27256,13 @@
     "addr:housenumber": "6",
     "addr:postcode": "7272",
     "addr:street": "Klinikstrasse",
+    "alt_name": "Reha Zentrum Davos, Reha Zentrum Clavadel",
     "amenity": "hospital",
     "emergency": "no",
+    "healthcare": "clinic",
     "name": "Zürcher RehaZentren - Klinik Davos",
     "official_name": "Zürcher RehaZentren Klinik Davos",
+    "operator": "Zürcher RahaZentren",
     "id": "way/677017569"
   },
   "geometry": {
@@ -28344,14 +28512,19 @@
     "addr:housenumber": "1",
     "addr:postcode": "1712",
     "addr:street": "Maggenberg",
-    "amenity": "hospital",
+    "alt_name": "Spital Tafers, Klinik Tafers",
+    "amenity": "hospital, Spital Tavel, Klinik Tavel",
     "contact:email": "info@h-fr.ch",
     "contact:fax": "+4126 494 44 21",
     "contact:phone": "+4126 494 44 11",
     "contact:website": "https://www.fr.ch/hfr/",
     "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "HFR Spital Tafers",
     "name:de": "HFR Tafers",
     "name:fr": "HFR Tafers",
+    "operator": "HFR",
+    "phone": "+41 26 306 60 00",
     "id": "way/680278021"
   },
   "geometry": {
@@ -29609,10 +29782,12 @@
     "addr:housenumber": "1",
     "addr:postcode": "1681",
     "addr:street": "Route de l'Hôpital",
+    "alt_name": "Spital Billens, Klinik Billens",
     "amenity": "hospital",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive;rehabilitation",
-    "name": "Hôpital de Billens",
+    "name": "HFR Hôpital de Billens",
+    "operator": "HFR",
     "phone": "+41 26 651 61 11",
     "source": "survey",
     "website": "http://www.h-fr.ch/hfr/de/pub/dashfr/standorte/billens.htm",
@@ -32012,76 +32187,6 @@
         [
           8.9202279,
           47.6460594
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/681088861",
-  "properties": {
-    "addr:city": "Erlenbach im Simmental",
-    "amenity": "hospital",
-    "fixme": "Befindet sich hier das neue Pflegeheim?",
-    "name": "Klinik Erlenbach",
-    "id": "way/681088861"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.5574592,
-          46.662627
-        ],
-        [
-          7.5569442,
-          46.6624226
-        ],
-        [
-          7.5561503,
-          46.6620931
-        ],
-        [
-          7.5560993,
-          46.6620398
-        ],
-        [
-          7.5568637,
-          46.6617434
-        ],
-        [
-          7.5570059,
-          46.6619404
-        ],
-        [
-          7.5571239,
-          46.6619827
-        ],
-        [
-          7.5572446,
-          46.6620011
-        ],
-        [
-          7.5581405,
-          46.6619035
-        ],
-        [
-          7.5582638,
-          46.6624282
-        ],
-        [
-          7.5579205,
-          46.6624908
-        ],
-        [
-          7.5578669,
-          46.6625828
-        ],
-        [
-          7.5574592,
-          46.662627
         ]
       ]
     ]
