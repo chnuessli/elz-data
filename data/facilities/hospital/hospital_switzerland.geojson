@@ -316,278 +316,6 @@
 },
 {
   "type": "Feature",
-  "id": "relation/3437745",
-  "properties": {
-    "amenity": "hospital",
-    "contact:email": "info@pbl.ch",
-    "contact:phone": "+41 61 553 53 53",
-    "contact:website": "http://pbl.ch",
-    "health_specialty:psychiatry": "yes",
-    "name": "Psychiatrie Baselland",
-    "note": "Ich bin nicht sicher, welches Land jetzt wirklich zur Psychiatrie gehört.",
-    "type": "multipolygon",
-    "id": "relation/3437745"
-  },
-  "geometry": {
-    "type": "MultiPolygon",
-    "coordinates": [
-      [
-        [
-          [
-            7.7268612,
-            47.4892572
-          ],
-          [
-            7.7270973,
-            47.4893152
-          ],
-          [
-            7.7275266,
-            47.4891116
-          ],
-          [
-            7.7277171,
-            47.4890556
-          ],
-          [
-            7.7276051,
-            47.4892225
-          ],
-          [
-            7.7275474,
-            47.4893721
-          ],
-          [
-            7.7275021,
-            47.4895146
-          ],
-          [
-            7.7274771,
-            47.4895934
-          ],
-          [
-            7.7274444,
-            47.4897445
-          ],
-          [
-            7.7273739,
-            47.4899121
-          ],
-          [
-            7.7273117,
-            47.4900129
-          ],
-          [
-            7.7271787,
-            47.4901808
-          ],
-          [
-            7.7270641,
-            47.4902846
-          ],
-          [
-            7.726859,
-            47.490472
-          ],
-          [
-            7.7267262,
-            47.4904221
-          ],
-          [
-            7.7264299,
-            47.4903107
-          ],
-          [
-            7.7258954,
-            47.4899953
-          ],
-          [
-            7.725807,
-            47.4899407
-          ],
-          [
-            7.7253191,
-            47.4896262
-          ],
-          [
-            7.7249416,
-            47.4893788
-          ],
-          [
-            7.7256006,
-            47.4887596
-          ],
-          [
-            7.7265491,
-            47.489134
-          ],
-          [
-            7.7266331,
-            47.4891672
-          ],
-          [
-            7.7266917,
-            47.4891903
-          ],
-          [
-            7.7268612,
-            47.4892572
-          ]
-        ]
-      ],
-      [
-        [
-          [
-            7.7209126,
-            47.4897578
-          ],
-          [
-            7.7209049,
-            47.4894438
-          ],
-          [
-            7.7210478,
-            47.489055
-          ],
-          [
-            7.7209667,
-            47.4889527
-          ],
-          [
-            7.7209779,
-            47.4888148
-          ],
-          [
-            7.7210259,
-            47.4886497
-          ],
-          [
-            7.720954,
-            47.4884736
-          ],
-          [
-            7.7202513,
-            47.4881276
-          ],
-          [
-            7.720282,
-            47.4880881
-          ],
-          [
-            7.7203951,
-            47.4879426
-          ],
-          [
-            7.7206385,
-            47.4876296
-          ],
-          [
-            7.7216363,
-            47.4873649
-          ],
-          [
-            7.7221266,
-            47.4875557
-          ],
-          [
-            7.7222282,
-            47.4875952
-          ],
-          [
-            7.7222993,
-            47.4876228
-          ],
-          [
-            7.7230004,
-            47.4878369
-          ],
-          [
-            7.7242109,
-            47.4881826
-          ],
-          [
-            7.7247516,
-            47.488897
-          ],
-          [
-            7.7245098,
-            47.4891159
-          ],
-          [
-            7.7244546,
-            47.4891693
-          ],
-          [
-            7.7237913,
-            47.4891095
-          ],
-          [
-            7.7230889,
-            47.4890998
-          ],
-          [
-            7.7229709,
-            47.4891097
-          ],
-          [
-            7.7227605,
-            47.4891274
-          ],
-          [
-            7.7215504,
-            47.4891013
-          ],
-          [
-            7.7214956,
-            47.4897288
-          ],
-          [
-            7.7216792,
-            47.4897039
-          ],
-          [
-            7.7216926,
-            47.4898942
-          ],
-          [
-            7.7216604,
-            47.49009
-          ],
-          [
-            7.7221969,
-            47.4902875
-          ],
-          [
-            7.7217392,
-            47.4908033
-          ],
-          [
-            7.7217109,
-            47.4908351
-          ],
-          [
-            7.7211976,
-            47.4906832
-          ],
-          [
-            7.7207375,
-            47.4905134
-          ],
-          [
-            7.7208427,
-            47.4899996
-          ],
-          [
-            7.7209126,
-            47.4897578
-          ]
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "relation/8487386",
   "properties": {
     "addr:city": "Zürich",
@@ -3534,7 +3262,11 @@
   "type": "Feature",
   "id": "way/42876491",
   "properties": {
-    "alt_name": "Klinik Sonnenhof",
+    "addr:city": "Bern",
+    "addr:housenumber": "30",
+    "addr:postcode": "3006",
+    "addr:street": "Buchserstrasse",
+    "alt_name": "Klinik Sonnenhof;Spital Sonnenhof",
     "amenity": "hospital",
     "contact:addr": "Buchserstrasse 30, 3006 Bern",
     "contact:email": "sonnenhof@lindenhofgruppe.ch",
@@ -19342,11 +19074,18 @@
   "type": "Feature",
   "id": "way/651753855",
   "properties": {
+    "addr:city": "Chur",
+    "addr:housenumber": "99",
+    "addr:postcode": "7000",
+    "addr:street": "Loëstrasse",
+    "alt_name": "Spital Kreuzspital Chur;Klinik Kreuzspital Chur",
     "amenity": "hospital",
     "contact:phone": "+41 812552111",
     "contact:website": "https://www.ksgr.ch/",
-    "name": "Kreuzspital",
+    "healthcare": "hospital",
+    "name": "Kreuzspital Chur",
     "operator": "Kantonsspital Graubünden",
+    "phone": "+41 81 255 21 11",
     "wheelchair": "yes",
     "id": "way/651753855"
   },
@@ -28965,6 +28704,7 @@
     "addr:street": "Crêt-des-Fleurs / Blumenrain",
     "addr:street:de": "Blumenrain",
     "addr:street:fr": "Crêt-des-Fleurs",
+    "alt_name": "Klinik Linde;Spital Linde",
     "amenity": "hospital",
     "contact:email": "klinik-linde@hirslanden.ch",
     "contact:phone": "+41 32 366 41 11",
@@ -32297,6 +32037,7 @@
     "addr:street": "Rietstrasse",
     "alt_name": "Hirslanden Klinik Belair",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Privatklinik Belair",
     "phone": "+41 52 632 19 00",
     "website": "https://www.hirslanden.ch/de/klinik-belair/home.html",
