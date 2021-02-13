@@ -895,12 +895,19 @@
   "type": "Feature",
   "id": "relation/9638646",
   "properties": {
+    "addr:city": "Unterseen",
+    "addr:housenumber": "27",
+    "addr:postcode": "3800",
+    "addr:street": "Weissenaustrasse",
+    "alt_name": "Spital Interlaken;Klinik Interlaken",
     "amenity": "hospital",
+    "email": "info@spitalfmi.ch",
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "Regionalspital Interlaken",
     "operator": "FMI",
+    "phone": "+41 33 826 26 26",
     "type": "multipolygon",
     "website": "https://www.spitalfmi.ch/index.php?id=2217",
     "wheelchair": "yes",
@@ -1597,8 +1604,11 @@
     "addr:housenumber": "27",
     "addr:postcode": "4012",
     "addr:street": "Wilhelm Klein-Strasse",
+    "alt_name": "Spital Psychiatrische Klinik Basel",
     "amenity": "hospital",
+    "healthcare": "clinic",
     "name": "Universitäre Psychiatrische Kliniken Basel",
+    "operator": "Universitäre Psychiatrische Kliniken (UPK) Basel",
     "phone": "+41 61 325 51 11",
     "short_name": "UPK",
     "website": "https://www.upk.ch/startseite.html",
@@ -3268,7 +3278,6 @@
     "addr:street": "Buchserstrasse",
     "alt_name": "Klinik Sonnenhof;Spital Sonnenhof",
     "amenity": "hospital",
-    "contact:addr": "Buchserstrasse 30, 3006 Bern",
     "contact:email": "sonnenhof@lindenhofgruppe.ch",
     "contact:fax": "+41 31 3581901",
     "contact:phone": "+41 31 3581111",
@@ -6801,154 +6810,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/109922415",
-  "properties": {
-    "amenity": "hospital",
-    "name": "Psychiatrische Privatklinik Wyss AG",
-    "id": "way/109922415"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.4510693,
-          47.0184407
-        ],
-        [
-          7.4508813,
-          47.0184312
-        ],
-        [
-          7.4509808,
-          47.0180684
-        ],
-        [
-          7.4503188,
-          47.0181039
-        ],
-        [
-          7.4498742,
-          47.018196
-        ],
-        [
-          7.4498239,
-          47.0182074
-        ],
-        [
-          7.4489221,
-          47.0183499
-        ],
-        [
-          7.448843,
-          47.0180257
-        ],
-        [
-          7.4487546,
-          47.0176633
-        ],
-        [
-          7.4486239,
-          47.0172635
-        ],
-        [
-          7.4485452,
-          47.0170695
-        ],
-        [
-          7.4484847,
-          47.0168067
-        ],
-        [
-          7.4486641,
-          47.0168145
-        ],
-        [
-          7.449275,
-          47.016749
-        ],
-        [
-          7.4496798,
-          47.0165471
-        ],
-        [
-          7.4501356,
-          47.0161764
-        ],
-        [
-          7.4505696,
-          47.0160761
-        ],
-        [
-          7.4508637,
-          47.0160348
-        ],
-        [
-          7.4509976,
-          47.0160959
-        ],
-        [
-          7.4511333,
-          47.0161385
-        ],
-        [
-          7.4518177,
-          47.0159936
-        ],
-        [
-          7.4517437,
-          47.0164793
-        ],
-        [
-          7.4517291,
-          47.0165754
-        ],
-        [
-          7.4509191,
-          47.0169119
-        ],
-        [
-          7.4513215,
-          47.0176132
-        ],
-        [
-          7.4511284,
-          47.0179176
-        ],
-        [
-          7.4521233,
-          47.0177046
-        ],
-        [
-          7.4520939,
-          47.0181261
-        ],
-        [
-          7.4516862,
-          47.0181847
-        ],
-        [
-          7.4516701,
-          47.0186747
-        ],
-        [
-          7.4513778,
-          47.0186843
-        ],
-        [
-          7.451418,
-          47.018448
-        ],
-        [
-          7.4510693,
-          47.0184407
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/110004582",
   "properties": {
     "addr:city": "Morges",
@@ -8240,6 +8101,7 @@
     "addr:country": "CH",
     "addr:postcode": "1804",
     "addr:street": "Route de Nant",
+    "alt_name": "Klinik de Nant;Spital de Nant",
     "amenity": "hospital",
     "email": "info@nant.ch",
     "healthcare": "hospital",
@@ -11030,10 +10892,18 @@
   "type": "Feature",
   "id": "way/245858881",
   "properties": {
-    "alt_name": "Salemspital",
+    "addr:city": "Bern",
+    "addr:housenumber": "39",
+    "addr:postcode": "3013",
+    "addr:street": "Schänzlistrasse",
+    "alt_name": "Salemspital;Spital Salem;Klinik Salem",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Salem-Spital",
+    "operator": "Hirslanden Gruppe",
+    "phone": "+41 31 337 60 00",
     "toilets:wheelchair": "yes",
+    "website": "https://www.hirslanden.ch/de/salem-spital/home.html",
     "wheelchair": "yes",
     "wikidata": "Q22001404",
     "id": "way/245858881"
@@ -12613,11 +12483,18 @@
   "type": "Feature",
   "id": "way/274849115",
   "properties": {
+    "addr:city": "Brig",
+    "addr:housenumber": "14",
+    "addr:postcode": "3902",
+    "addr:street": "Ueberlandstrasse",
+    "alt_name": "Spital Brig;Klinik Brig",
     "amenity": "hospital",
+    "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
-    "name": "Spitalzentrum Oberwallis",
+    "name": "Spitalzentrum Oberwallis (SZO) Brig",
     "operator": "Hôpital du Valais",
+    "phone": "+41 27 604 33 33",
     "website": "https://www.hopitalvs.ch/de/spital-wallis/standorte/spitalzentrum-oberwallis.html",
     "id": "way/274849115"
   },
@@ -15444,7 +15321,12 @@
   "type": "Feature",
   "id": "way/447694296",
   "properties": {
+    "addr:city": "Thun",
+    "addr:housenumber": "12",
+    "addr:postcode": "3600",
+    "addr:street": "Krankenhausstrasse",
     "amenity": "hospital",
+    "email": "info@spitalstsag.ch",
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
@@ -15645,9 +15527,19 @@
   "type": "Feature",
   "id": "way/447734344",
   "properties": {
+    "addr:city": "Flawil",
+    "addr:housenumber": "23",
+    "addr:postcode": "9230",
+    "addr:street": "Krankenhausstrasse",
+    "alt_name": "Spital Flawil;Klinik Flawil",
     "amenity": "hospital",
+    "email": "flawil.aufnahme@kssg.ch",
     "emergency": "yes",
+    "healthcare": "hospital",
     "name": "Kantonsspital Flawil",
+    "operator": "Kantonsspital St. Gallen",
+    "phone": "+41 71 394 71 11",
+    "website": "https://www.kssg.ch/standorte/standort-flawil",
     "id": "way/447734344"
   },
   "geometry": {
@@ -15864,8 +15756,14 @@
   "type": "Feature",
   "id": "way/454675974",
   "properties": {
+    "addr:city": "Münsingen",
+    "addr:housenumber": "1",
+    "addr:postcode": "3110",
+    "addr:street": "Hunzigenallee",
+    "alt_name": "Spital Psychiatriezentrum Münsingen;Klinik Psychiatriezentrum Münsingen",
     "amenity": "hospital",
     "name": "Psychiatriezentrum Münsingen",
+    "operator": "PZM Psychiatriezentrum Münsingen AG",
     "wikidata": "Q976078",
     "wikipedia": "de:Psychiatriezentrum Münsingen",
     "id": "way/454675974"
@@ -22078,6 +21976,7 @@
     "addr:street": "Pflanzettastrasse",
     "amenity": "hospital",
     "emergency": "yes",
+    "healthcare": "hospital",
     "name": "Spital Visp",
     "phone": "+41 (0)27 970 33 33",
     "toilets:wheelchair": "yes",
@@ -27195,10 +27094,13 @@
   "type": "Feature",
   "id": "way/677015081",
   "properties": {
+    "addr:city": "Cazis",
     "addr:country": "CH",
     "addr:housename": "Klinik Beverin",
+    "addr:housenumber": "17",
     "addr:postcode": "7408",
-    "addr:street": "Realta",
+    "addr:street": "La Nicca Strasse",
+    "alt_name": "Spital Psychiatrisches Dienste Beverin Cazis;Klinik Psychiatrische Dienste",
     "amenity": "hospital",
     "description": "Psychiatrische Dienste Graubünden",
     "email": "info@pdgr.ch",
@@ -29408,7 +29310,13 @@
   "type": "Feature",
   "id": "way/680302059",
   "properties": {
+    "addr:city": "Chamblon",
+    "addr:housenumber": "3",
+    "addr:postcode": "1436",
+    "addr:street": "Route de l'Hôpital",
+    "alt_name": "Spital  Chamblon;Klinik Chamblon",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Hôpital de Chamblon",
     "website": "https://www.ehnv.ch/etablissements/hopital-de-chamblon",
     "id": "way/680302059"
@@ -32461,7 +32369,7 @@
     "addr:housenumber": "111",
     "addr:postcode": "3072",
     "addr:street": "Bolligenstrasse",
-    "alt_name": "Universitätsklinik für Psychiatrie und Psychotherapie Bern",
+    "alt_name": "Universitätsklinik für Psychiatrie und Psychotherapie Bern;Spital Psychiatrische Dienste Bern;Klinik Psychiatrische Dienste Bern",
     "amenity": "hospital",
     "contact:email": "info.upd@gef.be.ch",
     "contact:fax": "+41 31 930 94 04",

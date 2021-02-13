@@ -1822,35 +1822,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/482762658",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "9",
-    "addr:postcode": "8050",
-    "addr:street": "Max-Bill-Platz",
-    "alt_name": "BENU Apotheke Max-Bill-Platz",
-    "amenity": "pharmacy",
-    "branch": "Zürich Oerlikon Nord",
-    "brand": "BENU",
-    "brand:wikidata": "Q62562792",
-    "name": "BENU Apotheke",
-    "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-16:00",
-    "operator": "BENU Pharmacies",
-    "website": "https://www.benu.ch/de/pharmacies/am-max-bill-platz/",
-    "wheelchair": "yes",
-    "id": "node/482762658"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5394611,
-      47.4140505
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/513635042",
   "properties": {
     "addr:city": "Zürich",
