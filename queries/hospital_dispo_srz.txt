@@ -12,7 +12,7 @@ area["ISO3166-2"="CH-ZG"];
 // gather results
 (
 nwr["amenity"="hospital"]["name"!~"^$"](area.searchArea);
-nwr["amenity"="nursing_home"]["name"!~"^$"](area.searchArea);
+nwr["healthcare"="hospital"]["name"!~"^$"](area.searchArea);
 );
 // print results
 out body;
