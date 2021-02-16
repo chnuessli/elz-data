@@ -1,0 +1,1831 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/8319289",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8840",
+    "addr:street": "Allmeindstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Altersheim Langrüti",
+    "social_facility": "nursing_home",
+    "type": "multipolygon",
+    "website": "https://www.langrueti-einsiedeln.ch",
+    "id": "relation/8319289"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7411381,
+          47.1215277
+        ],
+        [
+          8.7413857,
+          47.1213711
+        ],
+        [
+          8.7415236,
+          47.121474
+        ],
+        [
+          8.7412649,
+          47.121635
+        ],
+        [
+          8.7413396,
+          47.1216899
+        ],
+        [
+          8.7414319,
+          47.1217582
+        ],
+        [
+          8.7413737,
+          47.121799
+        ],
+        [
+          8.7414002,
+          47.1218193
+        ],
+        [
+          8.741316,
+          47.1218728
+        ],
+        [
+          8.7412865,
+          47.1218498
+        ],
+        [
+          8.7411286,
+          47.1219469
+        ],
+        [
+          8.7409895,
+          47.1218389
+        ],
+        [
+          8.7411381,
+          47.121743
+        ],
+        [
+          8.7410723,
+          47.1216766
+        ],
+        [
+          8.7409032,
+          47.1216787
+        ],
+        [
+          8.7408978,
+          47.1216893
+        ],
+        [
+          8.7407987,
+          47.1216881
+        ],
+        [
+          8.7407932,
+          47.1216743
+        ],
+        [
+          8.7407554,
+          47.1216766
+        ],
+        [
+          8.7407536,
+          47.1216686
+        ],
+        [
+          8.7406445,
+          47.1216648
+        ],
+        [
+          8.7405828,
+          47.1214846
+        ],
+        [
+          8.7406505,
+          47.1212608
+        ],
+        [
+          8.7410215,
+          47.1212986
+        ],
+        [
+          8.7411381,
+          47.1215277
+        ]
+      ],
+      [
+        [
+          8.7409651,
+          47.1213954
+        ],
+        [
+          8.7407747,
+          47.1214337
+        ],
+        [
+          8.7407837,
+          47.1215322
+        ],
+        [
+          8.7410761,
+          47.1215509
+        ],
+        [
+          8.7409651,
+          47.1213954
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/123273618",
+  "properties": {
+    "addr:housenumber": "14",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "nursing_home",
+    "building": "yes",
+    "name": "Alterszentrum Turm-Matt",
+    "website": "https://www.az-turmmatt.ch/",
+    "id": "way/123273618"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7220133,
+          47.1946667
+        ],
+        [
+          8.7220498,
+          47.1946402
+        ],
+        [
+          8.7220234,
+          47.194618
+        ],
+        [
+          8.7221138,
+          47.1945592
+        ],
+        [
+          8.7221766,
+          47.1946121
+        ],
+        [
+          8.7221942,
+          47.194601
+        ],
+        [
+          8.7224178,
+          47.1947717
+        ],
+        [
+          8.7224052,
+          47.194781
+        ],
+        [
+          8.7224466,
+          47.1948152
+        ],
+        [
+          8.7224429,
+          47.1949193
+        ],
+        [
+          8.7224253,
+          47.1949202
+        ],
+        [
+          8.7224228,
+          47.1949765
+        ],
+        [
+          8.7222947,
+          47.1949739
+        ],
+        [
+          8.7222959,
+          47.1949347
+        ],
+        [
+          8.7222294,
+          47.1949347
+        ],
+        [
+          8.7222319,
+          47.1948323
+        ],
+        [
+          8.7220133,
+          47.1946667
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/123273619",
+  "properties": {
+    "addr:housenumber": "16",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "nursing_home",
+    "building": "yes",
+    "name": "Alterszentrum Turm-Matt",
+    "website": "https://www.az-turmmatt.ch/",
+    "id": "way/123273619"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7214268,
+          47.1944977
+        ],
+        [
+          8.7216454,
+          47.194368
+        ],
+        [
+          8.7217709,
+          47.1944661
+        ],
+        [
+          8.7217583,
+          47.1944737
+        ],
+        [
+          8.7217063,
+          47.1945051
+        ],
+        [
+          8.7216931,
+          47.1945131
+        ],
+        [
+          8.7216906,
+          47.194595
+        ],
+        [
+          8.7218384,
+          47.1946033
+        ],
+        [
+          8.7218576,
+          47.1946044
+        ],
+        [
+          8.7220272,
+          47.1947264
+        ],
+        [
+          8.7220256,
+          47.1947424
+        ],
+        [
+          8.7220196,
+          47.1948041
+        ],
+        [
+          8.7219527,
+          47.1948034
+        ],
+        [
+          8.7219342,
+          47.1948032
+        ],
+        [
+          8.7218702,
+          47.1948442
+        ],
+        [
+          8.7218011,
+          47.1947964
+        ],
+        [
+          8.7217697,
+          47.1947964
+        ],
+        [
+          8.7217421,
+          47.1947682
+        ],
+        [
+          8.72157,
+          47.1947665
+        ],
+        [
+          8.7214306,
+          47.1946803
+        ],
+        [
+          8.7214268,
+          47.1944977
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/170203136",
+  "properties": {
+    "addr:housenumber": "1",
+    "addr:postcode": "8840",
+    "addr:street": "Allmeindstrasse",
+    "amenity": "nursing_home",
+    "building": "yes",
+    "id": "way/170203136"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7412596,
+          47.1219087
+        ],
+        [
+          8.741316,
+          47.1218728
+        ],
+        [
+          8.7414002,
+          47.1218193
+        ],
+        [
+          8.7414248,
+          47.1218037
+        ],
+        [
+          8.7415515,
+          47.1218959
+        ],
+        [
+          8.7415659,
+          47.1218868
+        ],
+        [
+          8.7416796,
+          47.1219697
+        ],
+        [
+          8.7416656,
+          47.1219785
+        ],
+        [
+          8.7417855,
+          47.1220659
+        ],
+        [
+          8.7416199,
+          47.1221711
+        ],
+        [
+          8.7412596,
+          47.1219087
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/174288816",
+  "properties": {
+    "addr:housenumber": "30",
+    "addr:postcode": "8862",
+    "addr:street": "Haslenstrasse",
+    "amenity": "nursing_home",
+    "building": "yes",
+    "name": "BSZ Stiftung",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
+    "website": "http://www.bsz-stiftung.ch/",
+    "id": "way/174288816"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9257302,
+          47.1777719
+        ],
+        [
+          8.9254904,
+          47.1775595
+        ],
+        [
+          8.9263188,
+          47.1771274
+        ],
+        [
+          8.9265586,
+          47.1773398
+        ],
+        [
+          8.9257302,
+          47.1777719
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/190257056",
+  "properties": {
+    "addr:city": "Freienbach",
+    "addr:housenumber": "1",
+    "addr:postcode": "8807",
+    "addr:street": "Pfarrmatte",
+    "amenity": "nursing_home",
+    "building": "yes",
+    "email": "pflegezentren@freienbach.ch",
+    "name": "Pflegezentrum Pfarrmatte",
+    "phone": "+41 55 415 35 35",
+    "id": "way/190257056"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7591923,
+          47.2064071
+        ],
+        [
+          8.7593626,
+          47.2063716
+        ],
+        [
+          8.7594275,
+          47.2065155
+        ],
+        [
+          8.7589535,
+          47.2066141
+        ],
+        [
+          8.7588895,
+          47.2064724
+        ],
+        [
+          8.7590482,
+          47.2064394
+        ],
+        [
+          8.7590188,
+          47.2063743
+        ],
+        [
+          8.7589921,
+          47.2063799
+        ],
+        [
+          8.7588618,
+          47.2060909
+        ],
+        [
+          8.7590612,
+          47.2060494
+        ],
+        [
+          8.7591921,
+          47.2063397
+        ],
+        [
+          8.7591645,
+          47.2063454
+        ],
+        [
+          8.7591923,
+          47.2064071
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/201086275",
+  "properties": {
+    "addr:housenumber": "1",
+    "addr:postcode": "8852",
+    "addr:street": "Engelhofstrasse",
+    "amenity": "nursing_home",
+    "building": "yes",
+    "name": "Seniorenzentrum Engelhof",
+    "id": "way/201086275"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8326795,
+          47.1922475
+        ],
+        [
+          8.8323857,
+          47.1923387
+        ],
+        [
+          8.8325183,
+          47.192536
+        ],
+        [
+          8.8321642,
+          47.1926459
+        ],
+        [
+          8.8320348,
+          47.1924534
+        ],
+        [
+          8.8320917,
+          47.1924357
+        ],
+        [
+          8.8319872,
+          47.1922802
+        ],
+        [
+          8.8320425,
+          47.192263
+        ],
+        [
+          8.8319327,
+          47.1920995
+        ],
+        [
+          8.8321685,
+          47.1920264
+        ],
+        [
+          8.8322543,
+          47.1921541
+        ],
+        [
+          8.8325542,
+          47.192061
+        ],
+        [
+          8.8326795,
+          47.1922475
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/203247128",
+  "properties": {
+    "addr:city": "Siebnen",
+    "addr:housenumber": "9",
+    "addr:postcode": "8854",
+    "addr:street": "Stockbergstrasse",
+    "amenity": "nursing_home",
+    "building": "yes",
+    "name": "Alters- und Pflegezentrum Stockberg",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "wheelchair": "yes",
+    "id": "way/203247128"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9026463,
+          47.1743221
+        ],
+        [
+          8.9026463,
+          47.1740796
+        ],
+        [
+          8.9029816,
+          47.1740741
+        ],
+        [
+          8.9032927,
+          47.1742565
+        ],
+        [
+          8.9032981,
+          47.1743823
+        ],
+        [
+          8.903105,
+          47.1743823
+        ],
+        [
+          8.903105,
+          47.1742911
+        ],
+        [
+          8.9030218,
+          47.1742346
+        ],
+        [
+          8.902767,
+          47.1742382
+        ],
+        [
+          8.9027689,
+          47.1742969
+        ],
+        [
+          8.9027697,
+          47.1743203
+        ],
+        [
+          8.9026463,
+          47.1743221
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/204259924",
+  "properties": {
+    "addr:city": "Goldau",
+    "addr:housenumber": "2",
+    "addr:postcode": "6410",
+    "addr:street": "Mythenstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Alterszentrum Mythenpark",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "way/204259924"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5494395,
+          47.0514101
+        ],
+        [
+          8.549493,
+          47.0513031
+        ],
+        [
+          8.5495539,
+          47.0513176
+        ],
+        [
+          8.5495703,
+          47.0512873
+        ],
+        [
+          8.5495603,
+          47.0512874
+        ],
+        [
+          8.549547,
+          47.0511424
+        ],
+        [
+          8.549565,
+          47.0511425
+        ],
+        [
+          8.5495607,
+          47.051088
+        ],
+        [
+          8.5495276,
+          47.0510797
+        ],
+        [
+          8.5495297,
+          47.0510729
+        ],
+        [
+          8.549476,
+          47.0510592
+        ],
+        [
+          8.5495347,
+          47.0509405
+        ],
+        [
+          8.5495922,
+          47.0509545
+        ],
+        [
+          8.5495952,
+          47.0509477
+        ],
+        [
+          8.5496256,
+          47.0509551
+        ],
+        [
+          8.5496308,
+          47.0509449
+        ],
+        [
+          8.5498329,
+          47.0509929
+        ],
+        [
+          8.5498269,
+          47.0510049
+        ],
+        [
+          8.5498525,
+          47.0510107
+        ],
+        [
+          8.5497883,
+          47.0511388
+        ],
+        [
+          8.549761,
+          47.0511326
+        ],
+        [
+          8.5497653,
+          47.0511671
+        ],
+        [
+          8.5497869,
+          47.0511662
+        ],
+        [
+          8.5498006,
+          47.0513109
+        ],
+        [
+          8.54978,
+          47.0513118
+        ],
+        [
+          8.5497882,
+          47.0513714
+        ],
+        [
+          8.5498488,
+          47.0513879
+        ],
+        [
+          8.5497953,
+          47.0514927
+        ],
+        [
+          8.5494395,
+          47.0514101
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/221044976",
+  "properties": {
+    "addr:city": "Wangen",
+    "addr:housenumber": "24",
+    "addr:postcode": "8855",
+    "addr:street": "Zürcherstrasse",
+    "amenity": "nursing_home",
+    "building": "yes",
+    "name": "Behinderten-Wohnheim Höfli",
+    "phone": "+41 55 450 60 20",
+    "id": "way/221044976"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8912547,
+          47.191707
+        ],
+        [
+          8.8912465,
+          47.1914885
+        ],
+        [
+          8.8915523,
+          47.1914832
+        ],
+        [
+          8.8917545,
+          47.1917249
+        ],
+        [
+          8.8916553,
+          47.1917645
+        ],
+        [
+          8.8915588,
+          47.1916551
+        ],
+        [
+          8.8914097,
+          47.1916577
+        ],
+        [
+          8.8914114,
+          47.1917043
+        ],
+        [
+          8.8912547,
+          47.191707
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/221044977",
+  "properties": {
+    "addr:city": "Wangen",
+    "addr:housenumber": "2",
+    "addr:postcode": "8855",
+    "addr:street": "Hengstackerstrasse",
+    "amenity": "social_facility",
+    "building": "residential",
+    "building:levels": "3",
+    "name": "Seniorenzentrum Brunnenhof",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "way/221044977"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8894627,
+          47.1910323
+        ],
+        [
+          8.8901722,
+          47.1910121
+        ],
+        [
+          8.890168,
+          47.1909442
+        ],
+        [
+          8.890339,
+          47.1909394
+        ],
+        [
+          8.8903525,
+          47.1911579
+        ],
+        [
+          8.8896355,
+          47.1911783
+        ],
+        [
+          8.8896419,
+          47.1912821
+        ],
+        [
+          8.8894784,
+          47.1912867
+        ],
+        [
+          8.8894627,
+          47.1910323
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/251525095",
+  "properties": {
+    "addr:city": "Unteriberg",
+    "addr:housenumber": "9c",
+    "addr:postcode": "8842",
+    "addr:street": "Waagtalstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@aphybrig.ch",
+    "name": "Alters- und Pflegeheim Ybrig",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
+    "phone": "+41(0)55 414 66 00",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "source": "bing;local knowledge",
+    "website": "https://www.aphybrig.ch/",
+    "wheelchair": "yes",
+    "id": "way/251525095"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8033306,
+          47.0585533
+        ],
+        [
+          8.8026997,
+          47.0582261
+        ],
+        [
+          8.8027673,
+          47.0581656
+        ],
+        [
+          8.8025643,
+          47.0580603
+        ],
+        [
+          8.8024498,
+          47.0581628
+        ],
+        [
+          8.8022824,
+          47.058076
+        ],
+        [
+          8.8025501,
+          47.0578364
+        ],
+        [
+          8.8027142,
+          47.0579215
+        ],
+        [
+          8.8026186,
+          47.0580071
+        ],
+        [
+          8.8027155,
+          47.0580574
+        ],
+        [
+          8.8027759,
+          47.0580033
+        ],
+        [
+          8.8031423,
+          47.0581933
+        ],
+        [
+          8.8030635,
+          47.0582637
+        ],
+        [
+          8.8034375,
+          47.0584577
+        ],
+        [
+          8.8033306,
+          47.0585533
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/303065442",
+  "properties": {
+    "addr:city": "Lachen",
+    "addr:housenumber": "3",
+    "addr:postcode": "8853",
+    "addr:street": "Biberzeltenstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Alters- und Pflegeheim Biberzelten",
+    "social_facility": "nursing_home",
+    "source": "bing",
+    "id": "way/303065442"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8596111,
+          47.1960476
+        ],
+        [
+          8.8597102,
+          47.1958811
+        ],
+        [
+          8.8597268,
+          47.1958857
+        ],
+        [
+          8.8597753,
+          47.1958042
+        ],
+        [
+          8.8597586,
+          47.1957996
+        ],
+        [
+          8.8600572,
+          47.1957172
+        ],
+        [
+          8.8599867,
+          47.1956105
+        ],
+        [
+          8.8601712,
+          47.1955571
+        ],
+        [
+          8.860327,
+          47.1958022
+        ],
+        [
+          8.8601327,
+          47.1958588
+        ],
+        [
+          8.8601252,
+          47.195847
+        ],
+        [
+          8.8598699,
+          47.1959214
+        ],
+        [
+          8.8598774,
+          47.1959332
+        ],
+        [
+          8.859861,
+          47.1959596
+        ],
+        [
+          8.859977,
+          47.1959905
+        ],
+        [
+          8.8599057,
+          47.1961084
+        ],
+        [
+          8.8597871,
+          47.1960775
+        ],
+        [
+          8.8597788,
+          47.1960913
+        ],
+        [
+          8.8596111,
+          47.1960476
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/323477074",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8840",
+    "addr:street": "Gerbestrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Alters- und Pflegeheim Gerbe",
+    "phone": "+41 55 418 73 73",
+    "social_facility": "nursing_home",
+    "source": "bing",
+    "website": "http://www.aph-gerbe.ch",
+    "wheelchair": "yes",
+    "id": "way/323477074"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7499011,
+          47.1328133
+        ],
+        [
+          8.7498969,
+          47.1328002
+        ],
+        [
+          8.7498569,
+          47.1328061
+        ],
+        [
+          8.7498651,
+          47.1328318
+        ],
+        [
+          8.7497999,
+          47.1328403
+        ],
+        [
+          8.7497647,
+          47.1327518
+        ],
+        [
+          8.749721,
+          47.1327599
+        ],
+        [
+          8.7496566,
+          47.1325574
+        ],
+        [
+          8.749578,
+          47.132323
+        ],
+        [
+          8.7495075,
+          47.1321019
+        ],
+        [
+          8.7496256,
+          47.1320845
+        ],
+        [
+          8.749616,
+          47.1320545
+        ],
+        [
+          8.7497903,
+          47.1320288
+        ],
+        [
+          8.7498648,
+          47.1322623
+        ],
+        [
+          8.7499413,
+          47.132251
+        ],
+        [
+          8.7499493,
+          47.1322762
+        ],
+        [
+          8.7499614,
+          47.1323141
+        ],
+        [
+          8.7500578,
+          47.1326164
+        ],
+        [
+          8.7500714,
+          47.1326592
+        ],
+        [
+          8.7500245,
+          47.1326661
+        ],
+        [
+          8.750041,
+          47.1327178
+        ],
+        [
+          8.7500641,
+          47.1327144
+        ],
+        [
+          8.7500869,
+          47.1327859
+        ],
+        [
+          8.7499011,
+          47.1328133
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/355779426",
+  "properties": {
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Pflegeheim St. Anna",
+    "social_facility": "nursing_home",
+    "id": "way/355779426"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5841014,
+          47.0529963
+        ],
+        [
+          8.5842602,
+          47.0529189
+        ],
+        [
+          8.5845378,
+          47.0531833
+        ],
+        [
+          8.5846671,
+          47.0531203
+        ],
+        [
+          8.5847985,
+          47.0532454
+        ],
+        [
+          8.5845103,
+          47.0533859
+        ],
+        [
+          8.5841014,
+          47.0529963
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/466721100",
+  "properties": {
+    "addr:city": "Schwyz",
+    "addr:housenumber": "32a",
+    "addr:postcode": "6430",
+    "addr:street": "Grundstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Alterszentrum Acherhof",
+    "operator": "Trägerschaft Stiftung Acherhof",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "wheelchair": "yes",
+    "id": "way/466721100"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6569657,
+          47.0187056
+        ],
+        [
+          8.6567991,
+          47.0186589
+        ],
+        [
+          8.6566924,
+          47.0185119
+        ],
+        [
+          8.6567228,
+          47.0184523
+        ],
+        [
+          8.6566808,
+          47.0184423
+        ],
+        [
+          8.6565827,
+          47.0186346
+        ],
+        [
+          8.656287,
+          47.0185645
+        ],
+        [
+          8.6564399,
+          47.0182649
+        ],
+        [
+          8.6567372,
+          47.0183354
+        ],
+        [
+          8.6566997,
+          47.0184089
+        ],
+        [
+          8.6567499,
+          47.0184208
+        ],
+        [
+          8.6568802,
+          47.0181655
+        ],
+        [
+          8.6570028,
+          47.0181305
+        ],
+        [
+          8.6573367,
+          47.0182012
+        ],
+        [
+          8.6572778,
+          47.0183306
+        ],
+        [
+          8.6570617,
+          47.0182849
+        ],
+        [
+          8.6569711,
+          47.0184836
+        ],
+        [
+          8.6570166,
+          47.0185362
+        ],
+        [
+          8.6570521,
+          47.0185458
+        ],
+        [
+          8.6569657,
+          47.0187056
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/577490055",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:country": "CH",
+    "addr:housename": "Haus 4",
+    "addr:housenumber": "43",
+    "addr:postcode": "8840",
+    "addr:street": "Benzigerstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "social_facility": "nursing_home",
+    "id": "way/577490055"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.749721,
+          47.1327599
+        ],
+        [
+          8.7494859,
+          47.1328032
+        ],
+        [
+          8.7494215,
+          47.132611
+        ],
+        [
+          8.7492961,
+          47.1326303
+        ],
+        [
+          8.7492785,
+          47.1325775
+        ],
+        [
+          8.7492624,
+          47.1325294
+        ],
+        [
+          8.7492961,
+          47.1325242
+        ],
+        [
+          8.7492346,
+          47.1323398
+        ],
+        [
+          8.7493634,
+          47.1323199
+        ],
+        [
+          8.7493748,
+          47.132354
+        ],
+        [
+          8.7494552,
+          47.1323416
+        ],
+        [
+          8.749578,
+          47.132323
+        ],
+        [
+          8.7496566,
+          47.1325574
+        ],
+        [
+          8.749721,
+          47.1327599
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/577760965",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:country": "CH",
+    "addr:housename": "Haus 3",
+    "addr:housenumber": "47",
+    "addr:postcode": "8840",
+    "addr:street": "Benzigerstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "social_facility": "nursing_home",
+    "id": "way/577760965"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7494859,
+          47.1328032
+        ],
+        [
+          8.749721,
+          47.1327599
+        ],
+        [
+          8.7497647,
+          47.1327518
+        ],
+        [
+          8.7497999,
+          47.1328403
+        ],
+        [
+          8.74966,
+          47.1328661
+        ],
+        [
+          8.7497217,
+          47.1330212
+        ],
+        [
+          8.7493232,
+          47.1330946
+        ],
+        [
+          8.7492761,
+          47.1329764
+        ],
+        [
+          8.7493368,
+          47.1329652
+        ],
+        [
+          8.7492758,
+          47.1328118
+        ],
+        [
+          8.7494073,
+          47.1327876
+        ],
+        [
+          8.7494185,
+          47.1328156
+        ],
+        [
+          8.7494859,
+          47.1328032
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/630758120",
+  "properties": {
+    "addr:housenumber": "15",
+    "addr:street": "Immo-Strasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Altersheim Sunnehof",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "way/630758120"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4628819,
+          47.0990741
+        ],
+        [
+          8.4628861,
+          47.0990819
+        ],
+        [
+          8.4630987,
+          47.0990673
+        ],
+        [
+          8.4631318,
+          47.0992762
+        ],
+        [
+          8.4633837,
+          47.0992995
+        ],
+        [
+          8.4633981,
+          47.0992271
+        ],
+        [
+          8.4635519,
+          47.0992414
+        ],
+        [
+          8.4635376,
+          47.0993129
+        ],
+        [
+          8.4637679,
+          47.0993342
+        ],
+        [
+          8.4637241,
+          47.099553
+        ],
+        [
+          8.4630175,
+          47.0994877
+        ],
+        [
+          8.4630262,
+          47.0994444
+        ],
+        [
+          8.4629421,
+          47.0994367
+        ],
+        [
+          8.4628819,
+          47.0990741
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/647029206",
+  "properties": {
+    "addr:city": "Gersau",
+    "addr:housenumber": "4",
+    "addr:postcode": "6442",
+    "addr:street": "Kerngasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@rosenpark-gersau.ch",
+    "name": "Alters- und Pflegeheim Rosenpark",
+    "phone": "041 829 81 84",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://rosenparkgersau.ch/",
+    "wheelchair": "yes",
+    "id": "way/647029206"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5218917,
+          46.9935406
+        ],
+        [
+          8.5218954,
+          46.9934021
+        ],
+        [
+          8.5227001,
+          46.9934122
+        ],
+        [
+          8.5226963,
+          46.9935507
+        ],
+        [
+          8.5218917,
+          46.9935406
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/779317116",
+  "properties": {
+    "addr:housenumber": "1a",
+    "addr:street": "Postgasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Pflegewohngruppe Pöstli",
+    "phone": "+41 55 446 14 14",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "wheelchair": "yes",
+    "id": "way/779317116"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8983038,
+          47.1228578
+        ],
+        [
+          8.8981258,
+          47.1227963
+        ],
+        [
+          8.898197,
+          47.1227009
+        ],
+        [
+          8.8983751,
+          47.1227624
+        ],
+        [
+          8.8983038,
+          47.1228578
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/779317117",
+  "properties": {
+    "addr:housenumber": "1b",
+    "addr:street": "Postgasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Pflegewohngruppe Pöstli",
+    "phone": "+41 55 446 14 14",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "wheelchair": "yes",
+    "id": "way/779317117"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8981555,
+          47.1226166
+        ],
+        [
+          8.8980166,
+          47.1225668
+        ],
+        [
+          8.8980926,
+          47.1224618
+        ],
+        [
+          8.8981479,
+          47.1224529
+        ],
+        [
+          8.8982476,
+          47.1224911
+        ],
+        [
+          8.8981555,
+          47.1226166
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5670151745",
+  "properties": {
+    "amenity": "nursing_home",
+    "name": "Seematt",
+    "id": "node/5670151745"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4373444,
+      47.0763127
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5829240341",
+  "properties": {
+    "addr:city": "Feusisberg",
+    "addr:housenumber": "55",
+    "addr:postcode": "8835",
+    "addr:street": "Dorfstrasse",
+    "amenity": "social_facility",
+    "name": "Alterzentrum am Etzel",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "node/5829240341"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7505566,
+      47.1877107
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7096245524",
+  "properties": {
+    "amenity": "social_facility",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
+    "operator": "BSZ Stiftung",
+    "social_facility": "group_home",
+    "social_facility:for": "disabled",
+    "id": "node/7096245524"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7426194,
+      47.1275987
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7578312015",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Alters- und Pflegeheim zur Rose",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "wheelchair": "yes",
+    "id": "node/7578312015"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9751948,
+      47.1706647
+    ]
+  }
+}
+]
+}
