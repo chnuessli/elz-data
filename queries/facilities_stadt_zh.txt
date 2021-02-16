@@ -8,9 +8,7 @@ area[name="Zürich"]["wikipedia"="de:Zürich"];
 (
 nwr["social_facility"="nursing_home"]["name"!~"^$"](area.searchArea);
 nwr["social_facility"="group_home"]["name"!~"^$"](area.searchArea);
-nwr["amenity"="hospital"]["name"!~"^$"](area.searchArea);
 nwr["amenity"="nursing_home"]["name"!~"^$"](area.searchArea);
-nwr["healthcare"="hospital"]["name"!~"^$"](area.searchArea);
 );
 // print results
 out body;

@@ -6,9 +6,7 @@ area["ISO3166-2"="CH-ZH"];
 // gather results
 (
   // query part for: “amenity=fire_station”
-  node["amenity"="police"](area.searchArea);
-  way["amenity"="police"](area.searchArea);
-  relation["amenity"="police"](area.searchArea);
+  nwr["amenity"="police"](area.searchArea);
 );
 // print results
 out body;
