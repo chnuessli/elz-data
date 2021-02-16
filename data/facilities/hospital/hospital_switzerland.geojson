@@ -316,278 +316,6 @@
 },
 {
   "type": "Feature",
-  "id": "relation/3437745",
-  "properties": {
-    "amenity": "hospital",
-    "contact:email": "info@pbl.ch",
-    "contact:phone": "+41 61 553 53 53",
-    "contact:website": "http://pbl.ch",
-    "health_specialty:psychiatry": "yes",
-    "name": "Psychiatrie Baselland",
-    "note": "Ich bin nicht sicher, welches Land jetzt wirklich zur Psychiatrie gehört.",
-    "type": "multipolygon",
-    "id": "relation/3437745"
-  },
-  "geometry": {
-    "type": "MultiPolygon",
-    "coordinates": [
-      [
-        [
-          [
-            7.7268612,
-            47.4892572
-          ],
-          [
-            7.7270973,
-            47.4893152
-          ],
-          [
-            7.7275266,
-            47.4891116
-          ],
-          [
-            7.7277171,
-            47.4890556
-          ],
-          [
-            7.7276051,
-            47.4892225
-          ],
-          [
-            7.7275474,
-            47.4893721
-          ],
-          [
-            7.7275021,
-            47.4895146
-          ],
-          [
-            7.7274771,
-            47.4895934
-          ],
-          [
-            7.7274444,
-            47.4897445
-          ],
-          [
-            7.7273739,
-            47.4899121
-          ],
-          [
-            7.7273117,
-            47.4900129
-          ],
-          [
-            7.7271787,
-            47.4901808
-          ],
-          [
-            7.7270641,
-            47.4902846
-          ],
-          [
-            7.726859,
-            47.490472
-          ],
-          [
-            7.7267262,
-            47.4904221
-          ],
-          [
-            7.7264299,
-            47.4903107
-          ],
-          [
-            7.7258954,
-            47.4899953
-          ],
-          [
-            7.725807,
-            47.4899407
-          ],
-          [
-            7.7253191,
-            47.4896262
-          ],
-          [
-            7.7249416,
-            47.4893788
-          ],
-          [
-            7.7256006,
-            47.4887596
-          ],
-          [
-            7.7265491,
-            47.489134
-          ],
-          [
-            7.7266331,
-            47.4891672
-          ],
-          [
-            7.7266917,
-            47.4891903
-          ],
-          [
-            7.7268612,
-            47.4892572
-          ]
-        ]
-      ],
-      [
-        [
-          [
-            7.7209126,
-            47.4897578
-          ],
-          [
-            7.7209049,
-            47.4894438
-          ],
-          [
-            7.7210478,
-            47.489055
-          ],
-          [
-            7.7209667,
-            47.4889527
-          ],
-          [
-            7.7209779,
-            47.4888148
-          ],
-          [
-            7.7210259,
-            47.4886497
-          ],
-          [
-            7.720954,
-            47.4884736
-          ],
-          [
-            7.7202513,
-            47.4881276
-          ],
-          [
-            7.720282,
-            47.4880881
-          ],
-          [
-            7.7203951,
-            47.4879426
-          ],
-          [
-            7.7206385,
-            47.4876296
-          ],
-          [
-            7.7216363,
-            47.4873649
-          ],
-          [
-            7.7221266,
-            47.4875557
-          ],
-          [
-            7.7222282,
-            47.4875952
-          ],
-          [
-            7.7222993,
-            47.4876228
-          ],
-          [
-            7.7230004,
-            47.4878369
-          ],
-          [
-            7.7242109,
-            47.4881826
-          ],
-          [
-            7.7247516,
-            47.488897
-          ],
-          [
-            7.7245098,
-            47.4891159
-          ],
-          [
-            7.7244546,
-            47.4891693
-          ],
-          [
-            7.7237913,
-            47.4891095
-          ],
-          [
-            7.7230889,
-            47.4890998
-          ],
-          [
-            7.7229709,
-            47.4891097
-          ],
-          [
-            7.7227605,
-            47.4891274
-          ],
-          [
-            7.7215504,
-            47.4891013
-          ],
-          [
-            7.7214956,
-            47.4897288
-          ],
-          [
-            7.7216792,
-            47.4897039
-          ],
-          [
-            7.7216926,
-            47.4898942
-          ],
-          [
-            7.7216604,
-            47.49009
-          ],
-          [
-            7.7221969,
-            47.4902875
-          ],
-          [
-            7.7217392,
-            47.4908033
-          ],
-          [
-            7.7217109,
-            47.4908351
-          ],
-          [
-            7.7211976,
-            47.4906832
-          ],
-          [
-            7.7207375,
-            47.4905134
-          ],
-          [
-            7.7208427,
-            47.4899996
-          ],
-          [
-            7.7209126,
-            47.4897578
-          ]
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "relation/8487386",
   "properties": {
     "addr:city": "Zürich",
@@ -1167,12 +895,19 @@
   "type": "Feature",
   "id": "relation/9638646",
   "properties": {
+    "addr:city": "Unterseen",
+    "addr:housenumber": "27",
+    "addr:postcode": "3800",
+    "addr:street": "Weissenaustrasse",
+    "alt_name": "Spital Interlaken;Klinik Interlaken",
     "amenity": "hospital",
+    "email": "info@spitalfmi.ch",
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "Regionalspital Interlaken",
     "operator": "FMI",
+    "phone": "+41 33 826 26 26",
     "type": "multipolygon",
     "website": "https://www.spitalfmi.ch/index.php?id=2217",
     "wheelchair": "yes",
@@ -1869,8 +1604,11 @@
     "addr:housenumber": "27",
     "addr:postcode": "4012",
     "addr:street": "Wilhelm Klein-Strasse",
+    "alt_name": "Spital Psychiatrische Klinik Basel",
     "amenity": "hospital",
+    "healthcare": "clinic",
     "name": "Universitäre Psychiatrische Kliniken Basel",
+    "operator": "Universitäre Psychiatrische Kliniken (UPK) Basel",
     "phone": "+41 61 325 51 11",
     "short_name": "UPK",
     "website": "https://www.upk.ch/startseite.html",
@@ -2557,7 +2295,8 @@
     "addr:country": "CH",
     "addr:housenumber": "45",
     "addr:postcode": "2000",
-    "addr:street": "Maladière",
+    "addr:street": "Rue de la Maladière 45",
+    "alt_name": "Spital Neuenburg;Spital Neuchatel",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
@@ -3533,9 +3272,12 @@
   "type": "Feature",
   "id": "way/42876491",
   "properties": {
-    "alt_name": "Klinik Sonnenhof",
+    "addr:city": "Bern",
+    "addr:housenumber": "30",
+    "addr:postcode": "3006",
+    "addr:street": "Buchserstrasse",
+    "alt_name": "Klinik Sonnenhof;Spital Sonnenhof",
     "amenity": "hospital",
-    "contact:addr": "Buchserstrasse 30, 3006 Bern",
     "contact:email": "sonnenhof@lindenhofgruppe.ch",
     "contact:fax": "+41 31 3581901",
     "contact:phone": "+41 31 3581111",
@@ -3830,9 +3572,14 @@
   "type": "Feature",
   "id": "way/45750557",
   "properties": {
+    "addr:city": "Walenstadt",
+    "addr:housenumber": "5",
+    "addr:postcode": "8880",
+    "addr:street": "Spitalstrasse",
     "amenity": "hospital",
     "emergency": "yes",
     "name": "Spital Walenstadt",
+    "operator": "Spitalregion Rheintal Werdenberg Sarganserland",
     "id": "way/45750557"
   },
   "geometry": {
@@ -3923,10 +3670,17 @@
   "type": "Feature",
   "id": "way/46102298",
   "properties": {
+    "addr:city": "Bern",
+    "addr:housenumber": "11",
+    "addr:postcode": "3013",
+    "addr:street": "Schänzlihalde",
+    "alt_name": "Spital Beau-Site",
     "amenity": "hospital",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "Klinik Beau-Site",
+    "operator": "Hirslanden Gruppe",
+    "phone": "+41 31 335 33 33",
     "website": "https://www.hirslanden.ch/de/klinik-beau-site/home.html",
     "wheelchair": "yes",
     "wikidata": "Q27926550",
@@ -4701,6 +4455,7 @@
     "addr:housenumber": "20",
     "addr:postcode": "2300",
     "addr:street": "Rue de Chasseral",
+    "alt_name": "Spital La Chaux-de-Fonds",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
@@ -6407,6 +6162,11 @@
   "type": "Feature",
   "id": "way/87504249",
   "properties": {
+    "addr:city": "Thônex",
+    "addr:housenumber": "3",
+    "addr:postcode": "1226",
+    "addr:street": "Chemin du Pont-Bochet",
+    "alt_name": "Spital Thônex",
     "amenity": "hospital",
     "description": "Gériatrie",
     "healthcare": "hospital",
@@ -7043,154 +6803,6 @@
         [
           7.4296274,
           46.9580658
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/109922415",
-  "properties": {
-    "amenity": "hospital",
-    "name": "Psychiatrische Privatklinik Wyss AG",
-    "id": "way/109922415"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.4510693,
-          47.0184407
-        ],
-        [
-          7.4508813,
-          47.0184312
-        ],
-        [
-          7.4509808,
-          47.0180684
-        ],
-        [
-          7.4503188,
-          47.0181039
-        ],
-        [
-          7.4498742,
-          47.018196
-        ],
-        [
-          7.4498239,
-          47.0182074
-        ],
-        [
-          7.4489221,
-          47.0183499
-        ],
-        [
-          7.448843,
-          47.0180257
-        ],
-        [
-          7.4487546,
-          47.0176633
-        ],
-        [
-          7.4486239,
-          47.0172635
-        ],
-        [
-          7.4485452,
-          47.0170695
-        ],
-        [
-          7.4484847,
-          47.0168067
-        ],
-        [
-          7.4486641,
-          47.0168145
-        ],
-        [
-          7.449275,
-          47.016749
-        ],
-        [
-          7.4496798,
-          47.0165471
-        ],
-        [
-          7.4501356,
-          47.0161764
-        ],
-        [
-          7.4505696,
-          47.0160761
-        ],
-        [
-          7.4508637,
-          47.0160348
-        ],
-        [
-          7.4509976,
-          47.0160959
-        ],
-        [
-          7.4511333,
-          47.0161385
-        ],
-        [
-          7.4518177,
-          47.0159936
-        ],
-        [
-          7.4517437,
-          47.0164793
-        ],
-        [
-          7.4517291,
-          47.0165754
-        ],
-        [
-          7.4509191,
-          47.0169119
-        ],
-        [
-          7.4513215,
-          47.0176132
-        ],
-        [
-          7.4511284,
-          47.0179176
-        ],
-        [
-          7.4521233,
-          47.0177046
-        ],
-        [
-          7.4520939,
-          47.0181261
-        ],
-        [
-          7.4516862,
-          47.0181847
-        ],
-        [
-          7.4516701,
-          47.0186747
-        ],
-        [
-          7.4513778,
-          47.0186843
-        ],
-        [
-          7.451418,
-          47.018448
-        ],
-        [
-          7.4510693,
-          47.0184407
         ]
       ]
     ]
@@ -8489,6 +8101,7 @@
     "addr:country": "CH",
     "addr:postcode": "1804",
     "addr:street": "Route de Nant",
+    "alt_name": "Klinik de Nant;Spital de Nant",
     "amenity": "hospital",
     "email": "info@nant.ch",
     "healthcare": "hospital",
@@ -8975,6 +8588,10 @@
   "type": "Feature",
   "id": "way/170327038",
   "properties": {
+    "addr:city": "Barmelweid",
+    "addr:postcode": "5017",
+    "addr:street": "Klinik Barmelweid",
+    "alt_name": "Spital Barmelweid",
     "amenity": "hospital",
     "emergency": "no",
     "name": "Klinik Barmelweid",
@@ -9665,6 +9282,7 @@
     "addr:housenumber": "3",
     "addr:postcode": "1530",
     "addr:street": "Avenue de la Colline",
+    "alt_name": "Spital Payerne;Spital la Broye Payerne",
     "amenity": "hospital",
     "building": "hospital",
     "emergency": "yes",
@@ -11274,10 +10892,18 @@
   "type": "Feature",
   "id": "way/245858881",
   "properties": {
-    "alt_name": "Salemspital",
+    "addr:city": "Bern",
+    "addr:housenumber": "39",
+    "addr:postcode": "3013",
+    "addr:street": "Schänzlistrasse",
+    "alt_name": "Salemspital;Spital Salem;Klinik Salem",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Salem-Spital",
+    "operator": "Hirslanden Gruppe",
+    "phone": "+41 31 337 60 00",
     "toilets:wheelchair": "yes",
+    "website": "https://www.hirslanden.ch/de/salem-spital/home.html",
     "wheelchair": "yes",
     "wikidata": "Q22001404",
     "id": "way/245858881"
@@ -12020,13 +11646,18 @@
   "type": "Feature",
   "id": "way/254959544",
   "properties": {
+    "addr:city": "Liestal",
+    "addr:housenumber": "26",
+    "addr:postcode": "4410",
+    "addr:street": "Rheinstrasse",
+    "alt_name": "Spital Baselland Liestal;Spital Liestal",
     "amenity": "hospital",
     "contact:phone": "+41 61 925 31 02",
     "contact:website": "http://www.ksbl.ch/das-ksbl/standorte/der-standort-liestal",
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
-    "name": "Kantonsspital Liestal",
+    "name": "Kantonsspital Baselland Liestal",
     "wheelchair": "yes",
     "id": "way/254959544"
   },
@@ -12643,13 +12274,227 @@
 },
 {
   "type": "Feature",
-  "id": "way/274849115",
+  "id": "way/273756542",
   "properties": {
+    "addr:city": "Nyon",
+    "addr:housenumber": "8",
+    "addr:postcode": "1260",
+    "addr:street": "Chemin Monastier",
+    "alt_name": "Spital Nyon",
     "amenity": "hospital",
     "healthcare": "hospital",
+    "name": "Hôpital de Nyon",
+    "phone": "+41 58 773 55 55",
+    "id": "way/273756542"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.227296,
+          46.3831911
+        ],
+        [
+          6.2272861,
+          46.3832059
+        ],
+        [
+          6.2273215,
+          46.383217
+        ],
+        [
+          6.2273265,
+          46.3832095
+        ],
+        [
+          6.2273744,
+          46.3832239
+        ],
+        [
+          6.2274194,
+          46.3832382
+        ],
+        [
+          6.2274338,
+          46.383215
+        ],
+        [
+          6.2277581,
+          46.3833144
+        ],
+        [
+          6.2278947,
+          46.3831044
+        ],
+        [
+          6.2279326,
+          46.3831162
+        ],
+        [
+          6.2278107,
+          46.3833017
+        ],
+        [
+          6.2278955,
+          46.3833301
+        ],
+        [
+          6.2279287,
+          46.3832689
+        ],
+        [
+          6.2281379,
+          46.3833362
+        ],
+        [
+          6.2279649,
+          46.3836254
+        ],
+        [
+          6.2278963,
+          46.3836036
+        ],
+        [
+          6.227927,
+          46.3835563
+        ],
+        [
+          6.2278107,
+          46.3835212
+        ],
+        [
+          6.2275973,
+          46.3838615
+        ],
+        [
+          6.2269809,
+          46.3836771
+        ],
+        [
+          6.2271187,
+          46.3834653
+        ],
+        [
+          6.2271642,
+          46.3834798
+        ],
+        [
+          6.2272584,
+          46.383324
+        ],
+        [
+          6.2269629,
+          46.3832343
+        ],
+        [
+          6.2269548,
+          46.3832472
+        ],
+        [
+          6.2267764,
+          46.3831926
+        ],
+        [
+          6.2267715,
+          46.3832004
+        ],
+        [
+          6.2265697,
+          46.3831374
+        ],
+        [
+          6.2265866,
+          46.383109
+        ],
+        [
+          6.2265567,
+          46.3830996
+        ],
+        [
+          6.2265802,
+          46.3830617
+        ],
+        [
+          6.22661,
+          46.38307
+        ],
+        [
+          6.2266343,
+          46.3830299
+        ],
+        [
+          6.2268498,
+          46.3830968
+        ],
+        [
+          6.2268765,
+          46.383055
+        ],
+        [
+          6.2269766,
+          46.3830856
+        ],
+        [
+          6.227,
+          46.3830494
+        ],
+        [
+          6.2267844,
+          46.3829815
+        ],
+        [
+          6.2268507,
+          46.3828773
+        ],
+        [
+          6.2271478,
+          46.3829698
+        ],
+        [
+          6.22708,
+          46.3830734
+        ],
+        [
+          6.2270275,
+          46.3830572
+        ],
+        [
+          6.2269798,
+          46.3831296
+        ],
+        [
+          6.2270113,
+          46.3831391
+        ],
+        [
+          6.2270299,
+          46.3831101
+        ],
+        [
+          6.227296,
+          46.3831911
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/274849115",
+  "properties": {
+    "addr:city": "Brig",
+    "addr:housenumber": "14",
+    "addr:postcode": "3902",
+    "addr:street": "Ueberlandstrasse",
+    "alt_name": "Spital Brig;Klinik Brig",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
     "healthcare:speciality": "intensive",
-    "name": "Spitalzentrum Oberwallis",
+    "name": "Spitalzentrum Oberwallis (SZO) Brig",
     "operator": "Hôpital du Valais",
+    "phone": "+41 27 604 33 33",
     "website": "https://www.hopitalvs.ch/de/spital-wallis/standorte/spitalzentrum-oberwallis.html",
     "id": "way/274849115"
   },
@@ -15476,7 +15321,12 @@
   "type": "Feature",
   "id": "way/447694296",
   "properties": {
+    "addr:city": "Thun",
+    "addr:housenumber": "12",
+    "addr:postcode": "3600",
+    "addr:street": "Krankenhausstrasse",
     "amenity": "hospital",
+    "email": "info@spitalstsag.ch",
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
@@ -15677,9 +15527,19 @@
   "type": "Feature",
   "id": "way/447734344",
   "properties": {
+    "addr:city": "Flawil",
+    "addr:housenumber": "23",
+    "addr:postcode": "9230",
+    "addr:street": "Krankenhausstrasse",
+    "alt_name": "Spital Flawil;Klinik Flawil",
     "amenity": "hospital",
+    "email": "flawil.aufnahme@kssg.ch",
     "emergency": "yes",
+    "healthcare": "hospital",
     "name": "Kantonsspital Flawil",
+    "operator": "Kantonsspital St. Gallen",
+    "phone": "+41 71 394 71 11",
+    "website": "https://www.kssg.ch/standorte/standort-flawil",
     "id": "way/447734344"
   },
   "geometry": {
@@ -15749,6 +15609,7 @@
     "addr:city": "Estavayer-le-Lac",
     "addr:postcode": "1470",
     "addr:street": "Rue de la Rochette",
+    "alt_name": "Spital Estavayer-le-Lac;Spital de la Broye Estavayer-le-Lac;Spital Broye Estavayer-le-Lac",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
@@ -15895,8 +15756,14 @@
   "type": "Feature",
   "id": "way/454675974",
   "properties": {
+    "addr:city": "Münsingen",
+    "addr:housenumber": "1",
+    "addr:postcode": "3110",
+    "addr:street": "Hunzigenallee",
+    "alt_name": "Spital Psychiatriezentrum Münsingen;Klinik Psychiatriezentrum Münsingen",
     "amenity": "hospital",
     "name": "Psychiatriezentrum Münsingen",
+    "operator": "PZM Psychiatriezentrum Münsingen AG",
     "wikidata": "Q976078",
     "wikipedia": "de:Psychiatriezentrum Münsingen",
     "id": "way/454675974"
@@ -19105,11 +18972,18 @@
   "type": "Feature",
   "id": "way/651753855",
   "properties": {
+    "addr:city": "Chur",
+    "addr:housenumber": "99",
+    "addr:postcode": "7000",
+    "addr:street": "Loëstrasse",
+    "alt_name": "Spital Kreuzspital Chur;Klinik Kreuzspital Chur",
     "amenity": "hospital",
     "contact:phone": "+41 812552111",
     "contact:website": "https://www.ksgr.ch/",
-    "name": "Kreuzspital",
+    "healthcare": "hospital",
+    "name": "Kreuzspital Chur",
     "operator": "Kantonsspital Graubünden",
+    "phone": "+41 81 255 21 11",
     "wheelchair": "yes",
     "id": "way/651753855"
   },
@@ -20181,9 +20055,9 @@
     "addr:housenumber": "2",
     "addr:postcode": "9050",
     "addr:street": "Sonnhalde",
-    "alt_name": "Spital Appenzell",
+    "alt_name": "Spital Appenzell;Kantonsspital Appenzell",
     "amenity": "hospital",
-    "name": "Kantonales Spital Appenzell",
+    "name": "Kantonales Spital und Pflegezentrum Appenzell",
     "phone": "+41 71 788 75 75",
     "website": "https://www.kspz-ai.ch/spital/portrait",
     "id": "way/673836557"
@@ -20820,6 +20694,7 @@
     "addr:housenumber": "13",
     "addr:postcode": "1004",
     "addr:street": "Avenue de France",
+    "alt_name": "Krankenhaus Jules-Gonin;Spital Jules-Gonin",
     "amenity": "hospital",
     "copyright": "OpenAddresses",
     "name": "Asile des aveugles Fondation Hôpital ophtalmique Jules-Gonin",
@@ -21831,7 +21706,10 @@
   "id": "way/675361853",
   "properties": {
     "addr:city": "Monthey",
+    "addr:housenumber": "54",
     "addr:postcode": "1870",
+    "addr:street": "Route de Morgins",
+    "alt_name": "Spital Monthey",
     "amenity": "hospital",
     "emergency": "yes",
     "name": "Hôpital du Chablais de Monthey",
@@ -22098,6 +21976,7 @@
     "addr:street": "Pflanzettastrasse",
     "amenity": "hospital",
     "emergency": "yes",
+    "healthcare": "hospital",
     "name": "Spital Visp",
     "phone": "+41 (0)27 970 33 33",
     "toilets:wheelchair": "yes",
@@ -23821,8 +23700,10 @@
   "properties": {
     "addr:city": "Villars-sur-Glâne",
     "addr:country": "CH",
+    "addr:housenumber": "2-6",
     "addr:postcode": "1752",
     "addr:street": "Chemin des Pensionnats",
+    "alt_name": "Kantonsspital Fribourg;Spital Fribourg;Spital Freiburg;Kantonsspital Freiburg",
     "amenity": "hospital",
     "email": "info@h-fr.ch",
     "name": "HFR Fribourg – Hôpital cantonal",
@@ -24012,9 +23893,14 @@
   "type": "Feature",
   "id": "way/675593829",
   "properties": {
+    "addr:city": "Bruderholz",
     "addr:country": "CH",
+    "addr:housenumber": "1",
     "addr:postcode": "4101",
+    "addr:street": "Auf dem Bruderholz",
+    "alt_name": "Kantonsspital Baselland;Spital Baselland Bruderholz",
     "amenity": "hospital",
+    "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "Kantonsspital Bruderholz",
@@ -27208,10 +27094,13 @@
   "type": "Feature",
   "id": "way/677015081",
   "properties": {
+    "addr:city": "Cazis",
     "addr:country": "CH",
     "addr:housename": "Klinik Beverin",
+    "addr:housenumber": "17",
     "addr:postcode": "7408",
-    "addr:street": "Realta",
+    "addr:street": "La Nicca Strasse",
+    "alt_name": "Spital Psychiatrisches Dienste Beverin Cazis;Klinik Psychiatrische Dienste",
     "amenity": "hospital",
     "description": "Psychiatrische Dienste Graubünden",
     "email": "info@pdgr.ch",
@@ -28717,6 +28606,7 @@
     "addr:street": "Crêt-des-Fleurs / Blumenrain",
     "addr:street:de": "Blumenrain",
     "addr:street:fr": "Crêt-des-Fleurs",
+    "alt_name": "Klinik Linde;Spital Linde",
     "amenity": "hospital",
     "contact:email": "klinik-linde@hirslanden.ch",
     "contact:phone": "+41 32 366 41 11",
@@ -28991,6 +28881,7 @@
   "properties": {
     "addr:city": "Altstätten",
     "addr:country": "CH",
+    "addr:housenumber": "6",
     "addr:postcode": "9450",
     "addr:street": "F.-Marolanistrasse",
     "amenity": "hospital",
@@ -29419,7 +29310,13 @@
   "type": "Feature",
   "id": "way/680302059",
   "properties": {
+    "addr:city": "Chamblon",
+    "addr:housenumber": "3",
+    "addr:postcode": "1436",
+    "addr:street": "Route de l'Hôpital",
+    "alt_name": "Spital  Chamblon;Klinik Chamblon",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Hôpital de Chamblon",
     "website": "https://www.ehnv.ch/etablissements/hopital-de-chamblon",
     "id": "way/680302059"
@@ -30102,11 +29999,11 @@
     "addr:housenumber": "30",
     "addr:postcode": "2800",
     "addr:street": "Fbg des Capucins",
-    "alt_name": "Jura Hospital",
+    "alt_name": "Jura Hospital;Spital Jura Delémont",
     "amenity": "hospital",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
-    "name": "Hôpital du Jura",
+    "name": "Hôpital du Jura - Delémont",
     "phone": "+41 32 421 21 21",
     "website": "http://www.h-ju.ch/",
     "wheelchair": "yes",
@@ -32048,6 +31945,7 @@
     "addr:street": "Rietstrasse",
     "alt_name": "Hirslanden Klinik Belair",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Privatklinik Belair",
     "phone": "+41 52 632 19 00",
     "website": "https://www.hirslanden.ch/de/klinik-belair/home.html",
@@ -32200,6 +32098,7 @@
     "addr:housenumber": "13",
     "addr:postcode": "1318",
     "addr:street": "St.-Loup",
+    "alt_name": "Spital St.-Loup;Krankenhaus St.-Loup",
     "amenity": "hospital",
     "name": "Hôpital de Saint-Loup",
     "phone": "+41 21 866 51 11",
@@ -32470,7 +32369,7 @@
     "addr:housenumber": "111",
     "addr:postcode": "3072",
     "addr:street": "Bolligenstrasse",
-    "alt_name": "Universitätsklinik für Psychiatrie und Psychotherapie Bern",
+    "alt_name": "Universitätsklinik für Psychiatrie und Psychotherapie Bern;Spital Psychiatrische Dienste Bern;Klinik Psychiatrische Dienste Bern",
     "amenity": "hospital",
     "contact:email": "info.upd@gef.be.ch",
     "contact:fax": "+41 31 930 94 04",
