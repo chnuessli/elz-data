@@ -14052,6 +14052,7 @@
     "amenity": "clinic",
     "healthcare": "clinic",
     "name": "Forel-Klinik",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "social_facility": "group_home",
     "social_facility:for": "drug_addicted",
     "website": "https://www.forel-klinik.ch/",

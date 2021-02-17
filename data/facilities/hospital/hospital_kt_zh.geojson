@@ -448,6 +448,7 @@
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "Spital Bülach",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "phone": "+41 44 863 22 11",
     "type": "multipolygon",
     "website": "https://www.spitalbuelach.ch/",
@@ -535,6 +536,7 @@
     "amenity": "clinic",
     "building": "yes",
     "name": "Kinderstation Brüschhalde",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Klinik für Kinder- und Jugendpsychiatrie und Psychotherapie",
     "id": "way/23793421"
   },
@@ -1137,6 +1139,7 @@
     "building:material": "metal",
     "building:shape": "pyramidal",
     "name": "Klinik Pyramide am See",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "phone": "+41 44 388 15 15",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
     "start_date": "1971",
@@ -1184,6 +1187,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "urology",
     "name": "Uroviva",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "opening_hours": "Mo-Fr 07:00-18:00",
     "operator": "Uroviva",
     "operator:type": "private",
@@ -1232,6 +1236,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "psychiatry",
     "name": "Zentrum für Integrative Psychiatrie",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/47411281"
   },
   "geometry": {
@@ -1274,6 +1279,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "dentistry",
     "name": "Zahn- und Kieferklinik Seestrasse",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Privatklinikgruppe Hirslanden",
     "operator:type": "private",
     "website": "https://www.hirslanden.ch/de/klinik-im-park/centers/zahn--und-kieferklinik.html",
@@ -1470,6 +1476,7 @@
     "building": "yes",
     "healthcare": "clinic",
     "name": "Ortho Clinic Zürich - Klinik Im Park",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Privatklinikgruppe Hirslanden",
     "operator:type": "private",
     "id": "way/107615187"
@@ -1796,6 +1803,7 @@
     "healthcare": "hospital",
     "healthcare:speciality": "psychiatry;psychotherapy",
     "name": "Privatklinik Hohenegg",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "website": "https://www.hohenegg.ch/",
     "wikidata": "Q18629951",
     "id": "way/235292955"
@@ -1972,6 +1980,7 @@
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "Spital Männedorf",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "website": "https://www.spitalmaennedorf.ch/",
     "wikidata": "Q55503256",
     "wikipedia": "de:Spital Männedorf",
@@ -2165,6 +2174,7 @@
     "amenity": "clinic",
     "building": "yes",
     "name": "Spitex",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/244603385"
   },
   "geometry": {
@@ -2594,6 +2604,7 @@
     "building": "yes",
     "healthcare": "clinic",
     "name": "Operationszentrum Bellaria",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "opening_hours": "Mo - Fr 8 - 17 Uhr",
     "opening_hours:signed": "no",
     "operator": "Hirslanden Gruppe",
@@ -2665,6 +2676,7 @@
     "amenity": "clinic",
     "healthcare": "clinic",
     "name": "Forel-Klinik",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "social_facility": "group_home",
     "social_facility:for": "drug_addicted",
     "website": "https://www.forel-klinik.ch/",
@@ -3017,6 +3029,7 @@
     "emergency": "yes",
     "healthcare": "hospital",
     "name": "See-Spital Horgen",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "website": "https://www.see-spital.ch/",
     "id": "way/317763534"
   },
@@ -3333,6 +3346,7 @@
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "Spital Uster",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "phone": "+41 44 911 11 11",
     "website": "https://www.spitaluster.ch",
     "wikidata": "Q30270431",
@@ -3498,6 +3512,7 @@
     "description": "Ursprünglich Schule für Berufe im Gesundheitswesen; ab 2019 neuer Standort der Suchtbehandlung Frankental",
     "healthcare": "clinic",
     "name": "Suchtfachklinik Zürich",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "old_name": "Suchtbehandlung Frankental",
     "operator": "Stadt Zürich, GUD",
     "start_date": "2019-10-15",
@@ -3610,6 +3625,7 @@
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "Stadtspital Triemli",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Stadt Zürich, GUD",
     "phone": "+41 44 416 11 11",
     "website": "http://www.triemli.ch/",
@@ -4200,6 +4216,7 @@
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "Stadtspital Waid",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Stadt Zürich, GUD",
     "phone": "+41 44 366 22 11",
     "website": "http://www.waidspital.ch/",
@@ -5192,6 +5209,7 @@
     "healthcare": "rehabilitation",
     "loc_name": "Rehabilitationszentrum des Kinderspitals Zürich",
     "name": "Kinder-Reha Schweiz",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Kinderspital Zürich - Eleonorenstiftung",
     "phone": "+41 44 762 51 11",
     "website": "https://www.kispi.uzh.ch/rza/de/Seiten/default.aspx",
@@ -5449,7 +5467,7 @@
     "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Schweizerischer Verein Balgrist",
     "short_name": "Balgrist",
-    "source:history": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
+    "source:history": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
     "website": "https://www.balgrist.ch/",
     "wikidata": "Q2494392",
     "id": "way/671786482"
@@ -5555,6 +5573,7 @@
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "Spital Limmattal",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Spital Limmattal",
     "website": "https://www.spital-limmattal.ch/",
     "wikidata": "Q30260556",
@@ -5650,6 +5669,7 @@
     "addr:street": "Asylstrasse",
     "amenity": "hospital",
     "name": "Psychiatriezentrum Uster Alterstagesklinik",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "phone": "+41 44 931 39 39",
     "website": "https://adressverzeichnis.sozialearbeit.zhaw.ch/Detail/Index/Clienia_Schloessli_AG_-_Psychiatriezentrum_Uster-Alterstagesklinik-Uster-2ba9eb04-bc44-e311-8b4f-005056a606f6",
     "id": "way/673595876"
@@ -5731,6 +5751,7 @@
     "emergency": "no",
     "healthcare": "hospital",
     "name": "Gesundheitszentrum Dielsdorf",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Zweckverband Gesundheitszentrum Dielsdorf",
     "phone": "+41 44 854 64 64",
     "website": "https://www.gzdielsdorf.ch/",
@@ -5933,6 +5954,7 @@
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "See-Spital Kilchberg",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "website": "https://www.see-spital.ch/",
     "id": "way/673623072"
   },
@@ -6408,6 +6430,7 @@
     "amenity": "hospital",
     "description": "Akutgeriatrie, internistisch-onkologische Rehabilitation und Palliative Care",
     "name": "Klinik Susenberg",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "phone": "+41 44 268 38 38",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
     "website": "https://www.susenbergklinik.ch/",
@@ -6694,6 +6717,7 @@
     "amenity": "clinic",
     "healthcare": "clinic",
     "name": "Psychiatrische Universitätsklinik Zürich, Klinik für Alterspsychiatrie",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Psychiatrische Universitätsklinik Zürich",
     "short_name": "PUK Klinik für Alterspsychiartrie",
     "id": "way/692245776"
@@ -6768,6 +6792,7 @@
   "properties": {
     "amenity": "hospital",
     "name": "Universitätsspital Zürich Flughafen",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "short_name": "USZ Flughafen",
     "wheelchair": "yes",
     "id": "way/856698475"
@@ -6840,6 +6865,7 @@
     "building": "yes",
     "healthcare": "clinic",
     "name": "Psychiatrische Langzeitpflege",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "website": "https://www.clienia.ch/de/standorte/standorte-stationaer/zuerich/bergheim-uetikon-am-see",
     "id": "way/867378613"
   },
@@ -6931,6 +6957,7 @@
     "building": "yes",
     "healthcare": "clinic",
     "name": "Psychiatrische Langzeitpflege",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "website": "https://www.clienia.ch/de/standorte/standorte-stationaer/zuerich/bergheim-uetikon-am-see",
     "id": "way/867378614"
   },
@@ -7160,6 +7187,7 @@
   "properties": {
     "amenity": "clinic",
     "name": "RehaClinic Kilchberg",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "phone": "+41 44 716 70 00",
     "website": "https://www.rehaclinic.ch/standorte/rehaclinic-stationaer/kilchberg/",
     "id": "node/3600466682"
@@ -7184,6 +7212,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "ophthalmology;dermatology;dermatovenereology;phlebology;plastic_surgery",
     "name": "Pallas Klinik",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
     "operator": "Klinik Pallas AG",
     "id": "node/3772970125"
@@ -7206,6 +7235,7 @@
     "email": "tcm@kanghua.ch",
     "internet_access": "wlan",
     "name": "Kanghua TCM&Lingua",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "opening_hours": "Mo-Sa 08:00-19:00",
     "phone": "+41 44 536 35 53",
     "website": "http://www.kanghua.ch",
@@ -7228,6 +7258,7 @@
     "amenity": "clinic",
     "email": "kontakt@gesundwohl-rundum.ch",
     "name": "GesundWohlRundum",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "phone": "+41 44 310 87 87",
     "website": "http://www.gesundwohl-rundum.ch",
     "id": "node/4176302391"
@@ -7250,6 +7281,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "plastic_surgery",
     "name": "Klinik Tiefenbrunnen",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "phone": "+41 44 397 17 17",
     "website": "https://www.kliniktiefenbrunnen.ch/",
     "id": "node/4199335192"
@@ -7271,6 +7303,7 @@
     "amenity": "clinic",
     "level": "1",
     "name": "Santémed",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "opening_hours": "Mo-Fr 08:00-19:00; PH off",
     "phone": "+41 44 800 36 36",
     "website": "https://www.santemed.ch/de/gesundheitszentren/kloten/",
@@ -7294,6 +7327,7 @@
     "addr:street": "Brunngasse",
     "amenity": "clinic",
     "name": "Eulachklinik",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "website": "https://eulachklinik.ch/",
     "id": "node/5087016205"
   },
@@ -7313,6 +7347,7 @@
     "addr:street": "Bahnhofstrasse",
     "amenity": "clinic",
     "name": "mediX Praxis Dübendorf",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "opening_hours": "Mo-Fr 08:00-12:00, 13:00-18:00",
     "phone": "+41 44 802 10 00",
     "id": "node/5193024721"
@@ -7333,6 +7368,7 @@
     "healthcare": "clinic",
     "level": "0",
     "name": "Zentrum für Reisemedizin",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "opening_hours": "Mo 16:30-19:00; We 11:30-17:00; Th 16:30-19:00; Fr 9:00-11:00; PH off",
     "website": "https://www.ebpi.uzh.ch/de/services/travelclinic.html",
     "id": "node/5273646228"
@@ -7357,6 +7393,7 @@
     "amenity_1": "social_facility",
     "description": "Gynäkologische Sprechstunde",
     "name": "Ambulatorium Kanonengasse",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "opening_hours": "Mo 08:30-12:00, 13:30-16:30; We-Th 08:30-12:00; Fr 08:30-12:00, 14:00-16:30",
     "operator": "Stadt Zürich, GUD",
     "phone": "+41 44 415 76 06",
@@ -7385,6 +7422,7 @@
     "amenity_1": "social_facility",
     "description": "Allgemeinmedizinische Sprechstunde; Infektionsprävention, Spritzentausch",
     "name": "Ambulatorium Kanonengasse",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "opening_hours": "Mo-Fr 08:00-12:30, 14:30-19:00; Sa-Su 09:30-12:30, 13:00-16:30",
     "operator": "Stadt Zürich, GUD",
     "phone": "+41 44 415 76 10",
@@ -7412,6 +7450,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "psychiatry",
     "name": "Kriseninterventionszentrum KIZ",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Integrierte Psychiatrie Winterthur - Zürcher Unterland",
     "id": "node/5507116088"
   },
@@ -7433,6 +7472,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "psychiatry",
     "name": "IPW Akut-Tagesklinik",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Integrierte Psychiatrie Winterthur - Zürcher Unterland",
     "id": "node/5507116089"
   },
@@ -7457,6 +7497,7 @@
     "healthcare:speciality": "general;ophthalmology;orthopaedics;urology;dermatology",
     "level": "8",
     "name": "Airport Medical Center",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Spital Bülach",
     "id": "node/5684601351"
   },
@@ -7474,6 +7515,7 @@
   "properties": {
     "amenity": "clinic",
     "name": "Limmatklinik",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "NSN medical AG",
     "id": "node/5797902032"
   },
@@ -7498,6 +7540,7 @@
     "healthcare:speciality": "chinese_medicine;traditional_chinese_medicine",
     "level": "1,_Aufzug_2",
     "name": "TCM Li Nan",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Li Nan",
     "id": "node/6316596968"
   },
@@ -7522,6 +7565,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "psychiatry",
     "name": "Clienia Schlössli AG",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "phone": "+41 44 931 39 39",
     "website": "https://www.clienia.ch/de/standorte/standorte-ambulant/zuerich/wetzikon",
     "id": "node/6393546690"
@@ -7546,8 +7590,9 @@
     "healthcare": "clinic",
     "healthcare:speciality": "radiology",
     "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Rodiag AG",
-    "phone": "+41  43 377 40 80",
+    "phone": "+41 43 377 40 80",
     "website": "http://www.rodiag.ch",
     "id": "node/6395624435"
   },
@@ -7567,6 +7612,7 @@
     "addr:street": "Richtiarkade",
     "amenity": "clinic",
     "name": "In-Motion",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "website": "https://www.in-motion.ch/",
     "id": "node/6431334438"
   },
@@ -7590,6 +7636,7 @@
     "email": "info@swsieber.ch",
     "healthcare": "clinic",
     "name": "Fachspital Sune-Egge",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Sozialwerk Pfarrer Sieber",
     "website": "https://www.swsieber.ch/was-wir-tun/betreuen/fachspital/",
     "id": "node/6516560674"
@@ -7614,6 +7661,7 @@
     "amenity": "clinic",
     "healthcare": "rehabilitation",
     "name": "Zürcher RehaZentrum Lengg",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Klinik Lengg AG;Stiftung Zürcher RehaZentren",
     "short_name": "Klinik Lengg",
     "website": "https://www.kliniklengg.ch/",
@@ -7636,6 +7684,7 @@
     "healthcare:speciality": "plastic_surgery",
     "level": "1",
     "name": "Clinic Plastica",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Clinic Plastica",
     "website": "https://www.plastica.ch/",
     "id": "node/6990345009"
@@ -7654,6 +7703,7 @@
   "properties": {
     "amenity": "clinic",
     "name": "ARUD Zentrum für Suchtmedizin",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/7044143562"
   },
   "geometry": {
@@ -7670,6 +7720,7 @@
   "properties": {
     "amenity": "clinic",
     "name": "Zürcher Lighthouse",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Stiftung Zürcher Lighthouse",
     "website": "https://www.zuercher-lighthouse.ch",
     "id": "node/7207641262"
@@ -7693,6 +7744,7 @@
     "amenity": "hospital",
     "healthcare": "hospital",
     "name": "ADUS Klinik",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "phone": "+41 44 854 64 90",
     "website": "https://www.adus-klinik.ch/",
     "wheelchair": "yes",
@@ -7717,6 +7769,7 @@
     "amenity": "clinic",
     "healthcare": "clinic",
     "name": "Klinik Pyramide Schwerzenbach",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/7316995167"
   },
   "geometry": {
@@ -7734,6 +7787,7 @@
     "amenity": "clinic",
     "healthcare": "clinic",
     "name": "Poliklinik Lifeline",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/7472080008"
   },
   "geometry": {
@@ -7756,6 +7810,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "psychiatry",
     "name": "Psychiatrische Poliklinik",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Integrierte Psychiatrie Winterthur – Zürcher Unterland (IPW)",
     "operator:type": "public",
     "id": "node/7772509442"
@@ -7776,6 +7831,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "covid19",
     "name": "Covid-19-Triage-Pavillon",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "opening_hours": "Mo-Su 08:00-12:00, 13:00-18:00",
     "opening_hours:covid19": "open",
     "operator": "Kantonsspital Winterthur (KSW)",
@@ -7802,6 +7858,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "paediatrics",
     "name": "Sozialpädiatrisches Zentrum SPZ",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/7772509445"
   },
   "geometry": {
@@ -7824,6 +7881,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "radiology",
     "name": "Swiss Neuroradiology Institute (SNRI)",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "website": "https://www.snri.ch/",
     "id": "node/8343640021"
   },
@@ -7847,6 +7905,7 @@
     "email": "tagesklinik@forel-klinik.ch",
     "healthcare": "clinic",
     "name": "Forel-Klinik - Tagesklinik und Ambulatorium",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "opening_hours": "Mo-Fr 08:00–12:00, 12:45–17:00",
     "operator": "Forel Klinik AG",
     "phone": "+41 44 277 56 00",
