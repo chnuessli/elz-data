@@ -7871,6 +7871,28 @@
 },
 {
   "type": "Feature",
+  "id": "node/8204308910",
+  "properties": {
+    "amenity": "doctors",
+    "email": "circle@kispi.uzh.ch",
+    "healthcare": "clinic",
+    "name": "Kinderpermanence im  Circle",
+    "opening_hours": "Mo-Su 08:00-22:45",
+    "operator": "Kinderspital Zürich",
+    "phone": "+41 44 255 81 12",
+    "website": "https://www.kispi.uzh.ch/de/patienten-und-angehoerige/fachbereiche/notfallstation/Documents/Circle-Flyer_def_Web_fin.pdf",
+    "id": "node/8204308910"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5663847,
+      47.449309
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/8343640021",
   "properties": {
     "addr:city": "Zürich",
@@ -7917,6 +7939,31 @@
     "coordinates": [
       8.5288486,
       47.3879127
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8437132905",
+  "properties": {
+    "addr:city": "Zürich Flughafen",
+    "addr:housenumber": "59",
+    "addr:postcode": "8058",
+    "addr:street": "The Circle",
+    "amenity": "doctors",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general",
+    "name": "Permanence The Circle",
+    "opening_hours": "Mo-Su 08:00-19:00",
+    "operator": "USZ",
+    "website": "https://www.usz.ch/standorte/flughafen/Seiten/default.aspx",
+    "id": "node/8437132905"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5663351,
+      47.4493113
     ]
   }
 }
