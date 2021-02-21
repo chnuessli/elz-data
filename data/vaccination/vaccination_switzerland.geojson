@@ -1372,6 +1372,23 @@
       47.3157625
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8440808929",
+  "properties": {
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum KSB",
+    "vaccination": "covid19",
+    "id": "node/8440808929"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2211168,
+      47.4824844
+    ]
+  }
 }
 ]
 }
