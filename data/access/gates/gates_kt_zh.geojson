@@ -3055,23 +3055,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/305391308",
-  "properties": {
-    "barrier": "gate",
-    "bicycle": "yes",
-    "foot": "yes",
-    "id": "node/305391308"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7535541,
-      47.3881443
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/305393056",
   "properties": {
     "barrier": "gate",
