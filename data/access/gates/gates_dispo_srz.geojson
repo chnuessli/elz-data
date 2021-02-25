@@ -16057,16 +16057,16 @@
 },
 {
   "type": "Feature",
-  "id": "node/1505081728",
+  "id": "node/1505081780",
   "properties": {
     "barrier": "gate",
-    "id": "node/1505081728"
+    "id": "node/1505081780"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7690701,
-      47.2760933
+      8.7688525,
+      47.2759936
     ]
   }
 },
@@ -16080,8 +16080,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7693085,
-      47.275932
+      8.7692076,
+      47.275854
     ]
   }
 },
