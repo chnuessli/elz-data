@@ -4227,6 +4227,7 @@
   "id": "node/1937738039",
   "properties": {
     "amenity": "pharmacy",
+    "check_date:opening_hours": "2021-02-25",
     "level": "0",
     "name": "Deutweg Apotheke",
     "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-18:00",
