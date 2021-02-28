@@ -887,6 +887,8 @@
   "id": "way/110176455",
   "properties": {
     "aeroway": "helipad",
+    "lit": "yes",
+    "surface": "asphalt",
     "id": "way/110176455"
   },
   "geometry": {
@@ -950,6 +952,7 @@
   "id": "way/110260127",
   "properties": {
     "aeroway": "helipad",
+    "lit": "no",
     "name": "4",
     "id": "way/110260127"
   },
@@ -5109,6 +5112,7 @@
   "id": "way/420044646",
   "properties": {
     "aeroway": "helipad",
+    "lit": "no",
     "name": "6",
     "id": "way/420044646"
   },
@@ -5149,6 +5153,7 @@
   "id": "way/420044647",
   "properties": {
     "aeroway": "helipad",
+    "lit": "no",
     "name": "5",
     "id": "way/420044647"
   },
@@ -5185,6 +5190,7 @@
   "id": "way/420044907",
   "properties": {
     "aeroway": "helipad",
+    "lit": "no",
     "name": "1",
     "id": "way/420044907"
   },
@@ -5225,6 +5231,7 @@
   "id": "way/420045978",
   "properties": {
     "aeroway": "helipad",
+    "lit": "no",
     "name": "3",
     "id": "way/420045978"
   },
@@ -10440,8 +10447,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.995214,
-      47.223652
+      8.9949553,
+      47.2236196
     ]
   }
 },
