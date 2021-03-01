@@ -11297,6 +11297,7 @@
   "id": "node/5810939317",
   "properties": {
     "aeroway": "helipad",
+    "surface": "asphalt",
     "id": "node/5810939317"
   },
   "geometry": {

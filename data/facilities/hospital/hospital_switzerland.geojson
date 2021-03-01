@@ -15354,6 +15354,7 @@
     "addr:street": "In der Au",
     "amenity": "clinic",
     "building": "yes",
+    "healthcare": "clinic",
     "name": "Spitex",
     "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/244603385"
