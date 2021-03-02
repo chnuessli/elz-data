@@ -205,8 +205,86 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7991575,
-      47.3157625
+      8.7993399,
+      47.3150279
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8477983050",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "4",
+    "addr:postcode": "8610",
+    "addr:street": "Hallenbadweg",
+    "alt_name": "COVID-19 Impfzentrum Uster",
+    "description": "Ab April geöffnet",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Uster",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
+    "operator": "Kanton Zürich",
+    "vaccination": "covid19",
+    "id": "node/8477983050"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7256829,
+      47.3603902
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8477983051",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "87",
+    "addr:postcode": "8810",
+    "addr:street": "Seestrasse",
+    "alt_name": "COVID-19 Impfzentrum Horgen",
+    "description": "Ab April geöffnet",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Horgen",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
+    "operator": "Kanton Zürich",
+    "vaccination": "covid19",
+    "id": "node/8477983051"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5921404,
+      47.2625298
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8477983052",
+  "properties": {
+    "addr:city": "Bülach",
+    "addr:housenumber": "8",
+    "addr:postcode": "8180",
+    "addr:street": "Allmendstrasse",
+    "alt_name": "COVID-19 Impfzentrum Bülach",
+    "description": "Ab April geöffnet",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Bülach",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
+    "operator": "Kanton Zürich",
+    "vaccination": "covid19",
+    "id": "node/8477983052"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5364818,
+      47.515593
     ]
   }
 }
