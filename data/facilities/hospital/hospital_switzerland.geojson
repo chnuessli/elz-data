@@ -21599,6 +21599,7 @@
   "properties": {
     "amenity": "clinic",
     "emergency": "yes",
+    "healthcare": "clinic",
     "indoor": "yes",
     "level": "-1",
     "name": "Permanence Medical Center Luzern",
