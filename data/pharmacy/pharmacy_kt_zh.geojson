@@ -6731,6 +6731,28 @@
       47.3970803
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8497598414",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "9",
+    "addr:postcode": "8091",
+    "addr:street": "Spöndlistrasse",
+    "amenity": "pharmacy",
+    "name": "Kantonsapotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:30-13:30",
+    "operator": "Universitätsspital Zürich",
+    "id": "node/8497598414"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5503431,
+      47.3783744
+    ]
+  }
 }
 ]
 }

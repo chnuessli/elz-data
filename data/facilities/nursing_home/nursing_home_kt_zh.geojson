@@ -19663,6 +19663,10 @@
   "type": "Feature",
   "id": "node/7462553149",
   "properties": {
+    "addr:city": "Nürensdorf",
+    "addr:housenumber": "49",
+    "addr:postcode": "8309",
+    "addr:street": "Alte Winterthurerstrasse",
     "amenity": "social_facility",
     "name": "KZU Pflegewohnungen Nürensdorf",
     "phone": "+41 44 838 16 16",
@@ -19847,6 +19851,128 @@
     "coordinates": [
       8.4922584,
       47.5948436
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8495933818",
+  "properties": {
+    "addr:city": "Kloten",
+    "addr:housenumber": "136",
+    "addr:postcode": "8302",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "social_facility",
+    "name": "Pflegewohngruppe Schaffhauserstrasse",
+    "operator": "Stadt Kloten",
+    "phone": "+41 44 881 25 13",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "node/8495933818"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5809893,
+      47.4522916
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8495942643",
+  "properties": {
+    "addr:city": "Kloten",
+    "addr:housenumber": "6",
+    "addr:postcode": "8302",
+    "addr:street": "Bramenring",
+    "amenity": "social_facility",
+    "name": "Pflegewohnung Bramenring",
+    "operator": "Stadt Kloten",
+    "phone": "+41 44 651 10 44",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "node/8495942643"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5790878,
+      47.4436024
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8495947894",
+  "properties": {
+    "addr:city": "Kloten",
+    "addr:housenumber": "30",
+    "addr:postcode": "8302",
+    "addr:street": "Rätschengässli",
+    "amenity": "social_facility",
+    "name": "Pflegewohnung Rätschengässli",
+    "operator": "Stadt Kloten",
+    "phone": "+41 43 818 91 50",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "node/8495947894"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5858128,
+      47.4532788
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8495967051",
+  "properties": {
+    "addr:city": "Kloten",
+    "addr:housenumber": "23",
+    "addr:postcode": "8302",
+    "addr:street": "Kirchgasse",
+    "amenity": "social_facility",
+    "name": "Pflegestation Kirchgasse",
+    "operator": "Stadt Kloten",
+    "phone": "+41 44 815 17 10",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "node/8495967051"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5829341,
+      47.4517927
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8496132944",
+  "properties": {
+    "addr:city": "Unterengstringen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8103",
+    "addr:street": "Sonnenberg",
+    "amenity": "social_facility",
+    "email": "kontakt@villaamberg.ch",
+    "name": "Villa Sonnenberg",
+    "operator": "Villa Sparrenberg AG",
+    "phone": "+41 44 751 18 22",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://villaamberg.ch/",
+    "id": "node/8496132944"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4595169,
+      47.4147484
     ]
   }
 }
