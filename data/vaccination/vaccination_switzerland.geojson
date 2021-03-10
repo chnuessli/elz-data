@@ -1136,32 +1136,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8383564427",
-  "properties": {
-    "addr:city": "Affoltern a. A.",
-    "addr:housenumber": "19",
-    "addr:postcode": "8910",
-    "addr:street": "Industriestrasse",
-    "alt_name": "COVID-19 Impfzentrum Affoltern a.A.",
-    "description": "Ab April geöffnet",
-    "healthcare": "centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum Affoltern a.A.",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
-    "operator": "Kanton Zürich",
-    "vaccination": "covid19",
-    "id": "node/8383564427"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4454151,
-      47.2711322
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8383564428",
   "properties": {
     "addr:city": "Wetzikon",

@@ -47003,30 +47003,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5532497671",
-  "properties": {
-    "addr:city": "Bern",
-    "addr:housenumber": "46",
-    "addr:postcode": "3010",
-    "addr:street": "Freiburgstrasse",
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "name": "Geriatrische Universitätsklinik, Kard ReHa",
-    "opening_hours:signed": "no",
-    "operator": "Insel Gruppe AG",
-    "wheelchair": "yes",
-    "id": "node/5532497671"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.4210235,
-      46.9464433
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5548213221",
   "properties": {
     "addr:city": "Schaffhausen",
