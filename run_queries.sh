@@ -125,9 +125,9 @@ cat $DIR/queries/police_station_dispo_srz.txt | python $DIR/overpass_query.py | 
 echo -ne "\t\t - Done.\r"
 echo ""
 
-# Polizeistationen Kanton Zürich
-echo -ne "Query Polizeistationen Kanton Zürich...           "
-cat $DIR/queries/police_station_kt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/police_station/police_station_kt_zh.geojson
+# Polizeistationen Stadt Zürich (Stapo und Kapo)
+echo -ne "Query Polizeistationen Stadt Zürich...           "
+cat $DIR/queries/police_station_stadt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/police_station/police_station_stadt_zh.geojson
 echo -ne "\t\t - Done.\r"
 echo ""
 
