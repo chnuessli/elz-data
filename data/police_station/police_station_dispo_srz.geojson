@@ -1635,6 +1635,7 @@
     "amenity": "police",
     "name": "Quartierwache Unterstrass",
     "opening_hours": "Mo-Fr 08:00-14:00; Tu 08:00-17:00",
+    "operator": "Stadtpolizei Zürich",
     "phone": "+41 44 411 83 43",
     "id": "node/119484102"
   },
@@ -1661,6 +1662,7 @@
     "contact:phone": "+41 44 411 81 43",
     "name": "Quartierwache Enge",
     "opening_hours": "Mo-Fr 07:00-17:00; Tu 07:00-12:00",
+    "operator": "Stadtpolizei Zürich",
     "website": "https://www.stadt-zuerich.ch/pd/de/index/stadtpolizei_zuerich/ueber_uns/standorte/quartierwachen/enge.html",
     "id": "node/130113036"
   },
@@ -1725,6 +1727,7 @@
     "description": "Städtische Seepolizei und Gewässerschutz",
     "name": "Wache Wasserschutzpolizei",
     "opening_hours": "24/7",
+    "operator": "Stadtpolizei Zürich",
     "id": "node/271215645"
   },
   "geometry": {
@@ -1747,6 +1750,7 @@
     "amenity": "police",
     "name": "Quartierwache Riesbach",
     "opening_hours": "Mo 07:00-13:00; Tu-Fr 08:00-17:00; Th 08:00-13:00",
+    "operator": "Stadtpolizei Zürich",
     "phone": "+41 44 411 82 63",
     "wheelchair": "no",
     "id": "node/274826295"
@@ -1955,6 +1959,7 @@
     "amenity": "police",
     "name": "Quartierwache Höngg",
     "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00; We-Th 08:00-12:00",
+    "operator": "Stadtpolizei Zürich",
     "id": "node/362688400"
   },
   "geometry": {
@@ -2112,6 +2117,7 @@
     "amenity": "police",
     "name": "Regionalwache Industrie",
     "opening_hours": "24/7",
+    "operator": "Stadtpolizei Zürich",
     "id": "node/454974838"
   },
   "geometry": {
@@ -2176,6 +2182,7 @@
     "addr:street": "Kasernenstrasse",
     "amenity": "police",
     "name": "Kantonspolizei Zürich",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 247 22 11",
     "wikidata": "Q1728099",
     "wikipedia": "de:Kantonspolizei Zürich",
@@ -2200,6 +2207,7 @@
     "addr:street": "Zeughausstrasse",
     "amenity": "police",
     "name": "Kriminalpolizei",
+    "operator": "Kantonspolizei Zürich",
     "id": "node/474454473"
   },
   "geometry": {
@@ -2288,6 +2296,7 @@
     "amenity": "police",
     "name": "Regionalwache Aussersihl",
     "opening_hours": "24/7",
+    "operator": "Stadtpolizei Zürich",
     "id": "node/656566476"
   },
   "geometry": {
@@ -2472,6 +2481,7 @@
     "amenity": "police",
     "name": "Quartierwache Schwamendingen",
     "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00; Tu, Th 11:00-17:00",
+    "operator": "Stadtpolizei Zürich",
     "phone": "+41 44 411 83 33",
     "id": "node/983436285"
   },
@@ -2543,6 +2553,7 @@
     "amenity": "police",
     "name": "Regionalwache Wiedikon",
     "opening_hours": "24/7",
+    "operator": "Stadtpolizei Zürich",
     "wheelchair": "yes",
     "id": "node/1152501760"
   },
@@ -2587,6 +2598,7 @@
     "amenity": "police",
     "name": "Verkehrspolizei der Stadtpolizei Zürich",
     "name:en": "Traffic Police",
+    "operator": "Stadtpolizei Zürich",
     "id": "node/1258114496"
   },
   "geometry": {
@@ -2611,7 +2623,7 @@
     "contact:phone": "+41 44 411 81 83",
     "name": "Quartierwache Hottingen",
     "opening_hours": "Tu, Th-Fr 08:00-17:00; Mo 07:00-17:00; We 08:00-13:00",
-    "operator": "Stadt Zürich, Stadtpolizei",
+    "operator": "Stadtpolizei Zürich",
     "website": "https://www.stadt-zuerich.ch/pd/de/index/stadtpolizei_zuerich.html",
     "id": "node/1362649058"
   },
@@ -2719,6 +2731,7 @@
     "amenity": "police",
     "name": "Quartierwache Altstetten",
     "opening_hours": "Mo-Fr 08:30-11:30,13:30-16:30",
+    "operator": "Stadtpolizei Zürich",
     "id": "node/1701730833"
   },
   "geometry": {
@@ -2740,8 +2753,10 @@
     "addr:postcode": "8625",
     "addr:street": "Berghofstrasse",
     "amenity": "police",
-    "name": "Kantonspolizei Posten Gossau",
+    "name": "Polizeiposten Gossau",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
     "opening_hours:covid19": "open",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 936 64 00",
     "website": "https://www.kapo.zh.ch/",
     "id": "node/1788435443"
@@ -3017,7 +3032,7 @@
     "addr:street": "Förrlibuckstrasse",
     "amenity": "police",
     "name": "Abteilung Spezial",
-    "operator": "Stadt Zürich",
+    "operator": "Stadtpolizei Zürich",
     "id": "node/3028531127"
   },
   "geometry": {
@@ -3214,7 +3229,7 @@
     "addr:street": "Förrlibuckstrasse",
     "amenity": "police",
     "name": "Taxibüro / ARV Kontrolle",
-    "operator": "Verkehrspolizei",
+    "operator": "Stadtpolizei Zürich",
     "id": "node/4052928273"
   },
   "geometry": {
@@ -3259,7 +3274,9 @@
     "amenity": "police",
     "indoor": "yes",
     "level": "0",
-    "name": "Kantonspolizei Zürich",
+    "name": "Posten Hauptbahnhof",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "Kantonspolizei Zürich",
     "id": "node/4424600907"
   },
   "geometry": {
@@ -3349,6 +3366,7 @@
     "description": "Hauptwache der Stadtpolizei Zürich",
     "name": "Regionalwache City",
     "opening_hours": "24/7",
+    "operator": "Stadtpolizei Zürich",
     "toilets:wheelchair": "no",
     "wheelchair": "yes",
     "id": "node/4869996378"
@@ -3373,6 +3391,7 @@
     "amenity": "police",
     "name": "Regionalwache Oerlikon",
     "opening_hours": "24/7",
+    "operator": "Stadtpolizei Zürich",
     "phone": "+41 44 411 83 10",
     "id": "node/4869996379"
   },
