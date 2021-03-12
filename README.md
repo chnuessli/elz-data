@@ -23,7 +23,7 @@ In der Tabelle seht ihr, welche Daten verfügbar sind und aus welchen Kantonen.
 | helipad | Hubschrauber Landeplätze | `data/helipad` | Dispo SRZ, Schweiz
 | hospital | Spitäler | `data/facilities/hospital` | Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
 | nursing_home | Alters- und Pflegeheime | `data/facilities/nursing_home` | Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
-| police_station | Polizeiwachen | `data/police_station` | Dispo SRZ, ZH
+| police_station | Polizeiwachen | `data/police_station` | Dispo SRZ, ZH, Stadt Zürich
 | vaccination | Impfzentren | `data/vaccination` | Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
 
 
