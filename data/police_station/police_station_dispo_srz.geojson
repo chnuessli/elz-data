@@ -13,7 +13,8 @@
     "amenity": "police",
     "building": "office",
     "building:levels": "2",
-    "name": "Gemeindepolizei",
+    "name": "Gemeindepolizei Meilen",
+    "operator": "Gemeinde Meilen",
     "roof:colour": "grey",
     "roof:shape": "gabled",
     "id": "way/30248410"
@@ -106,9 +107,10 @@
     "amenity": "police",
     "building": "yes",
     "email": "polizei@adliswil.ch",
-    "name": "Polizei Adliswi",
+    "name": "Stadtpolizei Adliswil",
     "name:de": "Polizei Adliswil - Langnau am Albis",
     "opening_hours": "Mo 08:00-11:30, 13:30-18:30; Tu-Th 08:00-11:30, 13:30-16:00; Fr 07:00-15:00",
+    "operator": "Stadt Adliswil",
     "id": "way/37147441"
   },
   "geometry": {
@@ -253,6 +255,7 @@
     "name:de": "Kantonspolizei Zürich, Verkehrspolizeistützpunkt Winterthur",
     "name:en": "Statepolice of Zurich",
     "opening_hours": "24/7",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 52 208 17 00",
     "id": "way/43011486"
   },
@@ -454,7 +457,8 @@
     "addr:street": "Stationsstrasse",
     "amenity": "police",
     "building": "yes",
-    "name": "Polizeiposten Kantonspolizei Zürich",
+    "name": "Polizeiposten Embrach",
+    "operator": "Kantonspolizei Zürich",
     "source": "Yahoo aerial images",
     "id": "way/45585838"
   },
@@ -512,7 +516,8 @@
     "addr:street": "Mythenstrasse",
     "amenity": "police",
     "building": "yes",
-    "name": "Kantonspolizei",
+    "name": "Polizeiposten Thalwil",
+    "operator": "Kantonspolizei Zürich",
     "source": "bing, interpolation",
     "id": "way/46618043"
   },
@@ -548,11 +553,14 @@
   "type": "Feature",
   "id": "way/75027449",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "17",
+    "addr:postcode": "8400",
     "addr:street": "Obertor",
     "amenity": "police",
     "building": "yes",
-    "name": "Stadtpolizei",
+    "name": "Stadtpolizei Winterthur",
+    "operator": "Stadtpolizei Winterthur",
     "wikidata": "Q2327943",
     "id": "way/75027449"
   },
@@ -596,6 +604,7 @@
     "addr:street": "Obertor",
     "amenity": "police",
     "building": "yes",
+    "operator": "Stadtpolizei Winterthur",
     "id": "way/75027500"
   },
   "geometry": {
@@ -630,12 +639,14 @@
   "type": "Feature",
   "id": "way/75027520",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "13",
+    "addr:postcode": "8400",
     "addr:street": "Obertor",
     "amenity": "police",
     "building": "yes",
     "name": "Ordnungsbussen",
-    "operator": "Stadtpolizei",
+    "operator": "Stadtpolizei Winterthur",
     "id": "way/75027520"
   },
   "geometry": {
@@ -744,11 +755,14 @@
   "type": "Feature",
   "id": "way/94445086",
   "properties": {
+    "addr:city": "Oberrieden",
     "addr:housenumber": "87",
+    "addr:postcode": "8942",
     "addr:street": "Seestrasse",
     "amenity": "police",
     "building": "yes",
-    "name": "Kantonale Seepolizei",
+    "name": "Stützpunkt Seepolizei",
+    "operator": "Kantonspolizei Zürich",
     "source": "bing",
     "id": "way/94445086"
   },
@@ -904,7 +918,8 @@
     "amenity": "police",
     "building": "yes",
     "building:roof": "flat",
-    "name": "Polizei",
+    "name": "Polizeiposten Wiesendangen",
+    "operator": "Kantonspolizei Zürich",
     "id": "way/115963477"
   },
   "geometry": {
@@ -947,12 +962,15 @@
   "type": "Feature",
   "id": "way/155439745",
   "properties": {
+    "addr:city": "Adliswil",
     "addr:housenumber": "26",
+    "addr:postcode": "8134",
     "addr:street": "Sihlquai",
     "alt_name": "Kantonspolizei Zürich",
     "amenity": "police",
     "building": "public",
-    "name": "Posten Adliswil",
+    "name": "Polizeiposten Adliswil",
+    "operator": "Kantonspolizei Zürich",
     "id": "way/155439745"
   },
   "geometry": {
@@ -1069,8 +1087,12 @@
     "addr:postcode": "8820",
     "addr:street": "Stegstrasse",
     "amenity": "police",
-    "building": "yes",
+    "name": "Polizeiposten Wädenswil",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
+    "opening_hours:covid19": "same",
     "operator": "Kantonspolizei Zürich",
+    "phone": "+41 44 789 40 80",
+    "website": "https://www.zh.ch/de/sicherheitsdirektion/kantonspolizei-zuerich/struktur.html#-792208150",
     "id": "way/172831490"
   },
   "geometry": {
@@ -1096,44 +1118,6 @@
         [
           8.6702174,
           47.2298981
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/179278872",
-  "properties": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Seepolizei",
-    "wheelchair": "limited",
-    "id": "way/179278872"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6913446,
-          47.3410215
-        ],
-        [
-          8.6912616,
-          47.3409315
-        ],
-        [
-          8.6914786,
-          47.3408397
-        ],
-        [
-          8.6915616,
-          47.3409297
-        ],
-        [
-          8.6913446,
-          47.3410215
         ]
       ]
     ]
@@ -1233,6 +1217,7 @@
     "building": "yes",
     "name": "Kantonspolizei Zürich Verkehrsstützpunkt Hinwil",
     "opening_hours": "24/7",
+    "operator": "Kantonspolizei Zürich",
     "id": "way/204533679"
   },
   "geometry": {
@@ -1318,7 +1303,8 @@
     "addr:street": "Untere Bruech",
     "amenity": "police",
     "building": "yes",
-    "name": "Kantonspolizei",
+    "name": "Polizeiposten Meilen",
+    "operator": "Kantonspolizei Zürich",
     "id": "way/220119724"
   },
   "geometry": {
@@ -1423,53 +1409,6 @@
         [
           8.5227717,
           47.5133377
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/245511582",
-  "properties": {
-    "addr:city": "Rüti (ZH)",
-    "addr:housenumber": "2",
-    "addr:postcode": "8630",
-    "addr:street": "Spitalstrasse",
-    "amenity": "police",
-    "building": "yes",
-    "email": "polizei@rueti.ch",
-    "fax": "+41 55 250 70 31",
-    "name": "Gemeindepolizei Rüti",
-    "operator": "Gemeinde Rüti",
-    "phone": "+41 55 250 70 30",
-    "source": "bing",
-    "website": "https://www.rueti.ch/topics/politik-verwaltung/verwaltung/abteilungen/polizei-ruti",
-    "id": "way/245511582"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.8480875,
-          47.2595154
-        ],
-        [
-          8.848026,
-          47.2593516
-        ],
-        [
-          8.8482057,
-          47.2593205
-        ],
-        [
-          8.8482672,
-          47.2594843
-        ],
-        [
-          8.8480875,
-          47.2595154
         ]
       ]
     ]
@@ -1589,7 +1528,8 @@
     "addr:postcode": "8400",
     "addr:street": "Hermann-Götz-Strasse",
     "amenity": "police",
-    "name": "Kantonspolizei",
+    "name": "Kantonspolizei Zürich - Posten Winterthur",
+    "operator": "Kantonspolizei Zürich",
     "id": "node/29456226"
   },
   "geometry": {
@@ -1817,7 +1757,8 @@
     "addr:postcode": "8107",
     "addr:street": "Badenerstrasse",
     "amenity": "police",
-    "name": "Kantonspolizei Zürich Posten Buchs",
+    "name": "Polizeiposten Buchs",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 847 60 30",
     "website": "https://www.kapo.zh.ch/",
     "wheelchair": "limited",
@@ -1855,31 +1796,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/307669544",
-  "properties": {
-    "addr:city": "Wädenswil",
-    "addr:housenumber": "2",
-    "addr:postcode": "8820",
-    "addr:street": "Stegstrasse",
-    "amenity": "police",
-    "name": "Polizeiposten Wädenswil",
-    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
-    "opening_hours:covid19": "same",
-    "operator": "Kantonspolizei Zürich",
-    "phone": "+41 44 789 40 80",
-    "website": "https://www.zh.ch/de/sicherheitsdirektion/kantonspolizei-zuerich/struktur.html#-792208150",
-    "id": "node/307669544"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6703009,
-      47.2298887
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/320132833",
   "properties": {
     "addr:city": "Uster",
@@ -1888,6 +1804,7 @@
     "addr:street": "Oberlandstrasse",
     "amenity": "police",
     "name": "Stadtpolizei Uster",
+    "operator": "Stadtpolizei Uster",
     "id": "node/320132833"
   },
   "geometry": {
@@ -1979,8 +1896,9 @@
     "addr:postcode": "8712",
     "addr:street": "Bahnhofstrasse",
     "amenity": "police",
-    "name": "Kantonspolizei",
+    "name": "Polizeiposten Stäfa",
     "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
+    "operator": "Kantonmspolizei Zürich",
     "phone": "+41 44 928 17 00",
     "id": "node/383897745"
   },
@@ -2017,28 +1935,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/429221991",
-  "properties": {
-    "addr:city": "Dietikon",
-    "addr:housenumber": "10",
-    "addr:postcode": "8953",
-    "addr:street": "Bahnhofplatz",
-    "amenity": "police",
-    "entrance": "yes",
-    "name": "Kantonspolizei",
-    "phone": "+41 44 744 66 00",
-    "id": "node/429221991"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4036892,
-      47.4068324
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/431290189",
   "properties": {
     "addr:city": "Wetzikon",
@@ -2047,7 +1943,8 @@
     "addr:postcode": "8620",
     "addr:street": "Bahnhofstrasse",
     "amenity": "police",
-    "name": "Kantonspolizei",
+    "name": "Polizeiposten Wetzikon",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 43 488 20 40",
     "id": "node/431290189"
   },
@@ -2160,7 +2057,8 @@
     "addr:postcode": "8307",
     "addr:street": "Rikonerstrasse",
     "amenity": "police",
-    "name": "Kantonspolizei",
+    "name": "Polizeiposten Effretikon",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 52 355 37 00",
     "id": "node/471042094"
   },
@@ -2227,7 +2125,8 @@
     "addr:postcode": "8610",
     "addr:street": "Weiherallee",
     "amenity": "police",
-    "name": "Kantonspolizei Zürich",
+    "name": "Polizeiposten Uster",
+    "operator": "Kantonspolizei Zürich",
     "id": "node/483418095"
   },
   "geometry": {
@@ -2247,7 +2146,7 @@
     "addr:postcode": "8903",
     "addr:street": "Stallikonerstrasse",
     "amenity": "police",
-    "name": "Polizeistation Birmensdorf",
+    "name": "Polizeiposten Birmensdorf",
     "operator": "Kantonspolizei Zürich",
     "wheelchair": "yes",
     "id": "node/532251110"
@@ -2340,6 +2239,7 @@
     "addr:street": "Bahnhofstrasse",
     "amenity": "police",
     "name": "Stadtpolizei Wetzikon",
+    "operator": "Stadtpolizei Wetzikon",
     "phone": "+41 44 931 23 33",
     "website": "https://www.wetzikon.ch/Verwaltung/Sicherheit/stadtpolizei",
     "id": "node/664398860"
@@ -2412,7 +2312,8 @@
     "addr:postcode": "8700",
     "addr:street": "Alte Landstrasse",
     "amenity": "police",
-    "name": "Kantonspolizei",
+    "name": "Polizeiposten Küsnacht",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 914 21 20",
     "id": "node/775341414"
   },
@@ -2433,7 +2334,8 @@
     "addr:postcode": "8245",
     "addr:street": "Schützenstrasse",
     "amenity": "police",
-    "name": "Kantonspolizei Zürich",
+    "name": "Polizeiposten Feuerthalen",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 52 647 00 70",
     "wheelchair": "no",
     "id": "node/934029855"
@@ -2664,7 +2566,8 @@
     "addr:postcode": "8472",
     "addr:street": "Stationsstrasse",
     "amenity": "police",
-    "name": "Kantonspolizei Seuzach",
+    "name": "Polizeiposten Seuzach",
+    "operator": "Kantonspolizei Zürich",
     "id": "node/1528087936"
   },
   "geometry": {
@@ -2684,7 +2587,7 @@
     "addr:postcode": "8172",
     "addr:street": "Grafschaftstrasse",
     "amenity": "police",
-    "name": "Polizeistation Niederglatt",
+    "name": "Polizeiposten Niederglatt",
     "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
     "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 852 20 00",
@@ -2837,8 +2740,13 @@
   "type": "Feature",
   "id": "node/2086964163",
   "properties": {
+    "addr:city": "Hinwil",
+    "addr:housenumber": "25a",
+    "addr:postcode": "8340",
+    "addr:street": "Untere Bahnhofstrasse",
     "amenity": "police",
-    "name": "Kantonspolizei Bachtelhaus",
+    "name": "Polizeiposten Hinwil",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 938 90 30",
     "id": "node/2086964163"
   },
@@ -2862,6 +2770,7 @@
     "email": "stadtpolizei@buelach.ch",
     "name": "Stadtpolizei Bülach",
     "opening_hours": "Mo-We 08:00-12:00, 14:00-17:00; Th 08:00-12:00, 14:00-18:39; Fr 08:00-14:00; PH off",
+    "operator": "Stadt Bülach",
     "phone": "+41 44 863 13 00",
     "id": "node/2276694651"
   },
@@ -2882,7 +2791,8 @@
     "addr:postcode": "8952",
     "addr:street": "Freiestrasse",
     "amenity": "police",
-    "name": "Kantonspolizei",
+    "name": "Polizeiposten Schlieren",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 755 60 00",
     "wheelchair": "yes",
     "id": "node/2278013844"
@@ -2943,8 +2853,9 @@
     "addr:postcode": "8103",
     "addr:street": "Zürcherstrasse",
     "amenity": "police",
-    "name": "Kantonspolizeiposten Unterengstringen",
+    "name": "Polizeiposten Unterengstringen",
     "opening_hours": "Mo-Fr 08:00 - 12:00, 13:00 - 17:00",
+    "operator": "Kantonspolizei Zürich",
     "source": "https://www.kapo.zh.ch/internet/sicherheitsdirektion/kapo/de/ueber_uns/standorte/dietikon/station3.html",
     "id": "node/2428852603"
   },
@@ -3052,6 +2963,8 @@
     "addr:postcode": "8906",
     "addr:street": "Burgwies",
     "amenity": "police",
+    "name": "Polizeiposten Bonstetten",
+    "operator": "Kantonspolizei Zürich",
     "id": "node/3441082572"
   },
   "geometry": {
@@ -3114,7 +3027,8 @@
     "addr:postcode": "8604",
     "addr:street": "Zentralstrasse",
     "amenity": "police",
-    "name": "Kantonspolizei",
+    "name": "Polizeiposten Volketswil",
+    "operator": "Kantonspolizei Zürich",
     "wheelchair": "yes",
     "id": "node/3854564361"
   },
@@ -3140,9 +3054,9 @@
     "contact:fax": "+41 44 723 23 65",
     "contact:phone": "+41 44 723 23 90",
     "contact:website": "www.polizei-thalwil.ch",
-    "name": "Gemeindepolizei",
+    "name": "Gemeindepolizei Thalwil",
     "opening_hours": "Mo 08:00-10:00,16:00-18:00; Tu-We 09:00-11:00,14:00-16:00; Th 14:00-17:30; Fr 09:00-11:00,14:00-16:00",
-    "operator": "DLZ Sicherheit",
+    "operator": "Gemeinde Thalwil",
     "id": "node/3860710812"
   },
   "geometry": {
@@ -3185,7 +3099,8 @@
     "addr:postcode": "8450",
     "addr:street": "Thurtalstrasse",
     "amenity": "police",
-    "name": "Kantonspolizei Zürich",
+    "name": "Polizeiposten Andelfingen",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 52 305 21 11",
     "id": "node/3978030047"
   },
@@ -3317,8 +3232,8 @@
     "addr:postcode": "8400",
     "addr:street": "Bahnhofplatz",
     "amenity": "police",
-    "name": "Kantonspolizei Zürich, Polizeiposten Winterthur Bahnhof",
-    "operator": "Kantonspolizei Winterthur",
+    "name": "Kantonspolizei Zürich - Polizeiposten Winterthur Bahnhof",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 52 268 52 70",
     "source": "http://www.kapo.zh.ch/internet/sicherheitsdirektion/kapo/de/aktuell/medienmitteilungen/2016_12/1612011c.html",
     "website": "https://www.kapo.zh.ch/internet/sicherheitsdirektion/kapo/de/ueber_uns/standorte/winterthur.html",
@@ -3414,6 +3329,7 @@
     "amenity": "police",
     "name": "Gemeindepolizei Volketswil",
     "name:de": "Gemeindepolizei Volketswil",
+    "operator": "Gemeinde Volketswil",
     "id": "node/4872535221"
   },
   "geometry": {
@@ -3433,8 +3349,8 @@
     "addr:postcode": "8910",
     "addr:street": "Im Grund",
     "amenity": "police",
-    "name": "Polizeistation Affoltern",
-    "operator": "Kanton Zürich",
+    "name": "Polizeiposten Affoltern",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 762 16 30",
     "source": "WWW;local_knowledge",
     "website": "https://www.kapo.zh.ch/internet/sicherheitsdirektion/kapo/de/ueber_uns/standorte/affoltern/station.html",
@@ -3457,7 +3373,8 @@
     "addr:postcode": "8810",
     "addr:street": "Bahnhofstrasse",
     "amenity": "police",
-    "name": "Gemeindepolizei",
+    "name": "Gemeindepolizei Horgen",
+    "operator": "Stadt Horgen",
     "phone": "+41 44 725 50 00",
     "wheelchair": "limited",
     "id": "node/5201880426"
@@ -3479,7 +3396,7 @@
     "addr:postcode": "8330",
     "addr:street": "Hörnlistrasse",
     "amenity": "police",
-    "name": "Polizeistation Pfäffikon",
+    "name": "Polizeiposten Pfäffikon",
     "operator": "Kantonspolizei Zürich",
     "id": "node/5943306284"
   },
@@ -3640,6 +3557,8 @@
     "addr:housenumber": "39",
     "addr:street": "Hauptstrasse",
     "amenity": "police",
+    "name": "Polizeiposten Oberstammheim",
+    "operator": "Kantonspolizei Zürich",
     "id": "node/7114535421"
   },
   "geometry": {
@@ -3676,10 +3595,15 @@
   "type": "Feature",
   "id": "node/7596645396",
   "properties": {
+    "addr:city": "Dielsdorf",
+    "addr:housenumber": "1",
+    "addr:postcode": "8157",
+    "addr:street": "Honeywell-Platz",
     "amenity": "police",
-    "name": "Polizeiposten Kantonspolizei Dielsdorf",
+    "name": "Polizeiposten Dielsdorf",
     "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 854 80 20",
     "id": "node/7596645396"
   },
@@ -3720,6 +3644,249 @@
     "coordinates": [
       8.5999775,
       47.3952753
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8510278477",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "6a",
+    "addr:postcode": "8610",
+    "addr:street": "Bankstrasse",
+    "amenity": "police",
+    "name": "Polizeiposten Uster Bahnhof",
+    "operator": "Kantonspolizei ZürichKantonspolizei Zürich",
+    "id": "node/8510278477"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7171334,
+      47.3510812
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8510284090",
+  "properties": {
+    "addr:city": "Rüti (ZH)",
+    "addr:housenumber": "2",
+    "addr:postcode": "8630",
+    "addr:street": "Spitalstrasse",
+    "amenity": "police",
+    "building": "yes",
+    "email": "polizei@rueti.ch",
+    "fax": "+41 55 250 70 31",
+    "name": "Gemeindepolizei Rüti",
+    "operator": "Gemeinde Rüti",
+    "phone": "+41 55 250 70 30",
+    "source": "bing",
+    "website": "https://www.rueti.ch/topics/politik-verwaltung/verwaltung/abteilungen/polizei-ruti",
+    "id": "node/8510284090"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8481265,
+      47.2593735
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8510284092",
+  "properties": {
+    "addr:city": "Rüti (ZH)",
+    "addr:housenumber": "2",
+    "addr:postcode": "8630",
+    "addr:street": "Spitalstrasse",
+    "amenity": "police",
+    "name": "Polizeiposten Rüti",
+    "operator": "Kantonspolizei Zürich",
+    "id": "node/8510284092"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8481179,
+      47.2593588
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8510286119",
+  "properties": {
+    "addr:city": "Wald (ZH)",
+    "addr:housenumber": "31",
+    "addr:postcode": "8636",
+    "addr:street": "Bachtelstrasse",
+    "amenity": "police",
+    "name": "Polizeiposten Wald",
+    "operator": "Kantonspolizei Zürich",
+    "id": "node/8510286119"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9127954,
+      47.2765772
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8510318873",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "3",
+    "addr:postcode": "8810",
+    "addr:street": "Burghaldenstrasse",
+    "amenity": "police",
+    "name": "Polizeiposten Horgen",
+    "operator": "Kantonspolizei Zürich",
+    "id": "node/8510318873"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5987881,
+      47.2581938
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8510383531",
+  "properties": {
+    "addr:city": "Küsnacht",
+    "addr:housenumber": "135",
+    "addr:postcode": "8700",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "police",
+    "email": "polizei@kuesnacht.ch",
+    "name": "Gemeindepolizei",
+    "operator": "Gemeinde Küsnacht",
+    "phone": "044 914 21 60",
+    "id": "node/8510383531"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5847203,
+      47.3192074
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8510398587",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "10",
+    "addr:postcode": "8953",
+    "addr:street": "Bahnhofplatz",
+    "amenity": "police",
+    "entrance": "yes",
+    "name": "Polizeiposten Dietikon",
+    "operator": "Kantonspolizei Zürich",
+    "phone": "+41 44 744 66 00",
+    "id": "node/8510398587"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4036345,
+      47.4068554
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8510407155",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "1",
+    "addr:postcode": "8105",
+    "addr:street": "Untere Mühlestrasse",
+    "amenity": "police",
+    "name": "Polizeiposten Regensdorf",
+    "operator": "Kantonspolizei Zürich",
+    "phone": "+41 44 842 34 34",
+    "id": "node/8510407155"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.464307,
+      47.4305198
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8510424778",
+  "properties": {
+    "addr:city": "Neftenbach",
+    "addr:housenumber": "1",
+    "addr:postcode": "8413",
+    "addr:street": "Schulstrasse",
+    "amenity": "police",
+    "name": "Polizeiposten Neftenbach",
+    "operator": "Kantonspolizei Zürich",
+    "phone": "+41 52 305 01 01",
+    "id": "node/8510424778"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6681651,
+      47.5270254
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8510529783",
+  "properties": {
+    "addr:city": "Turbenthal",
+    "addr:housenumber": "64",
+    "addr:postcode": "8488",
+    "addr:street": "Tösstalstrasse",
+    "amenity": "police",
+    "name": "Polizeiposten Turbenthal",
+    "operator": "Kantonspolizei Zürich",
+    "id": "node/8510529783"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8459796,
+      47.4372625
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8510529835",
+  "properties": {
+    "addr:city": "Bülach",
+    "addr:housenumber": "9",
+    "addr:postcode": "8180",
+    "addr:street": "Im Baumgarten",
+    "amenity": "police",
+    "name": "Polizeiposten Bülach",
+    "operator": "Kantonspolizei Zürich",
+    "id": "node/8510529835"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5423056,
+      47.5192798
     ]
   }
 }
