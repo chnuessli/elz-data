@@ -6,6 +6,7 @@
   "id": "way/33789454",
   "properties": {
     "building": "yes",
+    "healthcare": "centre",
     "healthcare:speciality": "vaccination",
     "name": "Impfzentrum KSB",
     "source": "bing",
@@ -973,6 +974,7 @@
   "type": "Feature",
   "id": "node/8339138325",
   "properties": {
+    "healthcare": "centre",
     "healthcare:speciality": "vaccination",
     "name": "Impfzentrum KSA",
     "vaccination": "covid19",
@@ -1164,6 +1166,7 @@
   "type": "Feature",
   "id": "node/8440808929",
   "properties": {
+    "healthcare": "centre",
     "healthcare:speciality": "vaccination",
     "name": "Impfzentrum KSB",
     "vaccination": "covid19",
