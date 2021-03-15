@@ -5,7 +5,7 @@ area["ISO3166-2"="CH-ZH"];
 )->.searchArea;
 // gather results
 (
-  // query part for: “amenity=fire_station”
+  // query part for: “amenity=police”
   nwr["amenity"="police"](area.searchArea);
 );
 // print results
