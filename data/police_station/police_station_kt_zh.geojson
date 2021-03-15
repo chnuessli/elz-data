@@ -65,8 +65,9 @@
     "addr:street": "Zugerstrasse",
     "amenity": "police",
     "building": "yes",
-    "name": "Kantonspolizei Zürich Verkehrsstützpunkt Neubüel",
+    "name": "Verkehrsstützpunkt Neubüel",
     "opening_hours": "24/7",
+    "operator": "Kantonspolizei Zürich",
     "id": "way/31973838"
   },
   "geometry": {
@@ -143,48 +144,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/38484891",
-  "properties": {
-    "addr:city": "Bülach",
-    "addr:housenumber": "2",
-    "addr:postcode": "8180",
-    "addr:street": "Reitergasse",
-    "amenity": "police",
-    "building": "yes",
-    "name": "Kantonspolizei Zürich Verkehrsstützpunkt Bülach",
-    "opening_hours": "24/7",
-    "id": "way/38484891"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5213497,
-          47.5133419
-        ],
-        [
-          8.5216673,
-          47.512994
-        ],
-        [
-          8.5221737,
-          47.5132143
-        ],
-        [
-          8.5218647,
-          47.5135564
-        ],
-        [
-          8.5213497,
-          47.5133419
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/39652667",
   "properties": {
     "addr:city": "Zürich",
@@ -251,7 +210,7 @@
     "amenity": "police",
     "building": "yes",
     "building:levels": "2",
-    "name": "Kantonspolizei Zürich, Verkehrspolizeistützpunkt Winterthur",
+    "name": "Verkehrsstützpunkt Winterthur",
     "name:de": "Kantonspolizei Zürich, Verkehrspolizeistützpunkt Winterthur",
     "name:en": "Statepolice of Zurich",
     "opening_hours": "24/7",
@@ -306,65 +265,6 @@
         [
           8.7158185,
           47.5210913
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/44115969",
-  "properties": {
-    "addr:city": "Oberrieden",
-    "addr:country": "CH",
-    "addr:housename": "Gemeindehaus Oberrieden",
-    "addr:housenumber": "32",
-    "addr:postcode": "8942",
-    "addr:street": "Alte Landstrasse",
-    "amenity": "police",
-    "building": "yes",
-    "name": "Gemeindehaus Oberrieden",
-    "id": "way/44115969"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5753127,
-          47.2777633
-        ],
-        [
-          8.5753551,
-          47.2776726
-        ],
-        [
-          8.5756355,
-          47.277733
-        ],
-        [
-          8.5756798,
-          47.2776381
-        ],
-        [
-          8.5758808,
-          47.2776813
-        ],
-        [
-          8.5757764,
-          47.2779046
-        ],
-        [
-          8.5756122,
-          47.2778693
-        ],
-        [
-          8.5756298,
-          47.2778315
-        ],
-        [
-          8.5753127,
-          47.2777633
         ]
       ]
     ]
@@ -608,8 +508,9 @@
     "addr:street": "Werkhofstrasse",
     "amenity": "police",
     "building": "yes",
-    "name": "Kantonspolizei Zürich Verkehrsstützpunkt Urdorf",
+    "name": "Verkehrsstützpunkt Urdorf",
     "opening_hours": "24/7",
+    "operator": "Kantonspolizei Zürich",
     "id": "way/87583480"
   },
   "geometry": {
@@ -873,9 +774,14 @@
   "type": "Feature",
   "id": "way/169234018",
   "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "112",
+    "addr:postcode": "8105",
+    "addr:street": "Watterstrasse",
     "amenity": "police",
     "building": "yes",
-    "name": "Polizei Regensdorf",
+    "name": "Gemeindepolizei Regensdorf",
+    "operator": "Gemeinde Regensdorf",
     "id": "way/169234018"
   },
   "geometry": {
@@ -961,7 +867,7 @@
     "addr:street": "Affeltrangerstrasse",
     "amenity": "police",
     "building": "yes",
-    "name": "Kantonspolizei Zürich Verkehrsstützpunkt Hinwil",
+    "name": "Verkehrsstützpunkt Hinwil",
     "opening_hours": "24/7",
     "operator": "Kantonspolizei Zürich",
     "id": "way/204533679"
@@ -1097,7 +1003,16 @@
   "type": "Feature",
   "id": "way/224009406",
   "properties": {
+    "addr:city": "Bülach",
+    "addr:housenumber": "2",
+    "addr:postcode": "8180",
+    "addr:street": "Reitergasse",
     "amenity": "police",
+    "building": "yes",
+    "layer": "-1",
+    "name": "Verkehrsstützpunkt Bülach",
+    "opening_hours": "24/7",
+    "operator": "Kantonspolizei Zürich",
     "id": "way/224009406"
   },
   "geometry": {
@@ -1169,7 +1084,7 @@
     "addr:postcode": "8400",
     "addr:street": "Hermann-Götz-Strasse",
     "amenity": "police",
-    "name": "Kantonspolizei Zürich - Posten Winterthur",
+    "name": "Polizeiposten Winterthur Bezirksgebäude",
     "operator": "Kantonspolizei Zürich",
     "id": "node/29456226"
   },
@@ -1241,7 +1156,8 @@
     "addr:postcode": "8304",
     "addr:street": "Neugutstrasse",
     "amenity": "police",
-    "name": "Kantonspolizei Zürich",
+    "name": "Polizeiposten Wallisellen",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 839 10 20",
     "id": "node/264064249"
   },
@@ -1262,7 +1178,8 @@
     "addr:postcode": "8305",
     "addr:street": "Bahnhofstrasse",
     "amenity": "police",
-    "name": "Kantonspolizei Dietlikon",
+    "name": "Polizeiposten Dietlikon",
+    "operator": "Kantonspolizei Zürich",
     "id": "node/264796684"
   },
   "geometry": {
@@ -1444,7 +1361,7 @@
     "amenity": "police",
     "name": "Polizeiposten Stäfa",
     "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
-    "operator": "Kantonmspolizei Zürich",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 928 17 00",
     "id": "node/383897745"
   },
@@ -1556,7 +1473,7 @@
     "addr:postcode": "8004",
     "addr:street": "Kasernenstrasse",
     "amenity": "police",
-    "name": "Kantonspolizei Zürich",
+    "name": "Polizeiposten Hauptgebäude Zürich",
     "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 247 22 11",
     "wikidata": "Q1728099",
@@ -1716,7 +1633,7 @@
     "addr:postcode": "8001",
     "addr:street": "Limmatquai",
     "amenity": "police",
-    "name": "Rathauswache Kantonspolizei",
+    "name": "Polizeiposten Rathaus Zürich",
     "opening_hours": "Mo-Fr 07:00-17:30",
     "opening_hours:covid19": "open",
     "operator": "Kantonspolizei Zürich",
@@ -2172,9 +2089,12 @@
   "type": "Feature",
   "id": "node/2373834084",
   "properties": {
+    "addr:city": "Zürich-Flughafen",
+    "addr:postcode": "8058",
     "amenity": "police",
     "level": "1",
-    "name": "Police",
+    "name": "Polizeiposten Flughafen",
+    "operator": "Kantonspolizei Zürich",
     "id": "node/2373834084"
   },
   "geometry": {
@@ -2352,8 +2272,9 @@
     "addr:street": "Wilstrasse",
     "amenity": "police",
     "building": "office",
-    "name": "Kantonspolizei",
+    "name": "Polizeiposten Dübendorf",
     "opening_hours": "Mo-Fr 08:00-12:00, 13:30-17:00",
+    "operator": "Kantonspolizei Zürich",
     "wheelchair": "yes",
     "id": "node/3905369857"
   },
@@ -2441,7 +2362,7 @@
     "amenity": "police",
     "indoor": "yes",
     "level": "0",
-    "name": "Posten Hauptbahnhof",
+    "name": "Polizeiposten Hauptbahnhof Zürich",
     "opening_hours": "Mo-Su 07:00-22:00",
     "operator": "Kantonspolizei Zürich",
     "id": "node/4424600907"
@@ -2463,7 +2384,7 @@
     "addr:postcode": "8400",
     "addr:street": "Bahnhofplatz",
     "amenity": "police",
-    "name": "Kantonspolizei Zürich - Polizeiposten Winterthur Bahnhof",
+    "name": "Polizeiposten Winterthur Bahnhof",
     "operator": "Kantonspolizei Zürich",
     "phone": "+41 52 268 52 70",
     "source": "http://www.kapo.zh.ch/internet/sicherheitsdirektion/kapo/de/aktuell/medienmitteilungen/2016_12/1612011c.html",
@@ -2665,28 +2586,14 @@
 },
 {
   "type": "Feature",
-  "id": "node/6192222755",
-  "properties": {
-    "addr:street": "Prime Center 1",
-    "amenity": "police",
-    "level": "3",
-    "name": "Kantonspolizei Zürich Posten Flughafen",
-    "id": "node/6192222755"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5633575,
-      47.4524186
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6287627978",
   "properties": {
+    "addr:city": "Kloten",
+    "addr:postcode": "8302",
+    "addr:street": "Dorfstrasse",
     "amenity": "police",
     "name": "Stadtpolizei Kloten",
+    "operator": "Stadt Kloten",
     "id": "node/6287627978"
   },
   "geometry": {
@@ -2701,8 +2608,13 @@
   "type": "Feature",
   "id": "node/6287627979",
   "properties": {
+    "addr:city": "Kloten",
+    "addr:housenumber": "56",
+    "addr:postcode": "8302",
+    "addr:street": "Dorfstrasse",
     "amenity": "police",
-    "name": "Kantonspolizei Posten Kloten",
+    "name": "Polizeiposten Kloten",
+    "operator": "Kantonspolizei Zürich",
     "id": "node/6287627979"
   },
   "geometry": {
@@ -2776,8 +2688,13 @@
   "type": "Feature",
   "id": "node/7997118519",
   "properties": {
+    "addr:city": "Dübendorf",
+    "addr:housenumber": "4",
+    "addr:postcode": "8600",
+    "addr:street": "Auenstrasse",
     "amenity": "police",
-    "name": "Kantonspolizei Zürich",
+    "name": "Polizeiposten Dübendorf Verkehrsabteilung",
+    "operator": "Kantonspolizei Zürich",
     "id": "node/7997118519"
   },
   "geometry": {
@@ -2798,7 +2715,7 @@
     "addr:street": "Bankstrasse",
     "amenity": "police",
     "name": "Polizeiposten Uster Bahnhof",
-    "operator": "Kantonspolizei ZürichKantonspolizei Zürich",
+    "operator": "Kantonspolizei Zürich",
     "id": "node/8510278477"
   },
   "geometry": {
@@ -3028,6 +2945,27 @@
     "coordinates": [
       8.5423056,
       47.5192798
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8519976780",
+  "properties": {
+    "addr:city": "Oberrieden",
+    "addr:housenumber": "32",
+    "addr:postcode": "8942",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "police",
+    "name": "Gemeindepolizei Oberrieden",
+    "operator": "Gemeinde Oberrieden",
+    "id": "node/8519976780"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5757636,
+      47.2777809
     ]
   }
 }
