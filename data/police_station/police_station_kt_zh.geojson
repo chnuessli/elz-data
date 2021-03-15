@@ -152,7 +152,7 @@
     "addr:street": "Gänzilooweg",
     "amenity": "police",
     "building": "yes",
-    "name": "Wachposten Strassenverkehrsamt (Diensthundeabteilung)",
+    "name": "Diensthundeabteilung Stadtpolizei Zürich",
     "opening_hours": "24/7",
     "operator": "Stadtpolizei Zürich",
     "id": "way/39652667"
@@ -1293,9 +1293,10 @@
     "addr:postcode": "8820",
     "addr:street": "Schönenbergstrasse",
     "amenity": "police",
-    "name": "Stadtpolizei und Fundbüro",
+    "description": "Polizeiposten und Fundbüro",
+    "name": "Stadtpolizei Wädenswil",
     "operator": "Stadt Wädenswil",
-    "phone": "+41 44 789 74 00",
+    "source": "+41 44 789 74 00",
     "id": "node/307669469"
   },
   "geometry": {
@@ -1385,6 +1386,7 @@
     "amenity": "police",
     "name": "Gemeindepolizei Fehraltorf-Russikon",
     "opening_hours": "Mo,We-Th 14:00-18:15; Fr 07:30-14:00",
+    "operator": "Gemeinde Fehraltorf-Russikon",
     "phone": "+41 43 355 77 30",
     "id": "node/392389131"
   },
@@ -1473,10 +1475,9 @@
     "addr:postcode": "8004",
     "addr:street": "Kasernenstrasse",
     "amenity": "police",
-    "name": "Polizeiposten Hauptgebäude Zürich",
+    "name": "Polizeiposten Zürich (Hauptwache)",
     "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 247 22 11",
-    "wikidata": "Q1728099",
     "wikipedia": "de:Kantonspolizei Zürich",
     "id": "node/474453891"
   },
@@ -1562,8 +1563,9 @@
     "addr:postcode": "8600",
     "addr:street": "Wilstrasse",
     "amenity": "police",
-    "name": "Stadtpolizei",
+    "name": "Stadtpolizei Dübendorf",
     "opening_hours": "Mo-Fr 08:00-11:30, 13:30-16:30",
+    "operator": "Stadt Dübendorf",
     "phone": "+41 44 801 69 00",
     "website": "http://www.duebendorf.ch",
     "wheelchair": "no",
@@ -1611,7 +1613,7 @@
     "addr:street": "Bahnhofstrasse",
     "amenity": "police",
     "name": "Stadtpolizei Wetzikon",
-    "operator": "Stadtpolizei Wetzikon",
+    "operator": "Stadt Wetzikon",
     "phone": "+41 44 931 23 33",
     "website": "https://www.wetzikon.ch/Verwaltung/Sicherheit/stadtpolizei",
     "id": "node/664398860"
@@ -1868,7 +1870,9 @@
     "addr:postcode": "8953",
     "addr:street": "Bremgartnerstrasse",
     "amenity": "police",
-    "name": "Stadtpolizei und Fundbüro",
+    "description": "Stadtpolizei und Fundbüro",
+    "name": "Stadtpolizei Dietikon",
+    "operator": "Stadt Dietikon",
     "phone": "+41 44 740 17 77",
     "id": "node/1683181161"
   },
@@ -1939,8 +1943,10 @@
     "addr:postcode": "8805",
     "addr:street": "Poststrasse",
     "amenity": "police",
-    "name": "Gemeindepolizei",
+    "name": "Gemeindepolizei Richterswil",
+    "operator": "Gemeinde Richterswil",
     "phone": "+41 44 787 11 50",
+    "website": "https://www.richterswil.ch/aemter/2894",
     "id": "node/1800668711"
   },
   "geometry": {
@@ -1960,7 +1966,8 @@
     "addr:postcode": "8152",
     "addr:street": "Europastrasse",
     "amenity": "police",
-    "name": "Kantonspolizei Zürich",
+    "name": "Polizeiposten Glattbrugg",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 829 80 90",
     "wheelchair": "yes",
     "id": "node/1859886660"
@@ -1982,7 +1989,8 @@
     "addr:postcode": "8153",
     "addr:street": "Lindenweg",
     "amenity": "police",
-    "name": "Kantonspolizei",
+    "name": "Polizeiposten Rümlang",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 818 76 30",
     "id": "node/1873121036"
   },
@@ -2074,6 +2082,7 @@
     "amenity": "police",
     "name": "Stadtpolizei Schlieren/Urdorf",
     "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
+    "operator": "Stadt Schlieren",
     "phone": "+41 44 738 14 14",
     "id": "node/2279236752"
   },

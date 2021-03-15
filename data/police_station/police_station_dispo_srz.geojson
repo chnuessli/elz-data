@@ -152,7 +152,7 @@
     "addr:street": "Gänzilooweg",
     "amenity": "police",
     "building": "yes",
-    "name": "Wachposten Strassenverkehrsamt (Diensthundeabteilung)",
+    "name": "Diensthundeabteilung Stadtpolizei Zürich",
     "opening_hours": "24/7",
     "operator": "Stadtpolizei Zürich",
     "id": "way/39652667"
@@ -757,59 +757,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/113155811",
-  "properties": {
-    "addr:city": "Zug",
-    "addr:housenumber": "4",
-    "addr:postcode": "6300",
-    "addr:street": "Kolinplatz",
-    "amenity": "police",
-    "building": "yes",
-    "name": "Zuger Polizei",
-    "id": "way/113155811"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5151101,
-          47.1665663
-        ],
-        [
-          8.5150228,
-          47.1665077
-        ],
-        [
-          8.5151856,
-          47.1663888
-        ],
-        [
-          8.5152712,
-          47.1664441
-        ],
-        [
-          8.5151833,
-          47.1665095
-        ],
-        [
-          8.5151588,
-          47.1665278
-        ],
-        [
-          8.5151395,
-          47.1665422
-        ],
-        [
-          8.5151101,
-          47.1665663
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/115963477",
   "properties": {
     "addr:city": "Wiesendangen",
@@ -946,46 +893,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/172686312",
-  "properties": {
-    "addr:city": "Pfäffikon SZ",
-    "addr:housenumber": "27",
-    "addr:postcode": "8808",
-    "addr:street": "Hurdnerwäldlistrasse",
-    "amenity": "police",
-    "name": "Schifffahrtskontrolle",
-    "id": "way/172686312"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7954053,
-          47.2036833
-        ],
-        [
-          8.7953913,
-          47.2036059
-        ],
-        [
-          8.7954838,
-          47.2035981
-        ],
-        [
-          8.7954978,
-          47.2036756
-        ],
-        [
-          8.7954053,
-          47.2036833
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/172831490",
   "properties": {
     "addr:city": "Wädenswil",
@@ -1033,10 +940,18 @@
   "type": "Feature",
   "id": "way/192244566",
   "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8200",
+    "addr:street": "Beckenstube",
     "amenity": "police",
-    "building": "yes",
-    "name": "Neue Abtei",
-    "start_date": "1484",
+    "email": "info@shpol.ch",
+    "fax": "+41 52 624 50 70",
+    "name": "Polizeistation Schaffhausen",
+    "operator": "Schaffhauser Polizei",
+    "phone": "+41 52 624 24 24",
+    "website": "http://www.shpol.ch",
+    "wheelchair": "limited",
     "id": "way/192244566"
   },
   "geometry": {
@@ -1333,8 +1248,15 @@
   "type": "Feature",
   "id": "way/387790859",
   "properties": {
+    "addr:city": "Brunnen",
+    "addr:housenumber": "15",
+    "addr:postcode": "6440",
+    "addr:street": "Gersauerstrasse",
     "amenity": "police",
     "building": "yes",
+    "name": "Polizeiposten Brunnen",
+    "operator": "Kantonspolizei Schwyz",
+    "phone": "+41 41 819 53 14",
     "id": "way/387790859"
   },
   "geometry": {
@@ -1375,67 +1297,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/775617971",
-  "properties": {
-    "amenity": "police",
-    "building": "yes",
-    "name": "Eckstein",
-    "id": "way/775617971"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6348415,
-          47.6970003
-        ],
-        [
-          8.635105,
-          47.6970089
-        ],
-        [
-          8.6350953,
-          47.6971364
-        ],
-        [
-          8.6350407,
-          47.6971337
-        ],
-        [
-          8.6350383,
-          47.6971622
-        ],
-        [
-          8.6350142,
-          47.697163
-        ],
-        [
-          8.6350135,
-          47.6971675
-        ],
-        [
-          8.6349099,
-          47.6971635
-        ],
-        [
-          8.6349119,
-          47.6971299
-        ],
-        [
-          8.6348324,
-          47.6971278
-        ],
-        [
-          8.6348415,
-          47.6970003
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/29456226",
   "properties": {
     "addr:city": "Winterthur",
@@ -1465,8 +1326,9 @@
     "addr:street": "Rheingoldstrasse",
     "amenity": "police",
     "fax": "+41 52 632 89 39",
-    "name": "Polizei",
+    "name": "Polizeistation Neuhausen am Rheinfall",
     "opening_hours": "Mo 07:00-11:30,13:45-17:00; Tu,We,Fr 13:45-17:00; Th 13:45-18:00",
+    "operator": "Schaffhauser Polizei",
     "phone": "+41 52 632 89 20",
     "id": "node/29885122"
   },
@@ -1652,7 +1514,9 @@
     "addr:street": "Bahnhofstrasse",
     "amenity": "police",
     "email": "kapo@sz.ch",
+    "name": "Polizeiposten Schwyz (Hauptposten)",
     "opening_hours": "Mo-Fr 08:00-11:30,14:00-17:30; Sa 09:30-11:30",
+    "operator": "Kantonspolizei Schwyz",
     "phone": "+41 41 819 28 37",
     "website": "https://www.sz.ch/behoerden/sicherheit-polizei/kantonspolizei/standorte/standort-hauptposten-schwyz.html/72-416-411-408-2795-2779/strasse/Bahnhofstrasse%207%2C%206430%20Schwyz/l/de",
     "id": "node/291384182"
@@ -1698,9 +1562,10 @@
     "addr:postcode": "8820",
     "addr:street": "Schönenbergstrasse",
     "amenity": "police",
-    "name": "Stadtpolizei und Fundbüro",
+    "description": "Polizeiposten und Fundbüro",
+    "name": "Stadtpolizei Wädenswil",
     "operator": "Stadt Wädenswil",
-    "phone": "+41 44 789 74 00",
+    "source": "+41 44 789 74 00",
     "id": "node/307669469"
   },
   "geometry": {
@@ -1768,7 +1633,7 @@
     "email": "info.polizei@zg.ch",
     "name": "Polizeidienststelle Ägerital",
     "opening_hours": "Mo 16:00-18:00; Tu 09:45-11:45; We 15:30-17:00; Th 09:45-11:45; Fr 09:45-11:45",
-    "operator": "Kantonspolizei Zug",
+    "operator": "Zuger Polizei",
     "phone": "+41 41 723 66 80",
     "website": "https://www.zg.ch/behoerden/sicherheitsdirektion/zuger-polizei/polizeidienststellen/polizeidienststelle-aegerital",
     "id": "node/335780668"
@@ -1839,6 +1704,7 @@
     "amenity": "police",
     "name": "Gemeindepolizei Fehraltorf-Russikon",
     "opening_hours": "Mo,We-Th 14:00-18:15; Fr 07:30-14:00",
+    "operator": "Gemeinde Fehraltorf-Russikon",
     "phone": "+41 43 355 77 30",
     "id": "node/392389131"
   },
@@ -1884,8 +1750,8 @@
     "addr:street": "Chlini Schanz",
     "amenity": "police",
     "fax": "+41 52 741 34 93",
-    "name": "Kantonspolizei",
-    "operator": "Kantonspolizei Schaffhausen",
+    "name": "Polizeistation Stein am Rhein",
+    "operator": "Schaffhauser Polizei",
     "phone": "+41 52 741 22 04",
     "url": "http://www.shpol.ch/",
     "id": "node/436132061"
@@ -1906,7 +1772,8 @@
     "addr:postcode": "8260",
     "addr:street": "Rathausplatz",
     "amenity": "police",
-    "name": "Stadtpolizei",
+    "name": "Stadtpolizei Stein am Rhein",
+    "operator": "Stadt Stein am Rhein",
     "phone": "+41 52 742 20 10",
     "wheelchair": "no",
     "id": "node/436132162"
@@ -1996,10 +1863,9 @@
     "addr:postcode": "8004",
     "addr:street": "Kasernenstrasse",
     "amenity": "police",
-    "name": "Polizeiposten Hauptgebäude Zürich",
+    "name": "Polizeiposten Zürich (Hauptwache)",
     "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 247 22 11",
-    "wikidata": "Q1728099",
     "wikipedia": "de:Kantonspolizei Zürich",
     "id": "node/474453891"
   },
@@ -2085,8 +1951,9 @@
     "addr:postcode": "8600",
     "addr:street": "Wilstrasse",
     "amenity": "police",
-    "name": "Stadtpolizei",
+    "name": "Stadtpolizei Dübendorf",
     "opening_hours": "Mo-Fr 08:00-11:30, 13:30-16:30",
+    "operator": "Stadt Dübendorf",
     "phone": "+41 44 801 69 00",
     "website": "http://www.duebendorf.ch",
     "wheelchair": "no",
@@ -2156,7 +2023,7 @@
     "addr:street": "Bahnhofstrasse",
     "amenity": "police",
     "name": "Stadtpolizei Wetzikon",
-    "operator": "Stadtpolizei Wetzikon",
+    "operator": "Stadt Wetzikon",
     "phone": "+41 44 931 23 33",
     "website": "https://www.wetzikon.ch/Verwaltung/Sicherheit/stadtpolizei",
     "id": "node/664398860"
@@ -2166,31 +2033,6 @@
     "coordinates": [
       8.8028842,
       47.3285564
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/704679492",
-  "properties": {
-    "addr:city": "Schaffhausen",
-    "addr:housenumber": "1",
-    "addr:postcode": "8200",
-    "addr:street": "Beckenstube",
-    "amenity": "police",
-    "email": "info@shpol.ch",
-    "fax": "+41 52 624 50 70",
-    "name": "Schaffhauser Polizei",
-    "phone": "+41 52 624 24 24",
-    "website": "http://www.shpol.ch",
-    "wheelchair": "limited",
-    "id": "node/704679492"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6352345,
-      47.6950325
     ]
   }
 },
@@ -2345,7 +2187,7 @@
     "addr:postcode": "8853",
     "addr:street": "Alpenblickstrasse",
     "amenity": "police",
-    "name": "Hauptposten Lachen",
+    "name": "Polizeiposten Lachen (Hauptposten)",
     "opening_hours": "Mo-Fr 08:00-11:30,14:00-17:30; Sa 09:30-11:30",
     "operator": "Kantonspolizei Schwyz",
     "phone": "+41 41 819 59 59",
@@ -2394,6 +2236,7 @@
     "addr:street": "Eichenstrasse",
     "amenity": "police",
     "name": "Polizeiposten Höfe",
+    "operator": "Kantonspolizei Schwyz",
     "phone": "+41 41 819 58 58",
     "id": "node/1166423434"
   },
@@ -2463,7 +2306,9 @@
     "addr:postcode": "6403",
     "addr:street": "Bärenmatte",
     "amenity": "police",
-    "name": "KP Posten",
+    "name": "Polizeiposten Küssnacht (Hauptposten)",
+    "operator": "Kantonspolizei Schwyz",
+    "phone": "+41 41 819 53 64",
     "id": "node/1411346290"
   },
   "geometry": {
@@ -2527,7 +2372,9 @@
     "addr:postcode": "8953",
     "addr:street": "Bremgartnerstrasse",
     "amenity": "police",
-    "name": "Stadtpolizei und Fundbüro",
+    "description": "Stadtpolizei und Fundbüro",
+    "name": "Stadtpolizei Dietikon",
+    "operator": "Stadt Dietikon",
     "phone": "+41 44 740 17 77",
     "id": "node/1683181161"
   },
@@ -2598,8 +2445,10 @@
     "addr:postcode": "8805",
     "addr:street": "Poststrasse",
     "amenity": "police",
-    "name": "Gemeindepolizei",
+    "name": "Gemeindepolizei Richterswil",
+    "operator": "Gemeinde Richterswil",
     "phone": "+41 44 787 11 50",
+    "website": "https://www.richterswil.ch/aemter/2894",
     "id": "node/1800668711"
   },
   "geometry": {
@@ -2619,7 +2468,8 @@
     "addr:postcode": "8152",
     "addr:street": "Europastrasse",
     "amenity": "police",
-    "name": "Kantonspolizei Zürich",
+    "name": "Polizeiposten Glattbrugg",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 829 80 90",
     "wheelchair": "yes",
     "id": "node/1859886660"
@@ -2641,7 +2491,8 @@
     "addr:postcode": "8153",
     "addr:street": "Lindenweg",
     "amenity": "police",
-    "name": "Kantonspolizei",
+    "name": "Polizeiposten Rümlang",
+    "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 818 76 30",
     "id": "node/1873121036"
   },
@@ -2733,6 +2584,7 @@
     "amenity": "police",
     "name": "Stadtpolizei Schlieren/Urdorf",
     "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
+    "operator": "Stadt Schlieren",
     "phone": "+41 44 738 14 14",
     "id": "node/2279236752"
   },
@@ -2806,26 +2658,6 @@
     "coordinates": [
       8.6351058,
       47.6945605
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2460183817",
-  "properties": {
-    "addr:city": "Schaffhausen",
-    "addr:housenumber": "1",
-    "addr:postcode": "8200",
-    "addr:street": "Emmersbergstrasse",
-    "amenity": "police",
-    "name": "Schaffhauser Verwaltungspolizei",
-    "id": "node/2460183817"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6368096,
-      47.7021176
     ]
   }
 },
@@ -3087,6 +2919,7 @@
     "amenity": "police",
     "description": "Umweltschutz- und Seepolizei Ausserschwyz Kantonspolizei Schwyz",
     "name": "Umweltschutz- und Seepolizei",
+    "operator": "Kantonspolizei Schwyz",
     "phone": "+41 55 410 44 93",
     "website": "https://www.sz.ch/xml_1/internet/de/application/d999/d2537/d2538/d23859/p26217.cfm?strasse=Hurdnerwaeldlistrasse+27a+8808+Pfaeffikon",
     "id": "node/4207802837"
@@ -3128,12 +2961,13 @@
   "id": "node/4428671449",
   "properties": {
     "addr:city": "Thayngen",
-    "addr:housenumber": "30",
+    "addr:housenumber": "32",
     "addr:postcode": "8240",
     "addr:street": "Dorfstrasse",
     "amenity": "police",
     "emergency_telephone_code": "+41 52 624 24 24",
-    "name": "Schaffhauser Polizei",
+    "name": "Polizeistation Thayngen",
+    "operator": "Schaffhauser Polizei",
     "id": "node/4428671449"
   },
   "geometry": {
@@ -3405,6 +3239,8 @@
     "addr:street": "Hauptstrasse",
     "amenity": "police",
     "name": "Polizeiposten Muotathal",
+    "operator": "Kantonspolizei Schwyz",
+    "phone": "+41 41 830 11 17",
     "id": "node/6651575501"
   },
   "geometry": {
@@ -3426,7 +3262,7 @@
     "amenity": "police",
     "name": "Polizeidienststelle Baar",
     "opening_hours": "Mo: 08:00 - 11:45 Uhr / 13:30 - 18:00 Uhr Di - Fr: 08:00 - 11:45 Uhr / 13:30 - 17:00 Uhr",
-    "operator": "Kantonspolizei Zug",
+    "operator": "Zuger Polizei",
     "phone": "+41 41 723 65 40",
     "id": "node/6878553597"
   },
@@ -3449,7 +3285,7 @@
     "amenity": "police",
     "name": "Polizeidienststelle Menzingen / Neuheim",
     "opening_hours": "Mo 16:00 - 18:00 Uhr Mi: 15:30 - 17:00 Uhr Fr: 09:45 - 11:45 Uhr",
-    "operator": "Kantonspolizei Zug",
+    "operator": "Zuger Polizei",
     "phone": "+41 41 723 66 85",
     "website": "https://www.zg.ch/behoerden/sicherheitsdirektion/zuger-polizei/polizeidienststellen/polizeidienststelle-menzingen-neuheim",
     "id": "node/7008903567"
@@ -3825,6 +3661,93 @@
     "coordinates": [
       8.5757636,
       47.2777809
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8520267281",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8200",
+    "addr:street": "Beckenstube 1",
+    "amenity": "police",
+    "name": "Stadtpolizei Schaffhausen",
+    "operator": "Stadt Schaffhausen",
+    "id": "node/8520267281"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6352839,
+      47.6950397
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8520354495",
+  "properties": {
+    "addr:city": "Unteriberg",
+    "addr:housenumber": "42",
+    "addr:postcode": "8842",
+    "addr:street": "Oberibergerstrasse",
+    "amenity": "police",
+    "name": "Polizeiposten Unteriberg",
+    "operator": "Kantonspolizei Schwyz",
+    "phone": "+41 55 414 11 41",
+    "id": "node/8520354495"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.798925,
+      47.0584914
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8520369956",
+  "properties": {
+    "addr:city": "Goldau",
+    "addr:housenumber": "19",
+    "addr:postcode": "6410",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "police",
+    "name": "Polizeiposten Goldau",
+    "operator": "Kantonspolizei Schwyz",
+    "phone": "+41 41 819 53 15",
+    "id": "node/8520369956"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5455615,
+      47.0494528
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8520382283",
+  "properties": {
+    "addr:city": "Siebnen",
+    "addr:housenumber": "6",
+    "addr:postcode": "8854",
+    "addr:street": "Stachelhofstrasse",
+    "amenity": "police",
+    "name": "Polizeiposten Siebnen",
+    "operator": "Kantonspolizei Schwyz",
+    "phone": "+41 41 819 59 10",
+    "id": "node/8520382283"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9126766,
+      47.1748996
     ]
   }
 }

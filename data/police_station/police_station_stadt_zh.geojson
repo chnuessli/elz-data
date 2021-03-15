@@ -11,7 +11,7 @@
     "addr:street": "Gänzilooweg",
     "amenity": "police",
     "building": "yes",
-    "name": "Wachposten Strassenverkehrsamt (Diensthundeabteilung)",
+    "name": "Diensthundeabteilung Stadtpolizei Zürich",
     "opening_hours": "24/7",
     "operator": "Stadtpolizei Zürich",
     "id": "way/39652667"
@@ -214,10 +214,9 @@
     "addr:postcode": "8004",
     "addr:street": "Kasernenstrasse",
     "amenity": "police",
-    "name": "Polizeiposten Hauptgebäude Zürich",
+    "name": "Polizeiposten Zürich (Hauptwache)",
     "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 247 22 11",
-    "wikidata": "Q1728099",
     "wikipedia": "de:Kantonspolizei Zürich",
     "id": "node/474453891"
   },
