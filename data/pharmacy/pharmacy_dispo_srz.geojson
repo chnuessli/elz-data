@@ -6502,6 +6502,7 @@
     "amenity": "pharmacy",
     "dispensing": "yes",
     "drive_through": "no",
+    "healthcare": "pharmacy",
     "name": "Apotheke Medzentrum Pfungen",
     "phone": "+41 52 305 03 50",
     "website": "https://medzentrum.ch/apotheke/",
@@ -6510,8 +6511,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6484867,
-      47.5164436
+      8.6482185,
+      47.516373
     ]
   }
 },
@@ -7832,6 +7833,24 @@
     "coordinates": [
       8.5503431,
       47.3783744
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8538097113",
+  "properties": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Toppharm Römer1",
+    "id": "node/8538097113"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7583327,
+      47.5096921
     ]
   }
 }
