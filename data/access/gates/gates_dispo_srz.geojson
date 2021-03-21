@@ -41114,8 +41114,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8995435,
-      47.1809283
+      8.8995725,
+      47.1809341
     ]
   }
 },
@@ -63525,6 +63525,22 @@
     "coordinates": [
       8.5623331,
       47.4145624
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8541349616",
+  "properties": {
+    "access": "private",
+    "barrier": "lift_gate",
+    "id": "node/8541349616"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5569514,
+      47.4311612
     ]
   }
 }
