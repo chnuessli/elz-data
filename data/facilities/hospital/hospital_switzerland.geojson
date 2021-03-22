@@ -46916,6 +46916,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/5316974819",
+  "properties": {
+    "amenity": "hospital",
+    "entrance": "yes",
+    "healthcare": "hospital",
+    "id": "node/5316974819"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4167256,
+      47.3342494
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/5327167859",
   "properties": {
     "contact:email": "physiotherapie.linde@hirslanden.ch",
