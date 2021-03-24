@@ -7047,6 +7047,7 @@
   "properties": {
     "amenity": "clinic",
     "building": "hospital",
+    "building:levels": "5",
     "contact:addr:full": "Freiburgstrasse 7, 3010 Bern",
     "contact:email": "zentrale.dienste@zmk.unibe.ch",
     "contact:fax": "+41 31 6324906",
@@ -7055,6 +7056,7 @@
     "healthcare:speciality": "dental_oral_maxillo_facial_surgery",
     "name": "Zahnmedizinische Kliniken Universität Bern",
     "opening_hours": "Mo-Fr 07:45-08:45; Sa-Su off",
+    "roof:shape": "flat",
     "short_name": "zmk",
     "website": "https://www.zmk.unibe.ch",
     "id": "way/59275028"
@@ -32800,6 +32802,7 @@
     "addr:street": "Fürstenlandstrasse",
     "amenity": "hospital",
     "emergency": "yes",
+    "healthcare": "hospital",
     "name": "Spital Wil",
     "id": "way/675594223"
   },
@@ -48922,6 +48925,30 @@
     "coordinates": [
       8.5568696,
       47.362541
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8553982934",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "22",
+    "addr:postcode": "8406",
+    "addr:street": "Klosterstrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "vaccination",
+    "name": "Corona-Impfzentrum",
+    "operator": "Kantonsspital Winterthur",
+    "operator:type": "public",
+    "id": "node/8553982934"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7059545,
+      47.4874941
     ]
   }
 }

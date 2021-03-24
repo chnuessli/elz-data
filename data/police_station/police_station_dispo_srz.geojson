@@ -3183,6 +3183,7 @@
     "opening_hours": "Mo: 08:00 - 11:45 Uhr / 13:30 - 18:00 Uhr Di - Fr: 08:00 - 11:45 Uhr / 13:30 - 17:00 Uhr",
     "operator": "Zuger Polizei",
     "phone": "+41 41 723 65 40",
+    "wheelchair": "yes",
     "id": "node/6878553597"
   },
   "geometry": {
