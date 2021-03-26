@@ -22707,24 +22707,24 @@
     "coordinates": [
       [
         [
-          6.6403544,
-          46.5426695
+          6.6403377,
+          46.542667
         ],
         [
-          6.640397,
-          46.5424557
+          6.6403766,
+          46.5424516
         ],
         [
-          6.6407503,
-          46.542485
+          6.6406806,
+          46.5424776
         ],
         [
-          6.6407035,
-          46.5426959
+          6.6406416,
+          46.542693
         ],
         [
-          6.6403544,
-          46.5426695
+          6.6403377,
+          46.542667
         ]
       ]
     ]
@@ -48982,30 +48982,6 @@
     "coordinates": [
       8.5568696,
       47.362541
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8553982934",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "22",
-    "addr:postcode": "8406",
-    "addr:street": "Klosterstrasse",
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "healthcare:speciality": "vaccination",
-    "name": "Corona-Impfzentrum",
-    "operator": "Kantonsspital Winterthur",
-    "operator:type": "public",
-    "id": "node/8553982934"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7059545,
-      47.4874941
     ]
   }
 }
