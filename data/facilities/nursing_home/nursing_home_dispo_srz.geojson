@@ -2090,12 +2090,20 @@
   "type": "Feature",
   "id": "way/28529589",
   "properties": {
+    "addr:city": "Langnau am Albis",
     "addr:housenumber": "2",
+    "addr:postcode": "8135",
     "addr:street": "Sihlwaldstrasse",
+    "alt_name": "Altersheim Sonnegg",
     "amenity": "social_facility",
     "building": "residential",
+    "email": "info@sonnegg-langnau.ch",
+    "name": "Sonnegg Wohn- und Pflegezentrum",
+    "operator": "Stiftung Sonnegg",
+    "phone": "+41 44 714 74 74",
     "social_facility": "group_home",
     "social_facility:for": "senior",
+    "website": "https://www.sonnegg-langnau.ch/",
     "id": "way/28529589"
   },
   "geometry": {
@@ -20245,6 +20253,144 @@
 },
 {
   "type": "Feature",
+  "id": "way/511346905",
+  "properties": {
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "WohnenPlus Im Baumgarten",
+    "operator": "Stiftung Alterszentrum Region Bülach",
+    "phone": "+41 44 861 83 60",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "source": "Kanton Zürich Orthofotos 2015",
+    "id": "way/511346905"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5472771,
+          47.503166
+        ],
+        [
+          8.5471087,
+          47.5030879
+        ],
+        [
+          8.5470234,
+          47.5031727
+        ],
+        [
+          8.5469863,
+          47.5031556
+        ],
+        [
+          8.5469271,
+          47.5032143
+        ],
+        [
+          8.5467583,
+          47.5031368
+        ],
+        [
+          8.546929,
+          47.5029672
+        ],
+        [
+          8.5469646,
+          47.5029761
+        ],
+        [
+          8.5470256,
+          47.5029147
+        ],
+        [
+          8.5472017,
+          47.5029946
+        ],
+        [
+          8.5471829,
+          47.5030136
+        ],
+        [
+          8.5472255,
+          47.5030329
+        ],
+        [
+          8.5472875,
+          47.5029706
+        ],
+        [
+          8.5476523,
+          47.503136
+        ],
+        [
+          8.54755,
+          47.503239
+        ],
+        [
+          8.5474765,
+          47.5032057
+        ],
+        [
+          8.5474651,
+          47.5032173
+        ],
+        [
+          8.5473891,
+          47.5031838
+        ],
+        [
+          8.5472474,
+          47.5032922
+        ],
+        [
+          8.5472714,
+          47.5033057
+        ],
+        [
+          8.5470732,
+          47.5034693
+        ],
+        [
+          8.5470406,
+          47.5034512
+        ],
+        [
+          8.5469676,
+          47.5035115
+        ],
+        [
+          8.5468067,
+          47.5034226
+        ],
+        [
+          8.5470133,
+          47.503252
+        ],
+        [
+          8.5470495,
+          47.503272
+        ],
+        [
+          8.5471225,
+          47.5032117
+        ],
+        [
+          8.547185,
+          47.5032393
+        ],
+        [
+          8.5472771,
+          47.503166
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/543520806",
   "properties": {
     "addr:housenumber": "22",
@@ -24653,30 +24799,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8481828562",
-  "properties": {
-    "addr:city": "Bachenbülach",
-    "addr:housenumber": "4",
-    "addr:postcode": "8184",
-    "addr:street": "Schulhausstrasse",
-    "amenity": "social_facility",
-    "name": "Alterszentrum - Pflegewohngruppe Im Baumgarten",
-    "operator": "Stiftung Alterszentrum Region Bülach",
-    "phone": "+41 44 861 83 60",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "id": "node/8481828562"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5473909,
-      47.5030839
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8482426412",
   "properties": {
     "addr:city": "Eglisau",
@@ -25041,6 +25163,32 @@
     "coordinates": [
       8.5361434,
       47.3201591
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8570528588",
+  "properties": {
+    "addr:city": "Männedorf",
+    "addr:housenumber": "227",
+    "addr:postcode": "8708",
+    "addr:street": "Seestrasse",
+    "amenity": "social_facility",
+    "email": "pflege.seerose@bethesda-alterszentren.ch",
+    "name": "Altersheim Seerose",
+    "operator": "Bethesda Alterszentren AG",
+    "phone": "+41 44 920 05 64",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.bethesda-alterszentren.ch/seerosespan-maennedorf/ueber-uns/index.html",
+    "id": "node/8570528588"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6922246,
+      47.252136
     ]
   }
 }

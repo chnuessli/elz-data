@@ -2046,8 +2046,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5393239,
-      47.521025
+      8.5392963,
+      47.5210012
     ]
   }
 },
@@ -7851,6 +7851,23 @@
     "coordinates": [
       8.7583327,
       47.5096921
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8568822659",
+  "properties": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Benu",
+    "id": "node/8568822659"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.581108,
+      47.45252
     ]
   }
 }

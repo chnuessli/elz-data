@@ -1118,7 +1118,9 @@
   "id": "node/8383564426",
   "properties": {
     "addr:city": "Winterthur",
-    "addr:postcode": "8404",
+    "addr:housenumber": "22",
+    "addr:postcode": "8406",
+    "addr:street": "Klosterstrasse",
     "alt_name": "COVID-19 Impfzentrum Winterthur",
     "healthcare": "centre",
     "healthcare:speciality": "vaccination",
@@ -1127,13 +1129,14 @@
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Kanton Zürich",
     "vaccination": "covid19",
+    "website": "https://www.impfzentrumwinterthur.ch/",
     "id": "node/8383564426"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.706429,
-      47.4867953
+      8.705459,
+      47.4882153
     ]
   }
 },
