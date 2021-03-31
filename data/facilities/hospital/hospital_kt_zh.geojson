@@ -6854,8 +6854,9 @@
     "amenity": "clinic",
     "building": "yes",
     "healthcare": "clinic",
-    "name": "Psychiatrische Langzeitpflege",
+    "name": "Clienia Bergheim Psychiatrische Langzeitpflege",
     "note": "Für Schutz & Rettung u.a einsatzrelevant.",
+    "operator": "Clinea AG",
     "website": "https://www.clienia.ch/de/standorte/standorte-stationaer/zuerich/bergheim-uetikon-am-see",
     "id": "way/867378613"
   },

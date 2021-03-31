@@ -3989,8 +3989,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.900934,
-      47.1814768
+      8.9009221,
+      47.1814648
     ]
   }
 },
@@ -4236,9 +4236,14 @@
   "type": "Feature",
   "id": "node/7074439334",
   "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haupt-Eingang Schützenhaus",
+    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Unterägeri",
     "id": "node/7074439334"
   },
   "geometry": {
@@ -24636,6 +24641,711 @@
     "coordinates": [
       8.5821623,
       47.3202751
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8573830431",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Gemeindehaus 1. Geschoss, links neben Schalter Einwohnerdienste an der Wand.",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo 08:00-11:30,13:30-18:00; Tu-Th 08:00-11:30,13:30-16:30; Fr 07:00-15:00",
+    "operator": "Gemeindeverwaltung Kilchberg",
+    "id": "node/8573830431"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5451243,
+      47.3246374
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8573912085",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "In der Apotheke",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
+    "operator": "Apotheke Küsnacht",
+    "phone": "044 910 04 04",
+    "id": "node/8573912085"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5816738,
+      47.318419
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8573989124",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Hauseingang",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/8573989124"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5496002,
+      47.4044888
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574001445",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Hauseingang",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/8574001445"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5501089,
+      47.4040901
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574099763",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Treppenhaus EG",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Su 06:00-23:00",
+    "operator": "Gemeinde Männedorf, Facility Management",
+    "phone": "044 921 67 69",
+    "id": "node/8574099763"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6951268,
+      47.2533095
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574115090",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Defibrillator ist beim Eingang der Turnhalle Schache Delta in einem Kasten (von Aussen zugänglich)",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeindeverwaltung Hedingen",
+    "phone": "044 762 25 25",
+    "id": "node/8574115090"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.445261,
+      47.2966832
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574210685",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "beim Haupteingang",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Stadt Uster",
+    "id": "node/8574210685"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7169956,
+      47.3369169
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574210686",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "beim Haupteingang",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Stadt Uster",
+    "id": "node/8574210686"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7259769,
+      47.352008
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574210687",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Sanitätsraum",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Stadt Uster",
+    "id": "node/8574210687"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6914931,
+      47.3422415
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574210688",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Bademeisterraum",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Stadt Uster",
+    "id": "node/8574210688"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7213287,
+      47.3469105
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574210689",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "im Garderobengebäude",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Stadt Uster",
+    "id": "node/8574210689"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7253922,
+      47.3447878
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574210690",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "öffentliches WC",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Stadt Uster",
+    "id": "node/8574210690"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7255961,
+      47.3598921
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574210691",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Sanitätsraum",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "Stadt Uster",
+    "id": "node/8574210691"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7256336,
+      47.3604095
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574210692",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Bademeisterraum",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "Stadt Uster",
+    "id": "node/8574210692"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.726449,
+      47.3594124
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574210693",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "beim Haupteingang",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "Stadt Uster",
+    "id": "node/8574210693"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7191574,
+      47.3486833
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574210694",
+  "properties": {
+    "access": "no",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "Stadt Uster",
+    "id": "node/8574210694"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7234335,
+      47.3503298
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574210695",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "im Stadthoofsaal",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "Stadt Uster",
+    "id": "node/8574210695"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7154721,
+      47.3488651
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574210696",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Turnhalle",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "Stadt Uster",
+    "id": "node/8574210696"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7306386,
+      47.345831
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574210697",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "in der Turnhalle",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "Stadt Uster",
+    "id": "node/8574210697"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7175173,
+      47.3603972
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574210698",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Bootshaus (San-Rucksäcke)",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "Stadt Uster",
+    "id": "node/8574210698"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6912557,
+      47.3425414
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574210699",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "EG Eingang Verwaltungsgebäude",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "Stadt Uster",
+    "id": "node/8574210699"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6931896,
+      47.3505469
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574210700",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "im Aufenthaltsraum Werkgebäude",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "Stadt Uster",
+    "id": "node/8574210700"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7149021,
+      47.3534526
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574472017",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Zänti Volketswil beim Ha",
+    "description": "während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Do 9.00-19.00 Fr 9.00-20.00 Sa 8.00-17.00",
+    "operator": "Zänti Volketswil",
+    "id": "node/8574472017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6807966,
+      47.3883646
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8575469417",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Migros Witikon, bei Selfcheck-Kasse",
+    "description": "während Öffnungszeiten verfügbsr",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Sa 08h-20h",
+    "operator": "Migros",
+    "phone": "0585635270",
+    "id": "node/8575469417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5857016,
+      47.3591075
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8577475481",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bei den Briefkästen - Eingangstüre die Mobiliar",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "resQshock GmbH, 8863 Buttikon",
+    "phone": "055 460 22 44",
+    "id": "node/8577475481"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8495447,
+      47.1898064
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8577499497",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingang neues Schulhaus Hütten Hinweisschild Kandelaber Dorftrasse 28",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Hanspeter Schawalder Hauswart Schule",
+    "phone": "0792265048",
+    "id": "node/8577499497"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.665933,
+      47.1751567
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8577514136",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Gang im Gemeindehaus",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo,We 08:30-12:00,14:00-16:30; Tu 07:15-12:00,14:00-16:30; Th 08:30-12:00,14:00-18:45; Fr 08:30-14:00",
+    "operator": "Gemeinde Wangen-Brüttiselllen",
+    "phone": "044 805 91 11",
+    "id": "node/8577514136"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6291666,
+      47.4204747
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8577530559",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Gemeinschaftszentrum Freienbach",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/8577530559"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7595213,
+      47.2052282
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8577563906",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Büroräumlichkeiten der Amavita Apotheke",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:30-18:30; Sa 07:30-16:00; Su 10:00-12:00",
+    "operator": "Amavita Apotheke",
+    "phone": "058 878 24 10",
+    "id": "node/8577563906"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6750564,
+      47.2289327
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8577563907",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingang Bürogebäude Zürichsee Zeitung / Gessner Immobilien AG",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 06:45-19:00; Sa 08:00-18:00",
+    "operator": "Gessner Immobilien AG",
+    "phone": "0447898640",
+    "id": "node/8577563907"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6691409,
+      47.2310729
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8577563908",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "am Schalter",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 09:00-12:30,14:00-16:30; Sa 09:00-12:00",
+    "operator": "Zürcher Kantonalbank",
+    "phone": "0844843823",
+    "id": "node/8577563908"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6722396,
+      47.2298695
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8577572326",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Parterre, Vorraum zum Behinderten-WC, auf der linken Seite.",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-17:00",
+    "operator": "Stadt Winterthur / Heinrich Grüebler",
+    "phone": "052 267 51 15",
+    "id": "node/8577572326"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7314084,
+      47.5008124
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8577575586",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Kirchgemeindezentrum (normalerweise verschlossen) im Foyer befindet sich ein gesicherter Kasten mit AED darin. Falls das Zentrum abgeschlossen ist, befindet sich im Haus vis à vis das Pfarreisekretariat und die Pfarrwohnung.",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "id": "node/8577575586"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4608768,
+      47.4094321
     ]
   }
 }

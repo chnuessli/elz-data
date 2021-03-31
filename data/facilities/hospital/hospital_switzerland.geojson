@@ -11626,17 +11626,14 @@
   "type": "Feature",
   "id": "way/136281156",
   "properties": {
-    "addr:city": "Samedan",
-    "addr:housenumber": "3",
-    "addr:postcode": "7503",
-    "addr:street": "Via Nouva",
     "amenity": "hospital",
-    "contact:phone": "+41 81 851 81 11",
+    "contact:phone": "+41 818518111",
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
-    "name": "Ospidel Engiadin'Ota",
+    "name": "Spital Oberengadin / Ospidel Engiadin'Ota",
     "name:de": "Spital Oberengadin",
+    "name:rm": "Ospidel Engiadin'Ota",
     "website": "https://www.spital-oberengadin.ch/",
     "wikidata": "Q2311225",
     "id": "way/136281156"
@@ -11646,52 +11643,52 @@
     "coordinates": [
       [
         [
-          9.8780636,
-          46.5400918
+          9.8785785,
+          46.5394899
         ],
         [
-          9.8781815,
-          46.5399195
+          9.8786477,
+          46.539483
         ],
         [
-          9.8788938,
-          46.5399533
+          9.8789962,
+          46.539638
         ],
         [
-          9.8789232,
-          46.5398857
+          9.8793987,
+          46.5398438
         ],
         [
-          9.8790214,
-          46.5398987
+          9.8796192,
+          46.5400284
         ],
         [
-          9.879051,
-          46.5399026
+          9.8788302,
+          46.5405326
         ],
         [
-          9.8790712,
-          46.5399219
+          9.8783722,
+          46.5403684
         ],
         [
-          9.8792539,
-          46.5400966
+          9.8779142,
+          46.5402041
         ],
         [
-          9.8793408,
-          46.5401797
+          9.8780132,
+          46.5400883
         ],
         [
-          9.8788938,
-          46.5404534
+          9.8780257,
+          46.5400749
         ],
         [
-          9.8788672,
-          46.5404418
+          9.8781458,
+          46.5399469
         ],
         [
-          9.8780636,
-          46.5400918
+          9.8785785,
+          46.5394899
         ]
       ]
     ]
@@ -43876,8 +43873,9 @@
     "amenity": "clinic",
     "building": "yes",
     "healthcare": "clinic",
-    "name": "Psychiatrische Langzeitpflege",
+    "name": "Clienia Bergheim Psychiatrische Langzeitpflege",
     "note": "Für Schutz & Rettung u.a einsatzrelevant.",
+    "operator": "Clinea AG",
     "website": "https://www.clienia.ch/de/standorte/standorte-stationaer/zuerich/bergheim-uetikon-am-see",
     "id": "way/867378613"
   },
