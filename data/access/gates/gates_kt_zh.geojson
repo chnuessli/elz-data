@@ -8749,6 +8749,8 @@
   "id": "node/1011743497",
   "properties": {
     "barrier": "gate",
+    "opening_hours": "24/7",
+    "opening_hours:covid19": "open",
     "id": "node/1011743497"
   },
   "geometry": {
@@ -11564,6 +11566,8 @@
   "id": "node/1390813384",
   "properties": {
     "barrier": "gate",
+    "foot": "yes",
+    "opening_hours:covid19": "24/7",
     "id": "node/1390813384"
   },
   "geometry": {

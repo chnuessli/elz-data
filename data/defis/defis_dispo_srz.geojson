@@ -3564,7 +3564,7 @@
     "emergency:phone": "144",
     "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "opening_hours": "24/7",
-    "operator": "Samariterverein Lauerz",
+    "operator": "Feuerwehr Lauerz",
     "phone": "+41 78 732 55 85",
     "id": "node/6976938428"
   },
@@ -11704,12 +11704,12 @@
   "type": "Feature",
   "id": "node/7880596449",
   "properties": {
-    "access": "customers",
+    "access": "yes",
     "defibrillator:location": "Gemeindeverwaltung Lauerz",
-    "description": "während Öffnungszeiten verfügbar",
+    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
     "opening_hours": "24/7",
     "operator": "LFZ",
     "id": "node/7880596449"
@@ -17548,8 +17548,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "SV Schönenberg-Hütten",
-    "phone": "044 788 11 45",
+    "operator": "Samariterverein Wädenswi",
+    "phone": "077 848 03 47",
     "id": "node/8226599064"
   },
   "geometry": {
@@ -17557,29 +17557,6 @@
     "coordinates": [
       8.6440612,
       47.1926178
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8226599065",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Eingang Seite Pausenplatz (Beschilderung beachten!)",
-    "description": "24h verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "SV Schönenberg-Hütten",
-    "phone": "044 788 11 45",
-    "id": "node/8226599065"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6663027,
-      47.1752877
     ]
   }
 },
@@ -18080,8 +18057,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5900173,
-      47.0247182
+      8.5898403,
+      47.0243342
     ]
   }
 },
@@ -25346,6 +25323,22 @@
     "coordinates": [
       8.4608768,
       47.4094321
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8579201833",
+  "properties": {
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "id": "node/8579201833"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4752906,
+      47.1050902
     ]
   }
 }

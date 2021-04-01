@@ -9213,7 +9213,6 @@
   "properties": {
     "aeroway": "helipad",
     "building": "yes",
-    "icao": "LSGG",
     "id": "way/774984400"
   },
   "geometry": {
