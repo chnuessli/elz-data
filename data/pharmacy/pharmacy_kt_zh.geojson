@@ -2332,10 +2332,12 @@
     "amenity": "pharmacy",
     "branch": "Winterthur Oberwinterthur",
     "brand": "TopPharm",
+    "check_date:opening_hours": "2021-04-04",
     "name": "TopPharm Römer Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
     "operator": "TopPharm Genossenschaft",
     "website": "https://www.apotheke.ch/roemer-winterthur",
+    "wheelchair": "yes",
     "id": "node/706426545"
   },
   "geometry": {
