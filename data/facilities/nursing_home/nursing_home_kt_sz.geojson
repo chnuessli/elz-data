@@ -413,7 +413,6 @@
     "amenity": "nursing_home",
     "building": "yes",
     "name": "BSZ Stiftung",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "website": "http://www.bsz-stiftung.ch/",
     "id": "way/174288816"
   },
@@ -933,7 +932,6 @@
     "building": "yes",
     "email": "info@aphybrig.ch",
     "name": "Alters- und Pflegeheim Ybrig",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "phone": "+41(0)55 414 66 00",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
@@ -1794,7 +1792,6 @@
   "id": "node/7096245524",
   "properties": {
     "amenity": "social_facility",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "BSZ Stiftung",
     "social_facility": "group_home",
     "social_facility:for": "disabled",

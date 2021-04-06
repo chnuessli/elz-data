@@ -3561,6 +3561,7 @@
   "id": "node/1411264382",
   "properties": {
     "amenity": "pharmacy",
+    "healthcare": "pharmacy",
     "id": "node/1411264382"
   },
   "geometry": {

@@ -13,7 +13,6 @@
     "healthcare": "centre",
     "healthcare:speciality": "vaccination",
     "name": "Impfzentrum Spital Schwyz",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "phone": "041 818 41 11",
     "vaccination": "covid19",
     "website": "https://www.spital-schwyz.ch",
@@ -39,7 +38,6 @@
     "healthcare": "centre",
     "healthcare:speciality": "vaccination",
     "name": "Impfzentrum Spital Einsiedeln",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "vaccination": "covid19",
     "website": "https://www.spital-einsiedeln.ch/home",
     "id": "node/8320819661"
@@ -64,7 +62,6 @@
     "healthcare": "centre",
     "healthcare:speciality": "vaccination",
     "name": "Impfzentrum Spital Lachen",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "phone": "+41 41 819 15 95",
     "vaccination": "covid19",
     "website": "https://www.spital-lachen.ch/coronavirus.html",
