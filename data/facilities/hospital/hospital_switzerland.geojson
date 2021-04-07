@@ -20340,9 +20340,12 @@
   "type": "Feature",
   "id": "way/317678774",
   "properties": {
+    "addr:city": "Teufen AR",
     "addr:housenumber": "17",
+    "addr:postcode": "9053",
     "addr:street": "Gremmstrasse",
     "amenity": "clinic",
+    "building": "yes",
     "email": "info@augenklinik-teufen.ch",
     "fax": "+41 71 335 85 35",
     "healthcare": "clinic",

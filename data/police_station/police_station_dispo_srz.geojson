@@ -3669,6 +3669,86 @@
       47.1748996
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8598487630",
+  "properties": {
+    "amenity": "police",
+    "level": "1",
+    "name": "Passport Control (Departures Gates D)",
+    "name:de": "Passkontrolle (Abflug Gate D)",
+    "name:en": "Passport Control (Departures Gates D)",
+    "wheelchair": "yes",
+    "id": "node/8598487630"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5598017,
+      47.4509358
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8598518316",
+  "properties": {
+    "amenity": "police",
+    "level": "1",
+    "name": "Passport Control (Arrivals Gates D)",
+    "name:de": "Passkontrolle (Ankunft Gate D)",
+    "name:en": "Passport Control (Departures Gates D)",
+    "wheelchair": "yes",
+    "id": "node/8598518316"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5600792,
+      47.4509219
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8599713917",
+  "properties": {
+    "amenity": "police",
+    "level": "0",
+    "name": "Security (Security Gates D)",
+    "name:de": "Sicherheitskontrolle (Gate D)",
+    "name:en": "Security (Security Gates D)",
+    "wheelchair": "yes",
+    "id": "node/8599713917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5599545,
+      47.4510059
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8599761847",
+  "properties": {
+    "amenity": "police",
+    "level": "2",
+    "name": "Sicherheitskontrolle (Zuschauerterrasse Dock B)",
+    "name:de": "Sicherheitskontrolle (Zuschauerterrasse Dock B)",
+    "name:en": "Security (Observation Deck B)",
+    "wheelchair": "yes",
+    "id": "node/8599761847"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.559543,
+      47.4509659
+    ]
+  }
 }
 ]
 }

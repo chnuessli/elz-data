@@ -1172,8 +1172,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.705459,
-      47.4882153
+      8.7056667,
+      47.488121
     ]
   }
 },
@@ -1319,7 +1319,7 @@
   "id": "node/8560012338",
   "properties": {
     "addr:city": "Affoltern am Albis",
-    "addr:housenumber": "87",
+    "addr:housenumber": "7",
     "addr:postcode": "8910",
     "addr:street": "Obstgartenstrasse",
     "alt_name": "COVID-19 Impfzentrum Affoltern",
