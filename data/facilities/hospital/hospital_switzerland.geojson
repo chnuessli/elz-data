@@ -49064,6 +49064,27 @@
       47.362541
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8603064995",
+  "properties": {
+    "addr:city": "Wattwil",
+    "addr:housenumber": "22",
+    "addr:postcode": "9630",
+    "addr:street": "Hembergerstrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Psychiatrisches Zentrum",
+    "id": "node/8603064995"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0918493,
+      47.3014392
+    ]
+  }
 }
 ]
 }

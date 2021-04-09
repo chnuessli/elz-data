@@ -1216,6 +1216,131 @@
 },
 {
   "type": "Feature",
+  "id": "way/927719721",
+  "properties": {
+    "amenity": "police",
+    "operator": "KAPO Zürich",
+    "id": "way/927719721"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.548021,
+          47.4767964
+        ],
+        [
+          8.5479794,
+          47.4768193
+        ],
+        [
+          8.5478962,
+          47.4768474
+        ],
+        [
+          8.5476929,
+          47.4768193
+        ],
+        [
+          8.5475712,
+          47.47676
+        ],
+        [
+          8.5475712,
+          47.4766434
+        ],
+        [
+          8.5476267,
+          47.476533
+        ],
+        [
+          8.5477329,
+          47.4764892
+        ],
+        [
+          8.5480364,
+          47.4764466
+        ],
+        [
+          8.5481566,
+          47.4764747
+        ],
+        [
+          8.5481412,
+          47.4766298
+        ],
+        [
+          8.548021,
+          47.4767964
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/927813296",
+  "properties": {
+    "aeroway": "terminal",
+    "amenity": "police",
+    "building": "transportation",
+    "building:levels": "4",
+    "height": "26.4",
+    "int_name": "Security",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "0;1;2;3",
+    "max_level": "3",
+    "min_level": "0",
+    "name": "Sicherheitskontrollgebäude",
+    "nat_name": "Sicherheitskontrolle",
+    "short_name": "SKG",
+    "wheelchair": "yes",
+    "id": "way/927813296"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5611388,
+          47.4521367
+        ],
+        [
+          8.5614427,
+          47.4520247
+        ],
+        [
+          8.561507,
+          47.4520016
+        ],
+        [
+          8.5615656,
+          47.4519805
+        ],
+        [
+          8.5615829,
+          47.4519743
+        ],
+        [
+          8.5618943,
+          47.4523714
+        ],
+        [
+          8.5614523,
+          47.4525334
+        ],
+        [
+          8.5611388,
+          47.4521367
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/29456226",
   "properties": {
     "addr:city": "Winterthur",

@@ -15374,6 +15374,21 @@
 },
 {
   "type": "Feature",
+  "id": "node/1913086684",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/1913086684"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7997297,
+      47.3945059
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1935471133",
   "properties": {
     "barrier": "gate",
@@ -18011,6 +18026,7 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "name": "Tor 111",
     "id": "node/2320035479"
   },
   "geometry": {
@@ -56868,6 +56884,96 @@
     "coordinates": [
       8.7862952,
       47.3966085
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8606721666",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/8606721666"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8060409,
+      47.3976705
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8606722207",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/8606722207"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8013863,
+      47.3910205
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8606722265",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/8606722265"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8083513,
+      47.3978336
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8606722270",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/8606722270"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8100386,
+      47.3985803
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8606722405",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/8606722405"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8073214,
+      47.3966265
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8606722406",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/8606722406"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8072108,
+      47.3966647
     ]
   }
 }
