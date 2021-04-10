@@ -4174,7 +4174,7 @@
     "amenity": "pharmacy",
     "healthcare": "pharmacy",
     "name": "Drogerie Teufer",
-    "opening_hours": "Mo-Do 08:00-18:30; Fr 08:00-19:00; Sa 08:00-17:00",
+    "opening_hours": "Mo-Th 08:00-18:30; Fr 08:00-19:00; Sa 08:00-17:00",
     "shop": "chemist",
     "website": "http://www.drogerieteufer.ch",
     "wheelchair": "yes",
