@@ -3874,6 +3874,54 @@
       47.4509659
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8621205825",
+  "properties": {
+    "amenity": "police",
+    "email": "zentrale.zuerich-flughafen-zi@ezv.admin.ch",
+    "level": "1",
+    "name": "Zoll (öffentlicher Bereich)",
+    "name:de": "Zoll (öffentlicher Bereich)",
+    "name:en": "Customs (Public Area)",
+    "opening_hours": "06:00-23:30",
+    "phone": "+41 58 480 64 00",
+    "website": "https://www.ezv.admin.ch/",
+    "wheelchair": "yes",
+    "id": "node/8621205825"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5615801,
+      47.4526186
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8621214647",
+  "properties": {
+    "amenity": "police",
+    "email": "zentrale.zuerich-flughafen-zi@ezv.admin.ch",
+    "level": "1",
+    "name": "Zoll (Passagierbereich)",
+    "name:de": "Zoll (Passagierbereich)",
+    "name:en": "Customs (Passenger Area)",
+    "opening_hours": "06:00-23:30",
+    "phone": "+41 58 480 64 00",
+    "website": "https://www.ezv.admin.ch/",
+    "wheelchair": "yes",
+    "id": "node/8621214647"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5614392,
+      47.452667
+    ]
+  }
 }
 ]
 }
