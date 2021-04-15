@@ -3026,6 +3026,8 @@
   "id": "node/8598487630",
   "properties": {
     "amenity": "police",
+    "barrier": "border_control",
+    "foot": "yes",
     "level": "1",
     "name": "Passport Control (Departures Gates D)",
     "name:de": "Passkontrolle (Abflug Gate D)",
@@ -3046,6 +3048,7 @@
   "id": "node/8598518316",
   "properties": {
     "amenity": "police",
+    "barrier": "border_control",
     "level": "1",
     "name": "Passport Control (Arrivals Gates D)",
     "name:de": "Passkontrolle (Ankunft Gate D)",

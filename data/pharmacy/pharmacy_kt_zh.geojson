@@ -6791,6 +6791,27 @@
       47.45252
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8628422197",
+  "properties": {
+    "amenity": "pharmacy",
+    "email": "ama449@amavita.ch",
+    "name": "Amavita Apotheke",
+    "opening_hours": "08:00-18:00",
+    "phone": "+41 58 878 25 60",
+    "website": "https://www.amavita.ch/",
+    "wheelchair": "yes",
+    "id": "node/8628422197"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.56089,
+      47.4509495
+    ]
+  }
 }
 ]
 }
