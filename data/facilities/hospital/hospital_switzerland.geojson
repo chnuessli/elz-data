@@ -5325,6 +5325,7 @@
     "healthcare:speciality": "intensive",
     "name": "Kantonsspital Aarau",
     "phone": "+41 62 838 41 41",
+    "short_name": "KSA",
     "website": "https://www.ksa.ch/",
     "wikidata": "Q1728146",
     "wikimedia_commons": "File:2018-Aarau-Kantonsspital-Verwaltung.jpg",
@@ -27903,6 +27904,7 @@
     "name": "Kantonsspital Baden",
     "opening_hours": "24/7",
     "phone": "+41 56 486 21 11",
+    "short_name": "KSB",
     "website": "https://www.kantonsspitalbaden.ch/",
     "wikidata": "Q1728147",
     "wikipedia": "de:Kantonsspital Baden",
@@ -34195,6 +34197,8 @@
     "emergency": "yes",
     "name": "Gesundheitszentrum Fricktal - Spital Rheinfelden",
     "phone": "+41 61 835 66 66",
+    "short_name": "GZF Rheinfelden",
+    "shortest_name": "GZF",
     "source": "AGIS 2016",
     "website": "https://www.gzf.ch/startseite.html",
     "id": "way/675988469"
@@ -36593,7 +36597,7 @@
     "contact:website": "http://www.spitalleuggern.ch/",
     "emergency": "yes",
     "healthcare": "hospital",
-    "name": "Spital Leuggern",
+    "name": "Asana Spital Leuggern",
     "operator": "Asana",
     "id": "way/677041125"
   },
@@ -40986,6 +40990,8 @@
     "name": "Spital Laufenburg",
     "operator": "Gesundheitszentrum Fricktal",
     "phone": "+41 62 874 50 00",
+    "short_name": "GZF Laufenburg",
+    "shortest_name": "GZF",
     "website": "https://www.gzf.ch/",
     "wheelchair": "yes",
     "id": "way/681071295"

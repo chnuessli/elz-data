@@ -1067,7 +1067,7 @@
     "building": "transportation",
     "building:levels": "4",
     "height": "26.4",
-    "int_name": "Security",
+    "int_name": "Security Check Building",
     "internet_access": "wlan",
     "internet_access:fee": "no",
     "level": "0;1;2;3",
@@ -3023,51 +3023,9 @@
 },
 {
   "type": "Feature",
-  "id": "node/8598487630",
-  "properties": {
-    "amenity": "police",
-    "barrier": "border_control",
-    "foot": "yes",
-    "level": "1",
-    "name": "Passport Control (Departures Gates D)",
-    "name:de": "Passkontrolle (Abflug Gate D)",
-    "name:en": "Passport Control (Departures Gates D)",
-    "wheelchair": "yes",
-    "id": "node/8598487630"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5598017,
-      47.4509358
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8598518316",
-  "properties": {
-    "amenity": "police",
-    "barrier": "border_control",
-    "level": "1",
-    "name": "Passport Control (Arrivals Gates D)",
-    "name:de": "Passkontrolle (Ankunft Gate D)",
-    "name:en": "Passport Control (Departures Gates D)",
-    "wheelchair": "yes",
-    "id": "node/8598518316"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5600792,
-      47.4509219
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8599713917",
   "properties": {
+    "alt_name": "Sicherheitskontrolle Transfer D",
     "amenity": "police",
     "level": "0",
     "name": "Security (Security Gates D)",
@@ -3149,6 +3107,69 @@
     "coordinates": [
       8.5614392,
       47.452667
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8635545327",
+  "properties": {
+    "amenity": "police",
+    "level": "1",
+    "name": "Staff SIKO (Ausreise 1)",
+    "name:de": "Staff SIKO (Ausreise 1)",
+    "name:en": "Staff Security Check (Departure 1)",
+    "short_name": "SIKO",
+    "wheelchair": "yes",
+    "id": "node/8635545327"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5616195,
+      47.4526653
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8635553317",
+  "properties": {
+    "amenity": "police",
+    "level": "2",
+    "name": "Sicherheitskontrolle (Swiss First Lounge A)",
+    "name:de": "Sicherheitskontrolle (Swiss First Lounge A)",
+    "name:en": "Security Check (Swiss First Lounge A)",
+    "short_name": "SIKO",
+    "wheelchair": "yes",
+    "id": "node/8635553317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5615364,
+      47.4526838
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8635593760",
+  "properties": {
+    "amenity": "police",
+    "level": "0",
+    "name": "Staff SIKO (Zollhalle 2)",
+    "name:de": "Staff SIKO (Zollhalle 2)",
+    "name:en": "Staff Security Check (Customs Hall 2)",
+    "short_name": "SIKO",
+    "wheelchair": "yes",
+    "id": "node/8635593760"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5610365,
+      47.4519523
     ]
   }
 }
