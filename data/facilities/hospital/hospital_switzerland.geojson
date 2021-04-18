@@ -44621,6 +44621,59 @@
 },
 {
   "type": "Feature",
+  "id": "way/931725899",
+  "properties": {
+    "addr:city": "Frutigen",
+    "amenity": "hospital",
+    "name": "Spital Frutigen",
+    "id": "way/931725899"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.6412339,
+          46.5846118
+        ],
+        [
+          7.6405249,
+          46.58415
+        ],
+        [
+          7.6414552,
+          46.5834669
+        ],
+        [
+          7.6428402,
+          46.5843435
+        ],
+        [
+          7.6424557,
+          46.5847538
+        ],
+        [
+          7.6423269,
+          46.5847612
+        ],
+        [
+          7.6420051,
+          46.5845399
+        ],
+        [
+          7.6414901,
+          46.584433
+        ],
+        [
+          7.6412339,
+          46.5846118
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/199578656",
   "properties": {
     "id": "way/199578656"
@@ -45981,30 +46034,6 @@
     "coordinates": [
       8.517523,
       47.1946064
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1671830520",
-  "properties": {
-    "addr:city": "Frutigen",
-    "addr:country": "CH",
-    "addr:housenumber": "27",
-    "addr:postcode": "3714",
-    "addr:street": "Adelbodenstrasse",
-    "amenity": "clinic",
-    "name": "Spital Frutigen",
-    "phone": "+41 33 672 2626",
-    "source": "survey",
-    "url": "http://www.spitalfmi.ch",
-    "id": "node/1671830520"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.6413173,
-      46.58415
     ]
   }
 },
