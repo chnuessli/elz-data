@@ -927,6 +927,8 @@
     "amenity": "pharmacy",
     "brand": "Fortis",
     "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
     "name": "Apotheke Utogrund",
     "opening_hours": "Mo-We, Fr 07:30-12:30, 14:00-18:30; Th 07:30-13:00; Sa 08:00-12:00",
     "website": "https://www.apotheke-utogrund.ch/",

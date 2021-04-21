@@ -27813,6 +27813,10 @@
           47.5476593
         ],
         [
+          8.9106558,
+          47.547817
+        ],
+        [
           8.9106725,
           47.5478343
         ],
@@ -49158,6 +49162,31 @@
     "coordinates": [
       9.0918493,
       47.3014392
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8646190941",
+  "properties": {
+    "addr:city": "Davos Dorf",
+    "addr:housenumber": "9",
+    "addr:postcode": "7260",
+    "addr:street": "Baslerstrasse",
+    "amenity": "clinic",
+    "email": "hochgebirgsklinik@hgk.ch",
+    "healthcare": "clinic",
+    "name": "Rehaklinik Hochgebirgsklinik Davos (Temporär bis Ende Juli 21)",
+    "note": "Rehaklinik Hochgebirgsklinik Davos an der Hermann-Buchardstr. 1 wird sicher bis Ende Juli umgebaut. Befindet sich neu an der Adresse: Baslerstr. 9, 7260 Davos.",
+    "phone": "+41 81 417 44 44",
+    "website": "https://www.hochgebirgsklinik.ch/",
+    "id": "node/8646190941"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8537916,
+      46.8131191
     ]
   }
 }
