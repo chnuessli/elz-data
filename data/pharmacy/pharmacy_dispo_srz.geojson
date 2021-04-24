@@ -3065,6 +3065,7 @@
   "id": "node/916226803",
   "properties": {
     "amenity": "pharmacy",
+    "healthcare": "pharmacy",
     "name": "Neuwiesen Apotheke",
     "opening_hours": "Mo-Fr 08:30-20:00; Sa 08:30-18:00",
     "opening_hours:covid19": "Mo-Fr 08:30-20:00; Sa 08:30-18:00",
@@ -7448,33 +7449,6 @@
     "coordinates": [
       8.8428032,
       47.3010889
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7483231002",
-  "properties": {
-    "addr:city": "Kloten",
-    "addr:housenumber": "10",
-    "addr:postcode": "8302",
-    "addr:street": "Gerbegasse",
-    "alt_name": "BENU Apotheke Gerbegasse",
-    "amenity": "pharmacy",
-    "branch": "Kloten Gerbegasse",
-    "brand": "BENU",
-    "brand:wikidata": "Q62562792",
-    "name": "BENU Apotheke",
-    "opening_hours": "Mo-Fr 08:30-18:00",
-    "operator": "BENU Pharmacies",
-    "website": "https://www.benu.ch/de/pharmacies/gerbegasse/",
-    "id": "node/7483231002"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5815963,
-      47.4524638
     ]
   }
 },

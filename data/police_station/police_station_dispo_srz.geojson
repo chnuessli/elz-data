@@ -3864,12 +3864,13 @@
   "type": "Feature",
   "id": "node/8621214647",
   "properties": {
+    "alt_name": "Zollbüro Ausreise",
     "amenity": "police",
     "email": "zentrale.zuerich-flughafen-zi@ezv.admin.ch",
     "level": "1",
     "name": "Zoll (Passagierbereich)",
     "name:de": "Zoll (Passagierbereich)",
-    "name:en": "Customs (Passenger Area)",
+    "name:en": "Customs Office Export (Passenger Area)",
     "opening_hours": "06:00-23:30",
     "phone": "+41 58 480 64 00",
     "website": "https://www.ezv.admin.ch/",
@@ -3944,6 +3945,111 @@
     "coordinates": [
       8.5610365,
       47.4519523
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8658958478",
+  "properties": {
+    "amenity": "police",
+    "level": "0",
+    "name": "Sicherheitskontrolle (Grüezi A)",
+    "name:de": "Sicherheitskontrolle (Grüezi A)",
+    "name:en": "Security Check (Grüezi A)",
+    "short_name": "SIKO",
+    "wheelchair": "yes",
+    "id": "node/8658958478"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5611178,
+      47.4534644
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8659006318",
+  "properties": {
+    "amenity": "police",
+    "level": "0",
+    "name": "Sicherheitskontrollgebäude (Linien 01-07)",
+    "name:de": "Sicherheitskontrollgebäude (Linien 01-07)",
+    "name:en": "Security Check Building (Lanes 01-07)",
+    "short_name": "SIKO",
+    "wheelchair": "yes",
+    "id": "node/8659006318"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.561406,
+      47.4522379
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8659006939",
+  "properties": {
+    "amenity": "police",
+    "level": "2",
+    "name": "Sicherheitskontrollgebäude (Linien 22-27)",
+    "name:de": "Sicherheitskontrollgebäude (Linien 22-27)",
+    "name:en": "Security Check Building (Lanes 22-27)",
+    "short_name": "SIKO",
+    "wheelchair": "yes",
+    "id": "node/8659006939"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5613513,
+      47.4522032
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8659008053",
+  "properties": {
+    "amenity": "police",
+    "level": "1",
+    "name": "Sicherheitskontrollgebäude (Linien 11-17)",
+    "name:de": "Sicherheitskontrollgebäude (Linien 11-17)",
+    "name:en": "Security Check Building (Lanes 11-17)",
+    "short_name": "SIKO",
+    "wheelchair": "yes",
+    "id": "node/8659008053"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5613786,
+      47.4522202
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8659010423",
+  "properties": {
+    "amenity": "police",
+    "level": "3",
+    "name": "Sicherheitskontrollgebäude (Linien 31-37)",
+    "name:de": "Sicherheitskontrollgebäude (Linien 31-37)",
+    "name:en": "Security Check Building (Lanes 31-37)",
+    "short_name": "SIKO",
+    "wheelchair": "yes",
+    "id": "node/8659010423"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5613274,
+      47.4521855
     ]
   }
 }
