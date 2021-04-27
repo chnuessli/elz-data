@@ -315,60 +315,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/59153229",
-  "properties": {
-    "building": "school",
-    "healthcare:speciality": "vaccination",
-    "leisure": "pitch",
-    "name": "Turnhalle Friedbühlschulhaus",
-    "source": "Orthofotos Bern",
-    "sport": "multi",
-    "vaccination": "covid19",
-    "website": "https://www.gef.be.ch/gef/de/index/Corona/Corona/corona_impfung_bern.html",
-    "id": "way/59153229"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.4235473,
-          46.9490852
-        ],
-        [
-          7.4236195,
-          46.9489617
-        ],
-        [
-          7.423715,
-          46.9489877
-        ],
-        [
-          7.4237054,
-          46.949004
-        ],
-        [
-          7.4239712,
-          46.9490764
-        ],
-        [
-          7.4239086,
-          46.9491836
-        ],
-        [
-          7.4237298,
-          46.9491349
-        ],
-        [
-          7.4235473,
-          46.9490852
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/184594087",
   "properties": {
     "addr:housenumber": "68",
@@ -737,6 +683,56 @@
         [
           8.8990897,
           47.5591286
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/935533767",
+  "properties": {
+    "building": "marquee",
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Bern Insel",
+    "phone": "+41 316368800",
+    "source:geometry": "estimate",
+    "vaccination": "covid19",
+    "website": "https://www.gef.be.ch/gef/de/index/Corona/Corona/corona_impfung_bern.html",
+    "id": "way/935533767"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.4234498,
+          46.9493204
+        ],
+        [
+          7.4235754,
+          46.9491085
+        ],
+        [
+          7.4239787,
+          46.9492198
+        ],
+        [
+          7.4238532,
+          46.9494318
+        ],
+        [
+          7.4237688,
+          46.9494085
+        ],
+        [
+          7.4236196,
+          46.9493673
+        ],
+        [
+          7.4234498,
+          46.9493204
         ]
       ]
     ]
