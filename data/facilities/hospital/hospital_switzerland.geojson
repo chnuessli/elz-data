@@ -10683,6 +10683,7 @@
     "healthcare:speciality": "intensive",
     "name": "Kantonsspital St. Gallen",
     "phone": "+41 71 494 11 11",
+    "short_name": "KSSG",
     "toilets:wheelchair": "yes",
     "website": "https://www.kssg.ch/",
     "wheelchair": "yes",

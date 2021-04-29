@@ -1371,6 +1371,7 @@
     "addr:street": "Limmattalstrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date:opening_hours": "2021-04-28",
     "name": "Apotheke zum Meierhof",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
     "operator": "Rotpunkt Pharma",
@@ -6579,6 +6580,7 @@
     "brand": "Rotpunkt Apotheke",
     "drive_through": "no",
     "name": "Apotheke im Brühl",
+    "opening_hours": "Mo-Sa 08:00-19:00",
     "id": "node/4922030533"
   },
   "geometry": {
