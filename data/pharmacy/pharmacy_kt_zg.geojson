@@ -128,6 +128,7 @@
     "amenity": "pharmacy",
     "branch": "Zug Kolin-Apotheke",
     "brand": "TopPharm",
+    "healthcare": "pharmacy",
     "name": "TopPharm Kolin Apotheke",
     "opening_hours": "Mo 09:00-12:15,13:30-18:30; Tu-Fr 08:00-12:15,13:30-18:30; Sa 08:00-16:00; week 28-33 Mo 09:00-12:15,14:00-18:30; week 28-33 Tu-Fr 08:00-12:15,14:00-18:30; PH off",
     "opening_hours:covid19": "same",
