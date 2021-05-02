@@ -4741,6 +4741,7 @@
   "properties": {
     "amenity": "pharmacy",
     "name": "Gotthard Apotheke Baar",
+    "wheelchair": "yes",
     "id": "node/2623963074"
   },
   "geometry": {
