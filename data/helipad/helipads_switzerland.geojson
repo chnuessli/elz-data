@@ -11931,6 +11931,23 @@
       46.9793942
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8696509676",
+  "properties": {
+    "aeroway": "helipad",
+    "name": "Gendarmerie",
+    "operator": "Police cantonale vaudoise",
+    "id": "node/8696509676"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2940303,
+      46.4431952
+    ]
+  }
 }
 ]
 }

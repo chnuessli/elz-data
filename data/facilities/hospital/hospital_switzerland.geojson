@@ -49312,6 +49312,23 @@
       46.8857228
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8699333211",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Pure Clinic",
+    "id": "node/8699333211"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1643265,
+      46.2919838
+    ]
+  }
 }
 ]
 }
