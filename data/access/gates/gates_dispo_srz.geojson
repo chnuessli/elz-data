@@ -20913,6 +20913,21 @@
 },
 {
   "type": "Feature",
+  "id": "node/2154439973",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/2154439973"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6142769,
+      47.7034093
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2163807050",
   "properties": {
     "barrier": "lift_gate",

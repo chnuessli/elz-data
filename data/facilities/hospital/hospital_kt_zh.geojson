@@ -8011,6 +8011,34 @@
       47.362541
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8702470111",
+  "properties": {
+    "addr:city": "Kilchberg",
+    "addr:housenumber": "155A",
+    "addr:postcode": "8802",
+    "addr:street": "Seestrasse",
+    "amenity": "clinic",
+    "email": "office@sgk.swiss",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general",
+    "level": "0",
+    "name": "Seegarten Klinik AG",
+    "opening_hours": "Mo-Fr 08:00-17:30",
+    "opening_hours:covid19": "same",
+    "phone": "+41 44 716 48 48",
+    "website": "https://www.sgk.swiss/",
+    "id": "node/8702470111"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5506098,
+      47.3222685
+    ]
+  }
 }
 ]
 }
