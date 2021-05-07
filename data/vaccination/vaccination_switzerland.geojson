@@ -1518,6 +1518,30 @@
       46.5286349
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8707583231",
+  "properties": {
+    "addr:city": "Jona",
+    "addr:housenumber": "120",
+    "addr:postcode": "8645",
+    "addr:street": "St. Gallerstrasse",
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Jona",
+    "operator": "Kanton St.Gallen",
+    "vaccination": "covid19",
+    "website": "https://sg.ch/coronavirus/impfen",
+    "id": "node/8707583231"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8488494,
+      47.2298606
+    ]
+  }
 }
 ]
 }
