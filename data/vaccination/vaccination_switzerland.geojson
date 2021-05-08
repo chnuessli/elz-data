@@ -1542,6 +1542,30 @@
       47.2298606
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8710380245",
+  "properties": {
+    "addr:city": "Ennenda",
+    "addr:housenumber": "2",
+    "addr:postcode": "8755",
+    "addr:street": "Bahnhofstrasse",
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Glarus",
+    "operator": "Kanton Glarus",
+    "vaccination": "covid19",
+    "website": "https://www.gl.ch/coronavirus",
+    "id": "node/8710380245"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0768288,
+      47.0338685
+    ]
+  }
 }
 ]
 }
