@@ -3365,8 +3365,7 @@
   "properties": {
     "addr:city": "Windisch",
     "addr:country": "CH",
-    "addr:housenumber": "241",
-    "addr:postcode": "5200",
+    "addr:postcode": "5210",
     "addr:street": "Königsfelderstrasse",
     "amenity": "clinic",
     "building": "yes",
@@ -34519,6 +34518,7 @@
     "addr:postcode": "1700",
     "addr:street": "Rue Hans-Geiler",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Clinique Générale Ste-Anne",
     "website": "https://www.cliniquegenerale.ch/de/",
     "id": "way/675997450"
@@ -44398,8 +44398,7 @@
   "properties": {
     "addr:city": "Windisch",
     "addr:country": "CH",
-    "addr:housenumber": "241",
-    "addr:postcode": "5200",
+    "addr:postcode": "5210",
     "addr:street": "Königsfelderstrasse",
     "amenity": "clinic",
     "building": "yes",
@@ -44464,8 +44463,7 @@
   "properties": {
     "addr:city": "Windisch",
     "addr:country": "CH",
-    "addr:housenumber": "241",
-    "addr:postcode": "5200",
+    "addr:postcode": "5210",
     "addr:street": "Königsfelderstrasse",
     "amenity": "clinic",
     "building": "yes",
@@ -44530,8 +44528,7 @@
   "properties": {
     "addr:city": "Windisch",
     "addr:country": "CH",
-    "addr:housenumber": "241",
-    "addr:postcode": "5200",
+    "addr:postcode": "5210",
     "addr:street": "Königsfelderstrasse",
     "amenity": "clinic",
     "building": "yes",
@@ -44592,8 +44589,7 @@
   "properties": {
     "addr:city": "Windisch",
     "addr:country": "CH",
-    "addr:housenumber": "241",
-    "addr:postcode": "5200",
+    "addr:postcode": "5210",
     "addr:street": "Königsfelderstrasse",
     "amenity": "clinic",
     "building": "yes",

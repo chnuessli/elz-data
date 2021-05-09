@@ -27385,7 +27385,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo - Fr: 07:00 - 22:00 Uhr",
+    "opening_hours": "Mo-Fr 07:00-22:00",
     "operator": "Schule Winkel",
     "phone": "+41792823145",
     "id": "node/8676789618"
@@ -27547,6 +27547,26 @@
     "coordinates": [
       8.4501311,
       47.4004784
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8713427318",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Victorinox",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/8713427318"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6497737,
+      47.0175941
     ]
   }
 }
