@@ -32624,14 +32624,15 @@
   "type": "Feature",
   "id": "node/3193253439",
   "properties": {
+    "access": "private",
     "barrier": "gate",
     "id": "node/3193253439"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.767658,
-      47.3644503
+      8.7676642,
+      47.3644519
     ]
   }
 },
@@ -36612,6 +36613,7 @@
   "type": "Feature",
   "id": "node/3738255475",
   "properties": {
+    "access": "private",
     "barrier": "gate",
     "id": "node/3738255475"
   },
@@ -66681,6 +66683,97 @@
     "coordinates": [
       8.6922355,
       47.3762975
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8714155065",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "id": "node/8714155065"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7746024,
+      47.3656387
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8715369593",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/8715369593"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9003392,
+      47.1813428
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8715369594",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/8715369594"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.899925,
+      47.1814981
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8715369597",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/8715369597"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.899773,
+      47.1814385
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8715369598",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/8715369598"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8997928,
+      47.1820448
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8715369602",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/8715369602"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9002196,
+      47.1815004
     ]
   }
 }
