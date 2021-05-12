@@ -4387,6 +4387,7 @@
   "properties": {
     "amenity": "pharmacy",
     "name": "Apotheke Im Zentrum",
+    "opening_hours": "Mo-Sa 08:30-19:00",
     "wheelchair": "yes",
     "id": "node/2317012355"
   },
