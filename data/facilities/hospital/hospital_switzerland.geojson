@@ -27943,8 +27943,8 @@
           47.5488606
         ],
         [
-          8.9115801,
-          47.5490058
+          8.911578,
+          47.5489873
         ],
         [
           8.9117595,
@@ -29056,13 +29056,9 @@
   "type": "Feature",
   "id": "way/675163485",
   "properties": {
-    "addr:city": "Lausanne",
-    "addr:country": "CH",
-    "addr:housenumber": "10",
-    "addr:postcode": "1006",
-    "addr:street": "Chemin des Allinges",
     "amenity": "hospital",
     "copyright": "OpenAddresses",
+    "healthcare": "hospital",
     "name": "Clinique de Montchoisi",
     "oa:imported_by": "sbrunner",
     "oa:lat": "46.50979233",
@@ -41964,6 +41960,10 @@
         [
           7.5391342,
           47.2014823
+        ],
+        [
+          7.5386253,
+          47.2011975
         ],
         [
           7.5381319,
