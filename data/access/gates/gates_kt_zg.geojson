@@ -1223,6 +1223,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/4619184435",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "id": "node/4619184435"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4551026,
+      47.1771777
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4675543934",
   "properties": {
     "barrier": "lift_gate",
