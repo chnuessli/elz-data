@@ -54850,11 +54850,11 @@
 },
 {
   "type": "Feature",
-  "id": "node/8358668014",
+  "id": "node/8358668013",
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "id": "node/8358668014"
+    "id": "node/8358668013"
   },
   "geometry": {
     "type": "Point",
