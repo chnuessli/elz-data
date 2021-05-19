@@ -2070,6 +2070,7 @@
     "operator": "Stadt Wetzikon",
     "phone": "+41 44 931 23 33",
     "website": "https://www.wetzikon.ch/Verwaltung/Sicherheit/stadtpolizei",
+    "wheelchair": "no",
     "id": "node/664398860"
   },
   "geometry": {
