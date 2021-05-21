@@ -19991,6 +19991,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/2034605591",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "id": "node/2034605591"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6248893,
+      47.3248799
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2041103158",
   "properties": {
     "barrier": "gate",
