@@ -9893,6 +9893,45 @@
 },
 {
   "type": "Feature",
+  "id": "way/945423868",
+  "properties": {
+    "aeroway": "helipad",
+    "id": "way/945423868"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.6114861,
+          46.7584304
+        ],
+        [
+          7.6115415,
+          46.7583539
+        ],
+        [
+          7.6116528,
+          46.7583917
+        ],
+        [
+          7.6116253,
+          46.7584296
+        ],
+        [
+          7.6115974,
+          46.7584682
+        ],
+        [
+          7.6114861,
+          46.7584304
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/35211724",
   "properties": {
     "aeroway": "helipad",
@@ -10674,21 +10713,6 @@
     "coordinates": [
       8.0738356,
       47.0669211
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2383145955",
-  "properties": {
-    "aeroway": "helipad",
-    "id": "node/2383145955"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.6115193,
-      46.7583787
     ]
   }
 },
