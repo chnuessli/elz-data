@@ -18312,7 +18312,7 @@
     "building": "yes",
     "healthcare": "clinic",
     "name": "Operationszentrum Bellaria",
-    "opening_hours": "Mo - Fr 8 - 17 Uhr",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "opening_hours:signed": "no",
     "operator": "Hirslanden Gruppe",
     "phone": "+41 44 209 25 25",

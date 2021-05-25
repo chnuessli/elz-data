@@ -1587,6 +1587,24 @@
       47.1723904
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8761614594",
+  "properties": {
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Stansstad",
+    "vaccination": "covid19",
+    "id": "node/8761614594"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3403461,
+      46.9782327
+    ]
+  }
 }
 ]
 }
