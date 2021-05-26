@@ -4102,8 +4102,8 @@
     "coordinates": [
       [
         [
-          6.4078442,
-          46.5024457
+          6.4078349,
+          46.5024534
         ],
         [
           6.4083173,
@@ -4202,28 +4202,32 @@
           46.5047677
         ],
         [
-          6.4119943,
-          46.5050868
+          6.4119657,
+          46.505104
         ],
         [
-          6.4109451,
-          46.5044136
+          6.4109153,
+          46.5044234
         ],
         [
-          6.4106118,
-          46.5041981
+          6.4105772,
+          46.5042071
         ],
         [
-          6.4103311,
-          46.5040129
+          6.4103263,
+          46.5040392
         ],
         [
-          6.40924,
-          46.5033083
+          6.4092251,
+          46.5033224
         ],
         [
-          6.4078442,
-          46.5024457
+          6.4085843,
+          46.5029155
+        ],
+        [
+          6.4078349,
+          46.5024534
         ]
       ]
     ]
@@ -37391,19 +37395,35 @@
         ],
         [
           6.4941913,
-          46.8191377
+          46.8191435
         ],
         [
-          6.4940547,
-          46.8190826
+          6.4940603,
+          46.8190681
+        ],
+        [
+          6.4940412,
+          46.8190575
+        ],
+        [
+          6.4939557,
+          46.8190103
+        ],
+        [
+          6.4937828,
+          46.8189148
         ],
         [
           6.4936905,
           46.8188638
         ],
         [
-          6.4935951,
-          46.8188142
+          6.4935872,
+          46.8188066
+        ],
+        [
+          6.4937525,
+          46.8186084
         ],
         [
           6.4937698,
@@ -37488,6 +37508,14 @@
         [
           6.4950869,
           46.819632
+        ],
+        [
+          6.4950518,
+          46.8196131
+        ],
+        [
+          6.4947497,
+          46.8194509
         ],
         [
           6.4947301,
@@ -48924,10 +48952,23 @@
   "type": "Feature",
   "id": "node/8324056410",
   "properties": {
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "2c",
+    "addr:postcode": "2502",
+    "addr:street": "Place de la Gare / Bahnhofplatz",
+    "addr:street:de": "Bahnhofplatz",
+    "addr:street:fr": "Place de la Gare",
     "amenity": "clinic",
-    "healthcare:speciality": "vaccination",
+    "contact:facebook": "https://www.facebook.com/MEDINBielBienne/",
+    "email": "direktion@szb-chb.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "gynaecology;general;cardiology;radiology;neurology;physiotherapy;psychiatry;vaccination",
     "name": "MEDIN",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "operator": "Spitalzentrum Biel AG",
+    "phone": "+41 32 324 10 25",
     "vaccination": "covid19",
+    "website": "https://medin-bielbienne.ch",
     "id": "node/8324056410"
   },
   "geometry": {

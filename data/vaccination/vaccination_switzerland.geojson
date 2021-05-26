@@ -1139,24 +1139,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8324056410",
-  "properties": {
-    "amenity": "clinic",
-    "healthcare:speciality": "vaccination",
-    "name": "MEDIN",
-    "vaccination": "covid19",
-    "id": "node/8324056410"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.242023,
-      47.1333674
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8324056411",
   "properties": {
     "amenity": "clinic",
