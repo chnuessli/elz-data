@@ -9709,7 +9709,7 @@
   "properties": {
     "addr:housenumber": "7",
     "addr:street": "Kappelistrasse",
-    "building": "yes",
+    "building": "apartments",
     "healthcare": "clinic",
     "healthcare:speciality": "pulmonology",
     "name": "LungenZentrum Im Park",
