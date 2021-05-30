@@ -234,6 +234,7 @@
     "dispensing": "no",
     "healthcare": "pharmacy",
     "name": "Rigi Rotpunkt",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
     "id": "node/2866713960"
   },
   "geometry": {

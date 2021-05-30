@@ -618,6 +618,7 @@
     "branch": "Uster Brunnen",
     "brand": "DROPA",
     "brand:wikidata": "Q1260273",
+    "healthcare": "pharmacy",
     "name": "Dropa Brunnen",
     "old_name": "Brunnenapotheke",
     "opening_hours": "Mo-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-16:00",
@@ -4845,6 +4846,7 @@
     "dispensing": "no",
     "healthcare": "pharmacy",
     "name": "Rigi Rotpunkt",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
     "id": "node/2866713960"
   },
   "geometry": {
