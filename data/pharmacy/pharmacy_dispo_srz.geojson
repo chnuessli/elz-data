@@ -1489,6 +1489,7 @@
     "amenity": "pharmacy",
     "branch": "Zürich Wollishofen",
     "brand": "TopPharm",
+    "check_date:opening_hours": "2021-06-02",
     "dispensing": "yes",
     "name": "TopPharm Morgental Apotheke",
     "opening_hours": "Mo-Fr 08:00-19:00, Sa 08:00-17:00",
