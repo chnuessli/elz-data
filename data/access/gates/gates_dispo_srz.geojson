@@ -2947,8 +2947,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6203377,
-      47.6930255
+      8.6203527,
+      47.6930365
     ]
   }
 },
@@ -24038,6 +24038,22 @@
     "coordinates": [
       8.673049,
       47.5775157
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2420206320",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "id": "node/2420206320"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6726132,
+      47.5775222
     ]
   }
 },
