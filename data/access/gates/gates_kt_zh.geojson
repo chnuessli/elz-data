@@ -237,28 +237,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/258497491",
-  "properties": {
-    "barrier": "gate",
-    "fence_type": "barbed_wire",
-    "id": "way/258497491"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.599924,
-        47.6383787
-      ],
-      [
-        8.5999503,
-        47.6383819
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/286784900",
   "properties": {
     "barrier": "lift_gate",
@@ -22242,8 +22220,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.599924,
-      47.6383787
+      8.5999309,
+      47.6383862
     ]
   }
 },
@@ -31693,8 +31671,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5998897,
-      47.6383361
+      8.5998702,
+      47.6383447
     ]
   }
 },
