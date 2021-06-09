@@ -5732,6 +5732,7 @@
     "addr:postcode": "8001",
     "addr:street": "Pelikanstrasse",
     "amenity": "pharmacy",
+    "check_date:opening_hours": "2021-06-09",
     "name": "Pelikan Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-17:00",
     "website": "http://www.pelikan-apotheke.ch",

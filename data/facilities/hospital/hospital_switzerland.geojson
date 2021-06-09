@@ -45946,6 +45946,27 @@
 },
 {
   "type": "Feature",
+  "id": "node/855146715",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general",
+    "name": "Service Médical",
+    "name:en": "Medical Service",
+    "name:fr": "Service Médical",
+    "operator": "United Nations",
+    "id": "node/855146715"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1401476,
+      46.2241828
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/869250043",
   "properties": {
     "amenity": "clinic",
