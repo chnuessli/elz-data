@@ -49215,6 +49215,28 @@
       47.3222685
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8820922063",
+  "properties": {
+    "addr:city": "Weggis",
+    "addr:housenumber": "162",
+    "addr:postcode": "6353",
+    "addr:street": "Hertensteinstrasse",
+    "amenity": "clinic",
+    "name": "Cereneo Weggis",
+    "phone": "+41 41 399 67 00",
+    "website": "https://www.cereneo.ch/de/kliniken/#cereneo-Hertenstein",
+    "id": "node/8820922063"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4020349,
+      47.027061
+    ]
+  }
 }
 ]
 }
