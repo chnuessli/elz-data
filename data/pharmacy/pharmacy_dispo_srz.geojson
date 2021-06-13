@@ -3634,6 +3634,7 @@
   "properties": {
     "amenity": "pharmacy",
     "dispensing": "yes",
+    "healthcare": "pharmacy",
     "name": "Mistel-Apotheke",
     "opening_hours": "Mo-Fr 08:30-12:00,14:00-18:30; Sa 08:00-16:00",
     "wheelchair": "yes",
