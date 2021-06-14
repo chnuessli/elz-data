@@ -28758,16 +28758,24 @@
           47.6289802
         ],
         [
-          9.2368627,
-          47.6297213
+          9.2367955,
+          47.6294399
         ],
         [
-          9.2374152,
-          47.629602
+          9.2389406,
+          47.6289127
         ],
         [
-          9.2379892,
-          47.6307715
+          9.2393556,
+          47.629786
+        ],
+        [
+          9.2393264,
+          47.6302413
+        ],
+        [
+          9.2384104,
+          47.630793
         ],
         [
           9.238075,
@@ -39463,9 +39471,10 @@
     "addr:street": "Spitalweg",
     "amenity": "hospital",
     "emergency": "yes",
+    "healthcare": "hospital",
     "name": "Spital Dornach",
     "phone": "+41 61 704 44 44",
-    "website": "https://www.so-h.ch/spital-dornach/home.html",
+    "website": "https://www.solothurnerspitaeler.ch/unsere-spitaeler/spital-dornach/",
     "id": "way/680335690"
   },
   "geometry": {
