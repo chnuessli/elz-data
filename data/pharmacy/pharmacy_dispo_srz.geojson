@@ -3247,6 +3247,7 @@
     "addr:postcode": "8003",
     "addr:street": "Albisriederplatz",
     "amenity": "pharmacy",
+    "check_date:opening_hours": "2021-06-14",
     "name": "Nature First Apotheke",
     "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00",
     "website": "https://www.naturefirst.ch/",
