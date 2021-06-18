@@ -12558,21 +12558,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1501876475",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/1501876475"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8042964,
-      47.5357765
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1504081202",
   "properties": {
     "barrier": "gate",
