@@ -1631,6 +1631,7 @@
     "addr:postcode": "8610",
     "addr:street": "Oberlandstrasse",
     "amenity": "police",
+    "level": "2._Obergeschoss",
     "name": "Stadtpolizei Uster",
     "operator": "Stadtpolizei Uster",
     "id": "node/320132833"
@@ -1638,8 +1639,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7154025,
-      47.3540646
+      8.7154293,
+      47.3536921
     ]
   }
 },
