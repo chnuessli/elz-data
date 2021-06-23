@@ -1225,6 +1225,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "psychiatry",
     "name": "Zentrum für Integrative Psychiatrie",
+    "opening_hours:signed": "no",
     "id": "way/47411281"
   },
   "geometry": {

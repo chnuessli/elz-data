@@ -5288,6 +5288,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "psychiatry",
     "name": "Zentrum für Integrative Psychiatrie",
+    "opening_hours:signed": "no",
     "id": "way/47411281"
   },
   "geometry": {
@@ -46183,6 +46184,28 @@
     "coordinates": [
       6.1380469,
       46.1928483
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3671406274",
+  "properties": {
+    "addr:housenumber": "17",
+    "addr:street": "Rue Alfred-Vincent",
+    "amenity": "clinic",
+    "healthcare": "centre",
+    "name": "Centre médical du Léman",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "phone": "+41 22 716 06 60",
+    "website": "http://www.cmleman.ch/",
+    "id": "node/3671406274"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1480698,
+      46.2101058
     ]
   }
 },
