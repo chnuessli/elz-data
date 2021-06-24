@@ -39562,6 +39562,7 @@
     "addr:postcode": "2900",
     "addr:street": "Chemin de l'Hôpital",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Hôpial du Jura",
     "phone": "+41 32 465 65 65",
     "website": "http://www.h-ju.ch",

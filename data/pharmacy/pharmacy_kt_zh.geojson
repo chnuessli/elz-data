@@ -6714,6 +6714,7 @@
   "properties": {
     "amenity": "pharmacy",
     "name": "Bahnhof Apotheke Stettbach",
+    "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
     "phone": "+41 44 244 05 05",
     "website": "https://www.bahnhof-apotheke-stettbach.ch/",
     "id": "node/8286494176"
