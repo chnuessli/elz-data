@@ -1975,6 +1975,26 @@
       47.7146309
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8868696529",
+  "properties": {
+    "access": "customers",
+    "barrier": "gate",
+    "material": "metal",
+    "maxheight": "3",
+    "maxwidth": "3",
+    "vehicle": "private",
+    "id": "node/8868696529"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6323518,
+      47.6960206
+    ]
+  }
 }
 ]
 }
