@@ -42590,6 +42590,7 @@
   "properties": {
     "amenity": "hospital",
     "healthcare": "hospital",
+    "name": "Hôpital de Gilly",
     "id": "way/711416335"
   },
   "geometry": {
