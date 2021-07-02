@@ -43202,6 +43202,7 @@
   "id": "way/771257716",
   "properties": {
     "amenity": "clinic",
+    "barrier": "fence",
     "healthcare": "physiotherapist",
     "name": "Stiftung Hippotherapie-Zentrum",
     "website": "https://www.hippotherapie-zentrum.ch/",
@@ -43216,8 +43217,16 @@
           47.5283075
         ],
         [
+          7.5563857,
+          47.5282334
+        ],
+        [
           7.5566295,
           47.5281558
+        ],
+        [
+          7.5577247,
+          47.5278012
         ],
         [
           7.5588311,
