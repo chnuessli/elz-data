@@ -661,6 +661,7 @@
     "name": "Polizeiposten Adliswil",
     "operator": "Kantonspolizei Zürich",
     "roof:levels": "1",
+    "roof:shape": "gabled",
     "id": "way/155439745"
   },
   "geometry": {
