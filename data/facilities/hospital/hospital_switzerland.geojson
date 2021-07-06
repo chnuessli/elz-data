@@ -4883,12 +4883,12 @@
           47.1211367
         ],
         [
-          9.3113979,
-          47.121216
+          9.3114663,
+          47.1211883
         ],
         [
-          9.3111117,
-          47.1213062
+          9.3111561,
+          47.1212886
         ],
         [
           9.310645,
@@ -12046,10 +12046,13 @@
     "addr:street": "Bäderstrasse",
     "amenity": "clinic",
     "building": "yes",
+    "email": "info@zurzachcare.ch",
     "healthcare": "clinic",
     "name": "Rehaklinik Baden",
     "opening_hours": "Mo-Fr 07:30-20:00; Sa,Su 09.00-14.00",
     "operator": "ZURZACH Care AG",
+    "phone": "+41 56 269 51 51",
+    "website": "https://www.zurzachcare.ch/baden",
     "id": "way/154944838"
   },
   "geometry": {
@@ -29866,101 +29869,6 @@
         [
           6.0992253,
           46.1836152
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/675190300",
-  "properties": {
-    "addr:city": "Baden",
-    "addr:housenumber": "16",
-    "addr:postcode": "5400",
-    "addr:street": "Bäderstrasse",
-    "amenity": "hospital",
-    "name": "RehaClinic Baden",
-    "phone": "+41 56 203 08 08",
-    "website": "https://www.rehaclinic.ch/standorte/rehaclinic-stationaer/baden/",
-    "wheelchair": "yes",
-    "id": "way/675190300"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.312161,
-          47.4790588
-        ],
-        [
-          8.3118372,
-          47.4788059
-        ],
-        [
-          8.3120102,
-          47.4787253
-        ],
-        [
-          8.3118613,
-          47.4786065
-        ],
-        [
-          8.3118124,
-          47.4785707
-        ],
-        [
-          8.3120826,
-          47.478408
-        ],
-        [
-          8.3123863,
-          47.4786718
-        ],
-        [
-          8.3124179,
-          47.4786623
-        ],
-        [
-          8.3125614,
-          47.4787846
-        ],
-        [
-          8.3125072,
-          47.4787954
-        ],
-        [
-          8.3125761,
-          47.4788594
-        ],
-        [
-          8.3126579,
-          47.478931
-        ],
-        [
-          8.3124512,
-          47.4790236
-        ],
-        [
-          8.3124051,
-          47.47897
-        ],
-        [
-          8.3123027,
-          47.4790109
-        ],
-        [
-          8.3122497,
-          47.4790319
-        ],
-        [
-          8.3121975,
-          47.4790483
-        ],
-        [
-          8.312161,
-          47.4790588
         ]
       ]
     ]
