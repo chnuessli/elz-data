@@ -10177,6 +10177,43 @@
 },
 {
   "type": "Feature",
+  "id": "way/961942689",
+  "properties": {
+    "aeroway": "helipad",
+    "emergency": "landing_site",
+    "surface": "asphalt",
+    "id": "way/961942689"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.6858639,
+          46.9709375
+        ],
+        [
+          9.6858013,
+          46.9708477
+        ],
+        [
+          9.6859253,
+          46.9708075
+        ],
+        [
+          9.6859878,
+          46.9708973
+        ],
+        [
+          9.6858639,
+          46.9709375
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/35211724",
   "properties": {
     "aeroway": "helipad",
