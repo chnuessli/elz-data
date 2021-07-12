@@ -4409,57 +4409,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/42308312",
-  "properties": {
-    "addr:city": "Boudry",
-    "addr:housenumber": "50",
-    "addr:postcode": "2017",
-    "addr:street": "Rue de l'Hôpital",
-    "amenity": "hospital",
-    "healthcare": "hospital",
-    "healthcare:speciality": "psychiatry",
-    "name": "Centre neuchâtelois de psychiatrie CNP",
-    "website": "https://www.cnp.ch/",
-    "id": "way/42308312"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          6.8167947,
-          46.9470753
-        ],
-        [
-          6.8173556,
-          46.9468234
-        ],
-        [
-          6.8177363,
-          46.9472185
-        ],
-        [
-          6.8175688,
-          46.9472937
-        ],
-        [
-          6.8172642,
-          46.9469776
-        ],
-        [
-          6.8168708,
-          46.9471543
-        ],
-        [
-          6.8167947,
-          46.9470753
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/42876491",
   "properties": {
     "addr:city": "Bern",
