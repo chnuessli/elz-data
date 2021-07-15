@@ -6195,7 +6195,7 @@
     "dispensing": "yes",
     "healthcare": "pharmacy",
     "level": "0",
-    "name": "TopPharm Apotheke Hinwil",
+    "name": "TopPharm",
     "opening_hours": "Mo-Fr 08:00-12:30, 13:30-18:30, Sa 08:00-16:00",
     "operator": "TopPharm Genossenschaft",
     "phone": "+41 44 937 38 72",
@@ -6472,32 +6472,6 @@
     "coordinates": [
       8.4693016,
       47.4314913
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7483217444",
-  "properties": {
-    "addr:city": "Hinwil",
-    "addr:housenumber": "19",
-    "addr:postcode": "8340",
-    "addr:street": "Dürntnerstrasse",
-    "alt_name": "APODRO Apotheke Hinwil",
-    "amenity": "pharmacy",
-    "branch": "Hinwil",
-    "brand": "APODRO",
-    "name": "APODRO Apotheke",
-    "operator": "APODRO",
-    "shop": "chemist",
-    "website": "https://www.apodro.ch/51-apodro-apotheke-hinwil",
-    "id": "node/7483217444"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8428032,
-      47.3010889
     ]
   }
 },
@@ -6803,6 +6777,23 @@
     "coordinates": [
       8.56089,
       47.4509495
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8919699602",
+  "properties": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Apodro",
+    "id": "node/8919699602"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8429463,
+      47.3008112
     ]
   }
 }
