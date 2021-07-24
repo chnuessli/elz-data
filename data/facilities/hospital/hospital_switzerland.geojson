@@ -44541,6 +44541,47 @@
 },
 {
   "type": "Feature",
+  "id": "way/966657435",
+  "properties": {
+    "building": "yes",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general",
+    "id": "way/966657435"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8636561,
+          46.381285
+        ],
+        [
+          6.8636663,
+          46.3811981
+        ],
+        [
+          6.8639915,
+          46.3812079
+        ],
+        [
+          6.8639732,
+          46.3813579
+        ],
+        [
+          6.8637496,
+          46.3813495
+        ],
+        [
+          6.8636561,
+          46.381285
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/199578656",
   "properties": {
     "id": "way/199578656"
