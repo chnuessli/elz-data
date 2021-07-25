@@ -12481,6 +12481,14 @@
           47.507381
         ],
         [
+          8.7294653,
+          47.5073882
+        ],
+        [
+          8.7294011,
+          47.5074081
+        ],
+        [
           8.7283596,
           47.5077311
         ],
@@ -40040,6 +40048,7 @@
     "addr:street": "Via da l'Ospidal",
     "amenity": "hospital",
     "emergency": "yes",
+    "healthcare": "hospital",
     "name": "Ospidal d'Engiadina Bassa",
     "name:de": "Gesundheitszentrum Unterengadin",
     "old_name": "Spital Schuls, Regionalspital Unterengadin",
