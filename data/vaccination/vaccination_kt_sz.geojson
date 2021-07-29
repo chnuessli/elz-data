@@ -13,7 +13,7 @@
     "healthcare": "centre",
     "healthcare:speciality": "vaccination",
     "name": "Impfzentrum Spital Schwyz",
-    "phone": "041 818 41 11",
+    "phone": "+41 41 818 41 11",
     "vaccination": "covid19",
     "website": "https://www.spital-schwyz.ch",
     "id": "node/8320819660"

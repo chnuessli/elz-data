@@ -36,7 +36,7 @@
     "name": "Corona-Zentrum der Universität Zürich",
     "opening_hours": "Mo-Fr 09:00-17:00",
     "operator": "Universität Zürich",
-    "phone": "0800 33 66 55",
+    "phone": "+41 800 33 66 55",
     "vaccination": "covid19",
     "website": "https://coronazentrum.uzh.ch/",
     "id": "node/8320771141"
@@ -61,7 +61,7 @@
     "healthcare": "centre",
     "healthcare:speciality": "vaccination",
     "name": "Impfzentrum Spital Schwyz",
-    "phone": "041 818 41 11",
+    "phone": "+41 41 818 41 11",
     "vaccination": "covid19",
     "website": "https://www.spital-schwyz.ch",
     "id": "node/8320819660"
