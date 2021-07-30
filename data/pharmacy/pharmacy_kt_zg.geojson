@@ -10,6 +10,7 @@
     "amenity": "pharmacy",
     "branch": "Zug Bahnhof",
     "brand": "Achillea Apotheke",
+    "healthcare": "pharmacy",
     "indoor": "yes",
     "level": "0",
     "name": "Zug Apotheke",
@@ -178,6 +179,7 @@
     "branch": "Zug Metalli",
     "brand": "Achillea Apotheke",
     "dispensing": "yes",
+    "healthcare": "pharmacy",
     "name": "Metalli Apotheke",
     "opening_hours": "Mo-We,Fr 09:00-19:00;Sa 09:00-17:00;Th 09:00-21:00;PH closed",
     "opening_hours:covid19": "same",
@@ -216,6 +218,7 @@
   "id": "node/2623963074",
   "properties": {
     "amenity": "pharmacy",
+    "healthcare": "pharmacy",
     "name": "Gotthard Apotheke Baar",
     "wheelchair": "yes",
     "id": "node/2623963074"
@@ -262,6 +265,7 @@
     "addr:street": "Bahnhofstrasse",
     "amenity": "pharmacy",
     "fax": "+41 41 711 15 79",
+    "healthcare": "pharmacy",
     "name": "Spillmann",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
     "opening_hours:covid19": "same",

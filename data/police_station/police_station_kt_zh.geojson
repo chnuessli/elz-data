@@ -2005,6 +2005,8 @@
     "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
     "opening_hours:covid19": "open",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
     "phone": "+41 44 936 64 00",
     "website": "https://www.kapo.zh.ch/",
     "id": "node/1788435443"
@@ -2876,6 +2878,8 @@
     "amenity": "police",
     "name": "Polizeiposten Wald",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
     "id": "node/8510286119"
   },
   "geometry": {

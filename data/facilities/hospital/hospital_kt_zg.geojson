@@ -520,6 +520,7 @@
     "addr:street": "Landhausstrasse",
     "amenity": "clinic",
     "email": "alzheimer.zug@gmx.ch",
+    "healthcare": "clinic",
     "name": "Schweizerische Alzheimervereinigung",
     "phone": "+41 41 760 05 60",
     "id": "node/1609006619"

@@ -3522,6 +3522,7 @@
     "addr:street": "Grütstrasse",
     "amenity": "pharmacy",
     "dispensing": "no",
+    "healthcare": "pharmacy",
     "name": "Dorf-Apotheke Gossau",
     "opening_hours:covid19": "open",
     "shop": "chemist",
@@ -3541,6 +3542,7 @@
   "id": "node/1792722215",
   "properties": {
     "amenity": "pharmacy",
+    "healthcare": "pharmacy",
     "name": "Drogerie Büelgass",
     "shop": "chemist",
     "wheelchair": "yes",
@@ -4073,6 +4075,7 @@
     "branch": "Wald ZH",
     "brand": "APODRO",
     "email": "apotheke-wald@apodro.ch",
+    "healthcare": "pharmacy",
     "name": "APODRO Apotheke",
     "operator": "APODRO",
     "phone": "+41 55 266 12 01",
