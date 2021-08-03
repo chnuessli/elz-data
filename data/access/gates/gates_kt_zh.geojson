@@ -7701,6 +7701,7 @@
   "type": "Feature",
   "id": "node/770908989",
   "properties": {
+    "access": "no",
     "barrier": "gate",
     "bicycle": "no",
     "foot": "no",
@@ -7718,6 +7719,7 @@
   "type": "Feature",
   "id": "node/770909006",
   "properties": {
+    "access": "no",
     "barrier": "gate",
     "bicycle": "no",
     "foot": "no",
@@ -7735,6 +7737,7 @@
   "type": "Feature",
   "id": "node/770909017",
   "properties": {
+    "access": "no",
     "barrier": "gate",
     "bicycle": "no",
     "foot": "no",
