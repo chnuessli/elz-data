@@ -10369,7 +10369,7 @@
     "email": "hochgebirgsklinik@hgk.ch",
     "emergency": "no",
     "healthcare": "hospital",
-    "healthcare:speciality": "psychiatry;paediatrics;dermatology;cardiology;internal",
+    "healthcare:speciality": "Pneumologie;Allergologie;Psychosomatik;Pädiatrie;Dermatologie;Kardiologie",
     "name": "Hochgebirgsklinik Davos",
     "operator": "Hochgebirgsklinik Davos AG",
     "phone": "+41 81 417 44 44",
