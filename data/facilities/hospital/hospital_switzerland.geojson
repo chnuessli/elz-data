@@ -25909,6 +25909,10 @@
           47.1295981
         ],
         [
+          8.7404151,
+          47.1296976
+        ],
+        [
           8.7407023,
           47.130031
         ],
@@ -29283,6 +29287,7 @@
     "addr:postcode": "1003",
     "addr:street": "Avenue de la Gare",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Clinique Longeraie",
     "source": "Orthophoto Ville de Lausanne 2008",
     "id": "way/675166090"
@@ -29443,6 +29448,7 @@
     "addr:postcode": "1000",
     "addr:street": "Chemin de Montétan",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Hopital de l'Enfance",
     "id": "way/675169918"
   },
@@ -29505,6 +29511,7 @@
     "addr:street": "Avenue de France",
     "amenity": "hospital",
     "copyright": "OpenAddresses",
+    "healthcare": "hospital",
     "name": "Asile des aveugles Fondation Hôpital ophtalmique Jules-Gonin",
     "oa:imported_by": "sbrunner",
     "oa:lat": "46.52442551",
@@ -48010,6 +48017,7 @@
   "properties": {
     "amenity": "clinic",
     "contact:facebook": "https://www.facebook.com/Centre.Douleur.Riviera/",
+    "healthcare": "clinic",
     "name": "Centre de la douleur",
     "phone": "+41 21 923 3848",
     "website": "https://www.centredouleur.net/",
@@ -48743,6 +48751,7 @@
   "id": "node/7505372397",
   "properties": {
     "amenity": "clinic",
+    "healthcare": "clinic",
     "name": "RivieraClinic",
     "id": "node/7505372397"
   },
