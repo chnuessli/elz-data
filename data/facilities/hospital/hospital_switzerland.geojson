@@ -11033,6 +11033,7 @@
   "id": "way/131226507",
   "properties": {
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Hôpital de Cery",
     "wikidata": "Q14830615",
     "id": "way/131226507"
@@ -37935,7 +37936,7 @@
     "amenity": "hospital",
     "emergency": "yes",
     "name": "Kantonales Spital Altstätten",
-    "phone": "+41 71 757 4411",
+    "phone": "+41 71 757 44 11",
     "website": "https://www.srrws.ch/ueber-uns/organisation/spitaeler/spital-altstaetten.html",
     "id": "way/680288445"
   },
@@ -47758,7 +47759,7 @@
     "email": "praxis@klinikimhof.ch",
     "healthcare": "rehabilitation",
     "name": "Klinik im Hof Nachbehandlungszentrum",
-    "phone": "+41 71 7988080",
+    "phone": "+41 71 798 80 80",
     "website": "https://klinikimhof.ch/",
     "id": "node/6346720475"
   },

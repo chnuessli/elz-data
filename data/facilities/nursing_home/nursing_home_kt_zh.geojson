@@ -11371,11 +11371,18 @@
   "type": "Feature",
   "id": "way/183425080",
   "properties": {
+    "addr:city": "Dietlikon",
+    "addr:housenumber": "41",
+    "addr:postcode": "8305",
+    "addr:street": "Schwerzelbodenstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "email": "info@pz-rotacher.ch",
     "name": "Pflegezentrum Rotacher",
+    "phone": "+41 44 835 71 71",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
+    "website": "http://www.pz-rotacher.ch/",
     "id": "way/183425080"
   },
   "geometry": {

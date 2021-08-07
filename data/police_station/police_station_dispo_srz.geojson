@@ -1090,6 +1090,8 @@
     "building": "yes",
     "name": "Polizeiposten Meilen",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
     "id": "way/220119724"
   },
   "geometry": {
