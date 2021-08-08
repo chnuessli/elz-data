@@ -10613,7 +10613,6 @@
   "id": "node/1293306933",
   "properties": {
     "barrier": "lift_gate",
-    "maxspeed": "20",
     "id": "node/1293306933"
   },
   "geometry": {

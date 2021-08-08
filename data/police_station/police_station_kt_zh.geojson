@@ -650,6 +650,8 @@
     "building:roof": "flat",
     "name": "Polizeiposten Wiesendangen",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
     "id": "way/115963477"
   },
   "geometry": {

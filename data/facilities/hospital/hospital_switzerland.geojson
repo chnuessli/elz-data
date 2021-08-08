@@ -29206,6 +29206,7 @@
     "addr:street": "Avenue d'Ouchy",
     "amenity": "hospital",
     "copyright": "OpenAddresses",
+    "healthcare": "hospital",
     "name": "Clinique Bois-Cerf",
     "oa:imported_by": "sbrunner",
     "oa:lat": "46.51192093",
@@ -42960,8 +42961,9 @@
   "type": "Feature",
   "id": "way/746759050",
   "properties": {
-    "amenity": "hospital",
-    "healthcare": "hospital",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Clinique Volta",
     "id": "way/746759050"
   },
   "geometry": {
@@ -42969,44 +42971,48 @@
     "coordinates": [
       [
         [
-          6.8140348,
-          47.0957532
+          6.8140442,
+          47.0957491
         ],
         [
-          6.8143787,
-          47.0954671
+          6.8144099,
+          47.0954552
         ],
         [
-          6.8139745,
-          47.0952456
+          6.8139898,
+          47.0952102
         ],
         [
-          6.8138693,
-          47.0951879
+          6.8138973,
+          47.0951593
         ],
         [
-          6.8139773,
-          47.095098
+          6.813984,
+          47.095089
         ],
         [
-          6.8141179,
-          47.0949808
+          6.8141161,
+          47.0949841
         ],
         [
-          6.8151425,
-          47.095587
+          6.8151345,
+          47.0955781
         ],
         [
-          6.8146448,
-          47.0959628
+          6.8149823,
+          47.095699
         ],
         [
-          6.8145524,
-          47.0960326
+          6.8146591,
+          47.0959558
         ],
         [
-          6.8140348,
-          47.0957532
+          6.8145535,
+          47.0960428
+        ],
+        [
+          6.8140442,
+          47.0957491
         ]
       ]
     ]
@@ -46515,6 +46521,7 @@
   "id": "node/4179099318",
   "properties": {
     "amenity": "clinic",
+    "healthcare": "clinic",
     "name": "Permanence PMU-Flon",
     "opening_hours": "Mo-Sa 07:00-21:00; PH,Su 09:00-19:00",
     "operator": "Policlinique médicale et universitaire",
@@ -47937,23 +47944,6 @@
     "coordinates": [
       7.110383,
       46.8121353
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6988117878",
-  "properties": {
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "name": "Hôpital de La Volta",
-    "id": "node/6988117878"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      6.8145857,
-      47.0955553
     ]
   }
 },
