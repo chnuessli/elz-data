@@ -12251,6 +12251,22 @@
       47.0005873
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8989399910",
+  "properties": {
+    "aeroway": "helipad",
+    "ref": "Helipad Chablais Heli Club",
+    "id": "node/8989399910"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9851411,
+      46.2585634
+    ]
+  }
 }
 ]
 }
