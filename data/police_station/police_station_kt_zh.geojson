@@ -1449,6 +1449,8 @@
     "name": "Polizeiposten Stäfa",
     "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
     "phone": "+41 44 928 17 00",
     "id": "node/383897745"
   },

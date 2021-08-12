@@ -13971,12 +13971,20 @@
           46.4584736
         ],
         [
-          6.8537572,
-          46.4582127
+          6.8537537,
+          46.4582072
         ],
         [
-          6.8537721,
-          46.4582019
+          6.8537696,
+          46.4581985
+        ],
+        [
+          6.8537418,
+          46.4581703
+        ],
+        [
+          6.8535251,
+          46.4579487
         ],
         [
           6.8534305,
@@ -43640,6 +43648,10 @@
           47.4492278
         ],
         [
+          8.56581,
+          47.4492342
+        ],
+        [
           8.5656942,
           47.4492398
         ],
@@ -49225,6 +49237,30 @@
     "coordinates": [
       8.4020349,
       47.027061
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8998456884",
+  "properties": {
+    "addr:city": "Zürich-Flughafen",
+    "addr:housenumber": "48",
+    "addr:postcode": "8058",
+    "addr:street": "The Circle",
+    "amenity": "clinic",
+    "email": "flughafen.ambulant@zurzachcare.ch",
+    "name": "Ambulantes Zentrum ZURZACH Care",
+    "operator": "ZURZACH Care",
+    "phone": "+41 43 816 10 90",
+    "website": "https://www.zurzachcare.ch/flughafen-ambulant",
+    "id": "node/8998456884"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5657467,
+      47.4492497
     ]
   }
 }
