@@ -12184,9 +12184,9 @@
     "amenity": "clinic",
     "building": "yes",
     "healthcare": "clinic",
-    "name": "Urgences Service d'Urgences du Groupe Médical d'Onex et de la Clinique et Permanence d'Onex",
+    "name": "Cité générations maison de Santé",
     "opening_hours": "Mo-Su,PH 07:00-23:00",
-    "source": "Bing",
+    "website": "https://www.cite-generations.ch/",
     "id": "way/157935240"
   },
   "geometry": {
