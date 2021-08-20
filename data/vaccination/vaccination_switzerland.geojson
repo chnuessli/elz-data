@@ -1520,6 +1520,29 @@
       46.9782327
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9021071259",
+  "properties": {
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:country": "CH",
+    "addr:housenumber": "153",
+    "addr:postcode": "2300",
+    "addr:street": "Rue des Crêtets",
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Polyexpo",
+    "vaccination": "covid19",
+    "id": "node/9021071259"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8138128,
+      47.0887304
+    ]
+  }
 }
 ]
 }
