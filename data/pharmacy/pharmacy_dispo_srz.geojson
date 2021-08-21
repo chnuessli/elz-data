@@ -117,57 +117,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/114852589",
-  "properties": {
-    "addr:city": "Schlieren",
-    "addr:country": "CH",
-    "addr:housenumber": "1",
-    "addr:postcode": "8952",
-    "addr:street": "Südstrasse",
-    "amenity": "pharmacy",
-    "building": "yes",
-    "name": "Kantonsapotheke",
-    "website": "https://kantonsapotheke.zh.ch/internet/gesundheitsdirektion/kaz/de/home.html",
-    "id": "way/114852589"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4642118,
-          47.3999918
-        ],
-        [
-          8.4650711,
-          47.3997663
-        ],
-        [
-          8.4652213,
-          47.4000382
-        ],
-        [
-          8.4652904,
-          47.4000207
-        ],
-        [
-          8.4653396,
-          47.4001101
-        ],
-        [
-          8.4643976,
-          47.4003494
-        ],
-        [
-          8.4642118,
-          47.3999918
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/245897689",
   "properties": {
     "addr:city": "Rüti (ZH)",

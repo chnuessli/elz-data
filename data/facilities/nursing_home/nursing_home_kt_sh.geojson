@@ -354,6 +354,59 @@
 },
 {
   "type": "Feature",
+  "id": "way/190250185",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "12",
+    "addr:street": "J.J. Wepfer-Strasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "building:levels": "4",
+    "name": "Pflegezentrum - Spitäer Schaffhausen",
+    "operator": "Spitäler Schaffhausen",
+    "phone": "+41 52 634 34 34",
+    "social_facility": "nursing_home",
+    "website": "https://www.heiminfo.ch/institution/spitaeler-schaffhausen-pflegezentrum/pRLcyvp",
+    "id": "way/190250185"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6392272,
+          47.7153783
+        ],
+        [
+          8.6392586,
+          47.7152102
+        ],
+        [
+          8.6405688,
+          47.7153208
+        ],
+        [
+          8.6405365,
+          47.7154894
+        ],
+        [
+          8.6403671,
+          47.7154741
+        ],
+        [
+          8.6393857,
+          47.7153917
+        ],
+        [
+          8.6392272,
+          47.7153783
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/192704208",
   "properties": {
     "addr:city": "Schaffhausen",
