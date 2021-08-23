@@ -556,6 +556,25 @@
 },
 {
   "type": "Feature",
+  "id": "node/849980711",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "material": "metal",
+    "maxheight": "1.5",
+    "maxwidth": "1.0",
+    "id": "node/849980711"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4836795,
+      47.7462107
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/890866708",
   "properties": {
     "barrier": "lift_gate",

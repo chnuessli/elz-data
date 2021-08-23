@@ -20081,11 +20081,14 @@
   "type": "Feature",
   "id": "way/305875553",
   "properties": {
+    "addr:housenumber": "1",
+    "addr:street": "Via da li Clüsüri",
     "amenity": "hospital",
     "building": "yes",
     "healthcare": "hospital",
     "name": "Ospedale San Sisto",
     "source": "Bing",
+    "website": "https://www.csvp.ch",
     "id": "way/305875553"
   },
   "geometry": {
