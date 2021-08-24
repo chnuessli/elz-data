@@ -21836,6 +21836,50 @@
 },
 {
   "type": "Feature",
+  "id": "way/339025313",
+  "properties": {
+    "addr:housenumber": "8",
+    "addr:street": "Militärstrasse",
+    "alt_name": "Kriesnintervention Zürich",
+    "amenity": "clinic",
+    "building": "yes",
+    "email": "tagesklinik.militaerstrasse@puk.zh.ch",
+    "name": "KIZ Tagesklinik Militärstrasse",
+    "operator": "Psychiatrische Universitätsklinik Zürich",
+    "phone": "+41 44 296 74 81",
+    "website": "https://www.pukzh.ch/unterlagen/behandlungsangebote/tagesklinik-militaerstrasse/",
+    "id": "way/339025313"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5335031,
+          47.376333
+        ],
+        [
+          8.5333701,
+          47.376249
+        ],
+        [
+          8.5334835,
+          47.3761633
+        ],
+        [
+          8.5336146,
+          47.3762644
+        ],
+        [
+          8.5335031,
+          47.376333
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/343964766",
   "properties": {
     "amenity": "hospital",
@@ -49321,6 +49365,29 @@
     "coordinates": [
       8.5657467,
       47.4492497
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9028857238",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "108",
+    "addr:postcode": "8004",
+    "addr:street": "Badenerstrasse",
+    "amenity": "clinic",
+    "name": "Psychiatrische Polyklinik",
+    "operator": "Stadt Zürich",
+    "phone": "+41 44 412 48 00",
+    "website": "https://www.stadt-zuerich.ch/gud/de/index/gesundheitsversorgung/medizin/sozialmedizin/PPZ.html",
+    "id": "node/9028857238"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5248578,
+      47.374378
     ]
   }
 }
