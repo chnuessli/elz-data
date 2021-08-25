@@ -13810,6 +13810,7 @@
   "id": "way/197717976",
   "properties": {
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "EMS Foyer St. Paul",
     "id": "way/197717976"
   },
@@ -40101,8 +40102,8 @@
     "coordinates": [
       [
         [
-          8.9235511,
-          46.0400453
+          8.9235854,
+          46.0399799
         ],
         [
           8.9236075,
@@ -40117,20 +40118,36 @@
           46.0394346
         ],
         [
-          8.9247367,
-          46.0399792
+          8.9247315,
+          46.0399834
         ],
         [
-          8.9244926,
-          46.040157
+          8.9245176,
+          46.0401281
         ],
         [
-          8.9243156,
-          46.04005
+          8.9244757,
+          46.0401365
         ],
         [
-          8.9235511,
-          46.0400453
+          8.924439,
+          46.0401312
+        ],
+        [
+          8.9242741,
+          46.0400317
+        ],
+        [
+          8.923653,
+          46.0400323
+        ],
+        [
+          8.923599,
+          46.0400144
+        ],
+        [
+          8.9235854,
+          46.0399799
         ]
       ]
     ]
@@ -49388,6 +49405,67 @@
     "coordinates": [
       8.5248578,
       47.374378
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9031461442",
+  "properties": {
+    "addr:housenumber": "14",
+    "addr:street": "Promenade de Castellane",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general",
+    "level": "1",
+    "name": "Permanence des Halles",
+    "operator": "EHC",
+    "id": "node/9031461442"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4949298,
+      46.5114858
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9031461443",
+  "properties": {
+    "addr:housenumber": "12",
+    "addr:street": "Promenade de Castellane",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "internal",
+    "level": "1",
+    "name": "Centre digestif des Halles",
+    "operator": "EHC",
+    "id": "node/9031461443"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4950767,
+      46.511568
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9032304477",
+  "properties": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ferraroli ESP",
+    "id": "node/9032304477"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9226749,
+      46.0337727
     ]
   }
 }
