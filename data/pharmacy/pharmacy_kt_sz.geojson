@@ -144,27 +144,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1347034846",
-  "properties": {
-    "addr:city": "Wollerau",
-    "addr:housenumber": "24",
-    "addr:postcode": "8832",
-    "addr:street": "Hauptstrasse",
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Drogerie Dobler",
-    "id": "node/1347034846"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7203047,
-      47.1960456
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1375289438",
   "properties": {
     "addr:city": "Wollerau",

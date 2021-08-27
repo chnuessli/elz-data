@@ -940,6 +940,7 @@
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-12:30",
     "operator": "Rotpunkt Pharma",
     "website": "http://www.werd-apotheke.ch/",
+    "wheelchair": "yes",
     "id": "node/314979529"
   },
   "geometry": {
@@ -4780,6 +4781,7 @@
     "opening_hours": "Mo-Fr 07:45-19:00; Sa 09:00-17:00",
     "operator": "Rotpunkt Pharma",
     "website": "https://www.cityapo.ch/",
+    "wheelchair": "no",
     "id": "node/4244047594"
   },
   "geometry": {
@@ -5547,6 +5549,7 @@
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
     "operator": "Medbase Apotheken",
     "website": "https://www.topwell.ch/medbaseapothekezuerichwiedikon/",
+    "wheelchair": "yes",
     "id": "node/4838594395"
   },
   "geometry": {
