@@ -2261,7 +2261,11 @@
   "properties": {
     "access": "no",
     "barrier": "lift_gate",
+    "bicycle": "yes",
     "bus": "yes",
+    "foot": "yes",
+    "material": "plastic",
+    "maxwidth": "3.0",
     "id": "node/33144172"
   },
   "geometry": {
@@ -69029,6 +69033,22 @@
     "coordinates": [
       8.6739428,
       46.9923811
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9040884500",
+  "properties": {
+    "access": "yes",
+    "barrier": "gate",
+    "id": "node/9040884500"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5276878,
+      47.3682308
     ]
   }
 }
