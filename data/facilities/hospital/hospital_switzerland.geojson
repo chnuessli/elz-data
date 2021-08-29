@@ -13072,6 +13072,7 @@
   "id": "way/181977663",
   "properties": {
     "amenity": "hospital",
+    "healthcare": "psychotherapist",
     "name": "Psychiatrische Klinik",
     "wheelchair": "limited",
     "id": "way/181977663"
@@ -13103,6 +13104,10 @@
         [
           9.2347057,
           47.6329329
+        ],
+        [
+          9.2340977,
+          47.6334337
         ],
         [
           9.2339284,
