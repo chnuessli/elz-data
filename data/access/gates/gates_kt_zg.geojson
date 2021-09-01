@@ -904,6 +904,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/2843157747",
+  "properties": {
+    "barrier": "gate",
+    "vehicle": "private",
+    "id": "node/2843157747"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4599665,
+      47.1812928
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2906309021",
   "properties": {
     "barrier": "gate",
