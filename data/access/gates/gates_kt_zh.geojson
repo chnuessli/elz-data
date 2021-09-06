@@ -39783,6 +39783,7 @@
   "id": "node/5421248269",
   "properties": {
     "barrier": "gate",
+    "foot": "yes",
     "id": "node/5421248269"
   },
   "geometry": {
@@ -39803,8 +39804,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5756735,
-      47.3870363
+      8.5756752,
+      47.3869976
     ]
   }
 },
