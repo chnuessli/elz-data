@@ -56,82 +56,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8382900799",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "49",
-    "addr:postcode": "8050",
-    "addr:street": "Wallisellenstrasse",
-    "alt_name": "COVID-19 Impfzentrum Messe Zürich",
-    "healthcare": "centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum Messe Zürich",
-    "operator": "Kanton Zürich",
-    "phone": "+41 44 416 11 11",
-    "vaccination": "covid19",
-    "website": "https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2021/01/kanton-zuerich-stellt-in-zusammenarbeit-mit-spitaelern-elf-impfzentren-bereit.html",
-    "id": "node/8382900799"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.553368,
-      47.4110267
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8383564424",
-  "properties": {
-    "addr:city": "Meilen",
-    "addr:housenumber": "17",
-    "addr:postcode": "8706",
-    "addr:street": "Schulhausstrasse",
-    "alt_name": "COVID-19 Impfzentrum Meilen",
-    "healthcare": "centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum Meilen",
-    "opening_hours": "Mo-Fr 10:00-13:00,14:00-19:00",
-    "operator": "Kanton Zürich",
-    "vaccination": "covid19",
-    "id": "node/8383564424"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6419997,
-      47.2687066
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8383564425",
-  "properties": {
-    "addr:city": "Dietikon",
-    "addr:housenumber": "15",
-    "addr:postcode": "8953",
-    "addr:street": "Fondlistrasse",
-    "alt_name": "COVID-19 Impfzentrum Dietikon",
-    "healthcare": "centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum Dietikon",
-    "opening_hours": "Mo-Sa 08:00-12:15,12:45-17:00; Th,Fr 08:00-12:15,12:45-17:00,17:30-19:30",
-    "operator": "Kanton Zürich",
-    "vaccination": "covid19",
-    "id": "node/8383564425"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.3870356,
-      47.4070415
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8383564426",
   "properties": {
     "addr:city": "Winterthur",
@@ -158,31 +82,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8383564428",
-  "properties": {
-    "addr:city": "Wetzikon",
-    "addr:housenumber": "63",
-    "addr:postcode": "8620",
-    "addr:street": "Rapperswilerstrasse",
-    "alt_name": "COVID-19 Impfzentrum Wetzikon",
-    "healthcare": "centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum Wetzikon",
-    "opening_hours": "Mo-Fr 10:00-19:00",
-    "operator": "Kanton Zürich",
-    "vaccination": "covid19",
-    "id": "node/8383564428"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7993399,
-      47.3150279
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8477983050",
   "properties": {
     "addr:city": "Uster",
@@ -203,31 +102,6 @@
     "coordinates": [
       8.7256829,
       47.3603902
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8477983051",
-  "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "87",
-    "addr:postcode": "8810",
-    "addr:street": "Seestrasse",
-    "alt_name": "COVID-19 Impfzentrum Horgen",
-    "healthcare": "centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum Horgen",
-    "opening_hours": "Mo-Fr 11:00-19:00; We 07:00-13:00; Sa 08:00-13:00",
-    "operator": "Kanton Zürich",
-    "vaccination": "covid19",
-    "id": "node/8477983051"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5921404,
-      47.2625298
     ]
   }
 },
