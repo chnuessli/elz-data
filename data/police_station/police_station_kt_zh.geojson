@@ -1106,6 +1106,7 @@
     "aeroway": "terminal",
     "amenity": "police",
     "building": "transportation",
+    "building:colour": "gray",
     "building:levels": "4",
     "height": "26.4",
     "int_name": "Security Check Building",
