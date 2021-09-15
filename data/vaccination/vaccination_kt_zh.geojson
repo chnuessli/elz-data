@@ -104,56 +104,6 @@
       47.3603902
     ]
   }
-},
-{
-  "type": "Feature",
-  "id": "node/8477983052",
-  "properties": {
-    "addr:city": "Bülach",
-    "addr:housenumber": "8",
-    "addr:postcode": "8180",
-    "addr:street": "Allmendstrasse",
-    "alt_name": "COVID-19 Impfzentrum Bülach",
-    "healthcare": "centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum Bülach",
-    "opening_hours": "Mo-Fr 10:00-13:00,14:00-19:00",
-    "operator": "Kanton Zürich",
-    "vaccination": "covid19",
-    "id": "node/8477983052"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5364818,
-      47.515593
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8560012338",
-  "properties": {
-    "addr:city": "Affoltern am Albis",
-    "addr:housenumber": "7",
-    "addr:postcode": "8910",
-    "addr:street": "Obstgartenstrasse",
-    "alt_name": "COVID-19 Impfzentrum Affoltern",
-    "healthcare": "centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum Affoltern",
-    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:30",
-    "operator": "Kanton Zürich",
-    "vaccination": "covid19",
-    "id": "node/8560012338"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.444059,
-      47.2745829
-    ]
-  }
 }
 ]
 }
