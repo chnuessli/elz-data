@@ -4775,8 +4775,10 @@
     "addr:street": "Spitalstrasse",
     "amenity": "hospital",
     "emergency": "yes",
+    "healthcare": "hospital",
     "name": "Spital Walenstadt",
     "operator": "Spitalregion Rheintal Werdenberg Sarganserland",
+    "phone": "+41817361111",
     "id": "way/45750557"
   },
   "geometry": {
@@ -38191,7 +38193,9 @@
     "addr:street": "F.-Marolanistrasse",
     "amenity": "hospital",
     "emergency": "yes",
-    "name": "Kantonales Spital Altstätten",
+    "healthcare": "hospital",
+    "name": "Spital Altstätten",
+    "operator": "Spitalregion Rheintal Werdenberg Sarganserland",
     "phone": "+41 71 757 44 11",
     "website": "https://www.srrws.ch/ueber-uns/organisation/spitaeler/spital-altstaetten.html",
     "id": "way/680288445"
