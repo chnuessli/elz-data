@@ -17064,21 +17064,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2211735675",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/2211735675"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5559247,
-      47.3836189
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2212535026",
   "properties": {
     "barrier": "gate",
