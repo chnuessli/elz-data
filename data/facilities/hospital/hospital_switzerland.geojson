@@ -49708,6 +49708,28 @@
       46.2259157
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9107017439",
+  "properties": {
+    "addr:city": "Ilanz/Glion",
+    "addr:postcode": "7130",
+    "addr:street": "Via ospedal",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Spital regiunal Surselva",
+    "operator": "Regionalspital Surselva AG",
+    "operator:type": "public",
+    "id": "node/9107017439"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2052594,
+      46.7769296
+    ]
+  }
 }
 ]
 }
