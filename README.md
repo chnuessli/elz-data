@@ -1,3 +1,5 @@
+![logo_SRZ.png](logo_SRZ.png)
+
 # JSON Archiv
 
 [![Get data from Overpass](https://github.com/Schutz-Rettung-Zurich/json-archive/workflows/Get%20data%20from%20Overpass/badge.svg)](https://github.com/Schutz-Rettung-Zurich/json-archive/actions?query=workflow%3A%22Get+data+from+Overpass%22)
