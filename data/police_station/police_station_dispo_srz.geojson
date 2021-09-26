@@ -3030,8 +3030,10 @@
   "properties": {
     "addr:city": "Zürich",
     "addr:country": "CH",
+    "addr:housenumber": "1",
     "addr:place": "Hauptbahnhof, Nordtrakt",
     "addr:postcode": "8001",
+    "addr:street": "Museumstrasse",
     "amenity": "police",
     "indoor": "yes",
     "level": "0",
