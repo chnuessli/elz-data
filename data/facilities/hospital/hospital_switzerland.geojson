@@ -49707,6 +49707,29 @@
       46.7769296
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9124306475",
+  "properties": {
+    "addr:city": "Vercorin",
+    "addr:housenumber": "32",
+    "addr:postcode": "3967",
+    "addr:street": "Chemin de Tracuit",
+    "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "healthcare:speciality": "massage_therapy",
+    "name": "Le Refuge Centre thérapeutique et de bien-être",
+    "id": "node/9124306475"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5314593,
+      46.2543892
+    ]
+  }
 }
 ]
 }
