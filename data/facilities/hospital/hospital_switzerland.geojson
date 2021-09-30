@@ -49831,6 +49831,24 @@
       46.2543892
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9132644346",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "level": "0",
+    "name": "Covid-19-Testzentrum Universitätsspital Basel",
+    "id": "node/9132644346"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5812519,
+      47.5618415
+    ]
+  }
 }
 ]
 }
