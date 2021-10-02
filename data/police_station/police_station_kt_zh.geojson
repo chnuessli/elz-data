@@ -3330,6 +3330,27 @@
       47.4521855
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9137000526",
+  "properties": {
+    "addr:city": "Zürich-Flughafen",
+    "addr:postcode": "8058",
+    "addr:street": "Prime Center 1",
+    "amenity": "police",
+    "level": "8",
+    "name": "Polizeiposten Flughafen",
+    "operator": "Kantonspolizei Zürich",
+    "id": "node/9137000526"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5633271,
+      47.4524219
+    ]
+  }
 }
 ]
 }
