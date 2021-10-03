@@ -6802,6 +6802,7 @@
     "barrier": "lift_gate",
     "bicycle": "yes",
     "foot": "yes",
+    "motor_vehicle": "permit",
     "id": "node/494472326"
   },
   "geometry": {
