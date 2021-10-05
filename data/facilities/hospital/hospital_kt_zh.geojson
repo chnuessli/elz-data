@@ -7832,27 +7832,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7316995167",
-  "properties": {
-    "addr:city": "Schwerzenbach",
-    "addr:housenumber": "24",
-    "addr:postcode": "8603",
-    "addr:street": "Bahnstrasse",
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "name": "Klinik Pyramide Schwerzenbach",
-    "id": "node/7316995167"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6564203,
-      47.3869065
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7472080008",
   "properties": {
     "amenity": "clinic",
