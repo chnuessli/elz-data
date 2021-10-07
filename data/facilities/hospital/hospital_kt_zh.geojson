@@ -19,6 +19,7 @@
     "name": "Kinderspital Zürich",
     "operator": "Eleonorenstiftung",
     "phone": "+41 44 266 71 11",
+    "short_name": "Kispi ZH",
     "type": "multipolygon",
     "website": "https://www.kispi.uzh.ch/",
     "wikidata": "Q1374004",
@@ -8108,6 +8109,62 @@
     "coordinates": [
       8.5248578,
       47.374378
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9151547627",
+  "properties": {
+    "amenity": "clinic",
+    "email": "praxis@orthopaedie-zuerich.ch",
+    "name": "Orthopädie Zentrum Zürich",
+    "operator": "Hirslanden Klinik im Park",
+    "phone": "+41 44 226 90 00",
+    "website": "https://www.hirslanden.ch/de/klinik-im-park/centers/orthopaedie-zentrum-zuerich.html",
+    "id": "node/9151547627"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5324988,
+      47.3510925
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9151547628",
+  "properties": {
+    "amenity": "clinic",
+    "name": "Onkozentrum Zürich-Enge",
+    "operator": "Onkozentrum Zürich AG",
+    "phone": "+41 43 344 33 33",
+    "website": "https://ozh.ch/ozh/wir-stellen-uns-vor/",
+    "id": "node/9151547628"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5322958,
+      47.3510859
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9151768393",
+  "properties": {
+    "amenity": "clinic",
+    "name": "Onkozentrum Zürich Seefeld",
+    "website": "https://ozh.ch/ozh/standort-seefeld/",
+    "id": "node/9151768393"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.558734,
+      47.3530145
     ]
   }
 }
