@@ -9983,8 +9983,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7008131,
-      47.1029467
+      8.7008116,
+      47.1029297
     ]
   }
 },
@@ -20693,6 +20693,7 @@
   "id": "node/2090945083",
   "properties": {
     "barrier": "gate",
+    "name": "Tor Süd",
     "id": "node/2090945083"
   },
   "geometry": {
@@ -20753,6 +20754,7 @@
   "id": "node/2090945135",
   "properties": {
     "barrier": "gate",
+    "name": "Tor Nord",
     "id": "node/2090945135"
   },
   "geometry": {
@@ -69508,6 +69510,22 @@
     "coordinates": [
       8.5593031,
       47.4156659
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9160517711",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "id": "node/9160517711"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5488703,
+      47.4188327
     ]
   }
 }
