@@ -60450,6 +60450,24 @@
       47.4188327
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9164108911",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "material": "wood",
+    "maxwidth": "1",
+    "id": "node/9164108911"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9441008,
+      47.3033221
+    ]
+  }
 }
 ]
 }
