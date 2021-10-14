@@ -96,14 +96,14 @@
     "addr:city": "Schaffhausen",
     "addr:country": "CH",
     "addr:housenumber": "2",
-    "addr:postcode": "8202",
+    "addr:postcode": "8200",
     "addr:street": "Unterstadt",
     "amenity": "pharmacy",
     "dispensing": "yes",
     "email": "info@unterstadtapotheke.ch",
     "healthcare": "pharmacy",
     "name": "Unterstadt-Apotheke & Post",
-    "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-17:00",
+    "opening_hours": "Mo-Fr 08:30-18:30;Sa 08:30-17:00",
     "phone": "+41 52 625 11 44",
     "website": "https://www.unterstadtapotheke.ch/",
     "id": "node/2258851964"
@@ -111,8 +111,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6403009,
-      47.6957809
+      8.6402995,
+      47.6957896
     ]
   }
 },

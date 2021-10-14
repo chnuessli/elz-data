@@ -2828,6 +2828,76 @@
 },
 {
   "type": "Feature",
+  "id": "relation/13325037",
+  "properties": {
+    "addr:city": "Uznach",
+    "addr:country": "CH",
+    "addr:housenumber": "25",
+    "addr:postcode": "8730",
+    "addr:street": "Gasterstrasse",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Spital Linth",
+    "phone": "+41 55 285 41 11",
+    "type": "multipolygon",
+    "website": "https://www.spital-linth.ch/",
+    "wikidata": "Q33121426",
+    "id": "relation/13325037"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9964535,
+          47.2238575
+        ],
+        [
+          8.9962925,
+          47.2239025
+        ],
+        [
+          8.9945076,
+          47.2243008
+        ],
+        [
+          8.9936969,
+          47.224195
+        ],
+        [
+          8.9934512,
+          47.2238405
+        ],
+        [
+          8.9941227,
+          47.2235448
+        ],
+        [
+          8.9938625,
+          47.2232078
+        ],
+        [
+          8.9950734,
+          47.2227107
+        ],
+        [
+          8.9956274,
+          47.2229601
+        ],
+        [
+          8.9958608,
+          47.223206
+        ],
+        [
+          8.9964535,
+          47.2238575
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/22918627",
   "properties": {
     "addr:housenumber": "67",
@@ -29382,83 +29452,6 @@
         [
           8.5366186,
           47.320433
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/673816076",
-  "properties": {
-    "addr:city": "Uznach",
-    "addr:country": "CH",
-    "addr:housenumber": "25",
-    "addr:postcode": "8730",
-    "addr:street": "Gasterstrasse",
-    "amenity": "hospital",
-    "emergency": "yes",
-    "name": "Spital Linth",
-    "phone": "+41 55 285 41 11",
-    "website": "https://www.spital-linth.ch/",
-    "wikidata": "Q33121426",
-    "id": "way/673816076"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.9936533,
-          47.2242206
-        ],
-        [
-          8.993412,
-          47.2238745
-        ],
-        [
-          8.9941227,
-          47.2235448
-        ],
-        [
-          8.9938625,
-          47.2232078
-        ],
-        [
-          8.9950213,
-          47.2227305
-        ],
-        [
-          8.9956274,
-          47.2229601
-        ],
-        [
-          8.9958608,
-          47.223206
-        ],
-        [
-          8.9963183,
-          47.2237216
-        ],
-        [
-          8.9963043,
-          47.2238325
-        ],
-        [
-          8.9962202,
-          47.2239
-        ],
-        [
-          8.9957846,
-          47.2239954
-        ],
-        [
-          8.9944929,
-          47.224288
-        ],
-        [
-          8.9936533,
-          47.2242206
         ]
       ]
     ]
