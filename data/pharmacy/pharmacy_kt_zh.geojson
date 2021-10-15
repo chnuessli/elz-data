@@ -464,7 +464,7 @@
     "name": "Dropa Hottingen",
     "official_name": "Hottinger-Apotheke & Post GmbH",
     "old_name": "Hottinger-Apotheke",
-    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-12:00",
+    "opening_hours": "Mo-Fr 08:00-18:30;Sa 08:00-12:00",
     "operator": "Dr. Bähler Dropa",
     "website": "https://dropa.ch/standorte/dropa-apotheke-post-hottingen",
     "id": "node/262378047"
@@ -2762,7 +2762,7 @@
     "brand": "Fortis",
     "healthcare": "pharmacy",
     "name": "Apotheke Zum Mörser",
-    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:30",
+    "opening_hours": "Mo-Fr 08:00-18:30;Sa 08:00-16:30",
     "website": "https://www.apothekezummoerser.ch/",
     "wheelchair": "yes",
     "id": "node/983433415"
