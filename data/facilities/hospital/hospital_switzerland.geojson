@@ -36680,8 +36680,9 @@
     "addr:postcode": "7606",
     "addr:street": "Flin",
     "amenity": "hospital",
-    "name": "Ospedale Casa di Cura della Bregaglia",
-    "website": "http://www.csbregaglia.ch/de/#undefined",
+    "healthcare": "hospital",
+    "name": "Centro Sanitario Bregaglia",
+    "website": "https://www.csbregaglia.ch/",
     "id": "way/677011611"
   },
   "geometry": {
@@ -50301,6 +50302,82 @@
     "coordinates": [
       8.5133805,
       47.3929512
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9174495666",
+  "properties": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Le Buis",
+    "operator": "EHNV",
+    "operator:type": "public",
+    "id": "node/9174495666"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6459494,
+      46.7718027
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9174495667",
+  "properties": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Le Trèfle",
+    "operator": "EHNV",
+    "operator:type": "public",
+    "id": "node/9174495667"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.646504,
+      46.7720549
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9174495668",
+  "properties": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Le Roseau",
+    "operator": "EHNV",
+    "operator:type": "public",
+    "id": "node/9174495668"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6468343,
+      46.7706731
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9174495669",
+  "properties": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Le lierre",
+    "operator": "EHNV",
+    "operator:type": "public",
+    "id": "node/9174495669"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6475775,
+      46.7703241
     ]
   }
 }
