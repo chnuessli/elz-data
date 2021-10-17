@@ -70,27 +70,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2063711627",
-  "properties": {
-    "addr:city": "Thayngen",
-    "addr:country": "CH",
-    "addr:housenumber": "5",
-    "addr:postcode": "8240",
-    "addr:street": "Dorfstrasse",
-    "amenity": "pharmacy",
-    "name": "Apotheke Montanari",
-    "id": "node/2063711627"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7080513,
-      47.74773
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2258851964",
   "properties": {
     "addr:city": "Schaffhausen",
