@@ -3561,8 +3561,10 @@
   "type": "Feature",
   "id": "node/319543211",
   "properties": {
-    "access": "private",
+    "access": "yes",
     "barrier": "lift_gate",
+    "foot": "yes",
+    "motor_vehicle": "private",
     "id": "node/319543211"
   },
   "geometry": {
