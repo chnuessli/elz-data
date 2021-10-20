@@ -7743,24 +7743,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8538097113",
-  "properties": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "healthcare": "pharmacy",
-    "name": "Toppharm Römer1",
-    "id": "node/8538097113"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7583327,
-      47.5096921
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8568822659",
   "properties": {
     "amenity": "pharmacy",
