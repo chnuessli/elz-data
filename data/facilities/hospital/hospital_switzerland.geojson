@@ -6867,6 +6867,7 @@
   "properties": {
     "amenity": "hospital",
     "building": "hospital",
+    "healthcare": "hospital",
     "name": "Hôpital neuchâtelois Val-de-Travers",
     "operator": "Hôpital neuchâtelois",
     "phone": "+41 32 864 64 64",
@@ -14573,6 +14574,58 @@
         [
           6.8550936,
           46.4579403
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/199683744",
+  "properties": {
+    "addr:city": "Chêne-Bourg",
+    "addr:housenumber": "20",
+    "addr:street": "Rue de Genève",
+    "amenity": "clinic",
+    "building": "yes",
+    "healthcare": "clinic",
+    "id": "way/199683744"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.1942235,
+          46.1944103
+        ],
+        [
+          6.1941685,
+          46.1943503
+        ],
+        [
+          6.194078,
+          46.1942819
+        ],
+        [
+          6.1941899,
+          46.1942139
+        ],
+        [
+          6.1942252,
+          46.1941849
+        ],
+        [
+          6.1943174,
+          46.1942379
+        ],
+        [
+          6.1944002,
+          46.1943009
+        ],
+        [
+          6.1942235,
+          46.1944103
         ]
       ]
     ]
