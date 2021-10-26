@@ -249,3 +249,15 @@ echo -ne "Query Impfzentren Kanton Zug...           "
 cat $DIR/queries/vaccination_kt_zg.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/vaccination/vaccination_kt_zg.geojson
 echo -ne "\t\t - Done.\r"
 echo ""
+
+# Schulen Kanton Zürich
+echo -ne "Query Schulen Kanton Zürich...           "
+cat $DIR/queries/schools_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/schools/schools_zh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Schulen Stadt Zürich
+echo -ne "Query Schulen Kanton Zürich...           "
+cat $DIR/queries/schools_stadt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/schools/schools_stadt_zh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
