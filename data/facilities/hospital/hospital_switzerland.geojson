@@ -15321,10 +15321,6 @@
   "type": "Feature",
   "id": "way/224262469",
   "properties": {
-    "addr:city": "Sion",
-    "addr:housenumber": "16",
-    "addr:postcode": "1950",
-    "addr:street": "Rue du Pré-Fleuri",
     "amenity": "clinic",
     "building": "hospital",
     "healthcare": "clinic",
@@ -15355,48 +15351,6 @@
         [
           7.3566426,
           46.2303584
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/224964676",
-  "properties": {
-    "addr:housenumber": "37",
-    "addr:street": "Route de Sonloup",
-    "amenity": "hospital",
-    "building": "yes",
-    "emergency": "no",
-    "healthcare": "rehabilitation",
-    "name": "Clinic Les Alpes",
-    "website": "https://www.cliniclesalpes.com/",
-    "id": "way/224964676"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          6.9388561,
-          46.4574582
-        ],
-        [
-          6.9390582,
-          46.4573333
-        ],
-        [
-          6.9393023,
-          46.4575207
-        ],
-        [
-          6.9391003,
-          46.4576456
-        ],
-        [
-          6.9388561,
-          46.4574582
         ]
       ]
     ]
@@ -16170,8 +16124,6 @@
   "type": "Feature",
   "id": "way/236899360",
   "properties": {
-    "addr:housenumber": "90",
-    "addr:street": "Avenue du Grand-Champsec",
     "amenity": "clinic",
     "building": "hospital",
     "building:levels": "3",
@@ -50756,6 +50708,27 @@
     "coordinates": [
       8.8239603,
       47.2280885
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9204297722",
+  "properties": {
+    "addr:housenumber": "37",
+    "addr:street": "Route de Sonloup",
+    "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "rehabilitation",
+    "name": "Clinic Les Alpes",
+    "website": "https://www.cliniclesalpes.com/",
+    "id": "node/9204297722"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9390021,
+      46.4574666
     ]
   }
 }
