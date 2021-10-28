@@ -4603,8 +4603,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5715001,
-      47.4638384
+      8.5714793,
+      47.4638473
     ]
   }
 },
@@ -69049,6 +69049,38 @@
     "coordinates": [
       8.4216845,
       47.4031512
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9026201248",
+  "properties": {
+    "barrier": "gate",
+    "opening_hours": "Daily 06:00 - 21:30",
+    "id": "node/9026201248"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5496066,
+      47.3716487
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9026201255",
+  "properties": {
+    "barrier": "gate",
+    "opening_hours": "Daily 06:00 - 21:30",
+    "id": "node/9026201255"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5497508,
+      47.3713236
     ]
   }
 },
