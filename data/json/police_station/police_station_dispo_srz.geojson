@@ -154,6 +154,8 @@
     "building": "yes",
     "opening_hours": "24/7",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
     "id": "way/38484891"
   },
   "geometry": {
@@ -3725,6 +3727,8 @@
     "amenity": "police",
     "name": "Polizeiposten Bülach",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
     "id": "node/8510529835"
   },
   "geometry": {
