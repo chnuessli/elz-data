@@ -48,30 +48,39 @@ df = pd.read_json (r'data/json/helipad/helipads_switzerland.geojson')
 df.to_csv (r'data/csv/helipad/helipads_switzerland.csv', index = None)
 
 #Spitäler
-df = pd.read_json (r'data/json/hospital/hospital_dispo_srz.geojson')
-df.to_csv (r'data/csv/hospital/hospital_dispo_srz.csv', index = None)
+df = pd.read_json (r'data/json/facilities/hospital/hospital_dispo_srz.geojson')
+df.to_csv (r'data/csv/facilities/hospital/hospital_dispo_srz.csv', index = None)
 
-df = pd.read_json (r'data/json/hospital/hospital_kt_sh.geojson')
-df.to_csv (r'data/csv/hospital/hospital_kt_sh.csv', index = None)
+df = pd.read_json (r'data/json/facilities/hospital/hospital_kt_sh.geojson')
+df.to_csv (r'data/csv/facilities/hospital/hospital_kt_sh.csv', index = None)
 
-df = pd.read_json (r'data/json/hospital/hospital_kt_sz.geojson')
-df.to_csv (r'data/csv/hospital/hospital_kt_sz.csv', index = None)
+df = pd.read_json (r'data/json/facilities/hospital/hospital_kt_sz.geojson')
+df.to_csv (r'data/csv/facilities/hospital/hospital_kt_sz.csv', index = None)
 
-df = pd.read_json (r'data/json/hospital/hospital_kt_zg.geojson')
-df.to_csv (r'data/csv/hospital/hospital_kt_zg.csv', index = None)
+df = pd.read_json (r'data/json/hospital/facilities/hospital_kt_zg.geojson')
+df.to_csv (r'data/csv/facilities/hospital/hospital_kt_zg.csv', index = None)
 
-df = pd.read_json (r'data/json/hospital/hospital_kt_zh.geojson')
-df.to_csv (r'data/csv/hospital/hospital_kt_zh.csv', index = None)
+df = pd.read_json (r'data/json/facilities/hospital/hospital_kt_zh.geojson')
+df.to_csv (r'data/csv/facilities/hospital/hospital_kt_zh.csv', index = None)
 
-df = pd.read_json (r'data/json/hospital/hospital_kt_sh.geojson')
-df.to_csv (r'data/csv/hospital/hospital_kt_sh.csv', index = None)
+df = pd.read_json (r'data/json/facilities/hospital/hospital_kt_sh.geojson')
+df.to_csv (r'data/csv/facilities/hospital/hospital_kt_sh.csv', index = None)
 
-df = pd.read_json (r'data/json/hospital/hospital_switzerland.geojson')
-df.to_csv (r'data/csv/hospital/hospital_switzerland.csv', index = None)
+df = pd.read_json (r'data/json/facilities/hospital/hospital_switzerland.geojson')
+df.to_csv (r'data/csv/facilities/hospital/hospital_switzerland.csv', index = None)
 
 #Heime
 df = pd.read_json (r'data/json/facilities/nursing_home/nursing_home_dispo_srz.geojson')
 df.to_csv (r'data/csv/facilities/nursing_home/nursing_home_dispo_srz.csv', index = None)
 
-df = pd.read_json (r'data/json/facilities/nursing_home/hospital/nursing_home_dispo_srz.geojson')
-df.to_csv (r'data/csv/facilities/nursing_home/nursing_home_dispo_srz.csv', index = None)
+df = pd.read_json (r'data/json/facilities/nursing_home/hospital/nursing_home_kt_sh.geojson')
+df.to_csv (r'data/csv/facilities/nursing_home/nursing_home_kt_sh.csv', index = None)
+
+df = pd.read_json (r'data/json/facilities/nursing_home/hospital/nursing_home_kt_sz.geojson')
+df.to_csv (r'data/csv/facilities/nursing_home/nursing_home_kt_sz.csv', index = None)
+
+df = pd.read_json (r'data/json/facilities/nursing_home/hospital/nursing_home_kt_zg.geojson')
+df.to_csv (r'data/csv/facilities/nursing_home/nursing_home_kt_zg.csv', index = None)
+
+df = pd.read_json (r'data/json/facilities/nursing_home/hospital/nursing_home_kt_zh.geojson')
+df.to_csv (r'data/csv/facilities/nursing_home/nursing_home_kt_zh.csv', index = None)
