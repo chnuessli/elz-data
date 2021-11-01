@@ -14680,7 +14680,7 @@
     "description": "Zugänglich während Öffnungszeiten der Gemeindeverwaltung.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "opening_hours": "Mo-Th 08:00-11:30,14:00-16:30; Fr 07:00-13:00; PH off",
+    "opening_hours": "Mo-Th 08:00-11:30,14:00-16:30; Fr 07:00-13:00",
     "phone": "+41 44 701 95 00",
     "id": "node/8062414468"
   },
@@ -14701,7 +14701,7 @@
     "description": "Zugänglich während Öffnungszeiten des Betreibungsamtes.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "opening_hours": "Mo-Th 08:00-11:30,14:00-16:30; Fr 07:00-13:00; PH off",
+    "opening_hours": "Mo-Th 08:00-11:30,14:00-16:30; Fr 07:00-13:00",
     "phone": "+41 44 701 95 45",
     "id": "node/8062414469"
   },
@@ -34252,11 +34252,12 @@
   "type": "Feature",
   "id": "node/9141209418",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Variabel für 8172, bitte Telefon! - 076 610 01 44",
-    "description": "Bitte anruf für AED nach Notruf 144!",
+    "access": "yes",
+    "defibrillator:location": "Beim Hauseingang, in grünem AED Kasten",
+    "description": "Komplettes AED Set inkl. Notfall-Material. Unbedingt NOTRUF 144!  Prüfen, Rufen, Drücken! Nach Verwendung AED bitte Rückmeldung an: 076 61 10 144- Danke!",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "image": "https://drive.google.com/file/d/11MSNRA5w8jax0IiFzrfZ_z2EJo-K709x/view?usp=sharing",
     "indoor": "yes",
     "opening_hours": "24/7",
     "operator": "PG Medical",
@@ -34266,8 +34267,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4974893,
-      47.4883366
+      8.4973606,
+      47.4884363
     ]
   }
 },
@@ -34742,6 +34743,94 @@
     "coordinates": [
       8.7213558,
       47.3483419
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9207241170",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haupteingang rechts bim Postbüro",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Stiftung Loogarten Alters- und Pflegezentrum Herr Ralph Liechti",
+    "phone": "+41 44 986 22 20",
+    "id": "node/9207241170"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7125471,
+      47.2913217
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9207282332",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Seite Dorfstrasse, bei Schaukästen Neu-/Anbau",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Einwohnergemeinde Beringen",
+    "phone": "+41 52 687 24 24",
+    "id": "node/9207282332"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5569552,
+      47.6855722
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9207283504",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bei der Bushaltestelle Freienstein Dorf",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Politische Gemeinde Freienstein-Teufen / Markus Lienhard",
+    "phone": "+4144 866 34 25",
+    "id": "node/9207283504"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5852622,
+      47.5305652
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9211814317",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "im Gebäude, Erdgeschoss beim Lift",
+    "description": "Zugangsschlüssel benötigt",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "id": "node/9211814317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.601442,
+      47.6753611
     ]
   }
 }

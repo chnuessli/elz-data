@@ -131,70 +131,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/19844348",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "2",
-    "addr:postcode": "8049",
-    "addr:street": "Bläsistrasse",
-    "amenity": "school",
-    "building": "school",
-    "building:levels": "3",
-    "description": "Primarschule",
-    "isced:level": "1",
-    "name": "Schule Bläsi",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
-    "roof:levels": "4",
-    "roof:shape": "mansard",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/blaesi.html",
-    "id": "way/19844348"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5015715,
-          47.4019605
-        ],
-        [
-          8.5015483,
-          47.4019258
-        ],
-        [
-          8.5015254,
-          47.4019328
-        ],
-        [
-          8.5014964,
-          47.4018893
-        ],
-        [
-          8.5015052,
-          47.4018866
-        ],
-        [
-          8.5014405,
-          47.4017899
-        ],
-        [
-          8.5017528,
-          47.4016943
-        ],
-        [
-          8.5018697,
-          47.4018693
-        ],
-        [
-          8.5015715,
-          47.4019605
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/23173324",
   "properties": {
     "addr:city": "Zürich",
@@ -9205,14 +9141,17 @@
   "type": "Feature",
   "id": "way/257637018",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "50",
-    "addr:postcode": "8046",
-    "addr:street": "Blumenfeldstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "50",
+    "contact:phone": "+41 44 413 26 50",
+    "contact:postcode": "8046",
+    "contact:street": "Blumenfeldstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/blumenfeld.html",
     "description": "Primarschule",
     "name": "Schule Blumenfeld",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Blumenfeld",
+    "operator:type": "public",
     "website": "https://www.stadt-zuerich.ch/schulen/de/blumenfeld.html",
     "id": "way/257637018"
   },
@@ -14642,8 +14581,15 @@
   "id": "way/705483763",
   "properties": {
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "2",
+    "contact:phone": "+41 44 413 82 00",
+    "contact:postcode": "8049",
+    "contact:street": "Bläsistrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/blaesi.html",
     "name": "Schule Bläsi",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schulaeinheit Bläsi",
+    "operator:type": "public",
     "id": "way/705483763"
   },
   "geometry": {

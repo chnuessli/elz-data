@@ -5289,6 +5289,69 @@
 },
 {
   "type": "Feature",
+  "id": "way/43052534",
+  "properties": {
+    "addr:city": "Corcelles",
+    "addr:housenumber": "16",
+    "addr:postcode": "2035",
+    "addr:street": "Rue du Petit-Berne",
+    "amenity": "clinic",
+    "building": "yes",
+    "healthcare": "clinic",
+    "name": "Centre Médical de la Côte",
+    "opening_hours": "Mo-Fr 08:00-19:00, Sa-So 08:00-13:00",
+    "operator": "Medbase",
+    "source": "Orthophotos2006sitn50cm",
+    "website": "https://cmcote.ch/",
+    "wheelchair": "yes",
+    "id": "way/43052534"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8754978,
+          46.9832875
+        ],
+        [
+          6.8753989,
+          46.9834112
+        ],
+        [
+          6.8752712,
+          46.9833637
+        ],
+        [
+          6.8752983,
+          46.9833298
+        ],
+        [
+          6.8751735,
+          46.9832833
+        ],
+        [
+          6.8751464,
+          46.9833173
+        ],
+        [
+          6.8750087,
+          46.9832661
+        ],
+        [
+          6.8751076,
+          46.9831424
+        ],
+        [
+          6.8754978,
+          46.9832875
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/45746847",
   "properties": {
     "amenity": "hospital",
@@ -21155,6 +21218,7 @@
     "building": "yes",
     "ele": "577",
     "fax": "+41 31 972 72 13",
+    "healthcare": "clinic",
     "name": "Praxis Lengsfeld",
     "phone": "+41 31 972 72 12",
     "source": "bing",
@@ -50729,6 +50793,47 @@
     "coordinates": [
       6.9390021,
       46.4574666
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9209001816",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "18",
+    "addr:postcode": "8001",
+    "addr:street": "Goethestrasse",
+    "alt_name": "Medizinisch Radiologische Institut",
+    "amenity": "clinic",
+    "email": "stadelhofen@mri-roentgen.ch",
+    "name": "MRI Stadelhofen",
+    "phone": "+41 44 226 20 90",
+    "website": "https://www.mri-roentgen.ch/de/standorte/mri-stadelhofen/",
+    "id": "node/9209001816"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.548012,
+      47.3659083
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9213859223",
+  "properties": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Centre Médical Intercommunal",
+    "id": "node/9213859223"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4821025,
+      46.3119205
     ]
   }
 }

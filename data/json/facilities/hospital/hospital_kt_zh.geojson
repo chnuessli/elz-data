@@ -8293,6 +8293,30 @@
       47.3929512
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9209001816",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "18",
+    "addr:postcode": "8001",
+    "addr:street": "Goethestrasse",
+    "alt_name": "Medizinisch Radiologische Institut",
+    "amenity": "clinic",
+    "email": "stadelhofen@mri-roentgen.ch",
+    "name": "MRI Stadelhofen",
+    "phone": "+41 44 226 20 90",
+    "website": "https://www.mri-roentgen.ch/de/standorte/mri-stadelhofen/",
+    "id": "node/9209001816"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.548012,
+      47.3659083
+    ]
+  }
 }
 ]
 }
