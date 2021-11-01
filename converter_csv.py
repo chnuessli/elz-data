@@ -88,3 +88,15 @@ df.to_csv (r'data/csv/facilities/nursing_home/nursing_home_kt_zh.csv', index = N
 #Apotheken
 df = pd.read_json (r'data/json/pharmacy/pharmacy_dispo_srz.geojson')
 df.to_csv (r'data/csv/pharmacy/pharmacy_dispo_srz.csv', index = None)
+
+df = pd.read_json (r'data/json/pharmacy/pharmacy_kt_sh.geojson')
+df.to_csv (r'data/csv/pharmacy/pharmacy_kt_sh.csv', index = None)
+
+df = pd.read_json (r'data/json/pharmacy/pharmacy_kt_sz.geojson')
+df.to_csv (r'data/csv/pharmacy/pharmacy_kt_sz.csv', index = None)
+
+df = pd.read_json (r'data/json/pharmacy/pharmacy_kt_zg.geojson')
+df.to_csv (r'data/csv/pharmacy/pharmacy_kt_zg.csv', index = None)
+
+df = pd.read_json (r'data/json/pharmacy/pharmacy_kt_zh.geojson')
+df.to_csv (r'data/csv/pharmacy/pharmacy_kt_zh.csv', index = None)
