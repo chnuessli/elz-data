@@ -119,3 +119,29 @@ df.to_csv (r'data/csv/police_station/police_station_kt_zh.csv', index = None)
 
 df = pd.read_json (r'data/json/police_station/police_station_stadt_zh.geojson')
 df.to_csv (r'data/csv/police_station/police_station_stadt_zh.csv', index = None)
+
+#Schulen
+df = pd.read_json (r'data/json/schools/schools_stadt_zh.geojson')
+df.to_csv (r'data/csv/schools/schools_stadt_zh.csv', index = None)
+
+df = pd.read_json (r'data/json/schools/schools_kt_zh.geojson')
+df.to_csv (r'data/csv/schools/schools_kt_zh.csv', index = None)
+
+#Impfzentren
+df = pd.read_json (r'data/json/vaccination/vaccination_dispo_srz.geojson')
+df.to_csv (r'data/csv/vaccination/vaccination_dispo_srz.csv', index = None)
+
+df = pd.read_json (r'data/json/vaccination/vaccination_kt_sh.geojson')
+df.to_csv (r'data/csv/vaccination/vaccination_kt_sh.csv', index = None)
+
+df = pd.read_json (r'data/json/vaccination/vaccination_kt_sz.geojson')
+df.to_csv (r'data/csv/vaccination/vaccination_kt_sz.csv', index = None)
+
+df = pd.read_json (r'data/json/vaccination/vaccination_kt_zg.geojson')
+df.to_csv (r'data/csv/vaccination/vaccination_kt_zg.csv', index = None)
+
+df = pd.read_json (r'data/json/vaccination/vaccination_kt_zh.geojson')
+df.to_csv (r'data/csv/vaccination/vaccination_kt_zh.csv', index = None)
+
+df = pd.read_json (r'data/json/vaccination/vaccination_switzerland.geojson')
+df.to_csv (r'data/csv/vaccination/vaccination_switzerland.csv', index = None)
