@@ -20,15 +20,16 @@ In der Tabelle seht ihr, welche Daten verfügbar sind und aus welchen Kantonen.
 
 | Daten | Beschreibung | Ordner | Kantone
 | --- | --- | --- | ---
-| gates | Tore und Barrieren | `data/access/gates` | SH, SZ, ZG, ZH
-| ambulance_station | Rettungswachen | `data/ambulance_station` | Dispo SRZ
-| defis | Defibrillatoren | `data/defis` | Dispo SRZ, ZH, Stadt Zürich
-| fire_station | Feuerwehrwachen| `data/fire_station` | ZH
-| helipad | Hubschrauber Landeplätze | `data/helipad` | Dispo SRZ, Schweiz
-| hospital | Spitäler | `data/facilities/hospital` | Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
-| nursing_home | Alters- und Pflegeheime | `data/facilities/nursing_home` | Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
-| police_station | Polizeiwachen | `data/police_station` | Dispo SRZ, ,SH, SZ, ZG, ZH, Stadt Zürich
-| vaccination | Impfzentren | `data/vaccination` | Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
+| gates | Tore und Barrieren | `data/json/access/gates` | SH, SZ, ZG, ZH
+| ambulance_station | Rettungswachen | `data/json/ambulance_station` | Dispo SRZ
+| defis | Defibrillatoren | `data/json/defis` | Dispo SRZ, ZH, Stadt Zürich
+| fire_station | Feuerwehrwachen| `data/json/fire_station` | ZH
+| helipad | Hubschrauber Landeplätze | `data/json/helipad` | Dispo SRZ, Schweiz
+| hospital | Spitäler | `data/json/facilities/hospital` | Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
+| nursing_home | Alters- und Pflegeheime | `data/json/facilities/nursing_home` | Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
+| police_station | Polizeiwachen | `data/json/police_station` | Dispo SRZ, ,SH, SZ, ZG, ZH, Stadt Zürich
+| vaccination | Impfzentren | `data/json/vaccination` | Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
+| schools | Schulen / Schulgelände | `data/json/vaccination` | Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
 
 ## Overpass Abfragen via Overpass API
 
