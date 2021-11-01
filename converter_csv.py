@@ -100,3 +100,22 @@ df.to_csv (r'data/csv/pharmacy/pharmacy_kt_zg.csv', index = None)
 
 df = pd.read_json (r'data/json/pharmacy/pharmacy_kt_zh.geojson')
 df.to_csv (r'data/csv/pharmacy/pharmacy_kt_zh.csv', index = None)
+
+#Polizeiwachen
+df = pd.read_json (r'data/json/police_station/police_station_dispo_srz.geojson')
+df.to_csv (r'data/csv/police_station/police_station_dispo_srz.csv', index = None)
+
+df = pd.read_json (r'data/json/police_station/police_station_kt_sh.geojson')
+df.to_csv (r'data/csv/police_station/police_station_kt_sh.csv', index = None)
+
+df = pd.read_json (r'data/json/police_station/police_station_kt_sz.geojson')
+df.to_csv (r'data/csv/police_station/police_station_kt_sz.csv', index = None)
+
+df = pd.read_json (r'data/json/police_station/police_station_kt_zg.geojson')
+df.to_csv (r'data/csv/police_station/police_station_kt_zg.csv', index = None)
+
+df = pd.read_json (r'data/json/police_station/police_station_kt_zh.geojson')
+df.to_csv (r'data/csv/police_station/police_station_kt_zh.csv', index = None)
+
+df = pd.read_json (r'data/json/police_station/police_station_stadt_zh.geojson')
+df.to_csv (r'data/csv/police_station/police_station_stadt_zh.csv', index = None)
