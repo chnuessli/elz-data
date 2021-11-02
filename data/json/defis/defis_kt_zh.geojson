@@ -18897,8 +18897,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4461018,
-      47.404884
+      8.4464398,
+      47.4043103
     ]
   }
 },
@@ -24508,6 +24508,28 @@
     "coordinates": [
       8.5348984,
       47.3678875
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9217034117",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Flughofstrasse 51, 8152 Glattbrugg",
+    "description": "während Bürozeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr. 07:00-16:30",
+    "operator": "SWARCO SCHWEIZ AG",
+    "id": "node/9217034117"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5640875,
+      47.4392087
     ]
   }
 }
