@@ -11,8 +11,8 @@ Die Daten sind direkt aus OSM exportiert.
 
 ## Sinn und Zweck
 
-Sinn dieses Archivs ist es, Datenveränderungen täglich nachzuvollziehen. Täglich wird nun automatisiert, ein GeoJSON generiert und somit Datenveränderungen dokumentiert.
-Die JSON Datensammlung soll stetig wachsen und so ein sauberes Archiv generieren.
+Sinn dieses Archivs ist es, Datenveränderungen täglich nachzuvollziehen. Täglich wird nun automatisiert, ein GeoJSON generiert und somit Datenveränderungen dokumentiert. Vom GeoJSON wird dann in diverse Exportformate exportiert.
+Die Datensammlung soll stetig wachsen und so ein sauberes Archiv generieren.
 
 ## Datenkatalog
 
@@ -20,16 +20,16 @@ In der Tabelle seht ihr, welche Daten verfügbar sind und aus welchen Kantonen.
 
 | Daten | Beschreibung | Ordner | Formate | Kantone
 | --- | --- | --- | --- | ---
-| gates | Tore und Barrieren | `data/json/access/gates` | `json` `csv`|SH, SZ, ZG, ZH
-| ambulance_station | Rettungswachen | `data/json/ambulance_station` | `json` `csv`| Dispo SRZ
-| defis | Defibrillatoren | `data/json/defis` | `json` `csv`| Dispo SRZ, ZH, Stadt Zürich
-| fire_station | Feuerwehrwachen| `data/json/fire_station` | `json` `csv`| ZH
-| helipad | Hubschrauber Landeplätze | `data/json/helipad` | `json` `csv`| Dispo SRZ, Schweiz
-| hospital | Spitäler | `data/json/facilities/hospital` | `json` `csv`| Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
-| nursing_home | Alters- und Pflegeheime | `data/json/facilities/nursing_home` | `json` `csv`| Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
-| police_station | Polizeiwachen | `data/json/police_station` | `json` `csv`| Dispo SRZ, ,SH, SZ, ZG, ZH, Stadt Zürich
-| vaccination | Impfzentren | `data/json/vaccination` | `json` `csv`| Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
-| schools | Schulen / Schulgelände | `data/json/vaccination` |`json` `csv`|  Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
+| gates | Tore und Barrieren | `../access/gates` | `json` `csv`|SH, SZ, ZG, ZH
+| ambulance_station | Rettungswachen | `../ambulance_station` | `json` `csv`| Dispo SRZ
+| defis | Defibrillatoren | `../defis` | `json` `csv`| Dispo SRZ, ZH, Stadt Zürich
+| fire_station | Feuerwehrwachen| `../fire_station` | `json` `csv`| ZH
+| helipad | Hubschrauber Landeplätze | `../helipad` | `json` `csv`| Dispo SRZ, Schweiz
+| hospital | Spitäler | `../facilities/hospital` | `json` `csv`| Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
+| nursing_home | Alters- und Pflegeheime | `../facilities/nursing_home` | `json` `csv`| Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
+| police_station | Polizeiwachen | `../police_station` | `json` `csv`| Dispo SRZ, ,SH, SZ, ZG, ZH, Stadt Zürich
+| vaccination | Impfzentren | `../vaccination` | `json` `csv`| Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
+| schools | Schulen / Schulgelände | `../vaccination` |`json` `csv`|  Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
 
 ## Overpass Abfragen via Overpass API
 
