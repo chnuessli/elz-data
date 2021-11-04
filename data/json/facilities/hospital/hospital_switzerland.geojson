@@ -50836,6 +50836,31 @@
       46.3119205
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9220892453",
+  "properties": {
+    "addr:city": "Bulle",
+    "addr:housenumber": "42",
+    "addr:postcode": "1630",
+    "addr:street": "Chemin de Pré-Vert",
+    "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "healthcare:speciality": "cardiology",
+    "name": "Cardiologue",
+    "operator": "Yves Allaman",
+    "operator:type": "private",
+    "id": "node/9220892453"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.06561,
+      46.6204357
+    ]
+  }
 }
 ]
 }

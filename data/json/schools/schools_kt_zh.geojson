@@ -26806,12 +26806,12 @@
           47.5343792
         ],
         [
-          8.7639939,
-          47.5343499
+          8.7639926,
+          47.5343526
         ],
         [
-          8.7639661,
-          47.5342276
+          8.763965,
+          47.5342458
         ],
         [
           8.7639448,
@@ -37449,12 +37449,16 @@
           47.4836825
         ],
         [
-          8.4888885,
-          47.483454
+          8.4888947,
+          47.4834498
         ],
         [
-          8.4891706,
-          47.4832746
+          8.4891711,
+          47.483267
+        ],
+        [
+          8.489314,
+          47.4831809
         ],
         [
           8.4894051,
@@ -49703,15 +49707,18 @@
   "type": "Feature",
   "id": "way/246863359",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "184",
-    "addr:postcode": "8055",
-    "addr:street": "Döltschiweg",
     "amenity": "school",
-    "description": "Sekundarschule",
+    "contact:city": "Zürich",
+    "contact:housenumber": "184",
+    "contact:phone": "+41 44 413 29 60",
+    "contact:postcode": "8055",
+    "contact:street": "Döltschiweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/doeltschi.html",
+    "description": "Primar- und Sekundarschule",
     "name": "Schule Döltschi",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/doeltschi.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit am Uetliberg",
+    "operator:type": "public",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/doeltschi/ueberuns/standorte/schulhaus.html",
     "wheelchair": "yes",
     "id": "way/246863359"
   },
@@ -49732,8 +49739,12 @@
           47.3637065
         ],
         [
-          8.4996962,
-          47.363352
+          8.4992977,
+          47.3636613
+        ],
+        [
+          8.4996954,
+          47.3633517
         ],
         [
           8.5002845,
@@ -61067,8 +61078,16 @@
           47.2888524
         ],
         [
+          8.5698053,
+          47.2889053
+        ],
+        [
           8.5698254,
           47.28891
+        ],
+        [
+          8.5700064,
+          47.288959
         ],
         [
           8.5702915,
@@ -69008,72 +69027,16 @@
 },
 {
   "type": "Feature",
-  "id": "way/543515237",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "190",
-    "addr:postcode": "8055",
-    "addr:street": "Döltschihalde",
-    "amenity": "school",
-    "description": "Primarschule",
-    "name": "Schule Am Uetliberg (Döltschihalde)",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/amuetliberg.html",
-    "id": "way/543515237"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4993504,
-          47.3631472
-        ],
-        [
-          8.4996962,
-          47.363352
-        ],
-        [
-          8.4992374,
-          47.3637065
-        ],
-        [
-          8.4991392,
-          47.3636473
-        ],
-        [
-          8.4991297,
-          47.3636416
-        ],
-        [
-          8.4990184,
-          47.3635745
-        ],
-        [
-          8.4989997,
-          47.3635632
-        ],
-        [
-          8.4988924,
-          47.3634985
-        ],
-        [
-          8.4993504,
-          47.3631472
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/543515238",
   "properties": {
     "amenity": "school",
-    "description": "Primarschulen",
-    "name": "Schule Am Uetliberg (Friesenberg und Borrweg)",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/amuetliberg.html",
+    "contact:city": "Zürich",
+    "contact:postcode": "8045",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/amuetliberg.html",
+    "description": "Primarschulen, Kindergärten und Horte",
+    "name": "Schule Am Uetliberg",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit am Uetliberg",
+    "operator:type": "public",
     "id": "way/543515238"
   },
   "geometry": {
@@ -69093,12 +69056,12 @@
           47.3597524
         ],
         [
-          8.5070053,
-          47.3599065
+          8.5070164,
+          47.3599041
         ],
         [
-          8.5066694,
-          47.3597568
+          8.5066765,
+          47.3597499
         ],
         [
           8.5058352,
@@ -77872,6 +77835,51 @@
         [
           8.5459408,
           47.3079484
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/998670603",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "190",
+    "contact:postcode": "8055",
+    "contact:street": "Döltschiweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/amuetliberg/ueberuns/standorte/schulhaus.html",
+    "name": "Schule Döltschihalde",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit am Uetliberg",
+    "operator:type": "public",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/amuetliberg.html;https://www.stadt-zuerich.ch/schulen/de/doeltschi/ueberuns/standorte/schulhaus.html",
+    "wheelchair": "yes",
+    "id": "way/998670603"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4996954,
+          47.3633517
+        ],
+        [
+          8.4992977,
+          47.3636613
+        ],
+        [
+          8.4989536,
+          47.3634516
+        ],
+        [
+          8.4993504,
+          47.3631472
+        ],
+        [
+          8.4996954,
+          47.3633517
         ]
       ]
     ]
