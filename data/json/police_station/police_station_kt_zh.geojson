@@ -383,6 +383,8 @@
     "building": "yes",
     "name": "Polizeiposten Thalwil",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
     "source": "bing, interpolation",
     "id": "way/46618043"
   },
@@ -706,6 +708,8 @@
     "building:levels": "3",
     "name": "Polizeiposten Adliswil",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
     "roof:levels": "1",
     "roof:shape": "gabled",
     "id": "way/155439745"
@@ -1400,7 +1404,7 @@
     "addr:postcode": "8610",
     "addr:street": "Oberlandstrasse",
     "amenity": "police",
-    "level": "2._Obergeschoss",
+    "level": "2",
     "name": "Stadtpolizei Uster",
     "operator": "Stadtpolizei Uster",
     "id": "node/320132833"
@@ -1408,8 +1412,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7154293,
-      47.3536921
+      8.7155155,
+      47.3538334
     ]
   }
 },
