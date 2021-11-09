@@ -6478,20 +6478,92 @@
           47.1124459
         ],
         [
-          6.8357822,
-          47.1142608
+          6.8357976,
+          47.1142558
         ],
         [
-          6.834622,
-          47.1150958
+          6.8357773,
+          47.1142893
         ],
         [
-          6.8337955,
-          47.1145463
+          6.8348198,
+          47.1149629
         ],
         [
-          6.8328006,
-          47.1143841
+          6.8346883,
+          47.1150382
+        ],
+        [
+          6.8346246,
+          47.1150685
+        ],
+        [
+          6.8346069,
+          47.1150692
+        ],
+        [
+          6.8345931,
+          47.1150669
+        ],
+        [
+          6.8345757,
+          47.1150588
+        ],
+        [
+          6.8341921,
+          47.1147995
+        ],
+        [
+          6.833948,
+          47.1146352
+        ],
+        [
+          6.8337734,
+          47.1145477
+        ],
+        [
+          6.8335464,
+          47.1144787
+        ],
+        [
+          6.833028,
+          47.1144084
+        ],
+        [
+          6.8328778,
+          47.1143897
+        ],
+        [
+          6.8328215,
+          47.1143801
+        ],
+        [
+          6.8327712,
+          47.1143673
+        ],
+        [
+          6.8327208,
+          47.1143517
+        ],
+        [
+          6.8326807,
+          47.1143372
+        ],
+        [
+          6.8326475,
+          47.1143215
+        ],
+        [
+          6.8320403,
+          47.1139306
+        ],
+        [
+          6.8320068,
+          47.1138937
+        ],
+        [
+          6.831807,
+          47.1137549
         ],
         [
           6.8309094,
@@ -47201,6 +47273,32 @@
 },
 {
   "type": "Feature",
+  "id": "node/2194822388",
+  "properties": {
+    "addr:city": "Genève",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "1208",
+    "addr:street": "Route de Malagnou",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Cabinet médical Malagnou 2",
+    "note": "surveyed by Alex-7",
+    "survey:date": "2013-03-10",
+    "id": "node/2194822388"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1568928,
+      46.1984397
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2431011784",
   "properties": {
     "amenity": "clinic",
@@ -50607,6 +50705,7 @@
   "properties": {
     "amenity": "clinic",
     "email": "praxis@orthopaedie-zuerich.ch",
+    "healthcare": "clinic",
     "name": "Orthopädie Zentrum Zürich",
     "operator": "Hirslanden Klinik im Park",
     "phone": "+41 44 226 90 00",
@@ -50626,6 +50725,7 @@
   "id": "node/9151547628",
   "properties": {
     "amenity": "clinic",
+    "healthcare": "clinic",
     "name": "Onkozentrum Zürich-Enge",
     "operator": "Onkozentrum Zürich AG",
     "phone": "+41 43 344 33 33",

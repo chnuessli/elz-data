@@ -8221,6 +8221,7 @@
   "properties": {
     "amenity": "clinic",
     "email": "praxis@orthopaedie-zuerich.ch",
+    "healthcare": "clinic",
     "name": "Orthopädie Zentrum Zürich",
     "operator": "Hirslanden Klinik im Park",
     "phone": "+41 44 226 90 00",
@@ -8240,6 +8241,7 @@
   "id": "node/9151547628",
   "properties": {
     "amenity": "clinic",
+    "healthcare": "clinic",
     "name": "Onkozentrum Zürich-Enge",
     "operator": "Onkozentrum Zürich AG",
     "phone": "+41 43 344 33 33",

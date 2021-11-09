@@ -44148,15 +44148,17 @@
   "type": "Feature",
   "id": "way/210707568",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "137",
-    "addr:postcode": "8003",
-    "addr:street": "Zurlindenstrasse",
     "amenity": "school",
-    "barrier": "fence",
+    "contact:city": "Zürich",
+    "contact:housenumber": "137",
+    "contact:phone": "+41 44 413 19 99",
+    "contact:postcode": "8003",
+    "contact:street": "Zurlindenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/zurlinden/ueberuns/standorte/schulhaus.html",
     "description": "Primarschule",
     "name": "Schule Zurlinden",
-    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
+    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Zurlinden",
+    "operator:type": "public",
     "website": "https://www.stadt-zuerich.ch/schulen/de/zurlinden.html",
     "id": "way/210707568"
   },
@@ -44965,15 +44967,17 @@
   "type": "Feature",
   "id": "way/216706003",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "45",
-    "addr:postcode": "8004",
-    "addr:street": "Kernstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "45",
+    "contact:phone": "+41 44 413 21 00",
+    "contact:postcode": "8004",
+    "contact:street": "Kernstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/aussersihl/ueberuns/standorte/schulhaus.html",
     "description": "Primarschule",
     "name": "Schule Aussersihl (Kern)",
-    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/aussersihl.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Aussersihl",
+    "operator:type": "public",
     "id": "way/216706003"
   },
   "geometry": {
@@ -45072,14 +45076,17 @@
   "type": "Feature",
   "id": "way/216706004",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "66",
-    "addr:postcode": "8004",
-    "addr:street": "Brauerstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "66",
+    "contact:phone": "+41 44 413 21 32",
+    "contact:postcode": "8004",
+    "contact:street": "Brauerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/aussersihl/ueberuns/standorte/kindergaerten.html",
     "description": "Kindergarten und Hort",
     "name": "Schule Aussersihl (Brauer)",
-    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
+    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Aussersihl",
+    "operator:type": "public",
     "website": "https://www.stadt-zuerich.ch/schulen/de/aussersihl.html",
     "id": "way/216706004"
   },
@@ -45123,15 +45130,16 @@
   "type": "Feature",
   "id": "way/216706005",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "68",
-    "addr:postcode": "8004",
-    "addr:street": "Hohlstrasse",
     "amenity": "school",
-    "description": "Primarschule",
+    "contact:city": "Zürich",
+    "contact:housenumber": "68",
+    "contact:phone": "+41 44 413 21 56",
+    "contact:postcode": "8004",
+    "contact:street": "Hohlstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/aussersihl.html",
     "name": "Schule Aussersihl (Hohl)",
-    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/aussersihl.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Aussersihl",
+    "operator:type": "public",
     "id": "way/216706005"
   },
   "geometry": {
@@ -45293,16 +45301,16 @@
   "type": "Feature",
   "id": "way/216714272",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "165",
-    "addr:postcode": "8004",
-    "addr:street": "Sihlfeldstrasse",
     "amenity": "school",
-    "description": "Primarschule",
+    "contact:city": "Zürich",
+    "contact:housenumber": "165",
+    "contact:phone": "+41 44 413 28 70",
+    "contact:postcode": "8004",
+    "contact:street": "Sihlfeldstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/sihlfeld/ueberuns/standorte/schulhaus.html",
     "name": "Schule Sihlfeld",
-    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/sihlfeld.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Sihlfeld",
+    "operator:type": "public",
     "id": "way/216714272"
   },
   "geometry": {
@@ -74492,6 +74500,8 @@
   "id": "way/808008995",
   "properties": {
     "amenity": "school",
+    "name": "Inter-Community School of Zurich",
+    "website": "https://www.icsz.ch/",
     "id": "way/808008995"
   },
   "geometry": {
@@ -74525,6 +74535,10 @@
         [
           8.6216091,
           47.3377957
+        ],
+        [
+          8.6217334,
+          47.3377248
         ],
         [
           8.6223638,
@@ -80232,23 +80246,6 @@
     "coordinates": [
       8.4867991,
       47.3726385
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6632922659",
-  "properties": {
-    "amenity": "school",
-    "name": "Kunst- & Sportschule Zürich",
-    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
-    "id": "node/6632922659"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5248192,
-      47.3783084
     ]
   }
 },
