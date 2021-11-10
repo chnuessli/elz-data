@@ -2353,6 +2353,8 @@
     "name": "Verkehrspolizei der Stadtpolizei Zürich",
     "name:en": "Traffic Police",
     "operator": "Stadtpolizei Zürich",
+    "operator:wikidata": "Q2327949",
+    "operator:wikipedia": "de:Stadtpolizei Zürich",
     "id": "node/1258114496"
   },
   "geometry": {
@@ -3044,6 +3046,8 @@
     "name": "Polizeiposten Hauptbahnhof Zürich",
     "opening_hours": "Mo-Su 07:00-22:00",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
     "id": "node/4424600907"
   },
   "geometry": {
