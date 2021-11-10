@@ -1,4 +1,4 @@
-[out:xml][timeout:25];
+[out:json][timeout:25];
 (
 //Kanton Zürich
 area["ISO3166-2"="CH-ZH"];
@@ -11,7 +11,7 @@ area["ISO3166-2"="CH-ZG"];
 )->.searchArea;
 // gather results
 (
-nwr["emergency"="ambulance_station"](area.searchArea);
+nwr["emergency"="defibrillator"](area.searchArea);
 );
 // print results
 out body;
