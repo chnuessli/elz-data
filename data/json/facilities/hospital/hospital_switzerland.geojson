@@ -24915,7 +24915,7 @@
     "coordinates": [
       [
         [
-          7.5229314,
+          7.5230073,
           47.2176312
         ],
         [
@@ -24991,15 +24991,19 @@
           47.21769
         ],
         [
-          7.5213929,
-          47.2174861
+          7.5213783,
+          47.2175573
         ],
         [
-          7.5220683,
-          47.2173175
+          7.521361,
+          47.2173359
         ],
         [
-          7.5229314,
+          7.5219468,
+          47.2173023
+        ],
+        [
+          7.5230073,
           47.2176312
         ]
       ]
@@ -47268,32 +47272,6 @@
     "coordinates": [
       8.517523,
       47.1946064
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2194822388",
-  "properties": {
-    "addr:city": "Genève",
-    "addr:country": "CH",
-    "addr:housenumber": "2",
-    "addr:postcode": "1208",
-    "addr:street": "Route de Malagnou",
-    "amenity": "hospital",
-    "emergency": "yes",
-    "healthcare": "hospital",
-    "healthcare:speciality": "general",
-    "name": "Cabinet médical Malagnou 2",
-    "note": "surveyed by Alex-7",
-    "survey:date": "2013-03-10",
-    "id": "node/2194822388"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      6.1568928,
-      46.1984397
     ]
   }
 },
