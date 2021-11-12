@@ -35776,8 +35776,11 @@
     "emergency": "no",
     "healthcare": "rehabilitation",
     "name": "Zürcher RehaZentren | Klinik Wald",
+    "opening_hours": "Mo-Su 08:00-20:00",
     "phone": "+41 55 256 61 11",
-    "website": "https://www.zuercher-hoehenkliniken.ch/anmeldung-aufenthalt/kliniken-ambulatorien/hoehenklinik-wald/",
+    "website": "https://zhreha.ch/klinik/klinik-wald/",
+    "wikidata": "Q61857547",
+    "wikipedia": "de:Höhenklinik Wald",
     "id": "way/676977259"
   },
   "geometry": {

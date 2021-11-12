@@ -4978,21 +4978,26 @@
   "properties": {
     "addr:city": "Oberengstringen",
     "addr:housenumber": "2",
+    "addr:place": "Zentrum",
     "addr:postcode": "8102",
-    "addr:street": "Zentrum",
     "amenity": "pharmacy",
     "branch": "Oberengstringen",
     "brand": "Amavita",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "level": "0",
     "name": "Amavita Oberengstringen",
-    "operator": "GaleniCare",
+    "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:00-16:00; PH closed",
+    "operator": "GaleniCare AG",
     "website": "https://www.amavita.ch/de/amavita-apotheke-oberengstringen",
+    "wheelchair": "limited",
     "id": "node/4472240069"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4632219,
-      47.4083533
+      8.462864,
+      47.4086698
     ]
   }
 },
