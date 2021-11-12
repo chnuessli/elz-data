@@ -14,3 +14,5 @@ echo -ne "Konvertiere Daten           "
 python $DIR/converter_csv.py
 echo -ne "\t\t - Done.\r"
 echo ""
+
+#END
