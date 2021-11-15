@@ -1888,6 +1888,7 @@
   "id": "way/216530488",
   "properties": {
     "aeroway": "helipad",
+    "lit": "yes",
     "id": "way/216530488"
   },
   "geometry": {
