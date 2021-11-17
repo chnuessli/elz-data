@@ -1646,6 +1646,7 @@
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "Kantonsspital Winterthur",
+    "short_name": "KSW",
     "toilets:wheelchair": "yes",
     "website": "https://www.ksw.ch/",
     "wheelchair": "yes",

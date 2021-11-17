@@ -2352,6 +2352,7 @@
     "addr:postcode": "8800",
     "addr:street": "Alte Landstrasse",
     "amenity": "police",
+    "check_date:opening_hours": "2021-11-16",
     "contact:email": "gemeindepolizei@thalwil.ch",
     "contact:fax": "+41 44 723 23 65",
     "contact:phone": "+41 44 723 23 90",
