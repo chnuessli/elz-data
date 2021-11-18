@@ -1801,9 +1801,13 @@
   "id": "way/32858301",
   "properties": {
     "amenity": "school",
-    "description": "Primarschule (Limmat C)/Tagesschule (Limmat B) und Sekundarschule (Limmat A)",
-    "name": "Schule Limmat A/B/C",
-    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
+    "contact:city": "Zürich",
+    "contact:postcode": "8005",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/limmat.html",
+    "description": "Primarschule (Limmat C)/Tagesschule (Limmat B) und Sekundarschule (Limmat A) Kindergarten und Hort",
+    "name": "Schule Limmat",
+    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Limmat",
+    "operator:type": "public",
     "website": "https://www.stadt-zuerich.ch/schulen/de/limmat.html",
     "id": "way/32858301"
   },
@@ -4493,10 +4497,16 @@
   "id": "way/98279044",
   "properties": {
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "180",
+    "contact:phone": "+41 44 413 03 40",
+    "contact:postcode": "8008",
+    "contact:street": "Mühlebachstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/ssd/de/index/volksschule/schulkreise_kreisschulbehoerden/zuerichberg/schulen/kartaus_muenchhalde_schuleinheit/schulhaus.html#contenttabs",
     "description": "Primarschule (Schule Riesbach), Sekundarschule (Schule Hirslanden); K&S Zürich",
     "name": "Schule Münchhalde",
-    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/riesbach.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Balgrist-Kartaus",
+    "operator:type": "public",
     "id": "way/98279044"
   },
   "geometry": {
@@ -4504,40 +4514,80 @@
     "coordinates": [
       [
         [
-          8.5582516,
-          47.3561376
+          8.5582471,
+          47.3561194
         ],
         [
-          8.5582377,
-          47.3560978
+          8.5582448,
+          47.3561059
         ],
         [
-          8.5589644,
-          47.3551844
+          8.5582514,
+          47.3560919
         ],
         [
-          8.5589999,
-          47.3551779
+          8.5586058,
+          47.3556468
         ],
         [
-          8.5595374,
-          47.3553753
+          8.5589755,
+          47.3551823
         ],
         [
-          8.5595426,
-          47.35541
+          8.5589912,
+          47.3551785
         ],
         [
-          8.5588458,
-          47.3563172
+          8.559011,
+          47.3551754
         ],
         [
-          8.5587983,
-          47.3563329
+          8.5595458,
+          47.3553746
         ],
         [
-          8.5582516,
-          47.3561376
+          8.5595523,
+          47.3553909
+        ],
+        [
+          8.5595526,
+          47.3554068
+        ],
+        [
+          8.5591933,
+          47.3558757
+        ],
+        [
+          8.5588643,
+          47.3563072
+        ],
+        [
+          8.5588482,
+          47.35632
+        ],
+        [
+          8.5588315,
+          47.3563261
+        ],
+        [
+          8.5588129,
+          47.3563282
+        ],
+        [
+          8.5587928,
+          47.3563246
+        ],
+        [
+          8.5582731,
+          47.3561405
+        ],
+        [
+          8.5582566,
+          47.356132
+        ],
+        [
+          8.5582471,
+          47.3561194
         ]
       ]
     ]
@@ -5873,15 +5923,17 @@
   "type": "Feature",
   "id": "way/126062293",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "9",
-    "addr:postcode": "8008",
-    "addr:street": "Kartausstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "9",
+    "contact:phone": "+41 44 413 00 40",
+    "contact:postcode": "8008",
+    "contact:street": "Kartausstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kartaus.html",
     "description": "Primarschule",
     "name": "Schule Kartaus",
-    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/balgrist.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Balgrist-Kartaus",
+    "operator:type": "public",
     "wheelchair": "no",
     "id": "way/126062293"
   },
@@ -10794,14 +10846,16 @@
   "type": "Feature",
   "id": "way/485178933",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "5",
-    "addr:postcode": "8053",
-    "addr:street": "Katzenschwanzstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "5",
+    "contact:phone": "+41 44 413 33 33",
+    "contact:postcode": "8053",
+    "contact:street": "Katzenschwanzstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/looren/ueberuns/standorte/schulhaus.html",
     "name": "Schule Looren",
-    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/looren.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Looren-Langmatt",
+    "operator:type": "public",
     "id": "way/485178933"
   },
   "geometry": {
@@ -10809,7 +10863,7 @@
     "coordinates": [
       [
         [
-          8.5974068,
+          8.5973942,
           47.3617244
         ],
         [
@@ -10817,135 +10871,251 @@
           47.3617873
         ],
         [
-          8.5971611,
-          47.3618209
+          8.5972068,
+          47.3618108
         ],
         [
-          8.5967405,
-          47.3617515
+          8.5971729,
+          47.3618167
         ],
         [
-          8.5966798,
-          47.3617493
+          8.5971485,
+          47.3618172
         ],
         [
-          8.5966298,
-          47.3617597
+          8.5970072,
+          47.3617879
+        ],
+        [
+          8.5969993,
+          47.3618039
+        ],
+        [
+          8.5967003,
+          47.3617371
+        ],
+        [
+          8.5966995,
+          47.3617552
+        ],
+        [
+          8.5966625,
+          47.3617579
+        ],
+        [
+          8.596633,
+          47.3617581
+        ],
+        [
+          8.5965922,
+          47.3617563
+        ],
+        [
+          8.5965544,
+          47.3617521
+        ],
+        [
+          8.5965126,
+          47.3617435
+        ],
+        [
+          8.5964676,
+          47.3617291
+        ],
+        [
+          8.596425,
+          47.3617232
         ],
         [
           8.5963596,
-          47.3617184
+          47.3617264
+        ],
+        [
+          8.5963232,
+          47.3617259
         ],
         [
           8.596288,
-          47.361707
+          47.3617188
         ],
         [
-          8.5959931,
-          47.3616133
+          8.5962144,
+          47.3616922
         ],
         [
-          8.5958327,
-          47.3615473
+          8.5961434,
+          47.3616676
         ],
         [
-          8.595732,
-          47.3614891
+          8.5960676,
+          47.3616516
         ],
         [
-          8.5955955,
-          47.3613904
+          8.5959852,
+          47.3616283
         ],
         [
-          8.5954517,
-          47.3613134
+          8.5959162,
+          47.3616046
         ],
         [
-          8.5953916,
-          47.361264
+          8.595828,
+          47.3615591
         ],
         [
-          8.5952836,
-          47.3610265
+          8.5957162,
+          47.3614934
         ],
         [
-          8.5950087,
-          47.3608975
+          8.5955923,
+          47.3613915
+        ],
+        [
+          8.5954769,
+          47.3613369
+        ],
+        [
+          8.5954223,
+          47.3613053
+        ],
+        [
+          8.5953837,
+          47.3612651
+        ],
+        [
+          8.5953135,
+          47.3611493
+        ],
+        [
+          8.595252,
+          47.3610329
+        ],
+        [
+          8.5951857,
+          47.3609869
+        ],
+        [
+          8.5951178,
+          47.3609559
+        ],
+        [
+          8.5949614,
+          47.3608793
         ],
         [
           8.5950129,
           47.3607105
         ],
         [
-          8.5949662,
-          47.3606891
+          8.5949585,
+          47.36069
         ],
         [
-          8.5950769,
-          47.3603616
+          8.5950789,
+          47.3603624
         ],
         [
-          8.5956091,
-          47.3604683
+          8.5956219,
+          47.3604708
         ],
         [
-          8.5956411,
-          47.3604237
+          8.5956498,
+          47.3604238
         ],
         [
-          8.5957107,
-          47.3604635
+          8.5957203,
+          47.3604545
         ],
         [
-          8.5961095,
-          47.3605504
+          8.5957166,
+          47.3604592
         ],
         [
-          8.5962256,
-          47.3603175
+          8.5961213,
+          47.3605472
         ],
         [
-          8.5965472,
-          47.360413
+          8.5962374,
+          47.3603143
         ],
         [
-          8.596655,
-          47.3605107
+          8.5964084,
+          47.3603697
         ],
         [
-          8.5966668,
-          47.360592
+          8.5965543,
+          47.3604151
         ],
         [
-          8.5967114,
-          47.3606747
+          8.5966582,
+          47.3605016
+        ],
+        [
+          8.5966688,
+          47.3605636
+        ],
+        [
+          8.5966857,
+          47.3606193
+        ],
+        [
+          8.5967066,
+          47.3606556
+        ],
+        [
+          8.5967224,
+          47.3606832
         ],
         [
           8.5967777,
-          47.3607432
+          47.3607336
+        ],
+        [
+          8.5969102,
+          47.3608383
         ],
         [
           8.5969385,
           47.3608667
         ],
         [
+          8.5969938,
+          47.3609142
+        ],
+        [
           8.5970394,
           47.3609683
+        ],
+        [
+          8.5970742,
+          47.3610072
         ],
         [
           8.5971259,
           47.3610869
         ],
         [
-          8.5972398,
-          47.3614
+          8.5971736,
+          47.3611985
         ],
         [
-          8.5973019,
-          47.3615512
+          8.5972445,
+          47.3613947
         ],
         [
-          8.5974068,
+          8.5973066,
+          47.3615448
+        ],
+        [
+          8.5973858,
+          47.3616906
+        ],
+        [
+          8.5973985,
+          47.3617125
+        ],
+        [
+          8.5973942,
           47.3617244
         ]
       ]
@@ -11023,10 +11193,16 @@
   "id": "way/508451656",
   "properties": {
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "61",
+    "contact:phone": "+41 44 413 04 00",
+    "contact:postcode": "8005",
+    "contact:street": "Pfingstweidstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/pfingstweid/ueberuns/standorte/schulhaus.html",
     "name": "Schule Pfingstweid",
-    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
+    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Pfingstweid",
+    "operator:type": "public",
     "start_date": "2019-08-19",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/pfingstweid.html",
     "id": "way/508451656"
   },
   "geometry": {
@@ -13136,15 +13312,18 @@
   "type": "Feature",
   "id": "way/548165201",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "60",
-    "addr:postcode": "8032",
-    "addr:street": "Hofstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "60",
+    "contact:phone": "+41 44 413 16 00",
+    "contact:postcode": "8032",
+    "contact:street": "Hofstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/bungertwies.html",
     "description": "Primarschule/Tagesschule",
     "name": "Schule Bungertwies",
-    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/bungertwies.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Bungertwies",
+    "operator:type": "public",
+    "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
     "id": "way/548165201"
   },
   "geometry": {
@@ -13152,52 +13331,68 @@
     "coordinates": [
       [
         [
-          8.5606745,
-          47.3712153
+          8.5606861,
+          47.3712121
         ],
         [
-          8.5611578,
-          47.3714733
+          8.5608209,
+          47.3713006
         ],
         [
-          8.5615865,
-          47.3716316
+          8.5611978,
+          47.3714846
         ],
         [
-          8.561823,
-          47.3718528
+          8.5616003,
+          47.3716336
         ],
         [
-          8.5616844,
-          47.3720166
+          8.5618281,
+          47.3718503
         ],
         [
-          8.560619,
-          47.3725634
+          8.5616939,
+          47.3720171
         ],
         [
-          8.5599178,
-          47.371901
+          8.5611739,
+          47.3722827
         ],
         [
-          8.5598957,
-          47.3718777
+          8.5606277,
+          47.3725614
         ],
         [
-          8.5598896,
-          47.3718574
+          8.5599276,
+          47.3719
         ],
         [
-          8.5598966,
-          47.3718335
+          8.5599103,
+          47.3718836
         ],
         [
-          8.5599143,
-          47.3718096
+          8.5598992,
+          47.3718678
         ],
         [
-          8.5606745,
-          47.3712153
+          8.5598958,
+          47.371851
+        ],
+        [
+          8.5599021,
+          47.3718326
+        ],
+        [
+          8.5599163,
+          47.3718187
+        ],
+        [
+          8.5602592,
+          47.3715469
+        ],
+        [
+          8.5606861,
+          47.3712121
         ]
       ]
     ]
@@ -13270,15 +13465,17 @@
   "type": "Feature",
   "id": "way/548165203",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "19",
-    "addr:postcode": "8053",
-    "addr:street": "Heilighüsli",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "19",
+    "contact:phone": "+41 44 413 13 00",
+    "contact:postcode": "8053",
+    "contact:street": "Heilighüsli",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/langmatt.html",
     "description": "Primarschule",
     "name": "Schule Langmatt",
-    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/looren.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Looren-Langmatt",
+    "operator:type": "public",
     "id": "way/548165203"
   },
   "geometry": {
@@ -13294,84 +13491,136 @@
           47.3576264
         ],
         [
-          8.5874935,
-          47.357627
+          8.5875057,
+          47.3576289
         ],
         [
-          8.5875035,
-          47.3577152
+          8.5875145,
+          47.3577235
         ],
         [
-          8.5875609,
-          47.358023
+          8.5875336,
+          47.3578179
         ],
         [
-          8.5871043,
-          47.3580311
+          8.5874956,
+          47.357821
         ],
         [
-          8.5870483,
-          47.3577185
+          8.5875305,
+          47.3579983
         ],
         [
-          8.5861763,
-          47.357418
+          8.58757,
+          47.357997
         ],
         [
-          8.5859797,
-          47.3573524
+          8.5875732,
+          47.3580167
         ],
         [
-          8.5860288,
-          47.3573102
+          8.5870793,
+          47.3580293
         ],
         [
-          8.586074,
-          47.3573241
+          8.5870947,
+          47.357993
         ],
         [
-          8.5861065,
-          47.3572976
+          8.5870718,
+          47.3578731
         ],
         [
-          8.5861402,
-          47.3572697
+          8.5870827,
+          47.3577265
         ],
         [
-          8.5860817,
-          47.3572361
+          8.5861857,
+          47.3574199
         ],
         [
-          8.5860684,
-          47.3572199
+          8.5859929,
+          47.3573518
         ],
         [
-          8.5860668,
-          47.3571929
+          8.586042,
+          47.3573108
         ],
         [
-          8.5862624,
-          47.356968
+          8.5860825,
+          47.3573247
         ],
         [
-          8.5862064,
-          47.3569401
+          8.5861121,
+          47.3572998
         ],
         [
-          8.5865964,
-          47.3565143
+          8.5861421,
+          47.3572751
         ],
         [
-          8.5868684,
-          47.3563522
+          8.586085,
+          47.3572438
         ],
         [
-          8.5872063,
-          47.3561793
+          8.5860714,
+          47.3572328
         ],
         [
-          8.5878008,
-          47.356048
+          8.5860642,
+          47.3572205
+        ],
+        [
+          8.5860601,
+          47.3572069
+        ],
+        [
+          8.5860612,
+          47.3571926
+        ],
+        [
+          8.5862186,
+          47.3570101
+        ],
+        [
+          8.5861476,
+          47.3569825
+        ],
+        [
+          8.5861922,
+          47.356933
+        ],
+        [
+          8.5862154,
+          47.356941
+        ],
+        [
+          8.5864291,
+          47.3567198
+        ],
+        [
+          8.5866004,
+          47.3565776
+        ],
+        [
+          8.5865722,
+          47.3565571
+        ],
+        [
+          8.5866068,
+          47.3565213
+        ],
+        [
+          8.5868712,
+          47.3563554
+        ],
+        [
+          8.5872185,
+          47.3561774
+        ],
+        [
+          8.5878074,
+          47.3560474
         ],
         [
           8.5884187,
@@ -14297,16 +14546,17 @@
   "type": "Feature",
   "id": "way/553449275",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "240",
-    "addr:postcode": "8005",
-    "addr:street": "Heinrichstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "240",
+    "contact:phone": "+41 44 413 33 60",
+    "contact:postcode": "8005",
+    "contact:street": "Heinrichstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/schuetze.html",
     "name": "Schule Schütze",
-    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
+    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Schütze",
+    "operator:type": "public",
     "start_date": "2019-08-19",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/schuetze.html",
     "id": "way/553449275"
   },
   "geometry": {
@@ -15244,30 +15494,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5295851873",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "180",
-    "addr:postcode": "8008",
-    "addr:street": "Mühlebachstrasse",
-    "amenity": "school",
-    "branch": "Münchhalde",
-    "name": "Kunst- und Sportschule Zürich",
-    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg",
-    "short_name": "K&S Zürich",
-    "website": "https://www.kuszh.ch/",
-    "id": "node/5295851873"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.559019,
-      47.3556831
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5331219077",
   "properties": {
     "addr:city": "Zürich",
@@ -15581,23 +15807,6 @@
     "coordinates": [
       8.4867991,
       47.3726385
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6634711063",
-  "properties": {
-    "amenity": "school",
-    "name": "Pavillon Riesbach",
-    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg",
-    "id": "node/6634711063"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5584576,
-      47.3560512
     ]
   }
 },

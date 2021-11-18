@@ -6081,24 +6081,20 @@
           47.3887646
         ],
         [
-          8.0636968,
-          47.3896503
+          8.0637012,
+          47.3896538
         ],
         [
-          8.0633184,
-          47.3894904
+          8.0632505,
+          47.3900742
         ],
         [
-          8.0631711,
-          47.3895833
+          8.0631035,
+          47.3901586
         ],
         [
-          8.0629883,
-          47.3896039
-        ],
-        [
-          8.0627688,
-          47.3896943
+          8.0625419,
+          47.3897823
         ],
         [
           8.0623876,
@@ -13147,6 +13143,7 @@
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "Kantonsspital Winterthur",
+    "short_name": "KSW",
     "toilets:wheelchair": "yes",
     "website": "https://www.ksw.ch/",
     "wheelchair": "yes",
@@ -22227,20 +22224,20 @@
           46.9489144
         ],
         [
-          7.423559,
-          46.9488007
+          7.4236914,
+          46.9488781
         ],
         [
-          7.4233812,
-          46.9486891
+          7.4236687,
+          46.9488972
         ],
         [
-          7.4233612,
-          46.9487056
+          7.4233476,
+          46.9487022
         ],
         [
           7.4228948,
-          46.9490914
+          46.9490915
         ],
         [
           7.4227517,
@@ -23107,13 +23104,17 @@
   "id": "way/383430711",
   "properties": {
     "addr:city": "Biel/Bienne",
+    "addr:city:de": "Biel",
+    "addr:city:fr": "Bienne",
     "addr:country": "CH",
     "addr:housenumber": "84",
     "addr:postcode": "2501",
-    "addr:street": "Vogelsang",
+    "addr:street": "Chante-Merle / Vogelsang",
+    "addr:street:de": "Vogelsang",
+    "addr:street:fr": "Chante-Merle",
     "amenity": "hospital",
     "contact:phone": "+41 32 324 24 24",
-    "contact:website": "https://www.spitalzentrum-biel.ch/",
+    "contact:website": "https://www.spitalzentrum-biel.ch",
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
@@ -29075,6 +29076,7 @@
     "healthcare:speciality": "intensive",
     "name": "Kantonsspital Frauenfeld",
     "phone": "+41 52 723 77 11",
+    "short_name": "KSF",
     "website": "https://www.stgag.ch/",
     "wikidata": "Q30260511",
     "id": "way/672944584"
@@ -29763,6 +29765,7 @@
     "healthcare:speciality": "intensive",
     "name": "Kantonsspital Münsterlingen",
     "phone": "+41 71 686 11 11",
+    "short_name": "KSM",
     "website": "https://www.stgag.ch/patienten-besucher/kantonsspital-muensterlingen/besuchszeiten/",
     "wikidata": "Q30260513",
     "wikipedia": "de:Kantonsspital Münsterlingen",
@@ -38941,6 +38944,7 @@
     "name": "Spital Heiden",
     "operator": "Spitalverbund Appenzell-Ausserrhoden",
     "phone": "+41 71 898 61 11",
+    "short_name": "KSH",
     "source": "Bing",
     "website": "https://www.spitalverbund.ch/angebote-heiden-herisau/home-spital-heiden/",
     "id": "way/680289440"
@@ -41201,6 +41205,7 @@
     "healthcare:speciality": "intensive",
     "name": "Spital Herisau",
     "phone": "+41 71 353 21 11",
+    "short_name": "KSU",
     "website": "https://www.spitalverbund.ch/angebote-heiden-herisau/home-spital-herisau/",
     "id": "way/681049704"
   },
@@ -41558,6 +41563,7 @@
     "addr:postcode": "6440",
     "addr:street": "Gersauerstrasse",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "healthcare:speciality": "burnout",
     "name": "Seeklinik Brunnen",
     "operator": "AMEOS Gruppe",
@@ -43404,6 +43410,8 @@
     "addr:postcode": "9056",
     "addr:street": "Gäbrisstrasse",
     "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "rehabilitation",
     "healthcare:speciality": "rehabilitation",
     "name": "Klinik Gais",
     "operator": "Klinik Gais AG",
@@ -43416,44 +43424,44 @@
     "coordinates": [
       [
         [
-          9.4742435,
-          47.3717224
+          9.4743492,
+          47.3720941
         ],
         [
-          9.4737567,
-          47.371747
+          9.4742893,
+          47.3721738
         ],
         [
-          9.4735354,
-          47.3717161
+          9.4741371,
+          47.3722489
         ],
         [
-          9.4733249,
-          47.3716589
+          9.4737477,
+          47.3723073
         ],
         [
-          9.4732068,
-          47.371598
+          9.4736235,
+          47.3722973
         ],
         [
-          9.4730647,
-          47.3714972
+          9.4735587,
+          47.3722667
         ],
         [
-          9.472826,
-          47.371341
+          9.4734274,
+          47.372066
         ],
         [
-          9.4728112,
-          47.3713355
+          9.472543,
+          47.3716198
         ],
         [
-          9.4729034,
-          47.3712204
+          9.4729852,
+          47.3711368
         ],
         [
-          9.4733718,
-          47.3707897
+          9.4733484,
+          47.3707801
         ],
         [
           9.4735542,
@@ -43476,28 +43484,32 @@
           47.3709486
         ],
         [
-          9.4749235,
-          47.3710612
+          9.4748182,
+          47.3710133
         ],
         [
-          9.4748591,
-          47.3712256
+          9.4747188,
+          47.3711953
         ],
         [
-          9.4746834,
-          47.3714727
+          9.474722,
+          47.3714025
         ],
         [
-          9.4745037,
-          47.3715844
+          9.4744041,
+          47.3716023
         ],
         [
-          9.4744393,
-          47.3717134
+          9.4744851,
+          47.371743
         ],
         [
-          9.4742435,
-          47.3717224
+          9.4743458,
+          47.3718194
+        ],
+        [
+          9.4743492,
+          47.3720941
         ]
       ]
     ]
@@ -45737,7 +45749,7 @@
   "properties": {
     "amenity": "hospital",
     "healthcare": "hospital",
-    "name": "Nouvel Hôpital",
+    "name": "Extension et transformation de l’Hôpital",
     "id": "way/996685264"
   },
   "geometry": {
