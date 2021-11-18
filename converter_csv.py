@@ -3,7 +3,7 @@ import pandas as pd
 # Converting JSON Data to CSV
 
 #Rettungswachen
-df = pd.read_json (r'data\json\ambulance_station\ambulancestation_dispo_srz.geojson')
+df = pd.read_json (r'data/json/ambulance_station/ambulancestation_dispo_srz.geojson')
 df.to_csv (r'data/csv/ambulance_station/ambulancestation_dispo_srz.csv', index = None)
 
 # Defibrillatoren
