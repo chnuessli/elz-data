@@ -256,6 +256,12 @@ cat $DIR/queries/schools_kt_zh.txt | python $DIR/overpass_query.py | osmtogeojso
 echo -ne "\t\t - Done.\r"
 echo ""
 
+# Schulen Kanton Zug
+echo -ne "Query Schulen Kanton Zürich...           "
+cat $DIR/queries/schools_kt_zg.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/schools/schools_kt_zg.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
 # Schulen Stadt Zürich
 echo -ne "Query Schulen Stadt Zürich...           "
 cat $DIR/queries/schools_stadt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/schools/schools_stadt_zh.geojson
