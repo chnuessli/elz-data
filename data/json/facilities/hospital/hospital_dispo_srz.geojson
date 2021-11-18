@@ -5691,6 +5691,7 @@
     "addr:postcode": "6440",
     "addr:street": "Gersauerstrasse",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "healthcare:speciality": "burnout",
     "name": "Seeklinik Brunnen",
     "operator": "AMEOS Gruppe",

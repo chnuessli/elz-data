@@ -22224,20 +22224,20 @@
           46.9489144
         ],
         [
-          7.423559,
-          46.9488007
+          7.4236914,
+          46.9488781
         ],
         [
-          7.4233812,
-          46.9486891
+          7.4236687,
+          46.9488972
         ],
         [
-          7.4233612,
-          46.9487056
+          7.4233476,
+          46.9487022
         ],
         [
           7.4228948,
-          46.9490914
+          46.9490915
         ],
         [
           7.4227517,
@@ -41563,6 +41563,7 @@
     "addr:postcode": "6440",
     "addr:street": "Gersauerstrasse",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "healthcare:speciality": "burnout",
     "name": "Seeklinik Brunnen",
     "operator": "AMEOS Gruppe",
