@@ -5215,6 +5215,7 @@
     "amenity": "pharmacy",
     "branch": "Zürich Oerlikon",
     "brand": "Coop Vitality",
+    "check_date:opening_hours": "2021-11-18",
     "healthcare": "pharmacy",
     "name": "Coop Vitality",
     "opening_hours": "Mo-Sa 08:00-20:00",
