@@ -518,7 +518,7 @@
     "name": "Dropa Hottingen",
     "official_name": "Hottinger-Apotheke & Post GmbH",
     "old_name": "Hottinger-Apotheke",
-    "opening_hours": "Mo-Fr 08:00-18:30;Sa 08:00-12:00",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-12:00",
     "operator": "Dr. Bähler Dropa",
     "website": "https://dropa.ch/standorte/dropa-apotheke-post-hottingen",
     "id": "node/262378047"
@@ -3145,7 +3145,7 @@
     "brand": "Fortis",
     "healthcare": "pharmacy",
     "name": "Apotheke Zum Mörser",
-    "opening_hours": "Mo-Fr 08:00-18:30;Sa 08:00-16:30",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:30",
     "website": "https://www.apothekezummoerser.ch/",
     "wheelchair": "yes",
     "id": "node/983433415"
@@ -3503,7 +3503,7 @@
     "amenity": "pharmacy",
     "brand": "Fortis",
     "name": "Hirschwiesen-Apotheke",
-    "opening_hours": "Mo-Fr 08:00-12:15,13:45-18:30;Sa 08:00-12:00",
+    "opening_hours": "Mo-Fr 08:00-12:15,13:45-18:30, Sa 08:00-12:00",
     "website": "https://www.hirschwiesenapotheke.ch/",
     "id": "node/1391383876"
   },
@@ -4258,14 +4258,14 @@
     "addr:city": "Schaffhausen",
     "addr:country": "CH",
     "addr:housenumber": "2",
-    "addr:postcode": "8200",
+    "addr:postcode": "8202",
     "addr:street": "Unterstadt",
     "amenity": "pharmacy",
     "dispensing": "yes",
     "email": "info@unterstadtapotheke.ch",
     "healthcare": "pharmacy",
     "name": "Unterstadt-Apotheke & Post",
-    "opening_hours": "Mo-Fr 08:30-18:30;Sa 08:30-17:00",
+    "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-17:00",
     "phone": "+41 52 625 11 44",
     "website": "https://www.unterstadtapotheke.ch/",
     "id": "node/2258851964"
@@ -4273,8 +4273,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6402995,
-      47.6957896
+      8.6403009,
+      47.6957809
     ]
   }
 },
@@ -5986,6 +5986,7 @@
     "opening_hours": "Mo-Sa 09:00-20:00",
     "operator": "GaleniCare",
     "website": "https://www.amavita.ch/de/amavita-apotheke-glattzentrum",
+    "wheelchair": "yes",
     "id": "node/4833061652"
   },
   "geometry": {
@@ -6381,7 +6382,7 @@
     "brand": "Rotpunkt Apotheke",
     "dispensing": "yes",
     "name": "Triemli-Apotheke & Drogerie",
-    "opening_hours": "Mo-Fr 08:00-18:30;Sa 09:00-16:30",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su 09:00-14:00",
     "operator": "Rotpunkt Pharma",
     "phone": "+41 44 463 15 33",
     "shop": "chemist",
@@ -7467,7 +7468,6 @@
     "brand": "Pill Apotheke",
     "healthcare": "pharmacy",
     "name": "Pill Apotheke Waldegg",
-    "opening_hours": "Mo-Fr 08:00-12:30,13:30-18:25;Sa 08:00-15:50",
     "operator": "Pill Group",
     "website": "https://www.pill.ch/standorte/pill-apotheke-waldegg.html",
     "id": "node/7489059376"

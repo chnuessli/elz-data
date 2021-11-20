@@ -20907,10 +20907,9 @@
     "amenity": "school",
     "building": "school",
     "description": "Primarschule",
+    "isced:level": "1",
     "name": "Schule Schanzengraben",
-    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/hirschengraben.html",
     "wheelchair": "no",
     "id": "way/89976926"
   },
@@ -20919,8 +20918,8 @@
     "coordinates": [
       [
         [
-          8.5353325,
-          47.3698912
+          8.5353338,
+          47.3698907
         ],
         [
           8.5354119,
@@ -20935,40 +20934,124 @@
           47.3698468
         ],
         [
-          8.535589,
-          47.3699413
+          8.5355886,
+          47.3699385
         ],
         [
-          8.5348465,
-          47.3703923
+          8.5355116,
+          47.3699866
         ],
         [
-          8.5347312,
-          47.3703052
+          8.5355047,
+          47.3699807
         ],
         [
-          8.5350094,
-          47.3701363
+          8.5353056,
+          47.370103
         ],
         [
-          8.534967,
-          47.3701042
+          8.5353134,
+          47.3701081
         ],
         [
-          8.5351689,
-          47.3699816
+          8.5351274,
+          47.3702212
         ],
         [
-          8.5352095,
-          47.3700123
+          8.5351199,
+          47.3702164
         ],
         [
-          8.5353665,
-          47.3699169
+          8.5349223,
+          47.3703371
         ],
         [
-          8.5353325,
-          47.3698912
+          8.5349288,
+          47.3703423
+        ],
+        [
+          8.5348525,
+          47.3703898
+        ],
+        [
+          8.5347305,
+          47.3703046
+        ],
+        [
+          8.5347291,
+          47.3702981
+        ],
+        [
+          8.5348072,
+          47.3702503
+        ],
+        [
+          8.5348154,
+          47.3702563
+        ],
+        [
+          8.5350116,
+          47.370135
+        ],
+        [
+          8.5349827,
+          47.3701122
+        ],
+        [
+          8.534979,
+          47.3701128
+        ],
+        [
+          8.5349693,
+          47.3701044
+        ],
+        [
+          8.5349732,
+          47.3701024
+        ],
+        [
+          8.5349702,
+          47.3701004
+        ],
+        [
+          8.5350149,
+          47.3700721
+        ],
+        [
+          8.5350179,
+          47.3700748
+        ],
+        [
+          8.5351509,
+          47.3699893
+        ],
+        [
+          8.535154,
+          47.3699916
+        ],
+        [
+          8.5351596,
+          47.3699887
+        ],
+        [
+          8.5351706,
+          47.3699963
+        ],
+        [
+          8.5351678,
+          47.3699981
+        ],
+        [
+          8.5351979,
+          47.3700207
+        ],
+        [
+          8.5353684,
+          47.3699159
+        ],
+        [
+          8.5353338,
+          47.3698907
         ]
       ]
     ]
@@ -28115,15 +28198,17 @@
   "type": "Feature",
   "id": "way/123098893",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "160",
-    "addr:postcode": "8032",
-    "addr:street": "Freiestrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "160",
+    "contact:phone": "+41 44 413 14 20",
+    "contact:postcode": "8032",
+    "contact:street": "Freiestrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/hirslanden_primar/ueberuns/standorte/schulhaus.html#schulhaus_freiestrasse",
     "description": "Primarschule (Unterstufe)",
-    "name": "Schule Hirslanden (Freiestrasse)",
-    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/hirslanden.html",
+    "name": "Schule Freiestrasse",
+    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Hirslanden",
+    "operator:type": "public",
     "id": "way/123098893"
   },
   "geometry": {
@@ -28131,32 +28216,32 @@
     "coordinates": [
       [
         [
-          8.5626582,
-          47.3633601
+          8.5626689,
+          47.3633582
         ],
         [
-          8.5621404,
-          47.3630352
+          8.5621496,
+          47.3630366
         ],
         [
-          8.5623505,
-          47.3627711
+          8.5623569,
+          47.3627697
         ],
         [
-          8.5630733,
-          47.3630217
+          8.5630832,
+          47.3630183
         ],
         [
-          8.5630894,
-          47.3630376
+          8.5631001,
+          47.3630386
         ],
         [
-          8.5630808,
-          47.3630569
+          8.5630971,
+          47.363053
         ],
         [
-          8.5626582,
-          47.3633601
+          8.5626689,
+          47.3633582
         ]
       ]
     ]
@@ -69552,15 +69637,16 @@
   "type": "Feature",
   "id": "way/548165198",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "45",
-    "addr:postcode": "8032",
-    "addr:street": "Hofackerstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "45",
+    "contact:postcode": "8032",
+    "contact:street": "Hofackerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/hirslanden.html",
     "description": "Primarschule (Mittelstufe) und Sekundarschule",
-    "name": "Schule Hirslanden (Hofacker)",
-    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/hirslanden.html",
+    "name": "Schule Hofacker",
+    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Hirslanden",
+    "operator:type": "public",
     "id": "way/548165198"
   },
   "geometry": {
@@ -69568,76 +69654,88 @@
     "coordinates": [
       [
         [
-          8.5638351,
-          47.3626642
+          8.5638469,
+          47.3626584
         ],
         [
-          8.5652705,
-          47.3616267
+          8.5652864,
+          47.3616251
         ],
         [
-          8.5652901,
-          47.3616193
+          8.5653366,
+          47.3616084
         ],
         [
-          8.5653276,
-          47.361615
+          8.5653882,
+          47.3616169
         ],
         [
-          8.5653715,
-          47.3616278
+          8.5656842,
+          47.3617542
         ],
         [
-          8.5662105,
-          47.3620164
-        ],
-        [
-          8.5662285,
-          47.3620275
-        ],
-        [
-          8.5662402,
-          47.3620471
-        ],
-        [
-          8.5662402,
-          47.3620646
+          8.5659842,
+          47.3618939
         ],
         [
           8.5662285,
-          47.3620821
+          47.3620066
         ],
         [
-          8.5653558,
-          47.3629489
+          8.5662461,
+          47.3620179
         ],
         [
-          8.5650547,
-          47.3628118
+          8.5662528,
+          47.362024
         ],
         [
-          8.5648995,
-          47.3629717
+          8.5662566,
+          47.3620362
         ],
         [
-          8.5647853,
-          47.3629197
+          8.5662559,
+          47.3620444
         ],
         [
-          8.5644769,
-          47.3628084
+          8.5662555,
+          47.3620574
         ],
         [
-          8.5644252,
-          47.3628614
+          8.5662461,
+          47.3620694
         ],
         [
-          8.5640558,
-          47.3627448
+          8.5653664,
+          47.3629518
         ],
         [
-          8.5638351,
-          47.3626642
+          8.5650637,
+          47.3628115
+        ],
+        [
+          8.5649058,
+          47.3629712
+        ],
+        [
+          8.5647884,
+          47.362916
+        ],
+        [
+          8.5644816,
+          47.3628057
+        ],
+        [
+          8.5644417,
+          47.3628646
+        ],
+        [
+          8.5640668,
+          47.3627416
+        ],
+        [
+          8.5638469,
+          47.3626584
         ]
       ]
     ]
@@ -69818,15 +69916,17 @@
   "type": "Feature",
   "id": "way/548165202",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "46",
-    "addr:postcode": "8001",
-    "addr:street": "Hirschengraben",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "46",
+    "contact:phone": "+41 44 413 04 30",
+    "contact:postcode": "8001",
+    "contact:street": "Hirschengraben",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/hirschengraben/ueberuns/standorte/schulhaus.html",
     "description": "Primarschule und Sekundarschule",
     "name": "Schule Hirschengraben",
-    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/hirschengraben.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Hirschengraben-Schanzengraben",
+    "operator:type": "public",
     "id": "way/548165202"
   },
   "geometry": {
@@ -69834,44 +69934,72 @@
     "coordinates": [
       [
         [
-          8.5478168,
-          47.373406
+          8.5478576,
+          47.3732638
         ],
         [
-          8.547898,
-          47.3733111
+          8.5479102,
+          47.3733088
         ],
         [
-          8.5480373,
-          47.3734397
+          8.5479946,
+          47.3733828
         ],
         [
-          8.5480696,
-          47.3735985
+          8.5480458,
+          47.3734381
         ],
         [
-          8.5480448,
-          47.3737698
+          8.5480645,
+          47.3735061
         ],
         [
-          8.5478889,
-          47.3741353
+          8.5480781,
+          47.3736011
         ],
         [
-          8.5477919,
-          47.3743082
+          8.5480544,
+          47.3737635
         ],
         [
-          8.5468418,
-          47.3739421
+          8.5479424,
+          47.3740381
         ],
         [
-          8.5474213,
-          47.3732533
+          8.5478974,
+          47.374141
         ],
         [
-          8.5478168,
-          47.373406
+          8.5478006,
+          47.374309
+        ],
+        [
+          8.5468505,
+          47.3739425
+        ],
+        [
+          8.5474295,
+          47.3732519
+        ],
+        [
+          8.5474659,
+          47.3732073
+        ],
+        [
+          8.5475493,
+          47.3731123
+        ],
+        [
+          8.5477592,
+          47.373197
+        ],
+        [
+          8.5478181,
+          47.3732351
+        ],
+        [
+          8.5478576,
+          47.3732638
         ]
       ]
     ]
@@ -73218,6 +73346,15 @@
   "id": "way/706103877",
   "properties": {
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "11",
+    "contact:phone": "+41 44 413 32 40",
+    "contact:postcode": "8001",
+    "contact:street": "Schanzengraben",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/hirschengraben/ueberuns/standorte/schulhaus.html",
+    "name": "Schule Schanzengraben",
+    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Hirschengraben-Schanzengraben",
+    "operator:type": "public",
     "id": "way/706103877"
   },
   "geometry": {
@@ -73225,32 +73362,48 @@
     "coordinates": [
       [
         [
-          8.5348643,
-          47.3704003
+          8.534849,
+          47.370405
         ],
         [
-          8.5346989,
-          47.3702839
+          8.5346603,
+          47.370274
         ],
         [
-          8.5352194,
-          47.3695258
+          8.5347727,
+          47.3701927
         ],
         [
-          8.5353888,
-          47.3696723
+          8.5354948,
+          47.3691249
         ],
         [
-          8.5353375,
-          47.3697023
+          8.5357108,
+          47.3691095
         ],
         [
-          8.5356454,
-          47.3699312
+          8.5357715,
+          47.369129
         ],
         [
-          8.5348643,
-          47.3704003
+          8.5359862,
+          47.3692891
+        ],
+        [
+          8.535649,
+          47.3694943
+        ],
+        [
+          8.5352992,
+          47.3697178
+        ],
+        [
+          8.5355938,
+          47.3699399
+        ],
+        [
+          8.534849,
+          47.370405
         ]
       ]
     ]
