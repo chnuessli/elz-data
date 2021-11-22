@@ -12150,12 +12150,16 @@
           47.3155857
         ],
         [
+          8.5271043,
+          47.3154453
+        ],
+        [
           8.5270586,
           47.3154012
         ],
         [
-          8.5270783,
-          47.3153437
+          8.5270737,
+          47.3153527
         ],
         [
           8.5273771,
@@ -60859,7 +60863,7 @@
   "id": "way/378098301",
   "properties": {
     "amenity": "school",
-    "landuse": "forest",
+    "natural": "wood",
     "id": "way/378098301"
   },
   "geometry": {
@@ -60979,7 +60983,7 @@
   "id": "way/378099846",
   "properties": {
     "amenity": "school",
-    "natural": "grassland",
+    "landcover": "grass",
     "id": "way/378099846"
   },
   "geometry": {
