@@ -2225,6 +2225,7 @@
     "amenity": "pharmacy",
     "dispensing": "yes",
     "name": "Marktgass Apotheke",
+    "wheelchair": "yes",
     "id": "node/698785782"
   },
   "geometry": {
@@ -2281,6 +2282,7 @@
     "old_name": "CityApotheke",
     "operator": "Medbase Apotheken",
     "website": "https://www.topwell.ch/medbaseapothekeduebendorf/",
+    "wheelchair": "yes",
     "id": "node/704834757"
   },
   "geometry": {
