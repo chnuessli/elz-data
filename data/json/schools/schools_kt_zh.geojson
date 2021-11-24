@@ -70664,14 +70664,16 @@
   "type": "Feature",
   "id": "way/551666198",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "71",
-    "addr:postcode": "8008",
-    "addr:street": "Mühlebachstrasse",
     "amenity": "school",
-    "name": "Schule Riesbach (Mühlebach)",
-    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/riesbach.html",
+    "contact:city": "Zürich",
+    "contact:housenumber": "71",
+    "contact:phone": "+41 44 413 15 00",
+    "contact:postcode": "8008",
+    "contact:street": "Mühlebachstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/riesbach/ueberuns/standorte/schulhaus.html",
+    "name": "Schule Mühlebach",
+    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Riesbach",
+    "operator:type": "public",
     "id": "way/551666198"
   },
   "geometry": {
@@ -70679,80 +70681,88 @@
     "coordinates": [
       [
         [
-          8.5536883,
-          47.3622531
+          8.5537059,
+          47.3622439
         ],
         [
-          8.5540795,
+          8.5537103,
+          47.362254
+        ],
+        [
+          8.5537234,
+          47.3622636
+        ],
+        [
+          8.5540906,
           47.3624329
         ],
         [
-          8.5540717,
-          47.3624516
+          8.5540767,
+          47.3624509
         ],
         [
-          8.5542274,
+          8.5542365,
           47.3625077
         ],
         [
-          8.5542274,
-          47.3631062
+          8.554236,
+          47.3631069
         ],
         [
-          8.5540759,
-          47.3631075
+          8.5540832,
+          47.363108
         ],
         [
-          8.5540629,
-          47.3630333
+          8.5540705,
+          47.3630299
         ],
         [
-          8.5540601,
-          47.3630279
+          8.5540461,
+          47.3630169
         ],
         [
-          8.5540393,
-          47.3630186
+          8.5540313,
+          47.3630165
         ],
         [
-          8.5540227,
-          47.3630182
+          8.5539518,
+          47.3630539
         ],
         [
-          8.5539437,
-          47.3630536
+          8.5539384,
+          47.363039
         ],
         [
-          8.5539303,
-          47.3630414
+          8.5538325,
+          47.3630942
         ],
         [
-          8.5538254,
-          47.3630949
-        ],
-        [
-          8.5535236,
+          8.5535317,
           47.3628019
         ],
         [
-          8.5535661,
+          8.5535752,
           47.3627653
         ],
         [
-          8.5533059,
-          47.362616
+          8.553314,
+          47.362615
         ],
         [
-          8.5533868,
-          47.3625491
+          8.553365,
+          47.3625736
         ],
         [
-          8.5534145,
-          47.3625261
+          8.5533923,
+          47.3625508
         ],
         [
-          8.5536883,
-          47.3622531
+          8.5534301,
+          47.3625186
+        ],
+        [
+          8.5537059,
+          47.3622439
         ]
       ]
     ]
