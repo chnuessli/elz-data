@@ -5489,6 +5489,7 @@
     "opening_hours:covid19": "open",
     "operator": "Coop Vitality & GaleniCare",
     "website": "https://www.coopvitality.ch/de/coop-vitality-wallisellen",
+    "wheelchair": "yes",
     "id": "node/4838594392"
   },
   "geometry": {
@@ -6257,6 +6258,7 @@
     "opening_hours": "Mo-Fr 07:30-18:30, Sa 08:30-17:00",
     "operator": "Medbase Apotheken",
     "website": "https://www.topwell.ch/medbaseapothekewallisellen/",
+    "wheelchair": "yes",
     "id": "node/7107268780"
   },
   "geometry": {

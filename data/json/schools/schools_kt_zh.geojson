@@ -65095,6 +65095,7 @@
   "properties": {
     "amenity": "school",
     "name": "Schule in Kleingruppen",
+    "wheelchair": "no",
     "id": "way/430637860"
   },
   "geometry": {

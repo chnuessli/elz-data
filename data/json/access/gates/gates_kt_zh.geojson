@@ -6125,6 +6125,7 @@
   "type": "Feature",
   "id": "node/589028157",
   "properties": {
+    "access": "no",
     "barrier": "gate",
     "id": "node/589028157"
   },
@@ -22366,9 +22367,8 @@
   "type": "Feature",
   "id": "node/2642481952",
   "properties": {
+    "access": "private",
     "barrier": "gate",
-    "bicycle": "no",
-    "foot": "no",
     "id": "node/2642481952"
   },
   "geometry": {
