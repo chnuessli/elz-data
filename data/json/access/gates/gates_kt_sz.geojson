@@ -4948,6 +4948,39 @@
       47.0651614
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9282822411",
+  "properties": {
+    "barrier": "lift_gate",
+    "foot": "yes",
+    "motor_vehicle": "yes",
+    "id": "node/9282822411"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6582073,
+      47.0187001
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9283595070",
+  "properties": {
+    "access": "private",
+    "barrier": "lift_gate",
+    "id": "node/9283595070"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5484438,
+      47.0480742
+    ]
+  }
 }
 ]
 }

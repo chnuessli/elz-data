@@ -4455,6 +4455,7 @@
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
     "operator": "TopPharm Genossenschaft",
     "website": "https://www.apotheke.ch/hoeschgasse",
+    "wheelchair": "no",
     "id": "node/3523102254"
   },
   "geometry": {
@@ -5518,6 +5519,7 @@
     "opening_hours": "Mo-Fr 07:30-18:30; Sa 08:00-16:00",
     "operator": "BENU Pharmacies",
     "website": "https://www.benu.ch/de/pharmacies/kreuz/",
+    "wheelchair": "limited",
     "id": "node/4838594393"
   },
   "geometry": {
