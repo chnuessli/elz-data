@@ -31956,14 +31956,16 @@
   "type": "Feature",
   "id": "node/3890924288",
   "properties": {
+    "access": "no",
     "barrier": "gate",
+    "foot": "yes",
     "id": "node/3890924288"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5414517,
-      47.4558028
+      8.541371,
+      47.4558666
     ]
   }
 },

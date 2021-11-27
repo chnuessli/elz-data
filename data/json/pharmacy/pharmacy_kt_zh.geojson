@@ -727,6 +727,7 @@
     "amenity": "pharmacy",
     "healthcare": "pharmacy",
     "name": "Apotheke Rosengarten",
+    "wheelchair": "yes",
     "id": "node/305707117"
   },
   "geometry": {
@@ -2865,8 +2866,13 @@
     "amenity": "pharmacy",
     "branch": "Winterthur Seen",
     "brand": "Amavita",
+    "brand:wikidata": "Q93733901",
+    "brand:wikipedia": "de:Amavita",
+    "dispensing": "yes",
+    "drive_through": "no",
     "healthcare": "pharmacy",
-    "name": "Amavita Seen",
+    "name": "Amavita",
+    "opening_hours": "Mo-We 08:30-19:00; Th-Fr 08:30-20:00; Sa 08:00-18:00",
     "operator": "GaleniCare",
     "phone": "+41 52 232 13 13",
     "website": "https://www.amavita.ch/de/amavita-apotheke-seen",
