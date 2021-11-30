@@ -63251,6 +63251,7 @@
     "amenity": "school",
     "name": "Lycée Français de Zurich",
     "name:fr": "Lycée français Marie Curie de Zurich",
+    "wheelchair": "yes",
     "wikidata": "Q23808057",
     "wikipedia": "en:Lycée français Marie Curie de Zurich",
     "id": "way/422075924"
