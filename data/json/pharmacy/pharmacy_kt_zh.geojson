@@ -6666,6 +6666,7 @@
     "amenity": "pharmacy",
     "dispensing": "yes",
     "healthcare": "pharmacy",
+    "level": "0",
     "name": "Victoria-Apotheke",
     "id": "node/7967037966"
   },

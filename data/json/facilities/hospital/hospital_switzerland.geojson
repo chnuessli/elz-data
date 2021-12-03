@@ -50059,6 +50059,8 @@
     "addr:street": "The Circle",
     "amenity": "clinic",
     "email": "flughafen.ambulant@zurzachcare.ch",
+    "healthcare": "clinic",
+    "level": "0",
     "name": "Ambulantes Zentrum ZURZACH Care",
     "operator": "ZURZACH Care",
     "phone": "+41 43 816 10 90",
