@@ -51766,15 +51766,17 @@
   "type": "Feature",
   "id": "way/251207184",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "15",
-    "addr:postcode": "8052",
-    "addr:street": "Schönauweg",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "15",
+    "contact:phone": "+41 44 413 16 30",
+    "contact:postcode": "8052",
+    "contact:street": "Schönauweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/buchwiesen.html",
     "description": "Primarschule",
     "name": "Schule Buchwiesen",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/buchwiesen.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Buchwiesen",
+    "operator:type": "public",
     "id": "way/251207184"
   },
   "geometry": {

@@ -4747,6 +4747,7 @@
     "amenity": "pharmacy",
     "branch": "Winterthur Grüze Markt",
     "brand": "Coop Vitality",
+    "healthcare": "pharmacy",
     "name": "Coop Vitality",
     "opening_hours": "Mo-Sa 08:00-20:00; PH off",
     "operator": "Coop Vitality & GaleniCare",

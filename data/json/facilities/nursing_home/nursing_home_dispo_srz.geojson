@@ -12972,127 +12972,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/190250185",
-  "properties": {
-    "addr:city": "Schaffhausen",
-    "addr:housenumber": "12",
-    "addr:street": "J.J. Wepfer-Strasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "building:levels": "4",
-    "name": "Pflegezentrum - Spitäler Schaffhausen",
-    "operator": "Spitäler Schaffhausen",
-    "phone": "+41 52 634 34 34",
-    "social_facility": "nursing_home",
-    "website": "https://www.heiminfo.ch/institution/spitaeler-schaffhausen-pflegezentrum/pRLcyvp",
-    "id": "way/190250185"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6392541,
-          47.715385
-        ],
-        [
-          8.639267,
-          47.7153202
-        ],
-        [
-          8.6392408,
-          47.7153178
-        ],
-        [
-          8.6392554,
-          47.7152447
-        ],
-        [
-          8.6393339,
-          47.7152517
-        ],
-        [
-          8.6393378,
-          47.715232
-        ],
-        [
-          8.639401,
-          47.7152377
-        ],
-        [
-          8.6393968,
-          47.7152588
-        ],
-        [
-          8.6395155,
-          47.7152695
-        ],
-        [
-          8.6395196,
-          47.7152486
-        ],
-        [
-          8.6398211,
-          47.7152758
-        ],
-        [
-          8.6398166,
-          47.7152982
-        ],
-        [
-          8.6399376,
-          47.7153091
-        ],
-        [
-          8.6399415,
-          47.7152896
-        ],
-        [
-          8.6404257,
-          47.7153333
-        ],
-        [
-          8.6404215,
-          47.7153544
-        ],
-        [
-          8.6405385,
-          47.715365
-        ],
-        [
-          8.6405107,
-          47.7155043
-        ],
-        [
-          8.6403654,
-          47.7154912
-        ],
-        [
-          8.6403564,
-          47.7154904
-        ],
-        [
-          8.6403585,
-          47.7154796
-        ],
-        [
-          8.6394036,
-          47.7153934
-        ],
-        [
-          8.6394026,
-          47.7153984
-        ],
-        [
-          8.6392541,
-          47.715385
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/190257056",
   "properties": {
     "addr:city": "Freienbach",
@@ -13810,66 +13689,6 @@
         [
           8.5147929,
           47.1309553
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/199578690",
-  "properties": {
-    "addr:city": "Schaffhausen",
-    "addr:country": "CH",
-    "addr:housenumber": "89",
-    "addr:postcode": "8208",
-    "addr:street": "Geissbergstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "building:levels": "4",
-    "name": "Soziales Wohnen Geissberg (SWG)",
-    "social_facility": "group_home",
-    "id": "way/199578690"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6379111,
-          47.7121616
-        ],
-        [
-          8.6378579,
-          47.711987
-        ],
-        [
-          8.6378425,
-          47.7119895
-        ],
-        [
-          8.6377869,
-          47.7118103
-        ],
-        [
-          8.6379141,
-          47.7117928
-        ],
-        [
-          8.6379606,
-          47.711943
-        ],
-        [
-          8.6379787,
-          47.7119418
-        ],
-        [
-          8.6380387,
-          47.7121437
-        ],
-        [
-          8.6379111,
-          47.7121616
         ]
       ]
     ]
@@ -16489,148 +16308,6 @@
         [
           8.6802403,
           47.3647896
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/240515086",
-  "properties": {
-    "addr:city": "Schaffhausen",
-    "addr:housenumber": "4",
-    "addr:street": "Ungarbühlstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Alterszentrum Schönbühl",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "id": "way/240515086"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6398285,
-          47.7048626
-        ],
-        [
-          8.6399518,
-          47.704653
-        ],
-        [
-          8.6400803,
-          47.704506
-        ],
-        [
-          8.6400947,
-          47.704506
-        ],
-        [
-          8.6401151,
-          47.7044729
-        ],
-        [
-          8.6400947,
-          47.704468
-        ],
-        [
-          8.6401163,
-          47.7043953
-        ],
-        [
-          8.6401103,
-          47.7043162
-        ],
-        [
-          8.6400815,
-          47.7042257
-        ],
-        [
-          8.6402087,
-          47.7041853
-        ],
-        [
-          8.6402231,
-          47.7042225
-        ],
-        [
-          8.6402423,
-          47.7042152
-        ],
-        [
-          8.6402567,
-          47.7042564
-        ],
-        [
-          8.6402735,
-          47.7042516
-        ],
-        [
-          8.6402975,
-          47.7043065
-        ],
-        [
-          8.6403071,
-          47.7043372
-        ],
-        [
-          8.6402927,
-          47.7044204
-        ],
-        [
-          8.6402753,
-          47.7044182
-        ],
-        [
-          8.6402615,
-          47.7044608
-        ],
-        [
-          8.6402437,
-          47.7044581
-        ],
-        [
-          8.6402318,
-          47.7045193
-        ],
-        [
-          8.6405047,
-          47.7046364
-        ],
-        [
-          8.6403485,
-          47.704816
-        ],
-        [
-          8.6403208,
-          47.7048054
-        ],
-        [
-          8.6402714,
-          47.7048679
-        ],
-        [
-          8.6401449,
-          47.704812
-        ],
-        [
-          8.6400519,
-          47.7049251
-        ],
-        [
-          8.639963,
-          47.7048905
-        ],
-        [
-          8.6399452,
-          47.7049092
-        ],
-        [
-          8.6398285,
-          47.7048626
         ]
       ]
     ]
@@ -27702,6 +27379,73 @@
     "coordinates": [
       8.5705958,
       47.2856988
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9308476988",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "4",
+    "addr:street": "Ungarbühlstrasse",
+    "amenity": "social_facility",
+    "name": "Alterszentrum Schönbühl",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "node/9308476988"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6401834,
+      47.7046773
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9308513410",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "89",
+    "addr:postcode": "8208",
+    "addr:street": "Geissbergstrasse",
+    "amenity": "social_facility",
+    "name": "Soziales Wohnen Geissberg",
+    "short_name": "SWG",
+    "social_facility": "group_home",
+    "id": "node/9308513410"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6379158,
+      47.7119731
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9308513415",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "12",
+    "addr:street": "J.J. Wepfer-Strasse",
+    "amenity": "social_facility",
+    "name": "Pflegezentrum - Spitäler Schaffhausen",
+    "operator": "Spitäler Schaffhausen",
+    "phone": "+41 52 634 34 34",
+    "social_facility": "nursing_home",
+    "website": "https://www.heiminfo.ch/institution/spitaeler-schaffhausen-pflegezentrum/pRLcyvp",
+    "id": "node/9308513415"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6399566,
+      47.7153734
     ]
   }
 }
