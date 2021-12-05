@@ -3,167 +3,6 @@
 "features": [
 {
   "type": "Feature",
-  "id": "way/22273088",
-  "properties": {
-    "addr:city": "Bern",
-    "addr:country": "CH",
-    "addr:housenumber": "50",
-    "addr:postcode": "3014",
-    "addr:street": "Papiermühlestrasse",
-    "alt_name": "BernExpo Halle 4",
-    "building": "yes",
-    "healthcare": "vaccination_centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Hallen 4.1-4.2",
-    "vaccination": "covid19",
-    "id": "way/22273088"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.465437,
-          46.9608245
-        ],
-        [
-          7.4652406,
-          46.9605657
-        ],
-        [
-          7.4652291,
-          46.960569
-        ],
-        [
-          7.4652333,
-          46.9605747
-        ],
-        [
-          7.4651636,
-          46.9605997
-        ],
-        [
-          7.464944,
-          46.9603112
-        ],
-        [
-          7.4650137,
-          46.9602866
-        ],
-        [
-          7.4650176,
-          46.9602915
-        ],
-        [
-          7.4650291,
-          46.9602873
-        ],
-        [
-          7.4648075,
-          46.959996
-        ],
-        [
-          7.4649215,
-          46.9599552
-        ],
-        [
-          7.4649206,
-          46.9599539
-        ],
-        [
-          7.4650187,
-          46.9599188
-        ],
-        [
-          7.4650279,
-          46.9599303
-        ],
-        [
-          7.4651774,
-          46.959877
-        ],
-        [
-          7.465327,
-          46.9598237
-        ],
-        [
-          7.4653178,
-          46.9598122
-        ],
-        [
-          7.4654157,
-          46.9597771
-        ],
-        [
-          7.4654169,
-          46.9597787
-        ],
-        [
-          7.4655322,
-          46.9597379
-        ],
-        [
-          7.4661609,
-          46.9605652
-        ],
-        [
-          7.4660461,
-          46.9606067
-        ],
-        [
-          7.4660473,
-          46.9606079
-        ],
-        [
-          7.4657574,
-          46.9607118
-        ],
-        [
-          7.4657796,
-          46.9607393
-        ],
-        [
-          7.4658766,
-          46.9607045
-        ],
-        [
-          7.4659303,
-          46.9607736
-        ],
-        [
-          7.4658096,
-          46.9608158
-        ],
-        [
-          7.4657863,
-          46.9607839
-        ],
-        [
-          7.4657786,
-          46.9607864
-        ],
-        [
-          7.4657311,
-          46.9607213
-        ],
-        [
-          7.4655494,
-          46.9607864
-        ],
-        [
-          7.4655481,
-          46.9607847
-        ],
-        [
-          7.465437,
-          46.9608245
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/33789454",
   "properties": {
     "building": "yes",
@@ -197,90 +36,6 @@
         [
           8.2790972,
           47.4565426
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/34325778",
-  "properties": {
-    "addr:city": "Burgdorf",
-    "addr:country": "CH",
-    "addr:housenumber": "54",
-    "addr:postcode": "3400",
-    "addr:street": "Oberburgstrasse",
-    "amenity": "hospital",
-    "healthcare": "hospital",
-    "healthcare:speciality": "vaccination",
-    "name": "Regionalspital Emmental",
-    "operator": "Regionalspital Emmental AG",
-    "phone": "+41 34 421 21 21",
-    "vaccination": "covid19",
-    "website": "https://www.spital-emmental.ch",
-    "wheelchair": "yes",
-    "id": "way/34325778"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.6212877,
-          47.0493043
-        ],
-        [
-          7.6199782,
-          47.0489245
-        ],
-        [
-          7.6199514,
-          47.0488447
-        ],
-        [
-          7.6195851,
-          47.0487391
-        ],
-        [
-          7.6191802,
-          47.0486224
-        ],
-        [
-          7.6199546,
-          47.0474539
-        ],
-        [
-          7.6199949,
-          47.0474173
-        ],
-        [
-          7.6200794,
-          47.04741
-        ],
-        [
-          7.6209149,
-          47.0476111
-        ],
-        [
-          7.6220029,
-          47.0477674
-        ],
-        [
-          7.6220847,
-          47.0478621
-        ],
-        [
-          7.6221098,
-          47.0481265
-        ],
-        [
-          7.6219046,
-          47.0485879
-        ],
-        [
-          7.6212877,
-          47.0493043
         ]
       ]
     ]
@@ -632,162 +387,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/225478012",
-  "properties": {
-    "addr:city": "Tavannes",
-    "addr:country": "CH",
-    "addr:housenumber": "15",
-    "addr:postcode": "2710",
-    "addr:street": "Rue de Pierre-Pertuis",
-    "building": "yes",
-    "ele": "756",
-    "healthcare:speciality": "vaccination",
-    "vaccination": "covid19",
-    "website": "https://www.gef.be.ch/gef/de/index/Corona/Corona/corona_impfung_bern.html",
-    "id": "way/225478012"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.197725,
-          47.2189975
-        ],
-        [
-          7.1976909,
-          47.2189555
-        ],
-        [
-          7.1977614,
-          47.218903
-        ],
-        [
-          7.1979154,
-          47.2189609
-        ],
-        [
-          7.1979249,
-          47.2189676
-        ],
-        [
-          7.1979315,
-          47.2189809
-        ],
-        [
-          7.1979206,
-          47.2190014
-        ],
-        [
-          7.197803,
-          47.2190655
-        ],
-        [
-          7.1977937,
-          47.2190578
-        ],
-        [
-          7.1977781,
-          47.2190637
-        ],
-        [
-          7.1977553,
-          47.2190355
-        ],
-        [
-          7.1977065,
-          47.2190539
-        ],
-        [
-          7.1977404,
-          47.2190957
-        ],
-        [
-          7.1976238,
-          47.2191395
-        ],
-        [
-          7.1975601,
-          47.2190597
-        ],
-        [
-          7.197725,
-          47.2189975
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/290406327",
-  "properties": {
-    "addr:city": "Langnau im Emmental",
-    "addr:country": "CH",
-    "addr:housenumber": "2",
-    "addr:postcode": "3550",
-    "addr:street": "Dorfbergstrasse",
-    "building": "yes",
-    "ele": "693",
-    "healthcare:speciality": "vaccination",
-    "vaccination": "covid19",
-    "website": "https://www.gef.be.ch/gef/de/index/Corona/Corona/corona_impfung_bern.html",
-    "id": "way/290406327"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.7861207,
-          46.9426308
-        ],
-        [
-          7.7857389,
-          46.9427844
-        ],
-        [
-          7.7857033,
-          46.942744
-        ],
-        [
-          7.7856801,
-          46.9427535
-        ],
-        [
-          7.7854882,
-          46.9425303
-        ],
-        [
-          7.7856675,
-          46.942458
-        ],
-        [
-          7.7856748,
-          46.9424666
-        ],
-        [
-          7.7857844,
-          46.9424224
-        ],
-        [
-          7.7858051,
-          46.9424466
-        ],
-        [
-          7.7859222,
-          46.9423994
-        ],
-        [
-          7.7861207,
-          46.9426308
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/935533767",
   "properties": {
     "building": "marquee",
@@ -899,27 +498,6 @@
     "coordinates": [
       7.7921838,
       47.214638
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2459015196",
-  "properties": {
-    "addr:housenumber": "100",
-    "addr:street": "Obere Bönigstrasse",
-    "amenity": "restaurant",
-    "healthcare:speciality": "vaccination",
-    "name": "Jungfrau Park",
-    "vaccination": "covid19",
-    "website": "https://www.gef.be.ch/gef/de/index/Corona/Corona/corona_impfung_bern.html",
-    "id": "node/2459015196"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.8782383,
-      46.6818045
     ]
   }
 },
@@ -1072,24 +650,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8324056411",
-  "properties": {
-    "amenity": "clinic",
-    "healthcare:speciality": "vaccination",
-    "vaccination": "covid19",
-    "website": "https://www.gef.be.ch/gef/de/index/Corona/Corona/corona_impfung_bern.html",
-    "id": "node/8324056411"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.4587517,
-      46.9654508
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8339138325",
   "properties": {
     "healthcare": "centre",
@@ -1103,25 +663,6 @@
     "coordinates": [
       8.0590561,
       47.3896113
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8364542922",
-  "properties": {
-    "amenity": "doctors",
-    "healthcare": "doctor",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum Alte Mühle",
-    "opening_hours:covid19": "open",
-    "id": "node/8364542922"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.7921505,
-      47.2145985
     ]
   }
 },
@@ -1383,6 +924,80 @@
     "coordinates": [
       7.5994827,
       47.5626492
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9310121050",
+  "properties": {
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impf Pop-Up Panoramacenter Thun",
+    "vaccination": "covid19",
+    "website": "https://covid-kennzahlen.apps.be.ch/#/de/search",
+    "id": "node/9310121050"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6046575,
+      46.7438657
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9310124397",
+  "properties": {
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impf Pop-Up Westside",
+    "vaccination": "covid19",
+    "website": "https://covid-kennzahlen.apps.be.ch/#/de/search",
+    "id": "node/9310124397"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3743755,
+      46.9446416
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9310144729",
+  "properties": {
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impf Pop-Up IKEA Lyssach",
+    "vaccination": "covid19",
+    "id": "node/9310144729"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5698306,
+      47.0747035
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9310146361",
+  "properties": {
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impf Pop-Up Shoppyland Schönbühl",
+    "vaccination": "covid19",
+    "id": "node/9310146361"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4917958,
+      47.0171201
     ]
   }
 }
