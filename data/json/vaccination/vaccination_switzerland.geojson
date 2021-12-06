@@ -952,6 +952,7 @@
   "properties": {
     "healthcare": "vaccination_centre",
     "healthcare:speciality": "vaccination",
+    "level": "2",
     "name": "Impf Pop-Up Westside",
     "vaccination": "covid19",
     "website": "https://covid-kennzahlen.apps.be.ch/#/de/search",
