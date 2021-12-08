@@ -1349,6 +1349,7 @@
     "addr:street": "Schaffhauserstrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "level": "0",
     "name": "Gesundhaus Falken Apotheke",
     "opening_hours": "Mo-Sa 08:00-20:00",
     "operator": "Rotpunkt Pharma",
@@ -2093,6 +2094,7 @@
     "brand": "TopPharm",
     "dispensing": "yes",
     "name": "TopPharm Waldmann Apotheke",
+    "opening_hours": "Mo-Fr 07:30-12:15,13:30-18:30; Sa 08:00-16:00; PH closed",
     "operator": "TopPharm Genossenschaft",
     "website": "https://www.apotheke.ch/waldmann",
     "id": "node/670339702"
@@ -2100,8 +2102,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6215669,
-      47.3991853
+      8.6215296,
+      47.3991933
     ]
   }
 },

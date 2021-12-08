@@ -49,6 +49,7 @@
     "dispensing": "yes",
     "drive_through": "no",
     "email": "hofmatt.apo@ovan.ch",
+    "healthcare": "pharmacy",
     "name": "Hofmatt Apotheke",
     "source": "survey and website;local knowledge",
     "website": "http://www.hofmatt-apotheke.ch",
@@ -57,8 +58,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6523603,
-      47.0210456
+      8.6523296,
+      47.0210267
     ]
   }
 },
