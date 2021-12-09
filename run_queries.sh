@@ -357,3 +357,9 @@ echo -ne "Query Autobahnen Dispo SRZ...           "
 cat $DIR/queries/motorway_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/highway/motorway/motorway_dispo_srz.geojson
 echo -ne "\t\t - Done.\r"
 echo ""
+
+# Autostrassen Dispo SRZ
+echo -ne "Query Autostrassen Dispo SRZ...           "
+cat $DIR/queries/trunk_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/highway/trunk/trunk_dispo_srz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""

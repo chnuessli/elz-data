@@ -33,6 +33,7 @@ In der Tabelle seht ihr, welche Daten verfügbar sind und aus welchen Kantonen.
 | schools | Schulen / Schulgelände | `../schools` |`json` `csv`|  Dispo SRZ, SH, SZ, ZG, Zh, Stadt Zürich
 | kindergarten | Kindergärten | `../kindergarten` |`json` `csv`|  Dispo SRZ, SH, SZ, ZG, Zh, Stadt Zürich
 | motorway | Autobahnen | `../highway/motorway` | `json` `csv`| Dispo SRZ
+| trunk | Autostrassen | `../highway/trunk` | `json` `csv`| Dispo SRZ
 
 ## Overpass Abfragen via Overpass API
 
