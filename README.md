@@ -27,6 +27,7 @@ In der Tabelle seht ihr, welche Daten verfügbar sind und aus welchen Kantonen.
 | hospital | Spitäler | `../facilities/hospital` | `json` `csv`| Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
 | nursing_home | Alters- und Pflegeheime | `../facilities/nursing_home` | `json` `csv`| Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
 | social_facility | Sozialeinrichtungen | `../facilities/social_facilities` | `json` `csv`| Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
+| pharmacy | Apotheken | `../pharmacy` | `json` `csv`| Dispo SRZ, SH, SZ, ZG, ZH
 | vaccination | Impfzentren | `../vaccination` | `json` `csv`| Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
 | schools | Schulen / Schulgelände | `../schools` |`json` `csv`|  Dispo SRZ, SH, SZ, ZG, Zh, Stadt Zürich
 | kindergarten | Kindergärten | `../kindergarten` |`json` `csv`|  Dispo SRZ, SH, SZ, ZG, Zh, Stadt Zürich
