@@ -20,20 +20,20 @@ In der Tabelle seht ihr, welche Daten verfügbar sind und aus welchen Kantonen.
 
 | Daten | Beschreibung | Ordner | Formate | Kantone
 | --- | --- | --- | --- | ---
-| gates | Tore und Barrieren | `../access/gates` | `json` `csv`|SH, SZ, ZG, ZH
 | ambulance_station | Rettungswachen | `../ambulance_station` | `json` `csv`| Dispo SRZ
-| defis | Defibrillatoren | `../defis` | `json` `csv`| Dispo SRZ, ZH, Stadt Zürich
 | fire_station | Feuerwehrwachen| `../fire_station` | `json` `csv`| ZH
+| police_station | Polizeiwachen | `../police_station` | `json` `csv`| Dispo SRZ, ,SH, SZ, ZG, ZH, Stadt Zürich
 | helipad | Hubschrauber Landeplätze | `../helipad` | `json` `csv`| Dispo SRZ, Schweiz
 | hospital | Spitäler | `../facilities/hospital` | `json` `csv`| Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
 | nursing_home | Alters- und Pflegeheime | `../facilities/nursing_home` | `json` `csv`| Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
 | social_facility | Sozialeinrichtungen | `../facilities/social_facilities` | `json` `csv`| Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
-| police_station | Polizeiwachen | `../police_station` | `json` `csv`| Dispo SRZ, ,SH, SZ, ZG, ZH, Stadt Zürich
 | vaccination | Impfzentren | `../vaccination` | `json` `csv`| Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
 | schools | Schulen / Schulgelände | `../schools` |`json` `csv`|  Dispo SRZ, SH, SZ, ZG, Zh, Stadt Zürich
 | kindergarten | Kindergärten | `../kindergarten` |`json` `csv`|  Dispo SRZ, SH, SZ, ZG, Zh, Stadt Zürich
 | motorway | Autobahnen | `../highway/motorway` | `json` `csv`| Dispo SRZ
 | trunk | Autostrassen | `../highway/trunk` | `json` `csv`| Dispo SRZ
+| gates | Tore und Barrieren | `../access/gates` | `json` `csv`|SH, SZ, ZG, ZH
+| defibrillator | Defibrillatoren | `../defis` | `json` `csv`| Dispo SRZ, ZH, Stadt Zürich
 
 ## Overpass Abfragen via Overpass API
 
