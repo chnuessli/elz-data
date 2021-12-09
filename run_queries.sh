@@ -297,3 +297,39 @@ echo -ne "Query Schulen Stadt Zürich...           "
 cat $DIR/queries/schools_stadt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/schools/schools_stadt_zh.geojson
 echo -ne "\t\t - Done.\r"
 echo ""
+
+# Kindergarten Dispo SRZ
+echo -ne "Query Schulen Dispo SRZ...           "
+cat $DIR/queries/kindergarten_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/kindergarten/kindergarten_dispo_srz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Kindergarten Kanton Zürich
+echo -ne "Query Kindergarten Kanton Zürich...           "
+cat $DIR/queries/kindergarten_kt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/kindergarten/kindergarten_kt_zh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Kindergarten Kanton Zug
+echo -ne "Query Schulen Kanton Zürich...           "
+cat $DIR/queries/kindergarten_kt_zg.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/kindergarten/kindergarten_kt_zg.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Kindergarten Kanton Schwyz
+echo -ne "Query Schulen Kanton Schwyz...           "
+cat $DIR/queries/kindergarten_kt_sz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/kindergarten/kindergarten_kt_sz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Kindergarten Kanton Schaffhausen
+echo -ne "Query Schulen Kanton Schaffhausen...           "
+cat $DIR/queries/kindergarten_kt_sh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/kindergarten/kindergarten_kt_sh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Kindergarten Stadt Zürich
+echo -ne "Query Kindergarten Stadt Zürich...           "
+cat $DIR/queries/kindergarten_stadt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/kindergarten/kindergarten_stadt_zh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
