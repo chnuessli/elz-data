@@ -280,6 +280,24 @@ cat $DIR/queries/vaccination_kt_zg.txt | python $DIR/overpass_query.py | osmtoge
 echo -ne "\t\t - Done.\r"
 echo ""
 
+# Schulen Dispo SRZ
+echo -ne "Query Schulen Dispo SRZ...           "
+cat $DIR/queries/schools_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/schools/schools_dispo_srz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Schulen Kanton Schaffhausen
+echo -ne "Query Schulen Kanton Schaffhausen...           "
+cat $DIR/queries/schools_kt_sh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/schools/schools_kt_sh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Schulen Kanton Schwyz
+echo -ne "Query Schulen Kanton Schwyz...           "
+cat $DIR/queries/schools_kt_sz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/schools/schools_kt_sz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
 # Schulen Kanton Zürich
 echo -ne "Query Schulen Kanton Zürich...           "
 cat $DIR/queries/schools_kt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/schools/schools_kt_zh.geojson
@@ -287,7 +305,7 @@ echo -ne "\t\t - Done.\r"
 echo ""
 
 # Schulen Kanton Zug
-echo -ne "Query Schulen Kanton Zürich...           "
+echo -ne "Query Schulen Kanton Zug...           "
 cat $DIR/queries/schools_kt_zg.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/schools/schools_kt_zg.geojson
 echo -ne "\t\t - Done.\r"
 echo ""

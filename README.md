@@ -30,7 +30,7 @@ In der Tabelle seht ihr, welche Daten verfügbar sind und aus welchen Kantonen.
 | social_facility | Sozialeinrichtungen | `../facilities/social_facilities` | `json` `csv`| Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
 | police_station | Polizeiwachen | `../police_station` | `json` `csv`| Dispo SRZ, ,SH, SZ, ZG, ZH, Stadt Zürich
 | vaccination | Impfzentren | `../vaccination` | `json` `csv`| Dispo SRZ, SH, SZ, ZG, ZH, Schweiz
-| schools | Schulen / Schulgelände | `../schools` |`json` `csv`|  ZH, ZG, Stadt Zürich
+| schools | Schulen / Schulgelände | `../schools` |`json` `csv`|  Dispo SRZ, SH, SZ, ZG, Zh, Stadt Zürich
 | kindergarten | Kindergärten | `../kindergarten` |`json` `csv`|  Dispo SRZ, SH, SZ, ZG, Zh, Stadt Zürich
 
 ## Overpass Abfragen via Overpass API
