@@ -143,6 +143,25 @@ df.to_csv (r'data/csv/schools/schools_stadt_zh.csv', index = None)
 df = pd.read_json (r'data/json/schools/schools_kt_zh.geojson')
 df.to_csv (r'data/csv/schools/schools_kt_zh.csv', index = None)
 
+#Kindergarten
+df = pd.read_json (r'data/json/kindergarten/kindergarten_dispo_srz.geojson')
+df.to_csv (r'data/csv/kindergarten/kindergarten_dispo_srz.csv', index = None)
+
+df = pd.read_json (r'data/json/kindergarten/kindergarten_kt_zh.geojson')
+df.to_csv (r'data/csv/kindergarten/kindergarten_kt_zh.csv', index = None)
+
+df = pd.read_json (r'data/json/kindergarten/kindergarten_kt_sz.geojson')
+df.to_csv (r'data/csv/kindergarten/kindergarten_kt_sz.csv', index = None)
+
+df = pd.read_json (r'data/json/kindergarten/kindergarten_kt_zg.geojson')
+df.to_csv (r'data/csv/kindergarten/kindergarten_kt_zg.csv', index = None)
+
+df = pd.read_json (r'data/json/kindergarten/kindergarten_kt_sh.geojson')
+df.to_csv (r'data/csv/kindergarten/kindergarten_kt_sh.csv', index = None)
+
+df = pd.read_json (r'data/json/kindergarten/kindergarten_stadt_zh.geojson')
+df.to_csv (r'data/csv/kindergarten/kindergartens_stadt_zh.csv', index = None)
+
 #Impfzentren
 df = pd.read_json (r'data/json/vaccination/vaccination_dispo_srz.geojson')
 df.to_csv (r'data/csv/vaccination/vaccination_dispo_srz.csv', index = None)
