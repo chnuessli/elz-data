@@ -194,5 +194,9 @@ df = pd.read_json (r'data/json/vaccination/vaccination_switzerland.geojson')
 df.to_csv (r'data/csv/vaccination/vaccination_switzerland.csv', index = None)
 
 #Autobahnen
-df = pd.read_json (r'data/json/highway/motorway_switzerland.geojson')
-df.to_csv (r'data/csv/highway/motorway_switzerland.csv', index = None)
+df = pd.read_json (r'data/json/highway/motorway/motorway_dispo_srz.geojson')
+df.to_csv (r'data/csv/highway/motorway/motorway_dispo_srz.csv', index = None)
+
+#Autostrassen
+df = pd.read_json (r'data/json/highway/trunk/trunk_dispo_srz.geojson')
+df.to_csv (r'data/csv/highway/trunk/trunk_dispo_srz.csv', index = None)
