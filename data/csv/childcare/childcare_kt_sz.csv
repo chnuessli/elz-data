@@ -1,0 +1,3 @@
+type,features
+FeatureCollection,"{'type': 'Feature', 'id': 'way/296093153', 'properties': {'amenity': 'childcare', 'building': 'yes', 'id': 'way/296093153'}, 'geometry': {'type': 'Polygon', 'coordinates': [[[8.7486291, 47.2062887], [8.7486921, 47.2061074], [8.7488126, 47.2061213], [8.7487551, 47.2063127], [8.7486291, 47.2062887]]]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/9098369088', 'properties': {'addr:city': 'Buttikon', 'addr:housenumber': '15', 'addr:postcode': '8863', 'addr:street': 'Kantonsstrasse', 'amenity': 'childcare', 'name': 'MuKidi Familienzentrum am Park', 'opening_hours': 'Mo-Fr 06:30-18:30', 'operator': 'MuKidi GmbH', 'id': 'node/9098369088'}, 'geometry': {'type': 'Point', 'coordinates': [8.9468688, 47.1755267]}}"
