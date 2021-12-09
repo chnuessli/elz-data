@@ -95,6 +95,36 @@ cat $DIR/queries/nursing_home_kt_zg.txt | python $DIR/overpass_query.py | osmtog
 echo -ne "\t\t - Done.\r"
 echo ""
 
+# Solzialeinrichtungen Dispogebiet SRZ
+echo -ne "Query Sozialeinrichtungen Dispogebiet SRZ..."
+cat $DIR/queries/social_facilities_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/facilities/social_facilities/social_facilities_dispo_srz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Soziaöleinrichtungen Kanton ZH
+echo -ne "Query Sozialeinrichtungen Kanton ZH..."
+cat $DIR/queries/social_facilities_kt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/facilities/social_facilities/social_facilities_kt_zh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Sozialeinrichtungen Kanton SH
+echo -ne "Query Sozialeinrichtungen Kanton SH..."
+cat $DIR/queries/social_facilities_kt_sh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/facilities/social_facilities/social_facilities_kt_sh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Sozialeinrichtungen Kanton SZ
+echo -ne "Query Sozieleinrichtungen Kanton SZ..."
+cat $DIR/queries/social_facilities_kt_sz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/facilities/social_facilities/social_facilities_kt_sz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Sozialeinrichtungen Kanton ZG
+echo -ne "Query Sozialeinrichtungen Kanton ZG..."
+cat $DIR/queries/social_facilities_kt_zg.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/facilities/social_facilities/social_facilities_kt_zg.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
 # Rettungswachen Dispogebiet SRZ
 echo -ne "Query Rettungswachen Dispogebiet SRZ...           "
 cat $DIR/queries/ambulancestation_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/ambulance_station/ambulancestation_dispo_srz.geojson
