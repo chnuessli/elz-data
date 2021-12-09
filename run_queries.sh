@@ -352,6 +352,42 @@ cat $DIR/queries/kindergarten_stadt_zh.txt | python $DIR/overpass_query.py | osm
 echo -ne "\t\t - Done.\r"
 echo ""
 
+# Kindertagesstätten Dispo SRZ
+echo -ne "Query Kindertagesstätten Dispo SRZ...           "
+cat $DIR/queries/childcare_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/childcare/childcare_dispo_srz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Kindertagesstätten Kanton Zürich
+echo -ne "Query Kindertagesstätten Kanton Zürich...           "
+cat $DIR/queries/childcare_kt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/childcare/childcare_kt_zh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Kindertagesstätten Kanton Zug
+echo -ne "Query Kindertagesstätten Kanton Zürich...           "
+cat $DIR/queries/childcare_kt_zg.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/childcare/childcare_kt_zg.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Kindertagesstätten Kanton Schwyz
+echo -ne "Query Kindertagesstätten Kanton Schwyz...           "
+cat $DIR/queries/childcare_kt_sz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/childcare/childcare_kt_sz.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Kindertagesstätten Kanton Schaffhausen
+echo -ne "Query Kindertagesstätten Kanton Schaffhausen...           "
+cat $DIR/queries/childcare_kt_sh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/childcare/childcare_kt_sh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Kindertagesstätten Stadt Zürich
+echo -ne "Query Kindertagesstätten Stadt Zürich...           "
+cat $DIR/queries/childcare_stadt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/childcare/childcare_stadt_zh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
 # Autobahnen Dispo SRZ
 echo -ne "Query Autobahnen Dispo SRZ...           "
 cat $DIR/queries/motorway_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/highway/motorway/motorway_dispo_srz.geojson
