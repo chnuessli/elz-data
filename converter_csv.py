@@ -192,3 +192,7 @@ df.to_csv (r'data/csv/vaccination/vaccination_kt_zh.csv', index = None)
 
 df = pd.read_json (r'data/json/vaccination/vaccination_switzerland.geojson')
 df.to_csv (r'data/csv/vaccination/vaccination_switzerland.csv', index = None)
+
+#Autobahnen
+df = pd.read_json (r'data/json/highway/motorway_switzerland.geojson')
+df.to_csv (r'data/csv/highway/motorway_switzerland.csv', index = None)
