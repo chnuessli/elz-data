@@ -1100,8 +1100,13 @@
   "type": "Feature",
   "id": "way/154343262",
   "properties": {
+    "addr:city": "Schwyz",
+    "addr:housenumber": "37",
+    "addr:postcode": "6430",
+    "addr:street": "Herrengasse",
     "amenity": "school",
     "building": "yes",
+    "name": "Schulhaus Herrengasse",
     "id": "way/154343262"
   },
   "geometry": {
@@ -5259,6 +5264,49 @@
         [
           8.5411681,
           47.0522855
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1010725499",
+  "properties": {
+    "amenity": "school",
+    "id": "way/1010725499"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6491034,
+          47.022717
+        ],
+        [
+          8.6488816,
+          47.0225434
+        ],
+        [
+          8.648953,
+          47.0225018
+        ],
+        [
+          8.64873,
+          47.0221828
+        ],
+        [
+          8.649476,
+          47.0219163
+        ],
+        [
+          8.6498286,
+          47.0224779
+        ],
+        [
+          8.6491034,
+          47.022717
         ]
       ]
     ]
