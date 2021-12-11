@@ -10909,6 +10909,7 @@
   "id": "way/131205128",
   "properties": {
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Hôpital de Marsens",
     "id": "way/131205128"
   },
@@ -50350,6 +50351,29 @@
     "coordinates": [
       6.5813639,
       46.9032284
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9326879902",
+  "properties": {
+    "addr:city": "Sursee",
+    "addr:housenumber": "16",
+    "addr:postcode": "6210",
+    "addr:street": "Spitalstrasse",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Luzerner Kantonsspital Sursee",
+    "id": "node/9326879902"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1174197,
+      47.1682642
     ]
   }
 }
