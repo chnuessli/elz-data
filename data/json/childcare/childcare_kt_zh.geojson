@@ -6731,6 +6731,25 @@
       47.4202429
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9332238366",
+  "properties": {
+    "amenity": "childcare",
+    "email": "kontakt@pin-pin.ch",
+    "name": "Pin-Pin",
+    "phone": "+41445996694",
+    "website": "https://pin-pin.ch",
+    "id": "node/9332238366"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.618138,
+      47.3980133
+    ]
+  }
 }
 ]
 }

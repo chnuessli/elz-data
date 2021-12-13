@@ -2228,7 +2228,9 @@
   "properties": {
     "amenity": "pharmacy",
     "dispensing": "yes",
+    "healthcare": "pharmacy",
     "name": "Marktgass Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00; PH closed",
     "wheelchair": "yes",
     "id": "node/698785782"
   },
@@ -2284,6 +2286,7 @@
     "healthcare": "pharmacy",
     "name": "Medbase Apotheke Dübendorf",
     "old_name": "CityApotheke",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00; PH closed",
     "operator": "Medbase Apotheken",
     "website": "https://www.topwell.ch/medbaseapothekeduebendorf/",
     "wheelchair": "yes",
@@ -2292,8 +2295,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6168197,
-      47.397425
+      8.616927,
+      47.3973629
     ]
   }
 },
