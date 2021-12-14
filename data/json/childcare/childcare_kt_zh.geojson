@@ -6750,6 +6750,54 @@
       47.3980133
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9334376698",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "1",
+    "contact:phone": "+41 44 413 75 29",
+    "contact:postcode": "8046",
+    "contact:street": "Riedenhaldenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/huerstholz/betreuung/standorte.html#huerstholz",
+    "isced:level": "0",
+    "name": "Kinderhort Hürstholz 3",
+    "operator:type": "public",
+    "id": "node/9334376698"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5183874,
+      47.4144763
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9334376699",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "491",
+    "contact:phone": "+41 44 413 23 13",
+    "contact:postcode": "8046",
+    "contact:street": "Seebacherstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/huerstholz/betreuung/standorte.html#huerstholz",
+    "isced:level": "0",
+    "name": "Kinderhort Hürstholz",
+    "operator:type": "public",
+    "id": "node/9334376699"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5215121,
+      47.4147858
+    ]
+  }
 }
 ]
 }

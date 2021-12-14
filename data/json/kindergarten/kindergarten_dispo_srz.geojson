@@ -16692,51 +16692,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/284092328",
-  "properties": {
-    "addr:housenumber": "400",
-    "addr:street": "Binzmühlestrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "building:levels": "1",
-    "name": "Kindergarten Hürstholz",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "way/284092328"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5208548,
-          47.4148096
-        ],
-        [
-          8.5207377,
-          47.4146947
-        ],
-        [
-          8.5208599,
-          47.4146378
-        ],
-        [
-          8.520957,
-          47.4145925
-        ],
-        [
-          8.521074,
-          47.4147074
-        ],
-        [
-          8.5208548,
-          47.4148096
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/289329278",
   "properties": {
     "addr:city": "Hinwil",
@@ -19522,6 +19477,75 @@
         [
           8.6915926,
           47.4851521
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/411069340",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "325",
+    "addr:postcode": "8046",
+    "addr:street": "Binzmühlestrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "description": "GBZ-Siedlung Holzmatt II",
+    "name": "Kindergarten Holzmatt",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Hürstholz",
+    "owner": "Genossenschaft Baufreunde (GBZ)",
+    "start_date": "1950",
+    "id": "way/411069340"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5254278,
+          47.4136804
+        ],
+        [
+          8.5253634,
+          47.4136739
+        ],
+        [
+          8.5253717,
+          47.4136375
+        ],
+        [
+          8.525344,
+          47.4136299
+        ],
+        [
+          8.5253669,
+          47.4135281
+        ],
+        [
+          8.5253976,
+          47.4135278
+        ],
+        [
+          8.5254627,
+          47.4135347
+        ],
+        [
+          8.5254897,
+          47.4135411
+        ],
+        [
+          8.5254651,
+          47.4136429
+        ],
+        [
+          8.5254357,
+          47.4136438
+        ],
+        [
+          8.5254278,
+          47.4136804
         ]
       ]
     ]
@@ -29756,64 +29780,26 @@
 },
 {
   "type": "Feature",
-  "id": "node/5170831374",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "325",
-    "addr:postcode": "8046",
-    "addr:street": "Binzmühlestrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Holzmatt",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/5170831374"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5254143,
-      47.4135723
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5170831375",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "130",
-    "addr:postcode": "8050",
-    "addr:street": "Neunbrunnenstrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Neunbrunnen Beta",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/5170831375"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5330325,
-      47.4165345
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5170831376",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "150",
-    "addr:postcode": "8050",
-    "addr:street": "Neunbrunnenstrasse",
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "150",
+    "contact:phone": "+41 44 413 77 24",
+    "contact:postcode": "8050",
+    "contact:street": "Neunbrunnenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/huerstholz/ueberuns/standorte/kindergaerten.html#kindergarten_neunbrunnenalpha",
+    "isced:level": "0",
     "name": "Kindergarten Neunbrunnen Alpha",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Hürstholz",
+    "operator:type": "public",
     "id": "node/5170831376"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5319136,
-      47.4163882
+      8.531868,
+      47.4163701
     ]
   }
 },
@@ -35691,6 +35677,55 @@
     "coordinates": [
       8.5037465,
       47.4193399
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9334376700",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "491",
+    "contact:phone": "+41 44 413 23 04",
+    "contact:postcode": "8046",
+    "contact:street": "Seebacherstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/huerstholz/ueberuns/standorte/kindergaerten.html#kindergarten_huerstholz",
+    "isced:level": "0",
+    "name": "Kindergarten Hürstholz",
+    "operator:type": "public",
+    "id": "node/9334376700"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5215081,
+      47.4148348
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9334527210",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "130",
+    "contact:phone": "+41 44 413 77 69",
+    "contact:postcode": "8050",
+    "contact:street": "Neunbrunnenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/huerstholz/ueberuns/standorte/kindergaerten.html#kindergarten_neunbrunnenalpha",
+    "isced:level": "0",
+    "name": "Kindergarten Neunbrunnen Beta",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Hürstholz",
+    "operator:type": "public",
+    "id": "node/9334527210"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5329518,
+      47.4164964
     ]
   }
 }

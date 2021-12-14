@@ -671,24 +671,25 @@
   "id": "node/8382900798",
   "properties": {
     "addr:city": "Zürich",
-    "addr:housenumber": "497",
+    "addr:housenumber": "491",
     "addr:postcode": "8063",
     "addr:street": "Birmensdorferstrasse",
     "alt_name": "COVID-19 Impfzentrum Triemli",
+    "amenity": "doctors",
     "healthcare": "centre",
     "healthcare:speciality": "vaccination",
     "name": "Impfzentrum Stadtspital Triemli",
     "opening_hours": "Mo-Fr 09:00-18:00",
     "phone": "+41 44 416 11 11",
     "vaccination": "covid19",
-    "website": "https://www.stadt-zuerich.ch/triemli/de/index/service/medien/auszeichnungen-news/coronaimpfungen.html",
+    "website": "https://www.stadt-zuerich.ch/triemli/de/index/service/medien/auszeichnungen-news/impfzentrum.html",
     "id": "node/8382900798"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4976486,
-      47.365833
+      8.4979852,
+      47.3673209
     ]
   }
 },
