@@ -30309,10 +30309,6 @@
   "type": "Feature",
   "id": "way/675359360",
   "properties": {
-    "addr:city": "Martigny",
-    "addr:housenumber": "27",
-    "addr:postcode": "1920",
-    "addr:street": "Avenue de la Fusion",
     "amenity": "hospital",
     "healthcare": "hospital",
     "layer": "1",
@@ -46731,10 +46727,6 @@
   "type": "Feature",
   "id": "node/2528788367",
   "properties": {
-    "addr:city": "Martigny",
-    "addr:housenumber": "18",
-    "addr:postcode": "1920",
-    "addr:street": "Rue du Léman",
     "amenity": "clinic",
     "name": "Vigimed",
     "id": "node/2528788367"

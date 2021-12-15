@@ -2673,6 +2673,7 @@
   "properties": {
     "amenity": "pharmacy",
     "healthcare": "pharmacy",
+    "level": "0",
     "name": "Neuwiesen Apotheke",
     "opening_hours": "Mo-Fr 08:30-20:00; Sa 08:30-18:00",
     "opening_hours:covid19": "Mo-Fr 08:30-20:00; Sa 08:30-18:00",

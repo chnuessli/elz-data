@@ -2528,7 +2528,7 @@
     "amenity": "kindergarten",
     "building": "school",
     "isced:level": "0",
-    "name": "Althoos I + II",
+    "name": "Kindergarten Althoos I + II",
     "id": "way/42158145"
   },
   "geometry": {
@@ -2536,72 +2536,76 @@
     "coordinates": [
       [
         [
-          8.5215983,
-          47.4106287
+          8.5216025,
+          47.4106276
         ],
         [
-          8.5216689,
-          47.4105726
+          8.5216742,
+          47.4105692
         ],
         [
-          8.5217537,
-          47.4106169
+          8.5217596,
+          47.4106174
         ],
         [
-          8.521752,
-          47.4106222
+          8.5217579,
+          47.4106196
         ],
         [
-          8.5217841,
-          47.4106371
+          8.5217855,
+          47.4106359
         ],
         [
-          8.5218392,
-          47.4106526
+          8.5218428,
+          47.4106503
         ],
         [
-          8.5218717,
-          47.4106618
+          8.5218781,
+          47.4106592
         ],
         [
-          8.5218769,
-          47.4106566
+          8.5218801,
+          47.4106557
         ],
         [
-          8.5219802,
-          47.4106805
+          8.5219844,
+          47.4106813
         ],
         [
-          8.5219441,
-          47.4107527
+          8.5219486,
+          47.4107525
         ],
         [
-          8.5218415,
-          47.4107271
+          8.5218455,
+          47.410727
         ],
         [
-          8.5218114,
-          47.4107154
+          8.5218129,
+          47.4107136
         ],
         [
-          8.5217735,
-          47.4107603
+          8.521777,
+          47.4107577
         ],
         [
-          8.5216822,
-          47.4107265
+          8.5216895,
+          47.410724
         ],
         [
-          8.5217117,
-          47.4106838
+          8.5217223,
+          47.4106863
         ],
         [
-          8.5216899,
-          47.410677
+          8.5216892,
+          47.4106739
         ],
         [
-          8.5215983,
-          47.4106287
+          8.5216881,
+          47.4106755
+        ],
+        [
+          8.5216025,
+          47.4106276
         ]
       ]
     ]
@@ -2863,6 +2867,74 @@
         [
           8.5512225,
           47.3802011
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/43483846",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "60",
+    "addr:postcode": "8052",
+    "addr:street": "Sperletweg",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "isced:level": "0",
+    "name": "Kindergarten Kolbenacker I",
+    "phone": "+41 44 413 03 79",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/kolbenacker/ueberuns/standorte/kindergaerten.html",
+    "id": "way/43483846"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5511837,
+          47.4256025
+        ],
+        [
+          8.5510103,
+          47.4254289
+        ],
+        [
+          8.5509644,
+          47.4254497
+        ],
+        [
+          8.5508869,
+          47.4253722
+        ],
+        [
+          8.550882,
+          47.4253746
+        ],
+        [
+          8.550878,
+          47.4253711
+        ],
+        [
+          8.5510423,
+          47.4252956
+        ],
+        [
+          8.5510462,
+          47.4252993
+        ],
+        [
+          8.5510407,
+          47.4253023
+        ],
+        [
+          8.5512909,
+          47.4255533
+        ],
+        [
+          8.5511837,
+          47.4256025
         ]
       ]
     ]
@@ -17166,13 +17238,16 @@
   "type": "Feature",
   "id": "way/483529420",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "11",
-    "addr:postcode": "8052",
-    "addr:street": "Kolbenacker",
     "amenity": "kindergarten",
-    "name": "Kindergarten Frohbühl I + II",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
+    "contact:city": "Zürich",
+    "contact:housenumber": "11",
+    "contact:phone": "+41 44 413 77 72",
+    "contact:postcode": "8052",
+    "contact:street": "Kolbenacker",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kolbenacker/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Frohbühl",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Kolbenacker",
+    "operator:type": "public",
     "id": "way/483529420"
   },
   "geometry": {
@@ -17180,40 +17255,68 @@
     "coordinates": [
       [
         [
-          8.5487688,
-          47.4267552
+          8.5487848,
+          47.4267541
         ],
         [
-          8.548783,
+          8.5487991,
           47.4268853
         ],
         [
-          8.548418,
-          47.426907
+          8.5484223,
+          47.4269054
         ],
         [
-          8.5483902,
-          47.4267075
+          8.5483984,
+          47.4266995
         ],
         [
-          8.5483996,
-          47.4266302
+          8.5483989,
+          47.4266663
         ],
         [
-          8.5484376,
-          47.4265596
+          8.5484058,
+          47.4266333
         ],
         [
-          8.5484833,
-          47.4265548
+          8.5484172,
+          47.4266
         ],
         [
-          8.548833,
-          47.4266685
+          8.548434,
+          47.4265692
         ],
         [
-          8.5487688,
-          47.4267552
+          8.5484399,
+          47.4265618
+        ],
+        [
+          8.5484479,
+          47.4265571
+        ],
+        [
+          8.5484538,
+          47.4265554
+        ],
+        [
+          8.5484739,
+          47.4265535
+        ],
+        [
+          8.5484842,
+          47.4265531
+        ],
+        [
+          8.5488075,
+          47.4266529
+        ],
+        [
+          8.5488432,
+          47.4266656
+        ],
+        [
+          8.5487848,
+          47.4267541
         ]
       ]
     ]
@@ -22251,19 +22354,24 @@
   "type": "Feature",
   "id": "node/373513145",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "5",
-    "addr:street": "Margrit-Rainer-Strasse",
     "amenity": "kindergarten",
-    "name": "Kindergarten im Birch",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
+    "contact:city": "Zürich",
+    "contact:housenumber": "5",
+    "contact:phone": "+41 44 413 07 06",
+    "contact:postcode": "8050",
+    "contact:street": "Margrit-Rainer-Strasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/imbirch/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
+    "name": "Kindergarten im Birch 1-3",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Im Birch",
+    "operator:type": "public",
     "id": "node/373513145"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5401372,
-      47.4156436
+      8.5400466,
+      47.4156115
     ]
   }
 },
@@ -26125,41 +26233,23 @@
   "type": "Feature",
   "id": "node/5170831524",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "15",
-    "addr:postcode": "8052",
-    "addr:street": "Eichrainstrasse",
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "15",
+    "contact:phone": "+41 44 413 76 08",
+    "contact:postcode": "8052",
+    "contact:street": "Eichrainstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kolbenacker/ueberuns/standorte/kindergaerten.html#kindergarten_eichrain",
     "name": "Kindergarten Eichrain",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Kolbenacker",
+    "operator:type": "public",
     "id": "node/5170831524"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5468028,
-      47.4300394
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5170831525",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "60",
-    "addr:postcode": "8052",
-    "addr:street": "Sperletweg",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Kolbenacker I",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/5170831525"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5511144,
-      47.4255049
+      8.5467206,
+      47.4300806
     ]
   }
 },
@@ -26188,20 +26278,23 @@
   "type": "Feature",
   "id": "node/5170831527",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "556",
-    "addr:postcode": "8052",
-    "addr:street": "Schaffhauserstrasse",
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "556",
+    "contact:phone": "+41 44 413 78 74",
+    "contact:postcode": "8052",
+    "contact:street": "Schaffhauserstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kolbenacker/ueberuns/standorte/kindergaerten.html",
     "name": "Kindergarten Ettenfeld",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Kolbenacker",
+    "operator:type": "public",
     "id": "node/5170831527"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.553702,
-      47.4250398
+      8.5537054,
+      47.425001
     ]
   }
 },
@@ -27379,23 +27472,6 @@
     "coordinates": [
       8.5150881,
       47.4239473
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6624404908",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Kolbenacker F",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/6624404908"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5515644,
-      47.4259048
     ]
   }
 },
@@ -31223,8 +31299,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5043443,
-      47.4231651
+      8.5043723,
+      47.4232002
     ]
   }
 },

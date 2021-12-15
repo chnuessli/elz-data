@@ -7264,6 +7264,102 @@
       47.4147858
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9336967490",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "5",
+    "contact:phone": "+41 44 413 07 37",
+    "contact:postcode": "8050",
+    "contact:street": "Margrit-Rainer-Strasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/imbirch/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
+    "name": "Kinderhor im Birch 1-8",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Im Birch",
+    "operator:type": "public",
+    "id": "node/9336967490"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5400409,
+      47.4155019
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9337674917",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "13",
+    "contact:phone": "+41 44 413 76 60",
+    "contact:postcode": "8052",
+    "contact:street": "Eichrainstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/kolbenacker/betreuung/standorte.html",
+    "name": "Kinderhort Eichrain 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Kolbenacker",
+    "operator:type": "public",
+    "id": "node/9337674917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.546335,
+      47.4300061
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9337792616",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "556",
+    "contact:phone": "+41 44 413 78 85",
+    "contact:postcode": "8052",
+    "contact:street": "Schaffhauserstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kolbenacker/betreuung/standorte.html",
+    "name": "Kinderhort Ettenfeld 1",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Kolbenacker",
+    "operator:type": "public",
+    "id": "node/9337792616"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5536516,
+      47.4249204
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9338009746",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "70",
+    "contact:phone": "+41 44 413 03 82",
+    "contact:postcode": "8052",
+    "contact:street": "Sperletweg",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/kolbenacker/betreuung/standorte.html#kolbenacker_f",
+    "isced:level": "0",
+    "name": "Kinderhort Kolbenacker C",
+    "id": "node/9338009746"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5509503,
+      47.4254041
+    ]
+  }
 }
 ]
 }
