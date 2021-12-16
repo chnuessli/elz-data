@@ -2596,6 +2596,72 @@
 },
 {
   "type": "Feature",
+  "id": "way/41953618",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "236",
+    "addr:postcode": "8046",
+    "addr:street": "Riedenhaldenstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "name": "Kindergarten Riedenhalden 1+2",
+    "id": "way/41953618"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5106848,
+          47.4194335
+        ],
+        [
+          8.5107343,
+          47.4193991
+        ],
+        [
+          8.5106452,
+          47.419325
+        ],
+        [
+          8.5107226,
+          47.419282
+        ],
+        [
+          8.5108184,
+          47.4193617
+        ],
+        [
+          8.5108116,
+          47.4193659
+        ],
+        [
+          8.5110103,
+          47.4194951
+        ],
+        [
+          8.5109402,
+          47.419544
+        ],
+        [
+          8.5108183,
+          47.4194634
+        ],
+        [
+          8.5107718,
+          47.4194905
+        ],
+        [
+          8.5106848,
+          47.4194335
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/42158145",
   "properties": {
     "addr:city": "Zürich",
@@ -2900,6 +2966,48 @@
         [
           8.5319482,
           47.4518188
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/42687515",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "21",
+    "addr:postcode": "8050",
+    "addr:street": "Maienstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "isced:level": "0",
+    "name": "Kindergarten Kügeliloo",
+    "id": "way/42687515"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5293482,
+          47.4105947
+        ],
+        [
+          8.5293172,
+          47.4105168
+        ],
+        [
+          8.5295641,
+          47.4104718
+        ],
+        [
+          8.5295939,
+          47.4105494
+        ],
+        [
+          8.5293482,
+          47.4105947
         ]
       ]
     ]
@@ -25879,20 +25987,22 @@
   "type": "Feature",
   "id": "node/538367534",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "6",
-    "addr:postcode": "8057",
-    "addr:street": "Nordheimstrasse",
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "6",
+    "contact:phone": "+41 44 413 74 21",
+    "contact:postcode": "8050",
+    "contact:street": "Nordheimstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kuegeliloo/ueberuns/standorte/kindergaerten.html#nordheim",
     "name": "Kindergarten Nordheim",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Kügeliloo",
+    "operator:type": "public",
     "id": "node/538367534"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5327779,
+      8.5327224,
       47.4044723
     ]
   }
@@ -26828,27 +26938,6 @@
     "coordinates": [
       8.4832253,
       47.3853557
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1617870584",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "112",
-    "addr:postcode": "8050",
-    "addr:street": "Regensbergstrasse",
-    "amenity": "kindergarten",
-    "name": "Mittaghort Mittagstreff Liguster",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/1617870584"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5458093,
-      47.4070345
     ]
   }
 },
@@ -29763,55 +29852,18 @@
 },
 {
   "type": "Feature",
-  "id": "node/5170831171",
-  "properties": {
-    "addr:housenumber": "236",
-    "addr:street": "Riedenhaldenstrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Riedenhalden I + II",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/5170831171"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5107778,
-      47.4193957
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5170831322",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "10",
-    "addr:postcode": "8050",
-    "addr:street": "Regina-Kägi-Hof",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Regina-Kägi-Hof II",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/5170831322"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5323641,
-      47.4122668
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5170831323",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "11",
-    "addr:postcode": "8050",
-    "addr:street": "Regina-Kägi-Hof",
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "11",
+    "contact:phone": "+41 44 413 75 37",
+    "contact:postcode": "8050",
+    "contact:street": "Regina-Kägi-Hof",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kuegeliloo/ueberuns/standorte/kindergaerten.html#kindergarten_regina-kaegi-hofi",
     "name": "Kindergarten Regina-Kägi-Hof I",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Kügeliloo",
+    "operator:type": "public",
     "id": "node/5170831323"
   },
   "geometry": {
@@ -29826,63 +29878,23 @@
   "type": "Feature",
   "id": "node/5170831327",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "46",
-    "addr:postcode": "8057",
-    "addr:street": "Künzlistrasse",
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "46",
+    "contact:phone": "+41 44 413 74 32",
+    "contact:postcode": "8050",
+    "contact:street": "Künzlistrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kuegeliloo/ueberuns/standorte/kindergaerten.html#kuenzli",
     "name": "Kindergarten Künzli",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Kügeliloo",
+    "operator:type": "public",
     "id": "node/5170831327"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.532206,
-      47.407491
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5170831328",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "9",
-    "addr:postcode": "8050",
-    "addr:street": "Maienstrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Holunderhof I + II",
-    "note": "Zur Zeit verlegt aufgrund Abbruch der Siedlung Holunderhof",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/5170831328"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5283061,
-      47.4108753
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5170831329",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "21",
-    "addr:postcode": "8050",
-    "addr:street": "Maienstrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Kügeliloo",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/5170831329"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.529445,
-      47.4105347
+      8.5321954,
+      47.4074955
     ]
   }
 },
@@ -29989,20 +30001,24 @@
   "type": "Feature",
   "id": "node/5170831526",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "44",
-    "addr:postcode": "8052",
-    "addr:street": "Stiglenstrasse",
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "40",
+    "contact:phone": "+41 44 413 76 04",
+    "contact:postcode": "8052",
+    "contact:street": "Stiglenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kolbenacker/ueberuns/standorte/kindergaerten.html#kindergarten_stiglen",
+    "isced:level": "0",
     "name": "Kindergarten Stiglen",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Kolbenacker",
+    "operator:type": "public",
     "id": "node/5170831526"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5498731,
-      47.4278284
+      8.5498586,
+      47.4278612
     ]
   }
 },
@@ -31363,8 +31379,16 @@
   "id": "node/6624405843",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "195",
+    "contact:phone": "+41 44 413 77 09",
+    "contact:postcode": "8050",
+    "contact:street": "Regensbergstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kuegeliloo/ueberuns/standorte/kindergaerten.html#kindergarten_holunderhofi",
+    "isced:level": "0",
     "name": "Kindergarten Holunderhof I + II",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Kügeliloo",
+    "operator:type": "public",
     "id": "node/6624405843"
   },
   "geometry": {
@@ -31392,55 +31416,6 @@
     "coordinates": [
       8.5335045,
       47.4113456
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6624405845",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Morgentisch, Mittag-/Abendhort Maienstrasse",
-    "id": "node/6624405845"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5289835,
-      47.4102547
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6624457791",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/AbendhortFrohheim",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/6624457791"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5124813,
-      47.4162485
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6624457792",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Morgentisch, Mittag-/Abendhort In Böden 1 + 2",
-    "id": "node/6624457792"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5098962,
-      47.4183102
     ]
   }
 },
@@ -35802,6 +35777,53 @@
     "coordinates": [
       8.5329518,
       47.4164964
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9340111546",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "10",
+    "contact:phone": "+41 44 413 75 22",
+    "contact:postcode": "8050",
+    "contact:street": "Regina-Kägi-Hof",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kuegeliloo/ueberuns/standorte/kindergaerten.html#kindergarten_regina-kaegi-hofi",
+    "name": "Kindergarten Regina-Kägi-Hof ll",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Kügeliloo",
+    "operator:type": "public",
+    "id": "node/9340111546"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5323665,
+      47.4122604
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9340879620",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "208",
+    "contact:phone": "+41 44 300 68 54",
+    "contact:postcode": "8046",
+    "contact:street": "Riedenhaldenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/riedenhalden/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
+    "name": "Kindergarten Riedenhalden 3",
+    "id": "node/9340879620"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5123293,
+      47.418796
     ]
   }
 }

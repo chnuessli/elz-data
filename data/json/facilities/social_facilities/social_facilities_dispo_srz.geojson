@@ -44749,6 +44749,29 @@
       47.7153734
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9340787544",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "2",
+    "addr:postcode": "8050",
+    "addr:street": "Elias-Canetti-Strasse",
+    "amenity": "social_facility",
+    "name": "Stiftung Auffangeinrichtung BVG",
+    "phone": "+41 41 799 75 75",
+    "social_facility": "outreach",
+    "website": "https://web.aeis.ch/DE/static_pages/1037/Kontakt",
+    "id": "node/9340787544"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5415926,
+      47.4122362
+    ]
+  }
 }
 ]
 }
