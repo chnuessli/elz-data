@@ -7548,6 +7548,30 @@
       47.4165169
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9345974842",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "203",
+    "contact:phone": "+41 44 413 13 65",
+    "contact:postcode": "8048",
+    "contact:street": "Rautistrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/buchlern/betreuung/standorte.html",
+    "isced:level": "0",
+    "name": "Kinderhort Buchlern 2",
+    "operator:type": "public",
+    "id": "node/9345974842"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4787039,
+      47.3837058
+    ]
+  }
 }
 ]
 }

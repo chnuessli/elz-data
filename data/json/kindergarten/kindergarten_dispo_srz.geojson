@@ -17301,12 +17301,16 @@
   "type": "Feature",
   "id": "way/310686386",
   "properties": {
-    "addr:housenumber": "118",
-    "addr:postcode": "8048",
-    "addr:street": "Luggwegstrasse",
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "118",
+    "contact:phone": "+41 44 413 75 62",
+    "contact:postcode": "8048",
+    "contact:street": "Luggwegstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/altstetterstrasse/ueberuns/standorte/kindergaerten.html",
     "name": "Kindergarten Luggwegstrasse",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Altstetterstrasse",
+    "operator:type": "public",
     "id": "way/310686386"
   },
   "geometry": {
@@ -17314,52 +17318,60 @@
     "coordinates": [
       [
         [
-          8.4881819,
-          47.3837873
+          8.4881633,
+          47.3837927
         ],
         [
-          8.4882461,
-          47.3837715
+          8.4881841,
+          47.3837878
         ],
         [
-          8.4883121,
-          47.3837553
+          8.4882437,
+          47.383773
         ],
         [
-          8.4883282,
-          47.3837853
+          8.4883158,
+          47.3837588
         ],
         [
-          8.4883432,
-          47.3838133
+          8.4883242,
+          47.3837778
         ],
         [
-          8.4887147,
-          47.383722
+          8.4883291,
+          47.3837872
         ],
         [
-          8.488802,
-          47.3838849
+          8.4886983,
+          47.3836974
         ],
         [
-          8.4884564,
-          47.3839698
+          8.4887813,
+          47.3838485
         ],
         [
-          8.4883243,
-          47.3840023
+          8.4888028,
+          47.3838816
         ],
         [
-          8.4883093,
-          47.3839742
+          8.4884919,
+          47.3839555
         ],
         [
-          8.4882853,
-          47.3839801
+          8.4884481,
+          47.3839658
         ],
         [
-          8.4881819,
-          47.3837873
+          8.488327,
+          47.3839959
+        ],
+        [
+          8.488277,
+          47.3840076
+        ],
+        [
+          8.4881633,
+          47.3837927
         ]
       ]
     ]
@@ -26929,15 +26941,23 @@
   "id": "node/1615721468",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "21",
+    "contact:phone": "+41 44 413 75 04",
+    "contact:postcode": "8048",
+    "contact:street": "Eugen-Huber-Strasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/altstetterstrasse/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
     "name": "Kindergarten Eugen-Huber-Strasse",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Altstetterstrasse",
+    "operator:type": "public",
     "id": "node/1615721468"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4832253,
-      47.3853557
+      8.4831612,
+      47.3853669
     ]
   }
 },
@@ -32114,15 +32134,23 @@
   "id": "node/6631567472",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "25",
+    "contact:phone": "+41 44 413 75 10",
+    "contact:postcode": "8047",
+    "contact:street": "Ginsterstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/altweg/ueberuns/standorte/kindergaerten.html#kindergarten_ginsterstrasse",
+    "isced:level": "0",
     "name": "Kindergarten Ginsterstrasse",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Altweg",
+    "operator:type": "public",
     "id": "node/6631567472"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4939092,
-      47.3755013
+      8.4938552,
+      47.3755053
     ]
   }
 },
@@ -32508,15 +32536,20 @@
   "id": "node/6631721953",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "30",
+    "contact:phone": "+41 44 413 13 66",
+    "contact:postcode": "8048",
+    "contact:street": "Buchlernstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/buchlern/ueberuns/standorte/kindergaerten.html",
     "name": "Kindergarten Untermoos 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
     "id": "node/6631721953"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4794952,
-      47.3840706
+      8.4795333,
+      47.3840229
     ]
   }
 },

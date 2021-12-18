@@ -33,7 +33,7 @@
     "alt_name": "COVID-19 Impfzentrum Zürich",
     "healthcare": "centre",
     "healthcare:speciality": "vaccination",
-    "name": "Referenz-Impfentrum RIZ der Universität Zürich",
+    "name": "Referenz-Impfzentrum RIZ der Universität Zürich",
     "opening_hours": "Mo-Fr 09:00-17:00",
     "operator": "Universität Zürich",
     "phone": "+41 800 33 66 55",
@@ -44,8 +44,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.545448,
-      47.3759572
+      8.5454071,
+      47.3760017
     ]
   }
 },
@@ -177,32 +177,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8383564426",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "22",
-    "addr:postcode": "8406",
-    "addr:street": "Klosterstrasse",
-    "alt_name": "COVID-19 Impfzentrum Winterthur",
-    "healthcare": "centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum Winterthur",
-    "opening_hours": "Mo-Fr 08:00-18:00",
-    "operator": "Kanton Zürich",
-    "vaccination": "covid19",
-    "website": "https://www.impfzentrumwinterthur.ch/",
-    "id": "node/8383564426"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7056667,
-      47.488121
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8477983050",
   "properties": {
     "addr:city": "Uster",
@@ -221,8 +195,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7256829,
-      47.3603902
+      8.7258161,
+      47.360487
     ]
   }
 },
@@ -252,6 +226,7 @@
     "addr:postcode": "8910",
     "addr:street": "Obstgartenstrasse",
     "alt_name": "COVID-19 Impfzentrum Affoltern",
+    "amenity": "doctors",
     "healthcare": "centre",
     "healthcare:speciality": "vaccination",
     "name": "Impfzentrum Affoltern am Albis",
@@ -264,8 +239,129 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4442157,
-      47.2746417
+      8.4441661,
+      47.2746451
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9344041842",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "75",
+    "addr:postcode": "8032",
+    "addr:street": "Steinwiesstrasse",
+    "alt_name": "COVID-19 Impfzentrum Kinderspital",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Kinderspital",
+    "operator": "Universität Zürich",
+    "vaccination": "covid19",
+    "website": "https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung/impforte.html#1270696829",
+    "id": "node/9344041842"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5580499,
+      47.3716473
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9344076993",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "6",
+    "addr:postcode": "8050",
+    "addr:street": "Therese-Giehse-Strasse",
+    "alt_name": "Boosterimpfzentrum Zürich-Oerlikon",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Zürich-Oerlikon",
+    "operator": "Universität Zürich",
+    "vaccination": "covid19",
+    "website": "https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung/impforte.html#1270696829",
+    "id": "node/9344076993"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5423837,
+      47.4123259
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9344092190",
+  "properties": {
+    "addr:city": "Meilen",
+    "addr:housenumber": "23",
+    "addr:postcode": "8706",
+    "addr:street": "Schulhausstrasse",
+    "alt_name": "Pop-up-Impfzentrum Meilen",
+    "amenity": "doctors",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Meilen",
+    "vaccination": "covid19",
+    "id": "node/9344092190"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6426991,
+      47.2691756
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9344115272",
+  "properties": {
+    "addr:city": "Bülach",
+    "addr:housenumber": "8",
+    "addr:street": "Allmendstrasse",
+    "alt_name": "Covid-19 Impfzentrum Bülach",
+    "amenity": "doctors",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Bülach",
+    "vaccination": "covid19",
+    "id": "node/9344115272"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5365229,
+      47.5155857
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9344195340",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "5",
+    "addr:postcode": "8953",
+    "addr:street": "Bahnhofstrasse",
+    "alt_name": "Pop-up-Impfzentrum Dietikon",
+    "amenity": "doctors",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Dietikon",
+    "vaccination": "covid19",
+    "id": "node/9344195340"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.404326,
+      47.4041794
     ]
   }
 }

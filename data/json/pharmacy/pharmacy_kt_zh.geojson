@@ -241,6 +241,7 @@
     "addr:street": "Poststrasse",
     "amenity": "pharmacy",
     "building": "yes",
+    "healthcare": "pharmacy",
     "name": "swidro drogerie bisang",
     "opening_hours": "Mo-Fr 08:00-12:15,14:00-18:30, Sa 08:00-15:00",
     "id": "way/257517553"

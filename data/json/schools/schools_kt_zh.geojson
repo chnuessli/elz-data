@@ -2984,15 +2984,17 @@
   "type": "Feature",
   "id": "way/23173324",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "203",
-    "addr:postcode": "8048",
-    "addr:street": "Rautistrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "203",
+    "contact:phone": "+41 44 413 13 60",
+    "contact:postcode": "8048",
+    "contact:street": "Rautistrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/buchlern/ueberuns/standorte/schulhaus.html",
     "description": "Sekundarschule",
     "name": "Schule Buchlern",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/buchlern.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Buchlern",
+    "operator:type": "public",
     "id": "way/23173324"
   },
   "geometry": {
@@ -3000,84 +3002,76 @@
     "coordinates": [
       [
         [
-          8.4778026,
-          47.384613
+          8.4778172,
+          47.3846121
         ],
         [
-          8.4776507,
-          47.3845772
+          8.4776564,
+          47.3845742
         ],
         [
-          8.4774347,
-          47.3844323
+          8.4773734,
+          47.3843809
         ],
         [
-          8.4772711,
+          8.4772819,
           47.3843229
         ],
         [
-          8.4774342,
-          47.3841842
+          8.478246,
+          47.3834973
         ],
         [
-          8.4782676,
-          47.3834763
+          8.4789998,
+          47.3834439
         ],
         [
-          8.4789725,
-          47.3834186
+          8.4790075,
+          47.3834328
         ],
         [
-          8.4790239,
-          47.3834489
+          8.4790429,
+          47.3834532
         ],
         [
-          8.4791375,
-          47.3835025
+          8.4796319,
+          47.3837306
         ],
         [
-          8.4795939,
-          47.383719
-        ],
-        [
-          8.4797963,
-          47.3838175
-        ],
-        [
-          8.4799895,
-          47.3839179
-        ],
-        [
-          8.4801069,
+          8.4801151,
           47.3839728
         ],
         [
-          8.4801666,
+          8.480178,
           47.3840146
         ],
         [
-          8.4799615,
-          47.3841745
+          8.4799697,
+          47.3841711
         ],
         [
-          8.4801753,
-          47.3844683
+          8.4801845,
+          47.3844687
         ],
         [
-          8.4784556,
-          47.3846002
+          8.478557,
+          47.3845916
         ],
         [
-          8.4781972,
-          47.3846119
+          8.478279,
+          47.3846085
         ],
         [
-          8.477994,
-          47.3846148
+          8.4781454,
+          47.3846118
         ],
         [
-          8.4778026,
-          47.384613
+          8.4780029,
+          47.3846127
+        ],
+        [
+          8.4778172,
+          47.3846121
         ]
       ]
     ]
