@@ -50367,6 +50367,48 @@
       47.1682642
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9350177868",
+  "properties": {
+    "addr:city": "Marly",
+    "addr:housenumber": "1",
+    "addr:postcode": "1723",
+    "addr:street": "Impasse du Nouveau-Marché",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Cabinet médical",
+    "id": "node/9350177868"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1487807,
+      46.7830464
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9350177869",
+  "properties": {
+    "addr:city": "Marly",
+    "addr:housenumber": "3",
+    "addr:postcode": "1723",
+    "addr:street": "Impasse du Nouveau-Marché",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Groupe médical Marly",
+    "id": "node/9350177869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1487008,
+      46.7831713
+    ]
+  }
 }
 ]
 }

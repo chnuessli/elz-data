@@ -33299,29 +33299,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4316767544",
-  "properties": {
-    "addr:city": "Oberweningen",
-    "addr:housenumber": "21",
-    "addr:postcode": "8165",
-    "addr:street": "Steinbruggstrasse",
-    "amenity": "social_facility",
-    "email": "daniel.klaey@vivendra.ch",
-    "name": "Vivendra - Werkstatt Wehntal",
-    "phone": "+41 44 875 04 00",
-    "website": "https://www.vivendra.ch/ueber-uns/kontakt/oberweningen.html",
-    "id": "node/4316767544"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4092383,
-      47.4988381
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4416307505",
   "properties": {
     "addr:city": "Forch",
