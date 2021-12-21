@@ -7572,6 +7572,22 @@
       47.3837058
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9353382213",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Yemayá",
+    "id": "node/9353382213"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.545486,
+      47.4155946
+    ]
+  }
 }
 ]
 }

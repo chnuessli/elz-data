@@ -30234,16 +30234,20 @@
   "type": "Feature",
   "id": "node/5187614165",
   "properties": {
+    "alt_name": "Kindergarten mehr als wohnen (MAW)",
     "amenity": "kindergarten",
+    "level": "0",
+    "mobile": "+41 44 413 08 13",
     "name": "Kindergarten Leutschenbach II",
     "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
+    "phone": "+41 44 413 08 12",
     "id": "node/5187614165"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5605405,
-      47.4137129
+      8.5605789,
+      47.4136644
     ]
   }
 },

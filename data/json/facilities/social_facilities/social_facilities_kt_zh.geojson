@@ -23540,6 +23540,84 @@
 },
 {
   "type": "Feature",
+  "id": "way/297730695",
+  "properties": {
+    "addr:city": "Turbenthal",
+    "addr:housenumber": "65",
+    "addr:postcode": "8488",
+    "addr:street": "Tösstalstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@amweiher.ch",
+    "name": "Betreutes Wohnen Am Weiher",
+    "operator": "Betreutes Wohnen Am Weiher AG",
+    "phone": "+41 52 394 05 55",
+    "social_facility": "assisted_living",
+    "website": "https://www.amweiher.ch/index.htm",
+    "id": "way/297730695"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8430173,
+          47.4409599
+        ],
+        [
+          8.8431031,
+          47.4408377
+        ],
+        [
+          8.8433286,
+          47.4409101
+        ],
+        [
+          8.8432444,
+          47.4410301
+        ],
+        [
+          8.8431908,
+          47.4410129
+        ],
+        [
+          8.8431846,
+          47.4410218
+        ],
+        [
+          8.8431653,
+          47.4410156
+        ],
+        [
+          8.8431709,
+          47.4410076
+        ],
+        [
+          8.8430867,
+          47.4409806
+        ],
+        [
+          8.8430804,
+          47.4409894
+        ],
+        [
+          8.8430592,
+          47.4409826
+        ],
+        [
+          8.8430644,
+          47.4409751
+        ],
+        [
+          8.8430173,
+          47.4409599
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/297752932",
   "properties": {
     "addr:city": "Turbenthal",
@@ -38073,6 +38151,28 @@
     "coordinates": [
       8.5415926,
       47.4122362
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9352910284",
+  "properties": {
+    "alt_name": "Pflege Team Hunzikerareal",
+    "amenity": "social_facility",
+    "email": "hunzikerareal@spitex-zuerich.ch",
+    "level": "0",
+    "name": "Spitex Zürich Limmat",
+    "phone": "+41 58 404 35 99",
+    "social_facility": "ambulatory_care",
+    "website": "https://www.spitex-zuerich.ch/standorte/oerlikon",
+    "id": "node/9352910284"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5609492,
+      47.4140739
     ]
   }
 }

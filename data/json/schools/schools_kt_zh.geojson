@@ -81986,6 +81986,29 @@
       47.3818503
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9352905912",
+  "properties": {
+    "amenity": "school",
+    "craft": "atelier",
+    "email": "office@heart-education.ch",
+    "level": "0",
+    "name": "Atelier Heart Association",
+    "operator": "Heart Association",
+    "phone": "+41 44 301 55 11",
+    "website": "http://www.heart-education.ch/",
+    "wheelchair": "limited",
+    "id": "node/9352905912"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5609475,
+      47.4141397
+    ]
+  }
 }
 ]
 }
