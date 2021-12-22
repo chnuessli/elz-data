@@ -2394,6 +2394,59 @@
 },
 {
   "type": "Feature",
+  "id": "way/202710018",
+  "properties": {
+    "addr:city": "Unteriberg",
+    "addr:housenumber": "5",
+    "addr:postcode": "8842",
+    "addr:street": "Hertistrasse",
+    "amenity": "school",
+    "building": "school",
+    "email": "schulleitung@unteriberg.mps-sz.ch",
+    "isced:level": "2",
+    "name": "Sekundarschule MPS-Unteriberg",
+    "phone": "+41 55 414 20 75",
+    "website": "https://www.bezirksschulenschwyz.ch/unteriberg/profil-unteriberg",
+    "id": "way/202710018"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8048611,
+          47.0574266
+        ],
+        [
+          8.8036493,
+          47.0571038
+        ],
+        [
+          8.8037123,
+          47.0569941
+        ],
+        [
+          8.8040377,
+          47.0570808
+        ],
+        [
+          8.8040571,
+          47.057047
+        ],
+        [
+          8.8049434,
+          47.0572831
+        ],
+        [
+          8.8048611,
+          47.0574266
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/202870862",
   "properties": {
     "addr:housenumber": "14",

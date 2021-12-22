@@ -996,6 +996,7 @@
     "addr:street": "Schäfliwiese",
     "amenity": "social_facility",
     "building": "apartments",
+    "building:levels": "3",
     "name": "Phönix Haus Schäfliwiese",
     "social_facility": "assisted_living",
     "id": "way/293171567"

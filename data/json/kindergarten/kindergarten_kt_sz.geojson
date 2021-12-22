@@ -835,14 +835,22 @@
   "id": "node/1277456054",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Brakadabra",
+    "contact:city": "Unteriberg",
+    "contact:housenumber": "29",
+    "contact:phone": "+41 55 414 16 91",
+    "contact:postcode": "8842",
+    "contact:street": "Waagtalstrasse",
+    "contact:website": "https://www.unteriberg.ch/schule/primarschule/ansprechspersonen/schulhauswartschulhaeuser/",
+    "isced:level": "0",
+    "name": "Kindergarten 1+2 altes Schulhaus Unteriberg",
+    "operator:type": "public",
     "id": "node/1277456054"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8023494,
-      47.0567382
+      8.8023054,
+      47.0567852
     ]
   }
 },

@@ -35865,23 +35865,24 @@
   "type": "Feature",
   "id": "node/7056876666",
   "properties": {
-    "addr:housenumber": "6",
-    "addr:postcode": "8050",
-    "addr:street": "Dialogweg",
     "amenity": "social_facility",
+    "description": "Haupteingang auf der Westseite des Gebäudes, Türe zum Treppenhaus, verborgene Türe hinter dem freistehenden Treppenaufgang.",
+    "email": "info@foodsharingschweiz.ch",
+    "level": "0",
     "name": "Hunziker-Fairteiler",
     "opening_hours": "07:00-19:00",
     "operator": "foodsharing.de",
     "social_facility": "food_bank",
     "social_facility:for": "everyone",
     "website": "https://foodsharingschweiz.ch/?page=fairteiler&sub=ft&bid=108&id=941",
+    "wheelchair": "yes",
     "id": "node/7056876666"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5601138,
-      47.4135019
+      8.5600737,
+      47.4135412
     ]
   }
 },
@@ -38173,6 +38174,29 @@
     "coordinates": [
       8.5609492,
       47.4140739
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9355936314",
+  "properties": {
+    "amenity": "social_facility",
+    "capacity": "40",
+    "email": "stiftung@zueriwerk.ch",
+    "level": "1",
+    "name": "Stiftung Züriwerk",
+    "operator": "Stiftung Züriwerk",
+    "phone": "+41 44 405 71 00",
+    "social_facility": "assisted_living",
+    "website": "https://www.zueriwerk.ch/stiftung-zueriwerk/kontakt-standorte/zuerich-hunziker-areal/",
+    "id": "node/9355936314"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5600639,
+      47.4136476
     ]
   }
 }

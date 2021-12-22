@@ -1755,6 +1755,8 @@
     "amenity": "police",
     "name": "Polizeiposten Küsnacht",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
     "phone": "+41 44 914 21 20",
     "id": "node/775341414"
   },

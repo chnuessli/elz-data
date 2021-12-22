@@ -25690,15 +25690,22 @@
   "id": "node/4310529899",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kindergarten Freilager I + II",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "contact:city": "Zürich",
+    "contact:housenumber": "57",
+    "contact:phone": "+41 44 413 74 81",
+    "contact:postcode": "8047",
+    "contact:street": "Freilagerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/untermoos/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Freilager 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Freilager",
+    "operator:type": "public",
     "id": "node/4310529899"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4888119,
-      47.3793405
+      8.4887096,
+      47.3793388
     ]
   }
 },
@@ -25706,21 +25713,21 @@
   "type": "Feature",
   "id": "node/4310529900",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "77",
-    "addr:postcode": "8047",
-    "addr:street": "Freilagerstrasse",
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "77",
+    "contact:phone": "+41 43 311 66 16",
+    "contact:postcode": "8047",
+    "contact:street": "Freilagerstrasse",
+    "contact:website": "https://www.kitafugu.ch/",
     "name": "Kita Fugu",
-    "phone": "+41 43 311 66 16",
-    "website": "https://www.kitafugu.ch/",
     "id": "node/4310529900"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4886009,
-      47.3797104
+      8.4884472,
+      47.3796452
     ]
   }
 },
@@ -26504,11 +26511,13 @@
   "properties": {
     "alt_name": "Kindergarten mehr als wohnen (MAW)",
     "amenity": "kindergarten",
+    "isced:level": "0",
     "level": "0",
     "mobile": "+41 44 413 08 13",
     "name": "Kindergarten Leutschenbach II",
     "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
     "phone": "+41 44 413 08 12",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/leutschenbach/ueberuns/standorte/kindergaerten.html",
     "id": "node/5187614165"
   },
   "geometry": {
@@ -26994,15 +27003,22 @@
   "id": "node/5333180600",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kindergarten Freilager III + IV",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "contact:city": "Zürich",
+    "contact:housenumber": "24",
+    "contact:phone": "+41 44 413 75 26",
+    "contact:postcode": "8047",
+    "contact:street": "Else-Züblin-Strasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/freilager/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Freilager 2+3+4",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Freilager",
+    "operator:type": "public",
     "id": "node/5333180600"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4892512,
-      47.3779453
+      8.4891605,
+      47.3779566
     ]
   }
 },
@@ -28315,15 +28331,22 @@
   "id": "node/6631628135",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "22",
+    "contact:phone": "+41 44 413 75 25",
+    "contact:postcode": "8048",
+    "contact:street": "Dachslernstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/dachslernstrasse/betreuung/standorte.html#betreuung_studerhaus",
     "name": "Kindergarten Studerhaus 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Dachslernstrasse",
+    "operator:type": "public",
     "id": "node/6631628135"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4805449,
-      47.3886445
+      8.480526,
+      47.3886578
     ]
   }
 },
@@ -28349,32 +28372,22 @@
   "id": "node/6631628137",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Morgentisch Dachslern 3, Mittag-/Abendhort Dachslern 1",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "contact:city": "Zürich",
+    "contact:housenumber": "300",
+    "contact:phone": "+41 44 413 75 31",
+    "contact:postcode": "8048",
+    "contact:street": "Rautistrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/dachslernstrasse/betreuung/standorte.html#dachslern_i",
+    "name": "Kinderhort Dachslern 1+3",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Dachslernstrasse",
+    "operator:type": "public",
     "id": "node/6631628137"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.475592,
-      47.3855291
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6631628138",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittaghort Dachslern 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "id": "node/6631628138"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4814652,
-      47.3858529
+      8.4755115,
+      47.3855575
     ]
   }
 },
@@ -31889,6 +31902,28 @@
     "coordinates": [
       8.5123293,
       47.418796
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9355489034",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "150",
+    "contact:phone": "+41 44 413 15 59",
+    "contact:postcode": "8048",
+    "contact:street": "Eugen-Huber-Strasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/chriesiweg/ueberuns/standorte/kindergarten.html",
+    "name": "Kindergarten Chriesiweg 1-3",
+    "id": "node/9355489034"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4732959,
+      47.3886241
     ]
   }
 }
