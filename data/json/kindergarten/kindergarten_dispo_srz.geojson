@@ -2544,6 +2544,147 @@
 },
 {
   "type": "Feature",
+  "id": "way/41215731",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "720",
+    "addr:postcode": "8048",
+    "addr:street": "Badenerstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "724",
+    "contact:phone": "+41 44 413 05 30",
+    "contact:postcode": "8048",
+    "contact:street": "Badenerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/imherrlig/ueberuns/standorte/schulhaus.html",
+    "isced:level": "0",
+    "name": "Kindergarten im Herlig 1+2",
+    "owner": "Immobilien Stadt Zürich (IMMO)",
+    "id": "way/41215731"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4824024,
+          47.3902008
+        ],
+        [
+          8.4824381,
+          47.390229
+        ],
+        [
+          8.482445,
+          47.390224
+        ],
+        [
+          8.4824507,
+          47.3902254
+        ],
+        [
+          8.4824495,
+          47.3902274
+        ],
+        [
+          8.4825649,
+          47.3902553
+        ],
+        [
+          8.4825662,
+          47.3902531
+        ],
+        [
+          8.4825708,
+          47.3902541
+        ],
+        [
+          8.4825273,
+          47.3903384
+        ],
+        [
+          8.4824026,
+          47.390309
+        ],
+        [
+          8.4824057,
+          47.3903032
+        ],
+        [
+          8.4823696,
+          47.3902948
+        ],
+        [
+          8.4823397,
+          47.3903132
+        ],
+        [
+          8.4823234,
+          47.3903232
+        ],
+        [
+          8.482321,
+          47.3903214
+        ],
+        [
+          8.4822792,
+          47.3902881
+        ],
+        [
+          8.482249,
+          47.3902648
+        ],
+        [
+          8.4822965,
+          47.3902367
+        ],
+        [
+          8.4822894,
+          47.3902114
+        ],
+        [
+          8.4822801,
+          47.3902126
+        ],
+        [
+          8.482255,
+          47.3901241
+        ],
+        [
+          8.4822607,
+          47.3901233
+        ],
+        [
+          8.4822612,
+          47.3901254
+        ],
+        [
+          8.48238,
+          47.3901103
+        ],
+        [
+          8.4823796,
+          47.3901083
+        ],
+        [
+          8.4823854,
+          47.3901077
+        ],
+        [
+          8.4824104,
+          47.390196
+        ],
+        [
+          8.4824024,
+          47.3902008
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/41949795",
   "properties": {
     "addr:city": "Zürich",
@@ -10048,6 +10189,478 @@
         [
           8.5914954,
           47.4443364
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/158712553",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "30",
+    "addr:postcode": "8064",
+    "addr:street": "Grünauring",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "2",
+    "isced:level": "0",
+    "name": "Kindergarten Grünau 1 + 2",
+    "owner": "Immobilien Stadt Zürich (IMMO)",
+    "phone": "+41 44 413 05 63",
+    "roof:shape": "flat",
+    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/gruenau/ueberuns/standorte/kindergaerten.html",
+    "id": "way/158712553"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4882507,
+          47.3965484
+        ],
+        [
+          8.4883058,
+          47.3965338
+        ],
+        [
+          8.488348,
+          47.3965226
+        ],
+        [
+          8.4883358,
+          47.396501
+        ],
+        [
+          8.4883322,
+          47.3964947
+        ],
+        [
+          8.4883322,
+          47.3964933
+        ],
+        [
+          8.4883324,
+          47.396492
+        ],
+        [
+          8.4883326,
+          47.3964907
+        ],
+        [
+          8.4883329,
+          47.3964894
+        ],
+        [
+          8.4883334,
+          47.3964881
+        ],
+        [
+          8.4883338,
+          47.3964869
+        ],
+        [
+          8.4883344,
+          47.3964857
+        ],
+        [
+          8.4883351,
+          47.3964845
+        ],
+        [
+          8.4883358,
+          47.3964834
+        ],
+        [
+          8.4883366,
+          47.3964824
+        ],
+        [
+          8.4883375,
+          47.3964814
+        ],
+        [
+          8.4883385,
+          47.3964804
+        ],
+        [
+          8.4883395,
+          47.3964796
+        ],
+        [
+          8.4883406,
+          47.3964788
+        ],
+        [
+          8.4883417,
+          47.3964781
+        ],
+        [
+          8.4883428,
+          47.3964774
+        ],
+        [
+          8.4883441,
+          47.3964768
+        ],
+        [
+          8.4883453,
+          47.3964764
+        ],
+        [
+          8.4883466,
+          47.396476
+        ],
+        [
+          8.4883479,
+          47.3964757
+        ],
+        [
+          8.4883492,
+          47.3964754
+        ],
+        [
+          8.4883505,
+          47.3964753
+        ],
+        [
+          8.4883519,
+          47.3964753
+        ],
+        [
+          8.4883532,
+          47.3964753
+        ],
+        [
+          8.4883545,
+          47.3964755
+        ],
+        [
+          8.4883558,
+          47.3964757
+        ],
+        [
+          8.4883571,
+          47.396476
+        ],
+        [
+          8.4883584,
+          47.3964764
+        ],
+        [
+          8.4883596,
+          47.3964769
+        ],
+        [
+          8.4883608,
+          47.3964775
+        ],
+        [
+          8.488362,
+          47.3964782
+        ],
+        [
+          8.4883631,
+          47.3964789
+        ],
+        [
+          8.4883642,
+          47.3964797
+        ],
+        [
+          8.4883652,
+          47.3964806
+        ],
+        [
+          8.4883661,
+          47.3964815
+        ],
+        [
+          8.488367,
+          47.3964826
+        ],
+        [
+          8.4883678,
+          47.3964836
+        ],
+        [
+          8.4883737,
+          47.396494
+        ],
+        [
+          8.4883769,
+          47.3964997
+        ],
+        [
+          8.4883631,
+          47.3965209
+        ],
+        [
+          8.4883648,
+          47.3965275
+        ],
+        [
+          8.4883661,
+          47.3965306
+        ],
+        [
+          8.4883713,
+          47.3965326
+        ],
+        [
+          8.4883785,
+          47.3965326
+        ],
+        [
+          8.4884964,
+          47.3965005
+        ],
+        [
+          8.4884996,
+          47.3964969
+        ],
+        [
+          8.4884976,
+          47.3964939
+        ],
+        [
+          8.488493,
+          47.3964865
+        ],
+        [
+          8.4884621,
+          47.3964772
+        ],
+        [
+          8.4884591,
+          47.3964718
+        ],
+        [
+          8.4884538,
+          47.3964626
+        ],
+        [
+          8.4884535,
+          47.3964618
+        ],
+        [
+          8.4884533,
+          47.396461
+        ],
+        [
+          8.4884531,
+          47.3964601
+        ],
+        [
+          8.488453,
+          47.3964593
+        ],
+        [
+          8.488453,
+          47.3964584
+        ],
+        [
+          8.488453,
+          47.3964576
+        ],
+        [
+          8.488453,
+          47.3964567
+        ],
+        [
+          8.4884531,
+          47.3964559
+        ],
+        [
+          8.4884533,
+          47.396455
+        ],
+        [
+          8.4884535,
+          47.3964542
+        ],
+        [
+          8.4884538,
+          47.3964534
+        ],
+        [
+          8.4884541,
+          47.3964526
+        ],
+        [
+          8.4884545,
+          47.3964519
+        ],
+        [
+          8.4884549,
+          47.3964511
+        ],
+        [
+          8.4884554,
+          47.3964504
+        ],
+        [
+          8.4884559,
+          47.3964498
+        ],
+        [
+          8.4884565,
+          47.3964491
+        ],
+        [
+          8.4884571,
+          47.3964485
+        ],
+        [
+          8.4884577,
+          47.396448
+        ],
+        [
+          8.4884584,
+          47.3964475
+        ],
+        [
+          8.4884591,
+          47.396447
+        ],
+        [
+          8.4884599,
+          47.3964466
+        ],
+        [
+          8.4884606,
+          47.3964462
+        ],
+        [
+          8.4884614,
+          47.3964459
+        ],
+        [
+          8.4884622,
+          47.3964456
+        ],
+        [
+          8.4884631,
+          47.3964454
+        ],
+        [
+          8.4884639,
+          47.3964453
+        ],
+        [
+          8.4884648,
+          47.3964452
+        ],
+        [
+          8.4884656,
+          47.3964452
+        ],
+        [
+          8.4884671,
+          47.3964448
+        ],
+        [
+          8.4884685,
+          47.3964445
+        ],
+        [
+          8.48847,
+          47.3964442
+        ],
+        [
+          8.4884715,
+          47.3964441
+        ],
+        [
+          8.488473,
+          47.3964441
+        ],
+        [
+          8.4884745,
+          47.3964442
+        ],
+        [
+          8.488476,
+          47.3964444
+        ],
+        [
+          8.4884775,
+          47.3964447
+        ],
+        [
+          8.4884789,
+          47.396445
+        ],
+        [
+          8.4884804,
+          47.3964455
+        ],
+        [
+          8.4884818,
+          47.3964461
+        ],
+        [
+          8.4884831,
+          47.3964467
+        ],
+        [
+          8.4884844,
+          47.3964475
+        ],
+        [
+          8.4884857,
+          47.3964483
+        ],
+        [
+          8.4884869,
+          47.3964492
+        ],
+        [
+          8.488488,
+          47.3964502
+        ],
+        [
+          8.4884891,
+          47.3964512
+        ],
+        [
+          8.4884901,
+          47.3964524
+        ],
+        [
+          8.488491,
+          47.3964535
+        ],
+        [
+          8.4885068,
+          47.3964813
+        ],
+        [
+          8.4886136,
+          47.3964535
+        ],
+        [
+          8.4886457,
+          47.3965097
+        ],
+        [
+          8.488394,
+          47.3965749
+        ],
+        [
+          8.4883358,
+          47.39659
+        ],
+        [
+          8.4882835,
+          47.3966036
+        ],
+        [
+          8.4882507,
+          47.3965484
         ]
       ]
     ]
@@ -30632,23 +31245,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5327481272",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Im Herrlig 1 +2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "id": "node/5327481272"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4823846,
-      47.3902555
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5328590180",
   "properties": {
     "addr:city": "Wettswil am Albis",
@@ -32287,15 +32883,22 @@
   "id": "node/6631636622",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "33",
+    "contact:phone": "+41 44 413 75 77",
+    "contact:postcode": "8048",
+    "contact:street": "Hermetschlostrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/imherrlig/ueberuns/standorte/kindergaerten.html",
     "name": "Kindergarten Im Herrlig 3",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Im Herlig",
+    "operator:type": "public",
     "id": "node/6631636622"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4790767,
-      47.3920912
+      8.4790085,
+      47.3921062
     ]
   }
 },
@@ -32304,8 +32907,15 @@
   "id": "node/6631636623",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Im Herrlig 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "contact:city": "Zürich",
+    "contact:housenumber": "14",
+    "contact:phone": "+41 44 413 75 14",
+    "contact:postcode": "8048",
+    "contact:street": "Micafilstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/imherrlig/betreuung/standorte.html",
+    "name": "Im Herrlig 2 Mittag-/Abendhort",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Im Herlig",
+    "operator:type": "public",
     "id": "node/6631636623"
   },
   "geometry": {
@@ -32318,35 +32928,25 @@
 },
 {
   "type": "Feature",
-  "id": "node/6631642691",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Grünau 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "id": "node/6631642691"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4882063,
-      47.3965998
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6631642692",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "31",
+    "contact:phone": "+41 44 413 74 87",
+    "contact:postcode": "8064",
+    "contact:street": "Grünauring",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/gruenau/ueberuns/standorte/kindergaerten.html",
     "name": "Kindergarten Grünau 3 + 4",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Grünau",
+    "operator:type": "public",
     "id": "node/6631642692"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4870461,
-      47.3962763
+      8.4869585,
+      47.396265
     ]
   }
 },
@@ -32355,15 +32955,23 @@
   "id": "node/6631642693",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Morgentisch Grünau 4, Mittag-/Abendhort Grünau 3",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "contact:city": "Zürich",
+    "contact:housenumber": "60",
+    "contact:phone": "+41 44 413 75 13",
+    "contact:postcode": "8064",
+    "contact:street": "Bändlistrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/gruenau/betreuung/standorte.html",
+    "isced:level": "0",
+    "name": "Grünau 3+4 - Morgen-Mittag-/Abendhort",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Grünau",
+    "operator:type": "public",
     "id": "node/6631642693"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4840307,
-      47.3972507
+      8.4840169,
+      47.3972297
     ]
   }
 },
@@ -32372,15 +32980,23 @@
   "id": "node/6631645524",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "11",
+    "contact:phone": "+41 44 413 75 40",
+    "contact:postcode": "8048",
+    "contact:street": "In der Wässeri",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/inderey/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
     "name": "Kindergarten In der Ey 3",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit In der Ey",
+    "operator:type": "public",
     "id": "node/6631645524"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4872726,
-      47.3740465
+      8.4871671,
+      47.3740135
     ]
   }
 },
@@ -32389,15 +33005,22 @@
   "id": "node/6631645525",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "346",
+    "contact:phone": "+41 44 413 75 95",
+    "contact:postcode": "8047",
+    "contact:street": "Albisriederstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/inderey/ueberuns/standorte/kindergaerten.html",
     "name": "Kindergarten In der Ey 4",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit In der Ey",
+    "operator:type": "public",
     "id": "node/6631645525"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4865475,
-      47.3762363
+      8.4865025,
+      47.3762834
     ]
   }
 },
@@ -35904,6 +36527,54 @@
     "coordinates": [
       8.4732959,
       47.3886241
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9358580417",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "20",
+    "contact:phone": "+41 44 413 10 17",
+    "contact:postcode": "8048",
+    "contact:street": "In der Ey",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/inderey/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
+    "name": "Kindergarten In der Ey 2",
+    "operator:type": "public",
+    "id": "node/9358580417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4873129,
+      47.3736141
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9358580418",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "20",
+    "contact:phone": "+41 44 413 10 15",
+    "contact:postcode": "8048",
+    "contact:street": "In der Ey",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/inderey/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
+    "name": "Kindergarten In der Ey 1",
+    "operator:type": "public",
+    "id": "node/9358580418"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4875837,
+      47.3737884
     ]
   }
 }

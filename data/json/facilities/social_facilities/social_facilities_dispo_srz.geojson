@@ -44447,8 +44447,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4866032,
-      47.375733
+      8.4865732,
+      47.3757437
     ]
   }
 },
@@ -45069,6 +45069,29 @@
     "coordinates": [
       8.5600639,
       47.4136476
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9358190210",
+  "properties": {
+    "addr:city": "Seewen SZ",
+    "addr:housenumber": "9",
+    "addr:postcode": "6423",
+    "addr:street": "Hausmatt",
+    "amenity": "social_facility",
+    "name": "BSZ Stiftung Hausmatt 9 Seewen",
+    "operator": "BSZ Stiftung",
+    "social_facility": "assisted_living",
+    "social_facility:for": "disabled",
+    "id": "node/9358190210"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6325832,
+      47.0274145
     ]
   }
 }
