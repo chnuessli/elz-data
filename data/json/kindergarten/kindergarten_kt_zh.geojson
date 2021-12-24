@@ -154,6 +154,74 @@
 },
 {
   "type": "Feature",
+  "id": "way/15733695",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "27",
+    "addr:postcode": "8048",
+    "addr:street": "Luggwegstrasse",
+    "amenity": "kindergarten",
+    "building": "school",
+    "isced:level": "0",
+    "name": "Kindergarten Kappeli 1 + 2",
+    "phone": "+41 44 413 75 24",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/kappeli_primar/ueberuns/standorte/kindergaerten.html",
+    "id": "way/15733695"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4911133,
+          47.3877691
+        ],
+        [
+          8.4910857,
+          47.3877341
+        ],
+        [
+          8.4911516,
+          47.3877103
+        ],
+        [
+          8.4910962,
+          47.3876401
+        ],
+        [
+          8.4911499,
+          47.3876206
+        ],
+        [
+          8.4911625,
+          47.3876366
+        ],
+        [
+          8.4913976,
+          47.3875514
+        ],
+        [
+          8.4913852,
+          47.3875356
+        ],
+        [
+          8.4914396,
+          47.3875159
+        ],
+        [
+          8.4915225,
+          47.3876209
+        ],
+        [
+          8.4911133,
+          47.3877691
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/20457119",
   "properties": {
     "addr:housename": "ETH HKK",
@@ -2320,105 +2388,6 @@
         [
           8.7061211,
           47.5483445
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/40712389",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "60",
-    "addr:postcode": "8047",
-    "addr:street": "Espenhofweg",
-    "amenity": "kindergarten",
-    "building": "school",
-    "isced:level": "0",
-    "name": "Kindergarten Altweg 3",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "id": "way/40712389"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4978848,
-          47.3713292
-        ],
-        [
-          8.4978752,
-          47.3712587
-        ],
-        [
-          8.4978944,
-          47.3712575
-        ],
-        [
-          8.4980287,
-          47.371249
-        ],
-        [
-          8.498024,
-          47.3712146
-        ],
-        [
-          8.4980716,
-          47.3712116
-        ],
-        [
-          8.4980728,
-          47.3712204
-        ],
-        [
-          8.4981786,
-          47.3712137
-        ],
-        [
-          8.4981774,
-          47.3712048
-        ],
-        [
-          8.4982063,
-          47.371203
-        ],
-        [
-          8.4982076,
-          47.3712119
-        ],
-        [
-          8.4983048,
-          47.3712058
-        ],
-        [
-          8.4983036,
-          47.3711966
-        ],
-        [
-          8.498357,
-          47.3711932
-        ],
-        [
-          8.4983725,
-          47.3713065
-        ],
-        [
-          8.4979673,
-          47.371332
-        ],
-        [
-          8.4979663,
-          47.371324
-        ],
-        [
-          8.4979285,
-          47.3713264
-        ],
-        [
-          8.4978848,
-          47.3713292
         ]
       ]
     ]
@@ -29135,74 +29104,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6631680674",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Kappeli 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "id": "node/6631680674"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.491301,
-      47.3876414
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6631680675",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindegarten Kappeli 3",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "id": "node/6631680675"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4959597,
-      47.3863918
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6631680676",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Kappeli 5",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "id": "node/6631680676"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4875911,
-      47.3903417
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6631680677",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Kappeli 5",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "id": "node/6631680677"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4943746,
-      47.3868985
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6631688348",
   "properties": {
     "amenity": "kindergarten",
@@ -32595,6 +32496,102 @@
     "coordinates": [
       8.4875837,
       47.3737884
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9360324740",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "115",
+    "contact:phone": "+41 44 413 74 97",
+    "contact:postcode": "8048",
+    "contact:street": "Altstetterstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kappeli_primar/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Kappeli 5",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Kappeli Primar",
+    "operator:type": "public",
+    "id": "node/9360324740"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4875625,
+      47.3903217
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9360324749",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "30",
+    "contact:phone": "+41 44 413 75 30",
+    "contact:postcode": "8048",
+    "contact:street": "Flurstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kappeli_primar/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindegarten Kappeli 3",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Kappeli Primar",
+    "operator:type": "public",
+    "id": "node/9360324749"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4959681,
+      47.3864167
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9360324754",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "618",
+    "contact:phone": "+44 44 413 29 29",
+    "contact:postcode": "8048",
+    "contact:street": "Badenerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kappeli_primar/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Kappeli 6",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Kappeli Primar",
+    "operator:type": "public",
+    "id": "node/9360324754"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4931842,
+      47.386965
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9360324755",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "618",
+    "contact:phone": "+41 44 413 29 15",
+    "contact:postcode": "8048",
+    "contact:street": "Badenerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kappeli_primar/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Kappeli 4",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Kappeli Primar",
+    "operator:type": "public",
+    "id": "node/9360324755"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4929344,
+      47.3870228
     ]
   }
 }

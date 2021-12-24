@@ -2118,15 +2118,17 @@
   "type": "Feature",
   "id": "way/34620698",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "618",
-    "addr:postcode": "8048",
-    "addr:street": "Badenerstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "618",
+    "contact:phone": "+41 44 413 29 00",
+    "contact:postcode": "8048",
+    "contact:street": "Badenerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kappeli.html",
     "description": "Primarschule und Sekundarschule",
-    "name": "Schule Kappeli",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/kappeli.html",
+    "name": "Kappeli Primar",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Kappeli Primar",
+    "operator:type": "public",
     "id": "way/34620698"
   },
   "geometry": {
@@ -2146,8 +2148,8 @@
           47.386848
         ],
         [
-          8.4910668,
-          47.3867972
+          8.4911221,
+          47.3867761
         ],
         [
           8.4914637,
@@ -8526,15 +8528,16 @@
   "type": "Feature",
   "id": "way/224131815",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "60",
-    "addr:postcode": "8047",
-    "addr:street": "Espenhofweg",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "60",
+    "contact:phone": "+41 44 413 03 00",
+    "contact:postcode": "8047",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/letzi/ueberuns/standorte/schulhaus.html",
     "description": "Sekundarschule",
     "name": "Schule Letzi",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/letzi.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Letzi",
+    "operator:type": "public",
     "id": "way/224131815"
   },
   "geometry": {
@@ -17102,6 +17105,31 @@
     "coordinates": [
       8.5609475,
       47.4141397
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9360344757",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "39",
+    "contact:phone": "+41 44 413 35 80",
+    "contact:postcode": "8048",
+    "contact:street": "Mürtschenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kappeli_sek/ueberuns/standorte/schulhaus.html",
+    "isced:level": "2",
+    "name": "Schulhaus Kappeli Sekundar",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Kappeli Sekundar",
+    "operator:type": "public",
+    "id": "node/9360344757"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.494666,
+      47.3871702
     ]
   }
 }

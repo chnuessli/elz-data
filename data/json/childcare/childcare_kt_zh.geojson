@@ -7474,6 +7474,101 @@
       47.3738495
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9360324741",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "1",
+    "contact:phone": "+41 44 413 74 71",
+    "contact:postcode": "8048",
+    "contact:street": "Buckhauserstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/kappeli_primar/betreuung/standorte.html",
+    "name": "Kinderhort Kappeli 5",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Kappeli Primar",
+    "operator:type": "public",
+    "id": "node/9360324741"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4943495,
+      47.3869058
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9360324742",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "39",
+    "contact:phone": "+41 44 413 74 89",
+    "contact:postcode": "8048",
+    "contact:street": "Mürtschenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kappeli_primar/ueberuns/standorte/kindergaerten.html",
+    "name": "Kinderhort Kappeli 3",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Kappeli Sekundar",
+    "operator:type": "public",
+    "id": "node/9360324742"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4948097,
+      47.3871101
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9360324752",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "27",
+    "contact:phone": "+41 44 413 75 09",
+    "contact:postcode": "8048",
+    "contact:street": "Luggwegstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kappeli_primar/ueberuns/standorte/kindergaerten.html",
+    "name": "Kinderhort Kappeli 1+6",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Kappeli Primar",
+    "operator:type": "public",
+    "id": "node/9360324752"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4913277,
+      47.3876116
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9360324753",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "618",
+    "contact:phone": "+41 44 413 29 21",
+    "contact:postcode": "8048",
+    "contact:street": "Badenerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/kappeli_primar/betreuung/standorte.html",
+    "name": "Kinderhort Kappeli 4",
+    "operator:type": "public",
+    "id": "node/9360324753"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4927474,
+      47.3863309
+    ]
+  }
 }
 ]
 }
