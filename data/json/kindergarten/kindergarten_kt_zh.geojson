@@ -3258,6 +3258,96 @@
 },
 {
   "type": "Feature",
+  "id": "way/45012658",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "16",
+    "addr:postcode": "8047",
+    "addr:street": "Rossackerstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "description": "BGS-Siedlung Goldacker III",
+    "isced:level": "0",
+    "name": "Kindergarten Goldacker 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Triemli",
+    "operator:type": "public",
+    "owner": "Baugenossenschaft Sonnengarten (BGS)",
+    "phone": "+41 44 413 78 83",
+    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "start_date": "1947..1948",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/triemli/ueberuns/standorte/kindergaerten.html",
+    "id": "way/45012658"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.491837,
+          47.3681133
+        ],
+        [
+          8.4919614,
+          47.368162
+        ],
+        [
+          8.4919599,
+          47.3681655
+        ],
+        [
+          8.4919851,
+          47.368175
+        ],
+        [
+          8.4920301,
+          47.3681751
+        ],
+        [
+          8.4920539,
+          47.3681661
+        ],
+        [
+          8.4920536,
+          47.3681627
+        ],
+        [
+          8.4921785,
+          47.3681146
+        ],
+        [
+          8.4922405,
+          47.3681387
+        ],
+        [
+          8.4922412,
+          47.3681888
+        ],
+        [
+          8.4920127,
+          47.3682783
+        ],
+        [
+          8.4920103,
+          47.3682814
+        ],
+        [
+          8.4917734,
+          47.3681884
+        ],
+        [
+          8.4917738,
+          47.3681385
+        ],
+        [
+          8.491837,
+          47.3681133
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/45208885",
   "properties": {
     "addr:city": "Volketswil",
@@ -3630,6 +3720,82 @@
         [
           8.7000922,
           47.508752
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/51263096",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "42",
+    "addr:postcode": "8048",
+    "addr:street": "Am Suteracher",
+    "amenity": "kindergarten",
+    "building": "childcare",
+    "building:levels": "1",
+    "name": "Kinderhort Loogarten 3",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "roof:levels": "0",
+    "id": "way/51263096"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4708788,
+          47.3902779
+        ],
+        [
+          8.4710019,
+          47.3902275
+        ],
+        [
+          8.4710214,
+          47.3902493
+        ],
+        [
+          8.4710546,
+          47.3902357
+        ],
+        [
+          8.471002,
+          47.3901769
+        ],
+        [
+          8.4711254,
+          47.3901263
+        ],
+        [
+          8.47119,
+          47.3901984
+        ],
+        [
+          8.4711567,
+          47.3902121
+        ],
+        [
+          8.4712005,
+          47.3902611
+        ],
+        [
+          8.4710129,
+          47.390338
+        ],
+        [
+          8.4709962,
+          47.3903193
+        ],
+        [
+          8.4709374,
+          47.3903434
+        ],
+        [
+          8.4708788,
+          47.3902779
         ]
       ]
     ]
@@ -8798,6 +8964,132 @@
         [
           8.7243073,
           47.5072327
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/147052354",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "387",
+    "addr:postcode": "8048",
+    "addr:street": "Rautistrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "description": "GBL-Siedlung 14: Altstetten",
+    "isced:level": "0",
+    "name": "Kindergarten Im Talbächli 1+2",
+    "owner": "Gemeinnützige Baugenossenschaft Limmattal (GBL)",
+    "source": "bing",
+    "start_date": "1964..1965",
+    "id": "way/147052354"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4695955,
+          47.3881187
+        ],
+        [
+          8.4696563,
+          47.3881155
+        ],
+        [
+          8.4696531,
+          47.388087
+        ],
+        [
+          8.4696507,
+          47.3880871
+        ],
+        [
+          8.4696501,
+          47.3880824
+        ],
+        [
+          8.4697713,
+          47.3880762
+        ],
+        [
+          8.4697817,
+          47.3881689
+        ],
+        [
+          8.4697838,
+          47.3881688
+        ],
+        [
+          8.4697844,
+          47.3881741
+        ],
+        [
+          8.4697085,
+          47.388178
+        ],
+        [
+          8.4697124,
+          47.3882133
+        ],
+        [
+          8.4697142,
+          47.3882132
+        ],
+        [
+          8.4697148,
+          47.3882184
+        ],
+        [
+          8.4695141,
+          47.3882287
+        ],
+        [
+          8.4695135,
+          47.3882235
+        ],
+        [
+          8.4695157,
+          47.3882234
+        ],
+        [
+          8.4695118,
+          47.3881886
+        ],
+        [
+          8.4694616,
+          47.3881912
+        ],
+        [
+          8.4694524,
+          47.3881093
+        ],
+        [
+          8.4694598,
+          47.3881089
+        ],
+        [
+          8.46946,
+          47.3881107
+        ],
+        [
+          8.4695873,
+          47.3881041
+        ],
+        [
+          8.4695871,
+          47.3881022
+        ],
+        [
+          8.4695936,
+          47.3881019
+        ],
+        [
+          8.4695955,
+          47.3881187
         ]
       ]
     ]
@@ -15002,8 +15294,10 @@
     "building": "school",
     "building:levels": "1",
     "name": "Kindergarten Untermoos 3",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Untermoos",
+    "phone": "+41 44 413 75 61",
     "roof:levels": "0",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/untermoos/ueberuns/standorte/kindergaerten.html",
     "id": "way/309802505"
   },
   "geometry": {
@@ -15011,36 +15305,36 @@
     "coordinates": [
       [
         [
-          8.4867153,
-          47.3824601
+          8.4867196,
+          47.3824503
         ],
         [
-          8.486677,
-          47.3823924
+          8.4866867,
+          47.3823925
         ],
         [
-          8.4865864,
-          47.3824159
+          8.4865936,
+          47.382416
         ],
         [
-          8.4865516,
-          47.3823545
+          8.4865692,
+          47.3823517
         ],
         [
-          8.486678,
-          47.3823217
+          8.4866791,
+          47.3823242
         ],
         [
-          8.4867511,
-          47.3824508
+          8.4867455,
+          47.3824445
         ],
         [
-          8.4867336,
-          47.3824553
+          8.4867321,
+          47.3824473
         ],
         [
-          8.4867153,
-          47.3824601
+          8.4867196,
+          47.3824503
         ]
       ]
     ]
@@ -20397,64 +20691,18 @@
 },
 {
   "type": "Feature",
-  "id": "way/705778694",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Am Suteracher",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "id": "way/705778694"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4706471,
-          47.3903288
-        ],
-        [
-          8.4709367,
-          47.390145
-        ],
-        [
-          8.4711959,
-          47.390004
-        ],
-        [
-          8.4712538,
-          47.390271
-        ],
-        [
-          8.4708788,
-          47.3904657
-        ],
-        [
-          8.4708879,
-          47.3905744
-        ],
-        [
-          8.4707873,
-          47.3905441
-        ],
-        [
-          8.4707182,
-          47.3904726
-        ],
-        [
-          8.4706471,
-          47.3903288
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/705778695",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kindergarten Im Talbächli 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "contact:city": "Zürich",
+    "contact:housenumber": "387",
+    "contact:phone": "+41 44 413 75 63",
+    "contact:postcode": "8048",
+    "contact:street": "Rautistrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/loogarten/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Im Talbächli",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Loogarten",
+    "operator:type": "public",
     "id": "way/705778695"
   },
   "geometry": {
@@ -20462,52 +20710,64 @@
     "coordinates": [
       [
         [
-          8.4700277,
-          47.3880544
+          8.4700009,
+          47.3880983
         ],
         [
-          8.4699221,
-          47.3881672
+          8.4699187,
+          47.3881626
         ],
         [
-          8.4698493,
-          47.3882501
+          8.4698605,
+          47.3882362
         ],
         [
-          8.4698139,
-          47.3882917
+          8.4698287,
+          47.3882335
         ],
         [
-          8.4697895,
-          47.3883174
+          8.4696406,
+          47.3882444
         ],
         [
-          8.4696549,
-          47.3883541
+          8.4696435,
+          47.3882682
         ],
         [
-          8.4695684,
-          47.3884327
+          8.4694159,
+          47.3882787
         ],
         [
-          8.4694753,
-          47.3883564
+          8.4693948,
+          47.3881098
         ],
         [
-          8.4693177,
-          47.3882884
+          8.4694272,
+          47.3879681
         ],
         [
-          8.4692835,
-          47.3880934
+          8.4694572,
+          47.3879241
         ],
         [
-          8.4695541,
-          47.3878802
+          8.469579,
+          47.3878875
         ],
         [
-          8.4700277,
-          47.3880544
+          8.4696399,
+          47.3878897
+        ],
+        [
+          8.4697885,
+          47.3879477
+        ],
+        [
+          8.4699429,
+          47.3880297
+        ],
+        [
+          8.4700009,
+          47.3880983
         ]
       ]
     ]
@@ -20518,8 +20778,14 @@
   "id": "way/705780957",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kindergarten Wickenweg",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "contact:city": "Wickenweg",
+    "contact:housenumber": "18",
+    "contact:phone": "+41 44 413 75 49",
+    "contact:postcode": "8048",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/untermoos/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindegarten Wickenweg",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Untermoos",
+    "operator:type": "public",
     "id": "way/705780957"
   },
   "geometry": {
@@ -20527,24 +20793,28 @@
     "coordinates": [
       [
         [
-          8.4812119,
-          47.3818412
+          8.4812175,
+          47.3818382
         ],
         [
-          8.4813906,
-          47.3816716
+          8.4813939,
+          47.3816701
         ],
         [
-          8.4817436,
-          47.3817854
+          8.4816925,
+          47.3817695
         ],
         [
-          8.4815056,
-          47.3819838
+          8.4817375,
+          47.3817926
         ],
         [
-          8.4812119,
-          47.3818412
+          8.4815112,
+          47.3819789
+        ],
+        [
+          8.4812175,
+          47.3818382
         ]
       ]
     ]
@@ -26925,48 +27195,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5173009663",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "387",
-    "addr:postcode": "8048",
-    "addr:street": "Rautistrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Im Talbächli I + II",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "id": "node/5173009663"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4696248,
-      47.3881819
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5173009664",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "42",
-    "addr:postcode": "8048",
-    "addr:street": "Am Suteracher",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Am Suteracher",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "id": "node/5173009664"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.471045,
-      47.3902574
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5187612295",
   "properties": {
     "amenity": "kindergarten",
@@ -27505,27 +27733,6 @@
     "coordinates": [
       8.5575789,
       47.3652855
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5333057033",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "16",
-    "addr:postcode": "8047",
-    "addr:street": "Rossackerstrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Goldacker I + II",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "id": "node/5333057033"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4919806,
-      47.3681993
     ]
   }
 },
@@ -29104,40 +29311,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6631688348",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Loogarten 1",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "id": "node/6631688348"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4730327,
-      47.388366
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6631688349",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Loogarten 4",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "id": "node/6631688349"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4723522,
-      47.3897017
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6631707696",
   "properties": {
     "amenity": "kindergarten",
@@ -29206,8 +29379,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4795333,
-      47.3840229
+      8.4795154,
+      47.3840127
     ]
   }
 },
@@ -32592,6 +32765,30 @@
     "coordinates": [
       8.4929344,
       47.3870228
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9363555146",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "248",
+    "contact:phone": "+41 44 413 08 67",
+    "contact:postcode": "8048",
+    "contact:street": "Altstetterstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/untermoos/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Untermoos 1",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Untermoos",
+    "operator:type": "public",
+    "id": "node/9363555146"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.482226,
+      47.3805336
     ]
   }
 }

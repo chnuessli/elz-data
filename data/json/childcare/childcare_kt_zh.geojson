@@ -2663,6 +2663,78 @@
 },
 {
   "type": "Feature",
+  "id": "way/705778694",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "42",
+    "contact:phone": "+41 44 350 00 16",
+    "contact:postcode": "8048",
+    "contact:street": "Am Suteracher",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/loogarten/betreuung/standorte.html",
+    "name": "Kinderhort Loogarten",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Loogarten",
+    "operator:type": "public",
+    "id": "way/705778694"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4706582,
+          47.390323
+        ],
+        [
+          8.4709367,
+          47.390145
+        ],
+        [
+          8.471202,
+          47.3899979
+        ],
+        [
+          8.4712488,
+          47.3902773
+        ],
+        [
+          8.4708514,
+          47.3904406
+        ],
+        [
+          8.470752,
+          47.3904807
+        ],
+        [
+          8.470723,
+          47.3904488
+        ],
+        [
+          8.4706836,
+          47.3903642
+        ],
+        [
+          8.4707004,
+          47.3903567
+        ],
+        [
+          8.4706859,
+          47.3903218
+        ],
+        [
+          8.4706664,
+          47.3903291
+        ],
+        [
+          8.4706582,
+          47.390323
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/851831249",
   "properties": {
     "amenity": "childcare",
@@ -4624,6 +4696,53 @@
     "coordinates": [
       8.4920656,
       47.3729
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6631688348",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "145",
+    "contact:phone": "+41 44 413 30 16",
+    "contact:postcode": "8048",
+    "contact:street": "Eugen-Huber-Strasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/loogarten/betreuung/standorte.html",
+    "isced:level": "0",
+    "name": "Kinderhort Loogarten 1+2",
+    "id": "node/6631688348"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4729674,
+      47.3883622
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6631688349",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "2",
+    "contact:phone": "+41 44 400 10 14",
+    "contact:postcode": "8048",
+    "contact:street": "Am Suteracher",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/loogarten/betreuung/standorte.html",
+    "name": "Kinderhort Loogarten 4",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Loogarten",
+    "operator:type": "public",
+    "id": "node/6631688349"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4723522,
+      47.3897017
     ]
   }
 },
@@ -7297,7 +7416,7 @@
     "contact:street": "Altstetterstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/untermoos/betreuung/standorte.html",
     "name": "Kinderhort Untermoos 6",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Freilager",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Untermoos",
     "operator:type": "public",
     "id": "node/9355877995"
   },
@@ -7567,6 +7686,53 @@
     "coordinates": [
       8.4927474,
       47.3863309
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9363555118",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "30",
+    "contact:phone": "+41 44 413 13 67",
+    "contact:postcode": "8048",
+    "contact:street": "Buchlernstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/untermoos/betreuung/standorte.html",
+    "name": "Kinderhort Untermoos 5",
+    "id": "node/9363555118"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4795315,
+      47.3841245
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9363555145",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "250",
+    "contact:phone": "+41 44 413 08 64",
+    "contact:postcode": "8048",
+    "contact:street": "Altstetterstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/untermoos/betreuung/standorte.html",
+    "isced:level": "0",
+    "name": "Kinderhort Untermoos 2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Untermoos",
+    "operator:type": "public",
+    "id": "node/9363555145"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4817533,
+      47.3803287
     ]
   }
 }

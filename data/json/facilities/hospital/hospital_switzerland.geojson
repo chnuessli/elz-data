@@ -50409,6 +50409,22 @@
       46.7831713
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9363777169",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "id": "node/9363777169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3652106,
+      47.1822209
+    ]
+  }
 }
 ]
 }
