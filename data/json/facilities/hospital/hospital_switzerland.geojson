@@ -47373,6 +47373,32 @@
 },
 {
   "type": "Feature",
+  "id": "node/4497868586",
+  "properties": {
+    "addr:city": "Niederuzwil",
+    "addr:housenumber": "3",
+    "addr:postcode": "9244",
+    "addr:street": "Marktstrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Uzepraxis",
+    "opening_hours": "Mo,We-Fr 07:30-12:00,13:30-17:30; Tu 07:30-17:30",
+    "opening_hours:covid19": "open",
+    "phone": "0719550044",
+    "website": "http://uzepraxis.ch/",
+    "wheelchair": "yes",
+    "id": "node/4497868586"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1424995,
+      47.4460834
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4512678989",
   "properties": {
     "addr:housenumber": "7",
