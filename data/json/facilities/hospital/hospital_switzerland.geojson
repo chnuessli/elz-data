@@ -19972,8 +19972,8 @@
           45.8667759
         ],
         [
-          8.9836571,
-          45.8668154
+          8.9836546,
+          45.8668176
         ],
         [
           8.9826015,
@@ -19984,7 +19984,7 @@
           45.8678632
         ],
         [
-          8.9825066,
+          8.9824959,
           45.868063
         ],
         [
@@ -49596,23 +49596,23 @@
   "id": "node/8250032903",
   "properties": {
     "addr:city": "Verbier",
+    "addr:housenumber": "28",
     "addr:postcode": "1936",
-    "addr:street": "Chemin de Cli",
+    "addr:street": "Route de Verbier Station",
     "amenity": "clinic",
     "healthcare": "clinic",
-    "name": "Centre de dépistage COVID-19 (Test rapide)",
-    "opening_hours": "Mo-Su 08:30-12:30",
-    "opening_hours:covid19": "same",
+    "healthcare:speciality": "covid19",
+    "name": "Centre de dépistage COVID-19 (Test rapide+PCR)",
     "safety:hand_sanitizer:covid19": "yes",
     "safety:mask:covid19": "yes",
-    "website": "https://www.onedoc.ch/fr/centre-de-depistage-covid/bagnes/pb61l/depistage-covid-19-verbier",
+    "website": "https://www.onedoc.ch/fr/centre-de-depistage-covid/verbier/pccxn/arcades-verbier",
     "id": "node/8250032903"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      7.2186299,
-      46.0997535
+      7.2233021,
+      46.0968038
     ]
   }
 },
@@ -50449,6 +50449,30 @@
     "coordinates": [
       7.3652106,
       47.1822209
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9370263636",
+  "properties": {
+    "addr:city": "Le Châble",
+    "addr:postcode": "1934",
+    "addr:street": "Curala",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "covid19",
+    "name": "Centre de dépistage COVID-19 (Test rapide+PCR)",
+    "safety:hand_sanitizer:covid19": "yes",
+    "safety:mask:covid19": "yes",
+    "website": "https://www.onedoc.ch/fr/centre-de-depistage-covid/le-chable/pccyw/curala-chable",
+    "id": "node/9370263636"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2144518,
+      46.0783771
     ]
   }
 }
