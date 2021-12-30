@@ -1922,6 +1922,44 @@
 },
 {
   "type": "Feature",
+  "id": "way/227901163",
+  "properties": {
+    "aeroway": "helipad",
+    "amenity": "fire_station",
+    "building": "yes",
+    "source": "bing",
+    "id": "way/227901163"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.2173405,
+          46.0995026
+        ],
+        [
+          7.2169623,
+          46.0996691
+        ],
+        [
+          7.2167211,
+          46.0994058
+        ],
+        [
+          7.2170992,
+          46.0992392
+        ],
+        [
+          7.2173405,
+          46.0995026
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/230859077",
   "properties": {
     "aeroway": "helipad",

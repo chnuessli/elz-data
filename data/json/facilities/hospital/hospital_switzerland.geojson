@@ -48321,14 +48321,16 @@
   "id": "node/5954425430",
   "properties": {
     "addr:city": "Lungern",
-    "addr:housenumber": "2",
+    "addr:housenumber": "69",
     "addr:postcode": "6078",
-    "addr:street": "Eimatte",
+    "addr:street": "Brünigstrasse",
     "amenity": "doctors",
     "emergency": "no",
     "healthcare": "hospital",
     "healthcare:speciality": "general",
+    "name": "Praxis Dr. Tolouei",
     "operator": "Mir Tolouei M. Reza",
+    "phone": "+41 41 678 18 69",
     "wheelchair": "yes",
     "id": "node/5954425430"
   },
