@@ -5561,6 +5561,7 @@
     "change:lanes:forward": "no",
     "highway": "trunk",
     "lanes": "2",
+    "maxheight": "default",
     "maxspeed": "80",
     "motorroad": "yes",
     "name": "Winterthurerstrasse",
