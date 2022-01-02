@@ -49907,7 +49907,9 @@
     "addr:postcode": "6353",
     "addr:street": "Hertensteinstrasse",
     "amenity": "clinic",
-    "name": "Cereneo Weggis",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general",
+    "name": "Cereneo Praxiszentrum",
     "phone": "+41 41 399 67 00",
     "website": "https://www.cereneo.ch/de/kliniken/#cereneo-Hertenstein",
     "id": "node/8820922063"
@@ -49915,8 +49917,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4020349,
-      47.027061
+      8.4030861,
+      47.0271737
     ]
   }
 },
