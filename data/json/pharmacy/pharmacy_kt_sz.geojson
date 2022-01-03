@@ -170,8 +170,14 @@
   "type": "Feature",
   "id": "node/1411264382",
   "properties": {
+    "addr:city": "Küssnacht am Rigi",
+    "addr:housenumber": "8",
+    "addr:postcode": "6403",
+    "addr:street": "Unterdorf",
     "amenity": "pharmacy",
     "healthcare": "pharmacy",
+    "name": "Holzgang Apotheke",
+    "phone": "+41418501045",
     "id": "node/1411264382"
   },
   "geometry": {
