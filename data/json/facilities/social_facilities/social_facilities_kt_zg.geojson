@@ -162,15 +162,20 @@
   "type": "Feature",
   "id": "way/113155847",
   "properties": {
+    "addr:city": "Zug",
     "addr:housenumber": "4",
+    "addr:postcode": "6300",
     "addr:street": "Bundesstrasse",
     "alt_name": "Alterszentrum Neustadt",
     "amenity": "social_facility",
     "building": "yes",
+    "email": "neustadt@alterszentrenzug.ch",
     "name": "Zentrum Neustadt",
     "operator": "Stiftung Alterszentren Zug",
+    "phone": "+41 41 725 38 00",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
+    "website": "https://www.alterszentrenzug.ch/zentren/neustadt/",
     "id": "way/113155847"
   },
   "geometry": {

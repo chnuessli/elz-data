@@ -4695,7 +4695,7 @@
     "fax": "+41 (0)44 720 08 04",
     "healthcare": "pharmacy",
     "name": "Central Apotheke Thalwil",
-    "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-17:00; So 10:00-17:00",
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-17:00; Su 10:00-17:00",
     "payment:cash": "yes",
     "payment:coins": "yes",
     "payment:credit_cards": "yes",

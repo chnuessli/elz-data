@@ -2497,6 +2497,7 @@
     "addr:housenumber": "12",
     "addr:postcode": "8400",
     "addr:street": "Bahnhofplatz",
+    "alt_name": "Kapo Posten Bahnhof Winterthur",
     "amenity": "police",
     "name": "Polizeiposten Winterthur Bahnhof",
     "operator": "Kantonspolizei Zürich",

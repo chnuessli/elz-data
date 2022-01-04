@@ -13440,15 +13440,20 @@
   "type": "Feature",
   "id": "way/113155847",
   "properties": {
+    "addr:city": "Zug",
     "addr:housenumber": "4",
+    "addr:postcode": "6300",
     "addr:street": "Bundesstrasse",
     "alt_name": "Alterszentrum Neustadt",
     "amenity": "social_facility",
     "building": "yes",
+    "email": "neustadt@alterszentrenzug.ch",
     "name": "Zentrum Neustadt",
     "operator": "Stiftung Alterszentren Zug",
+    "phone": "+41 41 725 38 00",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
+    "website": "https://www.alterszentrenzug.ch/zentren/neustadt/",
     "id": "way/113155847"
   },
   "geometry": {
@@ -23669,6 +23674,148 @@
 },
 {
   "type": "Feature",
+  "id": "way/247650687",
+  "properties": {
+    "addr:city": "Wetzikon",
+    "addr:country": "CH",
+    "addr:housenumber": "30",
+    "addr:postcode": "8620",
+    "addr:street": "Binzackerstrasse",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "email": "info@raegeboge-wohne.ch",
+    "name": "Rägeboge Wohne Haus 2+2a",
+    "operator": "RÄGEBOGE WOHNE - LEBEN MIT UND OHNE DEMENZ",
+    "phone": "+41 44 930 30 33",
+    "social_facility": "assisted_living",
+    "website": "https://raegeboge-wohne.ch/haus-2/",
+    "id": "way/247650687"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8012254,
+          47.3313236
+        ],
+        [
+          8.8011743,
+          47.3312595
+        ],
+        [
+          8.8012254,
+          47.3312408
+        ],
+        [
+          8.8012067,
+          47.3312174
+        ],
+        [
+          8.8013369,
+          47.3311697
+        ],
+        [
+          8.8014356,
+          47.3312932
+        ],
+        [
+          8.8013024,
+          47.3313421
+        ],
+        [
+          8.8012736,
+          47.3313059
+        ],
+        [
+          8.8012254,
+          47.3313236
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/247891856",
+  "properties": {
+    "addr:city": "Wetzikon",
+    "addr:country": "CH",
+    "addr:housenumber": "203",
+    "addr:postcode": "8620",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "email": "info@raegeboge-wohne.ch",
+    "name": "Rägeboge Wohne Haus 1",
+    "operator": "RÄGEBOGE WOHNE - LEBEN MIT UND OHNE DEMENZ",
+    "phone": "+41 44 930 30 33",
+    "social_facility": "assisted_living",
+    "website": "https://raegeboge-wohne.ch/haus-1/",
+    "id": "way/247891856"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8031919,
+          47.3301899
+        ],
+        [
+          8.8032338,
+          47.3301459
+        ],
+        [
+          8.8032034,
+          47.3301326
+        ],
+        [
+          8.8033188,
+          47.3300115
+        ],
+        [
+          8.8033482,
+          47.3300244
+        ],
+        [
+          8.8033898,
+          47.3299807
+        ],
+        [
+          8.8035388,
+          47.3300459
+        ],
+        [
+          8.8034731,
+          47.3301148
+        ],
+        [
+          8.8034915,
+          47.3301229
+        ],
+        [
+          8.8034244,
+          47.3301933
+        ],
+        [
+          8.8034067,
+          47.3301856
+        ],
+        [
+          8.8033407,
+          47.330255
+        ],
+        [
+          8.8031919,
+          47.3301899
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/251366065",
   "properties": {
     "addr:city": "Schaffhausen",
@@ -33872,48 +34019,64 @@
     "coordinates": [
       [
         [
-          8.6437088,
-          47.0177016
+          8.6436607,
+          47.0176916
         ],
         [
-          8.6434896,
-          47.0176065
+          8.6434415,
+          47.017588
         ],
         [
-          8.6437287,
-          47.0173186
+          8.6436702,
+          47.0173101
         ],
         [
-          8.6435979,
-          47.0172568
+          8.6435624,
+          47.0172582
         ],
         [
-          8.6438087,
-          47.0170596
+          8.6437523,
+          47.0170539
         ],
         [
-          8.6439828,
-          47.0171266
+          8.6437635,
+          47.0170583
         ],
         [
-          8.6441709,
-          47.0169465
+          8.6439306,
+          47.0171238
         ],
         [
-          8.6443819,
-          47.0170407
+          8.6439546,
+          47.0170998
         ],
         [
-          8.644104,
-          47.0173958
+          8.6441312,
+          47.0169237
         ],
         [
-          8.6440316,
-          47.017374
+          8.6443526,
+          47.0170293
         ],
         [
-          8.6437088,
-          47.0177016
+          8.6440643,
+          47.0173801
+        ],
+        [
+          8.6439961,
+          47.0173583
+        ],
+        [
+          8.6438478,
+          47.0175057
+        ],
+        [
+          8.6437531,
+          47.0175999
+        ],
+        [
+          8.6436607,
+          47.0176916
         ]
       ]
     ]
