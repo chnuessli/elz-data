@@ -41781,10 +41781,10 @@
   "type": "Feature",
   "id": "way/681554155",
   "properties": {
-    "addr:city": "Ostermundigen",
+    "addr:city": "Bern 60",
     "addr:country": "CH",
     "addr:housenumber": "111",
-    "addr:postcode": "3072",
+    "addr:postcode": "3000",
     "addr:street": "Bolligenstrasse",
     "amenity": "hospital",
     "contact:email": "info.upd@gef.be.ch",
