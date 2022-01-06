@@ -7113,6 +7113,88 @@
 },
 {
   "type": "Feature",
+  "id": "way/122456077",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "133",
+    "addr:postcode": "8051",
+    "addr:street": "Luegislandstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "isced:level": "0",
+    "name": "Kindergarten Luegislandstrasse 1+2",
+    "id": "way/122456077"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5689256,
+          47.4086934
+        ],
+        [
+          8.5689917,
+          47.4087588
+        ],
+        [
+          8.568863,
+          47.4088184
+        ],
+        [
+          8.5688834,
+          47.4088385
+        ],
+        [
+          8.5689351,
+          47.4088146
+        ],
+        [
+          8.5689504,
+          47.4088298
+        ],
+        [
+          8.5689741,
+          47.4088189
+        ],
+        [
+          8.5690403,
+          47.4088828
+        ],
+        [
+          8.5689083,
+          47.4089441
+        ],
+        [
+          8.5688471,
+          47.4088838
+        ],
+        [
+          8.5688361,
+          47.4088885
+        ],
+        [
+          8.5687383,
+          47.4087918
+        ],
+        [
+          8.5688012,
+          47.4087624
+        ],
+        [
+          8.5687933,
+          47.4087546
+        ],
+        [
+          8.5689256,
+          47.4086934
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/122892521",
   "properties": {
     "addr:city": "Dänikon",
@@ -8571,8 +8653,15 @@
   "id": "way/138892544",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "19",
+    "contact:phone": "+41 44 413 11 30",
+    "contact:postcode": "8051",
+    "contact:street": "Heinrich-Bosshardt-Strasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/ahorn/ueberuns/standorte/kindergaerten.html#ahorn",
     "name": "Kindergarten Heinrich-Bosshardt",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Ahorn",
+    "operator:type": "public",
     "id": "way/138892544"
   },
   "geometry": {
@@ -8580,40 +8669,40 @@
     "coordinates": [
       [
         [
-          8.5705126,
-          47.4027969
+          8.5705251,
+          47.402796
         ],
         [
-          8.5712594,
-          47.4024812
+          8.5712719,
+          47.4024791
         ],
         [
-          8.5714273,
-          47.402623
+          8.5714395,
+          47.4026228
         ],
         [
-          8.5714303,
-          47.4026529
+          8.5714407,
+          47.4026487
         ],
         [
-          8.5715031,
-          47.4027282
+          8.5715163,
+          47.402727
         ],
         [
-          8.5710844,
-          47.4029681
+          8.5710976,
+          47.4029653
         ],
         [
-          8.5707635,
-          47.4028163
+          8.5707746,
+          47.4028139
         ],
         [
-          8.5705403,
-          47.4028151
+          8.5705507,
+          47.4028144
         ],
         [
-          8.5705126,
-          47.4027969
+          8.5705251,
+          47.402796
         ]
       ]
     ]
@@ -8681,8 +8770,15 @@
   "id": "way/141957337",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "110",
+    "contact:phone": "+41 44 413 76 76",
+    "contact:postcode": "8051",
+    "contact:street": "Glattstegweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/auhof/ueberuns/standorte/kindergaerten.html#kindergarten_glattstegweg",
     "name": "Kindergarten Glattstegweg",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schwamendingen Auhof",
+    "operator:type": "public",
     "id": "way/141957337"
   },
   "geometry": {
@@ -8690,44 +8786,52 @@
     "coordinates": [
       [
         [
-          8.5765074,
-          47.4097871
+          8.5765161,
+          47.409785
         ],
         [
-          8.5767631,
-          47.4102487
+          8.5767718,
+          47.4102508
         ],
         [
-          8.5765608,
-          47.4102966
+          8.5765632,
+          47.4102955
         ],
         [
-          8.5765416,
-          47.4102768
+          8.576555,
+          47.4102789
         ],
         [
-          8.5763733,
-          47.4103162
+          8.5763788,
+          47.4103194
         ],
         [
-          8.576173,
-          47.4099633
+          8.5761825,
+          47.4099612
         ],
         [
-          8.5761882,
-          47.4099418
+          8.5761992,
+          47.4099391
         ],
         [
-          8.5762968,
-          47.4099151
+          8.5762743,
+          47.4099215
         ],
         [
-          8.5764154,
-          47.4098589
+          8.5763441,
+          47.4098967
         ],
         [
-          8.5765074,
-          47.4097871
+          8.5764091,
+          47.4098645
+        ],
+        [
+          8.5764664,
+          47.4098264
+        ],
+        [
+          8.5765161,
+          47.409785
         ]
       ]
     ]
@@ -19387,6 +19491,54 @@
 },
 {
   "type": "Feature",
+  "id": "way/703421682",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "133",
+    "contact:phone": "044 413 77 59",
+    "contact:postcode": "8051",
+    "contact:street": "Luegislandstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/auhof/ueberuns/standorte/kindergaerten.html#kindergarten_luegislandstrasseiii",
+    "name": "Kindergarten Luegislandstrasse",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Auhof",
+    "operator:type": "public",
+    "id": "way/703421682"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5688554,
+          47.4089639
+        ],
+        [
+          8.5686675,
+          47.4087806
+        ],
+        [
+          8.5690926,
+          47.4085908
+        ],
+        [
+          8.5692798,
+          47.4087673
+        ],
+        [
+          8.568915,
+          47.4089638
+        ],
+        [
+          8.5688554,
+          47.4089639
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/705176338",
   "properties": {
     "amenity": "kindergarten",
@@ -20893,8 +21045,15 @@
   "id": "way/705913435",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kindergarten Letzigraben I + II",
-    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
+    "contact:city": "Zürich",
+    "contact:housenumber": "25a",
+    "contact:phone": "+41 44 413 76 15",
+    "contact:postcode": "8003",
+    "contact:street": "Letzigraben",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/aemtler_a/ueberuns/standorte/kindergaerten.html#kindergarten_letzigraben1",
+    "name": "Kindergarten Letzigraben",
+    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Aemtler A",
+    "operator:type": "public",
     "id": "way/705913435"
   },
   "geometry": {
@@ -20902,32 +21061,64 @@
     "coordinates": [
       [
         [
-          8.5025097,
-          47.3792923
+          8.5025108,
+          47.3792909
         ],
         [
-          8.5027161,
-          47.3793443
+          8.5026168,
+          47.3793208
+        ],
+        [
+          8.5027019,
+          47.3793427
+        ],
+        [
+          8.5027307,
+          47.3793449
+        ],
+        [
+          8.5027507,
+          47.3793465
+        ],
+        [
+          8.5027797,
+          47.3793506
         ],
         [
           8.5028288,
           47.3793549
         ],
         [
-          8.5029241,
-          47.3793544
+          8.5028762,
+          47.3793559
+        ],
+        [
+          8.5029246,
+          47.3793533
+        ],
+        [
+          8.5030376,
+          47.3793377
         ],
         [
           8.5031475,
           47.3793176
         ],
         [
+          8.5031863,
+          47.3793145
+        ],
+        [
           8.5032212,
           47.3793145
         ],
         [
-          8.5033016,
-          47.3793277
+          8.5032612,
+          47.3793177
+        ],
+        [
+          8.5033048,
+          47.3793291
         ],
         [
           8.5033721,
@@ -20942,32 +21133,40 @@
           47.3795267
         ],
         [
-          8.5033066,
-          47.3798752
+          8.5033045,
+          47.3798748
         ],
         [
           8.5032743,
           47.3799386
         ],
         [
-          8.5029991,
-          47.3798437
+          8.5030777,
+          47.3798726
         ],
         [
-          8.5028929,
-          47.3797915
+          8.5030012,
+          47.3798423
         ],
         [
-          8.5028234,
-          47.3797573
+          8.5028966,
+          47.3797886
         ],
         [
-          8.5026746,
-          47.3796532
+          8.5028181,
+          47.3797477
         ],
         [
-          8.5026305,
-          47.3795981
+          8.502701,
+          47.3796596
+        ],
+        [
+          8.5026352,
+          47.3795985
+        ],
+        [
+          8.5025904,
+          47.3795459
         ],
         [
           8.5025583,
@@ -20978,12 +21177,24 @@
           47.3794569
         ],
         [
-          8.5024533,
-          47.3793378
+          8.5025135,
+          47.3794199
         ],
         [
-          8.5025097,
-          47.3792923
+          8.502453,
+          47.3793405
+        ],
+        [
+          8.5024497,
+          47.3793206
+        ],
+        [
+          8.5024834,
+          47.3792917
+        ],
+        [
+          8.5025108,
+          47.3792909
         ]
       ]
     ]
@@ -27266,40 +27477,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5187614000",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Luegisland 1-2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
-    "id": "node/5187614000"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5745615,
-      47.4087646
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5187614005",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Luegislandstrasse",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
-    "id": "node/5187614005"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5689137,
-      47.4087601
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5187614123",
   "properties": {
     "amenity": "kindergarten",
@@ -28400,15 +28577,23 @@
   "id": "node/6628492601",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "100",
+    "contact:phone": "+41 44 413 76 48",
+    "contact:postcode": "8049",
+    "contact:street": "Am Wasser",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/amwasser/ueberuns/standorte/kindergaerten.html#kindergarten_am_wasser",
+    "isced:level": "0",
     "name": "Kindergarten Limmatgut",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit am Wasser",
+    "operator:type": "public,",
     "id": "node/6628492601"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5019041,
-      47.3983201
+      8.5018947,
+      47.3983342
     ]
   }
 },
@@ -28417,31 +28602,23 @@
   "id": "node/6628492602",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "186",
+    "contact:phone": "+41 44 413 73 19",
+    "contact:postcode": "8049",
+    "contact:street": "Ackersteinstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/amwasser/ueberuns/standorte/kindergaerten.html#kindergarten_meierhofplatz",
+    "isced:level": "0",
     "name": "Kindergarten Meierhofplatz",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit am Wasser",
+    "operator:type": "public",
     "id": "node/6628492602"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5006992,
-      47.4008128
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6628492603",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Hardturm 1 + 2",
-    "id": "node/6628492603"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.505294,
-      47.3944038
+      8.5006765,
+      47.4008303
     ]
   }
 },

@@ -1045,6 +1045,96 @@
 },
 {
   "type": "Feature",
+  "id": "way/122455996",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "300",
+    "addr:postcode": "8051",
+    "addr:street": "Luegislandstrasse",
+    "amenity": "childcare",
+    "building": "childcare",
+    "isced:level": "0",
+    "name": "Kinderhort Luegisland 1+2",
+    "id": "way/122455996"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5744602,
+          47.4088474
+        ],
+        [
+          8.5744247,
+          47.408786
+        ],
+        [
+          8.5744289,
+          47.4087849
+        ],
+        [
+          8.574415,
+          47.4087608
+        ],
+        [
+          8.5744115,
+          47.4087618
+        ],
+        [
+          8.5743797,
+          47.4087067
+        ],
+        [
+          8.5744822,
+          47.4086796
+        ],
+        [
+          8.574489,
+          47.4086913
+        ],
+        [
+          8.5745609,
+          47.4086723
+        ],
+        [
+          8.5745543,
+          47.4086609
+        ],
+        [
+          8.5746559,
+          47.408634
+        ],
+        [
+          8.5746872,
+          47.4086881
+        ],
+        [
+          8.5746828,
+          47.4086892
+        ],
+        [
+          8.574699,
+          47.4087172
+        ],
+        [
+          8.5747032,
+          47.4087161
+        ],
+        [
+          8.5747368,
+          47.4087742
+        ],
+        [
+          8.5744602,
+          47.4088474
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/122456075",
   "properties": {
     "addr:city": "Zürich",
@@ -2802,6 +2892,52 @@
 },
 {
   "type": "Feature",
+  "id": "way/437544782",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "290",
+    "addr:postcode": "8051",
+    "addr:street": "Luegislandstrasse",
+    "amenity": "childcare",
+    "building": "childcare",
+    "building:levels": "2",
+    "isced:level": "0",
+    "name": "Kinderhort Luegisland 3+Morgentisch",
+    "note": "Schulpavillon Typ Züri-Modular",
+    "owner": "Immobilien Stadt Zürich (IMMO)",
+    "roof:shape": "flat",
+    "id": "way/437544782"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5740474,
+          47.4089459
+        ],
+        [
+          8.5739275,
+          47.4086977
+        ],
+        [
+          8.5740392,
+          47.4086719
+        ],
+        [
+          8.5741599,
+          47.4089213
+        ],
+        [
+          8.5740474,
+          47.4089459
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/587286829",
   "properties": {
     "addr:city": "Wetzikon (ZH)",
@@ -3232,6 +3368,94 @@
         [
           8.5535817,
           47.4071656
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1018527096",
+  "properties": {
+    "addr:housenumber": "52",
+    "addr:postcode": "8051",
+    "addr:street": "Herzogenmühlestrasse",
+    "amenity": "childcare",
+    "building": "school",
+    "name": "Mittaghort Herzli-Träff",
+    "id": "way/1018527096"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5731783,
+          47.4076648
+        ],
+        [
+          8.5732123,
+          47.4076689
+        ],
+        [
+          8.5732141,
+          47.4076578
+        ],
+        [
+          8.5732192,
+          47.4076578
+        ],
+        [
+          8.5732197,
+          47.4076606
+        ],
+        [
+          8.573514,
+          47.4075963
+        ],
+        [
+          8.5735597,
+          47.4076922
+        ],
+        [
+          8.5732281,
+          47.4077636
+        ],
+        [
+          8.5732226,
+          47.4077867
+        ],
+        [
+          8.5732305,
+          47.4077869
+        ],
+        [
+          8.5732304,
+          47.4077899
+        ],
+        [
+          8.5732251,
+          47.40779
+        ],
+        [
+          8.5732005,
+          47.4078881
+        ],
+        [
+          8.5732053,
+          47.4078887
+        ],
+        [
+          8.5732044,
+          47.4078913
+        ],
+        [
+          8.5731252,
+          47.4078804
+        ],
+        [
+          8.5731783,
+          47.4076648
         ]
       ]
     ]
@@ -5019,6 +5243,31 @@
     "coordinates": [
       8.5014425,
       47.425193
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6628492603",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "402",
+    "contact:phone": "+41 44 413 31 81",
+    "contact:postcode": "8005",
+    "contact:street": "Hardturmstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/amwasser/betreuung/standorte.html",
+    "isced:level": "0",
+    "name": "Kinderhort Hardturm 1 + 2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit am Wasser",
+    "operator:type": "public",
+    "id": "node/6628492603"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.505294,
+      47.3944038
     ]
   }
 },
@@ -8199,6 +8448,55 @@
     "coordinates": [
       8.4817533,
       47.3803287
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9394190283",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "100",
+    "contact:phone": "+41 44 413 76 47",
+    "contact:postcode": "8049",
+    "contact:street": "Am Wasser",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/amwasser/betreuung/standorte.html#limmatgut",
+    "isced:level": "0",
+    "name": "Kinderhort Limmatgut 1",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit am Wasser",
+    "operator:type": "public,",
+    "id": "node/9394190283"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5019192,
+      47.398373
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9394505763",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "17",
+    "contact:phone": "+41 44 413 74 60",
+    "contact:postcode": "8003",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/aemtler_a/betreuung/standorte.html#mittag_abend-hortaemtlera",
+    "isced:level": "0",
+    "name": "Kinderhort Letzigraben",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Aemtler A",
+    "operator:type": "public",
+    "id": "node/9394505763"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5029835,
+      47.3805356
     ]
   }
 }
