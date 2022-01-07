@@ -10470,6 +10470,162 @@
 },
 {
   "type": "Feature",
+  "id": "way/1018739913",
+  "properties": {
+    "aeroway": "helipad",
+    "emergency": "landing_site",
+    "id": "way/1018739913"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5332196,
+          47.5219409
+        ],
+        [
+          8.5331898,
+          47.5218606
+        ],
+        [
+          8.5333077,
+          47.5218406
+        ],
+        [
+          8.5333376,
+          47.5219209
+        ],
+        [
+          8.5332196,
+          47.5219409
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1018745493",
+  "properties": {
+    "aeroway": "helipad",
+    "emergency": "landing_site",
+    "id": "way/1018745493"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6595184,
+          47.0154696
+        ],
+        [
+          8.6595224,
+          47.0153663
+        ],
+        [
+          8.6596713,
+          47.015369
+        ],
+        [
+          8.6596672,
+          47.0154723
+        ],
+        [
+          8.6595184,
+          47.0154696
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1018747598",
+  "properties": {
+    "addr:city": "Luzern 16",
+    "addr:postcode": "6000",
+    "addr:street": "Spitalstrasse",
+    "aeroway": "helipad",
+    "emergency": "landing_site",
+    "lit": "yes",
+    "operator": "Luzerner Kantonsspital",
+    "surface": "asphalt",
+    "id": "way/1018747598"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.2969369,
+          47.0590214
+        ],
+        [
+          8.2970284,
+          47.0589056
+        ],
+        [
+          8.2971787,
+          47.0589607
+        ],
+        [
+          8.2970872,
+          47.0590765
+        ],
+        [
+          8.2969369,
+          47.0590214
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1018749037",
+  "properties": {
+    "addr:city": "Luzern 16",
+    "addr:postcode": "6000",
+    "addr:street": "Spitalstrasse",
+    "aeroway": "helipad",
+    "emergency": "landing_site",
+    "lit": "yes",
+    "operator": "Luzerner Kantonsspital",
+    "surface": "asphalt",
+    "id": "way/1018749037"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.2967161,
+          47.0593495
+        ],
+        [
+          8.296783,
+          47.05926
+        ],
+        [
+          8.2968936,
+          47.0593017
+        ],
+        [
+          8.2968202,
+          47.059392
+        ],
+        [
+          8.2967161,
+          47.0593495
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/35211724",
   "properties": {
     "aeroway": "helipad",
@@ -10982,45 +11138,6 @@
     "coordinates": [
       8.1831004,
       47.6022447
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1952898620",
-  "properties": {
-    "addr:city": "Luzern 16",
-    "addr:postcode": "6000",
-    "addr:street": "Spitalstrasse",
-    "aeroway": "helipad",
-    "lit": "yes",
-    "operator": "Luzerner Kantonsspital",
-    "surface": "asphalt",
-    "id": "node/1952898620"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.2970225,
-      47.0594236
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1952898631",
-  "properties": {
-    "access": "no",
-    "aeroway": "helipad",
-    "lit": "yes",
-    "operator": "Luzerner Kantonsspital",
-    "id": "node/1952898631"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.2972852,
-      47.0590911
     ]
   }
 },
