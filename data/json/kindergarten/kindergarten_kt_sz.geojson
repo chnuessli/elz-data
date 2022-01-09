@@ -515,6 +515,7 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "building:levels": "1",
+    "isced:level": "0",
     "name": "Doppelkindergarten Spielweg",
     "roof:shape": "gabled",
     "id": "way/202870866"
