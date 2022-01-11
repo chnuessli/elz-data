@@ -495,8 +495,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6068973,
-      47.7596012
+      8.6066995,
+      47.7595317
     ]
   }
 },
@@ -515,24 +515,6 @@
     "coordinates": [
       8.6060362,
       47.75929
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/420349168",
-  "properties": {
-    "barrier": "gate",
-    "bicycle": "no",
-    "cow": "no",
-    "foot": "yes",
-    "id": "node/420349168"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6075528,
-      47.759702
     ]
   }
 },

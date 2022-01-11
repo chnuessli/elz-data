@@ -3195,6 +3195,30 @@
 },
 {
   "type": "Feature",
+  "id": "node/299616478",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "29",
+    "contact:phone": "+41 44 413 76 25",
+    "contact:postcode": "8046",
+    "contact:street": "Glaubtenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/schauenberg/betreuung/standorte.html",
+    "name": "Kinderhort Glauten 1+4",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Schauenberg",
+    "operator:type": "public",
+    "id": "node/299616478"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.516872,
+      47.4122526
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/373500373",
   "properties": {
     "amenity": "childcare",
@@ -3293,6 +3317,28 @@
     "coordinates": [
       8.5458247,
       47.4070254
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2090057283",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "102",
+    "contact:phone": "+41 44 413 75 87",
+    "contact:postcode": "8046",
+    "contact:street": "Glaubtenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/schauenberg/betreuung/standorte.html#glaubten_2",
+    "name": "Kinderhort Glaubten 2",
+    "id": "node/2090057283"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5124996,
+      47.4121785
     ]
   }
 },
@@ -4832,6 +4878,30 @@
     "coordinates": [
       8.498945,
       47.4232337
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6624401692",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "25",
+    "contact:phone": "+41 79 624 51 34",
+    "contact:postcode": "8046",
+    "contact:street": "Bodenacker",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/imisengrind/betreuung/standorte.html",
+    "name": "Kinderhort GZ Affoltern",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Im Isegrind",
+    "operator:type": "public",
+    "id": "node/6624401692"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5107835,
+      47.4246021
     ]
   }
 },

@@ -23387,6 +23387,66 @@
 },
 {
   "type": "Feature",
+  "id": "way/1020003200",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "102",
+    "contact:phone": "+41 44 413 75 89",
+    "contact:postcode": "8046",
+    "contact:street": "Glaubtenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/schauenberg/ueberuns/standorte/kindergaerten.html#kindergarten_glaubten",
+    "name": "Kindergarten und -hort Glaubten",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Schauenberg",
+    "operator:type": "public",
+    "id": "way/1020003200"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5124687,
+          47.4119966
+        ],
+        [
+          8.5127556,
+          47.4119948
+        ],
+        [
+          8.5127554,
+          47.4120036
+        ],
+        [
+          8.5128468,
+          47.412003
+        ],
+        [
+          8.5128554,
+          47.4123048
+        ],
+        [
+          8.5123869,
+          47.4123106
+        ],
+        [
+          8.5123787,
+          47.4120092
+        ],
+        [
+          8.512469,
+          47.4120081
+        ],
+        [
+          8.5124687,
+          47.4119966
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
@@ -23441,25 +23501,6 @@
     "coordinates": [
       8.5346347,
       47.2852255
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/299616478",
-  "properties": {
-    "addr:housenumber": "29",
-    "addr:street": "Glaubtenstrasse",
-    "amenity": "kindergarten",
-    "name": "Hort Glaubten 1 (Mittag-/Abendhort) + 4 (Mittaghort)",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/299616478"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5168515,
-      47.4122559
     ]
   }
 },
@@ -24923,25 +24964,6 @@
     "coordinates": [
       8.7599903,
       47.5184623
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2090057283",
-  "properties": {
-    "addr:housenumber": "102",
-    "addr:street": "Glaubtenstrasse",
-    "amenity": "kindergarten",
-    "name": "Hort Glaubten 2 (Mittag-/Abendhort) + 3 (Morgentisch)",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/2090057283"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5126125,
-      47.412175
     ]
   }
 },
@@ -28443,23 +28465,6 @@
     "coordinates": [
       8.513305,
       47.4232001
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6624401692",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittaghort GZ Affoltern",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/6624401692"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5107835,
-      47.4246021
     ]
   }
 },
