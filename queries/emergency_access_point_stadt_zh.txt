@@ -1,0 +1,14 @@
+[out:json][timeout:25];
+// fetch area “Zurich” to search in
+{{geocodeArea:Zurich}}->.searchArea;
+// gather results
+(
+  // query part for: “highway=emergency_access_point”
+  node["highway"="emergency_access_point"](area.searchArea);
+  way["highway"="emergency_access_point"](area.searchArea);
+  relation["highway"="emergency_access_point"](area.searchArea);
+);
+// print results
+out body;
+>;
+out skel qt;
