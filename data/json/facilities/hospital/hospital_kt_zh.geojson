@@ -7839,8 +7839,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5663847,
-      47.449309
+      8.5662739,
+      47.4493072
     ]
   }
 },
@@ -7890,31 +7890,6 @@
     "coordinates": [
       8.5288486,
       47.3879127
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8437132905",
-  "properties": {
-    "addr:city": "Zürich Flughafen",
-    "addr:housenumber": "59",
-    "addr:postcode": "8058",
-    "addr:street": "The Circle",
-    "amenity": "doctors",
-    "healthcare": "clinic",
-    "healthcare:speciality": "general",
-    "name": "Permanence The Circle",
-    "opening_hours": "Mo-Su 08:00-19:00",
-    "operator": "USZ",
-    "website": "https://www.usz.ch/standorte/flughafen/Seiten/default.aspx",
-    "id": "node/8437132905"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5663351,
-      47.4493113
     ]
   }
 },
