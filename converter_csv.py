@@ -219,3 +219,7 @@ df.to_csv (r'data/csv/highway/motorway/motorway_dispo_srz.csv', index = None)
 #Autostrassen
 df = pd.read_json (r'data/json/highway/trunk/trunk_dispo_srz.geojson')
 df.to_csv (r'data/csv/highway/trunk/trunk_dispo_srz.csv', index = None)
+
+#Rettungspunkte
+df = pd.read_json (r'data/json/highway/emergency/emergency_access_point_stadt_zh.geojson')
+df.to_csv (r'data/csv/highway/emergency/emergency_access_point_stadt_zh.csv', index = None)

@@ -399,3 +399,9 @@ echo -ne "Query Autostrassen Dispo SRZ...           "
 cat $DIR/queries/trunk_dispo_srz.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/highway/trunk/trunk_dispo_srz.geojson
 echo -ne "\t\t - Done.\r"
 echo ""
+
+# Rettungspunkte Stadt Zürich
+echo -ne "Query Rettungspunkte Stadt Zürich...           "
+cat $DIR/queries/emergency_access_point_stadt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/highway/emergency/emergency_access_point_stadt_zh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
