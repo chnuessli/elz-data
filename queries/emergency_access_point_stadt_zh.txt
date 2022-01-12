@@ -2,9 +2,7 @@
 area[name="Zürich"]["wikipedia"="de:Zürich"]->.zurich;
 // gather results
 (
-  node["highway"="emergency_access_point"](area.searchArea);
-  way["highway"="emergency_access_point"](area.searchArea);
-  relation["highway"="emergency_access_point"](area.searchArea);
+  nwr["highway"="emergency_access_point"](area.zurich);
 );
 // print results
 out body;
