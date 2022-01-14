@@ -36,6 +36,9 @@ In der Tabelle seht ihr, welche Daten verfügbar sind und aus welchen Kantonen.
 | trunk | Autostrassen | `../highway/trunk` | `json` `csv`| Dispo SRZ
 | gates | Tore und Barrieren | `../access/gates` | `json` `csv`|SH, SZ, ZG, ZH
 | defibrillator | Defibrillatoren | `../defis` | `json` `csv`| Dispo SRZ, ZH, Stadt Zürich
+| emergency_access_point | Rettungspunkte | `../highway/emergency` | `json` `csv`| Stadt Zürich
+| disaster_help_point | Notfalltreffpunkte | `../disaster_help_point` | `json` `csv`| ZH, ZG
+
 
 ## Overpass Abfragen via Overpass API
 
