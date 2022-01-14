@@ -6842,6 +6842,7 @@
     "oneway": "yes",
     "ref": "A3W",
     "toll": "yes",
+    "wikidata": "Q105037848",
     "id": "way/17051430"
   },
   "geometry": {
@@ -20144,6 +20145,7 @@
     "oneway": "yes",
     "ref": "A3W",
     "toll": "yes",
+    "wikidata": "Q105037848",
     "id": "way/32278541"
   },
   "geometry": {
@@ -20199,6 +20201,7 @@
     "oneway": "yes",
     "ref": "A3W",
     "toll": "yes",
+    "wikidata": "Q105037848",
     "id": "way/32278545"
   },
   "geometry": {
@@ -23293,6 +23296,7 @@
     "oneway": "yes",
     "ref": "A3W",
     "toll": "yes",
+    "wikidata": "Q105037848",
     "id": "way/40959639"
   },
   "geometry": {
@@ -56587,6 +56591,7 @@
     "oneway": "yes",
     "ref": "A3W",
     "toll": "yes",
+    "wikidata": "Q105037848",
     "id": "way/537948560"
   },
   "geometry": {
@@ -56647,6 +56652,7 @@
     "ref": "A3W",
     "toll": "yes",
     "turn:lanes": "merge_to_right|none|none",
+    "wikidata": "Q105037848",
     "id": "way/537948561"
   },
   "geometry": {
@@ -56685,6 +56691,7 @@
     "oneway": "yes",
     "ref": "A3W",
     "toll": "yes",
+    "wikidata": "Q105037848",
     "id": "way/537948562"
   },
   "geometry": {
@@ -64586,6 +64593,7 @@
     "oneway": "yes",
     "ref": "A3W",
     "toll": "yes",
+    "wikidata": "Q105037848",
     "id": "way/656681143"
   },
   "geometry": {

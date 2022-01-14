@@ -1249,7 +1249,13 @@
   "id": "way/46511029",
   "properties": {
     "amenity": "school",
-    "name": "Blindenschule Baar",
+    "contact:city": "Baar",
+    "contact:housenumber": "20",
+    "contact:phone": "+41 41 767 78 33",
+    "contact:postcode": "6340",
+    "contact:street": "Landhausstrasse",
+    "contact:website": "https://www.sonnenberg-baar.ch/",
+    "name": "SONNENBERG Heilpädagogisches Schul- und Beratungszentrum",
     "id": "way/46511029"
   },
   "geometry": {

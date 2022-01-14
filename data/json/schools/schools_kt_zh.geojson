@@ -6275,6 +6275,57 @@
 },
 {
   "type": "Feature",
+  "id": "way/27938506",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "40a",
+    "addr:postcode": "8046",
+    "addr:street": "Lerchenhalde",
+    "amenity": "school",
+    "building": "school",
+    "isced:level": "1",
+    "name": "Schulhaus Schauenberg",
+    "start_date": "2019-08-19",
+    "id": "way/27938506"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.509757,
+          47.414476
+        ],
+        [
+          8.5098218,
+          47.4141729
+        ],
+        [
+          8.5098279,
+          47.4141735
+        ],
+        [
+          8.510276,
+          47.4142174
+        ],
+        [
+          8.5102747,
+          47.4142236
+        ],
+        [
+          8.5102112,
+          47.4145205
+        ],
+        [
+          8.509757,
+          47.414476
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/28003814",
   "properties": {
     "amenity": "school",
@@ -65359,15 +65410,17 @@
   "type": "Feature",
   "id": "way/427294439",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "271",
-    "addr:postcode": "8046",
-    "addr:street": "Käferholzstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "271",
+    "contact:phone": "+41 44 413 28 40",
+    "contact:postcode": "8046",
+    "contact:street": "Käferholzstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kaeferholz/ueberuns/standorte/schulhaus.html",
     "description": "Sekundarschule",
     "name": "Schule Käferholz",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/kaeferholz.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Käferholz",
+    "operator:type": "public",
     "id": "way/427294439"
   },
   "geometry": {
@@ -65395,72 +65448,212 @@
           47.4117726
         ],
         [
-          8.5223984,
-          47.4111793
+          8.522375,
+          47.411178
         ],
         [
-          8.5225462,
-          47.4111549
+          8.5224905,
+          47.4111755
         ],
         [
-          8.5226975,
-          47.4110964
+          8.5225245,
+          47.4111892
         ],
         [
-          8.5228381,
-          47.4109964
+          8.52259,
+          47.4111326
         ],
         [
-          8.5231804,
-          47.4106635
+          8.5226934,
+          47.4110852
         ],
         [
-          8.5232813,
-          47.4106343
+          8.5227471,
+          47.4110549
         ],
         [
-          8.5233552,
+          8.5228003,
+          47.4110218
+        ],
+        [
+          8.5228499,
+          47.4109852
+        ],
+        [
+          8.5228735,
+          47.410967
+        ],
+        [
+          8.5228958,
+          47.4109473
+        ],
+        [
+          8.5229744,
+          47.4108723
+        ],
+        [
+          8.523169,
+          47.4106795
+        ],
+        [
+          8.5231878,
+          47.410664
+        ],
+        [
+          8.523212,
+          47.410651
+        ],
+        [
+          8.5232364,
+          47.4106422
+        ],
+        [
+          8.5232666,
+          47.410636
+        ],
+        [
+          8.5232981,
+          47.410635
+        ],
+        [
+          8.5233269,
+          47.4106374
+        ],
+        [
+          8.5233514,
+          47.4106423
+        ],
+        [
+          8.5233609,
+          47.410648
+        ],
+        [
+          8.5233663,
           47.410655
         ],
         [
-          8.52374,
-          47.4108453
+          8.5237492,
+          47.4108424
         ],
         [
-          8.5237732,
-          47.4108745
+          8.5237602,
+          47.4108489
         ],
         [
-          8.523784,
-          47.4109379
+          8.5237695,
+          47.4108565
         ],
         [
-          8.523619,
-          47.4111729
+          8.5237744,
+          47.4108631
         ],
         [
-          8.523497,
-          47.4113976
+          8.5237781,
+          47.4108717
         ],
         [
-          8.5233972,
-          47.4116506
+          8.5237793,
+          47.4108828
         ],
         [
-          8.5233408,
-          47.411767
+          8.5237784,
+          47.4108892
         ],
         [
-          8.5231678,
-          47.4119914
+          8.5237765,
+          47.4108955
         ],
         [
-          8.5229946,
-          47.4121632
+          8.5237736,
+          47.4109006
         ],
         [
-          8.5226832,
-          47.4124134
+          8.5237678,
+          47.4109076
+        ],
+        [
+          8.5237991,
+          47.4109207
+        ],
+        [
+          8.5238024,
+          47.4109251
+        ],
+        [
+          8.5238052,
+          47.4109309
+        ],
+        [
+          8.5237086,
+          47.4110559
+        ],
+        [
+          8.5236255,
+          47.4111823
+        ],
+        [
+          8.5235527,
+          47.4113137
+        ],
+        [
+          8.5234925,
+          47.4114486
+        ],
+        [
+          8.5234349,
+          47.411593
+        ],
+        [
+          8.5234022,
+          47.4116662
+        ],
+        [
+          8.5233655,
+          47.4117379
+        ],
+        [
+          8.5233215,
+          47.4118084
+        ],
+        [
+          8.5232729,
+          47.4118776
+        ],
+        [
+          8.5232185,
+          47.411944
+        ],
+        [
+          8.5231599,
+          47.4120096
+        ],
+        [
+          8.5231285,
+          47.4120413
+        ],
+        [
+          8.5230967,
+          47.4120726
+        ],
+        [
+          8.523063,
+          47.4121031
+        ],
+        [
+          8.5230278,
+          47.4121332
+        ],
+        [
+          8.5226908,
+          47.4124186
+        ],
+        [
+          8.522621,
+          47.4124767
+        ],
+        [
+          8.52258,
+          47.4125142
         ],
         [
           8.5225447,
@@ -65475,11 +65668,17 @@
   "id": "way/427294441",
   "properties": {
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "40a",
+    "contact:phone": "+41 44 413 12 21",
+    "contact:postcode": "8046",
+    "contact:street": "Lerchenhalde",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/schauenberg/ueberuns/standorte/schulhaus.html",
     "name": "Schule Schauenberg",
     "note": "Ersatzneubau der Schulanlage Schauenberg bis Herbst 2019; zur Zeit in die Pavillionschule Ruggächern verlegt",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Schauenberg",
+    "operator:type": "public",
     "start_date": "2019-08-19",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/schauenberg.html",
     "id": "way/427294441"
   },
   "geometry": {

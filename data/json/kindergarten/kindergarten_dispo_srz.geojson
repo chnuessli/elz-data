@@ -2772,6 +2772,180 @@
 },
 {
   "type": "Feature",
+  "id": "way/41953960",
+  "properties": {
+    "addr:housenumber": "3a",
+    "addr:street": "Wolfswinkel",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Reckenholz I + II",
+    "note": "Aufgrund des Namens, vermutlich nicht der Originalstandort des Kindergartens",
+    "phone": "+41 44 413 22 83",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/imisengrind/ueberuns/standorte/kindergaerten.html#kindergaerten_reckenholziii",
+    "id": "way/41953960"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.51433,
+          47.4226986
+        ],
+        [
+          8.5143244,
+          47.4226878
+        ],
+        [
+          8.5143214,
+          47.4226774
+        ],
+        [
+          8.5143235,
+          47.4226646
+        ],
+        [
+          8.5143267,
+          47.4226572
+        ],
+        [
+          8.514334,
+          47.4226495
+        ],
+        [
+          8.5143404,
+          47.4226441
+        ],
+        [
+          8.5143471,
+          47.4226394
+        ],
+        [
+          8.5143551,
+          47.4226354
+        ],
+        [
+          8.514364,
+          47.4226328
+        ],
+        [
+          8.5143717,
+          47.4226308
+        ],
+        [
+          8.5143852,
+          47.4226289
+        ],
+        [
+          8.5145118,
+          47.4226327
+        ],
+        [
+          8.5146298,
+          47.4226353
+        ],
+        [
+          8.5146422,
+          47.4226365
+        ],
+        [
+          8.5146569,
+          47.4226412
+        ],
+        [
+          8.5146664,
+          47.4226453
+        ],
+        [
+          8.5146756,
+          47.4226506
+        ],
+        [
+          8.5146829,
+          47.422656
+        ],
+        [
+          8.5146902,
+          47.4226675
+        ],
+        [
+          8.5146923,
+          47.4226719
+        ],
+        [
+          8.5146941,
+          47.4226765
+        ],
+        [
+          8.5146945,
+          47.4226852
+        ],
+        [
+          8.5146934,
+          47.422693
+        ],
+        [
+          8.5146904,
+          47.4226997
+        ],
+        [
+          8.5146845,
+          47.4227074
+        ],
+        [
+          8.5146742,
+          47.4227172
+        ],
+        [
+          8.5146669,
+          47.4227215
+        ],
+        [
+          8.5146603,
+          47.4227249
+        ],
+        [
+          8.5146552,
+          47.4227263
+        ],
+        [
+          8.5146475,
+          47.4227285
+        ],
+        [
+          8.5146406,
+          47.4227302
+        ],
+        [
+          8.5146321,
+          47.4227306
+        ],
+        [
+          8.5143791,
+          47.4227228
+        ],
+        [
+          8.5143615,
+          47.4227196
+        ],
+        [
+          8.5143473,
+          47.4227134
+        ],
+        [
+          8.5143381,
+          47.4227067
+        ],
+        [
+          8.51433,
+          47.4226986
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/42158145",
   "properties": {
     "addr:city": "Zürich",
@@ -6723,6 +6897,48 @@
         [
           8.7545004,
           47.5129595
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/112073349",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "88",
+    "addr:postcode": "8046",
+    "addr:street": "Obsthaldenstrasse",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "isced:level": "0",
+    "name": "Kindergarten Obsthalden",
+    "id": "way/112073349"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5174281,
+          47.4141366
+        ],
+        [
+          8.5173861,
+          47.4140611
+        ],
+        [
+          8.5176107,
+          47.4140059
+        ],
+        [
+          8.5176522,
+          47.4140793
+        ],
+        [
+          8.5174281,
+          47.4141366
         ]
       ]
     ]
@@ -23304,8 +23520,15 @@
   "id": "way/705215552",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kindergarten Isengrind I + II",
+    "contact:city": "Zürich",
+    "contact:housenumber": "16",
+    "contact:phone": "+41 44 413 75 27",
+    "contact:postcode": "8046",
+    "contact:street": "Im Isengrind",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/imisengrind/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Isengrind 1+2",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
+    "operator:type": "public",
     "id": "way/705215552"
   },
   "geometry": {
@@ -23313,28 +23536,28 @@
     "coordinates": [
       [
         [
-          8.5115664,
-          47.4226523
+          8.5115553,
+          47.4226921
         ],
         [
-          8.5115862,
-          47.422266
+          8.5115841,
+          47.4222529
         ],
         [
-          8.5120918,
-          47.4222723
+          8.5120932,
+          47.4222671
         ],
         [
-          8.5121746,
-          47.4223734
+          8.5121822,
+          47.4223725
         ],
         [
-          8.5121501,
-          47.4224303
+          8.512155,
+          47.4224575
         ],
         [
-          8.5115664,
-          47.4226523
+          8.5115553,
+          47.4226921
         ]
       ]
     ]
@@ -23513,8 +23736,15 @@
   "id": "way/705220988",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "88",
+    "contact:phone": "+41 44 413 75 33",
+    "contact:postcode": "8046",
+    "contact:street": "Obsthaldenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/schauenberg/ueberuns/standorte/kindergaerten.html#kindergarten_obsthalden",
     "name": "Kindergarten Obsthalden",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Schauenberg",
+    "operator:type": "public",
     "id": "way/705220988"
   },
   "geometry": {
@@ -23522,28 +23752,28 @@
     "coordinates": [
       [
         [
-          8.5173745,
-          47.4142071
+          8.517377,
+          47.4142061
         ],
         [
-          8.517272,
-          47.4140127
+          8.5172679,
+          47.4140041
         ],
         [
-          8.5176002,
-          47.4139293
+          8.5176083,
+          47.4139197
         ],
         [
-          8.517738,
-          47.4140262
+          8.5177542,
+          47.4140327
         ],
         [
-          8.5177873,
-          47.4140997
+          8.5177919,
+          47.4140994
         ],
         [
-          8.5173745,
-          47.4142071
+          8.517377,
+          47.4142061
         ]
       ]
     ]
@@ -30919,45 +31149,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5170831129",
-  "properties": {
-    "addr:housenumber": "88",
-    "addr:street": "Obsthaldenstrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Obsthalden",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/5170831129"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5175339,
-      47.4140484
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5170831131",
-  "properties": {
-    "addr:housenumber": "3",
-    "addr:street": "Wolfswinkel",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Reckenholz I + II",
-    "note": "Aufgrund des Namens, vermutlich nicht der Originalstandort des Kindergartens",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/5170831131"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5145189,
-      47.4226621
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5170831323",
   "properties": {
     "amenity": "kindergarten",
@@ -32325,23 +32516,6 @@
     "coordinates": [
       8.5460627,
       47.4029317
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6624401691",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Morgentisch, Mittag-/Abendhort Isengrind",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/6624401691"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.513305,
-      47.4232001
     ]
   }
 },
@@ -36937,6 +37111,28 @@
     "coordinates": [
       8.482226,
       47.3805336
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9415756800",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "40a",
+    "contact:phone": "+ 41 44 413 12 16",
+    "contact:postcode": "8046",
+    "contact:street": "Lerchenhalde",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/schauenberg/ueberuns/standorte/kindergaerten.html#kindergarten_schauenberg",
+    "name": "Kindergarten Schauenberg 1+2",
+    "id": "node/9415756800"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5099216,
+      47.4144073
     ]
   }
 }
