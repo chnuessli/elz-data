@@ -405,3 +405,15 @@ echo -ne "Query Rettungspunkte Stadt Zürich...           "
 cat $DIR/queries/emergency_access_point_stadt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/highway/emergency/emergency_access_point_stadt_zh.geojson
 echo -ne "\t\t - Done.\r"
 echo ""
+
+# Notfalltreffpunkte Kanton Zürich
+echo -ne "Query Notfalltreffpunkte Kanton Zürich...           "
+cat $DIR/queries/disaster_help_point_kt_zh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/disaster_help_point/disaster_help_point_kt_zh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
+
+# Notfalltreffpunkte Kanton Zug
+echo -ne "Query Notfalltreffpunkte Kanton Zug...           "
+cat $DIR/queries/disaster_help_point_kt_zg.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/disaster_help_point/disaster_help_point_kt_zg.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
