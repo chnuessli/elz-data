@@ -223,3 +223,10 @@ df.to_csv (r'data/csv/highway/trunk/trunk_dispo_srz.csv', index = None)
 #Rettungspunkte
 df = pd.read_json (r'data/json/highway/emergency/emergency_access_point_stadt_zh.geojson')
 df.to_csv (r'data/csv/highway/emergency/emergency_access_point_stadt_zh.csv', index = None)
+
+#Notfalltreffpunkte
+df = pd.read_json (r'data/json/disaster_help_point/disaster_help_point_kt_zh.geojson')
+df.to_csv (r'data/csv/disaster_help_point/disaster_help_point_kt_zh.csv', index = None)
+
+df = pd.read_json (r'data/json/disaster_help_point/disaster_help_point_kt_zg.geojson')
+df.to_csv (r'data/csv/disaster_help_point/disaster_help_point_kt_zg.csv', index = None)
