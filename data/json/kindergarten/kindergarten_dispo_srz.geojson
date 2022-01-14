@@ -4383,6 +4383,85 @@
 },
 {
   "type": "Feature",
+  "id": "way/54175091",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "135",
+    "addr:postcode": "8055",
+    "addr:street": "Döltschiweg",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "isced:level": "0",
+    "name": "Kindergarten Döltschiweg 1+2",
+    "owner": "Familienheim-Genossenschaft Zürich (FGZ)",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
+    "start_date": "1945",
+    "id": "way/54175091"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5039184,
+          47.3657972
+        ],
+        [
+          8.5039892,
+          47.3657351
+        ],
+        [
+          8.5041363,
+          47.365812
+        ],
+        [
+          8.5042036,
+          47.3657529
+        ],
+        [
+          8.5043278,
+          47.3658179
+        ],
+        [
+          8.5043267,
+          47.3658188
+        ],
+        [
+          8.5043503,
+          47.3658311
+        ],
+        [
+          8.5043306,
+          47.3658484
+        ],
+        [
+          8.5043066,
+          47.3658358
+        ],
+        [
+          8.5041993,
+          47.3659299
+        ],
+        [
+          8.5040515,
+          47.3658526
+        ],
+        [
+          8.5040414,
+          47.3658615
+        ],
+        [
+          8.5039184,
+          47.3657972
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/56042959",
   "properties": {
     "addr:city": "Dübendorf",
@@ -21682,6 +21761,52 @@
 },
 {
   "type": "Feature",
+  "id": "way/465406257",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "23",
+    "addr:postcode": "8038",
+    "addr:street": "Owenweg",
+    "amenity": "kindergarten",
+    "building": "school",
+    "building:levels": "3",
+    "isced:level": "0",
+    "name": "Kindergarten Entlisberg Pavillon 1+2",
+    "note": "Schulpavillon Typ Züri-Modular",
+    "owner": "Immobilien Stadt Zürich (IMMO)",
+    "roof:shape": "flat",
+    "id": "way/465406257"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5275653,
+          47.3380754
+        ],
+        [
+          8.5275648,
+          47.3379942
+        ],
+        [
+          8.5279503,
+          47.3379942
+        ],
+        [
+          8.5279504,
+          47.3380747
+        ],
+        [
+          8.5275653,
+          47.3380754
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/483529420",
   "properties": {
     "amenity": "kindergarten",
@@ -27017,6 +27142,150 @@
 },
 {
   "type": "Feature",
+  "id": "way/1021043206",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "135",
+    "contact:phone": "+41 44 413 77 38",
+    "contact:postcode": "8055",
+    "contact:street": "Döltschiweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kuengenmatt/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Döltschiweg",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinhei Küngenmatt",
+    "operator:type": "public",
+    "id": "way/1021043206"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5038638,
+          47.3657275
+        ],
+        [
+          8.5039115,
+          47.3656983
+        ],
+        [
+          8.5039615,
+          47.3656775
+        ],
+        [
+          8.5040156,
+          47.3656601
+        ],
+        [
+          8.504067,
+          47.3656473
+        ],
+        [
+          8.5041161,
+          47.3656396
+        ],
+        [
+          8.5041638,
+          47.3656361
+        ],
+        [
+          8.5041936,
+          47.3656361
+        ],
+        [
+          8.5045762,
+          47.3656377
+        ],
+        [
+          8.5045735,
+          47.3656694
+        ],
+        [
+          8.5045661,
+          47.3656914
+        ],
+        [
+          8.5045579,
+          47.3657126
+        ],
+        [
+          8.5045469,
+          47.3657306
+        ],
+        [
+          8.5045317,
+          47.3657514
+        ],
+        [
+          8.5045024,
+          47.3657831
+        ],
+        [
+          8.5044597,
+          47.3658282
+        ],
+        [
+          8.5044299,
+          47.3658602
+        ],
+        [
+          8.50439,
+          47.3659006
+        ],
+        [
+          8.5042817,
+          47.3660093
+        ],
+        [
+          8.5042723,
+          47.3660192
+        ],
+        [
+          8.5040543,
+          47.3659074
+        ],
+        [
+          8.5038693,
+          47.3658101
+        ],
+        [
+          8.5038532,
+          47.3658007
+        ],
+        [
+          8.5038449,
+          47.3657896
+        ],
+        [
+          8.5038404,
+          47.3657817
+        ],
+        [
+          8.5038367,
+          47.3657674
+        ],
+        [
+          8.5038406,
+          47.3657519
+        ],
+        [
+          8.5038491,
+          47.3657399
+        ],
+        [
+          8.5038562,
+          47.3657322
+        ],
+        [
+          8.5038638,
+          47.3657275
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",
@@ -30932,28 +31201,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4951135093",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "135",
-    "addr:postcode": "8055",
-    "addr:street": "Döltschiweg",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Döltschiweg 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/4951135093"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5040217,
-      47.3658089
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4952798656",
   "properties": {
     "addr:city": "Zürich",
@@ -32793,15 +33040,22 @@
   "id": "node/6628663472",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "32",
+    "contact:phone": "+41 44 413 76 72",
+    "contact:postcode": "8037",
+    "contact:street": "Dorfstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/waidhalde/ueberuns/standorte/kindergaerten.html",
     "name": "Kindergarten Dorfstrasse",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Waidhalde",
+    "operator:type": "public",
     "id": "node/6628663472"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5227934,
-      47.3946327
+      8.5227632,
+      47.3946269
     ]
   }
 },
@@ -32840,23 +33094,6 @@
     "coordinates": [
       8.5251107,
       47.3971563
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6628663475",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/AbendhortDorfstrasse",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
-    "id": "node/6628663475"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5227051,
-      47.3945058
     ]
   }
 },
@@ -33935,23 +34172,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6633256648",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittaghort Döltschihalde 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/6633256648"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4992215,
-      47.3634564
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6633307830",
   "properties": {
     "amenity": "kindergarten",
@@ -34054,23 +34274,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6633329039",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Entlisberg Pavillon 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/6633329039"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.527739,
-      47.3380383
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6633329042",
   "properties": {
     "amenity": "kindergarten",
@@ -34083,23 +34286,6 @@
     "coordinates": [
       8.5286955,
       47.3356692
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6633329046",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Dangel",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/6633329046"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5289651,
-      47.3328486
     ]
   }
 },

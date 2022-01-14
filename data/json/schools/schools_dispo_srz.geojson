@@ -977,8 +977,12 @@
   "id": "relation/9202586",
   "properties": {
     "amenity": "school",
-    "name": "Primarschule Stofflerenweg",
+    "grades": "1-6",
+    "name": "KGS Winterthur",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "type": "multipolygon",
+    "website": "https://www.kgswinterthur.ch/kgs-primar/",
     "id": "relation/9202586"
   },
   "geometry": {
@@ -1086,8 +1090,12 @@
   "id": "relation/9202587",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Wallrüti",
+    "grades": "7-9",
+    "name": "Sekundarschule Wallrüti",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "type": "multipolygon",
+    "website": "https://www.sek-wallrüti.ch/",
     "id": "relation/9202587"
   },
   "geometry": {
@@ -30633,8 +30641,11 @@
   "id": "way/112883069",
   "properties": {
     "amenity": "school",
-    "name": "Lindberg",
-    "website": "http://lindberg-win.educanet2.ch/info/.ws_gen/",
+    "grades": "7-9",
+    "name": "Sekundarschule Lindberg",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.limpi.ch/",
     "id": "way/112883069"
   },
   "geometry": {
@@ -30734,7 +30745,10 @@
   "id": "way/112883095",
   "properties": {
     "amenity": "school",
-    "name": "Rychenberg",
+    "grades": "0-9",
+    "name": "Schule Rychenberg",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "website": "https://www.schule-rychenberg.com/",
     "id": "way/112883095"
   },
@@ -34337,15 +34351,17 @@
   "type": "Feature",
   "id": "way/126895661",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "71",
-    "addr:postcode": "8038",
-    "addr:street": "Balberstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "71",
+    "contact:phone": "+41 44 413 31 60",
+    "contact:postcode": "8038",
+    "contact:street": "Balberstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/entlisberg/ueberuns/standorte/schulhaus.html",
     "description": "Primarschule",
     "name": "Schule Entlisberg",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/entlisberg.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Entlisberg",
+    "operator:type": "public",
     "id": "way/126895661"
   },
   "geometry": {
@@ -34353,68 +34369,112 @@
     "coordinates": [
       [
         [
-          8.5269112,
-          47.3378337
+          8.5269212,
+          47.3378002
         ],
         [
-          8.5269148,
-          47.3373306
+          8.5269215,
+          47.3374012
         ],
         [
-          8.5270164,
-          47.3368792
+          8.5269284,
+          47.3372955
         ],
         [
-          8.5274437,
-          47.3369225
+          8.5269488,
+          47.3371922
         ],
         [
-          8.527659,
-          47.3369346
+          8.5270261,
+          47.3368748
+        ],
+        [
+          8.5272565,
+          47.3369037
+        ],
+        [
+          8.5273843,
+          47.3369178
+        ],
+        [
+          8.5275133,
+          47.3369272
+        ],
+        [
+          8.5276449,
+          47.3369327
+        ],
+        [
+          8.5277771,
+          47.3369351
         ],
         [
           8.5279108,
           47.3369354
         ],
         [
-          8.5287785,
-          47.3369357
+          8.5287874,
+          47.336936
         ],
         [
-          8.5288081,
-          47.3369473
+          8.52881,
+          47.3369413
         ],
         [
-          8.5288054,
-          47.3379148
+          8.5288174,
+          47.3369578
         ],
         [
-          8.5280682,
-          47.3379149
+          8.5288146,
+          47.3374148
         ],
         [
-          8.5280674,
-          47.3382204
+          8.5288108,
+          47.3379143
         ],
         [
-          8.5270629,
-          47.3382169
+          8.5280767,
+          47.3379112
         ],
         [
-          8.5270107,
-          47.3381957
+          8.5280743,
+          47.3382188
         ],
         [
-          8.5269764,
-          47.3381649
+          8.5271085,
+          47.3382185
         ],
         [
-          8.5269295,
-          47.3380038
+          8.5270581,
+          47.3382127
         ],
         [
-          8.5269112,
-          47.3378337
+          8.5270215,
+          47.3381967
+        ],
+        [
+          8.5269941,
+          47.3381761
+        ],
+        [
+          8.5269756,
+          47.3381476
+        ],
+        [
+          8.5269508,
+          47.338061
+        ],
+        [
+          8.5269341,
+          47.3379724
+        ],
+        [
+          8.526923,
+          47.3378857
+        ],
+        [
+          8.5269212,
+          47.3378002
         ]
       ]
     ]
@@ -34934,7 +34994,11 @@
   "id": "way/131474315",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Guggenbühl",
+    "grades": "0-6",
+    "name": "Schule Guggenbühl",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schule-guggenbuehl.ch/",
     "id": "way/131474315"
   },
   "geometry": {
@@ -75622,16 +75686,17 @@
   "type": "Feature",
   "id": "way/378567919",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "6",
-    "addr:postcode": "8055",
-    "addr:street": "Bühlstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "6",
+    "contact:phone": "+41 44 413 02 55",
+    "contact:postcode": "8055",
+    "contact:street": "Bühlstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/buehl/ueberuns/standorte/schulhaus.html",
     "description": "Primarschule",
     "name": "Schule Bühl",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/buehl.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Bühl",
+    "operator:type": "public,",
     "id": "way/378567919"
   },
   "geometry": {
@@ -75659,8 +75724,8 @@
           47.3683818
         ],
         [
-          8.5158465,
-          47.3682156
+          8.5158472,
+          47.3682153
         ],
         [
           8.5159256,

@@ -5261,6 +5261,30 @@
 },
 {
   "type": "Feature",
+  "id": "node/6633329046",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "21",
+    "contact:phone": "+41 44 413 74 55",
+    "contact:postcode": "8038",
+    "contact:street": "Dangelstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/entlisberg/betreuung/standorte.html#dangel",
+    "name": "Kinderhort Dangel - Mittag/Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Entlisberg",
+    "operator:type": "public",
+    "id": "node/6633329046"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5289196,
+      47.3328299
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6634713288",
   "properties": {
     "amenity": "childcare",
@@ -8190,6 +8214,98 @@
     "coordinates": [
       8.5099125,
       47.4142897
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9417101726",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "6",
+    "contact:phone": "+41 44 413 02 50",
+    "contact:postcode": "8055",
+    "contact:street": "Bühlstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/buehl/betreuung/standorte.html",
+    "name": "Kinderhort Bühl 1, 2, 3, 4 Morgen/Mittag/Abend",
+    "id": "node/9417101726"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5162232,
+      47.3682588
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9417243518",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "190",
+    "contact:phone": "+41 44 413 02 85",
+    "contact:postcode": "8055",
+    "contact:street": "Döltschiweg",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/amuetliberg/betreuung/standorte.html#doeltschihalde",
+    "name": "Kinderhort Döltschweg 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinhei Am Uetliberg",
+    "id": "node/9417243518"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4992522,
+      47.3634909
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9417243519",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "184",
+    "contact:phone": "+41 44 413 29 60",
+    "contact:postcode": "8055",
+    "contact:street": "Döltschiweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/doeltschi/ueberuns/standorte/schulhaus.html",
+    "name": "Kinderhort Döltschi - Mittag",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Döltschi",
+    "id": "node/9417243519"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4999489,
+      47.3639573
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9417375986",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "32",
+    "contact:phone": "+41 44 413 77 12",
+    "contact:postcode": "8037",
+    "contact:street": "Dorfstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/waidhalde/betreuung/standorte.html#dorfstrasse",
+    "name": "Kinderhort Dorfstrasse - Morgen/Mittag/Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Waidhalde",
+    "operator:type": "public",
+    "id": "node/9417375986"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.522684,
+      47.3944941
     ]
   }
 }
