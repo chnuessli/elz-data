@@ -29255,22 +29255,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2308591215",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Spielgruppe Summervogel",
-    "id": "node/2308591215"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7301744,
-      47.3449243
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2324398392",
   "properties": {
     "amenity": "kindergarten",
@@ -37319,6 +37303,22 @@
     "coordinates": [
       8.5099216,
       47.4144073
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9419229689",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Spielgruppe Summervogel",
+    "id": "node/9419229689"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7301958,
+      47.3449291
     ]
   }
 }
