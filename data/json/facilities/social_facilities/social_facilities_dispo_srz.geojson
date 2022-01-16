@@ -46338,6 +46338,28 @@
       47.4134397
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9419854610",
+  "properties": {
+    "addr:city": "Wetzikon",
+    "addr:housenumber": "284",
+    "addr:postcode": "8623",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "social_facility",
+    "name": "Netzwerk Auffangwohngruppe",
+    "phone": "+41 44 930 28 52",
+    "website": "https://auffangwohngruppe.netz-werk.ch/",
+    "id": "node/9419854610"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8107222,
+      47.3321981
+    ]
+  }
 }
 ]
 }
