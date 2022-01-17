@@ -6315,6 +6315,7 @@
   "properties": {
     "amenity": "childcare",
     "name": "Kids House",
+    "website": "https://kita-einzigartig.ch/",
     "id": "node/8838237485"
   },
   "geometry": {
@@ -8772,6 +8773,28 @@
     "coordinates": [
       8.522684,
       47.3944941
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9423477439",
+  "properties": {
+    "addr:city": "Bäretswil",
+    "addr:housenumber": "69",
+    "addr:postcode": "8344",
+    "addr:street": "Engelsteinstrasse",
+    "amenity": "childcare",
+    "name": "Chinderhuus Triangel",
+    "phone": "+41 43 833 60 55",
+    "website": "https://kinderkrippe-triangel.ch/",
+    "id": "node/9423477439"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8426916,
+      47.3408533
     ]
   }
 }

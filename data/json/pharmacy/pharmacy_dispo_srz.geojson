@@ -4071,12 +4071,14 @@
     "addr:housenumber": "60",
     "addr:postcode": "8003",
     "addr:street": "Zurlindenstrasse",
+    "alt_name": "Schmiedegg-Apotheke",
     "amenity": "pharmacy",
     "baby_feeding": "room",
     "healthcare": "pharmacy",
-    "name": "Schmiedegg-Apotheke",
+    "name": "APODRO Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-18:00",
-    "website": "https://www.schmiedegg-apotheke.ch",
+    "operator": "APODRO",
+    "website": "https://www.apodro.ch/%C3%BCber-uns/apodro-standorte/schmiedegg/",
     "wheelchair": "limited",
     "id": "node/1924110536"
   },
@@ -4573,8 +4575,7 @@
     "name": "APODRO Apotheke",
     "operator": "APODRO",
     "phone": "+41 55 266 12 01",
-    "shop": "chemist",
-    "website": "https://www.apodro.ch/55-apodro-apotheke-wald",
+    "website": "https://www.apodro.ch/%C3%BCber-uns/apodro-standorte/wald/",
     "id": "node/2468322528"
   },
   "geometry": {
@@ -5356,11 +5357,12 @@
     "amenity": "pharmacy",
     "branch": "Rüti ZH",
     "brand": "APODRO",
+    "healthcare": "pharmacy",
     "name": "APODRO Apotheke",
     "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:30; Th 08:00-12:00,13:30-19:00; Sa 08:00-16:00",
     "operator": "APODRO",
     "phone": "+41 55 241 20 70",
-    "website": "https://www.apodro.ch/",
+    "website": "https://www.apodro.ch/%C3%BCber-uns/apodro-standorte/r%C3%BCti/",
     "id": "node/3776674995"
   },
   "geometry": {
@@ -6631,10 +6633,12 @@
     "amenity": "pharmacy",
     "branch": "Greifensee",
     "brand": "APODRO",
+    "healthcare": "pharmacy",
     "name": "APODRO Apotheke",
+    "opening_hours": "Mo-Fr 08:00-12:15,14:00-18:30; Sa 08:00-16:00",
     "operator": "APODRO",
     "phone": "+41 44 994 39 93",
-    "website": "https://www.apodro.ch/50-apodro-apotheke-greifensee",
+    "website": "https://www.apodro.ch/%C3%BCber-uns/apodro-standorte/greifensee/",
     "id": "node/5080302185"
   },
   "geometry": {
@@ -7843,9 +7847,18 @@
   "type": "Feature",
   "id": "node/8919699602",
   "properties": {
+    "addr:city": "Hinwil",
+    "addr:housenumber": "19",
+    "addr:postcode": "8340",
+    "addr:street": "Dürntnerstrasse",
+    "alt_name": "APODRO Apotheke Hinwil",
     "amenity": "pharmacy",
+    "brand": "APODRO",
     "healthcare": "pharmacy",
-    "name": "Apodro",
+    "name": "APODRO Apotheke",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00",
+    "operator": "APODRO",
+    "website": "https://www.apodro.ch/%C3%BCber-uns/apodro-standorte/hinwil/",
     "id": "node/8919699602"
   },
   "geometry": {
