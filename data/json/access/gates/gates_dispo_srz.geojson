@@ -71005,6 +71005,22 @@
       47.5065962
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9431566521",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "id": "node/9431566521"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7727743,
+      47.2352911
+    ]
+  }
 }
 ]
 }
