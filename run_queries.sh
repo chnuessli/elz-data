@@ -417,3 +417,9 @@ echo -ne "Query Notfalltreffpunkte Kanton Zug...           "
 cat $DIR/queries/disaster_help_point_kt_zg.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/disaster_help_point/disaster_help_point_kt_zg.geojson
 echo -ne "\t\t - Done.\r"
 echo ""
+
+# Notfalltreffpunkte Kanton Schaffhausen
+echo -ne "Query Notfalltreffpunkte Kanton Schaffhausen...           "
+cat $DIR/queries/disaster_help_point_kt_sh.txt | python $DIR/overpass_query.py | osmtogeojson > $DIR/data/json/disaster_help_point/disaster_help_point_kt_sh.geojson
+echo -ne "\t\t - Done.\r"
+echo ""
