@@ -2700,19 +2700,21 @@
   "type": "Feature",
   "id": "node/2373834084",
   "properties": {
-    "addr:city": "Zürich-Flughafen",
-    "addr:postcode": "8058",
     "amenity": "police",
     "level": "1",
-    "name": "Polizeiposten Flughafen",
+    "name": "Polizeiposten",
+    "name:de": "Polizeiposten",
+    "name:en": "Police station",
+    "opening_hours": "Mo-Su 05:30-21:30",
     "operator": "Kantonspolizei Zürich",
+    "phone": "+41 44 655 57 58",
     "id": "node/2373834084"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.561145,
-      47.451402
+      8.5612724,
+      47.4515366
     ]
   }
 },
@@ -4137,6 +4139,28 @@
     "coordinates": [
       8.5633271,
       47.4524219
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9433086355",
+  "properties": {
+    "amenity": "police",
+    "level": "1",
+    "name": "Notpassbüro",
+    "name:de": "Notpassbüro",
+    "name:en": "Emergency passports",
+    "opening_hours": "Mo-Su 05:30-21:30",
+    "operator": "Kantonspolizei Zürich",
+    "phone": "+41 44 655 57 65",
+    "id": "node/9433086355"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5612409,
+      47.4516288
     ]
   }
 }

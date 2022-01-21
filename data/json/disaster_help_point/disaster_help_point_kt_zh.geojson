@@ -6042,6 +6042,321 @@
       47.343508
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9433959206",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "1",
+    "addr:postcode": "8400",
+    "addr:street": "St. Gallerstrasse",
+    "description": "Schulhaus Geiselweid",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9433959206"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7335622,
+      47.4987711
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9433959207",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "9",
+    "addr:postcode": "8400",
+    "addr:street": "Hochwachtstrasse",
+    "description": "Schulhaus Heiligberg",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9433959207"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7254358,
+      47.4957955
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9433959208",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "14",
+    "addr:postcode": "8406",
+    "addr:street": "Hündlerstrasse",
+    "description": "Schulhaus Laubegg",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9433959208"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7010512,
+      47.4782847
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9433959209",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "15",
+    "addr:postcode": "8406",
+    "addr:street": "Rebwiesenstrasse",
+    "description": "Schulhaus Rebwiesen",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9433959209"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7059978,
+      47.4947598
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9433959210",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "50",
+    "addr:postcode": "8408",
+    "addr:street": "Holzlegistrasse",
+    "description": "Schulhaus Langwiesen",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9433959210"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6891837,
+      47.5135704
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9433959211",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "42",
+    "addr:postcode": "8400",
+    "addr:street": "Wülflingerstrasse",
+    "description": "Schulhaus Wülflingerstrasse",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9433959211"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.716777,
+      47.5060933
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9433959212",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "54",
+    "addr:postcode": "8400",
+    "addr:street": "Buchackerstrasse",
+    "description": "Schulhaus Schachen",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9433959212"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7169835,
+      47.5169036
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9433959213",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "88",
+    "addr:postcode": "8404",
+    "addr:street": "Wiesendangerstrasse",
+    "description": "Schulhaus Stadel",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9433959213"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7640737,
+      47.534282
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9433959214",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "140",
+    "addr:postcode": "8404",
+    "addr:street": "Guggenbühlstrasse",
+    "description": "Schulhaus Wallrüti",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9433959214"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7598237,
+      47.5191163
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9433959215",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "17",
+    "addr:postcode": "8404",
+    "addr:street": "Talackerstrasse",
+    "description": "Schulhaus Rychenberg",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9433959215"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7516028,
+      47.5075274
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9433959216",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "50",
+    "addr:postcode": "8404",
+    "addr:street": "Ida-Sträuli-Strasse",
+    "description": "Schulhaus Neuhegi",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9433959216"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7672709,
+      47.5041347
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9433966017",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "30",
+    "addr:postcode": "8400",
+    "addr:street": "Grüzefeldstrasse",
+    "description": "Zielbau Arena",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9433966017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7483989,
+      47.4951938
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9433966018",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "32",
+    "addr:postcode": "8405",
+    "addr:street": "Büelhofstrasse",
+    "description": "Schulhaus Büelwiesen",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9433966018"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7652512,
+      47.4834012
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9433966019",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "1",
+    "addr:postcode": "8482",
+    "addr:street": "Herrmann-Bühler-Strasse",
+    "description": "Schulhaus Sennhof",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9433966019"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7585296,
+      47.466209
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9433966020",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "108",
+    "addr:postcode": "8405",
+    "addr:street": "Ibergstrasse",
+    "description": "Schulhaus Iberg",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9433966020"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7783598,
+      47.4644216
+    ]
+  }
 }
 ]
 }
