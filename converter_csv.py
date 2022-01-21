@@ -230,3 +230,6 @@ df.to_csv (r'data/csv/disaster_help_point/disaster_help_point_kt_zh.csv', index 
 
 df = pd.read_json (r'data/json/disaster_help_point/disaster_help_point_kt_zg.geojson')
 df.to_csv (r'data/csv/disaster_help_point/disaster_help_point_kt_zg.csv', index = None)
+
+df = pd.read_json (r'data/json/disaster_help_point/disaster_help_point_kt_sh.geojson')
+df.to_csv (r'data/csv/disaster_help_point/disaster_help_point_kt_sh.csv', index = None)
