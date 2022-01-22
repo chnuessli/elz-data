@@ -1331,13 +1331,14 @@
     "building:colour": "gray",
     "building:levels": "4",
     "height": "26.4",
-    "int_name": "Security Check Building",
+    "int_name": "Security",
     "internet_access": "wlan",
     "internet_access:fee": "no",
     "level": "0;1;2;3",
     "max_level": "3",
     "min_level": "0",
     "name": "Sicherheitskontrollgebäude",
+    "name:en": "Security Check Building",
     "nat_name": "Sicherheitskontrolle",
     "short_name": "SKG",
     "wheelchair": "yes",
@@ -3990,8 +3991,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5615364,
-      47.4526838
+      8.561436,
+      47.4526912
     ]
   }
 },
