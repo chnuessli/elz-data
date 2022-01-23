@@ -3856,7 +3856,7 @@
   "properties": {
     "amenity": "childcare",
     "email": "info@kinderkrippe-uster.ch",
-    "name": "Kinderkrippe / Kita",
+    "name": "Mary Poppins",
     "opening_hours": "Mo-Fr 07:00-18:00",
     "phone": "+41 44 949 40 45",
     "website": "https://kinderkrippe-uster.ch/",
@@ -3865,8 +3865,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7165673,
-      47.3464963
+      8.7164736,
+      47.3465651
     ]
   }
 },

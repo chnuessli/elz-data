@@ -30556,6 +30556,7 @@
     "amenity": "kindergarten",
     "name": "Betreuung Tössfeld",
     "operator": "Primarschule Tössfeld, Schulkreis Winterthur Stadt-Töss",
+    "wheelchair": "limited",
     "id": "node/4115298020"
   },
   "geometry": {
@@ -30575,6 +30576,7 @@
     "amenity": "kindergarten",
     "name": "Kindergarten Frohberg",
     "operator": "Primarschule Tössfeld, Schulkreis Winterthur Stadt-Töss",
+    "wheelchair": "no",
     "id": "node/4115298021"
   },
   "geometry": {

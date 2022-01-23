@@ -16436,6 +16436,50 @@
 },
 {
   "type": "Feature",
+  "id": "way/252766392",
+  "properties": {
+    "addr:city": "Uetendorf",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "3661",
+    "amenity": "clinic",
+    "building": "yes",
+    "ele": "559",
+    "healthcare": "clinic",
+    "source": "bing",
+    "source:addr": "Gebäudeadressen des Kantons Bern © Amt für Geoinformation des Kantons Bern",
+    "id": "way/252766392"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.568409,
+          46.7743268
+        ],
+        [
+          7.5683601,
+          46.7744477
+        ],
+        [
+          7.5681069,
+          46.7743996
+        ],
+        [
+          7.5681558,
+          46.7742788
+        ],
+        [
+          7.568409,
+          46.7743268
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/254602359",
   "properties": {
     "addr:city": "Thônex",

@@ -5947,6 +5947,7 @@
     "addr:housenumber": "5",
     "addr:street": "Dorfgasse",
     "amenity": "pharmacy",
+    "healthcare": "pharmacy",
     "name": "Central Apotheke",
     "id": "node/5188816950"
   },
@@ -5969,6 +5970,8 @@
     "amenity": "pharmacy",
     "branch": "Horgen",
     "brand": "TopPharm",
+    "brand:wikidata": "Q110277794",
+    "healthcare": "pharmacy",
     "name": "TopPharm Apotheke zum Erzberg",
     "operator": "TopPharm Genossenschaft",
     "website": "https://www.apotheke.ch/erzberg",
