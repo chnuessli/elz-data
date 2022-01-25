@@ -434,101 +434,6 @@
 },
 {
   "type": "Feature",
-  "id": "relation/5636847",
-  "properties": {
-    "addr:city": "Thalwil",
-    "addr:housenumber": "148",
-    "addr:postcode": "8800",
-    "addr:street": "Alte Landstrasse",
-    "amenity": "school",
-    "building": "yes",
-    "name": "Ludretikon",
-    "type": "multipolygon",
-    "id": "relation/5636847"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5622709,
-          47.2960691
-        ],
-        [
-          8.5621133,
-          47.296264
-        ],
-        [
-          8.5618746,
-          47.2961771
-        ],
-        [
-          8.5620251,
-          47.2959775
-        ],
-        [
-          8.5622709,
-          47.2960691
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "relation/5636848",
-  "properties": {
-    "amenity": "school",
-    "name": "Ludretikon",
-    "type": "multipolygon",
-    "id": "relation/5636848"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5625354,
-          47.2960267
-        ],
-        [
-          8.5622056,
-          47.2963703
-        ],
-        [
-          8.5618749,
-          47.2962352
-        ],
-        [
-          8.5618545,
-          47.2962247
-        ],
-        [
-          8.561839,
-          47.296207
-        ],
-        [
-          8.5618278,
-          47.2961576
-        ],
-        [
-          8.5618246,
-          47.2961292
-        ],
-        [
-          8.5620774,
-          47.2958418
-        ],
-        [
-          8.5625354,
-          47.2960267
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "relation/7064113",
   "properties": {
     "amenity": "school",
@@ -80013,6 +79918,58 @@
 },
 {
   "type": "Feature",
+  "id": "way/1024187185",
+  "properties": {
+    "amenity": "school",
+    "name": "Ludretikon",
+    "id": "way/1024187185"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5618254,
+          47.2961303
+        ],
+        [
+          8.5620791,
+          47.2958425
+        ],
+        [
+          8.5625511,
+          47.2960339
+        ],
+        [
+          8.5623094,
+          47.2963081
+        ],
+        [
+          8.562274,
+          47.2962938
+        ],
+        [
+          8.5622107,
+          47.2963656
+        ],
+        [
+          8.5618688,
+          47.2962271
+        ],
+        [
+          8.5618381,
+          47.2962005
+        ],
+        [
+          8.5618254,
+          47.2961303
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/75024078",
   "properties": {
     "amenity": "school",
@@ -82886,6 +82843,43 @@
     "coordinates": [
       8.4921902,
       47.3897226
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9444735508",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:housenumber": "4",
+    "addr:postcode": "8600",
+    "addr:street": "Auenstrasse",
+    "amenity": "school",
+    "name": "Kursräume VELEDES",
+    "id": "node/9444735508"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5998892,
+      47.3952785
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9444741815",
+  "properties": {
+    "amenity": "school",
+    "name": "VELEDES Bildung Hauptsitz",
+    "operator": "Veledes Bildung AG",
+    "id": "node/9444741815"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5987297,
+      47.3955642
     ]
   }
 }
