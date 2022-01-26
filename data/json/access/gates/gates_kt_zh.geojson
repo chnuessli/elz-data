@@ -29880,7 +29880,7 @@
   "properties": {
     "barrier": "lift_gate",
     "bicycle": "yes",
-    "motor_vehicle": "conditional=no @ (Mo-Sa 07:00-09:00, Su)",
+    "motor_vehicle:conditional": "no @ (Mo-Sa 07:00-09:00, Su)",
     "id": "node/3619007147"
   },
   "geometry": {

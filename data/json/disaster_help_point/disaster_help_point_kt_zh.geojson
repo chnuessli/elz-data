@@ -6357,6 +6357,48 @@
       47.4644216
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9447243797",
+  "properties": {
+    "addr:city": "Seuzach",
+    "addr:housenumber": "4",
+    "addr:postcode": "8472",
+    "addr:street": "Rebhogerstrasse",
+    "description": "ALST-Anlage",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9447243797"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7117693,
+      47.528255
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9447243798",
+  "properties": {
+    "addr:city": "Seuzach",
+    "addr:housenumber": "16",
+    "addr:postcode": "8472",
+    "addr:street": "Ohringerstrasse",
+    "description": "Schulanlage Rietacker",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9447243798"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7274441,
+      47.536216
+    ]
+  }
 }
 ]
 }

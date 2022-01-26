@@ -3928,23 +3928,23 @@
   "type": "Feature",
   "id": "node/2408277201",
   "properties": {
-    "addr:city": "Zürich Flughafen",
-    "addr:postcode": "8060",
+    "alt_name": "Amavita Flughafen",
     "amenity": "pharmacy",
-    "branch": "Zürich Flughafen (Airport Shopping)",
-    "brand": "Amavita",
+    "email": "ama249@amavita.ch",
     "healthcare": "pharmacy",
     "level": "0",
-    "name": "Amavita Flughafen",
+    "name": "Amavita Apotheke",
+    "opening_hours": "Mo-Su 07:00-21:00",
     "operator": "GaleniCare",
+    "phone": "+41 58 878 25 60",
     "website": "https://www.amavita.ch/de/amavita-apotheke-flughafen-284",
     "id": "node/2408277201"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5624545,
-      47.4510912
+      8.5624443,
+      47.4510891
     ]
   }
 },
