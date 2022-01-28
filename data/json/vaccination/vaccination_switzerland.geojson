@@ -3,6 +3,46 @@
 "features": [
 {
   "type": "Feature",
+  "id": "way/33789454",
+  "properties": {
+    "building": "yes",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum KSB",
+    "source": "bing",
+    "vaccination": "covid19",
+    "id": "way/33789454"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.2790972,
+          47.4565426
+        ],
+        [
+          8.2790956,
+          47.4563949
+        ],
+        [
+          8.2792805,
+          47.456394
+        ],
+        [
+          8.2792821,
+          47.4565418
+        ],
+        [
+          8.2790972,
+          47.4565426
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/53644239",
   "properties": {
     "addr:housenumber": "3",
@@ -186,6 +226,944 @@
           47.4087661
         ]
       ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/184594087",
+  "properties": {
+    "addr:housenumber": "68",
+    "addr:postcode": "3604",
+    "addr:street": "Seestrasse",
+    "amenity": "community_centre",
+    "building": "public",
+    "healthcare:speciality": "vaccination",
+    "name": "Kultur- und Kongresszentrum Thun KKT",
+    "source": "bing",
+    "vaccination": "covid19",
+    "website": "http://www.kkthun.ch",
+    "id": "way/184594087"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.6296291,
+          46.7433885
+        ],
+        [
+          7.6296518,
+          46.7433931
+        ],
+        [
+          7.6296599,
+          46.7433948
+        ],
+        [
+          7.6296645,
+          46.7433988
+        ],
+        [
+          7.629669,
+          46.7434032
+        ],
+        [
+          7.6296708,
+          46.7434082
+        ],
+        [
+          7.6296702,
+          46.7434135
+        ],
+        [
+          7.6296687,
+          46.7434186
+        ],
+        [
+          7.6296642,
+          46.7434226
+        ],
+        [
+          7.6296587,
+          46.7434265
+        ],
+        [
+          7.6296522,
+          46.7434286
+        ],
+        [
+          7.6296441,
+          46.7434296
+        ],
+        [
+          7.6296352,
+          46.7434288
+        ],
+        [
+          7.6295862,
+          46.7434219
+        ],
+        [
+          7.6295141,
+          46.743478
+        ],
+        [
+          7.6294445,
+          46.7434679
+        ],
+        [
+          7.6294318,
+          46.7435109
+        ],
+        [
+          7.6291776,
+          46.7434756
+        ],
+        [
+          7.6292141,
+          46.7433614
+        ],
+        [
+          7.6289257,
+          46.7433194
+        ],
+        [
+          7.6288696,
+          46.7432854
+        ],
+        [
+          7.6290304,
+          46.7427464
+        ],
+        [
+          7.6291723,
+          46.7427135
+        ],
+        [
+          7.6293784,
+          46.7428872
+        ],
+        [
+          7.6295441,
+          46.7429885
+        ],
+        [
+          7.6295716,
+          46.7430053
+        ],
+        [
+          7.6296198,
+          46.742969
+        ],
+        [
+          7.6296399,
+          46.7429811
+        ],
+        [
+          7.6296383,
+          46.7429826
+        ],
+        [
+          7.6298712,
+          46.7431283
+        ],
+        [
+          7.6297912,
+          46.7433963
+        ],
+        [
+          7.6296499,
+          46.7433758
+        ],
+        [
+          7.6296291,
+          46.7433885
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/935533767",
+  "properties": {
+    "building": "marquee",
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Bern Insel",
+    "phone": "+41 316368800",
+    "source:geometry": "estimate",
+    "vaccination": "covid19",
+    "website": "https://www.gef.be.ch/gef/de/index/Corona/Corona/corona_impfung_bern.html",
+    "id": "way/935533767"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.4234498,
+          46.9493204
+        ],
+        [
+          7.4235754,
+          46.9491085
+        ],
+        [
+          7.4239787,
+          46.9492198
+        ],
+        [
+          7.4238532,
+          46.9494318
+        ],
+        [
+          7.4237688,
+          46.9494085
+        ],
+        [
+          7.4236196,
+          46.9493673
+        ],
+        [
+          7.4234498,
+          46.9493204
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1013498240",
+  "properties": {
+    "building": "yes",
+    "healthcare": "yes",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Leuggern",
+    "vaccination": "covid19",
+    "website": "https://www.spitalleuggern.ch/index.php?id=919",
+    "id": "way/1013498240"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.2167394,
+          47.5819649
+        ],
+        [
+          8.2169178,
+          47.5817671
+        ],
+        [
+          8.217028,
+          47.5818123
+        ],
+        [
+          8.2168497,
+          47.5820102
+        ],
+        [
+          8.2167394,
+          47.5819649
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/923523615",
+  "properties": {
+    "addr:city": "Weinfelden",
+    "addr:housenumber": "5",
+    "addr:postcode": "8570",
+    "addr:street": "Tannenwiesenstrasse",
+    "alt_name": "Kantonales Impfzentrum",
+    "fixme": "Genaue Position/Ausmasse und Organisation/Wege ergaenzen",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "level": "0",
+    "name": "Covid-19 Impfzentrum Weinfelden",
+    "operator": "Amt für Gesundheit Kanton Thurgau",
+    "phone": "+41 58 345 34 40",
+    "room": "healthcare",
+    "start_date": "2021-04-06",
+    "vaccination": "covid19",
+    "website": "https://gesundheit.tg.ch/aktuelles/impfung-fuer-covid-19.html/11590",
+    "id": "way/923523615"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        9.0938247,
+        47.569615
+      ],
+      [
+        9.0945834,
+        47.5693318
+      ],
+      [
+        9.0946898,
+        47.5694615
+      ],
+      [
+        9.093931,
+        47.5697447
+      ],
+      [
+        9.0938247,
+        47.569615
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1853060089",
+  "properties": {
+    "amenity": "restaurant",
+    "healthcare:speciality": "vaccination",
+    "name": "Alte Mühle",
+    "vaccination": "covid19",
+    "id": "node/1853060089"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7921838,
+      47.214638
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8310439885",
+  "properties": {
+    "alt_name": "COVID-19 Impfzentrum Zug",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Baar",
+    "operator": "Kantonsspital Zug, Hirslanden Cham",
+    "vaccination": "covid19",
+    "website": "https://www.corona-impfung-zug.ch/",
+    "id": "node/8310439885"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5372757,
+      47.196268
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8320771141",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "84",
+    "addr:postcode": "8001",
+    "addr:street": "Hirschengraben",
+    "alt_name": "COVID-19 Impfzentrum Zürich",
+    "amenity": "doctors",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Referenz-Impfzentrum RIZ der Universität Zürich",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "operator": "Universität Zürich",
+    "phone": "+41 800 33 66 55",
+    "vaccination": "covid19",
+    "website": "https://coronazentrum.uzh.ch/",
+    "id": "node/8320771141"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5454071,
+      47.3760017
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8320819660",
+  "properties": {
+    "addr:city": "Schwyz",
+    "addr:housenumber": "10",
+    "addr:postcode": "6430",
+    "addr:street": "Waldeggstrasse",
+    "alt_name": "COVID-19 Impfentrum Schwyz",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Spital Schwyz",
+    "phone": "+41 41 818 41 11",
+    "vaccination": "covid19",
+    "website": "https://www.spital-schwyz.ch",
+    "id": "node/8320819660"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6595687,
+      47.0157115
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8320819661",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:housenumber": "28",
+    "addr:postcode": "8840",
+    "addr:street": "Spitalstrasse",
+    "alt_name": "COVID-19 Impfentrum Einsiedeln",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Spital Einsiedeln",
+    "vaccination": "covid19",
+    "website": "https://www.spital-einsiedeln.ch/home",
+    "id": "node/8320819661"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7391121,
+      47.1306871
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8320819662",
+  "properties": {
+    "addr:city": "Lachen",
+    "addr:housenumber": "41",
+    "addr:postcode": "8853",
+    "addr:street": "Oberdorfstrasse",
+    "alt_name": "COVID-19 Impfzentrum Lachen",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Spital Lachen",
+    "phone": "+41 41 819 15 95",
+    "vaccination": "covid19",
+    "website": "https://www.spital-lachen.ch/coronavirus.html",
+    "id": "node/8320819662"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8589057,
+      47.1892207
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8320845110",
+  "properties": {
+    "addr:city": "Neuhausen am Rheinfall",
+    "addr:housenumber": "2",
+    "addr:postcode": "8212",
+    "addr:street": "Charlottenweg",
+    "alt_name": "COVID-19 Impfzentrum Schaffhausen",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Kantonales Impfzentrum KIZ",
+    "operator": "Kanton Schaffhausen",
+    "vaccination": "covid19",
+    "website": "https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-7126057-DE.html",
+    "id": "node/8320845110"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.621357,
+      47.6905053
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8339138325",
+  "properties": {
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum KSA",
+    "vaccination": "covid19",
+    "id": "node/8339138325"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0590561,
+      47.3896113
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8382900798",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "491",
+    "addr:postcode": "8063",
+    "addr:street": "Birmensdorferstrasse",
+    "alt_name": "COVID-19 Impfzentrum Triemli",
+    "amenity": "doctors",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Stadtspital Triemli",
+    "opening_hours": "Mo-Fr 09:00-18:00",
+    "phone": "+41 44 416 11 11",
+    "vaccination": "covid19",
+    "website": "https://www.stadt-zuerich.ch/triemli/de/index/service/medien/auszeichnungen-news/impfzentrum.html",
+    "id": "node/8382900798"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4979852,
+      47.3673209
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8440808929",
+  "properties": {
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum KSB",
+    "vaccination": "covid19",
+    "id": "node/8440808929"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2211168,
+      47.4824844
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8477983050",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "4",
+    "addr:postcode": "8610",
+    "addr:street": "Hallenbadweg",
+    "alt_name": "COVID-19 Impfzentrum Uster",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Uster",
+    "opening_hours": "Tu-Sa 14:00-18:30",
+    "operator": "Kanton Zürich",
+    "vaccination": "covid19",
+    "id": "node/8477983050"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7258161,
+      47.360487
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8486244047",
+  "properties": {
+    "addr:housenumber": "3",
+    "addr:street": "Baselstrasse",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "vaccination": "covid19",
+    "id": "node/8486244047"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5405544,
+      47.2095468
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8641916736",
+  "properties": {
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Centre de Vaccination - Palais de Beaulieu",
+    "office": "healthcare",
+    "opening_hours": "Mo-Fr 08:00-22:00, Sa 08:00-22:00, Su 09:00-16:00",
+    "phone": "+41 58 715 11 00",
+    "reservation": "required",
+    "start_date": "2021-04-19",
+    "vaccination": "covid19",
+    "id": "node/8641916736"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6257864,
+      46.5287474
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8707583231",
+  "properties": {
+    "addr:city": "Jona",
+    "addr:housenumber": "120",
+    "addr:postcode": "8645",
+    "addr:street": "St. Gallerstrasse",
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Jona",
+    "operator": "Kanton St.Gallen",
+    "vaccination": "covid19",
+    "website": "https://sg.ch/coronavirus/impfen",
+    "id": "node/8707583231"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8488494,
+      47.2298606
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8710380245",
+  "properties": {
+    "addr:city": "Ennenda",
+    "addr:housenumber": "2",
+    "addr:postcode": "8755",
+    "addr:street": "Bahnhofstrasse",
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Glarus",
+    "operator": "Kanton Glarus",
+    "vaccination": "covid19",
+    "website": "https://www.gl.ch/coronavirus",
+    "id": "node/8710380245"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0768288,
+      47.0338685
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8712147047",
+  "properties": {
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "vaccination": "covid19",
+    "id": "node/8712147047"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9816533,
+      47.1723904
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8761614594",
+  "properties": {
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Stansstad",
+    "vaccination": "covid19",
+    "id": "node/8761614594"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3403461,
+      46.9782327
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9021071259",
+  "properties": {
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:country": "CH",
+    "addr:housenumber": "153",
+    "addr:postcode": "2300",
+    "addr:street": "Rue des Crêtets",
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Polyexpo",
+    "vaccination": "covid19",
+    "id": "node/9021071259"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8138128,
+      47.0887304
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9118270164",
+  "properties": {
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Corona Impfzentrum Basel-Stadt",
+    "vaccination": "covid19",
+    "id": "node/9118270164"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5994827,
+      47.5626492
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9310121050",
+  "properties": {
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impf Pop-Up Panoramacenter Thun",
+    "vaccination": "covid19",
+    "website": "https://covid-kennzahlen.apps.be.ch/#/de/search",
+    "id": "node/9310121050"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6046575,
+      46.7438657
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9310124397",
+  "properties": {
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "level": "2",
+    "name": "Impf Pop-Up Westside",
+    "vaccination": "covid19",
+    "website": "https://covid-kennzahlen.apps.be.ch/#/de/search",
+    "id": "node/9310124397"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3743755,
+      46.9446416
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9310144729",
+  "properties": {
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impf Pop-Up IKEA Lyssach",
+    "vaccination": "covid19",
+    "id": "node/9310144729"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5698306,
+      47.0747035
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9310146361",
+  "properties": {
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impf Pop-Up Shoppyland Schönbühl",
+    "vaccination": "covid19",
+    "id": "node/9310146361"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4917958,
+      47.0171201
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9317666746",
+  "properties": {
+    "addr:city": "Affoltern am Albis",
+    "addr:housenumber": "7",
+    "addr:postcode": "8910",
+    "addr:street": "Obstgartenstrasse",
+    "alt_name": "COVID-19 Impfzentrum Affoltern",
+    "amenity": "doctors",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Affoltern am Albis",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-20:00; Sa 09:00-12:00, 13:00-16:00",
+    "operator": "Kanton Zürich",
+    "vaccination": "covid19",
+    "website": "https://www.spitalaffoltern.ch/impfzentrum.html",
+    "id": "node/9317666746"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4441661,
+      47.2746451
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9344041842",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "75",
+    "addr:postcode": "8032",
+    "addr:street": "Steinwiesstrasse",
+    "alt_name": "COVID-19 Impfzentrum Kinderspital",
+    "amenity": "doctors",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Kinderspital",
+    "operator": "Universität Zürich",
+    "vaccination": "covid19",
+    "website": "https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung/impforte.html#1270696829",
+    "id": "node/9344041842"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5580499,
+      47.3716473
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9344076993",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "6",
+    "addr:postcode": "8050",
+    "addr:street": "Therese-Giehse-Strasse",
+    "alt_name": "Boosterimpfzentrum Zürich-Oerlikon",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Zürich-Oerlikon",
+    "operator": "Universität Zürich",
+    "vaccination": "covid19",
+    "website": "https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung/impforte.html#1270696829",
+    "id": "node/9344076993"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5423837,
+      47.4123259
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9344092190",
+  "properties": {
+    "addr:city": "Meilen",
+    "addr:housenumber": "23",
+    "addr:postcode": "8706",
+    "addr:street": "Schulhausstrasse",
+    "alt_name": "Pop-up-Impfzentrum Meilen",
+    "amenity": "doctors",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Meilen",
+    "vaccination": "covid19",
+    "id": "node/9344092190"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6426991,
+      47.2691756
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9344115272",
+  "properties": {
+    "addr:city": "Bülach",
+    "addr:housenumber": "8",
+    "addr:street": "Allmendstrasse",
+    "alt_name": "Covid-19 Impfzentrum Bülach",
+    "amenity": "doctors",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Bülach",
+    "vaccination": "covid19",
+    "id": "node/9344115272"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5365229,
+      47.5155857
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9344195340",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "5",
+    "addr:postcode": "8953",
+    "addr:street": "Bahnhofstrasse",
+    "alt_name": "Pop-up-Impfzentrum Dietikon",
+    "amenity": "doctors",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Dietikon",
+    "vaccination": "covid19",
+    "id": "node/9344195340"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.404326,
+      47.4041794
     ]
   }
 }

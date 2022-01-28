@@ -2571,7 +2571,10 @@
     "amenity": "pharmacy",
     "branch": "Zollikerberg",
     "brand": "Amavita",
-    "name": "Amavita im Zollikerberg",
+    "brand:wikidata": "Q93733901",
+    "brand:wikipedia": "de:Amavita",
+    "healthcare": "pharmacy",
+    "name": "Amavita",
     "operator": "GaleniCare",
     "website": "https://www.amavita.ch/de/amavita-apotheke-im-zollikerberg",
     "id": "node/877150393"

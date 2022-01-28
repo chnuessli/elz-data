@@ -79970,6 +79970,46 @@
 },
 {
   "type": "Feature",
+  "id": "way/1025135332",
+  "properties": {
+    "amenity": "school",
+    "grades": "1-2",
+    "name": "Schulhaus Gotzenwil",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://schule-aussenwachten.ch/schule/gotzenwil.php",
+    "id": "way/1025135332"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7786875,
+          47.4733332
+        ],
+        [
+          8.7783905,
+          47.4732402
+        ],
+        [
+          8.7786197,
+          47.4729097
+        ],
+        [
+          8.7789319,
+          47.4730143
+        ],
+        [
+          8.7786875,
+          47.4733332
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/75024078",
   "properties": {
     "amenity": "school",
