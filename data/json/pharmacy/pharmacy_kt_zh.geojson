@@ -3322,6 +3322,7 @@
     "alt_name": "Apotheke Im Brühl",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date:opening_hours": "2022-01-30",
     "name": "Zürigsund Im Brühl",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
     "operator": "Rotpunkt Pharma",
