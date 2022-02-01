@@ -50313,23 +50313,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9213859223",
-  "properties": {
-    "amenity": "hospital",
-    "healthcare": "hospital",
-    "name": "Centre Médical Intercommunal",
-    "id": "node/9213859223"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.4821025,
-      46.3119205
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9220892453",
   "properties": {
     "addr:city": "Bulle",
