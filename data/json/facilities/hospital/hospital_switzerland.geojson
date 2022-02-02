@@ -6186,45 +6186,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/49397418",
-  "properties": {
-    "amenity": "hospital",
-    "fixme": "area delimitation correct? dentist correct?",
-    "healthcare": "dentist",
-    "name": "Clinique de la Serre",
-    "source": "orthophotos2006sitn50cm",
-    "id": "way/49397418"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          6.828856,
-          47.1039166
-        ],
-        [
-          6.8292565,
-          47.1036323
-        ],
-        [
-          6.8297644,
-          47.1039638
-        ],
-        [
-          6.8293639,
-          47.1042481
-        ],
-        [
-          6.828856,
-          47.1039166
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/49404814",
   "properties": {
     "addr:city": "La Chaux-de-Fonds",
@@ -12113,7 +12074,7 @@
     "email": "badenfreihof@zurzachcare.ch",
     "healthcare": "clinic",
     "name": "ZURZACH Care - Rehaklinik Baden (Freihof)",
-    "opening_hours": "Mo-Fr 07:30-20:00; Sa,Su 09.00-14.00",
+    "opening_hours": "Mo-Fr 07:30-20:00; Sa,Su 09:00-14:00",
     "operator": "ZURZACH Care AG",
     "phone": "+41 56 203 08 08",
     "website": "https://www.zurzachcare.ch/baden",
@@ -50459,6 +50420,26 @@
     "coordinates": [
       7.2144518,
       46.0783771
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9465659413",
+  "properties": {
+    "amenity": "clinic",
+    "name": "Check-up Zentrum Hirslanden Zürich",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
+    "operator": "Hirslanden Zürich",
+    "phone": "+41 44 387 35 79",
+    "website": "https://www.hirslanden.ch/de/klinik-hirslanden/centers/checkupzentrum-hirslanden.html",
+    "id": "node/9465659413"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5844126,
+      47.3500976
     ]
   }
 }

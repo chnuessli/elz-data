@@ -8102,6 +8102,26 @@
       47.3659083
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9465659413",
+  "properties": {
+    "amenity": "clinic",
+    "name": "Check-up Zentrum Hirslanden Zürich",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
+    "operator": "Hirslanden Zürich",
+    "phone": "+41 44 387 35 79",
+    "website": "https://www.hirslanden.ch/de/klinik-hirslanden/centers/checkupzentrum-hirslanden.html",
+    "id": "node/9465659413"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5844126,
+      47.3500976
+    ]
+  }
 }
 ]
 }
