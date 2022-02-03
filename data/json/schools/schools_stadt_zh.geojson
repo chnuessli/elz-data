@@ -16655,47 +16655,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/952599468",
-  "properties": {
-    "amenity": "school",
-    "description": "Erismannhof",
-    "name": "Erismannhof",
-    "id": "way/952599468"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.519786,
-          47.3800522
-        ],
-        [
-          8.5194371,
-          47.3795726
-        ],
-        [
-          8.5197532,
-          47.3794129
-        ],
-        [
-          8.5201093,
-          47.3797923
-        ],
-        [
-          8.5201813,
-          47.3798689
-        ],
-        [
-          8.519786,
-          47.3800522
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/998670603",
   "properties": {
     "amenity": "school",

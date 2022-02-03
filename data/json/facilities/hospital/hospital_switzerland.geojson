@@ -49504,32 +49504,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7836790637",
-  "properties": {
-    "addr:city": "Basel",
-    "addr:housenumber": "3",
-    "addr:postcode": "4001",
-    "addr:street": "Münzgasse",
-    "amenity": "hospital",
-    "email": "praxis@gerberhostettler-willi.ch",
-    "healthcare": "doctor",
-    "healthcare:speciality": "ophthalmology",
-    "name": "Augenarztpraxis Gerber Hostettler & Willi",
-    "operator": "Dr. D. Gerber Hostettler und Dr. M. Willi",
-    "operator:type": "private_individual",
-    "phone": "+41612609911",
-    "id": "node/7836790637"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.5870982,
-      47.5572679
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8158697429",
   "properties": {
     "addr:city": "Biel/Bienne",
@@ -50440,6 +50414,27 @@
     "coordinates": [
       8.5844126,
       47.3500976
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9468964973",
+  "properties": {
+    "addr:city": "Reichenbach im Kandertal",
+    "addr:housenumber": "7",
+    "addr:postcode": "3713",
+    "addr:street": "Ogimatte",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Praxis Ogimatte",
+    "id": "node/9468964973"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6926098,
+      46.6251174
     ]
   }
 }
