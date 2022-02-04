@@ -4348,28 +4348,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4421187955",
-  "properties": {
-    "addr:city": "Erlenbach",
-    "addr:country": "CH",
-    "addr:housenumber": "20",
-    "addr:postcode": "8703",
-    "addr:street": "Bahnhofstrasse",
-    "amenity": "childcare",
-    "fixme": "Art/Typ der Kinderbetreuung, Name/Bezeichnung",
-    "old_name": "Zürcher Kantonalbank",
-    "id": "node/4421187955"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.591584,
-      47.3049497
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4809619659",
   "properties": {
     "amenity": "childcare",

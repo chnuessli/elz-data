@@ -202,6 +202,7 @@
     "addr:street": "Luggwegstrasse",
     "amenity": "kindergarten",
     "building": "school",
+    "building:levels": "3",
     "isced:level": "0",
     "name": "Kindergarten Kappeli 1 + 2",
     "phone": "+41 44 413 75 24",
