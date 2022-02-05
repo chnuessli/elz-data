@@ -12646,6 +12646,46 @@
 },
 {
   "type": "Feature",
+  "id": "way/165838825",
+  "properties": {
+    "amenity": "clinic",
+    "building": "yes",
+    "healthcare": "clinic",
+    "name": "27.00 - Centre médical",
+    "operator": "Armée suisse",
+    "operator:type": "public",
+    "id": "way/165838825"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.3323661,
+          46.5326551
+        ],
+        [
+          6.3328251,
+          46.5330336
+        ],
+        [
+          6.3327064,
+          46.5331017
+        ],
+        [
+          6.3322474,
+          46.5327232
+        ],
+        [
+          6.3323661,
+          46.5326551
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/165847373",
   "properties": {
     "addr:city": "Winterthur",

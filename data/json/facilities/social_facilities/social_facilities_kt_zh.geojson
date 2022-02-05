@@ -13661,6 +13661,8 @@
     "addr:street": "Ottenweg",
     "amenity": "social_facility",
     "building": "yes",
+    "contact:phone": "+41 44 420 15 00",
+    "contact:website": "https://im-seefeld.ch/Standorte/Ottenweg/",
     "name": "Wohnheim Ottenweg",
     "social_facility": "assisted_living",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
@@ -15064,10 +15066,13 @@
     "addr:street": "Neuweg",
     "amenity": "social_facility",
     "building": "yes",
+    "email": "info@residenz-neumuensterpark.ch",
     "name": "Haus Brunnenhof",
     "operator": "Stiftung Diakoniewerk Neumünster – Schweizerische Pflegerinnenschule",
-    "social_facility": "group_home",
+    "phone": "+41 44 397 31 62",
+    "social_facility": "shelter",
     "social_facility:for": "senior",
+    "website": "https://www.residenz-neumuensterpark.ch/alterswohnungen/wohnungen",
     "id": "way/129220690"
   },
   "geometry": {
@@ -15075,64 +15080,120 @@
     "coordinates": [
       [
         [
-          8.6005468,
-          47.3478758
+          8.6005419,
+          47.3478829
         ],
         [
           8.6005907,
-          47.3476716
+          47.3476547
         ],
         [
-          8.6003054,
-          47.3476435
+          8.600535,
+          47.3476493
         ],
         [
-          8.6002984,
-          47.3473768
+          8.6005322,
+          47.347665
         ],
         [
-          8.6005167,
-          47.3473895
+          8.6004247,
+          47.3476539
         ],
         [
-          8.6006148,
-          47.3475
+          8.600419,
+          47.3476809
         ],
         [
-          8.6007913,
-          47.3475174
+          8.6003691,
+          47.3476761
         ],
         [
-          8.6007972,
-          47.3474901
+          8.6003752,
+          47.3476491
         ],
         [
-          8.6008672,
-          47.347497
+          8.6003271,
+          47.3476446
         ],
         [
-          8.6008607,
-          47.3475271
+          8.6003435,
+          47.3475662
+        ],
+        [
+          8.6003719,
+          47.3475681
+        ],
+        [
+          8.6003764,
+          47.3475474
+        ],
+        [
+          8.6003133,
+          47.3475419
+        ],
+        [
+          8.6003434,
+          47.3473977
+        ],
+        [
+          8.6004938,
+          47.3474131
+        ],
+        [
+          8.6004869,
+          47.3474399
+        ],
+        [
+          8.6005182,
+          47.3474423
+        ],
+        [
+          8.6005143,
+          47.3474698
+        ],
+        [
+          8.6005443,
+          47.3474724
+        ],
+        [
+          8.6005404,
+          47.3474959
+        ],
+        [
+          8.6007876,
+          47.3475193
+        ],
+        [
+          8.6007915,
+          47.3474956
+        ],
+        [
+          8.6008615,
+          47.3475014
+        ],
+        [
+          8.6008566,
+          47.347532
         ],
         [
           8.6009024,
-          47.3475312
+          47.347535
         ],
         [
-          8.6008678,
-          47.3476921
+          8.6008629,
+          47.3476976
         ],
         [
-          8.6008155,
-          47.347687
+          8.6008139,
+          47.3476919
         ],
         [
-          8.6007702,
-          47.3478979
+          8.6007678,
+          47.3479045
         ],
         [
-          8.6005468,
-          47.3478758
+          8.6005419,
+          47.3478829
         ]
       ]
     ]
@@ -15149,10 +15210,13 @@
     "addr:street": "Neuweg",
     "amenity": "social_facility",
     "building": "yes",
+    "email": "info@residenz-neumuensterpark.ch",
     "name": "Haus Baumgarten",
     "operator": "Stiftung Diakoniewerk Neumünster – Schweizerische Pflegerinnenschule",
-    "social_facility": "group_home",
+    "phone": "+41 44 397 31 62",
+    "social_facility": "shelter",
     "social_facility:for": "senior",
+    "website": "https://www.residenz-neumuensterpark.ch/alterswohnungen/wohnungen",
     "id": "way/129220691"
   },
   "geometry": {
@@ -15160,39 +15224,71 @@
     "coordinates": [
       [
         [
-          8.5994294,
+          8.5994286,
           47.34784
         ],
         [
-          8.5996973,
+          8.5997046,
           47.3478693
         ],
         [
-          8.5999253,
-          47.3477358
+          8.5999326,
+          47.3477523
         ],
         [
-          8.599964,
-          47.3475601
+          8.5999721,
+          47.3475634
         ],
         [
-          8.6001224,
-          47.3475761
+          8.6001045,
+          47.347575
         ],
         [
-          8.6000529,
-          47.3478917
+          8.600053,
+          47.3478136
         ],
         [
-          8.5998635,
-          47.347988
+          8.6000725,
+          47.3478325
         ],
         [
-          8.5994061,
-          47.3479379
+          8.6000445,
+          47.3478457
         ],
         [
-          8.5994294,
+          8.6000383,
+          47.347881
+        ],
+        [
+          8.5999857,
+          47.3478771
+        ],
+        [
+          8.5998632,
+          47.3479392
+        ],
+        [
+          8.5998571,
+          47.3479733
+        ],
+        [
+          8.5998035,
+          47.3479688
+        ],
+        [
+          8.5997755,
+          47.3479837
+        ],
+        [
+          8.5997569,
+          47.3479645
+        ],
+        [
+          8.5994085,
+          47.3479308
+        ],
+        [
+          8.5994286,
           47.34784
         ]
       ]
@@ -33039,85 +33135,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1020467900",
-  "properties": {
-    "amenity": "social_facility",
-    "contact:city": "Zürich",
-    "contact:housenumber": "20/22",
-    "contact:phone": "+41 44 420 15 00",
-    "contact:postcode": "8008",
-    "contact:street": "Ottenweg",
-    "contact:website": "https://im-seefeld.ch/Standorte/Ottenweg/",
-    "name": "Wohnheim im Seefeld Ottenweg",
-    "social_facility": "assisted_living",
-    "id": "way/1020467900"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5540043,
-          47.3638675
-        ],
-        [
-          8.5540033,
-          47.3638557
-        ],
-        [
-          8.553991,
-          47.3638578
-        ],
-        [
-          8.5539888,
-          47.3637897
-        ],
-        [
-          8.5539655,
-          47.3636807
-        ],
-        [
-          8.5539485,
-          47.3636272
-        ],
-        [
-          8.5541794,
-          47.363588
-        ],
-        [
-          8.5543258,
-          47.3635856
-        ],
-        [
-          8.5542988,
-          47.3636808
-        ],
-        [
-          8.5542887,
-          47.363715
-        ],
-        [
-          8.5542434,
-          47.3638696
-        ],
-        [
-          8.5541753,
-          47.3638634
-        ],
-        [
-          8.5541502,
-          47.3638509
-        ],
-        [
-          8.5540043,
-          47.3638675
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/80080369",
   "properties": {
     "addr:city": "Zürich",
@@ -33765,8 +33782,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6003432,
-      47.3484729
+      8.600473,
+      47.3484536
     ]
   }
 },
@@ -33946,10 +33963,11 @@
     "addr:housenumber": "16-18",
     "addr:postcode": "8001",
     "addr:street": "Leonhardstrasse",
+    "alt_name": "Alterszentrum Bürgerasyl-Pfrundhaus",
     "amenity": "social_facility",
     "capacity": "55+16",
     "email": "asz­buergerasyl-pfrundhaus@zuerich.ch",
-    "name": "Alterszentrum Bürgerasyl-Pfrundhaus",
+    "name": "Gesundheitszentrum Bürgerasyl-Pfrundhaus",
     "operator": "Stadt Zürich, GUD",
     "phone": "+41 44 414 11 11",
     "social_facility": "group_home",
