@@ -8309,6 +8309,22 @@
       47.3408533
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9483080152",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Blumenwiese",
+    "id": "node/9483080152"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5514975,
+      47.3843028
+    ]
+  }
 }
 ]
 }

@@ -12697,6 +12697,38 @@
       46.2842253
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9483620614",
+  "properties": {
+    "aeroway": "helipad",
+    "name": "Moghegno",
+    "id": "node/9483620614"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6967209,
+      46.2458408
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9483620615",
+  "properties": {
+    "aeroway": "helipad",
+    "name": "Aurigeno",
+    "id": "node/9483620615"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7203612,
+      46.2299191
+    ]
+  }
 }
 ]
 }
