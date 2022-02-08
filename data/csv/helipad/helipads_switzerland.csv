@@ -356,3 +356,5 @@ FeatureCollection,"{'type': 'Feature', 'id': 'node/9098462481', 'properties': {'
 FeatureCollection,"{'type': 'Feature', 'id': 'node/9098462482', 'properties': {'aeroway': 'helipad', 'id': 'node/9098462482'}, 'geometry': {'type': 'Point', 'coordinates': [9.2627912, 47.5104125]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/9212005874', 'properties': {'aeroway': 'helipad', 'id': 'node/9212005874'}, 'geometry': {'type': 'Point', 'coordinates': [7.6682207, 47.5297613]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/9264297385', 'properties': {'aeroway': 'helipad', 'id': 'node/9264297385'}, 'geometry': {'type': 'Point', 'coordinates': [7.4658127, 46.2842253]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/9483620614', 'properties': {'aeroway': 'helipad', 'name': 'Moghegno', 'id': 'node/9483620614'}, 'geometry': {'type': 'Point', 'coordinates': [8.6967209, 46.2458408]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/9483620615', 'properties': {'aeroway': 'helipad', 'name': 'Aurigeno', 'id': 'node/9483620615'}, 'geometry': {'type': 'Point', 'coordinates': [8.7203612, 46.2299191]}}"
