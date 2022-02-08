@@ -2447,6 +2447,82 @@
 },
 {
   "type": "Feature",
+  "id": "way/202710022",
+  "properties": {
+    "addr:city": "Unteriberg",
+    "addr:housenumber": "29",
+    "addr:postcode": "8842",
+    "addr:street": "Waagtalstrasse",
+    "alt_name": "Gemeindeschule Unteriberg",
+    "amenity": "school",
+    "building": "yes",
+    "name": "Primarschule Unteriberg",
+    "phone": "+41 55 414 16 91",
+    "website": "https://www.unteriberg.ch/schule/primarschule/",
+    "id": "way/202710022"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8024734,
+          47.0568216
+        ],
+        [
+          8.8024146,
+          47.0568071
+        ],
+        [
+          8.8023891,
+          47.0568559
+        ],
+        [
+          8.8022574,
+          47.0568229
+        ],
+        [
+          8.8022753,
+          47.056789
+        ],
+        [
+          8.8022474,
+          47.0567825
+        ],
+        [
+          8.8022872,
+          47.0567077
+        ],
+        [
+          8.8023156,
+          47.0567155
+        ],
+        [
+          8.8023333,
+          47.0566825
+        ],
+        [
+          8.8024642,
+          47.0567158
+        ],
+        [
+          8.80245,
+          47.0567433
+        ],
+        [
+          8.8025087,
+          47.0567573
+        ],
+        [
+          8.8024734,
+          47.0568216
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/202870862",
   "properties": {
     "addr:housenumber": "14",

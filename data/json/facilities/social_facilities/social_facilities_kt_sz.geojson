@@ -2665,7 +2665,8 @@
     "addr:postcode": "6405",
     "addr:street": "Immo-Strasse",
     "amenity": "social_facility",
-    "name": "Sunnehof",
+    "name": "Alters- und Pflegeheim Sunnehof",
+    "operator": "Der Bezirk Küssnacht ist Träger des Sunnehofs",
     "phone": "+41 41 854 19 19",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
@@ -2907,6 +2908,32 @@
     "coordinates": [
       8.605639,
       46.9974611
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9485936604",
+  "properties": {
+    "addr:city": "Küssnacht am Rigi",
+    "addr:housenumber": "2",
+    "addr:postcode": "6403",
+    "addr:street": "Seemattzopfweg",
+    "amenity": "social_facility",
+    "email": "info@pflegezentrum-seematt.ch",
+    "name": "Pflegezentrum Seematt",
+    "operator": "Gemeinde Küssnacht / Öffentlich rechtliche Anstalt",
+    "phone": "+41 41 854 24 24",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.pflegezentrum-seematt.ch/",
+    "id": "node/9485936604"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4371534,
+      47.0763537
     ]
   }
 }

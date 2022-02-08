@@ -15791,24 +15791,24 @@
     "coordinates": [
       [
         [
-          8.8059065,
-          47.3293702
+          8.8059012,
+          47.3293888
         ],
         [
-          8.8059058,
-          47.32924
+          8.8059006,
+          47.3292586
         ],
         [
-          8.8062827,
-          47.3292391
+          8.8062774,
+          47.3292577
         ],
         [
-          8.8062833,
-          47.3293693
+          8.8062781,
+          47.3293879
         ],
         [
-          8.8059065,
-          47.3293702
+          8.8059012,
+          47.3293888
         ]
       ]
     ]
@@ -37322,6 +37322,30 @@
     "coordinates": [
       8.7301958,
       47.3449291
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9485400653",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Elsau",
+    "contact:email": "info@kita-tartaruga.ch",
+    "contact:housenumber": "1",
+    "contact:phone": "+41 52 368 62 90",
+    "contact:postcode": "8352",
+    "contact:street": "Im Halbiacker",
+    "contact:website": "https://www.kita-tartaruga.ch/",
+    "name": "KiTa Tartaruga",
+    "operator": "Pflege Eulachtal",
+    "id": "node/9485400653"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7833878,
+      47.5019204
     ]
   }
 }
