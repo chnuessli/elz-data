@@ -1981,6 +1981,80 @@
 },
 {
   "type": "Feature",
+  "id": "way/1029442043",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "bicycle": "private",
+    "horse": "no",
+    "locked": "yes",
+    "material": "wood",
+    "wheelchair": "yes",
+    "id": "way/1029442043"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.7507011,
+        47.3871925
+      ],
+      [
+        8.7507328,
+        47.3872123
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1029442044",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "way/1029442044"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.750633,
+        47.3870444
+      ],
+      [
+        8.7505033,
+        47.3869767
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1029442045",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "locked": "yes",
+    "wheelchair": "yes",
+    "id": "way/1029442045"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.7506088,
+        47.3871066
+      ],
+      [
+        8.7505927,
+        47.387121
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/25427486",
   "properties": {
     "barrier": "gate",
@@ -16344,22 +16418,6 @@
     "coordinates": [
       8.7044852,
       47.4671271
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2082550443",
-  "properties": {
-    "barrier": "gate",
-    "fixme": "Wenn es dieses Tor wirklich gibt: Wer darf durchfahren?",
-    "id": "node/2082550443"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7050638,
-      47.467686
     ]
   }
 },
@@ -35541,6 +35599,21 @@
 },
 {
   "type": "Feature",
+  "id": "node/4836665550",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/4836665550"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7250761,
+      47.3512642
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4836868439",
   "properties": {
     "barrier": "gate",
@@ -39151,6 +39224,21 @@
     "coordinates": [
       8.6427427,
       47.3783936
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5310844370",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/5310844370"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7251202,
+      47.3511805
     ]
   }
 },
@@ -61874,6 +61962,21 @@
     "coordinates": [
       8.5279136,
       47.2961794
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9490624151",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/9490624151"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7254432,
+      47.3514555
     ]
   }
 }
