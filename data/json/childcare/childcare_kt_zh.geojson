@@ -3562,6 +3562,30 @@
 },
 {
   "type": "Feature",
+  "id": "node/3605581080",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "22",
+    "contact:phone": "+41 44 413 77 34",
+    "contact:postcode": "8045",
+    "contact:street": "Höfliweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kuengenmatt/betreuung/standorte.html#hoefliweg",
+    "name": "Mittag-/Abendhort Höfliweg",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Küngenmatt",
+    "operator:type": "public",
+    "id": "node/3605581080"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5098111,
+      47.3686542
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3607965997",
   "properties": {
     "addr:city": "Zürich",
@@ -5258,6 +5282,28 @@
     "coordinates": [
       8.5289196,
       47.3328299
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6633329048",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "19",
+    "contact:phone": "+41 44 413 77 53",
+    "contact:postcode": "8045",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/entlisberg/betreuung/standorte.html#hauriweg",
+    "name": "Morgentisch Hauriweg 2, Mittag-/Abendhort Hauriweg 1",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
+    "id": "node/6633329048"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5276141,
+      47.3365478
     ]
   }
 },
@@ -8323,6 +8369,70 @@
     "coordinates": [
       8.5514975,
       47.3843028
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9492255168",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "67",
+    "contact:phone": "+41 44 413 11 78",
+    "contact:postcode": "8041",
+    "contact:street": "Rebenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/falletsche/betreuung/standorte.html#falletsche_1_und2",
+    "name": "Kinderhort Falletsche 1, 2, 4",
+    "operator:type": "public",
+    "id": "node/9492255168"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5156875,
+      47.3338552
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9492545714",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "28",
+    "contact:phone": "+41 44 413 13 38",
+    "contact:postcode": "8038",
+    "name": "Kinderhort Hans Asper",
+    "id": "node/9492545714"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5338768,
+      47.3413728
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9492707922",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "8",
+    "contact:phone": "+41 44 482 06 06",
+    "contact:postcode": "8038",
+    "contact:street": "Honeggerweg",
+    "name": "Kinderhort Honeggerweg",
+    "id": "node/9492707922"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.532911,
+      47.338364
     ]
   }
 }

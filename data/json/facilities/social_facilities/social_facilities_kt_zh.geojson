@@ -3723,7 +3723,7 @@
   "id": "way/32893990",
   "properties": {
     "addr:housenumber": "5",
-    "addr:street": "Brunisberg",
+    "addr:place": "Brunisberg",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Brunisberg Wohn- und Altersheim",

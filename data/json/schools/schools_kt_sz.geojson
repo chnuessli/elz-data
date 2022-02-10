@@ -2525,7 +2525,10 @@
   "type": "Feature",
   "id": "way/202870862",
   "properties": {
+    "addr:city": "Siebnen",
     "addr:housenumber": "14",
+    "addr:postcode": "8854",
+    "addr:street": "Stockbergstrasse",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Stockberg 1",
@@ -2623,7 +2626,10 @@
   "type": "Feature",
   "id": "way/202870864",
   "properties": {
+    "addr:city": "Siebnen",
     "addr:housenumber": "9",
+    "addr:postcode": "8854",
+    "addr:street": "Schulweg",
     "amenity": "school",
     "building": "school",
     "building:levels": "2",

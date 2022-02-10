@@ -9659,6 +9659,55 @@
 },
 {
   "type": "Feature",
+  "id": "way/145480120",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "9",
+    "addr:postcode": "8041",
+    "addr:street": "Farenweg",
+    "amenity": "kindergarten",
+    "building": "school",
+    "building:levels": "1",
+    "isced:level": "0",
+    "name": "Kindergarten Farenweg 1+2 und Kinderhort 1",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Entlisberg",
+    "operator:type": "public",
+    "phone": "+41 44 413 31 71",
+    "roof:levels": "1",
+    "start_date": "1928",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/entlisberg/ueberuns/standorte/kindergaerten.html",
+    "id": "way/145480120"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5269454,
+          47.3400825
+        ],
+        [
+          8.5269133,
+          47.3402066
+        ],
+        [
+          8.5265982,
+          47.3401682
+        ],
+        [
+          8.5266307,
+          47.340044
+        ],
+        [
+          8.5269454,
+          47.3400825
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/146983028",
   "properties": {
     "amenity": "kindergarten",
@@ -22232,10 +22281,16 @@
   "type": "Feature",
   "id": "way/552139735",
   "properties": {
-    "alt_name": "Kindergarten auf der Egg",
     "amenity": "kindergarten",
-    "name": "Kindergarten Honeggerweg 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
+    "contact:city": "Zürich",
+    "contact:housenumber": "8",
+    "contact:phone": "+41 44 413 77 41",
+    "contact:postcode": "8038",
+    "contact:street": "Honeggerweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/wollishofen/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Honeggerweg 1 + 2 und Kinderhort",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Wollishofen - Im Lee",
+    "operator:type": "public",
     "id": "way/552139735"
   },
   "geometry": {
@@ -22243,44 +22298,44 @@
     "coordinates": [
       [
         [
-          8.5326321,
-          47.3385291
+          8.5326415,
+          47.3385264
         ],
         [
-          8.5327026,
-          47.3382122
+          8.5327107,
+          47.3382168
         ],
         [
           8.5329704,
           47.3379277
         ],
         [
-          8.5334681,
-          47.3381848
+          8.5334789,
+          47.3381839
         ],
         [
-          8.5334273,
-          47.3383012
+          8.5334317,
+          47.3383138
         ],
         [
-          8.5333238,
-          47.3386044
+          8.5333295,
+          47.3386039
         ],
         [
-          8.5331906,
-          47.338594
+          8.5331926,
+          47.3385922
         ],
         [
-          8.5329097,
-          47.3385726
+          8.5329212,
+          47.3385703
         ],
         [
-          8.5329056,
-          47.338553
+          8.5329191,
+          47.3385521
         ],
         [
-          8.5326321,
-          47.3385291
+          8.5326415,
+          47.3385264
         ]
       ]
     ]
@@ -25033,36 +25088,48 @@
     "coordinates": [
       [
         [
-          8.5264789,
-          47.3402744
+          8.5264669,
+          47.3402564
+        ],
+        [
+          8.5264951,
+          47.3401769
+        ],
+        [
+          8.5265153,
+          47.3400908
+        ],
+        [
+          8.5265273,
+          47.3400065
+        ],
+        [
+          8.5265292,
+          47.3400077
         ],
         [
           8.5265343,
           47.3399748
         ],
         [
-          8.5265866,
-          47.3395837
+          8.5265913,
+          47.3395835
         ],
         [
-          8.5269597,
-          47.3396384
+          8.5270462,
+          47.3396475
         ],
         [
-          8.5270355,
-          47.3396496
+          8.5270313,
+          47.3400299
         ],
         [
-          8.5270193,
-          47.3400449
+          8.5269477,
+          47.340337
         ],
         [
-          8.5269382,
-          47.3403391
-        ],
-        [
-          8.5264789,
-          47.3402744
+          8.5264669,
+          47.3402564
         ]
       ]
     ]
@@ -30077,25 +30144,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3605581080",
-  "properties": {
-    "addr:housenumber": "22",
-    "addr:street": "Höfliweg",
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Höfliweg",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/3605581080"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5098111,
-      47.3686542
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3734002662",
   "properties": {
     "addr:city": "Einsiedeln",
@@ -31168,20 +31216,23 @@
   "type": "Feature",
   "id": "node/4951135044",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "14",
-    "addr:postcode": "8055",
-    "addr:street": "Höfliweg",
     "amenity": "kindergarten",
-    "name": "Kindergarten Höfliweg 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
+    "contact:city": "Zürich",
+    "contact:housenumber": "14",
+    "contact:phone": "+41 44 413 77 35",
+    "contact:postcode": "8055",
+    "contact:street": "Höfliweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kuengenmatt/ueberuns/standorte/kindergaerten.html#hoefliweg_1",
+    "isced:level": "0",
+    "name": "Kindergarten Höfliweg 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Küngenmatt",
+    "operator:type": "public",
     "id": "node/4951135044"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5097169,
+      8.5096809,
       47.3692404
     ]
   }
@@ -31785,23 +31836,6 @@
     "coordinates": [
       8.5160176,
       47.3286845
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5239596249",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Farenweg 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/5239596249"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5267739,
-      47.3401145
     ]
   }
 },
@@ -34162,8 +34196,16 @@
   "id": "node/6633307830",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kindergarten Hegianwandweg 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
+    "contact:city": "Zürich",
+    "contact:housenumber": "28",
+    "contact:phone": "+41 44 413 77 02",
+    "contact:postcode": "8045",
+    "contact:street": "Hegianwandweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/bachtobel/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
+    "name": "Kindergarten Hegianwandweg 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Bachtobel",
+    "operator:type": "public",
     "id": "node/6633307830"
   },
   "geometry": {
@@ -34290,23 +34332,6 @@
     "coordinates": [
       8.5244676,
       47.3376479
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6633329048",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Morgentisch Hauriweg 2, Mittag-/Abendhort Hauriweg 1",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/6633329048"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5277487,
-      47.3365567
     ]
   }
 },
