@@ -16868,6 +16868,64 @@
 },
 {
   "type": "Feature",
+  "id": "way/380810287",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "78",
+    "addr:postcode": "8041",
+    "addr:street": "Hüslibachstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "3",
+    "contact:phone": "+41 44 413 77 74",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/sihlweid/ueberuns/standorte/kindergaerten.html",
+    "description": "Freiblick-Siedlung Sonnenhalde I",
+    "isced:level": "0",
+    "name": "Kindergarten Hüslibach",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Wollishofen - Sihlweid",
+    "operator:type": "public",
+    "owner": "Baugenossenschaft Freiblick",
+    "start_date": "1931",
+    "id": "way/380810287"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5161515,
+          47.3286286
+        ],
+        [
+          8.5161044,
+          47.3286997
+        ],
+        [
+          8.5160716,
+          47.328746
+        ],
+        [
+          8.5159197,
+          47.3286922
+        ],
+        [
+          8.5160123,
+          47.3285684
+        ],
+        [
+          8.5161569,
+          47.3286189
+        ],
+        [
+          8.5161515,
+          47.3286286
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/381548181",
   "properties": {
     "addr:city": "Opfikon",
@@ -28098,37 +28156,24 @@
 },
 {
   "type": "Feature",
-  "id": "node/5230296827",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Hüslibach",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/5230296827"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5160176,
-      47.3286845
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5254058330",
   "properties": {
-    "addr:housenumber": "33",
-    "addr:street": "Erligatterweg",
     "amenity": "kindergarten",
-    "name": "Kindergarten und Hort Neubühl",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
+    "contact:city": "Zürich",
+    "contact:housenumber": "33",
+    "contact:phone": "+41 44 413 19 15",
+    "contact:postcode": "8038",
+    "contact:street": "Erligatterweg",
+    "isced:level": "0",
+    "name": "Kindergarten Neubühl 1+2 Kinderhort Neubühl",
+    "phone": "+41 44 413 19 15",
     "id": "node/5254058330"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5327285,
-      47.3333898
+      8.53268,
+      47.3333622
     ]
   }
 },
@@ -30344,15 +30389,22 @@
   "id": "node/6633307831",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "174",
+    "contact:phone": "+41 44 413 75 39",
+    "contact:postcode": "8045",
+    "contact:street": "Uetlibergstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/bachtobel/ueberuns/standorte/kindergaerten.html",
     "name": "Kindergarten Laubegg",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Bachtobel",
+    "operator:type": "public",
     "id": "node/6633307831"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.516025,
-      47.3589817
+      8.5159083,
+      47.3589383
     ]
   }
 },
@@ -30463,15 +30515,23 @@
   "id": "node/6633329049",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Lettenholz",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
+    "contact:city": "Zürich",
+    "contact:housenumber": "1",
+    "contact:phone": "+41 44 413 76 26",
+    "contact:postcode": "8038",
+    "contact:street": "Entlisbergstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/entlisberg/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
+    "name": "Kindergarten Lettenholz",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Entlisberg",
+    "operator:type": "public",
     "id": "node/6633329049"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5250321,
-      47.3388419
+      8.5249808,
+      47.338908
     ]
   }
 },
@@ -30594,40 +30654,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6633420037",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittaghort Kilchberg 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/6633420037"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5340174,
-      47.3427917
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6633500028",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Morgentisch, Mittag-/Abendhort Küngenmatt 1 - 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/6633500028"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5035398,
-      47.368595
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6633500029",
   "properties": {
     "amenity": "kindergarten",
@@ -30695,23 +30721,6 @@
     "coordinates": [
       8.5349381,
       47.3424426
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6633514784",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Kilchberg 1A + 1B",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/6633514784"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5330032,
-      47.3429395
     ]
   }
 },
@@ -33405,6 +33414,53 @@
     "coordinates": [
       8.7833878,
       47.5019204
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9494459090",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "12",
+    "contact:phone": "+41 44 413 78 60",
+    "contact:postcode": "8038",
+    "contact:street": "Kilchbergstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/wollishofen/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
+    "name": "Kindergarten Kilchberg",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Wollishofen - Im Lee",
+    "operator:type": "public",
+    "id": "node/9494459090"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5329641,
+      47.3429174
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9495439064",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "10",
+    "contact:phone": "+41 44 413 14 47",
+    "contact:postcode": "8038",
+    "contact:street": "Tannerauchstrasse",
+    "isced:level": "0",
+    "name": "Kindergarten Manegg 1+2+4",
+    "id": "node/9495439064"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5262117,
+      47.348045
     ]
   }
 }

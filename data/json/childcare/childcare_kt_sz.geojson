@@ -58,6 +58,23 @@
       47.1755267
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9494784704",
+  "properties": {
+    "amenity": "childcare",
+    "contact:website": "http://www.kita-kiids.ch",
+    "name": "Kita Kiids",
+    "id": "node/9494784704"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9696888,
+      47.1728907
+    ]
+  }
 }
 ]
 }
