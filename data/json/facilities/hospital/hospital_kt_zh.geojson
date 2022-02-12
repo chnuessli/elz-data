@@ -868,53 +868,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/43042635",
-  "properties": {
-    "addr:city": "Bülach",
-    "addr:housenumber": "5",
-    "addr:postcode": "8180",
-    "addr:street": "Zürichstrasse",
-    "amenity": "clinic",
-    "building": "yes",
-    "healthcare": "clinic",
-    "healthcare:speciality": "urology",
-    "name": "Uroviva",
-    "opening_hours": "Mo-Fr 07:00-18:00",
-    "operator": "Uroviva",
-    "operator:type": "private",
-    "website": "https://www.uroviva.ch/",
-    "id": "way/43042635"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5422716,
-          47.5156421
-        ],
-        [
-          8.5425069,
-          47.51532
-        ],
-        [
-          8.5427791,
-          47.5154107
-        ],
-        [
-          8.5425439,
-          47.5157328
-        ],
-        [
-          8.5422716,
-          47.5156421
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/47411281",
   "properties": {
     "addr:city": "Rheinau",
@@ -8148,6 +8101,59 @@
     "coordinates": [
       8.5844126,
       47.3500976
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9497675499",
+  "properties": {
+    "amenity": "doctors",
+    "contact:city": "Bülach",
+    "contact:housenumber": "5",
+    "contact:postcode": "8180",
+    "contact:street": "Zürichstrasse",
+    "email": "info@kardioviva.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "Kardiologie",
+    "name": "Kardioviva",
+    "operator": "Kardioviva",
+    "operator:type": "private",
+    "phone": "+41 44 365 65 67",
+    "website": "http://kardioviva.ch/",
+    "id": "node/9497675499"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5425334,
+      47.5154972
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9497675500",
+  "properties": {
+    "amenity": "doctors",
+    "contact:city": "Bülach",
+    "contact:housenumber": "5",
+    "contact:postcode": "8180",
+    "contact:street": "Zürichstrasse",
+    "healthcare": "clinic",
+    "healthcare:speciality": "urology",
+    "name": "Uroviva",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator": "Uroviva",
+    "operator:type": "private",
+    "website": "https://www.uroviva.ch/",
+    "id": "node/9497675500"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5425729,
+      47.5154347
     ]
   }
 }

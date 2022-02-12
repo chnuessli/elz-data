@@ -681,32 +681,32 @@
     "coordinates": [
       [
         [
-          8.7247322,
-          47.2425192
+          8.7247655,
+          47.2425291
         ],
         [
-          8.7247937,
-          47.2424257
+          8.7248101,
+          47.2424617
         ],
         [
-          8.7251201,
-          47.2425246
+          8.7251038,
+          47.2425512
         ],
         [
-          8.7250443,
-          47.2426398
+          8.7250447,
+          47.2426405
         ],
         [
-          8.7248303,
-          47.242575
+          8.72483,
+          47.2425751
         ],
         [
-          8.7248446,
+          8.7248445,
           47.2425532
         ],
         [
-          8.7247322,
-          47.2425192
+          8.7247655,
+          47.2425291
         ]
       ]
     ]
@@ -15027,6 +15027,84 @@
 },
 {
   "type": "Feature",
+  "id": "way/226721383",
+  "properties": {
+    "addr:housenumber": "1",
+    "addr:street": "Rebenweg",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "contact:phone": "+41 44 481 83 21",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/falletsche/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
+    "name": "Kindergarten Rebenweg 1",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Falletsche - Leimbach",
+    "operator:type": "public",
+    "roof:shape": "flat",
+    "id": "way/226721383"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5139817,
+          47.3342046
+        ],
+        [
+          8.5138657,
+          47.33419
+        ],
+        [
+          8.5138718,
+          47.3341677
+        ],
+        [
+          8.5139047,
+          47.3341718
+        ],
+        [
+          8.5139106,
+          47.3341503
+        ],
+        [
+          8.5138781,
+          47.3341463
+        ],
+        [
+          8.5138936,
+          47.3340897
+        ],
+        [
+          8.5139257,
+          47.3340937
+        ],
+        [
+          8.5139316,
+          47.3340721
+        ],
+        [
+          8.5140483,
+          47.3340868
+        ],
+        [
+          8.5140272,
+          47.3341642
+        ],
+        [
+          8.5139939,
+          47.33416
+        ],
+        [
+          8.5139817,
+          47.3342046
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/233102193",
   "properties": {
     "amenity": "kindergarten",
@@ -19598,6 +19676,91 @@
         [
           8.5085035,
           47.3541936
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/368216548",
+  "properties": {
+    "addr:housenumber": "100",
+    "addr:street": "Maneggpromenade",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "2",
+    "contact:phone": "+41 44 413 77 82",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/falletsche/ueberuns/standorte/kindergaerten.html#kindergarten_maneggpromenade",
+    "name": "Kindergarten Maneggpromenade",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Falletsche - Leimbach",
+    "operator:type": "public",
+    "roof:levels": "0",
+    "id": "way/368216548"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5137256,
+          47.3320169
+        ],
+        [
+          8.5138522,
+          47.3320163
+        ],
+        [
+          8.5138535,
+          47.3321417
+        ],
+        [
+          8.5138306,
+          47.3321418
+        ],
+        [
+          8.5138305,
+          47.3321384
+        ],
+        [
+          8.5137945,
+          47.3321386
+        ],
+        [
+          8.5137946,
+          47.332142
+        ],
+        [
+          8.5137317,
+          47.3321423
+        ],
+        [
+          8.5137316,
+          47.3321266
+        ],
+        [
+          8.5137345,
+          47.3321266
+        ],
+        [
+          8.5137343,
+          47.3321096
+        ],
+        [
+          8.5137317,
+          47.3321096
+        ],
+        [
+          8.5137316,
+          47.3321021
+        ],
+        [
+          8.5137265,
+          47.3321021
+        ],
+        [
+          8.5137256,
+          47.3320169
         ]
       ]
     ]
@@ -25318,62 +25481,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/705963681",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Rebenweg 1",
-    "id": "way/705963681"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5135065,
-          47.3340548
-        ],
-        [
-          8.5135538,
-          47.3339312
-        ],
-        [
-          8.5136886,
-          47.3339066
-        ],
-        [
-          8.5142242,
-          47.3339767
-        ],
-        [
-          8.5141456,
-          47.3341991
-        ],
-        [
-          8.514084,
-          47.3342502
-        ],
-        [
-          8.5139885,
-          47.334269
-        ],
-        [
-          8.5139084,
-          47.3342544
-        ],
-        [
-          8.5137759,
-          47.3341907
-        ],
-        [
-          8.5135065,
-          47.3340548
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/705966210",
   "properties": {
     "amenity": "kindergarten",
@@ -30251,18 +30358,23 @@
   "type": "Feature",
   "id": "node/3826595467",
   "properties": {
-    "addr:housenumber": "269",
-    "addr:street": "Zwirnerstrasse",
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "269",
+    "contact:phone": "+41 44 413 78 00",
+    "contact:postcode": "8041",
+    "contact:street": "Zwirnerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/falletsche/ueberuns/standorte/kindergaerten.html#kindergarten_zwirnerstrasse",
     "name": "Kindergarten Zwirnerstrasse",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Falletsche - Leimbach",
+    "operator:type": "public",
     "id": "node/3826595467"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5181423,
-      47.3367369
+      8.5181988,
+      47.3367745
     ]
   }
 },
@@ -30273,16 +30385,22 @@
     "addr:housenumber": "21",
     "addr:street": "Leimbachstrasse",
     "amenity": "kindergarten",
-    "building:levels": "6",
-    "name": "Kindergarten Sihlbogen 1",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
+    "contact:city": "Zürich",
+    "contact:housenumber": "21",
+    "contact:phone": "+41 44 413 77 80",
+    "contact:postcode": "8041",
+    "contact:street": "Leimbachstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/falletsche/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Sihlbogen 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Falletsche - Leimbach",
+    "operator:type": "public",
     "id": "node/3837044467"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5188153,
-      47.3363978
+      8.5188038,
+      47.3363858
     ]
   }
 },
@@ -34290,8 +34408,16 @@
   "id": "node/6633307832",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "31",
+    "contact:phone": "+41 44 413 77 44",
+    "contact:postcode": "8045",
+    "contact:street": "Wannerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/bachtobel/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
     "name": "Kindergarten Wannerstrasse",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Bachtobel",
+    "operator:type": "public",
     "id": "node/6633307832"
   },
   "geometry": {
@@ -34475,57 +34601,6 @@
     "coordinates": [
       8.5290035,
       47.3629801
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6633375387",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Maneggpromenade",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/6633375387"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5137837,
-      47.3320826
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6633375388",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Rebenweg 1",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/6633375388"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.51395,
-      47.3341291
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6633375395",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Leimbach 3",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/6633375395"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5160932,
-      47.3328915
     ]
   }
 },
@@ -37427,6 +37502,80 @@
     "coordinates": [
       8.5262117,
       47.348045
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9497409728",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "85",
+    "contact:phone": "+41 44 413 76 74",
+    "contact:postcode": "8041",
+    "contact:street": "Maneggstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/allmend/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
+    "name": "Kindergarten Maneggstrasse",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Falletsche - Leimbach",
+    "operator:type": "public",
+    "roof:levels": "0",
+    "id": "node/9497409728"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5199728,
+      47.338031
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9497435460",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "37",
+    "contact:phone": "+41 44 413 35 54",
+    "contact:postcode": "8041",
+    "contact:street": "Maneggstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/allmend/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
+    "name": "Kindergarten Pergamin 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Falletsche - Leimbach",
+    "operator:type": "public",
+    "roof:levels": "0",
+    "id": "node/9497435460"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5206751,
+      47.3414084
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9498563992",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "45",
+    "addr:postcode": "8041",
+    "addr:street": "Maneggstrasse",
+    "amenity": "kindergarten",
+    "name": "MURMELI HUUS Greencity Leimbach",
+    "operator": "MURMELI HUUS Kindertagesstätten",
+    "website": "https://murmeli-huus.ch/kinderkrippe-leimbach/",
+    "id": "node/9498563992"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5203814,
+      47.3412482
     ]
   }
 }
