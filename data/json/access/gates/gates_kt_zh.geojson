@@ -4579,8 +4579,8 @@
   "id": "node/417014904",
   "properties": {
     "barrier": "lift_gate",
-    "bicycle": "no",
-    "foot": "no",
+    "bicycle": "yes",
+    "foot": "yes",
     "id": "node/417014904"
   },
   "geometry": {
@@ -61978,6 +61978,22 @@
     "coordinates": [
       8.7398032,
       47.2498192
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9500592170",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "id": "node/9500592170"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6282124,
+      47.4049463
     ]
   }
 }
