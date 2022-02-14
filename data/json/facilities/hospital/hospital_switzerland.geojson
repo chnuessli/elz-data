@@ -15767,12 +15767,13 @@
   "id": "way/237132704",
   "properties": {
     "addr:city": "Castelrotto",
-    "addr:postcode": "6981",
+    "addr:housenumber": "30",
+    "addr:postcode": "6980",
     "addr:street": "Castelrotto nucleo",
     "amenity": "clinic",
     "building": "yes",
     "healthcare": "clinic",
-    "name": "Ospedale malcantonese",
+    "name": "Ospedale Malcantonese",
     "website": "https://www.oscam.ch/",
     "id": "way/237132704"
   },
@@ -45070,6 +45071,59 @@
 },
 {
   "type": "Feature",
+  "id": "way/952595648",
+  "properties": {
+    "addr:city": "Collombey-Muraz",
+    "addr:housenumber": "103",
+    "addr:postcode": "1893",
+    "addr:street": "Z.A. des Plavaux",
+    "amenity": "clinic",
+    "building": "yes",
+    "healthcare": "clinic",
+    "name": "Clinique CIC Collombey",
+    "operator": "Goupe Clinique CIC Suisse",
+    "operator:type": "private",
+    "website": "https://www.cliniquecic-collombey.ch/",
+    "id": "way/952595648"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.9381826,
+          46.2771861
+        ],
+        [
+          6.9385858,
+          46.2774065
+        ],
+        [
+          6.9384935,
+          46.2775757
+        ],
+        [
+          6.9381665,
+          46.2773899
+        ],
+        [
+          6.9378717,
+          46.2775757
+        ],
+        [
+          6.9377373,
+          46.2774759
+        ],
+        [
+          6.9381826,
+          46.2771861
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/966657435",
   "properties": {
     "building": "yes",
@@ -50712,6 +50766,23 @@
     "coordinates": [
       8.5425729,
       47.5154347
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9502693894",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Centre médical des Cadolles",
+    "id": "node/9502693894"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9251322,
+      46.9983961
     ]
   }
 }
