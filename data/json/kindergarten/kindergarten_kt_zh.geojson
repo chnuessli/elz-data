@@ -3523,6 +3523,76 @@
 },
 {
   "type": "Feature",
+  "id": "way/45114661",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "6",
+    "addr:postcode": "8055",
+    "addr:street": "Meiliweg",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "isced:level": "0",
+    "name": "Kindergarten Meiliweg 1 - 3",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Bühl",
+    "operator:type": "public",
+    "phone": "+41 44 413 77 63",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/buehl/ueberuns/standorte/kindergaerten.html#kindergarten_meiliweg12",
+    "id": "way/45114661"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5172883,
+          47.3674875
+        ],
+        [
+          8.5172642,
+          47.3675197
+        ],
+        [
+          8.5172672,
+          47.3675207
+        ],
+        [
+          8.5170868,
+          47.3677619
+        ],
+        [
+          8.5169358,
+          47.3677101
+        ],
+        [
+          8.5171163,
+          47.3674687
+        ],
+        [
+          8.5172188,
+          47.3675039
+        ],
+        [
+          8.5172344,
+          47.3674829
+        ],
+        [
+          8.5172496,
+          47.3674881
+        ],
+        [
+          8.5172579,
+          47.3674771
+        ],
+        [
+          8.5172883,
+          47.3674875
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/45208885",
   "properties": {
     "addr:city": "Volketswil",
@@ -4334,6 +4404,67 @@
         [
           8.5039184,
           47.3657972
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/55796221",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "7",
+    "addr:postcode": "8003",
+    "addr:street": "Schwendenweg",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "isced:level": "0",
+    "name": "Kindergarten Schwendenweg 1 + 2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Bühl",
+    "phone": "+41 44 413 75 67",
+    "source": "Stadt Zürich OGD WMS",
+    "id": "way/55796221"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5174913,
+          47.3689514
+        ],
+        [
+          8.5176823,
+          47.3688674
+        ],
+        [
+          8.5177472,
+          47.3689372
+        ],
+        [
+          8.5176613,
+          47.3689743
+        ],
+        [
+          8.517683,
+          47.3689969
+        ],
+        [
+          8.517643,
+          47.3690145
+        ],
+        [
+          8.5176217,
+          47.3689923
+        ],
+        [
+          8.5175576,
+          47.3690204
+        ],
+        [
+          8.5174913,
+          47.3689514
         ]
       ]
     ]
@@ -25114,23 +25245,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1369558323",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Meiliweg 1 - 3",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/1369558323"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5171998,
-      47.3675384
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1382150306",
   "properties": {
     "addr:city": "Zürich",
@@ -27716,24 +27830,25 @@
   "type": "Feature",
   "id": "node/4952798657",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "18",
-    "addr:postcode": "8055",
-    "addr:street": "Sieberstrasse",
     "amenity": "kindergarten",
     "capacity": "18",
+    "contact:city": "Zürich",
+    "contact:housenumber": "18",
+    "contact:phone": "+41 44 413 78 49",
+    "contact:postcode": "8055",
+    "contact:street": "Sieberstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/buehl/ueberuns/standorte/kindergaerten.html#kindergarten_sieber",
     "name": "Kindergarten Sieber",
     "opening_hours": "Mo-Fr 07:00-19:00",
     "operator": "profawo Zürich",
-    "website": "https://www.profawo.ch/angebot/tageskindergarten/zuerich/sieberstrasse/",
+    "operator:type": "public",
     "id": "node/4952798657"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5114853,
-      47.364489
+      8.5114948,
+      47.3644724
     ]
   }
 },
@@ -28653,23 +28768,6 @@
     "coordinates": [
       8.5261731,
       47.3476015
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5333180605",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Schwendenweg 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/5333180605"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5176233,
-      47.3689244
     ]
   }
 },
@@ -30590,15 +30688,22 @@
   "id": "node/6633309278",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Stein 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
+    "contact:city": "Zürich",
+    "contact:housenumber": "24",
+    "contact:phone": "+41 44 413 75 36",
+    "contact:postcode": "8003",
+    "contact:street": "Steinstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/buehl/betreuung.html",
+    "name": "Kinderhort Stein 1+2 Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Bühl",
+    "operator:type": "public",
     "id": "node/6633309278"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.519158,
-      47.367744
+      8.5191494,
+      47.3677419
     ]
   }
 },

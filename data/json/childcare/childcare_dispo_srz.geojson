@@ -9179,6 +9179,28 @@
       47.3363644
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9504321316",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "6",
+    "contact:phone": "+41 44 413 77 65",
+    "contact:postcode": "8055",
+    "contact:street": "Meiliweg",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/buehl/betreuung/standorte.html#meiliweg_1_2",
+    "name": "Kinderhort Meiliweg 1+2",
+    "id": "node/9504321316"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5170558,
+      47.367662
+    ]
+  }
 }
 ]
 }
