@@ -6004,15 +6004,18 @@
   "type": "Feature",
   "id": "way/122455981",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "21",
-    "addr:postcode": "8051",
-    "addr:street": "Friedrichstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "21",
+    "contact:phone": "+41 44 413 09 00",
+    "contact:postcode": "8051",
+    "contact:street": "Friedrichstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/friedrichstrasse/ueberuns/standorte/schulhaus.html",
     "description": "Sekundarschule",
+    "isced:level": "2",
     "name": "Schule Friedrichstrasse",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/friedrichstrasse.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Friedrichstrasse",
+    "operator:type": "public",
     "id": "way/122455981"
   },
   "geometry": {
@@ -6020,36 +6023,44 @@
     "coordinates": [
       [
         [
-          8.5674578,
-          47.4049866
+          8.5674707,
+          47.4049849
         ],
         [
-          8.5675392,
-          47.4046819
+          8.5675521,
+          47.4046793
         ],
         [
-          8.567608,
-          47.4041541
+          8.5676183,
+          47.4041545
         ],
         [
-          8.5689437,
-          47.4042694
+          8.5689514,
+          47.404272
         ],
         [
-          8.5688877,
-          47.4047062
+          8.5688948,
+          47.4047084
         ],
         [
-          8.569349,
-          47.4047411
+          8.5693606,
+          47.4047402
         ],
         [
-          8.5692757,
-          47.4052408
+          8.5692873,
+          47.4052373
         ],
         [
-          8.5674578,
-          47.4049866
+          8.5686283,
+          47.4051466
+        ],
+        [
+          8.5680225,
+          47.4050626
+        ],
+        [
+          8.5674707,
+          47.4049849
         ]
       ]
     ]
@@ -6059,15 +6070,17 @@
   "type": "Feature",
   "id": "way/122667448",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "60",
-    "addr:postcode": "8051",
-    "addr:street": "Herzogenmühlestrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "60",
+    "contact:phone": "+41 44 413 31 00",
+    "contact:postcode": "8051",
+    "contact:street": "Herzogenmühlestrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/herzogenmuehle/ueberuns/standorte/schulhaus.html",
     "description": "Sekundarschule",
     "name": "Schule Herzogenmühle",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Auhof",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/herzogenmuehle.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Herzogenmühle",
+    "operator:type": "public",
     "id": "way/122667448"
   },
   "geometry": {
@@ -7175,15 +7188,17 @@
   "type": "Feature",
   "id": "way/136570849",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "186",
-    "addr:postcode": "8051",
-    "addr:street": "Luchswiesenstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "186",
+    "contact:phone": "+41 44 413 06 20",
+    "contact:postcode": "8051",
+    "contact:street": "Luchswiesenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/hirzenbach/ueberuns/standorte/schulhaus.html",
     "description": "Primarschule",
     "name": "Schule Hirzenbach",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/hirzenbach.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Hirzenbach",
+    "operator:type": "public",
     "id": "way/136570849"
   },
   "geometry": {
@@ -7191,31 +7206,43 @@
     "coordinates": [
       [
         [
-          8.5868906,
-          47.4033047
+          8.5869028,
+          47.4033035
         ],
         [
-          8.5879058,
-          47.4032222
+          8.5877163,
+          47.4032427
         ],
         [
-          8.5879997,
-          47.4037996
+          8.5877154,
+          47.4034289
         ],
         [
-          8.5881975,
-          47.4038928
+          8.5877642,
+          47.4036256
         ],
         [
-          8.5876834,
-          47.4049347
+          8.5877642,
+          47.4037642
         ],
         [
-          8.5876124,
-          47.4049407
+          8.5877898,
+          47.4038264
         ],
         [
-          8.5876558,
+          8.5882051,
+          47.403894
+        ],
+        [
+          8.587691,
+          47.4049351
+        ],
+        [
+          8.5876176,
+          47.4049391
+        ],
+        [
+          8.5876651,
           47.4052352
         ],
         [
@@ -7223,36 +7250,44 @@
           47.4053418
         ],
         [
-          8.5861545,
-          47.4049329
+          8.5861562,
+          47.4049341
         ],
         [
-          8.5862692,
-          47.4049272
+          8.5862773,
+          47.4049256
         ],
         [
-          8.5862847,
-          47.4050036
+          8.586281,
+          47.4049349
         ],
         [
-          8.5864479,
-          47.4049935
+          8.5862934,
+          47.405004
         ],
         [
-          8.5863793,
-          47.4045258
+          8.5864607,
+          47.4049919
         ],
         [
-          8.5865397,
-          47.4045147
+          8.5863851,
+          47.404525
         ],
         [
-          8.5869494,
-          47.403691
+          8.5865537,
+          47.40451
         ],
         [
-          8.5868906,
-          47.4033047
+          8.5867316,
+          47.4041467
+        ],
+        [
+          8.5869599,
+          47.4036823
+        ],
+        [
+          8.5869028,
+          47.4033035
         ]
       ]
     ]
@@ -17163,6 +17198,154 @@
         [
           8.4996954,
           47.3633517
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1031682788",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "55",
+    "contact:phone": "+41 44 413 30 00",
+    "contact:postcode": "8047",
+    "contact:street": "Dennlerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/utogrund.html",
+    "name": "Schule Utogrund",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Utogrund",
+    "operator:type": "public",
+    "id": "way/1031682788"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4977748,
+          47.3795317
+        ],
+        [
+          8.4977394,
+          47.3795591
+        ],
+        [
+          8.4977148,
+          47.3796282
+        ],
+        [
+          8.4972947,
+          47.3798556
+        ],
+        [
+          8.4965773,
+          47.3802443
+        ],
+        [
+          8.4965557,
+          47.3802543
+        ],
+        [
+          8.4965303,
+          47.3802569
+        ],
+        [
+          8.4965117,
+          47.3802516
+        ],
+        [
+          8.4964881,
+          47.380241
+        ],
+        [
+          8.496446,
+          47.3802065
+        ],
+        [
+          8.4962151,
+          47.3800296
+        ],
+        [
+          8.4962217,
+          47.3800252
+        ],
+        [
+          8.4959562,
+          47.3798196
+        ],
+        [
+          8.4956046,
+          47.3795488
+        ],
+        [
+          8.4956115,
+          47.379374
+        ],
+        [
+          8.4959739,
+          47.3791186
+        ],
+        [
+          8.4963343,
+          47.3788624
+        ],
+        [
+          8.4966959,
+          47.3786076
+        ],
+        [
+          8.4969358,
+          47.3784364
+        ],
+        [
+          8.4970742,
+          47.3783578
+        ],
+        [
+          8.4972148,
+          47.3782834
+        ],
+        [
+          8.4972488,
+          47.3782674
+        ],
+        [
+          8.4972517,
+          47.3782487
+        ],
+        [
+          8.4974315,
+          47.3781638
+        ],
+        [
+          8.4974596,
+          47.3781937
+        ],
+        [
+          8.4975055,
+          47.3782385
+        ],
+        [
+          8.4975194,
+          47.3782521
+        ],
+        [
+          8.4975647,
+          47.3782964
+        ],
+        [
+          8.4975475,
+          47.378304
+        ],
+        [
+          8.4983619,
+          47.3791193
+        ],
+        [
+          8.4977748,
+          47.3795317
         ]
       ]
     ]

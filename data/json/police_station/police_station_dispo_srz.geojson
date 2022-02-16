@@ -2410,8 +2410,10 @@
     "addr:housenumber": "1",
     "addr:postcode": "6403",
     "addr:street": "Bärenmatte",
+    "alt_name": "Kapo Schwyz",
     "amenity": "police",
-    "name": "Polizeiposten Küssnacht (Hauptposten)",
+    "email": "kapo@sz.ch",
+    "name": "Polizeiposten Küssnacht am Rigi (Hauptposten)",
     "operator": "Kantonspolizei Schwyz",
     "phone": "+41 41 819 53 64",
     "id": "node/1411346290"

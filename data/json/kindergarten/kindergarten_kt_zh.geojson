@@ -4588,40 +4588,40 @@
     "coordinates": [
       [
         [
-          8.6597249,
-          47.3863006
+          8.6597272,
+          47.3863189
         ],
         [
-          8.6597229,
-          47.3862057
+          8.6597252,
+          47.386224
         ],
         [
-          8.6596926,
-          47.386206
+          8.6596949,
+          47.3862243
         ],
         [
-          8.6596902,
-          47.3860927
+          8.6596925,
+          47.386111
         ],
         [
-          8.6598268,
-          47.3860914
+          8.6598291,
+          47.3861097
         ],
         [
-          8.6598289,
-          47.3861894
-        ],
-        [
-          8.6598681,
-          47.386189
+          8.6598312,
+          47.3862077
         ],
         [
           8.6598704,
-          47.3862992
+          47.3862073
         ],
         [
-          8.6597249,
-          47.3863006
+          8.6598727,
+          47.3863175
+        ],
+        [
+          8.6597272,
+          47.3863189
         ]
       ]
     ]
@@ -6076,6 +6076,71 @@
         [
           8.5794457,
           47.2717376
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/95252800",
+  "properties": {
+    "addr:housenumber": "74",
+    "addr:street": "Moosstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "description": "ABZ-Siedlung Im Moos I",
+    "isced:level": "0",
+    "name": "Kindergarten Moos 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Entlisberg",
+    "operator:type": "public",
+    "owner": "Allgemeine Baugenossenschaft Zürich (ABZ)",
+    "phone": "+41 44 413 77 83",
+    "roof:shape": "flat",
+    "start_date": "1954",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/entlisberg/ueberuns/standorte/kindergaerten.html#kindergarten_moos12",
+    "id": "way/95252800"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5287468,
+          47.3357547
+        ],
+        [
+          8.5286843,
+          47.3357545
+        ],
+        [
+          8.5286848,
+          47.3357106
+        ],
+        [
+          8.5286321,
+          47.3357103
+        ],
+        [
+          8.528633,
+          47.3356313
+        ],
+        [
+          8.5287626,
+          47.3356321
+        ],
+        [
+          8.5287617,
+          47.3357105
+        ],
+        [
+          8.5287474,
+          47.3357105
+        ],
+        [
+          8.5287468,
+          47.3357547
         ]
       ]
     ]
@@ -8725,47 +8790,6 @@
         [
           8.7004881,
           47.2567192
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/135723739",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Grosswiesen 1",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
-    "id": "way/135723739"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5865571,
-          47.4028715
-        ],
-        [
-          8.5864919,
-          47.4024757
-        ],
-        [
-          8.5872941,
-          47.4024151
-        ],
-        [
-          8.5873643,
-          47.4028408
-        ],
-        [
-          8.5866332,
-          47.402896
-        ],
-        [
-          8.5865571,
-          47.4028715
         ]
       ]
     ]
@@ -22320,42 +22344,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/705962144",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Moosstrasse 74",
-    "id": "way/705962144"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5284261,
-          47.3358997
-        ],
-        [
-          8.5284215,
-          47.3354641
-        ],
-        [
-          8.5288794,
-          47.3354669
-        ],
-        [
-          8.5288774,
-          47.3358991
-        ],
-        [
-          8.5284261,
-          47.3358997
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/705963680",
   "properties": {
     "amenity": "kindergarten",
@@ -28215,15 +28203,20 @@
   "id": "node/5187613730",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "186",
+    "contact:phone": "+41 44 413 06 29",
+    "contact:postcode": "8051",
+    "contact:street": "186",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/hirzenbach/ueberuns/standorte/kindergaerten.html",
     "name": "Kindergarten Hirzenbach",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
     "id": "node/5187613730"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5869225,
-      47.4051075
+      8.5870283,
+      47.4042307
     ]
   }
 },
@@ -29017,20 +29010,24 @@
   "type": "Feature",
   "id": "node/6605839879",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "143",
-    "addr:postcode": "8051",
-    "addr:street": "Grosswiesenstrasse",
     "amenity": "kindergarten",
-    "name": "Kindergarten Grosswiesen II",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
+    "contact:city": "Zürich",
+    "contact:housenumber": "143",
+    "contact:phone": "+41 44 413 76 36",
+    "contact:postcode": "8051",
+    "contact:street": "Grosswiesenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/hirzenbach/ueberuns/standorte/kindergaerten.html#grosswiesen_ii",
+    "isced:level": "0",
+    "name": "Kindergarten Grosswiesen 2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Hirzenbach",
+    "operator:type": "public",
     "id": "node/6605839879"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5878317,
-      47.4034999
+      8.588015,
+      47.4034227
     ]
   }
 },
@@ -30264,15 +30261,22 @@
   "id": "node/6631723975",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "13",
+    "contact:phone": "+41 44 413 74 76",
+    "contact:postcode": "8048",
+    "contact:street": "Flüelastrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/utogrund/ueberuns/standorte/kindergaerten.html#flueelastrasse",
     "name": "Kindergarten Flüelastrasse",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Utogrund",
+    "operator:type": "public",
     "id": "node/6631723975"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4963326,
-      47.3828313
+      8.4963052,
+      47.3828116
     ]
   }
 },
@@ -30668,23 +30672,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6633309277",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Tiergarten",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/6633309277"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5118096,
-      47.3662284
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6633309278",
   "properties": {
     "amenity": "kindergarten",
@@ -30704,23 +30691,6 @@
     "coordinates": [
       8.5191494,
       47.3677419
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6633329042",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Moos 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/6633329042"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5286955,
-      47.3356692
     ]
   }
 },
@@ -30763,23 +30733,6 @@
     "coordinates": [
       8.5249808,
       47.338908
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6633329050",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Moos 1",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/6633329050"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5286486,
-      47.3353241
     ]
   }
 },
@@ -31512,32 +31465,18 @@
 },
 {
   "type": "Feature",
-  "id": "node/7622469812",
-  "properties": {
-    "addr:housenumber": "20",
-    "addr:street": "Binzallee",
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Talwiesen 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/7622469812"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5160405,
-      47.3647088
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7622469815",
   "properties": {
-    "addr:housenumber": "45e",
-    "addr:street": "Bühlstrasse",
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "45e",
+    "contact:phone": "+41 44 413 77 08",
+    "contact:postcode": "8055",
+    "contact:street": "Bühlstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/buehl/ueberuns/standorte/kindergaerten.html",
     "name": "Kindergarten Talwiesen 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Bühl",
+    "operator:type": "public",
     "id": "node/7622469815"
   },
   "geometry": {
@@ -31552,11 +31491,16 @@
   "type": "Feature",
   "id": "node/7622469816",
   "properties": {
-    "addr:housenumber": "45d",
-    "addr:street": "Bühlstrasse",
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "45d",
+    "contact:phone": "+41 44 413 76 98",
+    "contact:postcode": "8055",
+    "contact:street": "Bühlstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/buehl/ueberuns/standorte/kindergaerten.html",
     "name": "Kindergarten Talwiesen 1",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Bühl",
+    "operator:type": "public",
     "id": "node/7622469816"
   },
   "geometry": {
@@ -33715,6 +33659,55 @@
     "coordinates": [
       8.5203814,
       47.3412482
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9507356841",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "22",
+    "contact:phone": "+41 44 413 77 67",
+    "contact:postcode": "8055",
+    "contact:street": "Im Tiergarten",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/buehl/ueberuns/standorte/kindergaerten.html#kindergarten_tiergarten",
+    "name": "Kindergarten Tiergarten",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Bühl",
+    "operator:type": "public",
+    "id": "node/9507356841"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5118324,
+      47.3662548
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9508042141",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "19",
+    "contact:phone": "+41 44 413 72 59",
+    "contact:postcode": "8003",
+    "contact:street": "Letzigraben",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/utogrund/ueberuns/standorte/kindergaerten.html#heiligfeld",
+    "isced:level": "0",
+    "name": "Kindergarten Heiligfeld",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Utogrund",
+    "operator:type": "public",
+    "id": "node/9508042141"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5029015,
+      47.3803162
     ]
   }
 }

@@ -45546,6 +45546,68 @@
 },
 {
   "type": "Feature",
+  "id": "way/1031658733",
+  "properties": {
+    "addr:city": "Münsterlingen",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8596",
+    "addr:street": "Spitalstrasse",
+    "amenity": "hospital",
+    "name": "Herz-Neuro-Zentrum Bodensee",
+    "note": "Klinikgelände grob geschätzt. Gerne korrigieren/anpassen",
+    "id": "way/1031658733"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.2373401,
+          47.6293399
+        ],
+        [
+          9.2378792,
+          47.6292133
+        ],
+        [
+          9.2388715,
+          47.6289328
+        ],
+        [
+          9.2389011,
+          47.6289354
+        ],
+        [
+          9.2389186,
+          47.6289399
+        ],
+        [
+          9.2389327,
+          47.6289458
+        ],
+        [
+          9.2389467,
+          47.6289576
+        ],
+        [
+          9.2393162,
+          47.629738
+        ],
+        [
+          9.2377022,
+          47.6301226
+        ],
+        [
+          9.2373401,
+          47.6293399
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/199578656",
   "properties": {
     "id": "way/199578656"
