@@ -7363,9 +7363,9 @@
     "amenity": "school",
     "building": "school",
     "description": "Primarschule",
-    "name": "Schule Utogrund",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/utogrund.html",
+    "isced:level": "1",
+    "name": "Schulhaus Utogrund",
+    "phone": "+41 44 413 30 00",
     "id": "way/28399828"
   },
   "geometry": {
@@ -7373,8 +7373,24 @@
     "coordinates": [
       [
         [
-          8.4958553,
-          47.3795014
+          8.4958604,
+          47.3794987
+        ],
+        [
+          8.4958664,
+          47.3795026
+        ],
+        [
+          8.4958586,
+          47.3795071
+        ],
+        [
+          8.4959174,
+          47.3795548
+        ],
+        [
+          8.4959254,
+          47.3795498
         ],
         [
           8.4962462,
@@ -7385,28 +7401,28 @@
           47.3798378
         ],
         [
-          8.4962526,
-          47.3798654
+          8.4962539,
+          47.3798638
         ],
         [
-          8.4961886,
-          47.379904
+          8.4961867,
+          47.3799046
         ],
         [
-          8.4958751,
-          47.3796659
+          8.4958736,
+          47.3796626
         ],
         [
-          8.4958346,
-          47.3796903
+          8.4958323,
+          47.3796874
         ],
         [
           8.4957712,
           47.3796422
         ],
         [
-          8.4958117,
-          47.3796177
+          8.495814,
+          47.3796157
         ],
         [
           8.4957497,
@@ -7425,8 +7441,8 @@
           47.379521
         ],
         [
-          8.4958553,
-          47.3795014
+          8.4958604,
+          47.3794987
         ]
       ]
     ]
@@ -8397,15 +8413,17 @@
   "type": "Feature",
   "id": "way/29495009",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "158",
-    "addr:postcode": "8051",
-    "addr:street": "Dübendorfstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "158",
+    "contact:phone": "+41 44 413 25 97",
+    "contact:postcode": "8051",
+    "contact:street": "Dübendorferstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/stettbach/ueberuns/standorte/schulhaus.html",
     "description": "Sekundarschule",
     "name": "Schule Stettbach",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/stettbach.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Stettbach",
+    "operator:type": "public",
     "id": "way/29495009"
   },
   "geometry": {
@@ -8413,96 +8431,100 @@
     "coordinates": [
       [
         [
-          8.5794429,
-          47.4017388
+          8.5794514,
+          47.4017385
         ],
         [
-          8.5790476,
-          47.4013123
+          8.5790551,
+          47.4013096
         ],
         [
-          8.5792372,
-          47.4012452
+          8.5792337,
+          47.4012483
         ],
         [
-          8.5795071,
-          47.4011975
+          8.5795172,
+          47.4011955
         ],
         [
           8.5806242,
           47.4008736
         ],
         [
-          8.5811137,
-          47.4007275
+          8.5810639,
+          47.4007466
         ],
         [
-          8.5813296,
-          47.4006555
+          8.5812808,
+          47.4006756
         ],
         [
-          8.5814403,
-          47.4006118
+          8.5813342,
+          47.4006571
         ],
         [
-          8.5821728,
-          47.4003035
+          8.582205,
+          47.4002946
         ],
         [
-          8.5823713,
-          47.4002006
+          8.5823814,
+          47.4001989
         ],
         [
-          8.5827793,
-          47.4005913
+          8.5827878,
+          47.4005923
         ],
         [
-          8.5825992,
-          47.4006777
+          8.5826067,
+          47.4006763
         ],
         [
-          8.5828877,
-          47.401146
+          8.5828922,
+          47.4011484
         ],
         [
-          8.582653,
-          47.4012159
+          8.5826621,
+          47.4012149
         ],
         [
-          8.5826174,
-          47.4012073
+          8.582631,
+          47.4012097
         ],
         [
-          8.5816555,
-          47.4014919
+          8.5816661,
+          47.4014902
         ],
         [
-          8.5816455,
-          47.401475
+          8.5816561,
+          47.4014733
         ],
         [
-          8.5812497,
-          47.4015894
+          8.5812598,
+          47.4015887
         ],
         [
-          8.5811043,
-          47.4016327
+          8.5811154,
+          47.4016303
         ],
         [
-          8.5811134,
-          47.4016494
+          8.581124,
+          47.4016467
         ],
         [
-          8.5810228,
-          47.4016893
+          8.5810653,
+          47.4016757
         ],
         [
-          8.5796575,
-          47.4020848
+          8.5810007,
+          47.4016978
         ],
         [
-          8.5794429,
-          47.4017388
+          8.579663,
+          47.4020879
+        ],
+        [
+          8.5794514,
+          47.4017385
         ]
       ]
     ]
@@ -17625,6 +17647,57 @@
 },
 {
   "type": "Feature",
+  "id": "way/41085090",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "3",
+    "addr:postcode": "8050",
+    "addr:street": "Saatlenfussweg",
+    "amenity": "school",
+    "building": "school",
+    "building:levels": "8",
+    "isced:level": "0;1;2",
+    "name": "Schulhaus Leutschenbach",
+    "id": "way/41085090"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5621996,
+          47.4136227
+        ],
+        [
+          8.5622081,
+          47.4133141
+        ],
+        [
+          8.5627144,
+          47.4133205
+        ],
+        [
+          8.5627149,
+          47.4133017
+        ],
+        [
+          8.5628708,
+          47.4133037
+        ],
+        [
+          8.5628618,
+          47.413631
+        ],
+        [
+          8.5621996,
+          47.4136227
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/41467422",
   "properties": {
     "addr:housenumber": "76",
@@ -22916,32 +22989,36 @@
     "coordinates": [
       [
         [
-          8.7410306,
-          47.490959
+          8.7410132,
+          47.4909691
         ],
         [
-          8.7408495,
-          47.4907907
+          8.7408356,
+          47.490809
         ],
         [
-          8.7408091,
-          47.4907564
+          8.7407737,
+          47.4907557
         ],
         [
-          8.740645,
-          47.4906113
+          8.7406237,
+          47.4906207
         ],
         [
-          8.74035,
-          47.4903506
+          8.7403298,
+          47.4903641
         ],
         [
-          8.740112,
-          47.4901403
+          8.7401032,
+          47.490166
         ],
         [
-          8.7400421,
-          47.4900806
+          8.7400218,
+          47.4900946
+        ],
+        [
+          8.7401261,
+          47.4900336
         ],
         [
           8.7404715,
@@ -22976,8 +23053,8 @@
           47.4909216
         ],
         [
-          8.7410306,
-          47.490959
+          8.7410132,
+          47.4909691
         ]
       ]
     ]
@@ -25380,6 +25457,53 @@
 },
 {
   "type": "Feature",
+  "id": "way/89551309",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "86",
+    "addr:postcode": "8051",
+    "addr:street": "Glattwiesenstrasse",
+    "amenity": "school",
+    "building": "school",
+    "building:levels": "3",
+    "isced:level": "1",
+    "name": "Schulhaus Luchswiesen",
+    "owner": "Immobilien Stadt Zürich (IMMO)",
+    "phone": "+41 44 413 25 10",
+    "roof:levels": "0",
+    "roof:shape": "flat",
+    "id": "way/89551309"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5824076,
+          47.4042935
+        ],
+        [
+          8.5825413,
+          47.4040242
+        ],
+        [
+          8.5826854,
+          47.4040573
+        ],
+        [
+          8.5825525,
+          47.4043258
+        ],
+        [
+          8.5824076,
+          47.4042935
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/89656950",
   "properties": {
     "amenity": "school",
@@ -27488,6 +27612,72 @@
 },
 {
   "type": "Feature",
+  "id": "way/95474747",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "300",
+    "addr:postcode": "8051",
+    "addr:street": "Dübendorfstrasse",
+    "amenity": "school",
+    "building": "school",
+    "isced:level": "0;1",
+    "name": "Schulhaus Mattenhof",
+    "id": "way/95474747"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5881429,
+          47.3987505
+        ],
+        [
+          8.5882492,
+          47.3987273
+        ],
+        [
+          8.5883766,
+          47.3989944
+        ],
+        [
+          8.588323,
+          47.3990061
+        ],
+        [
+          8.5883372,
+          47.3990358
+        ],
+        [
+          8.5881883,
+          47.3990683
+        ],
+        [
+          8.5880953,
+          47.3988734
+        ],
+        [
+          8.5881725,
+          47.3988565
+        ],
+        [
+          8.5881699,
+          47.3988509
+        ],
+        [
+          8.5881888,
+          47.3988467
+        ],
+        [
+          8.5881429,
+          47.3987505
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/95522505",
   "properties": {
     "addr:city": "Zürich",
@@ -27498,6 +27688,7 @@
     "description": "Primarschule",
     "name": "Schule Saatlen",
     "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
+    "operator:type": "public",
     "website": "https://www.stadt-zuerich.ch/schulen/de/saatlen.html",
     "id": "way/95522505"
   },
@@ -32736,92 +32927,19 @@
 },
 {
   "type": "Feature",
-  "id": "way/122772664",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "3",
-    "addr:postcode": "8050",
-    "addr:street": "Saatlenfussweg",
-    "amenity": "school",
-    "description": "Primarschule und Sekundarschule",
-    "name": "Schule Leutschenbach",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/leutschenbach.html",
-    "id": "way/122772664"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5621575,
-          47.4131217
-        ],
-        [
-          8.5629024,
-          47.4131317
-        ],
-        [
-          8.5631475,
-          47.413135
-        ],
-        [
-          8.5631382,
-          47.4132473
-        ],
-        [
-          8.5630872,
-          47.4134783
-        ],
-        [
-          8.5630614,
-          47.4137033
-        ],
-        [
-          8.5630571,
-          47.4142566
-        ],
-        [
-          8.5629361,
-          47.414255
-        ],
-        [
-          8.5619718,
-          47.4142425
-        ],
-        [
-          8.5617101,
-          47.4142391
-        ],
-        [
-          8.5611385,
-          47.4142321
-        ],
-        [
-          8.5611817,
-          47.4131176
-        ],
-        [
-          8.5621575,
-          47.4131217
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/122772667",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "86",
-    "addr:postcode": "8051",
-    "addr:street": "Glattwiesenstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "86",
+    "contact:phone": "+41 44 413 25 10",
+    "contact:postcode": "8051",
+    "contact:street": "Glattwiesenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/luchswiesen/ueberuns/standorte/schulhaus.html",
     "description": "Primarschule",
     "name": "Schule Luchswiesen",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/luchswiesen.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Luchswiesen",
+    "operator:type": "public",
     "id": "way/122772667"
   },
   "geometry": {
@@ -32829,48 +32947,60 @@
     "coordinates": [
       [
         [
-          8.5823632,
-          47.4036305
+          8.5823741,
+          47.403632
         ],
         [
-          8.5831784,
+          8.5831464,
           47.4035741
         ],
         [
-          8.5841853,
-          47.4034981
+          8.5841922,
+          47.4034966
         ],
         [
-          8.5842074,
-          47.4035146
+          8.584219,
+          47.4035148
         ],
         [
-          8.5834386,
-          47.4050749
+          8.5834495,
+          47.4050756
         ],
         [
-          8.581853,
-          47.4047141
+          8.5818893,
+          47.404721
         ],
         [
-          8.5818204,
-          47.4046678
+          8.5818565,
+          47.4047087
         ],
         [
-          8.5821572,
-          47.4039847
+          8.5818398,
+          47.404693
         ],
         [
-          8.5822146,
-          47.4038732
+          8.5818325,
+          47.4046767
         ],
         [
-          8.5823244,
-          47.4036501
+          8.5818386,
+          47.4046506
         ],
         [
-          8.5823632,
-          47.4036305
+          8.5822277,
+          47.4038683
+        ],
+        [
+          8.5822779,
+          47.4037666
+        ],
+        [
+          8.5823317,
+          47.4036531
+        ],
+        [
+          8.5823741,
+          47.403632
         ]
       ]
     ]
@@ -32880,15 +33010,17 @@
   "type": "Feature",
   "id": "way/122772670",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "300",
-    "addr:postcode": "8051",
-    "addr:street": "Dübendorfstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "300",
+    "contact:phone": "+41 44 413 09 80",
+    "contact:postcode": "8051",
+    "contact:street": "Dübendorferstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/mattenhof/ueberuns/standorte/schulhaus.html",
     "description": "Primarschule",
     "name": "Schule Mattenhof",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/mattenhof.html",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Mattenhof",
+    "operator:type": "public",
     "id": "way/122772670"
   },
   "geometry": {
@@ -32896,112 +33028,128 @@
     "coordinates": [
       [
         [
-          8.588061,
-          47.3983505
+          8.5880369,
+          47.398353
         ],
         [
-          8.588647,
-          47.3982768
+          8.5886634,
+          47.3982757
         ],
         [
-          8.5887342,
-          47.3983031
+          8.5886886,
+          47.3982856
         ],
         [
-          8.5891308,
-          47.3983572
+          8.5887144,
+          47.3982931
         ],
         [
-          8.5891695,
-          47.3983714
+          8.5887432,
+          47.3982994
         ],
         [
-          8.5891875,
-          47.3983888
+          8.5887734,
+          47.3983049
         ],
         [
-          8.5893714,
-          47.3987594
+          8.589147,
+          47.3983591
         ],
         [
-          8.58953,
-          47.399067
+          8.5891989,
+          47.3983911
         ],
         [
-          8.5895027,
-          47.3990917
+          8.5893815,
+          47.3987567
         ],
         [
-          8.5895129,
-          47.3991014
+          8.589538,
+          47.3990688
         ],
         [
-          8.5887222,
+          8.5895161,
+          47.3990926
+        ],
+        [
+          8.5895223,
+          47.3991028
+        ],
+        [
+          8.5887262,
           47.3994113
         ],
         [
-          8.5885801,
-          47.3992847
+          8.5885881,
+          47.3992842
         ],
         [
-          8.5883783,
-          47.3993391
+          8.5883884,
+          47.3993377
         ],
         [
-          8.5884424,
-          47.3994111
+          8.5884907,
+          47.3994574
         ],
         [
-          8.5883938,
-          47.3994329
+          8.5884407,
+          47.3994774
         ],
         [
-          8.588086,
-          47.3991045
+          8.5881987,
+          47.3992116
         ],
         [
-          8.5880224,
-          47.3990359
+          8.5880325,
+          47.3990341
         ],
         [
-          8.5879902,
-          47.3989389
+          8.5879758,
+          47.3989803
         ],
         [
-          8.5879722,
-          47.3989025
+          8.58796,
+          47.3989357
         ],
         [
-          8.5879639,
-          47.3988469
+          8.5879326,
+          47.3988948
         ],
         [
-          8.5879878,
-          47.3987902
+          8.5879652,
+          47.3987793
         ],
         [
-          8.588052,
-          47.3987013
+          8.5880086,
+          47.3986776
         ],
         [
-          8.5880702,
-          47.3986277
+          8.5880332,
+          47.3986568
         ],
         [
-          8.5880715,
+          8.5879964,
+          47.3986055
+        ],
+        [
+          8.5879832,
+          47.3985886
+        ],
+        [
+          8.5879843,
           47.398552
         ],
         [
-          8.5880845,
-          47.3984943
+          8.5879987,
+          47.3985256
         ],
         [
-          8.5880833,
-          47.3984337
+          8.5880732,
+          47.3984078
         ],
         [
-          8.588061,
-          47.3983505
+          8.5880369,
+          47.398353
         ]
       ]
     ]
@@ -35717,8 +35865,8 @@
           47.4915526
         ],
         [
-          8.7365585,
-          47.4920871
+          8.7365656,
+          47.492089
         ],
         [
           8.7364735,
@@ -62786,7 +62934,7 @@
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus Gräfler",
-    "wikidata": "Q29880089",
+    "wikidata": "Q16058604",
     "id": "way/251501469"
   },
   "geometry": {
@@ -96987,32 +97135,24 @@
           47.3798556
         ],
         [
-          8.4965773,
-          47.3802443
+          8.4972418,
+          47.3798139
         ],
         [
-          8.4965557,
-          47.3802543
+          8.496976,
+          47.37996
         ],
         [
-          8.4965303,
-          47.3802569
+          8.4967918,
+          47.3798065
         ],
         [
-          8.4965117,
-          47.3802516
+          8.4967212,
+          47.3798478
         ],
         [
-          8.4964881,
-          47.380241
-        ],
-        [
-          8.496446,
-          47.3802065
-        ],
-        [
-          8.4962151,
-          47.3800296
+          8.496413,
+          47.3799113
         ],
         [
           8.4962217,
@@ -97093,6 +97233,71 @@
         [
           8.4977748,
           47.3795317
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1031934496",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "3",
+    "contact:phone": "+41 44 413 08 10",
+    "contact:postcode": "8050",
+    "contact:street": "Saatlenfussweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/leutschenbach.html",
+    "description": "Primar- und Sekundarschule",
+    "name": "Schule Leutschenbach",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Leutschenbach",
+    "operator:type": "public",
+    "id": "way/1031934496"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5630286,
+          47.4142416
+        ],
+        [
+          8.5611352,
+          47.4142138
+        ],
+        [
+          8.5611391,
+          47.4137613
+        ],
+        [
+          8.5611665,
+          47.4131078
+        ],
+        [
+          8.5617309,
+          47.4131138
+        ],
+        [
+          8.5631485,
+          47.4131268
+        ],
+        [
+          8.5631485,
+          47.4132132
+        ],
+        [
+          8.5631438,
+          47.4133857
+        ],
+        [
+          8.5630547,
+          47.4135687
+        ],
+        [
+          8.5630286,
+          47.4142416
         ]
       ]
     ]
@@ -100290,42 +100495,6 @@
     "coordinates": [
       8.5144123,
       47.0997854
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6605842585",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "164",
-    "addr:postcode": "8051",
-    "addr:street": "Roswiesenstrasse",
-    "amenity": "school",
-    "name": "Kindergarten Roswiesen",
-    "id": "node/6605842585"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5807102,
-      47.4075536
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6605842586",
-  "properties": {
-    "amenity": "school",
-    "name": "Morgentisch, Mittag-/Abendhort Kronwiesen",
-    "id": "node/6605842586"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5812465,
-      47.4044445
     ]
   }
 },

@@ -5569,6 +5569,115 @@
 },
 {
   "type": "Feature",
+  "id": "way/89578720",
+  "properties": {
+    "addr:housenumber": "12",
+    "addr:postcode": "8051",
+    "addr:street": "Glattwiesenstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "isced:level": "0",
+    "name": "Kindergarten Glattwiesen",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Luchswiesen",
+    "operator:type": "public",
+    "phone": "+41 44 413 76 92",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/luchswiesen/ueberuns/standorte/kindergaerten.html#kindergarten_glattwiesen",
+    "id": "way/89578720"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5820199,
+          47.4019534
+        ],
+        [
+          8.5820982,
+          47.4018845
+        ],
+        [
+          8.5821998,
+          47.4019375
+        ],
+        [
+          8.5821406,
+          47.4019894
+        ],
+        [
+          8.5821597,
+          47.4020211
+        ],
+        [
+          8.5821392,
+          47.4020284
+        ],
+        [
+          8.582167,
+          47.4020743
+        ],
+        [
+          8.5821895,
+          47.4020692
+        ],
+        [
+          8.5822099,
+          47.4021009
+        ],
+        [
+          8.5823068,
+          47.4021087
+        ],
+        [
+          8.5822926,
+          47.4021945
+        ],
+        [
+          8.5821653,
+          47.402185
+        ],
+        [
+          8.5821719,
+          47.4021445
+        ],
+        [
+          8.5821052,
+          47.402141
+        ],
+        [
+          8.5821112,
+          47.402111
+        ],
+        [
+          8.5820623,
+          47.4020325
+        ],
+        [
+          8.5820249,
+          47.4020126
+        ],
+        [
+          8.5820274,
+          47.4020101
+        ],
+        [
+          8.5820295,
+          47.4020111
+        ],
+        [
+          8.5820661,
+          47.4019783
+        ],
+        [
+          8.5820199,
+          47.4019534
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/90179264",
   "properties": {
     "addr:city": "Fehraltorf",
@@ -8665,28 +8774,28 @@
           47.492773
         ],
         [
-          8.7394314,
-          47.4925313
+          8.7394269,
+          47.4925273
         ],
         [
-          8.7395827,
-          47.4924141
+          8.7395791,
+          47.4924179
         ],
         [
-          8.7399327,
-          47.4921687
+          8.7399246,
+          47.492179
         ],
         [
-          8.7399738,
-          47.4921965
+          8.7399657,
+          47.4922068
         ],
         [
-          8.7403605,
-          47.4924576
+          8.7403466,
+          47.4924668
         ],
         [
-          8.7404632,
-          47.492527
+          8.7405083,
+          47.4925377
         ],
         [
           8.739841,
@@ -8939,54 +9048,6 @@
         [
           8.5837631,
           47.405347
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/136741962",
-  "properties": {
-    "amenity": "kindergarten",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
-    "id": "way/136741962"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.581609,
-          47.4022864
-        ],
-        [
-          8.5814539,
-          47.4020501
-        ],
-        [
-          8.5821091,
-          47.4018576
-        ],
-        [
-          8.5822489,
-          47.4017476
-        ],
-        [
-          8.5824869,
-          47.4021629
-        ],
-        [
-          8.5819476,
-          47.4022921
-        ],
-        [
-          8.5817751,
-          47.4022969
-        ],
-        [
-          8.581609,
-          47.4022864
         ]
       ]
     ]
@@ -24625,15 +24686,22 @@
   "id": "node/664759229",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kindergarten Utogrund I + II",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "contact:city": "Zürich",
+    "contact:housenumber": "27",
+    "contact:phone": "+41 44 413 76 50",
+    "contact:postcode": "8047",
+    "contact:street": "Dennlerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/utogrund/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Utogrund 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Utogrund",
+    "operator:type": "public",
     "id": "node/664759229"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4971428,
-      47.3801773
+      8.4970905,
+      47.380194
     ]
   }
 },
@@ -28276,29 +28344,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5187614165",
-  "properties": {
-    "alt_name": "Kindergarten mehr als wohnen (MAW)",
-    "amenity": "kindergarten",
-    "isced:level": "0",
-    "level": "0",
-    "mobile": "+41 44 413 08 13",
-    "name": "Kindergarten Leutschenbach II",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
-    "phone": "+41 44 413 08 12",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/leutschenbach/ueberuns/standorte/kindergaerten.html",
-    "id": "node/5187614165"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5605789,
-      47.4136644
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5187614166",
   "properties": {
     "amenity": "kindergarten",
@@ -29073,38 +29118,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6605842589",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Graphis 1",
-    "id": "node/6605842589"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5806366,
-      47.4021036
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6605842590",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Morgentisch, Mittag-/Abendhort Heideggerweg",
-    "id": "node/6605842590"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5636704,
-      47.4076597
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6624151063",
   "properties": {
     "amenity": "kindergarten",
@@ -29165,23 +29178,6 @@
     "coordinates": [
       8.5460627,
       47.4029317
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6624401693",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Wolfswinkel 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/6624401693"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5150881,
-      47.4239473
     ]
   }
 },
@@ -30277,23 +30273,6 @@
     "coordinates": [
       8.4963052,
       47.3828116
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6631723976",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Utogrund 3",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "id": "node/6631723976"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4994009,
-      47.3766092
     ]
   }
 },
@@ -33708,6 +33687,138 @@
     "coordinates": [
       8.5029015,
       47.3803162
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9509951819",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "3",
+    "contact:phone": "+41 44 413 08 31",
+    "contact:postcode": "8050",
+    "contact:street": "Saatlenfussweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/leutschenbach/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Leutschenbach 1",
+    "id": "node/9509951819"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5623905,
+      47.4135422
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9509968851",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "7",
+    "contact:phone": "+41 44 413 08 13",
+    "contact:postcode": "8050",
+    "contact:street": "Genossenschaftsstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/leutschenbach/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Leutschenbach 2",
+    "id": "node/9509968851"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5605628,
+      47.4136746
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9510182841",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "86",
+    "contact:phone": "+41 44 413 25 22",
+    "contact:postcode": "8051",
+    "contact:street": "Glattwiesenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/luchswiesen/ueberuns/standorte/kindergaerten.html#kindergarten_luchswiesen",
+    "name": "Kindergarten Luchswiesen",
+    "id": "node/9510182841"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5825322,
+      47.404127
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9510249566",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "176",
+    "contact:phone": "+41 44 413 76 00",
+    "contact:postcode": "8051",
+    "contact:street": "Roswiesenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/luchswiesen/ueberuns/standorte/kindergaerten.html#kindergarten_roswiesen1und2",
+    "name": "Kindergarten Roswiesen",
+    "id": "node/9510249566"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5812813,
+      47.4072431
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9510249568",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "164",
+    "contact:phone": "+41 44 413 78 77",
+    "contact:postcode": "8051",
+    "contact:street": "Roswiesenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/luchswiesen/ueberuns/standorte/kindergaerten.html#kindergarten_luchswiesen",
+    "name": "Kindergarten Roswiesen 1",
+    "id": "node/9510249568"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5806414,
+      47.4075234
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9510718866",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "300",
+    "contact:phone": "+41 44 413 09 83",
+    "contact:postcode": "8051",
+    "contact:street": "Dübendorferstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/mattenhof/ueberuns/standorte/grundstufe.html",
+    "name": "Kindergarten Mattenhof 2",
+    "id": "node/9510718866"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5881951,
+      47.398988
     ]
   }
 }

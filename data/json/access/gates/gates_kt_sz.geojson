@@ -2973,6 +2973,21 @@
 },
 {
   "type": "Feature",
+  "id": "node/2215107183",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/2215107183"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5938426,
+      46.9998859
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2246942735",
   "properties": {
     "barrier": "gate",
