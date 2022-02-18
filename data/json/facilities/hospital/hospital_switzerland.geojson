@@ -40834,50 +40834,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/681053786",
-  "properties": {
-    "addr:city": "Kreuzlingen",
-    "addr:country": "CH",
-    "addr:housenumber": "1",
-    "addr:postcode": "8280",
-    "addr:street": "Weinbergstrasse",
-    "amenity": "hospital",
-    "emergency": "yes",
-    "name": "Herz-Neuro-Zentrum Bodensee",
-    "phone": "+41 71 677 51 51",
-    "website": "https://www.herz-zentrum.com/kreuzlingen/klinik",
-    "id": "way/681053786"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          9.1758639,
-          47.6420603
-        ],
-        [
-          9.1756359,
-          47.6413663
-        ],
-        [
-          9.1759604,
-          47.6412886
-        ],
-        [
-          9.1763735,
-          47.6419482
-        ],
-        [
-          9.1758639,
-          47.6420603
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/681055950",
   "properties": {
     "addr:city": "Littenheid",
@@ -45554,8 +45510,15 @@
     "addr:postcode": "8596",
     "addr:street": "Spitalstrasse",
     "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "cardiology;neurosurgery",
     "name": "Herz-Neuro-Zentrum Bodensee",
     "note": "Klinikgelände grob geschätzt. Gerne korrigieren/anpassen",
+    "operator": "CHC Holding AG",
+    "operator:type": "private",
+    "phone": "+41 71 677 51 51",
+    "website": "https://www.herz-zentrum.com/muensterlingen/klinik/standorte",
     "id": "way/1031658733"
   },
   "geometry": {
