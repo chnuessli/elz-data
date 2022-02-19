@@ -259,16 +259,21 @@
   "type": "Feature",
   "id": "way/43011486",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "215",
+    "addr:postcode": "8400",
     "addr:street": "Schaffhauserstrasse",
+    "alt_name": "Kapo",
     "amenity": "police",
     "building": "yes",
     "building:levels": "2",
-    "name": "Verkehrsstützpunkt Winterthur",
+    "name": "Polizeiposten Verkehrsstützpunkt Winterthur",
     "name:de": "Kantonspolizei Zürich, Verkehrspolizeistützpunkt Winterthur",
     "name:en": "Statepolice of Zurich",
     "opening_hours": "24/7",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
     "phone": "+41 52 208 17 00",
     "id": "way/43011486"
   },
@@ -436,10 +441,12 @@
     "addr:housenumber": "17",
     "addr:postcode": "8400",
     "addr:street": "Obertor",
+    "alt_name": "KomPol Winterthur",
     "amenity": "police",
     "building": "yes",
-    "name": "Stadtpolizei Winterthur",
+    "name": "Polizeiposten Stadtpolizei Winterthur",
     "operator": "Stadtpolizei Winterthur",
+    "phone": "+41 52 267 51 52",
     "wikidata": "Q2327943",
     "id": "way/75027449"
   },
@@ -668,6 +675,7 @@
     "addr:housenumber": "24",
     "addr:postcode": "8542",
     "addr:street": "Schulstrasse",
+    "alt_name": "Kapo",
     "amenity": "police",
     "building": "yes",
     "building:roof": "flat",
@@ -675,6 +683,7 @@
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",
     "operator:wikipedia": "de:Kantonspolizei Zürich",
+    "phone": "+41 52 320 92 00",
     "id": "way/115963477"
   },
   "geometry": {
@@ -1202,9 +1211,13 @@
     "addr:housenumber": "24",
     "addr:postcode": "8400",
     "addr:street": "Hermann-Götz-Strasse",
+    "alt_name": "Kapo",
     "amenity": "police",
-    "name": "Polizeiposten Winterthur Bezirksgebäude",
+    "name": "Polizeiposten Winterthur Ost",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
+    "phone": "+41 52 268 52 22",
     "id": "node/29456226"
   },
   "geometry": {
@@ -1544,17 +1557,20 @@
     "addr:housenumber": "196",
     "addr:postcode": "8620",
     "addr:street": "Bahnhofstrasse",
+    "alt_name": "Kapo",
     "amenity": "police",
     "name": "Polizeiposten Wetzikon",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
     "phone": "+41 43 488 20 40",
     "id": "node/431290189"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8017968,
-      47.3273012
+      8.8018541,
+      47.3272962
     ]
   }
 },
@@ -1613,11 +1629,13 @@
     "addr:housenumber": "29",
     "addr:postcode": "8004",
     "addr:street": "Kasernenstrasse",
+    "alt_name": "Kapo Zürich Hauptwache",
     "amenity": "police",
     "name": "Polizeiposten Zürich (Hauptwache)",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
     "phone": "+41 44 247 22 11",
-    "wikipedia": "de:Kantonspolizei Zürich",
     "id": "node/474453891"
   },
   "geometry": {
@@ -1637,9 +1655,13 @@
     "addr:housenumber": "11",
     "addr:postcode": "8004",
     "addr:street": "Zeughausstrasse",
+    "alt_name": "Kripo Zürich",
     "amenity": "police",
-    "name": "Kriminalpolizei",
+    "name": "Polizeiposten Kriminalpolizei",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
+    "phone": "+41 44 411 67 67",
     "id": "node/474454473"
   },
   "geometry": {
@@ -1758,8 +1780,10 @@
     "addr:housenumber": "193",
     "addr:postcode": "8620",
     "addr:street": "Bahnhofstrasse",
+    "alt_name": "KomPol Wetzikon",
     "amenity": "police",
-    "name": "Stadtpolizei Wetzikon",
+    "loc_name": "Gemeindepolizei Wetzikon",
+    "name": "Polizeiposten Stadtpolizei Wetzikon",
     "operator": "Stadt Wetzikon",
     "phone": "+41 44 931 23 33",
     "website": "https://www.wetzikon.ch/Verwaltung/Sicherheit/stadtpolizei",
@@ -1782,11 +1806,14 @@
     "addr:housenumber": "61",
     "addr:postcode": "8001",
     "addr:street": "Limmatquai",
+    "alt_name": "Kapo",
     "amenity": "police",
     "name": "Polizeiposten Rathaus Zürich",
     "opening_hours": "Mo-Fr 07:00-17:30",
     "opening_hours:covid19": "open",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
     "phone": "+41 44 247 29 80",
     "toilets:wheelchair": "yes",
     "wheelchair": "yes",
@@ -2535,9 +2562,12 @@
     "addr:housenumber": "21",
     "addr:postcode": "8104",
     "addr:street": "Grossächerstrasse",
+    "alt_name": "KomPol Weiningen",
     "amenity": "police",
     "email": "verbund@polizei-rl.ch",
-    "name": "Polizeiverbund rechtes Limmattal",
+    "loc_name": "Gemeindepolizei",
+    "name": "Posten Polizeiverbund rechtes Limmattal",
+    "operator": "Stadt Weiningen (ZH)",
     "phone": "+41 44 750 99 00",
     "id": "node/3984007758"
   },
@@ -2608,8 +2638,10 @@
     "addr:street": "Bahnhofplatz",
     "alt_name": "Kapo Posten Bahnhof Winterthur",
     "amenity": "police",
-    "name": "Polizeiposten Winterthur Bahnhof",
+    "name": "Polizeiposten Winterthur West",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
     "phone": "+41 52 268 52 70",
     "source": "http://www.kapo.zh.ch/internet/sicherheitsdirektion/kapo/de/aktuell/medienmitteilungen/2016_12/1612011c.html",
     "website": "https://www.kapo.zh.ch/internet/sicherheitsdirektion/kapo/de/ueber_uns/standorte/winterthur.html",
@@ -2618,8 +2650,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7249825,
-      47.5007224
+      8.7249666,
+      47.5007557
     ]
   }
 },
@@ -2918,8 +2950,16 @@
   "type": "Feature",
   "id": "node/7798090763",
   "properties": {
+    "addr:city": "Zumikon",
+    "addr:housenumber": "1",
+    "addr:postcode": "8126",
+    "addr:street": "Dorfplatz",
+    "alt_name": "KomPol Zumikon",
     "amenity": "police",
-    "name": "Gemeindepolizei Zumikon",
+    "loc_name": "Gemeindepolizei Zumikon",
+    "name": "Polizeiposten Stadtpolizei Zumikon",
+    "operator": "Stadt Zumikon",
+    "phone": "+41 44 918 78 18",
     "id": "node/7798090763"
   },
   "geometry": {
@@ -3864,6 +3904,54 @@
     "coordinates": [
       8.4546705,
       47.3702273
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9515521060",
+  "properties": {
+    "addr:city": "Wallisellen",
+    "addr:housenumber": "9",
+    "addr:postcode": "8304",
+    "addr:street": "Zentralstrasse",
+    "alt_name": "KomPol Wallisellen",
+    "amenity": "police",
+    "loc_name": "Gemeindepolizei Wallisellen",
+    "name": "Polizeiposten Stadtpolizei Wallisellen",
+    "operator": "Stadt Wallisellen",
+    "phone": "+41 44 832 61 50",
+    "id": "node/9515521060"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5930283,
+      47.4166835
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9518260229",
+  "properties": {
+    "addr:city": "Zollikon",
+    "addr:housenumber": "10",
+    "addr:postcode": "8702",
+    "addr:street": "Bergstrasse",
+    "alt_name": "KomPol Zollikon",
+    "amenity": "police",
+    "loc_name": "Gemeindepolizei Zollikon",
+    "name": "Polizeiposten Stadtpolizei Zollikon",
+    "operator": "Stadt Zollikon",
+    "phone": "+41 44 391 44 11",
+    "id": "node/9518260229"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5752681,
+      47.3404649
     ]
   }
 }
