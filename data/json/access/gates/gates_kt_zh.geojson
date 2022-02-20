@@ -12396,7 +12396,9 @@
   "type": "Feature",
   "id": "node/1416748432",
   "properties": {
+    "access": "private",
     "barrier": "gate",
+    "gate:type": "rolling",
     "id": "node/1416748432"
   },
   "geometry": {
@@ -26610,14 +26612,15 @@
   "type": "Feature",
   "id": "node/3108537428",
   "properties": {
+    "access": "private",
     "barrier": "gate",
     "id": "node/3108537428"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6873503,
-      47.3684254
+      8.6873552,
+      47.3684285
     ]
   }
 },

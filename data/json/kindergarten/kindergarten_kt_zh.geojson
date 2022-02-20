@@ -31296,23 +31296,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7070399495",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kita Fugu",
-    "website": "https://www.kitafugu.ch",
-    "id": "node/7070399495"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5459798,
-      47.3892518
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7417408894",
   "properties": {
     "amenity": "kindergarten",

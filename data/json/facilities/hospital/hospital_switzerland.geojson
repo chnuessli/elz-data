@@ -22083,6 +22083,10 @@
           47.4441938
         ],
         [
+          9.1418093,
+          47.4446234
+        ],
+        [
           9.1418067,
           47.4446901
         ],
@@ -49721,7 +49725,7 @@
     "addr:city": "Leukerbad",
     "addr:housenumber": "14",
     "addr:postcode": "3954",
-    "addr:street": "Grunibodenstr",
+    "addr:street": "Grunibodenstrasse",
     "amenity": "hospital",
     "healthcare": "hospital",
     "name": "Leukerbad Holiday Home",

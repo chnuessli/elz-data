@@ -6158,6 +6158,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/7070399495",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kita Fugu",
+    "website": "https://www.kitafugu.ch",
+    "id": "node/7070399495"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5459798,
+      47.3892518
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/7203309410",
   "properties": {
     "addr:city": "Uetikon am See",
