@@ -3934,6 +3934,7 @@
   "properties": {
     "alt_name": "Amavita Flughafen",
     "amenity": "pharmacy",
+    "dispensing": "yes",
     "email": "ama249@amavita.ch",
     "healthcare": "pharmacy",
     "level": "0",
@@ -3942,6 +3943,7 @@
     "operator": "GaleniCare",
     "phone": "+41 58 878 25 60",
     "website": "https://www.amavita.ch/de/amavita-apotheke-flughafen-284",
+    "wheelchair": "yes",
     "id": "node/2408277201"
   },
   "geometry": {
@@ -4459,8 +4461,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5380045,
-      47.3751025
+      8.5379736,
+      47.375098
     ]
   }
 },

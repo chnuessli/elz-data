@@ -37786,6 +37786,44 @@
       47.398988
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9526782469",
+  "properties": {
+    "amenity": "kindergarten",
+    "email": "affolternaa@chinderstern.ch",
+    "mobile": "+41 79 80 90 127",
+    "name": "Kita Chinderstern Affoltern am Albis",
+    "website": "https://www.chinderstern.ch/affoltern-am-albis/",
+    "id": "node/9526782469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4502725,
+      47.2762745
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9527010877",
+  "properties": {
+    "amenity": "kindergarten",
+    "email": "info@kita-buesi.ch",
+    "name": "Kita Büsi Höngg",
+    "phone": "+41 44 340 14 14",
+    "website": "https://www.kita-buesi.ch/",
+    "id": "node/9527010877"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5023388,
+      47.3997045
+    ]
+  }
 }
 ]
 }

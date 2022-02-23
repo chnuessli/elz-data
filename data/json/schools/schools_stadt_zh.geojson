@@ -18484,6 +18484,25 @@
       47.3897226
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9526850662",
+  "properties": {
+    "amenity": "school",
+    "email": "info@kinder-campus.ch",
+    "mobile": "+41 79 648 24 23",
+    "name": "Kinder Campus - Eingang Säule 04",
+    "website": "https://www.kinder-campus.ch/",
+    "id": "node/9526850662"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5023239,
+      47.3850393
+    ]
+  }
 }
 ]
 }
