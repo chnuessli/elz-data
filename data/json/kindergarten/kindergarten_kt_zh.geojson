@@ -33842,6 +33842,186 @@
       47.3997045
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9529165914",
+  "properties": {
+    "amenity": "kindergarten",
+    "email": "kontakt@guexi.ch",
+    "name": "Güxi Kinderkrippe Richterswil Zentrum",
+    "operator": "Güxi Kinderkrippen",
+    "phone": "+41 43 266 62 62",
+    "website": "https://www.guexi.ch/de/standorte",
+    "id": "node/9529165914"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7062857,
+      47.2062305
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9529165915",
+  "properties": {
+    "amenity": "kindergarten",
+    "email": "kontakt@guexi.ch",
+    "name": "Güxi Kinderkrippe Sonnenberg",
+    "operator": "Güxi Kinderkrippen",
+    "phone": "+41 43 266 62 62",
+    "website": "https://www.guexi.ch/de/standorte",
+    "id": "node/9529165915"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.569388,
+      47.3693937
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9529165916",
+  "properties": {
+    "amenity": "kindergarten",
+    "email": "kontakt@guexi.ch",
+    "name": "Güxi Kinderkrippe Albisriederplatz",
+    "operator": "Güxi Kinderkrippen",
+    "phone": "+41 43 266 62 62",
+    "website": "https://www.guexi.ch/de/standorte",
+    "id": "node/9529165916"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5108122,
+      47.3783982
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9529171817",
+  "properties": {
+    "amenity": "kindergarten",
+    "email": "kontakt@guexi.ch",
+    "name": "Güxi Kinderkrippe Albisriederplatz Ost",
+    "operator": "Güxi Kinderkrippen",
+    "phone": "+41 43 266 62 62",
+    "website": "https://www.guexi.ch/de/standorte",
+    "id": "node/9529171817"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5138647,
+      47.3778554
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9529171818",
+  "properties": {
+    "amenity": "kindergarten",
+    "email": "kontakt@guexi.ch",
+    "name": "Güxi Kinderkrippe Richterswil Berg",
+    "operator": "Güxi Kinderkrippen",
+    "phone": "+41 43 266 62 62",
+    "website": "https://www.guexi.ch/de/standorte",
+    "id": "node/9529171818"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6963896,
+      47.2080616
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9529171819",
+  "properties": {
+    "amenity": "kindergarten",
+    "email": "kontakt@guexi.ch",
+    "name": "Güxi Kinderkrippe Schwamendingen",
+    "operator": "Güxi Kinderkrippen",
+    "phone": "+41 43 266 62 62",
+    "website": "https://www.guexi.ch/de/standorte",
+    "id": "node/9529171819"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5718545,
+      47.4043093
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9529171820",
+  "properties": {
+    "amenity": "kindergarten",
+    "email": "kontakt@guexi.ch",
+    "name": "Güxi Kinderkrippe Friesenberg Binz",
+    "operator": "Güxi Kinderkrippen",
+    "phone": "+41 43 266 62 62",
+    "website": "https://www.guexi.ch/de/standorte",
+    "id": "node/9529171820"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5119904,
+      47.3620961
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9529440134",
+  "properties": {
+    "amenity": "kindergarten",
+    "email": "kontakt@guexi.ch",
+    "name": "Güxi Kinderkrippe ZH-Altstetten Kreis 9, Lindenplatz",
+    "operator": "Güxi Kinderkrippen",
+    "phone": "+41 43 266 62 62",
+    "website": "https://www.guexi.ch/de/standorte",
+    "id": "node/9529440134"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.485265,
+      47.388168
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9529440135",
+  "properties": {
+    "amenity": "kindergarten",
+    "email": "kontakt@guexi.ch",
+    "name": "Güxi Kinderkrippe ZH-Albisriederplatz West Kreis 4",
+    "operator": "Güxi Kinderkrippen",
+    "phone": "+41 43 266 62 62",
+    "website": "https://www.guexi.ch/de/standorte",
+    "id": "node/9529440135"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5075164,
+      47.3804588
+    ]
+  }
 }
 ]
 }
