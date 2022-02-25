@@ -4675,24 +4675,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5103296765",
-  "properties": {
-    "amenity": "childcare",
-    "level": "1",
-    "name": "globegarden",
-    "nursery": "yes",
-    "id": "node/5103296765"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5181756,
-      47.1721833
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5132850081",
   "properties": {
     "amenity": "childcare",
@@ -5625,6 +5607,28 @@
     "coordinates": [
       8.5346786,
       47.4003584
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6628578174",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "18",
+    "contact:phone": "+41 44 413 21 91",
+    "contact:postcode": "8006",
+    "contact:street": "Huttenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/hutten/betreuung.html",
+    "name": "Kinderhort Hutten 1,2,3,4 - Morgen-Mittag-Abend",
+    "id": "node/6628578174"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5491562,
+      47.3820416
     ]
   }
 },
@@ -9914,6 +9918,116 @@
     "coordinates": [
       8.5364807,
       47.1988879
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9532277092",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Rotkreuz",
+    "contact:housenumber": "16",
+    "contact:postcode": "6343",
+    "contact:street": "Suurstoffi",
+    "contact:website": "https://www.globegarden.ch/",
+    "name": "Globegarden Kita - Suurstoffi",
+    "operator": "Globegarden Childcare",
+    "id": "node/9532277092"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4371871,
+      47.1442279
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9532277093",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zug",
+    "contact:housenumber": "6",
+    "contact:postcode": "6300",
+    "contact:street": "Industriestrasse",
+    "contact:website": "https://www.globegarden.ch/",
+    "name": "Globegarden Kita - Industriestrasse",
+    "operator": "Globegarden Childcare",
+    "id": "node/9532277093"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5179976,
+      47.1709357
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9532277094",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zug",
+    "contact:housenumber": "13a",
+    "contact:postcode": "6300",
+    "contact:street": "Industriestrasse",
+    "contact:website": "https://www.globegarden.ch/",
+    "name": "Globegarden Kita - Metalli",
+    "operator": "Globegarden Childcare",
+    "id": "node/9532277094"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5180522,
+      47.1721886
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9532277095",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Cham",
+    "contact:housenumber": "4",
+    "contact:postcode": "6330",
+    "contact:street": "Zugerstrasse",
+    "contact:website": "https://www.globegarden.ch/",
+    "name": "Globegarden Kita - Zugerstrasse",
+    "operator": "Globegarden Childcare",
+    "id": "node/9532277095"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4605554,
+      47.1809289
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9532277096",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zug",
+    "contact:housenumber": "6/8",
+    "contact:postcode": "6300",
+    "contact:street": "General-Guisan-Strasse",
+    "contact:website": "https://www.globegarden.ch/",
+    "name": "Globegarden Kita - Uptown",
+    "operator": "Globegarden Childcare",
+    "id": "node/9532277096"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5068505,
+      47.1760618
     ]
   }
 }

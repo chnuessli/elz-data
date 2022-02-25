@@ -3223,6 +3223,53 @@
 },
 {
   "type": "Feature",
+  "id": "way/43054064",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "18",
+    "addr:postcode": "8006",
+    "addr:street": "Huttenstrasse",
+    "amenity": "kindergarten",
+    "building": "school",
+    "building:levels": "3",
+    "name": "Kindergarten Hutten Pavillon 1 + 2",
+    "note": "Schulpavillon Typ Züri-Modular",
+    "owner": "Immobilien Stadt Zürich (IMMO)",
+    "roof:shape": "flat",
+    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "id": "way/43054064"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5490913,
+          47.3820663
+        ],
+        [
+          8.5493262,
+          47.3818616
+        ],
+        [
+          8.5494169,
+          47.3819097
+        ],
+        [
+          8.5491831,
+          47.3821147
+        ],
+        [
+          8.5490913,
+          47.3820663
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/43054093",
   "properties": {
     "addr:city": "Zürich",
@@ -29350,23 +29397,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6628578174",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Hutten Pavillon 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
-    "id": "node/6628578174"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5492402,
-      47.3819878
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6628631477",
   "properties": {
     "amenity": "kindergarten",
@@ -29649,8 +29679,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4884751,
-      47.4050667
+      8.4884527,
+      47.4050606
     ]
   }
 },
@@ -34020,6 +34050,29 @@
     "coordinates": [
       8.5075164,
       47.3804588
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9532579775",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "80",
+    "contact:phone": "+41 44 413 32 92",
+    "contact:postcode": "8049",
+    "contact:street": "Imbisbühlstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/lachenzelg/ueberuns/standorte.html",
+    "name": "Kindergarten Lachenzelg 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
+    "id": "node/9532579775"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4888351,
+      47.4050474
     ]
   }
 }

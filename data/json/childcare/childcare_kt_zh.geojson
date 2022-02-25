@@ -5265,6 +5265,28 @@
 },
 {
   "type": "Feature",
+  "id": "node/6628578174",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "18",
+    "contact:phone": "+41 44 413 21 91",
+    "contact:postcode": "8006",
+    "contact:street": "Huttenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/hutten/betreuung.html",
+    "name": "Kinderhort Hutten 1,2,3,4 - Morgen-Mittag-Abend",
+    "id": "node/6628578174"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5491562,
+      47.3820416
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6631567471",
   "properties": {
     "amenity": "childcare",

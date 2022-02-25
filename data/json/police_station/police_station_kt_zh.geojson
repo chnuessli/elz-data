@@ -2490,10 +2490,10 @@
     "contact:fax": "+41 44 723 23 65",
     "contact:phone": "+41 44 723 23 90",
     "contact:website": "https://www.thalwil.ch/aemter/1864",
-    "loc_name": "Gemeindepolizei Thalwil",
-    "name": "Polizeiposten Stadtpolizei Thalwil",
+    "loc_name": "Stadtpolizei Thalwil",
+    "name": "Polizeiposten Gemeindepolizei Thalwil",
     "opening_hours": "Mo 08:00-10:00,16:00-18:00; Tu-We 09:00-11:00,14:00-16:00; Th 14:00-17:30; Fr 09:00-11:00,14:00-16:00",
-    "operator": "Stadt Thalwil",
+    "operator": "Gemeinde Thalwil",
     "phone": "+41 44 723 23 90",
     "id": "node/3860710812"
   },
