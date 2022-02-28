@@ -314,10 +314,13 @@
     "addr:street": "Landhausstrasse",
     "amenity": "hospital",
     "building": "hospital",
+    "building:levels": "4",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "Zuger Kantonsspital",
+    "roof:levels": "0",
     "website": "https://www.zgks.ch/",
+    "wheelchair": "yes",
     "id": "way/46511032"
   },
   "geometry": {

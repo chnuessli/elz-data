@@ -1673,7 +1673,9 @@
     "alt_name": "Blindenschule Baar",
     "amenity": "social_facility",
     "building": "school",
+    "building:levels": "2",
     "name": "SONNENBERG Heilpädagogisches Schul- und Beratungszentrum",
+    "roof:levels": "0",
     "social_facility": "outreach",
     "id": "way/1020898718"
   },

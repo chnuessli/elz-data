@@ -1768,8 +1768,8 @@
   "properties": {
     "addr:city": "Hinteregg",
     "addr:housenumber": "9",
+    "addr:place": "Ober Halden",
     "addr:postcode": "8132",
-    "addr:street": "Ober Halden",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Durchgangszentrum Ober Halden",
@@ -40094,7 +40094,9 @@
     "alt_name": "Blindenschule Baar",
     "amenity": "social_facility",
     "building": "school",
+    "building:levels": "2",
     "name": "SONNENBERG Heilpädagogisches Schul- und Beratungszentrum",
+    "roof:levels": "0",
     "social_facility": "outreach",
     "id": "way/1020898718"
   },
@@ -44927,8 +44929,8 @@
   "properties": {
     "addr:city": "Hinteregg",
     "addr:housenumber": "5",
+    "addr:place": "Ober Halden",
     "addr:postcode": "8132",
-    "addr:street": "Ober Halden 5",
     "amenity": "social_facility",
     "name": "Pflegestation Sunegarte",
     "operator": "SOZIALWERK PFARRER SIEBER",
