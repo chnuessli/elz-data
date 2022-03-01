@@ -6542,6 +6542,138 @@
 },
 {
   "type": "Feature",
+  "id": "way/95522501",
+  "properties": {
+    "addr:housenumber": "30",
+    "addr:postcode": "8050",
+    "addr:street": "Schörlistrasse",
+    "amenity": "kindergarten",
+    "building": "school",
+    "name": "Kindergarten Schörlistrasse",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Saatlen",
+    "operator:type": "public",
+    "phone": "+41 44 413 18 87",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/saatlen/ueberuns/standorte/schoerlistrasse.html",
+    "id": "way/95522501"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5624988,
+          47.4075736
+        ],
+        [
+          8.5624513,
+          47.4076153
+        ],
+        [
+          8.5623454,
+          47.4075601
+        ],
+        [
+          8.5623494,
+          47.4075565
+        ],
+        [
+          8.5623522,
+          47.4075579
+        ],
+        [
+          8.5624285,
+          47.4074916
+        ],
+        [
+          8.5625017,
+          47.4075298
+        ],
+        [
+          8.5625032,
+          47.4075282
+        ],
+        [
+          8.5625104,
+          47.4075319
+        ],
+        [
+          8.5625309,
+          47.4075429
+        ],
+        [
+          8.5625751,
+          47.4075392
+        ],
+        [
+          8.5625749,
+          47.4075163
+        ],
+        [
+          8.5626234,
+          47.4075128
+        ],
+        [
+          8.5626317,
+          47.4075344
+        ],
+        [
+          8.5626766,
+          47.4075308
+        ],
+        [
+          8.5626921,
+          47.4075171
+        ],
+        [
+          8.562697,
+          47.4075128
+        ],
+        [
+          8.5626993,
+          47.4075142
+        ],
+        [
+          8.5627574,
+          47.407464
+        ],
+        [
+          8.5628552,
+          47.4075156
+        ],
+        [
+          8.5628573,
+          47.4075138
+        ],
+        [
+          8.562862,
+          47.4075165
+        ],
+        [
+          8.5627813,
+          47.4075873
+        ],
+        [
+          8.5627191,
+          47.4075549
+        ],
+        [
+          8.5626982,
+          47.4075748
+        ],
+        [
+          8.5625282,
+          47.4075893
+        ],
+        [
+          8.5624988,
+          47.4075736
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/96987935",
   "properties": {
     "amenity": "kindergarten",
@@ -24552,6 +24684,66 @@
 },
 {
   "type": "Feature",
+  "id": "way/1035976053",
+  "properties": {
+    "addr:housenumber": "18",
+    "addr:postcode": "8051",
+    "addr:street": "Probsteistrasse",
+    "amenity": "kindergarten",
+    "building": "school",
+    "building:levels": "1",
+    "name": "Kindergarten Probstei I",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Probstei",
+    "operator:type": "public",
+    "roof:levels": "0",
+    "id": "way/1035976053"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5785047,
+          47.4004694
+        ],
+        [
+          8.5784352,
+          47.4004699
+        ],
+        [
+          8.578381,
+          47.4004347
+        ],
+        [
+          8.578381,
+          47.4003851
+        ],
+        [
+          8.5784315,
+          47.4003503
+        ],
+        [
+          8.5785055,
+          47.4003495
+        ],
+        [
+          8.578556,
+          47.4003826
+        ],
+        [
+          8.5785569,
+          47.4004334
+        ],
+        [
+          8.5785047,
+          47.4004694
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
@@ -28456,23 +28648,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5187613805",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Probstei I",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
-    "id": "node/5187613805"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5784621,
-      47.4004401
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5187613961",
   "properties": {
     "amenity": "kindergarten",
@@ -28488,23 +28663,6 @@
     "coordinates": [
       8.5670581,
       47.4044766
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5187614123",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Schörlistrasse",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
-    "id": "node/5187614123"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5625971,
-      47.4075598
     ]
   }
 },
@@ -29249,19 +29407,24 @@
   "type": "Feature",
   "id": "node/6605842587",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "1a",
-    "addr:postcode": "8051",
-    "addr:street": "Mattenhof",
     "amenity": "kindergarten",
-    "name": "Kindergarten Mattenhof I",
+    "contact:city": "Zürich",
+    "contact:housenumber": "1a",
+    "contact:phone": "+41 44 413 74 04",
+    "contact:postcode": "8051",
+    "contact:street": "Mattenhof",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/mattenhof/ueberuns/standorte/grundstufe.html",
+    "isced:level": "0",
+    "name": "Kindergarten Mattenhof 1",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Mattenhof",
+    "operator:type": "public",
     "id": "node/6605842587"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.592357,
-      47.3992144
+      8.5923426,
+      47.3992058
     ]
   }
 },
@@ -30953,8 +31116,15 @@
   "id": "node/6633514783",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "2",
+    "contact:phone": "+41 44 413 75 99",
+    "contact:postcode": "8038",
+    "contact:street": "Wettsteinstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/wollishofen/ueberuns/standorte/kindergaerten.html",
     "name": "Kindergarten Wettstein",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Wollishofen - Im Lee",
+    "operator:type": "public",
     "id": "node/6633514783"
   },
   "geometry": {
@@ -34196,6 +34366,56 @@
     "coordinates": [
       8.4815345,
       47.4062208
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9544898141",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "88",
+    "contact:phone": "+41 44 413 30 95",
+    "contact:postcode": "8051",
+    "contact:street": "Stettbachstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/probstei/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
+    "name": "Kindergarten Probstei 2 (Pavillon 3)",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Probstei",
+    "operator:type": "public",
+    "id": "node/9544898141"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5768681,
+      47.401899
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9545137589",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "208",
+    "contact:phone": "+41 44 413 18 93",
+    "contact:postcode": "8050",
+    "contact:street": "Tramstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/saatlen/ueberuns/standorte/tramstrasse.html",
+    "isced:level": "0",
+    "name": "Kindergarten Saatlen",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Saatlen",
+    "operator:type": "public",
+    "id": "node/9545137589"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5625336,
+      47.4086027
     ]
   }
 }

@@ -5317,6 +5317,7 @@
     "healthcare:speciality": "intensive",
     "name": "Zuger Kantonsspital",
     "roof:levels": "0",
+    "roof:shape": "flat",
     "website": "https://www.zgks.ch/",
     "wheelchair": "yes",
     "id": "way/46511032"
@@ -21981,8 +21982,12 @@
     "addr:street": "Klosterweg",
     "amenity": "clinic",
     "building": "yes",
+    "email": "klinik@psych.ch",
     "healthcare": "clinic",
-    "name": "Psychiatrie-Dienste Süd",
+    "name": "Klinik St.Pirminsberg",
+    "operator": "Psychiatrie-Dienste Süd",
+    "phone": "+41 58 178 60 60",
+    "website": "https://psych.ch/standorte/klinik-stpirminsberg",
     "id": "way/335111263"
   },
   "geometry": {
@@ -21990,24 +21995,64 @@
     "coordinates": [
       [
         [
-          9.500629,
-          46.9904549
+          9.5006194,
+          46.9904553
         ],
         [
-          9.5006917,
-          46.9903002
+          9.500649,
+          46.9903801
         ],
         [
-          9.501309,
-          46.9904165
+          9.5006737,
+          46.9903846
         ],
         [
-          9.5012464,
-          46.9905713
+          9.500707,
+          46.9903
         ],
         [
-          9.500629,
-          46.9904549
+          9.5009001,
+          46.9903354
+        ],
+        [
+          9.5009047,
+          46.9903237
+        ],
+        [
+          9.5009819,
+          46.9903379
+        ],
+        [
+          9.500977,
+          46.9903503
+        ],
+        [
+          9.5013152,
+          46.9904123
+        ],
+        [
+          9.5012522,
+          46.9905722
+        ],
+        [
+          9.5012039,
+          46.9905633
+        ],
+        [
+          9.5011974,
+          46.9905798
+        ],
+        [
+          9.5010957,
+          46.9905611
+        ],
+        [
+          9.5011025,
+          46.9905439
+        ],
+        [
+          9.5006194,
+          46.9904553
         ]
       ]
     ]
@@ -50831,6 +50876,45 @@
     "coordinates": [
       6.9251322,
       46.9983961
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9544317890",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Bahnhofpraxis Langenthal",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:40-17:00; Sa-Su off; PH off",
+    "website": "https://praxislangenthal.ch/",
+    "id": "node/9544317890"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7850078,
+      47.2173498
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9544337529",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Ärztehaus im Allmen",
+    "opening_hours": "Mo-Fr 07:30-12:00; Mo-Mi 13:30-18:00; Fr 07:30-16:30; Sa-Su off; PH off",
+    "phone": "+41 62 923 23 43",
+    "website": "https://www.aerztehausimallmen.ch",
+    "id": "node/9544337529"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7928914,
+      47.2083997
     ]
   }
 }

@@ -10287,6 +10287,130 @@
       47.3958155
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9544423002",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "1a",
+    "contact:phone": "+41 44 413 74 02",
+    "contact:postcode": "8051",
+    "contact:street": "Mattenhof",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/mattenhof/betreuung/standorte.html",
+    "isced:level": "0",
+    "name": "Kinderhort Mattenhof 1 - Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Mattenhof",
+    "operator:type": "public",
+    "id": "node/9544423002"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5924215,
+      47.3991635
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9544898140",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "88",
+    "contact:phone": "+41 44 413 30 90",
+    "contact:postcode": "8051",
+    "contact:street": "Stettbachstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/probstei/betreuung/standorte.html",
+    "isced:level": "0",
+    "name": "Kinderhort Probstei - Morgen-Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Probstei",
+    "operator:type": "public",
+    "id": "node/9544898140"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.576907,
+      47.4018721
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9545137587",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "214",
+    "contact:phone": "+41 44 413 18 83",
+    "contact:postcode": "8050",
+    "contact:street": "Tramstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/saatlen/betreuung/standorte.html",
+    "isced:level": "0",
+    "name": "Kinderhort Schörli - Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Saatlen",
+    "operator:type": "public",
+    "id": "node/9545137587"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5631016,
+      47.4088819
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9545137588",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "208",
+    "contact:phone": "+41 44 413 18 85",
+    "contact:postcode": "8050",
+    "contact:street": "Tramstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/saatlen/betreuung/standorte.html",
+    "isced:level": "0",
+    "name": "Kinderhort Schörli - Morgen-Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Saatlen",
+    "operator:type": "public",
+    "id": "node/9545137588"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5621625,
+      47.4084261
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9545197647",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "22",
+    "contact:phone": "+41 44 413 12 49",
+    "contact:postcode": "8038",
+    "contact:street": "Kilchbergstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/wollishofen/betreuung/standorte.html",
+    "name": "Kinderhort Wollishofen im Lee - Morgen-Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Wollishofen - Im Lee",
+    "operator:type": "public",
+    "id": "node/9545197647"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5334272,
+      47.3422594
+    ]
+  }
 }
 ]
 }

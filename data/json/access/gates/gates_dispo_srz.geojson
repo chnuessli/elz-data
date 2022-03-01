@@ -45927,7 +45927,7 @@
   "id": "node/5326210265",
   "properties": {
     "access": "agricultural",
-    "barrier": "lift_gate",
+    "barrier": "gate",
     "id": "node/5326210265"
   },
   "geometry": {
