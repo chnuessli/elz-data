@@ -50917,6 +50917,27 @@
       47.2083997
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9549563917",
+  "properties": {
+    "addr:postcode": "1400",
+    "amenity": "clinic",
+    "email": "info@permanence-lac.ch",
+    "name": "Permanence rue du Lac",
+    "opening_hours": "Mo-Fr 06:00-18:00; Sa 08:00-14:00",
+    "phone": "024 566 70 60",
+    "website": "https://www.permanence-lac.ch/",
+    "id": "node/9549563917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6405219,
+      46.7791299
+    ]
+  }
 }
 ]
 }

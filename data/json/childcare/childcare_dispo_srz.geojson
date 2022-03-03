@@ -5656,6 +5656,28 @@
 },
 {
   "type": "Feature",
+  "id": "node/6628720185",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "6",
+    "contact:phone": "+41 44 413 23 70",
+    "contact:postcode": "8049",
+    "contact:street": "Reinhold-Frei-Strasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/riedhof/betreuung/standorte.html",
+    "name": "Kinderhort Riedhof 1+2 - Morgen-Mittag-Abend",
+    "id": "node/6628720185"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.486,
+      47.4081318
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6631567471",
   "properties": {
     "amenity": "childcare",
@@ -6074,6 +6096,54 @@
     "coordinates": [
       8.5035398,
       47.368595
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6633500029",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "433",
+    "contact:phone": "+41 44 451 00 18",
+    "contact:postcode": "8055",
+    "contact:street": "Birmensdorferstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kuengenmatt/betreuung/standorte.html#rotach",
+    "name": "Kinderhort Rotach 1 - Mittag-Adend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Küngenmatt",
+    "operator:type": "public",
+    "id": "node/6633500029"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5001618,
+      47.3685041
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6633500030",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "30",
+    "contact:phone": "+41 44 416 23 50",
+    "contact:postcode": "8055",
+    "contact:street": "Paul-Clairmont-Strasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kuengenmatt/betreuung/standorte.html#kuengenmatt_1",
+    "name": "Kinderhort Jugendrestaurant Küngenmatt 3",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Küngenmatt",
+    "operator:type": "public",
+    "id": "node/6633500030"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4999379,
+      47.3653913
     ]
   }
 },
@@ -10409,6 +10479,211 @@
     "coordinates": [
       8.5334272,
       47.3422594
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9546689039",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "51",
+    "contact:phone": "+41 44 413 19 14",
+    "contact:postcode": "8038",
+    "contact:street": "Erligatterweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/neubuehl/ueberuns/standorte.html",
+    "isced:level": "0",
+    "name": "Kinderhort Mittelstufen-Zentrum Neubühl",
+    "id": "node/9546689039"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5325655,
+      47.3324473
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9546756135",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "70",
+    "contact:phone": "+41 44 413 32 20",
+    "contact:postcode": "8045",
+    "contact:street": "Haldenstrasse",
+    "name": "Kinderhort Rebhügel - Mittag-Abend",
+    "id": "node/9546756135"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.516763,
+      47.3651261
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9546916699",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "405a",
+    "contact:phone": "+41 44 413 74 53",
+    "contact:postcode": "8055",
+    "contact:street": "Schweighofstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kuengenmatt/betreuung/standorte.html",
+    "name": "Kinderhort Unterer Schweighof - Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Küngenmatt",
+    "operator:type": "public",
+    "id": "node/9546916699"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5000745,
+      47.3668862
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9547320825",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "4",
+    "contact:phone": "+41 44 413 23 72",
+    "contact:postcode": "8049",
+    "contact:street": "Reinhold-Frei-Strasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/riedhof/betreuung/standorte.html",
+    "name": "Kinderhort Riedhof 3 - Morgen-Mittag-Abend",
+    "id": "node/9547320825"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.485824,
+      47.407888
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9549254583",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "7",
+    "contact:phone": "+41 44 413 14 66",
+    "contact:postcode": "8037",
+    "contact:street": "Rötelsteig",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/nordstrasse/betreuung/standorte.html",
+    "name": "Kinderhort Nordbrücke - Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Nordstrasse",
+    "operator:type": "public",
+    "id": "node/9549254583"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5302211,
+      47.3940888
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9549411394",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "30",
+    "contact:phone": "+41 44 251 55 35",
+    "contact:postcode": "8006",
+    "contact:street": "Ottikerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/scherr/betreuung/standorte.html",
+    "name": "Kinderhort Ottiker - Mittag",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Scherr",
+    "operator:type": "public",
+    "id": "node/9549411394"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5457964,
+      47.3858961
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9549449060",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "80",
+    "contact:phone": "+41 44 413 32 77",
+    "contact:postcode": "8049",
+    "contact:street": "Imbisbühlstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/lachenzelg/betreuung/standorte.html",
+    "name": "Kinderhort Oase - Mittag",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Lachenzelg",
+    "id": "node/9549449060"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4888863,
+      47.4051258
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9549791675",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "80",
+    "contact:phone": "+41 44 413 32 88",
+    "contact:postcode": "8049",
+    "contact:street": "Imbisbühlstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/riedhof/betreuung/standorte.html#puenten",
+    "name": "Kinderhort Pünten 1 - Mittag-Abend",
+    "id": "node/9549791675"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4884473,
+      47.405057
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9549988533",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "41",
+    "contact:phone": "+41 44 413 17 90",
+    "contact:postcode": "8006",
+    "contact:street": "Riedtliweg",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/riedtli/betreuung/standorte.html",
+    "name": "Kinderhort Riedtli 1 - Mittag",
+    "id": "node/9549988533"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5433524,
+      47.3892197
     ]
   }
 }

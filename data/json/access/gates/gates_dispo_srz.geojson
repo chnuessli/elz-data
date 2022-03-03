@@ -71492,6 +71492,7 @@
   "properties": {
     "barrier": "lift_gate",
     "locked": "no",
+    "maxheight": "1.95",
     "motor_vehicle": "yes",
     "id": "node/9485527595"
   },
