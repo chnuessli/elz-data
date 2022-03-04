@@ -48439,23 +48439,25 @@
   "type": "Feature",
   "id": "node/5684601351",
   "properties": {
-    "addr:city": "Kloten",
-    "addr:postcode": "8302",
-    "addr:street": "Prime Center 1",
-    "amenity": "clinic",
-    "emergency": "yes",
+    "amenity": "doctors",
+    "email": "info@airportmedicalcenter.ch",
+    "fax": "+41 43 816 56 26",
     "healthcare": "clinic",
-    "healthcare:speciality": "general;ophthalmology;orthopaedics;urology;dermatology",
+    "healthcare:speciality": "general;orthopaedics;urology;dermatology",
     "level": "8",
     "name": "Airport Medical Center",
+    "opening_hours": "Mo-Su 08:00-17:00",
     "operator": "Spital Bülach",
+    "phone": "+41 43 816 60 00",
+    "website": "http://www.airportmedicalcenter.ch/",
+    "wheelchair": "yes",
     "id": "node/5684601351"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5633841,
-      47.4524403
+      8.5632601,
+      47.4523207
     ]
   }
 },
@@ -50936,6 +50938,33 @@
     "coordinates": [
       6.6405219,
       46.7791299
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9552076030",
+  "properties": {
+    "alt_name": "Augenklinik",
+    "amenity": "doctors",
+    "email": "info@airportmedicalcenter.ch",
+    "fax": "+41 43 816 70 02",
+    "healthcare": "clinic",
+    "healthcare:speciality": "ophthalmology",
+    "level": "8",
+    "name": "Airport Medical Center Eye Clinic",
+    "opening_hours": "Mo-Su 08:00-17:30",
+    "operator": "Spital Bülach",
+    "phone": "+41 43 816 70 00",
+    "website": "http://www.airportmedicalcenter.ch/",
+    "wheelchair": "yes",
+    "id": "node/9552076030"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5628075,
+      47.4519286
     ]
   }
 }

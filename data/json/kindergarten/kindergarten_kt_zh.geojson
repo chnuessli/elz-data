@@ -785,6 +785,70 @@
 },
 {
   "type": "Feature",
+  "id": "way/24478022",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "40",
+    "addr:postcode": "8006",
+    "addr:street": "Zanggerweg",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "contact:phone": "+41 44 413 74 36",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/weinberg/ueberuns/standorte/kindergaerten.html#zanggerweg_1_und2",
+    "name": "Kindergarten Zanggerweg 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Weinberg - Turner",
+    "operator:type": "public",
+    "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
+    "start_date": "1926..1927",
+    "id": "way/24478022"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5440285,
+          47.3908688
+        ],
+        [
+          8.5443492,
+          47.3908847
+        ],
+        [
+          8.5443369,
+          47.3909846
+        ],
+        [
+          8.5442579,
+          47.3909811
+        ],
+        [
+          8.5442549,
+          47.3910119
+        ],
+        [
+          8.5440941,
+          47.3910054
+        ],
+        [
+          8.5440962,
+          47.390973
+        ],
+        [
+          8.5440193,
+          47.3909694
+        ],
+        [
+          8.5440285,
+          47.3908688
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/30349421",
   "properties": {
     "addr:city": "Meilen",
@@ -1166,6 +1230,95 @@
         [
           8.4786351,
           47.4133072
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/31352957",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "11",
+    "addr:postcode": "8049",
+    "addr:street": "Wildenweg",
+    "amenity": "kindergarten",
+    "building": "school",
+    "contact:phone": "+41 44 413 23 77",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/riedhof/ueberuns/standorte/kindergaerten.html#wildenweg_1_2",
+    "name": "Kindergarten Wildenweg 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Riedhof-Pünten",
+    "operator:type": "public",
+    "id": "way/31352957"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4883073,
+          47.4080716
+        ],
+        [
+          8.488309,
+          47.4080736
+        ],
+        [
+          8.4882221,
+          47.4081065
+        ],
+        [
+          8.4882726,
+          47.4081667
+        ],
+        [
+          8.4883096,
+          47.4081539
+        ],
+        [
+          8.4883285,
+          47.4081784
+        ],
+        [
+          8.4882081,
+          47.4082245
+        ],
+        [
+          8.4881362,
+          47.4081393
+        ],
+        [
+          8.488051,
+          47.408172
+        ],
+        [
+          8.4880292,
+          47.408146
+        ],
+        [
+          8.488049,
+          47.4081387
+        ],
+        [
+          8.4879964,
+          47.4080757
+        ],
+        [
+          8.4882154,
+          47.4079925
+        ],
+        [
+          8.4882677,
+          47.4080556
+        ],
+        [
+          8.4882883,
+          47.4080481
+        ],
+        [
+          8.4883073,
+          47.4080716
         ]
       ]
     ]
@@ -6468,6 +6621,52 @@
         [
           8.4444635,
           47.3574505
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/93472961",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "94",
+    "addr:postcode": "8057",
+    "addr:street": "Stüssistrasse",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "name": "Kindergarten Stüssistrasse",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Milchbuck",
+    "phone": "+41 44 413 74 13",
+    "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/milchbuck/ueberuns/standorte/kindergaerten.html#stuessistrasse",
+    "id": "way/93472961"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5419981,
+          47.3954086
+        ],
+        [
+          8.5421577,
+          47.3953693
+        ],
+        [
+          8.5422065,
+          47.395463
+        ],
+        [
+          8.5420478,
+          47.3955019
+        ],
+        [
+          8.5419981,
+          47.3954086
         ]
       ]
     ]
@@ -22000,80 +22199,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/705490730",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Stüssistrasse",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
-    "id": "way/705490730"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5419464,
-          47.3956014
-        ],
-        [
-          8.5419205,
-          47.395526
-        ],
-        [
-          8.5418146,
-          47.3952709
-        ],
-        [
-          8.5421746,
-          47.3951804
-        ],
-        [
-          8.5423841,
-          47.3955049
-        ],
-        [
-          8.5419464,
-          47.3956014
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/705512163",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Zanggerweg 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
-    "id": "way/705512163"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5437472,
-          47.3910299
-        ],
-        [
-          8.5440428,
-          47.3906831
-        ],
-        [
-          8.544809,
-          47.3910838
-        ],
-        [
-          8.5437472,
-          47.3910299
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/705778695",
   "properties": {
     "amenity": "kindergarten",
@@ -24041,6 +24166,79 @@
 },
 {
   "type": "Feature",
+  "id": "way/963055706",
+  "properties": {
+    "addr:city": "Wetzikon",
+    "addr:country": "CH",
+    "addr:housenumber": "35",
+    "addr:postcode": "8620",
+    "addr:street": "Bühlstrasse",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "id": "way/963055706"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7957719,
+          47.3194302
+        ],
+        [
+          8.7957198,
+          47.3194054
+        ],
+        [
+          8.7957749,
+          47.3193522
+        ],
+        [
+          8.7956613,
+          47.3192981
+        ],
+        [
+          8.7957665,
+          47.3191965
+        ],
+        [
+          8.7958576,
+          47.3192398
+        ],
+        [
+          8.7959016,
+          47.3191973
+        ],
+        [
+          8.7961781,
+          47.3193289
+        ],
+        [
+          8.796078,
+          47.3194256
+        ],
+        [
+          8.7959862,
+          47.3193819
+        ],
+        [
+          8.7959264,
+          47.3194396
+        ],
+        [
+          8.7958164,
+          47.3193872
+        ],
+        [
+          8.7957719,
+          47.3194302
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/970314167",
   "properties": {
     "addr:city": "Niederhasli",
@@ -24802,6 +25000,57 @@
 },
 {
   "type": "Feature",
+  "id": "way/1036761020",
+  "properties": {
+    "amenity": "kindergarten",
+    "id": "way/1036761020"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6660935,
+          47.3872949
+        ],
+        [
+          8.666072,
+          47.3870573
+        ],
+        [
+          8.6662179,
+          47.3870457
+        ],
+        [
+          8.6662909,
+          47.386991
+        ],
+        [
+          8.6663072,
+          47.3869293
+        ],
+        [
+          8.6662994,
+          47.3868336
+        ],
+        [
+          8.6668778,
+          47.3868039
+        ],
+        [
+          8.666915,
+          47.3872558
+        ],
+        [
+          8.6660935,
+          47.3872949
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
@@ -24830,15 +25079,23 @@
   "id": "node/283125771",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kindergarten Waidfussweg I + II",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
+    "contact:city": "Zürich",
+    "contact:housenumber": "61",
+    "contact:phone": "+41 44 413 76 01",
+    "contact:postcode": "8037",
+    "contact:street": "Waidfussweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/waidhalde/ueberuns/standorte/kindergaerten.html#kindergaerten_waidfussweg",
+    "isced:level": "0",
+    "name": "Kindergarten Waidfussweg 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Waidhalde",
+    "operator:type": "public,",
     "id": "node/283125771"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5175519,
-      47.3978137
+      8.5174409,
+      47.3978312
     ]
   }
 },
@@ -27190,15 +27447,22 @@
   "id": "node/3373699877",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "47",
+    "contact:phone": "+41 44 413 74 11",
+    "contact:postcode": "8057",
+    "contact:street": "Zeppelinstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/milchbuck/ueberuns/standorte/kindergaerten.html#zeppelinstrasse",
     "name": "Kindergarten Zeppelinstrasse",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Milchbuck",
+    "operator:type": "public",
     "id": "node/3373699877"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5363104,
-      47.3956589
+      8.5364047,
+      47.3957625
     ]
   }
 },
@@ -29257,15 +29521,22 @@
   "id": "node/5649675330",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kindergarten Vogtsrain I + II",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
+    "contact:city": "Zürich",
+    "contact:housenumber": "23",
+    "contact:phone": "+41 44 413 09 44",
+    "contact:postcode": "8049",
+    "contact:street": "Ferdinand-Hodler-Strasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/vogtsrain/ueberuns/standorte/kindergaerten.html#kindergaerten_vogtsrain123",
+    "name": "Kindergarten Vogtsrain 1,2,3",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Vogtsrain",
+    "operator:type": "public",
     "id": "node/5649675330"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4990916,
-      47.4040453
+      8.4995892,
+      47.4040016
     ]
   }
 },
@@ -29743,23 +30014,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6628631477",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Rütschistrasse",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
-    "id": "node/6628631477"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5332054,
-      47.3934885
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6628634877",
   "properties": {
     "amenity": "kindergarten",
@@ -29811,15 +30065,22 @@
   "id": "node/6628634883",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Mittag-/AbendhortWasserwerk",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
+    "contact:city": "Zürich",
+    "contact:housenumber": "119",
+    "contact:phone": "+41 44 413 74 39",
+    "contact:postcode": "8037",
+    "contact:street": "Wasserwerkstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/letten/betreuung/standorte.html#wasserwerk",
+    "name": "Kinderhort Wasserwerk - Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Letten",
+    "operator:type": "public",
     "id": "node/6628634883"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5310822,
-      47.3883227
+      8.5310748,
+      47.3883195
     ]
   }
 },
@@ -29894,40 +30155,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6628663477",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittaghort Trotten",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
-    "id": "node/6628663477"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5242139,
-      47.395053
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6628663478",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Morgentisch, Mittag-/Abendhort Waidhalde 1 - 3",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
-    "id": "node/6628663478"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5268257,
-      47.3970913
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6628715481",
   "properties": {
     "amenity": "kindergarten",
@@ -29953,34 +30180,25 @@
 },
 {
   "type": "Feature",
-  "id": "node/6628715482",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Wildenweg 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
-    "id": "node/6628715482"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4881639,
-      47.4080996
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6628715483",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kindergarten Winzerhalde 1 + 2",
+    "contact:city": "Zürich",
+    "contact:housenumber": "62a",
+    "contact:phone": "+41 44 413 75 65",
+    "contact:postcode": "8049",
+    "contact:street": "Winzerhalde",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/riedhof/ueberuns/standorte/kindergaerten.html#winzerhalde_1",
+    "name": "Kindergarten Winzerhalde 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Riedhof-Pünten",
+    "operator:type": "public",
     "id": "node/6628715483"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4880568,
-      47.4013182
+      8.4879912,
+      47.4013133
     ]
   }
 },
@@ -30003,35 +30221,23 @@
 },
 {
   "type": "Feature",
-  "id": "node/6628768924",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Rütihof 3",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
-    "id": "node/6628768924"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4777744,
-      47.4142426
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6628788316",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "51",
+    "contact:phone": "+41 44 413 74 68",
+    "contact:postcode": "8006",
+    "contact:street": "Stapferstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/scherr/ueberuns/standorte/kindergaerten.html",
     "name": "Kindergarten Scherr 1",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
     "id": "node/6628788316"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5467978,
-      47.3847667
+      8.5467207,
+      47.3847595
     ]
   }
 },
@@ -30057,15 +30263,22 @@
   "id": "node/6628788318",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Winterthurer",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
+    "contact:city": "Zürich",
+    "contact:housenumber": "51",
+    "contact:phone": "+41 44 413 74 28",
+    "contact:postcode": "8006",
+    "contact:street": "Winterthurerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/scherr/betreuung/standorte.html",
+    "name": "Kinderhort Winterthurer - Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Scherr",
+    "operator:type": "public",
     "id": "node/6628788318"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5462694,
-      47.3886438
+      8.5462332,
+      47.3886596
     ]
   }
 },
@@ -30091,23 +30304,6 @@
     "coordinates": [
       8.4968693,
       47.4017614
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6628799082",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Vogtsrain 1",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
-    "id": "node/6628799082"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4993102,
-      47.4044099
     ]
   }
 },
@@ -30139,32 +30335,23 @@
   "id": "node/6628915105",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kindergarten Scheuchzerstrasse 1 + 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
+    "contact:city": "Zürich",
+    "contact:housenumber": "85",
+    "contact:phone": "+41 44 413 74 18",
+    "contact:postcode": "8006",
+    "contact:street": "Scheuchzerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/weinberg/ueberuns/standorte/kindergaerten.html#scheuchzerstrasse1und2",
+    "isced:level": "0",
+    "name": "Kindergarten Scheuchzerstrasse 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Weinberg - Turner",
+    "operator:type": "public",
     "id": "node/6628915105"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5437405,
-      47.3882322
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6628915109",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Rösli",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
-    "id": "node/6628915109"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5422159,
-      47.3885133
+      8.5436474,
+      47.3882414
     ]
   }
 },
@@ -30173,15 +30360,21 @@
   "id": "node/6628915110",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Turner 1",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
+    "contact:city": "Zürich",
+    "contact:housenumber": "51",
+    "contact:phone": "+41 44 413 27 04",
+    "contact:postcode": "8006",
+    "contact:street": "Turnerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/weinberg/betreuung/standorte.html#turner_1",
+    "name": "Kinderhort Turner 1 - Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Weinberg - Turner",
     "id": "node/6628915110"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5415668,
-      47.3881118
+      8.541598,
+      47.3880768
     ]
   }
 },
@@ -34464,6 +34657,125 @@
     "coordinates": [
       8.4886759,
       47.4044496
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551047593",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "6",
+    "contact:phone": "+41 44 413 72 91",
+    "contact:postcode": "8037",
+    "contact:street": "Bucheggstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/waidhalde/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
+    "name": "Kindergarten Rosengarten",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Waidhalde",
+    "operator:type": "public",
+    "id": "node/9551047593"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5279972,
+      47.3961588
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551427242",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "61",
+    "contact:phone": "+41 44 413 29 38",
+    "contact:postcode": "8049",
+    "contact:street": "Giblenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/ruetihof/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
+    "name": "Kindergarten Rütihof Schulhaus",
+    "id": "node/9551427242"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4793717,
+      47.4125282
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551446965",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "3",
+    "contact:phone": "+41 44 413 74 08",
+    "contact:postcode": "8037",
+    "contact:street": "Rütschistrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/milchbuck/ueberuns/standorte/kindergaerten.html#ruetschistrasse",
+    "isced:level": "0",
+    "name": "Kindergarten Rütschistrasse",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Milchbuck",
+    "operator:type": "public",
+    "id": "node/9551446965"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5331642,
+      47.3935015
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551565894",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "45",
+    "contact:phone": "+41 44 413 78 56",
+    "contact:postcode": "8006",
+    "contact:street": "Stapferstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/scherr/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Stapferstrasse",
+    "id": "node/9551565894"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5462829,
+      47.3852171
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551916673",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "7",
+    "contact:phone": "+41 44 413 72 58",
+    "contact:postcode": "8037",
+    "contact:street": "Weihersteig",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/waidhalde/ueberuns/standorte/kindergaerten.html#kindergarten_wibichstrasse",
+    "name": "Kindergarten Wibichstrasse",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Waidhalde",
+    "operator:type": "public",
+    "id": "node/9551916673"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.527982,
+      47.3969211
     ]
   }
 }

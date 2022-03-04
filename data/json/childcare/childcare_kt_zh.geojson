@@ -5309,6 +5309,53 @@
 },
 {
   "type": "Feature",
+  "id": "node/6628663477",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "2",
+    "contact:phone": "+41 44 413 74 64",
+    "contact:postcode": "8037",
+    "contact:street": "Trottenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/waidhalde/betreuung/standorte.html#waidhalde",
+    "isced:level": "0",
+    "name": "Kinderhort Trotten - Mittag",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Waidhalde",
+    "operator:type": "public",
+    "id": "node/6628663477"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5241774,
+      47.3950722
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6628663478",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "7",
+    "contact:phone": "+41 44 413 06 13",
+    "contact:postcode": "8037",
+    "contact:street": "Weihersteig",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/waidhalde/betreuung/standorte.html#waidhalde",
+    "name": "Kinderhort Waidhalde 1 bis 7 - Morgen-Mittag-Abend",
+    "id": "node/6628663478"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.526679,
+      47.3971329
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6628720185",
   "properties": {
     "amenity": "childcare",
@@ -10092,6 +10139,382 @@
     "coordinates": [
       8.5433524,
       47.3892197
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551029651",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "8",
+    "contact:phone": "+41 44 413 72 92",
+    "contact:postcode": "8037",
+    "contact:street": "Bucheggstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/waidhalde/betreuung/standorte.html",
+    "isced:level": "0",
+    "name": "Kinderhort Rosengarten - Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Waidhalde",
+    "operator:type": "public",
+    "id": "node/9551029651"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.528236,
+      47.3962039
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551113239",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "14",
+    "contact:phone": "+41 444137412",
+    "contact:postcode": "8006",
+    "contact:street": "Röslistrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/weinberg/betreuung/standorte.html#roesli_1",
+    "isced:level": "0",
+    "name": "Kinderhort Rösli 1 - Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Weinberg - Turner",
+    "operator:type": "public",
+    "id": "node/9551113239"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5421421,
+      47.3885159
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551427240",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "36",
+    "contact:phone": "+41 44 413 75 93",
+    "contact:postcode": "8049",
+    "contact:street": "Rütihofstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/ruetihof/betreuung/standorte.html",
+    "isced:level": "0",
+    "name": "Kinderhort Rütihof 3 - Mittag-Abend",
+    "id": "node/9551427240"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4777247,
+      47.4142729
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551427241",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "63",
+    "contact:phone": "+41 44 413 76 18",
+    "contact:postcode": "8049",
+    "contact:street": "Giblenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/ruetihof/betreuung/standorte.html",
+    "isced:level": "0",
+    "name": "Kinderhort Rütihof 2 - Mittag-Abend",
+    "id": "node/9551427241"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.47956,
+      47.4121226
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551427243",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "61",
+    "contact:phone": "+41 44 413 29 39",
+    "contact:postcode": "8049",
+    "contact:street": "Giblenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/ruetihof/betreuung/standorte.html",
+    "isced:level": "0",
+    "name": "Kinderhort Rütihof 1+4 - Morgen-Mittag-Abend",
+    "id": "node/9551427243"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4793277,
+      47.4125774
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551440411",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "161",
+    "contact:phone": "+41 44 413 78 10",
+    "contact:postcode": "8006",
+    "contact:street": "Weinbergstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/ssd/de/index/volksschule/schulkreise_kreisschulbehoerden/waidberg/schulen/roesli_weinberg_turner_schuleinheit/schulhaus.html",
+    "isced:level": "0",
+    "name": "Kinderhort Schaffhauserplatz Weinberg - Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Weinberg - Turner",
+    "operator:type": "public",
+    "id": "node/9551440411"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5390858,
+      47.3908323
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551487447",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "95",
+    "contact:phone": "+41 44 413 78 08",
+    "contact:postcode": "8057",
+    "contact:street": "Weinbergstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/milchbuck/betreuung/standorte.html",
+    "isced:level": "0",
+    "name": "Kinderhort Schaffhauserstrasse - Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Milchbuck",
+    "operator:type": "public",
+    "id": "node/9551487447"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.539126,
+      47.39453
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551523773",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "54",
+    "contact:phone": "+41 44 413 74 42",
+    "contact:postcode": "8006",
+    "contact:street": "Stapferstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/scherr/betreuung/standorte.html",
+    "name": "Kinderhort Scherr 1,2,3 - Morgen-Mittag-Abend",
+    "id": "node/9551523773"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5464554,
+      47.3843764
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551556473",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "85",
+    "contact:phone": "+41 44 413 74 38",
+    "contact:postcode": "8006",
+    "contact:street": "Scheuchzerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/weinberg/betreuung/standorte.html#scheuchzer_1_2",
+    "isced:level": "0",
+    "name": "Kinderhort Scheuchzerstrasse 1+2 - Morgen-Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Weinberg - Turner",
+    "operator:type": "public",
+    "id": "node/9551556473"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5437181,
+      47.388172
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551565893",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "45",
+    "contact:phone": "+41 44 413 78 57",
+    "contact:postcode": "8006",
+    "contact:street": "Stapferstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/scherr/betreuung/standorte.html",
+    "name": "Kinderhort Stapferstrasse - Mittag-Abend",
+    "id": "node/9551565893"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5462968,
+      47.3851939
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551698730",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "25",
+    "contact:phone": "+41 44 413 09 42",
+    "contact:postcode": "8049",
+    "contact:street": "Ferdinand-Hodler-Strasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/vogtsrain/betreuung/standorte.html#vogtsrain_1_mittag-abendhort",
+    "name": "Kinderhort Vogtsrain 1 Mittag-Abend",
+    "id": "node/9551698730"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4991698,
+      47.4044155
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551698731",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "23",
+    "contact:phone": "+41 44 413 09 43",
+    "contact:postcode": "8049",
+    "contact:street": "Ferdinand-Hodler-Strasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/vogtsrain/betreuung/standorte.html",
+    "name": "Kinderhort Vogtsrain 2 Morgen-Mittag-Abend",
+    "id": "node/9551698731"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4995236,
+      47.4038251
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551865993",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "143",
+    "contact:phone": "+41 44 413 27 10",
+    "contact:postcode": "8037",
+    "contact:street": "Weinbergstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/weinberg/betreuung/standorte.html#weinberg_1",
+    "name": "Kinderhort Weinberg 1 - Mittag-Abend",
+    "id": "node/9551865993"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5398035,
+      47.3893029
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551916672",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "7",
+    "contact:phone": "+41 44 413 72 57",
+    "contact:postcode": "8037",
+    "contact:street": "Weihersteig",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/waidhalde/betreuung/standorte.html#waidhalde",
+    "name": "Kinderhort Wibichstrasse - Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Waidhalde",
+    "operator:type": "public",
+    "id": "node/9551916672"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5279839,
+      47.3969601
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9552007312",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "40",
+    "contact:phone": "+41 44 413 74 26",
+    "contact:postcode": "8006",
+    "contact:street": "Zanggerweg",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/weinberg/betreuung/standorte.html#zangger_1_2",
+    "name": "Kinderhort Zanggerweg 1+2 - Morgen-Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Weinberg - Turner",
+    "operator:type": "public",
+    "id": "node/9552007312"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5441045,
+      47.3909226
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9552016080",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "62a",
+    "contact:phone": "+41 44 413 75 12",
+    "contact:postcode": "8049",
+    "contact:street": "Winzerhalde",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/riedhof/betreuung/standorte.html#winzerhalde",
+    "name": "Kinderhort Winzerhalde 1+2 - Mittag-Abend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Riedhof-Pünten",
+    "operator:type": "public",
+    "id": "node/9552016080"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4879943,
+      47.4013435
     ]
   }
 }
