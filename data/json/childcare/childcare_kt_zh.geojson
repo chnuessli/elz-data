@@ -10517,6 +10517,23 @@
       47.4013435
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9553904295",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kita Luftballon",
+    "website": "https://www.kita-luftballon.ch/",
+    "id": "node/9553904295"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6455148,
+      47.4462067
+    ]
+  }
 }
 ]
 }
