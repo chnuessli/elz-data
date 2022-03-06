@@ -19467,6 +19467,42 @@
 },
 {
   "type": "Feature",
+  "id": "way/426044099",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Pappel",
+    "id": "way/426044099"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6222405,
+          47.4177707
+        ],
+        [
+          8.6222107,
+          47.4174895
+        ],
+        [
+          8.6227389,
+          47.4174639
+        ],
+        [
+          8.623071,
+          47.4177304
+        ],
+        [
+          8.6222405,
+          47.4177707
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/426044109",
   "properties": {
     "amenity": "kindergarten",
