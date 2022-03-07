@@ -4425,6 +4425,7 @@
   "type": "Feature",
   "id": "node/7541110193",
   "properties": {
+    "access": "private",
     "barrier": "gate",
     "id": "node/7541110193"
   },
@@ -4440,6 +4441,7 @@
   "type": "Feature",
   "id": "node/7541132797",
   "properties": {
+    "access": "private",
     "barrier": "gate",
     "id": "node/7541132797"
   },

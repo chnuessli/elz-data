@@ -32290,6 +32290,7 @@
     "name": "REHAB Basel",
     "phone": "+41 61 325 00 00",
     "website": "https://www.rehab.ch/home.html",
+    "wheelchair": "yes",
     "id": "way/675426880"
   },
   "geometry": {
