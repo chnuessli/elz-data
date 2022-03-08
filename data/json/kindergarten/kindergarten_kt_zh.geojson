@@ -34814,6 +34814,30 @@
       47.3969211
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9560058409",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "618",
+    "contact:phone": "+41 44 413 29 25",
+    "contact:postcode": "8048",
+    "contact:street": "Badenerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kappeli_primar/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Kappeli 7",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Kappeli Primar",
+    "operator:type": "public",
+    "id": "node/9560058409"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4931714,
+      47.3867676
+    ]
+  }
 }
 ]
 }
