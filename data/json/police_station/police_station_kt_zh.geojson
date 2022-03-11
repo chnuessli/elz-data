@@ -3583,10 +3583,11 @@
     "level": "1",
     "name": "Notpassbüro",
     "name:de": "Notpassbüro",
-    "name:en": "Emergency passports",
+    "name:en": "Emergency passport office",
     "opening_hours": "Mo-Su 05:30-21:30",
     "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 655 57 65",
+    "wheelchair": "yes",
     "id": "node/9433086355"
   },
   "geometry": {
