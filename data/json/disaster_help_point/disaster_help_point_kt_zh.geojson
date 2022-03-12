@@ -2878,10 +2878,10 @@
   "id": "node/9417237697",
   "properties": {
     "addr:city": "Pfäffikon",
-    "addr:housenumber": "1",
+    "addr:housenumber": "7",
     "addr:postcode": "8330",
-    "addr:street": "Hochstrasse",
-    "description": "Mehrzweckhalle",
+    "addr:street": "Mettlenstrasse",
+    "description": "Sporthalle Mettlen",
     "emergency": "disaster_help_point",
     "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
     "id": "node/9417237697"
@@ -2889,8 +2889,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7825017,
-      47.3672101
+      8.791411,
+      47.3626752
     ]
   }
 },
@@ -4138,10 +4138,10 @@
   "id": "node/9417237757",
   "properties": {
     "addr:city": "Hittnau",
-    "addr:housenumber": "50",
+    "addr:housenumber": "60",
     "addr:postcode": "8335",
     "addr:street": "Jakob Stutz-Strasse",
-    "description": "Gemeindehaus",
+    "description": "Mehrzweckturnhalle",
     "emergency": "disaster_help_point",
     "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
     "id": "node/9417237757"
@@ -4149,8 +4149,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8249911,
-      47.3656823
+      8.8249924,
+      47.3648161
     ]
   }
 },
@@ -6397,6 +6397,48 @@
     "coordinates": [
       8.7274441,
       47.536216
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9570899368",
+  "properties": {
+    "addr:city": "Humlikon",
+    "addr:housenumber": "2.1",
+    "addr:postcode": "8457",
+    "addr:street": "Andelfingerstrasse",
+    "description": "Turnhalle",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9570899368"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6676295,
+      47.5742389
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9570919291",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "5",
+    "addr:postcode": "8953",
+    "addr:street": "Rapidplatz",
+    "description": "Rapidplatz",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9570919291"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.404983,
+      47.4105506
     ]
   }
 }
