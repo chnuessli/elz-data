@@ -10534,6 +10534,22 @@
       47.4462067
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9573013429",
+  "properties": {
+    "amenity": "childcare",
+    "name": "GZO",
+    "id": "node/9573013429"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8041724,
+      47.3198974
+    ]
+  }
 }
 ]
 }
