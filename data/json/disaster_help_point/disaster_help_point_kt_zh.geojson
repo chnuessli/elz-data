@@ -1872,7 +1872,7 @@
   "id": "node/9417237648",
   "properties": {
     "addr:city": "Turbenthal",
-    "addr:housenumber": "2",
+    "addr:housenumber": "2d",
     "addr:postcode": "8488",
     "addr:street": "Feldstrasse",
     "description": "Mehrzweckhalle / Turnhalle",
@@ -1883,8 +1883,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8511711,
-      47.4362596
+      8.8509014,
+      47.4363175
     ]
   }
 },
@@ -5135,8 +5135,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.3869086,
-      47.4072051
+      8.3869167,
+      47.4071913
     ]
   }
 },

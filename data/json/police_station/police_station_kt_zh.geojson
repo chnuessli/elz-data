@@ -1159,6 +1159,8 @@
     "name": "Sicherheitskontrollgebäude",
     "name:en": "Security Check Building",
     "nat_name": "Sicherheitskontrolle",
+    "roof:colour": "gray",
+    "roof:material": "concrete",
     "short_name": "SKG",
     "wheelchair": "yes",
     "id": "way/927813296"
@@ -3950,6 +3952,69 @@
     "coordinates": [
       8.5752681,
       47.3404649
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9577401102",
+  "properties": {
+    "amenity": "police",
+    "level": "1",
+    "name": "Sicherheitskontrolle Transfer E (Linien 21 - 24)",
+    "name:de": "Sicherheitskontrolle Transfer E (Linien 21 - 24)",
+    "name:en": "Security Check Transfer E (Lanes 21 - 24)",
+    "short_name": "SIKO",
+    "wheelchair": "yes",
+    "id": "node/9577401102"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5560821,
+      47.461065
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9577413086",
+  "properties": {
+    "amenity": "police",
+    "level": "1",
+    "name": "Sicherheitskontrolle Transfer E (Linien 1 - 6)",
+    "name:de": "Sicherheitskontrolle Transfer E (Linien 1 - 6)",
+    "name:en": "Security Check Transfer E (Lanes 1 - 6)",
+    "short_name": "SIKO",
+    "wheelchair": "yes",
+    "id": "node/9577413086"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5530677,
+      47.461309
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9577429004",
+  "properties": {
+    "amenity": "police",
+    "level": "1",
+    "name": "Sicherheitskontrolle Transfer E (Linien 31 - 34)",
+    "name:de": "Sicherheitskontrolle Transfer E (Linien 31 - 34)",
+    "name:en": "Security Check Transfer E (Lanes 31 - 34)",
+    "short_name": "SIKO",
+    "wheelchair": "yes",
+    "id": "node/9577429004"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5545288,
+      47.4611933
     ]
   }
 }
