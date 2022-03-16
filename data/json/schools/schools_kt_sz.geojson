@@ -5936,6 +5936,7 @@
     "addr:street": "Paracelsuspark",
     "amenity": "school",
     "name": "Altes Schulhaus",
+    "wikidata": "Q29881481",
     "id": "node/455526729"
   },
   "geometry": {

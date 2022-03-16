@@ -69,10 +69,10 @@
   "id": "node/9417226661",
   "properties": {
     "addr:city": "Zürich",
-    "addr:housenumber": "173",
+    "addr:housenumber": "53",
     "addr:postcode": "8051",
-    "addr:street": "Luegislandstrasse",
-    "description": "Turnhalle Aubrücke",
+    "addr:street": "Herzogenmühlestrasse",
+    "description": "Turnhalle Auhof",
     "emergency": "disaster_help_point",
     "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
     "id": "node/9417226661"
@@ -80,8 +80,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5712086,
-      47.4094411
+      8.5720694,
+      47.4075188
     ]
   }
 },
