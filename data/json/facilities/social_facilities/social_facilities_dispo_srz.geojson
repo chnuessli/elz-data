@@ -4299,6 +4299,78 @@
 },
 {
   "type": "Feature",
+  "id": "way/33855503",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "93",
+    "addr:postcode": "8044",
+    "addr:street": "Zürichbergstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@tobias-haus.ch",
+    "name": "Tobias-Haus",
+    "operator": "Stiftung Tobias-Haus",
+    "phone": "+41 44 261 18 05",
+    "social_facility": "assisted_living",
+    "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
+    "website": "https://www.tobias-haus.ch/kontakt",
+    "id": "way/33855503"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5612276,
+          47.3777212
+        ],
+        [
+          8.5610691,
+          47.3776654
+        ],
+        [
+          8.5611174,
+          47.3776009
+        ],
+        [
+          8.5610973,
+          47.37758
+        ],
+        [
+          8.5611182,
+          47.3775519
+        ],
+        [
+          8.5611549,
+          47.3775514
+        ],
+        [
+          8.5611763,
+          47.3775225
+        ],
+        [
+          8.5612652,
+          47.3775532
+        ],
+        [
+          8.5612761,
+          47.3775382
+        ],
+        [
+          8.5613471,
+          47.3775628
+        ],
+        [
+          8.5612276,
+          47.3777212
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/33855516",
   "properties": {
     "addr:city": "Zürich",
@@ -39408,6 +39480,7 @@
     "addr:postcode": "8352",
     "addr:street": "Im Halbiacker",
     "amenity": "social_facility",
+    "building": "yes",
     "email": "lacasetta@eulachtal.ch",
     "name": "La Casetta",
     "operator": "Pflege Eulachtal",

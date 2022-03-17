@@ -75,6 +75,28 @@
       47.1728907
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9583546248",
+  "properties": {
+    "addr:city": "Goldau",
+    "addr:housenumber": "25b",
+    "addr:postcode": "6410",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "childcare",
+    "name": "Kinderkrippe Bärenland",
+    "phone": "+41 41 530 3877",
+    "website": "https://www.kinderkrippe-baerenland.ch/",
+    "id": "node/9583546248"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5454386,
+      47.0480693
+    ]
+  }
 }
 ]
 }

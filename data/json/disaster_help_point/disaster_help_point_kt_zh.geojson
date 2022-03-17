@@ -1288,7 +1288,7 @@
     "addr:city": "Wettswil a.A.",
     "addr:housenumber": "1",
     "addr:postcode": "8907",
-    "addr:street": "Ettenbergstrasse",
+    "addr:street": "Dettenbühlstrasse",
     "description": "Schulhaus",
     "emergency": "disaster_help_point",
     "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
@@ -1297,8 +1297,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4732029,
-      47.3389122
+      8.4757577,
+      47.3392078
     ]
   }
 },
@@ -6439,6 +6439,69 @@
     "coordinates": [
       8.404983,
       47.4105506
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9582606083",
+  "properties": {
+    "addr:city": "Weisslingen",
+    "addr:housenumber": "44",
+    "addr:place": "Lendikon",
+    "addr:postcode": "8484",
+    "description": "Brunnen",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9582606083"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7799252,
+      47.4254859
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9582831133",
+  "properties": {
+    "addr:city": "Kollbrunn",
+    "addr:housenumber": "17",
+    "addr:postcode": "8483",
+    "addr:street": "Untere Bahnhofstrasse",
+    "description": "Mehrzweckhalle Regenbodgen",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9582831133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7720668,
+      47.4576011
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9582853627",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "71",
+    "addr:postcode": "8038",
+    "addr:street": "Balberstrasse",
+    "description": "Turnhalle Entlisberg",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9582853627"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.527069,
+      47.3376672
     ]
   }
 }
