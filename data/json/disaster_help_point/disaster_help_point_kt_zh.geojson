@@ -6504,6 +6504,27 @@
       47.3376672
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9585240133",
+  "properties": {
+    "addr:city": "Dorf",
+    "addr:housenumber": "2",
+    "addr:postcode": "8458",
+    "addr:street": "Dorfstrasse",
+    "description": "Gemeindehaus",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9585240133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6484559,
+      47.5724976
+    ]
+  }
 }
 ]
 }

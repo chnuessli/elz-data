@@ -48286,6 +48286,7 @@
   "id": "way/223565665",
   "properties": {
     "amenity": "school",
+    "name": "Schule Bachwis",
     "id": "way/223565665"
   },
   "geometry": {
@@ -83423,8 +83424,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5542538,
-      47.3730363
+      8.5543678,
+      47.3729757
     ]
   }
 },
@@ -84088,10 +84089,14 @@
   "id": "node/5741495350",
   "properties": {
     "amenity": "school",
-    "email": "business@akad.ch",
+    "contact:city": "Zürich",
+    "contact:email": "info@akad.ch",
+    "contact:housenumber": "43",
+    "contact:phone": "+41 44 307 31 31",
+    "contact:postcode": "8050",
+    "contact:street": "Jungholzstrasse",
+    "contact:website": "https://www.akad.ch/de-CH",
     "name": "AKAD Business Zürich",
-    "phone": "+41 44 307 33 33",
-    "website": "https://www.akad.ch/de-CH/Business",
     "id": "node/5741495350"
   },
   "geometry": {
