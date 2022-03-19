@@ -3197,6 +3197,7 @@
     "addr:place": "Hauptbahnhof, Nordtrakt",
     "addr:postcode": "8001",
     "addr:street": "Museumstrasse",
+    "alt_name": "Kapo HB Museumstrasse",
     "amenity": "police",
     "indoor": "yes",
     "level": "0",
