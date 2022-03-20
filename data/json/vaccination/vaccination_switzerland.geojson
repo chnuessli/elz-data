@@ -1009,33 +1009,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9317666746",
-  "properties": {
-    "addr:city": "Affoltern am Albis",
-    "addr:housenumber": "7",
-    "addr:postcode": "8910",
-    "addr:street": "Obstgartenstrasse",
-    "alt_name": "COVID-19 Impfzentrum Affoltern",
-    "amenity": "doctors",
-    "healthcare": "centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum Affoltern am Albis",
-    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-20:00; Sa 09:00-12:00, 13:00-16:00",
-    "operator": "Kanton Zürich",
-    "vaccination": "covid19",
-    "website": "https://www.spitalaffoltern.ch/impfzentrum.html",
-    "id": "node/9317666746"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4441661,
-      47.2746451
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9344041842",
   "properties": {
     "addr:city": "Zürich",
