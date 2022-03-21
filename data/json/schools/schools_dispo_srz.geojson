@@ -98338,6 +98338,97 @@
 },
 {
   "type": "Feature",
+  "id": "way/1041902371",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "39",
+    "addr:postcode": "8048",
+    "addr:street": "Mürtschenstrasse",
+    "amenity": "school",
+    "name": "Schule Kappeli Sekundar, Gebäude Mürtschenpark",
+    "operator": "Stadt Zürich",
+    "operator:type": "public",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/kappeli_sek.html",
+    "id": "way/1041902371"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4943547,
+          47.3871729
+        ],
+        [
+          8.4949295,
+          47.3870045
+        ],
+        [
+          8.4950938,
+          47.3869585
+        ],
+        [
+          8.4952193,
+          47.3872014
+        ],
+        [
+          8.495219,
+          47.3873156
+        ],
+        [
+          8.4950665,
+          47.3873156
+        ],
+        [
+          8.4950575,
+          47.3873851
+        ],
+        [
+          8.4951674,
+          47.3875694
+        ],
+        [
+          8.4948863,
+          47.3876572
+        ],
+        [
+          8.4948178,
+          47.3875132
+        ],
+        [
+          8.4947854,
+          47.3873729
+        ],
+        [
+          8.49478,
+          47.3873022
+        ],
+        [
+          8.4943853,
+          47.3872827
+        ],
+        [
+          8.4943331,
+          47.3872656
+        ],
+        [
+          8.4943024,
+          47.3872253
+        ],
+        [
+          8.4943116,
+          47.387183
+        ],
+        [
+          8.4943547,
+          47.3871729
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104089133",
   "properties": {
     "addr:postcode": "8197",
