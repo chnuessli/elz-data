@@ -10198,6 +10198,7 @@
     "name": "Fachschule Viventa, Schulhaus Wipkingen",
     "operator": "Stadt Zürich, SSD, Fachschule Viventa",
     "owner": "Immobilien Stadt Zürich (IMMO)",
+    "phone": "+41 44 413 50 00",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
     "source:addr": "survey",
     "start_date": "1965",
@@ -10208,48 +10209,40 @@
     "coordinates": [
       [
         [
-          8.5224167,
-          47.3924599
+          8.5231049,
+          47.3921235
         ],
         [
-          8.522369,
-          47.3923947
+          8.5231734,
+          47.3922175
         ],
         [
-          8.522353,
-          47.3923728
+          8.5228629,
+          47.3923215
         ],
         [
-          8.5233068,
-          47.3920531
+          8.5225311,
+          47.3924327
         ],
         [
-          8.5233392,
-          47.3920974
+          8.5224321,
+          47.3924659
         ],
         [
-          8.5233755,
-          47.3921471
+          8.5224271,
+          47.3924591
         ],
         [
-          8.523163,
-          47.3922183
+          8.5223794,
+          47.3923939
         ],
         [
-          8.5228525,
-          47.3923223
+          8.5223634,
+          47.392372
         ],
         [
-          8.5225207,
-          47.3924335
-        ],
-        [
-          8.5224217,
-          47.3924667
-        ],
-        [
-          8.5224167,
-          47.3924599
+          8.5231049,
+          47.3921235
         ]
       ]
     ]
@@ -74282,6 +74275,13 @@
   "id": "way/351497728",
   "properties": {
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "sekretariat@kzn.ch",
+    "contact:housenumber": "107",
+    "contact:phone": "+41 44 317 23 00",
+    "contact:postcode": "8050",
+    "contact:street": "Birchstrasse",
+    "contact:website": "https://www.kzn.ch/kontakt",
     "name": "Kantonsschule Zürich Nord",
     "old_name": "Kantonsschule Oerlikon",
     "operator": "Kanton Zürich, Bildungsdirektion",
@@ -74295,96 +74295,120 @@
     "coordinates": [
       [
         [
-          8.5329128,
-          47.4091449
+          8.5329218,
+          47.4091459
         ],
         [
-          8.5327047,
-          47.408638
+          8.5327503,
+          47.4087145
         ],
         [
-          8.5326246,
-          47.4084675
+          8.5327107,
+          47.4086207
         ],
         [
-          8.5325414,
-          47.4083161
+          8.5326652,
+          47.4085249
         ],
         [
-          8.5324399,
-          47.4081551
+          8.5326166,
+          47.4084308
         ],
         [
-          8.5332202,
-          47.4078738
+          8.5325651,
+          47.4083365
         ],
         [
-          8.534283,
-          47.4074975
+          8.5325152,
+          47.4082535
         ],
         [
-          8.5349441,
-          47.4072637
+          8.5324572,
+          47.4081656
         ],
         [
-          8.5354499,
-          47.4070844
+          8.5324472,
+          47.4081515
         ],
         [
-          8.535789,
-          47.406971
+          8.5331858,
+          47.4078879
         ],
         [
-          8.5359305,
-          47.4069329
+          8.5339086,
+          47.4076323
         ],
         [
-          8.5360792,
-          47.4069701
+          8.5345377,
+          47.4074097
         ],
         [
-          8.5363135,
-          47.4073725
+          8.5349486,
+          47.4072656
         ],
         [
-          8.5366198,
-          47.4078903
+          8.5357379,
+          47.4069853
         ],
         [
-          8.5366369,
-          47.4079205
+          8.5359426,
+          47.4069325
         ],
         [
-          8.5362661,
-          47.4080185
+          8.5360908,
+          47.4069695
         ],
         [
-          8.5364529,
-          47.4083288
+          8.5363252,
+          47.4073811
+        ],
+        [
+          8.5366297,
+          47.4078867
+        ],
+        [
+          8.5366482,
+          47.4079163
+        ],
+        [
+          8.5362796,
+          47.4080189
+        ],
+        [
+          8.5364597,
+          47.4083273
         ],
         [
           8.5358506,
           47.4084921
         ],
         [
-          8.5356951,
-          47.408535
+          8.5357085,
+          47.4085322
         ],
         [
-          8.5357133,
-          47.4085608
+          8.5357247,
+          47.4085594
         ],
         [
-          8.5349408,
-          47.4087689
+          8.5349478,
+          47.4087703
         ],
         [
-          8.5348729,
-          47.4087881
+          8.5348877,
+          47.4087875
         ],
         [
-          8.5329128,
-          47.4091449
+          8.5341587,
+          47.4089204
+        ],
+        [
+          8.533852,
+          47.4089764
+        ],
+        [
+          8.5329218,
+          47.4091459
         ]
       ]
     ]
@@ -78197,6 +78221,51 @@
         [
           8.7362737,
           47.4937715
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/406796579",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "425",
+    "addr:postcode": "8046",
+    "addr:street": "Wehntalerstrasse",
+    "amenity": "school",
+    "building": "yes",
+    "email": "info@fosz.ch",
+    "isced:level": "2",
+    "name": "FOSZ Freie Oberstufenschule Zürich",
+    "phone": "+41 44 371 96 17",
+    "website": "https://www.fosz.ch/",
+    "id": "way/406796579"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5147271,
+          47.4150496
+        ],
+        [
+          8.5146807,
+          47.4149645
+        ],
+        [
+          8.5149037,
+          47.4149088
+        ],
+        [
+          8.5149501,
+          47.4149939
+        ],
+        [
+          8.5147271,
+          47.4150496
         ]
       ]
     ]
@@ -87687,12 +87756,19 @@
   "type": "Feature",
   "id": "way/552139734",
   "properties": {
+    "alt_name": "Bildungszentrum für Erwachsene",
     "amenity": "school",
-    "name": "Bildungszentrum für Erwachsene",
-    "old_name": "Kantonsschule Riesbach",
+    "contact:city": "Zürich",
+    "contact:email": "lernen@eb-zuerich.ch",
+    "contact:housenumber": "11",
+    "contact:phone": "+41 842 843 844",
+    "contact:postcode": "8090",
+    "contact:street": "Riesbachstrasse",
+    "contact:website": "https://www.eb-zuerich.ch/",
+    "name": "EB Zürich Kantonale Schule für Berufsbildung",
     "operator": "Kanton Zürich, Bildungsdirektion",
-    "short_name": "BiZE",
-    "website": "https://www.bize.ch/",
+    "operator:type": "public",
+    "short_name": "EB Zürich",
     "id": "way/552139734"
   },
   "geometry": {
@@ -93840,16 +93916,19 @@
   "type": "Feature",
   "id": "way/835476850",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "18",
-    "addr:postcode": "8045",
-    "addr:street": "Töpferstrasse",
     "amenity": "school",
-    "name": "Etz Chaim Schule",
+    "contact:city": "Zürich",
+    "contact:email": "schule@etzchaim.ch",
+    "contact:housenumber": "18",
+    "contact:phone": "+41 44 281 21 20",
+    "contact:postcode": "8045",
+    "contact:street": "Töpferstrasse",
+    "contact:website": "https://etzchaim.ch/",
+    "name": "Schule Etz Chaim",
     "operator": "Verein zur Förderung der Sonderschulung",
+    "operator:type": "private",
     "private": "yes",
     "religion": "jewish",
-    "website": "http://etzchaim.ch/",
     "id": "way/835476850"
   },
   "geometry": {
@@ -99509,16 +99588,19 @@
   "type": "Feature",
   "id": "node/916616252",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "9",
-    "addr:postcode": "8001",
-    "addr:street": "Waldmannstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "sekretariat@fes.ch",
+    "contact:housenumber": "9",
+    "contact:phone": "+41 43 268 84 84",
+    "contact:postcode": "8001",
+    "contact:street": "Waldmannstrasse",
+    "contact:website": "https://www.fes.ch/",
     "description": "Primarschule und Sekundarschule",
+    "isced:level": "1;2",
     "name": "Freie Evangelische Schule Zürich",
     "operator": "Stiftung Freie Evangelische Schule",
-    "private": "yes",
-    "website": "https://www.fesz.ch/",
+    "operator:type": "private",
     "wikidata": "Q28000684",
     "id": "node/916616252"
   },
@@ -101148,30 +101230,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5331219077",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "112",
-    "addr:postcode": "8008",
-    "addr:street": "Mühlebachstrasse",
-    "amenity": "school",
-    "name": "Kantonale Maturitätsschule für Erwachsene",
-    "operator": "Kanton Zürich, Bildungsdirektion",
-    "short_name": "KME",
-    "website": "https://kme.ch/",
-    "wikidata": "Q1563953",
-    "id": "node/5331219077"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5542949,
-      47.3603452
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5331386116",
   "properties": {
     "addr:city": "Zürich",
@@ -102533,6 +102591,34 @@
     "coordinates": [
       8.4977362,
       47.2230768
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9593857220",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "sekretariat@fes.ch",
+    "contact:housenumber": "72",
+    "contact:phone": "+41 43 336 70 00",
+    "contact:postcode": "8008",
+    "contact:street": "Kreuzstrasse",
+    "contact:website": "https://www.fes.ch/",
+    "description": "Primarschule und Sekundarschule",
+    "isced:level": "1;2",
+    "name": "Freie Evangelische Schule Zürich",
+    "operator": "Stiftung Freie Evangelische Schule",
+    "operator:type": "private",
+    "wikidata": "Q28000684",
+    "id": "node/9593857220"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5532551,
+      47.3649505
     ]
   }
 }

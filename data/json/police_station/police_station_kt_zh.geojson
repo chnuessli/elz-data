@@ -1078,6 +1078,55 @@
 },
 {
   "type": "Feature",
+  "id": "way/340272452",
+  "properties": {
+    "addr:city": "Zürich-Flughafen",
+    "addr:housenumber": "100",
+    "addr:postcode": "8058",
+    "addr:street": "Flughafenstrasse",
+    "amenity": "police",
+    "building": "transportation",
+    "building:levels": "1",
+    "height": "3.85",
+    "level": "0",
+    "name": "Sicherheitskontrollen Werft, Eingang Werft 141",
+    "name:de": "Sicherheitskontrollen Werft, Eingang Werft 141",
+    "name:en": "Staff Security Check (Entry Shipyard 141)",
+    "opening_hours": "24/7",
+    "short_name": "SIKO",
+    "wheelchair": "yes",
+    "id": "way/340272452"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5697457,
+          47.4436971
+        ],
+        [
+          8.5695539,
+          47.4437445
+        ],
+        [
+          8.5694717,
+          47.4435917
+        ],
+        [
+          8.5696647,
+          47.4435443
+        ],
+        [
+          8.5697457,
+          47.4436971
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/927719721",
   "properties": {
     "amenity": "police",
@@ -3393,9 +3442,10 @@
   "properties": {
     "amenity": "police",
     "level": "1",
-    "name": "Staff SIKO (Ausreise 1)",
-    "name:de": "Staff SIKO (Ausreise 1)",
+    "name": "Staff Sicherheitskontrollen (Ausreise 1)",
+    "name:de": "Staff Sicherheitskontrollen (Ausreise 1)",
     "name:en": "Staff Security Check (Departure 1)",
+    "opening_hours": "24/7",
     "short_name": "SIKO",
     "wheelchair": "yes",
     "id": "node/8635545327"
@@ -3960,6 +4010,7 @@
   "type": "Feature",
   "id": "node/9577401102",
   "properties": {
+    "alt_name": "Sicherheitskontrolle Kern C",
     "amenity": "police",
     "level": "1",
     "name": "Sicherheitskontrolle Transfer E (Linien 21 - 24)",
@@ -3981,6 +4032,7 @@
   "type": "Feature",
   "id": "node/9577413086",
   "properties": {
+    "alt_name": "Sicherheitskontrolle Kern E",
     "amenity": "police",
     "level": "1",
     "name": "Sicherheitskontrolle Transfer E (Linien 1 - 6)",
@@ -4002,6 +4054,7 @@
   "type": "Feature",
   "id": "node/9577429004",
   "properties": {
+    "alt_name": "Sicherheitskontrolle Kern D",
     "amenity": "police",
     "level": "1",
     "name": "Sicherheitskontrolle Transfer E (Linien 31 - 34)",
@@ -4016,6 +4069,28 @@
     "coordinates": [
       8.5545288,
       47.4611933
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9594341081",
+  "properties": {
+    "amenity": "police",
+    "level": "-1",
+    "name": "Staff-Sicherheitskontrollen (Anlieferung Mitte)",
+    "name:de": "Staff-Sicherheitskontrollen (Anlieferung Mitte)",
+    "name:en": "Security Check (Delivery Mid)",
+    "opening_hours": "24/7",
+    "short_name": "SIKO",
+    "wheelchair": "yes",
+    "id": "node/9594341081"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5613344,
+      47.4516817
     ]
   }
 }

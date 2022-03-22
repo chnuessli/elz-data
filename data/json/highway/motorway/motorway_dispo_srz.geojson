@@ -69303,7 +69303,7 @@
   "id": "way/914309455",
   "properties": {
     "destination:int_ref:lanes": "|E 41;E 60|E 41;E 60",
-    "destination:lanes": "Zürich-City|Zürich-City;Bern;Chur;Luzern;Flughafen;Nordring-Zürich|Bern;Chur;Luzern;Flughafen;Nordring-Zürich",
+    "destination:lanes": "Zürich-City|Bern;Chur;Luzern;Flughafen;Nordring-Zürich|Bern;Chur;Luzern;Flughafen;Nordring-Zürich",
     "destination:ref:lanes": "|A1;A4|A1;A4",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
