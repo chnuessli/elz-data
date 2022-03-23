@@ -18648,8 +18648,8 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
+    "emergency": "no",
     "emergency:access": "no",
-    "name": "Tor 105",
     "id": "node/2372294565"
   },
   "geometry": {
@@ -46795,7 +46795,14 @@
   "id": "node/6727923334",
   "properties": {
     "access": "no",
-    "barrier": "lift_gate",
+    "barrier": "gate",
+    "material": "metal",
+    "maxheight": "4",
+    "maxwidth": "53.20",
+    "name": "Rega Tor",
+    "opening_hours": "Mo-Su 06:00-20:00",
+    "ref": "109.2",
+    "vehicle": "no",
     "id": "node/6727923334"
   },
   "geometry": {
@@ -48835,14 +48842,17 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "foot": "yes",
+    "level": "0",
     "name": "Tor 104",
+    "vehicle": "no",
     "id": "node/6951189845"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5646855,
-      47.4537676
+      8.5646919,
+      47.453803
     ]
   }
 },
@@ -61163,7 +61173,6 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
-    "name": "Tor 105",
     "id": "node/9196328081"
   },
   "geometry": {
@@ -61181,13 +61190,16 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "name": "Tor 105",
+    "opening_hours": "Mo-Fr 05:00-22:30; Sa 05:00-22:00",
+    "vehicle": "no",
     "id": "node/9196328086"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5720266,
-      47.4538223
+      8.5720227,
+      47.4538227
     ]
   }
 },
@@ -61198,13 +61210,16 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "name": "Tor 105",
+    "opening_hours": "Mo-Fr 05:00-22:30; Sa 05:00-22:00",
+    "vehicle": "no",
     "id": "node/9196328087"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.57208,
-      47.4538177
+      8.5720802,
+      47.4538179
     ]
   }
 },

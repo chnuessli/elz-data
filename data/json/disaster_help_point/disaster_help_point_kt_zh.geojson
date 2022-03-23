@@ -5093,8 +5093,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4048606,
-      47.4100517
+      8.40486,
+      47.41005
     ]
   }
 },
@@ -6418,27 +6418,6 @@
     "coordinates": [
       8.6676295,
       47.5742389
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9570919291",
-  "properties": {
-    "addr:city": "Dietikon",
-    "addr:housenumber": "5",
-    "addr:postcode": "8953",
-    "addr:street": "Rapidplatz",
-    "description": "Rapidplatz",
-    "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
-    "id": "node/9570919291"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.404983,
-      47.4105506
     ]
   }
 },
