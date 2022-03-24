@@ -15208,6 +15208,72 @@
 },
 {
   "type": "Feature",
+  "id": "way/39548753",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "45",
+    "addr:postcode": "8003",
+    "addr:street": "Aemtlerstrasse",
+    "alt_name": "FSKZ Wiedikon",
+    "amenity": "school",
+    "building": "school",
+    "contact:email": "wiedikon@fksz.ch",
+    "contact:phone": "+41 44 454 24 10",
+    "contact:website": "https://fksz.ch/schulhaeuser/wiedikon/",
+    "description": "Primarschule und Sekundarschule",
+    "isced:level": "1;2",
+    "name": "Freie Katholische Schule Wiedikon",
+    "operator": "Freie Katholische Schulen Zürich",
+    "private": "yes",
+    "website": "https://www.fksz.ch/schulhaeuser/wiedikon/",
+    "id": "way/39548753"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.514538,
+          47.3722732
+        ],
+        [
+          8.5142336,
+          47.3725209
+        ],
+        [
+          8.5141269,
+          47.3724607
+        ],
+        [
+          8.514082,
+          47.3724354
+        ],
+        [
+          8.5139941,
+          47.3723858
+        ],
+        [
+          8.5139889,
+          47.3723829
+        ],
+        [
+          8.5142918,
+          47.3721349
+        ],
+        [
+          8.5145305,
+          47.3722685
+        ],
+        [
+          8.514538,
+          47.3722732
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/39890204",
   "properties": {
     "addr:housenumber": "72",
@@ -20125,6 +20191,78 @@
         [
           8.5382187,
           47.239474
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/74464939",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "19",
+    "addr:postcode": "8008",
+    "addr:street": "Arbenzstrasse",
+    "amenity": "school",
+    "building": "school",
+    "building:levels": "9",
+    "contact:email": "sekretariat@fgz.ch",
+    "contact:phone": "+41 43 456 77 77",
+    "contact:website": "https://www.fgz.ch/de/",
+    "name": "FGZ Freies Gymnasium Zürich",
+    "operator": "Freies Gymnasium Zürich",
+    "operator:type": "private",
+    "private": "yes",
+    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "website": "https://www.fgz.ch/",
+    "wikidata": "Q1454145",
+    "id": "way/74464939"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.555192,
+          47.359246
+        ],
+        [
+          8.555249,
+          47.3595847
+        ],
+        [
+          8.5551859,
+          47.3595899
+        ],
+        [
+          8.554906,
+          47.3596127
+        ],
+        [
+          8.5547146,
+          47.3596283
+        ],
+        [
+          8.5546686,
+          47.3593694
+        ],
+        [
+          8.554764,
+          47.3593617
+        ],
+        [
+          8.5548951,
+          47.3593514
+        ],
+        [
+          8.5548813,
+          47.3592713
+        ],
+        [
+          8.555192,
+          47.359246
         ]
       ]
     ]
@@ -28840,6 +28978,7 @@
     "isced:level": "0",
     "name": "Schule Ahorn",
     "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen",
+    "operator:type": "public",
     "id": "way/122455978"
   },
   "geometry": {
@@ -28847,55 +28986,59 @@
     "coordinates": [
       [
         [
-          8.5648653,
-          47.4039499
+          8.5648718,
+          47.4039505
         ],
         [
-          8.5655649,
-          47.4038635
+          8.5656586,
+          47.4038523
         ],
         [
-          8.5657742,
-          47.4038388
+          8.5657867,
+          47.4038382
         ],
         [
-          8.5657777,
-          47.404032
+          8.5657882,
+          47.4038667
         ],
         [
-          8.5657813,
+          8.5657923,
+          47.4040216
+        ],
+        [
+          8.5657942,
           47.4041224
         ],
         [
-          8.5660128,
-          47.4041381
+          8.566028,
+          47.4041372
         ],
         [
-          8.5672582,
-          47.4042164
+          8.5672656,
+          47.404217
         ],
         [
-          8.5672668,
+          8.5672742,
           47.404123
         ],
         [
-          8.5675096,
-          47.4041455
+          8.5675188,
+          47.4041436
         ],
         [
-          8.5674459,
-          47.4046463
+          8.5674867,
+          47.4044153
         ],
         [
-          8.5674401,
-          47.4046819
+          8.5674503,
+          47.4046881
         ],
         [
-          8.5674322,
-          47.4047207
+          8.5674239,
+          47.4047888
         ],
         [
-          8.5673621,
+          8.5673704,
           47.4049724
         ],
         [
@@ -28907,32 +29050,36 @@
           47.4046163
         ],
         [
-          8.5651752,
-          47.4046545
+          8.5651812,
+          47.4046551
         ],
         [
-          8.5651222,
-          47.4044702
+          8.5651324,
+          47.4044558
         ],
         [
-          8.5651039,
-          47.4044083
+          8.5651127,
+          47.4044039
         ],
         [
-          8.5650705,
-          47.4043452
+          8.565089,
+          47.4043583
         ],
         [
-          8.5650191,
-          47.404279
+          8.5650592,
+          47.4043169
         ],
         [
-          8.5649546,
-          47.4042248
+          8.5650228,
+          47.4042756
         ],
         [
-          8.5648653,
-          47.4039499
+          8.5649666,
+          47.4042254
+        ],
+        [
+          8.5648718,
+          47.4039505
         ]
       ]
     ]
@@ -36373,110 +36520,6 @@
         [
           8.5950754,
           47.5020866
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/156333305",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "19",
-    "addr:postcode": "8008",
-    "addr:street": "Arbenzstrasse",
-    "amenity": "school",
-    "name": "Freies Gymnasium Zürich",
-    "private": "yes",
-    "website": "https://www.fgz.ch/",
-    "wikidata": "Q1454145",
-    "id": "way/156333305"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5546362,
-          47.3595712
-        ],
-        [
-          8.5545783,
-          47.3592186
-        ],
-        [
-          8.5547276,
-          47.3590383
-        ],
-        [
-          8.5550133,
-          47.3590155
-        ],
-        [
-          8.5550463,
-          47.3589445
-        ],
-        [
-          8.5555319,
-          47.3590681
-        ],
-        [
-          8.5554126,
-          47.3592821
-        ],
-        [
-          8.5554247,
-          47.3593475
-        ],
-        [
-          8.5554803,
-          47.3594038
-        ],
-        [
-          8.5559537,
-          47.3596191
-        ],
-        [
-          8.5559785,
-          47.3596713
-        ],
-        [
-          8.5557337,
-          47.3599376
-        ],
-        [
-          8.5556683,
-          47.3599084
-        ],
-        [
-          8.5555811,
-          47.3599169
-        ],
-        [
-          8.5555571,
-          47.3597817
-        ],
-        [
-          8.5549449,
-          47.3598316
-        ],
-        [
-          8.5547556,
-          47.3598464
-        ],
-        [
-          8.5547164,
-          47.3596443
-        ],
-        [
-          8.55465,
-          47.3596516
-        ],
-        [
-          8.5546362,
-          47.3595712
         ]
       ]
     ]
@@ -74229,17 +74272,20 @@
   "type": "Feature",
   "id": "way/552156397",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "16",
-    "addr:postcode": "8008",
-    "addr:street": "Kreuzbühlstrasse",
     "alt_name": "FSKZ Kreuzbühl",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "kreuzbuehl@fksz.ch",
+    "contact:housenumber": "16",
+    "contact:phone": "+41 44 254 53 70",
+    "contact:postcode": "8008",
+    "contact:street": "Kreuzbühlstrasse",
+    "contact:website": "https://fksz.ch/schulhaeuser/kreuzbuehl/",
     "description": "Primarschule und Sekundarschule",
     "name": "Freie Katholische Schule Kreuzbühl",
     "operator": "Freie Katholische Schulen Zürich",
+    "operator:type": "private",
     "private": "yes",
-    "website": "https://www.fksz.ch/schulhaeuser/kreuzbuehl/",
     "id": "way/552156397"
   },
   "geometry": {
@@ -74286,16 +74332,19 @@
   "type": "Feature",
   "id": "way/552156398",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "31",
-    "addr:postcode": "8006",
-    "addr:street": "Sumatrastrasse",
     "alt_name": "FSKZ Sumatra",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "gymnasium@fksz.ch",
+    "contact:housenumber": "31",
+    "contact:phone": "+41 44 360 82 40",
+    "contact:postcode": "8006",
+    "contact:street": "Sumatrastrasse",
+    "contact:website": "https://fksz.ch/schulhaeuser/sumatra/",
     "description": "Sekundarschule und Gymnasium",
     "name": "Freie Katholische Schule Sumatra",
     "operator": "Freie Katholische Schulen Zürich",
+    "operator:type": "private",
     "private": "yes",
     "website": "https://www.fksz.ch/schulhaeuser/sumatra/",
     "id": "way/552156398"
@@ -84132,31 +84181,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5331386116",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "45",
-    "addr:postcode": "8003",
-    "addr:street": "Aemtlerstrasse",
-    "alt_name": "FSKZ Wiedikon",
-    "amenity": "school",
-    "description": "Primarschule und Sekundarschule",
-    "name": "Freie Katholische Schule Wiedikon",
-    "operator": "Freie Katholische Schulen Zürich",
-    "private": "yes",
-    "website": "https://www.fksz.ch/schulhaeuser/wiedikon/",
-    "id": "node/5331386116"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5142694,
-      47.372307
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5331387424",
   "properties": {
     "addr:city": "Zürich",
@@ -85186,6 +85210,31 @@
     "coordinates": [
       8.5532551,
       47.3649505
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9599602250",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@efpezet.ch",
+    "contact:housenumber": "1",
+    "contact:phone": "+41 44 445 29 20",
+    "contact:postcode": "8005",
+    "contact:street": "Technoparkstrasse",
+    "contact:website": "http://www.efpezet.ch/index.html",
+    "name": "FPZ Freie Primarschule Zürich",
+    "operator": "FPZ Freie Primarschule Zürich AG",
+    "operator:type": "private",
+    "id": "node/9599602250"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5156582,
+      47.3895094
     ]
   }
 }
