@@ -28488,7 +28488,10 @@
   "properties": {
     "amenity": "social_facility",
     "name": "SAW-Siedlung Frieden",
-    "operator": "Stiftung Alterswohnungen der Stadt Zürich (SAW)",
+    "operator": "Stiftung Alterswohnungen der Stadt Zürich",
+    "operator:short": "SAW",
+    "operator:wikidata": "Q2348865",
+    "operator:wikipedia": "de:Stiftung Alterswohnungen der Stadt Zürich",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "2011",
