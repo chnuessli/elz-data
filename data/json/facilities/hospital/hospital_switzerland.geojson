@@ -51007,6 +51007,28 @@
       46.2356963
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9611423948",
+  "properties": {
+    "amenity": "clinic",
+    "email": "rni@hin.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "Radiologie und Neuroradiologie Institut Rotkreuz",
+    "phone": "+41 41 799 44 99",
+    "short_name": "RNI Rotkreuz",
+    "website": "https://rni-rotkreuz.ch/",
+    "id": "node/9611423948"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4381252,
+      47.1446716
+    ]
+  }
 }
 ]
 }
