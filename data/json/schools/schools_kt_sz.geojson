@@ -2394,6 +2394,152 @@
 },
 {
   "type": "Feature",
+  "id": "way/202709975",
+  "properties": {
+    "addr:city": "Unteriberg",
+    "addr:housenumber": "27.2",
+    "addr:postcode": "8842",
+    "addr:street": "Waagtalstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Primarschule Herti",
+    "id": "way/202709975"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8034316,
+          47.0572885
+        ],
+        [
+          8.8032241,
+          47.0572339
+        ],
+        [
+          8.8032038,
+          47.0572684
+        ],
+        [
+          8.803083,
+          47.0572364
+        ],
+        [
+          8.8030993,
+          47.057206
+        ],
+        [
+          8.8030693,
+          47.0571978
+        ],
+        [
+          8.8030865,
+          47.0571626
+        ],
+        [
+          8.8029396,
+          47.0571244
+        ],
+        [
+          8.8029943,
+          47.0570269
+        ],
+        [
+          8.8032524,
+          47.0570939
+        ],
+        [
+          8.8032379,
+          47.0571248
+        ],
+        [
+          8.8034873,
+          47.057191
+        ],
+        [
+          8.8034316,
+          47.0572885
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/202709978",
+  "properties": {
+    "addr:city": "Unteriberg",
+    "addr:housenumber": "27.1",
+    "addr:postcode": "8842",
+    "addr:street": "Waagtalstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Turnhalle Schulhaus Herti",
+    "id": "way/202709978"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8029462,
+          47.0575249
+        ],
+        [
+          8.8028591,
+          47.0575013
+        ],
+        [
+          8.8028726,
+          47.0574756
+        ],
+        [
+          8.8027655,
+          47.0574468
+        ],
+        [
+          8.8028025,
+          47.0573775
+        ],
+        [
+          8.8025492,
+          47.0573107
+        ],
+        [
+          8.8026112,
+          47.0572012
+        ],
+        [
+          8.8029173,
+          47.0572823
+        ],
+        [
+          8.8029216,
+          47.0572728
+        ],
+        [
+          8.8029993,
+          47.0572933
+        ],
+        [
+          8.8029825,
+          47.0573229
+        ],
+        [
+          8.8030529,
+          47.0573405
+        ],
+        [
+          8.8029462,
+          47.0575249
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/202710018",
   "properties": {
     "addr:city": "Unteriberg",
@@ -2456,7 +2602,7 @@
     "alt_name": "Gemeindeschule Unteriberg",
     "amenity": "school",
     "building": "yes",
-    "name": "Primarschule Unteriberg",
+    "name": "Primarschule Unteriberg altes Schulhaus",
     "phone": "+41 55 414 16 91",
     "website": "https://www.unteriberg.ch/schule/primarschule/",
     "id": "way/202710022"

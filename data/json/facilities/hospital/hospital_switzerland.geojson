@@ -17754,97 +17754,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/262215524",
-  "properties": {
-    "addr:city": "Basel",
-    "addr:housenumber": "33",
-    "addr:postcode": "4056",
-    "addr:street": "Spitalstrasse",
-    "amenity": "hospital",
-    "building": "yes",
-    "building:levels": "4",
-    "emergency": "yes",
-    "healthcare": "hospital",
-    "healthcare:speciality": "paediatrics;intensive",
-    "name": "Universitäts-Kinderspital beider Basel UKBB",
-    "phone": "+41 61 704 12 12",
-    "short_name": "UKBB",
-    "toilets:wheelchair": "yes",
-    "website": "https://www.ukbb.ch/",
-    "wheelchair": "yes",
-    "wikidata": "Q2496240",
-    "id": "way/262215524"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.581915,
-          47.5631081
-        ],
-        [
-          7.582401,
-          47.5635015
-        ],
-        [
-          7.5819242,
-          47.5638099
-        ],
-        [
-          7.5818468,
-          47.5638599
-        ],
-        [
-          7.5815996,
-          47.5640918
-        ],
-        [
-          7.5815373,
-          47.5640614
-        ],
-        [
-          7.5815338,
-          47.5640646
-        ],
-        [
-          7.581379,
-          47.5639867
-        ],
-        [
-          7.5808871,
-          47.5636965
-        ],
-        [
-          7.5812576,
-          47.5634118
-        ],
-        [
-          7.5816704,
-          47.5636554
-        ],
-        [
-          7.5819452,
-          47.5634001
-        ],
-        [
-          7.5815884,
-          47.5630896
-        ],
-        [
-          7.5817137,
-          47.5629894
-        ],
-        [
-          7.581915,
-          47.5631081
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/263135458",
   "properties": {
     "addr:city": "Oetwil am See",
@@ -32132,32 +32041,12 @@
           47.5633559
         ],
         [
-          7.5825338,
-          47.5634699
+          7.5826617,
+          47.5633686
         ],
         [
-          7.5822709,
-          47.5636962
-        ],
-        [
-          7.5815266,
-          47.5642726
-        ],
-        [
-          7.5806361,
-          47.5637767
-        ],
-        [
-          7.5809339,
-          47.5635451
-        ],
-        [
-          7.5814301,
-          47.5631903
-        ],
-        [
-          7.5817097,
-          47.5629777
+          7.5816651,
+          47.5625106
         ],
         [
           7.5817844,
@@ -45627,6 +45516,62 @@
         [
           9.2373401,
           47.6293399
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1046465229",
+  "properties": {
+    "addr:city": "Basel",
+    "addr:housename": "33",
+    "addr:postcode": "4056",
+    "addr:street": "Spitalstrasse",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "paediatrics;intensive",
+    "name": "Universitäts-Kinderspital Beider Basel",
+    "phone": "+41617041212",
+    "short_name": "UKBB",
+    "website": "https://www.ukbb.ch/",
+    "wheelchair": "yes",
+    "wikidata": "Q2496240",
+    "id": "way/1046465229"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.5817707,
+          47.5629393
+        ],
+        [
+          7.5821672,
+          47.5632369
+        ],
+        [
+          7.5824912,
+          47.5635212
+        ],
+        [
+          7.5815794,
+          47.564251
+        ],
+        [
+          7.5807322,
+          47.5637485
+        ],
+        [
+          7.5816651,
+          47.5630065
+        ],
+        [
+          7.5817707,
+          47.5629393
         ]
       ]
     ]

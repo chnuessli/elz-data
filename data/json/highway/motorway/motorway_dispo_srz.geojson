@@ -50666,6 +50666,7 @@
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "3",
+    "maxheight": "below_default",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A1;A4",

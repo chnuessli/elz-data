@@ -80608,6 +80608,47 @@
 },
 {
   "type": "Feature",
+  "id": "way/922994894",
+  "properties": {
+    "amenity": "school",
+    "name": "Jüdische Mädchenschule",
+    "operator": "Jüdische Schule Zürich",
+    "id": "way/922994894"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5266573,
+          47.3689944
+        ],
+        [
+          8.5271211,
+          47.3686492
+        ],
+        [
+          8.5276786,
+          47.36901
+        ],
+        [
+          8.5274905,
+          47.3690608
+        ],
+        [
+          8.5267518,
+          47.3691839
+        ],
+        [
+          8.5266573,
+          47.3689944
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/934764648",
   "properties": {
     "amenity": "school",
