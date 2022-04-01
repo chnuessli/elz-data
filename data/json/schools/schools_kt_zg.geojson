@@ -5898,6 +5898,44 @@
 },
 {
   "type": "Feature",
+  "id": "way/1046864458",
+  "properties": {
+    "amenity": "school",
+    "name": "Sennweid Schulhaus Temporär",
+    "operator": "Schulen Baar",
+    "operator:type": "public",
+    "id": "way/1046864458"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5291667,
+          47.1993336
+        ],
+        [
+          8.5291807,
+          47.1992621
+        ],
+        [
+          8.5294752,
+          47.1992835
+        ],
+        [
+          8.5294682,
+          47.1993562
+        ],
+        [
+          8.5291667,
+          47.1993336
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/461033269",
   "properties": {
     "amenity": "school",

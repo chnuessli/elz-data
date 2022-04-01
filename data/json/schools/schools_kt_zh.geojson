@@ -18407,7 +18407,7 @@
     "contact:street": "Apfelbaumstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/apfelbaum.html",
     "description": "Primarschule",
-    "name": "Schule Apfelbaum",
+    "name": "Schul- und Sportanlage Apfelbaum",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Apfelbaum",
     "operator:type": "public",
     "website": "https://www.stadt-zuerich.ch/schulen/de/apfelbaum.html",
@@ -23860,8 +23860,11 @@
     "addr:street": "Mutschellenstrasse",
     "amenity": "school",
     "building": "school",
+    "contact:phone": "+41 44 413 44 00",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/skb/ueberuns/standorte.html",
     "name": "Schule für Körper- und Mehrfachbehinderte",
     "operator": "Stadt Zürich, SSD, Sonderschulen",
+    "operator:type": "public",
     "short_name": "SKB",
     "start_date": "1968",
     "toilets:wheelchair": "yes",
@@ -51864,7 +51867,7 @@
     "contact:street": "Döltschiweg",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/doeltschi.html",
     "description": "Primar- und Sekundarschule",
-    "name": "Schule Döltschi",
+    "name": "Schul- und Sportanlage Döltschi",
     "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit am Uetliberg",
     "operator:type": "public",
     "website": "https://www.stadt-zuerich.ch/schulen/de/doeltschi/ueberuns/standorte/schulhaus.html",
@@ -53703,7 +53706,7 @@
     "contact:street": "Schönauweg",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/buchwiesen.html",
     "description": "Primarschule",
-    "name": "Schule Buchwiesen",
+    "name": "Schul- und Sportanlage Buchwiesen",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Buchwiesen",
     "operator:type": "public",
     "id": "way/251207184"
@@ -55883,20 +55886,20 @@
           47.3460429
         ],
         [
-          8.8430125,
-          47.3461608
+          8.8430117,
+          47.3461833
         ],
         [
-          8.8428492,
-          47.3460419
+          8.8428583,
+          47.3460397
         ],
         [
-          8.8427466,
-          47.3458625
+          8.8427442,
+          47.3458794
         ],
         [
-          8.8426764,
-          47.345834
+          8.8426816,
+          47.345841
         ],
         [
           8.8428906,
@@ -56912,7 +56915,7 @@
   "properties": {
     "addr:city": "Bäretswil",
     "addr:country": "CH",
-    "addr:housenumber": "1",
+    "addr:housenumber": "1b",
     "addr:postcode": "8344",
     "addr:street": "Schulhausstrasse",
     "amenity": "school",
@@ -66975,7 +66978,7 @@
     "contact:postcode": "8046",
     "contact:street": "Lerchenhalde",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/schauenberg/ueberuns/standorte/schulhaus.html",
-    "name": "Schule Schauenberg",
+    "name": "Schul- und Sportanlage Schauenberg",
     "note": "Ersatzneubau der Schulanlage Schauenberg bis Herbst 2019; zur Zeit in die Pavillionschule Ruggächern verlegt",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Schauenberg",
     "operator:type": "public",
