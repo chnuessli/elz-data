@@ -251,6 +251,21 @@
       47.1760618
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9629108292",
+  "properties": {
+    "amenity": "childcare",
+    "id": "node/9629108292"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.517534,
+      47.2019794
+    ]
+  }
 }
 ]
 }

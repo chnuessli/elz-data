@@ -61708,6 +61708,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/9416647332",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "id": "node/9416647332"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8172707,
+      47.3339411
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9419182860",
   "properties": {
     "barrier": "gate",

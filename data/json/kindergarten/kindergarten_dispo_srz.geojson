@@ -4866,6 +4866,48 @@
 },
 {
   "type": "Feature",
+  "id": "way/54362361",
+  "properties": {
+    "amenity": "kindergarten",
+    "building:colour": "brown",
+    "building:levels": "1",
+    "building:use": "education",
+    "name": "Kindergarten Altgasse",
+    "nohousenumber": "yes",
+    "operator": "Schulen Baar",
+    "roof:shape": "flat",
+    "id": "way/54362361"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5185891,
+          47.1917638
+        ],
+        [
+          8.5186558,
+          47.1916835
+        ],
+        [
+          8.5188684,
+          47.1917651
+        ],
+        [
+          8.5188017,
+          47.1918453
+        ],
+        [
+          8.5185891,
+          47.1917638
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/55796221",
   "properties": {
     "addr:city": "Zürich",
@@ -38865,6 +38907,23 @@
     "coordinates": [
       8.4931714,
       47.3867676
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9628314956",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Landhauspark",
+    "operator": "Schulen Baar",
+    "id": "node/9628314956"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5185463,
+      47.190539
     ]
   }
 }
