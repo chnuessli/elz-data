@@ -36570,6 +36570,9 @@
   "id": "node/3688670654",
   "properties": {
     "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "motor_vehicle": "private",
     "id": "node/3688670654"
   },
   "geometry": {
