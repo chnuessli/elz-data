@@ -889,6 +889,71 @@
 },
 {
   "type": "Feature",
+  "id": "way/25904460",
+  "properties": {
+    "addr:city": "Oetwil am See",
+    "addr:housenumber": "17a",
+    "addr:postcode": "8618",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "kindergarten",
+    "building": "school",
+    "name": "Kindergarten Breiti 1",
+    "id": "way/25904460"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7243597,
+          47.2717931
+        ],
+        [
+          8.724168,
+          47.2717121
+        ],
+        [
+          8.7242213,
+          47.2716536
+        ],
+        [
+          8.7242472,
+          47.271665
+        ],
+        [
+          8.7242739,
+          47.2716761
+        ],
+        [
+          8.724319,
+          47.2716301
+        ],
+        [
+          8.7244547,
+          47.2716874
+        ],
+        [
+          8.7244219,
+          47.271737
+        ],
+        [
+          8.7243931,
+          47.271769
+        ],
+        [
+          8.7243856,
+          47.2717661
+        ],
+        [
+          8.7243597,
+          47.2717931
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/30349421",
   "properties": {
     "addr:city": "Meilen",
@@ -28532,6 +28597,132 @@
 },
 {
   "type": "Feature",
+  "id": "way/1047709448",
+  "properties": {
+    "addr:city": "Oetwil am See",
+    "addr:housenumber": "17",
+    "addr:postcode": "8618",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "kindergarten",
+    "building": "school",
+    "name": "Kindergarten Breiti 3",
+    "id": "way/1047709448"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7238593,
+          47.2716552
+        ],
+        [
+          8.7237895,
+          47.2717273
+        ],
+        [
+          8.7237562,
+          47.2717623
+        ],
+        [
+          8.7235544,
+          47.2717098
+        ],
+        [
+          8.7235927,
+          47.2716445
+        ],
+        [
+          8.723704,
+          47.2716731
+        ],
+        [
+          8.7237442,
+          47.2716147
+        ],
+        [
+          8.7238028,
+          47.2716301
+        ],
+        [
+          8.7238656,
+          47.2716463
+        ],
+        [
+          8.7238593,
+          47.2716552
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1047709449",
+  "properties": {
+    "addr:city": "Oetwil am See",
+    "addr:housenumber": "17b",
+    "addr:postcode": "8618",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "kindergarten",
+    "building": "school",
+    "name": "Kindergarten Breiti 2",
+    "id": "way/1047709449"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7245856,
+          47.2718282
+        ],
+        [
+          8.7244844,
+          47.2717845
+        ],
+        [
+          8.7244988,
+          47.2717682
+        ],
+        [
+          8.7244219,
+          47.271737
+        ],
+        [
+          8.7244547,
+          47.2716874
+        ],
+        [
+          8.7244813,
+          47.2716605
+        ],
+        [
+          8.7245654,
+          47.2716992
+        ],
+        [
+          8.7245848,
+          47.2717074
+        ],
+        [
+          8.724619,
+          47.2716718
+        ],
+        [
+          8.7247039,
+          47.2717064
+        ],
+        [
+          8.7245856,
+          47.2718282
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",
@@ -36751,66 +36942,6 @@
     "coordinates": [
       8.4303921,
       47.2866714
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8926283402",
-  "properties": {
-    "addr:city": "Oetwil am See",
-    "addr:housenumber": "17b",
-    "addr:postcode": "8618",
-    "addr:street": "Schulhausstrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Breiti 2",
-    "id": "node/8926283402"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7245574,
-      47.2717573
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8926283403",
-  "properties": {
-    "addr:city": "Oetwil am See",
-    "addr:housenumber": "17a",
-    "addr:postcode": "8618",
-    "addr:street": "Schulhausstrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Breiti 1",
-    "id": "node/8926283403"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7243606,
-      47.2717138
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8926287099",
-  "properties": {
-    "addr:city": "Oetwil am See",
-    "addr:housenumber": "17",
-    "addr:postcode": "8618",
-    "addr:street": "Schulhausstrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Breiti 3",
-    "id": "node/8926287099"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7237513,
-      47.271695
     ]
   }
 },
