@@ -903,6 +903,348 @@
 },
 {
   "type": "Feature",
+  "id": "way/14109709",
+  "properties": {
+    "addr:housenumber": "2b",
+    "addr:street": "Adlerstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "building:colour": "linen",
+    "building:levels": "3",
+    "building:material": "plaster",
+    "building:roof": "tile",
+    "contact:email": "adlergarten.tageszentrum@win.ch",
+    "contact:phone": "+41 52 267 47 67",
+    "contact:website": "https://stadt.winterthur.ch/themen/leben-in-winterthur/alter-gesundheit-und-soziales/wohnen-im-alter/alterszentren/alterszentrum_adlergarten/tageszentrum-adlergarten",
+    "height": "11",
+    "name": "Tageszentrum Adlergarten",
+    "roof:colour": "darkgrey",
+    "roof:height": "3",
+    "roof:levels": "1",
+    "roof:material": "roof_tiles",
+    "roof:orientation": "along",
+    "roof:shape": "hipped",
+    "social_facility": "assisted_living",
+    "id": "way/14109709"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7365148,
+          47.4964696
+        ],
+        [
+          8.7365196,
+          47.4964275
+        ],
+        [
+          8.7365936,
+          47.4964298
+        ],
+        [
+          8.7365936,
+          47.4964147
+        ],
+        [
+          8.7366151,
+          47.4964026
+        ],
+        [
+          8.7366435,
+          47.4964038
+        ],
+        [
+          8.7366608,
+          47.4964173
+        ],
+        [
+          8.7366603,
+          47.4964311
+        ],
+        [
+          8.7367851,
+          47.4964368
+        ],
+        [
+          8.7367862,
+          47.4964235
+        ],
+        [
+          8.736809,
+          47.4964124
+        ],
+        [
+          8.7368377,
+          47.4964132
+        ],
+        [
+          8.7368542,
+          47.4964269
+        ],
+        [
+          8.7368536,
+          47.4964426
+        ],
+        [
+          8.7369253,
+          47.4964457
+        ],
+        [
+          8.7369149,
+          47.4965522
+        ],
+        [
+          8.7368108,
+          47.4965477
+        ],
+        [
+          8.7368107,
+          47.4965495
+        ],
+        [
+          8.7366113,
+          47.4965405
+        ],
+        [
+          8.7366115,
+          47.4965376
+        ],
+        [
+          8.7365077,
+          47.4965327
+        ],
+        [
+          8.736513,
+          47.4964892
+        ],
+        [
+          8.7365148,
+          47.4964696
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/14109711",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "1",
+    "addr:postcode": "8402",
+    "addr:street": "Gärtnerstrasse",
+    "alt_name": "Altersheim",
+    "amenity": "social_facility",
+    "building": "yes",
+    "building:roof": "flat",
+    "name": "Alterszentrum Adlergarten",
+    "social_facility": "assisted_living",
+    "id": "way/14109711"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7365319,
+          47.4975923
+        ],
+        [
+          8.7365335,
+          47.4974932
+        ],
+        [
+          8.7363883,
+          47.4974922
+        ],
+        [
+          8.7363919,
+          47.4972692
+        ],
+        [
+          8.7365905,
+          47.4972708
+        ],
+        [
+          8.7367189,
+          47.4972715
+        ],
+        [
+          8.7367182,
+          47.4973408
+        ],
+        [
+          8.736716,
+          47.4974689
+        ],
+        [
+          8.7367685,
+          47.4974692
+        ],
+        [
+          8.7367691,
+          47.4974342
+        ],
+        [
+          8.7370106,
+          47.497436
+        ],
+        [
+          8.7370101,
+          47.4974665
+        ],
+        [
+          8.7372135,
+          47.497468
+        ],
+        [
+          8.7373606,
+          47.497469
+        ],
+        [
+          8.7373612,
+          47.4974354
+        ],
+        [
+          8.7375318,
+          47.4974366
+        ],
+        [
+          8.7375313,
+          47.4974697
+        ],
+        [
+          8.7375449,
+          47.4974698
+        ],
+        [
+          8.7375444,
+          47.497501
+        ],
+        [
+          8.7375593,
+          47.4975011
+        ],
+        [
+          8.7375588,
+          47.4975337
+        ],
+        [
+          8.737573,
+          47.4975338
+        ],
+        [
+          8.7375725,
+          47.4975673
+        ],
+        [
+          8.7375879,
+          47.4975674
+        ],
+        [
+          8.7375874,
+          47.4976029
+        ],
+        [
+          8.7375573,
+          47.4976027
+        ],
+        [
+          8.7375566,
+          47.4976448
+        ],
+        [
+          8.7374524,
+          47.4976441
+        ],
+        [
+          8.7374521,
+          47.4976623
+        ],
+        [
+          8.7372819,
+          47.4976611
+        ],
+        [
+          8.7372817,
+          47.4976746
+        ],
+        [
+          8.7372138,
+          47.4976741
+        ],
+        [
+          8.7372137,
+          47.4976829
+        ],
+        [
+          8.7371156,
+          47.4976821
+        ],
+        [
+          8.7371157,
+          47.4976796
+        ],
+        [
+          8.7370678,
+          47.4976792
+        ],
+        [
+          8.7370676,
+          47.4976876
+        ],
+        [
+          8.7367983,
+          47.4976856
+        ],
+        [
+          8.7367978,
+          47.4977175
+        ],
+        [
+          8.7367145,
+          47.4977169
+        ],
+        [
+          8.7367143,
+          47.49773
+        ],
+        [
+          8.7366431,
+          47.4977294
+        ],
+        [
+          8.7366433,
+          47.4977165
+        ],
+        [
+          8.736538,
+          47.4977158
+        ],
+        [
+          8.7365379,
+          47.497718
+        ],
+        [
+          8.7360981,
+          47.4977148
+        ],
+        [
+          8.7361001,
+          47.4975892
+        ],
+        [
+          8.7365319,
+          47.4975923
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/22458067",
   "properties": {
     "addr:city": "Winterthur",
@@ -32042,12 +32384,14 @@
   "type": "Feature",
   "id": "way/406012750",
   "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "1",
-    "addr:postcode": "8400",
-    "addr:street": "Gärtnerstrasse",
     "amenity": "social_facility",
-    "name": "Alterszentrum Adlergarten",
+    "contact:city": "Winterthur",
+    "contact:housenumber": "1",
+    "contact:phone": "+41 52 267 42 42",
+    "contact:postcode": "8400",
+    "contact:street": "Gärtnerstrasse",
+    "contact:website": "https://stadt.winterthur.ch/themen/leben-in-winterthur/alter-gesundheit-und-soziales/wohnen-im-alter/alterszentren/alterszentrum_adlergarten",
+    "name": "Alters- und Tageszentrum Adlergarten",
     "operator": "Stadt Winterthur",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
@@ -32082,24 +32426,24 @@
           47.4964925
         ],
         [
-          8.7359218,
-          47.4966506
+          8.7359298,
+          47.4963898
         ],
         [
-          8.7361577,
-          47.4966641
+          8.7361003,
+          47.4963001
         ],
         [
-          8.7362729,
-          47.4966702
+          8.7370485,
+          47.4963333
         ],
         [
-          8.7369636,
-          47.4967052
+          8.7370067,
+          47.4967176
         ],
         [
-          8.7372494,
-          47.4967309
+          8.737364,
+          47.496778
         ],
         [
           8.7378842,

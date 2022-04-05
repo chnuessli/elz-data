@@ -6312,153 +6312,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/676977259",
-  "properties": {
-    "amenity": "clinic",
-    "emergency": "no",
-    "healthcare": "rehabilitation",
-    "name": "Zürcher RehaZentren | Klinik Wald",
-    "opening_hours": "Mo-Su 08:00-20:00",
-    "phone": "+41 55 256 61 11",
-    "website": "https://zhreha.ch/klinik/klinik-wald/",
-    "wikidata": "Q61857547",
-    "wikipedia": "de:Höhenklinik Wald",
-    "id": "way/676977259"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.94337,
-          47.2772182
-        ],
-        [
-          8.943429,
-          47.2769926
-        ],
-        [
-          8.9433566,
-          47.2768197
-        ],
-        [
-          8.9432466,
-          47.2764739
-        ],
-        [
-          8.9432439,
-          47.2764066
-        ],
-        [
-          8.9428439,
-          47.2764022
-        ],
-        [
-          8.9427477,
-          47.2762365
-        ],
-        [
-          8.942792,
-          47.2762019
-        ],
-        [
-          8.9428416,
-          47.2761737
-        ],
-        [
-          8.9436717,
-          47.2761764
-        ],
-        [
-          8.9436731,
-          47.27608
-        ],
-        [
-          8.9437334,
-          47.276079
-        ],
-        [
-          8.9438642,
-          47.2760922
-        ],
-        [
-          8.9439674,
-          47.2761236
-        ],
-        [
-          8.944005,
-          47.2761332
-        ],
-        [
-          8.9441468,
-          47.2761352
-        ],
-        [
-          8.944214,
-          47.2761576
-        ],
-        [
-          8.9443047,
-          47.2761921
-        ],
-        [
-          8.9443235,
-          47.2761989
-        ],
-        [
-          8.9443208,
-          47.2762642
-        ],
-        [
-          8.9441817,
-          47.2762644
-        ],
-        [
-          8.9441089,
-          47.276428
-        ],
-        [
-          8.9440228,
-          47.276415
-        ],
-        [
-          8.9440211,
-          47.2764032
-        ],
-        [
-          8.9436033,
-          47.2763975
-        ],
-        [
-          8.9435939,
-          47.2766341
-        ],
-        [
-          8.943775,
-          47.2766386
-        ],
-        [
-          8.9437696,
-          47.2768151
-        ],
-        [
-          8.9439145,
-          47.277029
-        ],
-        [
-          8.943665,
-          47.2772637
-        ],
-        [
-          8.94337,
-          47.2772182
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/692245776",
   "properties": {
     "addr:city": "Zürich",
@@ -7068,7 +6921,7 @@
     "amenity": "clinic",
     "email": "kilchberg@zurzachcare.ch",
     "healthcare": "rehabilitation",
-    "name": "RehaClinic Kilchberg - Zurzach Care",
+    "name": "ZURZACH Care - Rehaklinik Kilchberg",
     "operator": "ZURZACH Care AG",
     "phone": "+41 44 716 70 00",
     "website": "https://www.zurzachcare.ch/kilchberg",
@@ -7511,30 +7364,6 @@
     "coordinates": [
       8.5341592,
       47.3817175
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6649954360",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "60",
-    "addr:postcode": "8008",
-    "addr:street": "Bleulerstrasse",
-    "amenity": "clinic",
-    "healthcare": "rehabilitation",
-    "name": "Zürcher RehaZentrum Lengg",
-    "operator": "Klinik Lengg AG;Stiftung Zürcher RehaZentren",
-    "short_name": "Klinik Lengg",
-    "website": "https://www.kliniklengg.ch/",
-    "id": "node/6649954360"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5698255,
-      47.3486807
     ]
   }
 },

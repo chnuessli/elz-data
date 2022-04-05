@@ -103659,6 +103659,26 @@
       47.3889905
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9635640296",
+  "properties": {
+    "addr:housenumber": "125",
+    "addr:street": "Sihlquai",
+    "amenity": "school",
+    "description": "Diese Schule ist ein Projekt gegen Rassismus und Ungerechtigkeit. Sie ist ein Treffpunkt, wo man andere Menschen kennen lernen kann.",
+    "name": "Autonome Schule Zürich",
+    "website": "https://www.bildung-fuer-alle.ch",
+    "id": "node/9635640296"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5339166,
+      47.3846417
+    ]
+  }
 }
 ]
 }
