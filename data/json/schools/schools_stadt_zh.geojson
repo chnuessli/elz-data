@@ -2593,6 +2593,92 @@
 },
 {
   "type": "Feature",
+  "id": "way/33855946",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "72",
+    "addr:postcode": "8044",
+    "addr:street": "Toblerstrasse",
+    "amenity": "school",
+    "building": "yes",
+    "contact:email": "info@sptzh.ch",
+    "contact:phone": "+41 44 261 09 19",
+    "contact:website": "https://www.sptzh.ch/home.html",
+    "name": "Sonderpädagogische Tagesschule Toblerstrasse",
+    "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
+    "id": "way/33855946"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5592276,
+          47.3790885
+        ],
+        [
+          8.5591075,
+          47.3791556
+        ],
+        [
+          8.5590742,
+          47.3791278
+        ],
+        [
+          8.5590571,
+          47.3791372
+        ],
+        [
+          8.5590324,
+          47.3791159
+        ],
+        [
+          8.5590494,
+          47.379107
+        ],
+        [
+          8.5590099,
+          47.3790732
+        ],
+        [
+          8.5590151,
+          47.379071
+        ],
+        [
+          8.5590173,
+          47.3790555
+        ],
+        [
+          8.5590395,
+          47.3790441
+        ],
+        [
+          8.5590621,
+          47.3790453
+        ],
+        [
+          8.5591451,
+          47.378999
+        ],
+        [
+          8.5591893,
+          47.3790351
+        ],
+        [
+          8.5591734,
+          47.3790435
+        ],
+        [
+          8.5592276,
+          47.3790885
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/34620696",
   "properties": {
     "amenity": "school",
@@ -19675,15 +19761,17 @@
   "type": "Feature",
   "id": "node/9128635696",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "563",
-    "addr:postcode": "8051",
-    "addr:street": "Winterthurerstrasse",
     "amenity": "school",
-    "email": "schule-zuerich@stiftung-rgz.ch",
-    "name": "Heilpädagogische Schule Zürich RgZ",
-    "phone": "+41 58 307 18 11",
-    "website": "https://www.stiftung-rgz.ch/ueber-die-stiftung/kontakt/",
+    "contact:city": "Zürich",
+    "contact:email": "schule-zuerich@stiftung-rgz.ch",
+    "contact:housenumber": "563",
+    "contact:phone": "+41 58 307 18 11",
+    "contact:postcode": "8051",
+    "contact:street": "Winterthurerstrasse",
+    "contact:website": "https://www.stiftung-rgz.ch/home/",
+    "name": "RgZ Heilpädagogische Schule Zürich",
+    "operator": "Stiftung RgZ Heilpädagogische Schule Zürich",
+    "operator:type": "private",
     "id": "node/9128635696"
   },
   "geometry": {
@@ -19923,6 +20011,145 @@
     "coordinates": [
       8.5339166,
       47.3846417
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9642310076",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "8",
+    "addr:postcode": "8055",
+    "addr:street": "Gutstrasse",
+    "amenity": "school",
+    "name": "FSV Schulhaus Gutstrasse",
+    "phone": "+41 44 413 43 30",
+    "website": "https://www.stadt-zuerich.ch/ssd/de/index/jugend-_und_erwachsenenbildung/ueber_die_viventa/unsere_schulhaeuser/schulhausgutstrasse.html",
+    "id": "node/9642310076"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5094441,
+      47.370554
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9642420335",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@stf.ch",
+    "contact:housenumber": "71",
+    "contact:phone": "+41 44 360 41 51",
+    "contact:postcode": "8004",
+    "contact:street": "Hallwylstrasse",
+    "contact:website": "https://www.stf.ch/kontakt/",
+    "name": "STF Schweizerische Textilfachschule",
+    "operator:type": "public",
+    "id": "node/9642420335"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5274702,
+      47.370109
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9642445064",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@sek3.ch",
+    "contact:housenumber": "28",
+    "contact:phone": "+41 44 481 85 01",
+    "contact:postcode": "8038",
+    "contact:street": "Kilchbergstrasse",
+    "contact:website": "https://www.sek3.ch/kontakt/",
+    "name": "SEK3 – Oberstufe für Gehörlose und Schwerhörige",
+    "id": "node/9642445064"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5338799,
+      47.3413953
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9642493372",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "m.chiappori@pulsplus.ch",
+    "contact:housenumber": "18",
+    "contact:phone": "+41 43 288 50 33",
+    "contact:postcode": "8051",
+    "contact:street": "Tulpentrasse",
+    "contact:website": "https://stiftung-enzian.ch/sonderschule/",
+    "name": "Sonderschule Puls+ Abteilung Tulpenstrasse",
+    "id": "node/9642493372"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5654368,
+      47.4049562
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9642593595",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info.intermezzo@zkj.ch",
+    "contact:housenumber": "71",
+    "contact:phone": "+ 41 44 305 80 30",
+    "contact:postcode": "8050",
+    "contact:street": "Leutschenbachstrasse",
+    "contact:website": "https://www.intermezzo.tagessonderschule.ch/kontakt/adresse",
+    "name": "Tagessonderschule Intermezzo",
+    "operator:type": "private",
+    "id": "node/9642593595"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5567774,
+      47.4180314
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9642595626",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "esther.zehnder@stiftungmac.ch",
+    "contact:housenumber": "5",
+    "contact:phone": "+41 44 360 38 38",
+    "contact:postcode": "8006",
+    "contact:street": "Ottikerstrasse",
+    "contact:website": "https://stiftungmac.ch/",
+    "name": "Stiftung m.a.c. – Sonderpädagogische Schule",
+    "id": "node/9642595626"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5419658,
+      47.3854719
     ]
   }
 }
