@@ -13004,6 +13004,10 @@
   "type": "Feature",
   "id": "way/34288363",
   "properties": {
+    "addr:city": "Höri",
+    "addr:housenumber": "15",
+    "addr:postcode": "8181",
+    "addr:street": "Schulhausstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus Niederhöri",
@@ -13016,59 +13020,95 @@
       [
         [
           8.504302,
-          47.5085857
+          47.5086105
         ],
         [
-          8.5044835,
-          47.5085462
+          8.504334,
+          47.5086014
         ],
         [
-          8.5045733,
-          47.5087348
+          8.5043279,
+          47.50859
         ],
         [
-          8.5046573,
-          47.5087176
+          8.5043426,
+          47.508586
         ],
         [
-          8.5047744,
-          47.5086451
+          8.5043378,
+          47.5085783
         ],
         [
-          8.504954,
-          47.5087901
+          8.5043587,
+          47.5085726
         ],
         [
-          8.5048115,
-          47.5088561
+          8.5043637,
+          47.5085807
         ],
         [
-          8.5047822,
-          47.5088284
+          8.5044633,
+          47.5085542
         ],
         [
-          8.5047197,
-          47.5088587
+          8.5044709,
+          47.5085653
         ],
         [
-          8.5046495,
-          47.5087967
+          8.5044974,
+          47.5085583
         ],
         [
-          8.5044015,
-          47.508864
+          8.5046923,
+          47.5087328
         ],
         [
-          8.5043547,
-          47.5087915
+          8.5048011,
+          47.5086755
         ],
         [
-          8.5044074,
-          47.5087783
+          8.5049483,
+          47.5088041
+        ],
+        [
+          8.5048385,
+          47.5088619
+        ],
+        [
+          8.5048065,
+          47.5088353
+        ],
+        [
+          8.5047653,
+          47.5088565
+        ],
+        [
+          8.5046994,
+          47.5088007
+        ],
+        [
+          8.5044161,
+          47.5088764
+        ],
+        [
+          8.5043404,
+          47.5087448
+        ],
+        [
+          8.5043526,
+          47.508742
+        ],
+        [
+          8.5043136,
+          47.5086408
+        ],
+        [
+          8.5043188,
+          47.5086399
         ],
         [
           8.504302,
-          47.5085857
+          47.5086105
         ]
       ]
     ]
@@ -18926,6 +18966,79 @@
 },
 {
   "type": "Feature",
+  "id": "way/42881476",
+  "properties": {
+    "addr:city": "Bülach",
+    "addr:housenumber": "5",
+    "addr:postcode": "8180",
+    "addr:street": "Rischbergstrasse",
+    "amenity": "school",
+    "building": "yes",
+    "contact:email": "info.heimgarten@zkj.ch",
+    "contact:phone": "+41 44 872 30 60",
+    "contact:website": "https://www.heimgarten.ch/",
+    "name": "Heimgarten Schulinternat",
+    "source": "Yahoo aerial images",
+    "id": "way/42881476"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5393175,
+          47.5496392
+        ],
+        [
+          8.5394978,
+          47.549575
+        ],
+        [
+          8.5395162,
+          47.5495973
+        ],
+        [
+          8.5398106,
+          47.5494932
+        ],
+        [
+          8.5399004,
+          47.5496108
+        ],
+        [
+          8.5398494,
+          47.5496292
+        ],
+        [
+          8.5398519,
+          47.5496326
+        ],
+        [
+          8.5398387,
+          47.5496369
+        ],
+        [
+          8.5398364,
+          47.5496337
+        ],
+        [
+          8.5396067,
+          47.5497153
+        ],
+        [
+          8.5394266,
+          47.5497796
+        ],
+        [
+          8.5393175,
+          47.5496392
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/43303760",
   "properties": {
     "amenity": "school",
@@ -20690,6 +20803,102 @@
         [
           8.4902178,
           47.5956695
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/52348496",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "86",
+    "addr:postcode": "8064",
+    "addr:street": "Bändlistrasse",
+    "amenity": "school",
+    "building": "yes",
+    "contact:email": "info.vertigo@zkj.ch",
+    "contact:phone": "+41 44 435 10 60",
+    "contact:website": "https://www.igo.ch/",
+    "name": "Vertigo Schule und Ausbildung",
+    "id": "way/52348496"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4825318,
+          47.3987456
+        ],
+        [
+          8.4825304,
+          47.3987439
+        ],
+        [
+          8.4825973,
+          47.3987244
+        ],
+        [
+          8.482583,
+          47.3987022
+        ],
+        [
+          8.4826507,
+          47.3986819
+        ],
+        [
+          8.4826654,
+          47.3987043
+        ],
+        [
+          8.4827247,
+          47.3986869
+        ],
+        [
+          8.4827852,
+          47.3987802
+        ],
+        [
+          8.4827808,
+          47.3987819
+        ],
+        [
+          8.4827778,
+          47.3987781
+        ],
+        [
+          8.4827723,
+          47.3987796
+        ],
+        [
+          8.4827702,
+          47.3987762
+        ],
+        [
+          8.4825882,
+          47.3988306
+        ],
+        [
+          8.4825937,
+          47.3988394
+        ],
+        [
+          8.4825551,
+          47.3988503
+        ],
+        [
+          8.4825144,
+          47.3987874
+        ],
+        [
+          8.4825517,
+          47.3987763
+        ],
+        [
+          8.4825318,
+          47.3987456
         ]
       ]
     ]
@@ -57953,6 +58162,68 @@
 },
 {
   "type": "Feature",
+  "id": "way/224275083",
+  "properties": {
+    "addr:housenumber": "80",
+    "addr:street": "Ausstellungsstrasse",
+    "alt_name": "Zentrale Aufnahmeprüfung",
+    "amenity": "school",
+    "building": "yes",
+    "contact:phone": "+41 43 259 77 00",
+    "contact:website": "https://www.zh.ch/de/bildungsdirektion/mittelschul-berufsbildungsamt.html",
+    "name": "Mittelschul- und Berufsbildung",
+    "id": "way/224275083"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5348063,
+          47.3838929
+        ],
+        [
+          8.5346431,
+          47.383792
+        ],
+        [
+          8.53445,
+          47.38367
+        ],
+        [
+          8.5347111,
+          47.3834765
+        ],
+        [
+          8.5348299,
+          47.3835508
+        ],
+        [
+          8.5346907,
+          47.3836536
+        ],
+        [
+          8.5348102,
+          47.3837284
+        ],
+        [
+          8.5349492,
+          47.3836244
+        ],
+        [
+          8.5350665,
+          47.383698
+        ],
+        [
+          8.5348063,
+          47.3838929
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/224320922",
   "properties": {
     "amenity": "school",
@@ -64979,6 +65250,67 @@
 },
 {
   "type": "Feature",
+  "id": "way/253619741",
+  "properties": {
+    "addr:city": "Bubikon",
+    "addr:country": "CH",
+    "addr:housenumber": "14",
+    "addr:postcode": "8608",
+    "addr:street": "Friedheimstrasse",
+    "amenity": "school",
+    "building": "school",
+    "contact:email": "info@friedheim.ch",
+    "contact:phone": "+41 55 253 60 20",
+    "contact:website": "https://friedheim.ch/home.html",
+    "name": "Schule Friedheim",
+    "id": "way/253619741"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8243619,
+          47.2770392
+        ],
+        [
+          8.8245909,
+          47.2771655
+        ],
+        [
+          8.8245057,
+          47.2772377
+        ],
+        [
+          8.8244269,
+          47.2771943
+        ],
+        [
+          8.8244079,
+          47.2772102
+        ],
+        [
+          8.8243435,
+          47.2771748
+        ],
+        [
+          8.8243619,
+          47.2771591
+        ],
+        [
+          8.8242753,
+          47.2771114
+        ],
+        [
+          8.8243619,
+          47.2770392
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/253689358",
   "properties": {
     "amenity": "school",
@@ -66854,10 +67186,16 @@
   "id": "way/264984662",
   "properties": {
     "amenity": "school",
-    "name": "Heilpädagogische Institut St. Michael",
+    "contact:city": "Adetswil",
+    "contact:email": "a.schmid@institut-st-michael.ch",
+    "contact:housenumber": "32",
+    "contact:phone": "+41 44 939 99 44",
+    "contact:postcode": "8345",
+    "contact:street": "Erholungshausstrasse",
+    "contact:website": "https://www.institut-st-michael.ch/",
+    "name": "Vereinigung Heilpädagogisches Institut St. Michael",
     "social_facility": "assisted_living",
     "social_facility:for": "juvenile",
-    "website": "http://institut-st-michael.ch",
     "id": "way/264984662"
   },
   "geometry": {
@@ -94835,12 +95173,12 @@
           47.3597294
         ],
         [
-          8.5139955,
-          47.3597539
+          8.5140114,
+          47.3596868
         ],
         [
-          8.5149369,
-          47.3597239
+          8.5149316,
+          47.3596688
         ],
         [
           8.5149426,
@@ -103931,6 +104269,74 @@
     "coordinates": [
       8.5419658,
       47.3854719
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9645467645",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Affoltern am Albis",
+    "contact:email": "sekretariat@hps-bezirk-affoltern.ch",
+    "contact:housenumber": "2",
+    "contact:phone": "+41 43 333 98 40",
+    "contact:postcode": "8910",
+    "contact:street": "Butzenstrasse",
+    "contact:website": "https://www.schulzweckverband.ch/hps/",
+    "name": "Heilpädagogische Schule Affoltern",
+    "id": "node/9645467645"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4575288,
+      47.2791311
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9645481227",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Affoltern am Albis",
+    "contact:housenumber": "11",
+    "contact:phone": "+41 44 761 15 21",
+    "contact:postcode": "8910",
+    "contact:street": "Lagerstrasse",
+    "contact:website": "https://www.taegerst.ch/kontakt/",
+    "name": "Stiftung Schule Tägerst",
+    "id": "node/9645481227"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4403855,
+      47.2756699
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9645567516",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Höri",
+    "contact:email": "rmosser-waller@pestalozzihaus.ch",
+    "contact:housenumber": "15",
+    "contact:phone": "+41 44 860 23 73",
+    "contact:postcode": "8181",
+    "contact:street": "Schulhausstrasse",
+    "contact:website": "https://pestalozzihaus.ch/angebot/schulen/tagesschule-hoeri/",
+    "name": "Pestalozzi Tagesschule Höri",
+    "id": "node/9645567516"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5048269,
+      47.5088037
     ]
   }
 }
