@@ -19505,6 +19505,10 @@
   "type": "Feature",
   "id": "way/194007464",
   "properties": {
+    "addr:city": "Dielsdorf",
+    "addr:housenumber": "12b",
+    "addr:postcode": "8157",
+    "addr:street": "Spitalstrasse",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Stiftung Vivendra",

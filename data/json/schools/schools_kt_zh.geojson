@@ -10250,6 +10250,128 @@
 },
 {
   "type": "Feature",
+  "id": "way/32656158",
+  "properties": {
+    "addr:city": "Neeracch",
+    "addr:housenumber": "4",
+    "addr:postcode": "8173",
+    "addr:street": "Oberholzstrasse",
+    "amenity": "school",
+    "building": "yes",
+    "name": "Schulpavillon",
+    "id": "way/32656158"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4706489,
+          47.5130922
+        ],
+        [
+          8.4706825,
+          47.513018
+        ],
+        [
+          8.4710029,
+          47.5130855
+        ],
+        [
+          8.4709679,
+          47.5131607
+        ],
+        [
+          8.4708591,
+          47.5131373
+        ],
+        [
+          8.4708521,
+          47.5131517
+        ],
+        [
+          8.4708049,
+          47.5131413
+        ],
+        [
+          8.4708114,
+          47.5131275
+        ],
+        [
+          8.4706489,
+          47.5130922
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/32656159",
+  "properties": {
+    "addr:city": "Neeracch",
+    "addr:housenumber": "18",
+    "addr:postcode": "8173",
+    "addr:street": "Steinmaurstrasse",
+    "amenity": "school",
+    "building": "yes",
+    "name": "Primarschulhaus",
+    "id": "way/32656159"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4713018,
+          47.5128082
+        ],
+        [
+          8.471359,
+          47.5127119
+        ],
+        [
+          8.4714781,
+          47.5127442
+        ],
+        [
+          8.4714679,
+          47.5127614
+        ],
+        [
+          8.4715533,
+          47.5127845
+        ],
+        [
+          8.4715353,
+          47.5128148
+        ],
+        [
+          8.471548,
+          47.5128182
+        ],
+        [
+          8.4715288,
+          47.5128504
+        ],
+        [
+          8.4714305,
+          47.5128237
+        ],
+        [
+          8.4714206,
+          47.5128404
+        ],
+        [
+          8.4713018,
+          47.5128082
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/32722193",
   "properties": {
     "addr:city": "Egg",
@@ -29647,9 +29769,14 @@
   "id": "way/122710063",
   "properties": {
     "amenity": "school",
-    "name": "Kantonsschule Zürcher Oberland",
-    "school:de": "Gymnasium",
-    "website": "http://www.kzo.ch",
+    "contact:city": "Wetzikon",
+    "contact:email": "info@kzo.ch",
+    "contact:housenumber": "36",
+    "contact:phone": "+41 44 933 08 11",
+    "contact:postcode": "8620",
+    "contact:street": "Bühlstrasse",
+    "contact:website": "https://www.kzo.ch/shortcuts/kontakt",
+    "name": "KZO Kantonsschule Zürcher Oberland",
     "wikidata": "Q16266359",
     "wikipedia": "de:Kantonsschule Zürcher Oberland",
     "id": "way/122710063"
@@ -35255,6 +35382,56 @@
         [
           8.8014053,
           47.5017192
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/148799183",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "12",
+    "addr:postcode": "8953",
+    "addr:street": "Schöneggstrasse",
+    "amenity": "school",
+    "building": "school",
+    "contact:email": "sekretariat@bzlt.ch",
+    "contact:phone": "+41 44 745 84 84",
+    "contact:website": "https://bzlt.ch/kontakt/adresse",
+    "name": "BZLT Berufsbildungszentrum Limmattal",
+    "operator": "Kanton Zürich",
+    "operator:type": "public",
+    "id": "way/148799183"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4019704,
+          47.4016311
+        ],
+        [
+          8.4024884,
+          47.4014728
+        ],
+        [
+          8.4027211,
+          47.4018241
+        ],
+        [
+          8.4024943,
+          47.401894
+        ],
+        [
+          8.4022043,
+          47.4019823
+        ],
+        [
+          8.4019704,
+          47.4016311
         ]
       ]
     ]
@@ -42314,6 +42491,53 @@
 },
 {
   "type": "Feature",
+  "id": "way/183193213",
+  "properties": {
+    "addr:city": "Dielsdorf",
+    "addr:housenumber": "2",
+    "addr:postcode": "8157",
+    "addr:street": "Rudolf-Maag-Strasse",
+    "amenity": "school",
+    "building": "school",
+    "contact:email": "schulleitung@kgs.dielsdorf.ch",
+    "contact:phone": "+41 44 853 43 30",
+    "contact:website": "https://kgs-dielsdorf.ch/",
+    "isced:level": "2",
+    "name": "KGS Schule in Kleingruppen",
+    "operator": "Sekundarschule Dielsdorf-Regensberg-Steinmaur",
+    "operator:type": "public",
+    "id": "way/183193213"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4600723,
+          47.4829714
+        ],
+        [
+          8.4601063,
+          47.4828115
+        ],
+        [
+          8.4602578,
+          47.4828262
+        ],
+        [
+          8.4602238,
+          47.4829861
+        ],
+        [
+          8.4600723,
+          47.4829714
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/183350406",
   "properties": {
     "addr:city": "Dielsdorf",
@@ -42389,6 +42613,51 @@
         [
           8.458941,
           47.4780207
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/183350432",
+  "properties": {
+    "addr:city": "Dielsdorf",
+    "addr:housenumber": "10",
+    "addr:postcode": "8157",
+    "addr:street": "Brüelstrasse",
+    "amenity": "school",
+    "building": "school",
+    "contact:email": "st@gs-erlen.ch",
+    "contact:phone": "+41 44 853 43 23",
+    "contact:website": "https://gs-erlen.ch/",
+    "isced:level": "1",
+    "name": "Gesamtschule Erlen",
+    "id": "way/183350432"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4676352,
+          47.4812402
+        ],
+        [
+          8.4678717,
+          47.4812919
+        ],
+        [
+          8.4677977,
+          47.4814494
+        ],
+        [
+          8.4675608,
+          47.4813986
+        ],
+        [
+          8.4676352,
+          47.4812402
         ]
       ]
     ]
@@ -43543,6 +43812,107 @@
         [
           8.6920347,
           47.4237202
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/194007477",
+  "properties": {
+    "addr:city": "Dielsdorf",
+    "addr:housenumber": "12",
+    "addr:postcode": "8157",
+    "addr:street": "Spitalstrasse",
+    "amenity": "school",
+    "building": "yes",
+    "contact:email": "cristina.lusti@vivendra.ch",
+    "contact:phone": "+41 44 855 12 20",
+    "contact:website": "https://www.vivendra.ch/bei-uns-zur-schule-gehen/schule.html",
+    "name": "Vivendra Lernen-Wohnen-Arbeiten",
+    "operator": "Stiftung Vivendra",
+    "id": "way/194007477"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4503266,
+          47.4798155
+        ],
+        [
+          8.450328,
+          47.4797245
+        ],
+        [
+          8.4502817,
+          47.4797239
+        ],
+        [
+          8.4502814,
+          47.4796974
+        ],
+        [
+          8.4502562,
+          47.4796969
+        ],
+        [
+          8.4502562,
+          47.4796746
+        ],
+        [
+          8.4502825,
+          47.4796743
+        ],
+        [
+          8.4502825,
+          47.4796528
+        ],
+        [
+          8.4502683,
+          47.479652
+        ],
+        [
+          8.4502691,
+          47.4795469
+        ],
+        [
+          8.4503799,
+          47.4795476
+        ],
+        [
+          8.4503789,
+          47.479613
+        ],
+        [
+          8.4504105,
+          47.4796132
+        ],
+        [
+          8.4504093,
+          47.4796779
+        ],
+        [
+          8.4504403,
+          47.4796785
+        ],
+        [
+          8.4504399,
+          47.4797433
+        ],
+        [
+          8.4504702,
+          47.4797436
+        ],
+        [
+          8.4504681,
+          47.4798169
+        ],
+        [
+          8.4503266,
+          47.4798155
         ]
       ]
     ]
@@ -85158,14 +85528,14 @@
     "alt_name": "Gewerbliche Berufsschule Wetzikon",
     "amenity": "school",
     "level": "1;2",
-    "name": "Kantonsschule Zürcher Oberland",
+    "name": "KZO Schulhaus Schellerstrasse",
     "id": "node/7094096292"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7870894,
-      47.3215305
+      8.7870731,
+      47.321521
     ]
   }
 },
@@ -85534,16 +85904,18 @@
   "type": "Feature",
   "id": "node/9119823820",
   "properties": {
-    "addr:city": "Dielsdorf",
-    "addr:housenumber": "24",
-    "addr:postcode": "8157",
-    "addr:street": "Geissackerstrasse",
     "alt_name": "PLAPPERLAND Kindergarten & Logopädie",
     "amenity": "school",
+    "contact:city": "Dielsdorf",
+    "contact:email": "schule-dielsdorf@stiftung-rgz.ch",
+    "contact:housenumber": "24",
+    "contact:phone": "+41 58 307 19 11",
+    "contact:postcode": "8157",
+    "contact:street": "Geissackerstrasse",
+    "contact:website": "https://www.stiftung-rgz.ch/ueber-die-stiftung/kontakt/",
     "email": "info@plapperland.ch",
-    "name": "Heilpädagogische Schule Dielsdorf RgZ",
+    "name": "RgZ Heilpädagogische Schule Dielsdorf",
     "phone": "+41 58 307 19 11",
-    "website": "https://www.plapperland.ch/kontakt",
     "id": "node/9119823820"
   },
   "geometry": {
@@ -86092,6 +86464,29 @@
     "coordinates": [
       8.5048269,
       47.5088037
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9647786939",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Dällikon",
+    "contact:email": "pspori@kgs-daellikon.ch",
+    "contact:housenumber": "7",
+    "contact:phone": "+41 44 844 60 11",
+    "contact:postcode": "8108",
+    "contact:street": "Langwiesenstrasse",
+    "contact:website": "https://www.sek-regensdorf.ch/kleingruppenschule-daellikon/",
+    "name": "Kleingruppenschule Dällikon",
+    "id": "node/9647786939"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4415595,
+      47.4458908
     ]
   }
 }
