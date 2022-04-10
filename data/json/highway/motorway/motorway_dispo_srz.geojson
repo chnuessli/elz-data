@@ -16771,6 +16771,7 @@
   "type": "Feature",
   "id": "way/28337372",
   "properties": {
+    "destination:lanes": "Zürich;Winterthur;Ohringen|Zürich;Winterthur;Ohringen|Oberwinterthur;Wiesendangen",
     "highway": "motorway",
     "int_ref": "E 60",
     "lanes": "3",
@@ -16809,6 +16810,7 @@
   "id": "way/28337374",
   "properties": {
     "bridge": "yes",
+    "destination:lanes": "Zürich;Winterthur;Ohringen|Zürich;Winterthur;Ohringen|Oberwinterthur;Wiesendangen",
     "highway": "motorway",
     "int_ref": "E 60",
     "lanes": "3",
@@ -17390,10 +17392,6 @@
       [
         8.8269044,
         47.5290683
-      ],
-      [
-        8.8251506,
-        47.5292029
       ],
       [
         8.8246729,
@@ -44884,6 +44882,7 @@
   "type": "Feature",
   "id": "way/287340808",
   "properties": {
+    "destination:lanes": "Zürich;Winterthur;Ohringen|Zürich;Winterthur;Ohringen|Oberwinterthur;Wiesendangen",
     "highway": "motorway",
     "int_ref": "E 60",
     "lanes": "3",

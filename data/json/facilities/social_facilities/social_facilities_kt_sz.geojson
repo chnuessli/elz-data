@@ -2772,24 +2772,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8946582270",
-  "properties": {
-    "amenity": "social_facility",
-    "name": "Fair-Teiler",
-    "social_facility": "food_bank",
-    "social_facility:for": "community",
-    "id": "node/8946582270"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.778073,
-      47.2002225
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9128771249",
   "properties": {
     "addr:city": "Pfäffikon SZ",
