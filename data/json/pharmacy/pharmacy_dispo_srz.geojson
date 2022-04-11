@@ -4299,6 +4299,7 @@
     "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-17:00",
     "phone": "+41 52 625 11 44",
     "website": "https://www.unterstadtapotheke.ch/",
+    "wheelchair": "yes",
     "id": "node/2258851964"
   },
   "geometry": {
@@ -7880,6 +7881,24 @@
     "coordinates": [
       8.8429463,
       47.3008112
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9655661530",
+  "properties": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "level": "-1",
+    "name": "Bahnhof",
+    "id": "node/9655661530"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7234498,
+      47.4995242
     ]
   }
 }

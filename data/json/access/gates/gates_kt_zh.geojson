@@ -23230,6 +23230,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/2696149141",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "id": "node/2696149141"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6029507,
+      47.6449171
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2697792275",
   "properties": {
     "barrier": "gate",

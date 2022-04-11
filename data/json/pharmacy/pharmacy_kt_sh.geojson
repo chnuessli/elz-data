@@ -85,6 +85,7 @@
     "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-17:00",
     "phone": "+41 52 625 11 44",
     "website": "https://www.unterstadtapotheke.ch/",
+    "wheelchair": "yes",
     "id": "node/2258851964"
   },
   "geometry": {

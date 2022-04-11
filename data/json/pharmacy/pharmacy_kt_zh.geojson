@@ -6826,6 +6826,24 @@
       47.3008112
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9655661530",
+  "properties": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "level": "-1",
+    "name": "Bahnhof",
+    "id": "node/9655661530"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7234498,
+      47.4995242
+    ]
+  }
 }
 ]
 }

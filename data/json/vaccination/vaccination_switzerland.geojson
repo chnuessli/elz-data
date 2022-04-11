@@ -853,10 +853,6 @@
   "type": "Feature",
   "id": "node/8710380245",
   "properties": {
-    "addr:city": "Ennenda",
-    "addr:housenumber": "2",
-    "addr:postcode": "8755",
-    "addr:street": "Bahnhofstrasse",
     "healthcare": "vaccination_centre",
     "healthcare:speciality": "vaccination",
     "name": "Impfzentrum Glarus",
@@ -868,8 +864,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      9.0768288,
-      47.0338685
+      9.0652784,
+      47.0456329
     ]
   }
 },
