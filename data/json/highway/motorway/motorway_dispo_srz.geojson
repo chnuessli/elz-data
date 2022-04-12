@@ -6648,7 +6648,7 @@
 },
 {
   "type": "Feature",
-  "id": "way/16076699",
+  "id": "way/16076705",
   "properties": {
     "highway": "motorway",
     "lanes": "3",
@@ -6656,13 +6656,18 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A1H",
+    "start_date": "1968",
     "surface": "asphalt",
     "toll": "yes",
-    "id": "way/16076699"
+    "id": "way/16076705"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
+      [
+        8.4754057,
+        47.3987707
+      ],
       [
         8.4752848,
         47.398844
@@ -6696,44 +6701,11 @@
 },
 {
   "type": "Feature",
-  "id": "way/16076705",
-  "properties": {
-    "bridge": "yes",
-    "highway": "motorway",
-    "lanes": "3",
-    "layer": "1",
-    "lit": "no",
-    "maxspeed": "120",
-    "oneway": "yes",
-    "ref": "A1H",
-    "start_date": "1968",
-    "surface": "asphalt",
-    "toll": "yes",
-    "id": "way/16076705"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.4754057,
-        47.3987707
-      ],
-      [
-        8.4752848,
-        47.398844
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/16076715",
   "properties": {
-    "bridge": "yes",
     "destination:lanes": "Zürich City| Zürich City| Altstetten;Höngg",
     "highway": "motorway",
     "lanes": "3",
-    "layer": "1",
     "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
@@ -6746,6 +6718,18 @@
   "geometry": {
     "type": "LineString",
     "coordinates": [
+      [
+        8.4732954,
+        47.4000132
+      ],
+      [
+        8.4737905,
+        47.3996517
+      ],
+      [
+        8.4743603,
+        47.3992641
+      ],
       [
         8.4751712,
         47.3987556
@@ -6768,6 +6752,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A1H",
+    "start_date": "1968",
     "surface": "asphalt",
     "toll": "yes",
     "id": "way/16076722"
@@ -69927,43 +69912,6 @@
       [
         8.4311061,
         47.4118095
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/1007827860",
-  "properties": {
-    "destination:lanes": "Zürich City| Zürich City| Altstetten;Höngg",
-    "highway": "motorway",
-    "lanes": "3",
-    "lit": "no",
-    "maxspeed": "120",
-    "oneway": "yes",
-    "ref": "A1H",
-    "surface": "asphalt",
-    "toll": "yes",
-    "id": "way/1007827860"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.4732954,
-        47.4000132
-      ],
-      [
-        8.4737905,
-        47.3996517
-      ],
-      [
-        8.4743603,
-        47.3992641
-      ],
-      [
-        8.4751712,
-        47.3987556
       ]
     ]
   }

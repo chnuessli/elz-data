@@ -50403,6 +50403,31 @@
       47.1446716
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9658529728",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "10",
+    "addr:postcode": "8400",
+    "addr:street": "Mühlestrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "psychiatry;psychotherapy",
+    "name": "IBP Institut",
+    "operator": "IBP Institut",
+    "operator:type": "private",
+    "website": "https://ibp-institut.ch/",
+    "id": "node/9658529728"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7319593,
+      47.4970363
+    ]
+  }
 }
 ]
 }
