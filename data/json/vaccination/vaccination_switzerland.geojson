@@ -948,27 +948,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9310124397",
-  "properties": {
-    "healthcare": "vaccination_centre",
-    "healthcare:speciality": "vaccination",
-    "level": "3",
-    "level:ref": "2",
-    "name": "Impf Pop-Up Westside",
-    "vaccination": "covid19",
-    "website": "https://covid-kennzahlen.apps.be.ch/#/de/search",
-    "id": "node/9310124397"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.3742307,
-      46.9447588
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9310144729",
   "properties": {
     "healthcare": "vaccination_centre",

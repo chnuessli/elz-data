@@ -6358,6 +6358,60 @@
 },
 {
   "type": "Feature",
+  "id": "way/90899212",
+  "properties": {
+    "addr:city": "Aathal-Seegräben",
+    "addr:housenumber": "1",
+    "addr:postcode": "8607",
+    "addr:street": "Leumatt",
+    "amenity": "kindergarten",
+    "building": "school",
+    "contact:email": "schulverwaltung@seegraeben.ch",
+    "contact:phone": "+41 44 932 28 64",
+    "contact:website": "https://www.schule-seegraeben.ch/klassen/14443",
+    "isced:level": "0",
+    "name": "Kindergarten Leumatt",
+    "operator": "Primarschule Seegräben",
+    "id": "way/90899212"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7689105,
+          47.3388083
+        ],
+        [
+          8.7687843,
+          47.3387776
+        ],
+        [
+          8.7688631,
+          47.3386316
+        ],
+        [
+          8.7689918,
+          47.3386636
+        ],
+        [
+          8.768928,
+          47.3387815
+        ],
+        [
+          8.7689245,
+          47.3387814
+        ],
+        [
+          8.7689105,
+          47.3388083
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/92088051",
   "properties": {
     "addr:city": "Uerikon",
@@ -7557,6 +7611,67 @@
         [
           8.7745672,
           47.4573798
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/103442881",
+  "properties": {
+    "addr:city": "Aathall-Seegräben",
+    "addr:housenumber": "44",
+    "addr:postcode": "8607",
+    "addr:street": "Grossweid",
+    "amenity": "kindergarten",
+    "building": "school",
+    "contact:email": "schulverwaltung@seegraeben.ch",
+    "contact:phone": "+41 44 972 31 15",
+    "contact:website": "https://www.schule-seegraeben.ch/liegenschaften/1902",
+    "name": "Kindergarten Grossweid",
+    "operator": "Primarschule Seegräben",
+    "id": "way/103442881"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7623018,
+          47.3338742
+        ],
+        [
+          8.7623377,
+          47.3338282
+        ],
+        [
+          8.7623033,
+          47.333816
+        ],
+        [
+          8.76236,
+          47.3337426
+        ],
+        [
+          8.762472,
+          47.3337818
+        ],
+        [
+          8.762468,
+          47.3337877
+        ],
+        [
+          8.7625008,
+          47.3337993
+        ],
+        [
+          8.7624137,
+          47.3339137
+        ],
+        [
+          8.7623018,
+          47.3338742
         ]
       ]
     ]
@@ -17861,171 +17976,6 @@
         [
           8.8515484,
           47.4374528
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/371515970",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Grossweid",
-    "phone": "+41 44 932 28 77",
-    "website": "http://www.schule-seegraeben.ch",
-    "id": "way/371515970"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.762895,
-          47.3336041
-        ],
-        [
-          8.7625679,
-          47.3340385
-        ],
-        [
-          8.7621478,
-          47.3339018
-        ],
-        [
-          8.7621557,
-          47.3338396
-        ],
-        [
-          8.7621706,
-          47.3337717
-        ],
-        [
-          8.7621934,
-          47.3336813
-        ],
-        [
-          8.762231,
-          47.3335799
-        ],
-        [
-          8.7622867,
-          47.3334578
-        ],
-        [
-          8.7622952,
-          47.3334409
-        ],
-        [
-          8.7623327,
-          47.3334497
-        ],
-        [
-          8.7624634,
-          47.3334418
-        ],
-        [
-          8.762895,
-          47.3336041
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/371515971",
-  "properties": {
-    "amenity": "kindergarten",
-    "email": "chindsgileumatt@bluewin.ch",
-    "name": "Kindergarten Leumatt",
-    "phone": "+41 44 932 28 64",
-    "website": "http://www.schule-seegraeben.ch",
-    "id": "way/371515971"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.768557,
-          47.3388778
-        ],
-        [
-          8.7685835,
-          47.3387725
-        ],
-        [
-          8.7686228,
-          47.3386786
-        ],
-        [
-          8.7686786,
-          47.3385923
-        ],
-        [
-          8.7687382,
-          47.3385082
-        ],
-        [
-          8.7690024,
-          47.33835
-        ],
-        [
-          8.769012,
-          47.3384247
-        ],
-        [
-          8.7690459,
-          47.3384912
-        ],
-        [
-          8.7692541,
-          47.3387244
-        ],
-        [
-          8.7693884,
-          47.3388915
-        ],
-        [
-          8.7693473,
-          47.3389045
-        ],
-        [
-          8.769301,
-          47.3389132
-        ],
-        [
-          8.7692519,
-          47.3389164
-        ],
-        [
-          8.7691956,
-          47.3389132
-        ],
-        [
-          8.7690663,
-          47.3389015
-        ],
-        [
-          8.7689873,
-          47.3388986
-        ],
-        [
-          8.768911,
-          47.3389016
-        ],
-        [
-          8.7688406,
-          47.3389114
-        ],
-        [
-          8.7685436,
-          47.3389723
-        ],
-        [
-          8.768557,
-          47.3388778
         ]
       ]
     ]

@@ -12449,9 +12449,15 @@
   "type": "Feature",
   "id": "way/165321481",
   "properties": {
+    "addr:city": "Wattwil",
+    "addr:postcode": "9630",
+    "addr:street": "Steig",
     "amenity": "hospital",
     "emergency": "yes",
-    "name": "Spital Wattwil",
+    "healthcare": "hospital",
+    "name": "Ambi Wattwil Berit Klinik",
+    "operator": "Berit Klinik",
+    "operator:type": "private",
     "id": "way/165321481"
   },
   "geometry": {
@@ -35878,8 +35884,8 @@
   "properties": {
     "addr:city": "Promontogno",
     "addr:housenumber": "5",
+    "addr:place": "Flin",
     "addr:postcode": "7606",
-    "addr:street": "Flin",
     "amenity": "hospital",
     "healthcare": "hospital",
     "name": "Centro Sanitario Bregaglia",
@@ -50426,6 +50432,30 @@
     "coordinates": [
       8.7319593,
       47.4970363
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9660460083",
+  "properties": {
+    "addr:city": "Basel",
+    "addr:housenumber": "26",
+    "addr:postcode": "4051",
+    "addr:street": "Aeschengraben",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Swiss Pain Institute Basel",
+    "name:de": "Schweizer Schmerzinstitut",
+    "phone": "+41 79 319 80 00",
+    "website": "https://swisspain.ch/basel/",
+    "id": "node/9660460083"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5927759,
+      47.5504287
     ]
   }
 }
