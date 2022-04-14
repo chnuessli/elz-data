@@ -13279,7 +13279,7 @@
     "destination:colour:lanes": "|||blue",
     "destination:int_ref:lanes": "E 41|E 41||",
     "destination:lanes": "Zürich;Affoltern am Albis|Zürich;Affoltern am Albis;Chur;Baar;Zug-Zentrum|Chur;Baar;Zug-Zentrum|Zug;Cham-Ost",
-    "destination:ref:lanes": "A 4|A 4;A 4a|A 4a|",
+    "destination:ref:lanes": "A 4|A 4;A 4a|A 4a||",
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "4",

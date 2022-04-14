@@ -10031,96 +10031,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/104822812",
-  "properties": {
-    "addr:housenumber": "14",
-    "addr:street": "Wagistrasse",
-    "building": "office",
-    "building:levels": "6",
-    "healthcare": "clinic",
-    "healthcare:speciality": "radiology",
-    "name": "PET/CT-MR Zentrum Schlieren USZ",
-    "roof:levels": "0",
-    "id": "way/104822812"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4577011,
-          47.3986365
-        ],
-        [
-          8.4576851,
-          47.3984955
-        ],
-        [
-          8.4576768,
-          47.398423
-        ],
-        [
-          8.4578505,
-          47.3984118
-        ],
-        [
-          8.4580471,
-          47.3983893
-        ],
-        [
-          8.458184,
-          47.3983714
-        ],
-        [
-          8.458245,
-          47.3983634
-        ],
-        [
-          8.4584646,
-          47.3983297
-        ],
-        [
-          8.4586931,
-          47.3982874
-        ],
-        [
-          8.4587812,
-          47.3984991
-        ],
-        [
-          8.4586152,
-          47.3985311
-        ],
-        [
-          8.4584633,
-          47.3985587
-        ],
-        [
-          8.458291,
-          47.3985847
-        ],
-        [
-          8.4582563,
-          47.3985885
-        ],
-        [
-          8.4580867,
-          47.3986071
-        ],
-        [
-          8.4579233,
-          47.3986227
-        ],
-        [
-          8.4577011,
-          47.3986365
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/107615187",
   "properties": {
     "addr:city": "Zürich",
@@ -50456,6 +50366,47 @@
     "coordinates": [
       7.5927759,
       47.5504287
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9662210482",
+  "properties": {
+    "amenity": "clinic",
+    "contact:city": "Zürich",
+    "contact:email": "nuklearmedizin@usz.ch",
+    "contact:housenumber": "14",
+    "contact:phone": "+41 43 254 04 11",
+    "contact:postcode": "8952",
+    "contact:street": "Wagistrasse",
+    "contact:website": "https://www.usz.ch/",
+    "name": "PET/CT-MR Zentrum Schlieren USZ Klinik",
+    "id": "node/9662210482"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4583832,
+      47.3984275
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9663194216",
+  "properties": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Notfallzentrum",
+    "operator": "Berit Klinik",
+    "id": "node/9663194216"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0838531,
+      47.2981793
     ]
   }
 }
