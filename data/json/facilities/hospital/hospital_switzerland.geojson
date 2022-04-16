@@ -49581,28 +49581,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9034117772",
-  "properties": {
-    "amenity": "clinic",
-    "description": "Drive in",
-    "healthcare": "clinic",
-    "name": "Test COVID",
-    "opening_hours": "Mo-Th 07:30-12:00, 13:00-17:30; Fr 07:30-12:00, 13:00-20:00; Sa 08:00-11:00",
-    "operator": "synlab",
-    "phone": "+41 79 191 99 57",
-    "website": "https://booking.mysynlab.ch/fr/drive-in-vs/",
-    "id": "node/9034117772"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.3435886,
-      46.2259157
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9107017439",
   "properties": {
     "addr:city": "Ilanz/Glion",
