@@ -1689,6 +1689,67 @@
 },
 {
   "type": "Feature",
+  "id": "way/1053034737",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "5",
+    "addr:postcode": "8400",
+    "addr:street": "Obermühlestrasse",
+    "amenity": "police",
+    "building": "construction",
+    "name": "POM Polizeigebäude Obermühlestrasse",
+    "id": "way/1053034737"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7346879,
+          47.4959887
+        ],
+        [
+          8.7346125,
+          47.4959103
+        ],
+        [
+          8.7342961,
+          47.4958268
+        ],
+        [
+          8.7344543,
+          47.4955672
+        ],
+        [
+          8.734721,
+          47.4956436
+        ],
+        [
+          8.7347059,
+          47.4956711
+        ],
+        [
+          8.7347948,
+          47.4956955
+        ],
+        [
+          8.7351007,
+          47.4955968
+        ],
+        [
+          8.7352273,
+          47.4957495
+        ],
+        [
+          8.7346879,
+          47.4959887
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/29456226",
   "properties": {
     "addr:city": "Winterthur",

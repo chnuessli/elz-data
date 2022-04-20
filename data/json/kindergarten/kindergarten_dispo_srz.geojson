@@ -39007,6 +39007,32 @@
       47.190539
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9676428527",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "4",
+    "addr:postcode": "8008",
+    "addr:street": "Forchstrasse",
+    "amenity": "kindergarten",
+    "contact:email": "info@7-bears.ch",
+    "contact:phone": "+41 44 201 47 47",
+    "contact:website": "https://www.7-bears.ch/",
+    "isced:level": "0",
+    "name": "7 Bears Kindergarten und -krippe",
+    "operator": "7 Bears - Corinne Waechter",
+    "operator:type": "private",
+    "id": "node/9676428527"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5550427,
+      47.3642677
+    ]
+  }
 }
 ]
 }
