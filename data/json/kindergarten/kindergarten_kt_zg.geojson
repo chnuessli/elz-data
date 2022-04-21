@@ -88,6 +88,7 @@
   "id": "way/54362361",
   "properties": {
     "amenity": "kindergarten",
+    "building": "kindergarten",
     "building:colour": "brown",
     "building:levels": "1",
     "building:use": "education",

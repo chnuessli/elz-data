@@ -75169,8 +75169,10 @@
     "addr:postcode": "8004",
     "addr:street": "Schöntalstrasse",
     "amenity": "school",
-    "building": "commercial",
-    "name": "Jüdische Schule",
+    "building": "yes",
+    "contact:email": "rsvp@agudas-achim.org",
+    "contact:website": "https://agudas-achim.org/education/inda-posner-religious-school/",
+    "name": "Agudas Achim Jüdische Schule & Kindergarten",
     "owner": "Elektrizitätswerke des Kantons Zürich (EKZ)",
     "id": "way/338896038"
   },
@@ -104982,6 +104984,31 @@
     "coordinates": [
       8.5590987,
       47.379108
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9679343559",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "international.basel@academia-group.ch",
+    "contact:housenumber": "1",
+    "contact:phone": "+41 58 440 91 00",
+    "contact:postcode": "8004",
+    "contact:street": "Lagerstrasse",
+    "contact:website": "https://academia-international.ch/de/campus-zuerich/",
+    "name": "Academia International School Zürich",
+    "operator": "Academia International School",
+    "operator:type": "private",
+    "id": "node/9679343559"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5343448,
+      47.3765523
     ]
   }
 }
