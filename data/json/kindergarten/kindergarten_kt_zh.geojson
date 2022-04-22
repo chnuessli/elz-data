@@ -16570,6 +16570,69 @@
 },
 {
   "type": "Feature",
+  "id": "way/279301675",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "35",
+    "addr:postcode": "8006",
+    "addr:street": "Winkelriedstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "contact:email": "info@kitablumenwiese.ch",
+    "contact:phone": "+41 79 792 58 55",
+    "contact:website": "https://kitablumenwiese.ch/",
+    "name": "Kita & Kiga Blumenwiese",
+    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "id": "way/279301675"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5513599,
+          47.3844149
+        ],
+        [
+          8.5513103,
+          47.3843737
+        ],
+        [
+          8.5513198,
+          47.3843686
+        ],
+        [
+          8.5513036,
+          47.3843542
+        ],
+        [
+          8.5515241,
+          47.3842386
+        ],
+        [
+          8.5515412,
+          47.3842539
+        ],
+        [
+          8.5515497,
+          47.3842494
+        ],
+        [
+          8.5515972,
+          47.3842922
+        ],
+        [
+          8.5513599,
+          47.3844149
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/281234707",
   "properties": {
     "amenity": "kindergarten",
@@ -34990,6 +35053,57 @@
     "coordinates": [
       8.5550427,
       47.3642677
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9682362707",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:email": "contact@childrenfirst.ch",
+    "contact:housenumber": "175",
+    "contact:phone": "+41 44 252 9121",
+    "contact:postcode": "8032",
+    "contact:street": "Freiestrasse",
+    "contact:website": "https://www.childrenfirst.ch/?lang=de",
+    "isced:level": "0",
+    "name": "Children First",
+    "operator": "CHILDREN FIRST GMBH",
+    "operator:type": "private",
+    "id": "node/9682362707"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5638524,
+      47.3627587
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9682459704",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:email": "info@chindsgirotefabrik.ch",
+    "contact:housenumber": "395",
+    "contact:postcode": "8038",
+    "contact:street": "Seestrasse",
+    "contact:website": "https://www.chindsgirotefabrik.ch/",
+    "isced:level": "0",
+    "name": "Chindsgi Rote Fabrik",
+    "operator": "Elternverein Chindsgi Rote Fabrik",
+    "operator:type": "private",
+    "id": "node/9682459704"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5357971,
+      47.3436842
     ]
   }
 }

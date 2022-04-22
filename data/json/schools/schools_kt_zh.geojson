@@ -22215,7 +22215,7 @@
     "addr:postcode": "8050",
     "addr:street": "Baumackerstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Baumackerschule",
     "old_name": "Evangelische Schule Baumacker",
     "operator": "Verein Baumackerschule",
@@ -22229,32 +22229,32 @@
     "coordinates": [
       [
         [
-          8.5457288,
-          47.408201
+          8.5457443,
+          47.4082018
         ],
         [
-          8.5453745,
-          47.4083466
+          8.5453865,
+          47.4083491
         ],
         [
-          8.5453509,
-          47.4083203
+          8.5453578,
+          47.4083172
         ],
         [
-          8.5453145,
-          47.4082797
+          8.545322,
+          47.4082774
         ],
         [
-          8.545275,
-          47.4082356
+          8.5452891,
+          47.4082408
         ],
         [
-          8.5456293,
-          47.4080901
+          8.5456469,
+          47.4080935
         ],
         [
-          8.5457288,
-          47.408201
+          8.5457443,
+          47.4082018
         ]
       ]
     ]
@@ -86764,6 +86764,57 @@
     "coordinates": [
       8.5343448,
       47.3765523
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9682031261",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "1",
+    "addr:postcode": "8002",
+    "addr:street": "Bederstrasse",
+    "amenity": "school",
+    "contact:email": "info@aurumschule.ch",
+    "contact:phone": "+41 44 206 20 30",
+    "contact:website": "https://aurumschule.ch/",
+    "isced:level": "2",
+    "name": "AURUM SCHULE ZÜRICH",
+    "operator": "Aurum Schule Zürich AG",
+    "operator:type": "private",
+    "id": "node/9682031261"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5312448,
+      47.3648329
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9682468631",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "beckenhof@dayschool.ch",
+    "contact:housenumber": "4",
+    "contact:phone": "+41 44 557 13 31",
+    "contact:postcode": "8006",
+    "contact:street": "Waltersbachstrasse",
+    "contact:website": "https://dayschool.ch/",
+    "name": "Dayschool Beckenhof",
+    "operator": "Dayschool",
+    "operator:type": "private",
+    "id": "node/9682468631"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5413134,
+      47.3834916
     ]
   }
 }
