@@ -12578,8 +12578,8 @@
     "addr:street": "Schulstrasse",
     "amenity": "kindergarten",
     "building": "yes",
-    "building:roof:shape": "flat",
     "name": "Kindergarten Halde",
+    "roof:shape": "flat",
     "id": "way/158712576"
   },
   "geometry": {
@@ -16038,6 +16038,48 @@
         [
           8.7503577,
           47.4918247
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/223555071",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Betreuung Gutschick",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "id": "way/223555071"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7506684,
+          47.4923963
+        ],
+        [
+          8.7506693,
+          47.4919127
+        ],
+        [
+          8.7508379,
+          47.4919269
+        ],
+        [
+          8.751264,
+          47.4919182
+        ],
+        [
+          8.7512611,
+          47.4923933
+        ],
+        [
+          8.7506684,
+          47.4923963
         ]
       ]
     ]
@@ -35630,8 +35672,16 @@
   "id": "node/6731586487",
   "properties": {
     "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:email": "info@chindsgi-hoenggerberg.ch",
+    "contact:housenumber": "45",
+    "contact:phone": "+41 44 341 02 78",
+    "contact:postcode": "8049",
+    "contact:street": "Lebristweg",
+    "contact:website": "https://chindsgi-hoenggerberg.ch/",
     "name": "Freier Chindsgi Hönggerberg",
     "operator": "Verein «Freier Kindergarten Hönggerberg»",
+    "operator:type": "private",
     "id": "node/6731586487"
   },
   "geometry": {

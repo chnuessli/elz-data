@@ -24661,6 +24661,7 @@
     "contact:email": "sekretariat@fgz.ch",
     "contact:phone": "+41 43 456 77 77",
     "contact:website": "https://www.fgz.ch/de/",
+    "isced:level": "1;2",
     "name": "FGZ Freies Gymnasium Zürich",
     "operator": "Freies Gymnasium Zürich",
     "operator:type": "private",
@@ -58056,8 +58057,11 @@
   "id": "way/223555029",
   "properties": {
     "amenity": "school",
+    "grades": "0-6",
     "name": "Primarschule Gutschick",
-    "website": "http://gschick-win.educanet2.ch",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://schulegutschick.com/",
     "id": "way/223555029"
   },
   "geometry": {
@@ -58195,45 +58199,6 @@
         [
           8.746704,
           47.492319
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/223555071",
-  "properties": {
-    "amenity": "school",
-    "id": "way/223555071"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7506684,
-          47.4923963
-        ],
-        [
-          8.7506693,
-          47.4919127
-        ],
-        [
-          8.7508379,
-          47.4919269
-        ],
-        [
-          8.751264,
-          47.4919182
-        ],
-        [
-          8.7512611,
-          47.4923933
-        ],
-        [
-          8.7506684,
-          47.4923963
         ]
       ]
     ]

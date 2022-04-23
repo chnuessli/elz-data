@@ -45659,8 +45659,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4901149,
-      47.3512778
+      8.490119,
+      47.3512452
     ]
   }
 },
@@ -45675,8 +45675,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4874616,
-      47.3516179
+      8.4874587,
+      47.3516182
     ]
   }
 },
@@ -73085,6 +73085,23 @@
     "coordinates": [
       8.5253463,
       47.0681772
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9684598718",
+  "properties": {
+    "barrier": "gate",
+    "material": "metal",
+    "maxwidth": "5.0",
+    "id": "node/9684598718"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6319446,
+      47.7245916
     ]
   }
 }

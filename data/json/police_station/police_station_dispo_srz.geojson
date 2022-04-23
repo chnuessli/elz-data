@@ -3617,6 +3617,7 @@
     "name": "Regionalwache City",
     "opening_hours": "24/7",
     "operator": "Stadtpolizei Zürich",
+    "operator:wikidata": "Q2327949",
     "toilets:wheelchair": "no",
     "wheelchair": "yes",
     "id": "node/4869996378"

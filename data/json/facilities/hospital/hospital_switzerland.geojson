@@ -4051,16 +4051,40 @@
           47.0477674
         ],
         [
-          7.6220847,
-          47.0478621
+          7.6220163,
+          47.0477776
         ],
         [
-          7.6221098,
-          47.0481265
+          7.6220305,
+          47.0478005
         ],
         [
-          7.6219046,
-          47.0485879
+          7.6220518,
+          47.0478653
+        ],
+        [
+          7.6220745,
+          47.0479736
+        ],
+        [
+          7.6220688,
+          47.0481005
+        ],
+        [
+          7.6220438,
+          47.0481827
+        ],
+        [
+          7.6220187,
+          47.0482403
+        ],
+        [
+          7.6221464,
+          47.048269
+        ],
+        [
+          7.6221636,
+          47.0483615
         ],
         [
           7.6212877,
@@ -6272,60 +6296,6 @@
         [
           6.8309094,
           47.1132138
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/49404814",
-  "properties": {
-    "addr:city": "La Chaux-de-Fonds",
-    "addr:country": "CH",
-    "addr:housenumber": "99",
-    "addr:postcode": "2300",
-    "addr:street": "Rue de La Paix",
-    "amenity": "hospital",
-    "building": "yes",
-    "healthcare": "hospital",
-    "name": "Hôpital Neuchatelois La Chrysalide",
-    "operator": "Hôpital Neuchâtelois",
-    "phone": "+41 32 912 56 76",
-    "source": "orthophotos2006sitn50cm",
-    "id": "way/49404814"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          6.8200546,
-          47.0989799
-        ],
-        [
-          6.8201701,
-          47.098896
-        ],
-        [
-          6.8202244,
-          47.0989306
-        ],
-        [
-          6.8202564,
-          47.0989074
-        ],
-        [
-          6.820364,
-          47.098976
-        ],
-        [
-          6.8202166,
-          47.0990832
-        ],
-        [
-          6.8200546,
-          47.0989799
         ]
       ]
     ]
@@ -25259,6 +25229,7 @@
     "amenity": "hospital",
     "email": "info@klinikbethanien.ch",
     "emergency": "no",
+    "healthcare": "hospital",
     "name": "Klinik Bethanien",
     "operator": "Swiss Medical Network",
     "phone": "+41 43 268 70 70",
