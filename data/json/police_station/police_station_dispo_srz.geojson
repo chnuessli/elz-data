@@ -2278,6 +2278,7 @@
     "name": "Regionalwache Industrie",
     "opening_hours": "24/7",
     "operator": "Stadtpolizei Zürich",
+    "operator:wikidata": "Q2327949",
     "id": "node/454974838"
   },
   "geometry": {

@@ -19112,8 +19112,9 @@
   "id": "way/65057437",
   "properties": {
     "amenity": "school",
+    "grades": "0-9",
     "name": "Schule Wiesendangen",
-    "website": "http://www.schule-wiesendangen.ch",
+    "website": "https://www.swibe.ch/",
     "id": "way/65057437"
   },
   "geometry": {
@@ -65775,8 +65776,11 @@
   "id": "way/414690878",
   "properties": {
     "amenity": "school",
+    "grades": "0",
     "name": "Kindergarten Wanne",
     "operator": "Schule Wiesendangen",
+    "operator:type": "public",
+    "website": "https://www.swibe.ch/web/cms.php?open=Portraet_KG_WS",
     "id": "way/414690878"
   },
   "geometry": {
@@ -83454,6 +83458,50 @@
         [
           8.7702955,
           47.3412034
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1054629418",
+  "properties": {
+    "amenity": "school",
+    "grades": "0",
+    "name": "Kindergarten Lüss",
+    "operator": "Schule Wiesendangen",
+    "operator:type": "public",
+    "website": "https://www.swibe.ch/web/cms.php?open=Portraet_KG_WS",
+    "id": "way/1054629418"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7818544,
+          47.5247153
+        ],
+        [
+          8.7823214,
+          47.5250013
+        ],
+        [
+          8.7822215,
+          47.5250687
+        ],
+        [
+          8.7817674,
+          47.5251535
+        ],
+        [
+          8.7815081,
+          47.5249349
+        ],
+        [
+          8.7818544,
+          47.5247153
         ]
       ]
     ]

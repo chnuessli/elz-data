@@ -5261,6 +5261,7 @@
   "properties": {
     "amenity": "school",
     "name": "Migros Klubschule",
+    "opening_hours": "Mo-Th 08:30-12:30,13:30-20:15; Fr 08:30-12:30,13:30-18:00; Sa 09:00-11:30",
     "id": "node/2949167351"
   },
   "geometry": {
