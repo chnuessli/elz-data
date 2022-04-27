@@ -18334,6 +18334,7 @@
     "addr:street": "Freiburgstrasse",
     "amenity": "clinic",
     "building": "hospital",
+    "healthcare": "clinic",
     "name": "Dermatologische Universitätsklinik",
     "operator": "Insel Gruppe AG",
     "wheelchair": "yes",

@@ -34108,7 +34108,7 @@
     "contact:street": "Regensbergstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kuegeliloo/ueberuns/standorte/kindergaerten.html#kindergarten_holunderhofi",
     "isced:level": "0",
-    "name": "Kindergarten Holunderhof I + II",
+    "name": "Kindergarten Holunderhof 1+2",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Kügeliloo",
     "operator:type": "public",
     "id": "node/6624405843"
@@ -39182,6 +39182,154 @@
     "coordinates": [
       8.5357971,
       47.3436842
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9694792560",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "34",
+    "contact:phone": "+41 44 536 55 32",
+    "contact:postcode": "8002",
+    "contact:street": "Alfred-Escher-Strasse",
+    "contact:website": "https://www.globegarden.ch/locations/alfred-escher",
+    "isced:level": "0",
+    "name": "Globegarden Alfred-Escher",
+    "operator": "Globegarden Childcare",
+    "operator:type": "private",
+    "id": "node/9694792560"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5333648,
+      47.3629935
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9694800189",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "38",
+    "contact:postcode": "8002",
+    "contact:street": "Brandschenkestrasse",
+    "isced:level": "0",
+    "name": "Globegarden Brandschenke",
+    "operator": "Globegarden Childcare",
+    "operator:type": "private",
+    "id": "node/9694800189"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5310939,
+      47.3688238
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9694832294",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "370",
+    "contact:phone": "+41 44 536 55 32",
+    "contact:postcode": "8008",
+    "contact:street": "Forchstrasse",
+    "contact:website": "https://www.globegarden.ch/locations/seldwyla",
+    "isced:level": "0",
+    "name": "Globegarden Seldwyla",
+    "operator": "Globegarden Childcare",
+    "operator:type": "private",
+    "id": "node/9694832294"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5785013,
+      47.3514311
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9694832555",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "15",
+    "contact:phone": "+41 44 536 55 32",
+    "contact:postcode": "8002",
+    "contact:street": "Münchhaldenstrasse",
+    "contact:website": "https://www.globegarden.ch/locations/muenchhalden",
+    "isced:level": "0",
+    "name": "Globegarden Münchhalden",
+    "operator": "Globegarden Childcare",
+    "operator:type": "private",
+    "id": "node/9694832555"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5574213,
+      47.3542687
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9694841885",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "27",
+    "contact:phone": "+41 44 536 55 32",
+    "contact:postcode": "8008",
+    "contact:street": "Mühlebachstrasse",
+    "contact:website": "https://www.globegarden.ch/locations/stadelhofen",
+    "isced:level": "0",
+    "name": "Globegarden Stadelhofen",
+    "operator": "Globegarden Childcare",
+    "operator:type": "private",
+    "id": "node/9694841885"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.550845,
+      47.3650171
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9694850481",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "23",
+    "contact:phone": "+41 44 536 55 32",
+    "contact:postcode": "8001",
+    "contact:street": "Talcker",
+    "contact:website": "https://www.globegarden.ch/locations/talacker",
+    "isced:level": "0",
+    "name": "Globegarden Talacker",
+    "operator": "Globegarden Childcare",
+    "operator:type": "private",
+    "id": "node/9694850481"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5365351,
+      47.3703643
     ]
   }
 }

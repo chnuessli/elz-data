@@ -86830,6 +86830,31 @@
       47.3834916
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9694602779",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "christine.ruettimann@gesamtschule.ch",
+    "contact:housenumber": "29",
+    "contact:phone": "+41 44 261 66 13",
+    "contact:postcode": "8057",
+    "contact:street": "Seminarstrasse",
+    "contact:website": "https://www.gesamtschule.ch/index.php",
+    "isced:level": "1;2;3",
+    "name": "Gesamtschule Unterstrass",
+    "operator": "Gesamtschule Unterstrass AG",
+    "id": "node/9694602779"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5362781,
+      47.3925273
+    ]
+  }
 }
 ]
 }
