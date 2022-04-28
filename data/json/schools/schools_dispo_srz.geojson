@@ -88233,6 +88233,10 @@
           47.3733088
         ],
         [
+          8.547946,
+          47.3733402
+        ],
+        [
           8.5479946,
           47.3733828
         ],
@@ -88271,6 +88275,10 @@
         [
           8.5474295,
           47.3732519
+        ],
+        [
+          8.5474527,
+          47.3732235
         ],
         [
           8.5474659,
@@ -102192,6 +102200,31 @@
 },
 {
   "type": "Feature",
+  "id": "node/2457056790",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "41",
+    "contact:phone": "+41 43 268 26 26",
+    "contact:postcode": "8021",
+    "contact:street": "Lagerstrasse",
+    "contact:website": "https://www.juventus.ch/",
+    "isced:level": "3",
+    "name": "Juventus-Schulen",
+    "operator": "Stiftung Juventus Schulen",
+    "operator:type": "private",
+    "id": "node/2457056790"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5326606,
+      47.3776207
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2460186594",
   "properties": {
     "amenity": "school",
@@ -102943,14 +102976,23 @@
   "id": "node/4798725703",
   "properties": {
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@brunau.ch",
+    "contact:housenumber": "20",
+    "contact:phone": "+41 44 285 10 50",
+    "contact:postcode": "8027",
+    "contact:street": "Edenstrasse",
+    "contact:website": "https://www.brunau.ch/",
+    "isced:level": "3",
     "name": "Brunau Stiftung",
+    "operator:type": "private",
     "id": "node/4798725703"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5209288,
-      47.3598736
+      8.5207988,
+      47.3599763
     ]
   }
 },
@@ -103747,6 +103789,7 @@
     "contact:postcode": "8004",
     "contact:street": "Lagerstrasse",
     "contact:website": "https://www.juventus.ch/",
+    "isced:level": "3",
     "name": "Juventus Schulen",
     "operator": "Stiftung Juventus-Schulen",
     "operator:type": "private",
@@ -104118,8 +104161,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5208324,
-      47.360127
+      8.5207133,
+      47.3602165
     ]
   }
 },
@@ -104370,22 +104413,26 @@
   "type": "Feature",
   "id": "node/9008758163",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "106",
-    "addr:postcode": "8004",
-    "addr:street": "Militärstrasse",
     "amenity": "school",
-    "email": "info.zh@benedict.ch",
-    "grades": "Sprachschule     Handelsschule     Kaderschule     HF / BA     Medizin & Gesundheit     KV Ausbildung EFZ     Informatiker EFZ     Informatik",
-    "name": "Benedict-Schule Zürich AG",
-    "website": "https://www.benedict.ch/",
+    "contact:city": "Zürich",
+    "contact:email": "info.zh@benedict.ch",
+    "contact:housenumber": "106",
+    "contact:phone": "+41 44 242 12 60",
+    "contact:postcode": "8004",
+    "contact:street": "Militärstrasse",
+    "contact:website": "https://www.benedict.ch/standorte/zuerich/",
+    "grades": "Sprachschule;Handelsschule;Kaderschule;HF/BA;Medizin & Gesundheit;KV Ausbildung EFZ;Informatiker EFZ;Informatik",
+    "isced:level": "3",
+    "name": "Benedict-Schule Zürich",
+    "operator": "Benedict-Schule Zürich AG",
+    "operator:type": "private",
     "id": "node/9008758163"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5285813,
-      47.3793448
+      8.5285723,
+      47.3793768
     ]
   }
 },
@@ -105141,6 +105188,212 @@
     "coordinates": [
       8.5362781,
       47.3925273
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9696678562",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@bbi-zueriwest.ch",
+    "contact:housenumber": "175",
+    "contact:phone": "+41 44 444 20 80",
+    "contact:postcode": "8005",
+    "contact:street": "Hardturmstrasse",
+    "contact:website": "http://www.bbi-zueriwest.ch/",
+    "isced:level": "3",
+    "name": "BBI Züri West",
+    "operator": "BBI Züri West",
+    "operator:type": "private",
+    "id": "node/9696678562"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5109003,
+      47.3927791
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9696759440",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@berit-exbit.ch",
+    "contact:housenumber": "76",
+    "contact:phone": "+41 44 296 50 50",
+    "contact:postcode": "8004",
+    "contact:street": "Militärstrasse",
+    "contact:website": "https://www.berit-exbit.ch/",
+    "isced:level": "3",
+    "name": "BERIT-EXBIT-Schule",
+    "operator": "BERIT-EXBIT-Schulen",
+    "operator:type": "private",
+    "id": "node/9696759440"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5301996,
+      47.378566
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9697007275",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@bke.ch",
+    "contact:housenumber": "106",
+    "contact:phone": "+41 44 315 15 75",
+    "contact:postcode": "8048",
+    "contact:street": "Vulkanstrasse",
+    "contact:website": "https://bke.ch/",
+    "isced:level": "3",
+    "name": "bke Bildungszentrum Kinderbetreuung",
+    "operator": "Bildungszentrum Kinderbetreuung bke",
+    "operator:type": "private",
+    "id": "node/9697007275"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.485668,
+      47.3931505
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9697408396",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@detailhandel.ch",
+    "contact:housenumber": "6",
+    "contact:phone": "+41 44 430 25 55",
+    "contact:postcode": "8001",
+    "contact:street": "Stampfenbachstrasse",
+    "contact:website": "https://www.detailhandel.ch/die-ffd/",
+    "isced:level": "3",
+    "name": "FfD Fachschule für Detailhandel",
+    "operator": "Bildungsinstitut FfD Fachschule für Detailhandel",
+    "operator:type": "private",
+    "id": "node/9697408396"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5439268,
+      47.377497
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9697522215",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@raeberschule.ch",
+    "contact:housenumber": "4",
+    "contact:phone": "+41 44 201 26 46",
+    "contact:postcode": "8027",
+    "contact:street": "Bederstrasse",
+    "contact:website": "https://www.raeberschule.ch/raeberschule",
+    "name": "Dr. Raebers Höhere Handelsschule",
+    "operator": "Inh. O. Wolz Sprachschule St. Annahof",
+    "operator:type": "private",
+    "id": "node/9697522215"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5310787,
+      47.3651429
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9697676189",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "mo@first-floor.ch",
+    "contact:housenumber": "153",
+    "contact:phone": "+41 43 333 01 01",
+    "contact:postcode": "8003",
+    "contact:street": "Zentralstrasse",
+    "contact:website": "https://first-floor.ch/",
+    "name": "firstfloor Gestaltungsschule",
+    "operator": "firstfloor Gestaltungsschule",
+    "operator:type": "private",
+    "id": "node/9697676189"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.514442,
+      47.3756212
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9697745444",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "zuerichoerlikon@hso.vantage.ch",
+    "contact:housenumber": "15",
+    "contact:phone": "+41 58 680 14 30",
+    "contact:postcode": "8050",
+    "contact:street": "Andreasstrasse",
+    "contact:website": "https://www.hso.ch/",
+    "isced:level": "3",
+    "name": "HSO Zürich-Oerlikon",
+    "operator": "HSO Wirtschafts- und Informatikschule",
+    "operator:type": "private",
+    "id": "node/9697745444"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5483576,
+      47.4131415
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9697845464",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "zuerich@minervaschulen.ch",
+    "contact:housenumber": "2",
+    "contact:phone": "+41 44 368 40 20",
+    "contact:postcode": "8006",
+    "contact:street": "Scheuchzerstrasse",
+    "contact:website": "https://www.minervaschulen.ch/de-CH",
+    "isced:level": "3",
+    "name": "Schule Minerva Zürich",
+    "operator": "Institut Minerva Zürich AG - Handel, BMS Schule für technische Kaufleute",
+    "operator:type": "private",
+    "id": "node/9697845464"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5456173,
+      47.3819045
     ]
   }
 }

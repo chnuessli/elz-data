@@ -20772,55 +20772,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/212000600",
-  "properties": {
-    "addr:housenumber": "42",
-    "addr:street": "St. Gallerstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "building:roof": "flat",
-    "description": "Fachstelle für Opferhilfeberatung & Kinderschutz",
-    "email": "fachstelle.okey@hin.ch",
-    "name": "Okey Jugendsekretariat",
-    "phone": "+41 52 245 04 04",
-    "social_facility": "outreach",
-    "social_facility:for": "juvenile",
-    "id": "way/212000600"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7389461,
-          47.4979615
-        ],
-        [
-          8.7385905,
-          47.4979604
-        ],
-        [
-          8.7385911,
-          47.4978622
-        ],
-        [
-          8.7388065,
-          47.4978628
-        ],
-        [
-          8.7389468,
-          47.4978633
-        ],
-        [
-          8.7389461,
-          47.4979615
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/212711723",
   "properties": {
     "amenity": "social_facility",
@@ -40406,6 +40357,50 @@
     "coordinates": [
       8.8107222,
       47.3321981
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9697120450",
+  "properties": {
+    "amenity": "social_facility",
+    "email": "fachstelle.okey@hin.ch",
+    "name": "Fachstelle OKey",
+    "operator": "Stiftung OKey",
+    "social_facility": "outreach",
+    "social_facility:for": "juvenile",
+    "id": "node/9697120450"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7397406,
+      47.4979055
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9697120451",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "42",
+    "addr:postcode": "8400",
+    "addr:street": "St. Gallerstrasse",
+    "amenity": "social_facility",
+    "name": "Kinder- und Jugendhilfezentrum (kjz)",
+    "operator": "Kanton Zürich",
+    "operator:type": "government",
+    "social_facility": "outreach",
+    "social_facility:for": "family",
+    "id": "node/9697120451"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7388761,
+      47.4979232
     ]
   }
 }
