@@ -20628,6 +20628,56 @@
       47.3819045
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9700397245",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "10",
+    "contact:phone": "+41 43 960 23 75",
+    "contact:postcode": "8004",
+    "contact:street": "Schöntalstrasse",
+    "contact:website": "https://old.machonchen.ch/de/",
+    "name": "Bais Yaakov Machon Chen",
+    "operator": "Machon Chen",
+    "operator:type": "private",
+    "id": "node/9700397245"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.527839,
+      47.3701955
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9700416293",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "siu@siu.ch",
+    "contact:housenumber": "23",
+    "contact:phone": "+41 44 515 72 72",
+    "contact:postcode": "8004",
+    "contact:street": "Verena-Conzett-Strasse",
+    "contact:website": "https://www.siu.ch/",
+    "isced:level": "3",
+    "name": "SIU Schweizerisches Institut für Unternehmerschulung",
+    "operator": "SIU Schweizerisches Institut für Unternehmerschulung",
+    "operator:type": "private",
+    "id": "node/9700416293"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5265067,
+      47.3703693
+    ]
+  }
 }
 ]
 }

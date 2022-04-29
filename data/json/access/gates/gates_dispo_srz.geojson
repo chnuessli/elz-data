@@ -3101,8 +3101,8 @@
   "id": "node/226106808",
   "properties": {
     "barrier": "gate",
-    "bicycle": "yes",
-    "foot": "yes",
+    "bicycle:conditional": "yes @ Mo-Su 05:30-22:00",
+    "foot:conditional": "yes @ Mo-Su 05:30-22:00",
     "id": "node/226106808"
   },
   "geometry": {
@@ -5205,8 +5205,8 @@
   "id": "node/365890414",
   "properties": {
     "barrier": "gate",
-    "bicycle": "yes",
-    "foot": "yes",
+    "bicycle:conditional": "yes @ Mo-Su 05:30-22:00",
+    "foot:conditional": "yes @ Mo-Su 05:30-22:00",
     "id": "node/365890414"
   },
   "geometry": {

@@ -11191,6 +11191,30 @@
       47.2019794
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9700896092",
+  "properties": {
+    "addr:city": "Oberweningen",
+    "addr:housenumber": "28",
+    "addr:postcode": "8165",
+    "addr:street": "Püntstrasse",
+    "amenity": "childcare",
+    "email": "info@hosechnoepf.ch",
+    "name": "Kinderkrippe Hosechnöpf",
+    "opening_hours": "Mo-Fr 06:30-18:00",
+    "phone": "+41435341572",
+    "website": "https://www.hosechnoepf.ch/",
+    "id": "node/9700896092"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4074046,
+      47.4995927
+    ]
+  }
 }
 ]
 }
