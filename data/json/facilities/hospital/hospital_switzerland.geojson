@@ -46553,6 +46553,29 @@
 },
 {
   "type": "Feature",
+  "id": "node/3668461953",
+  "properties": {
+    "addr:city": "Onex",
+    "addr:housenumber": "126",
+    "addr:postcode": "1213",
+    "addr:street": "Route de Chancy",
+    "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "healthcare:speciality": "dialysis;nephrology",
+    "name": "Centre d'hémodialyse d'Onex",
+    "id": "node/3668461953"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0993861,
+      46.1831587
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3670623140",
   "properties": {
     "addr:city": "Les Acacias",
