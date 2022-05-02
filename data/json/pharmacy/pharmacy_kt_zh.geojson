@@ -728,6 +728,7 @@
     "amenity": "pharmacy",
     "healthcare": "pharmacy",
     "name": "Apotheke Rosengarten",
+    "opening_hours": "Mo-Th 08:00-12:15,13:30-19:00; Fr 08:00-19:00; Sa 08:00-17:00",
     "wheelchair": "yes",
     "id": "node/305707117"
   },

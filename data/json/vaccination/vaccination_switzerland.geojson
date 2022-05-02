@@ -1010,31 +1010,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9344076993",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "6",
-    "addr:postcode": "8050",
-    "addr:street": "Therese-Giehse-Strasse",
-    "alt_name": "Boosterimpfzentrum Zürich-Oerlikon",
-    "healthcare": "centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum Zürich-Oerlikon",
-    "operator": "Universität Zürich",
-    "vaccination": "covid19",
-    "website": "https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung/impforte.html#1270696829",
-    "id": "node/9344076993"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5423837,
-      47.4123259
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9344092190",
   "properties": {
     "addr:city": "Meilen",

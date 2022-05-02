@@ -19307,8 +19307,21 @@
   "id": "way/276532732",
   "properties": {
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "house",
+    "building:colour": "white",
+    "building:levels": "2",
+    "building:material": "plaster",
+    "building:use": "education",
+    "height": "7.5",
+    "level": "0",
     "name": "Kindergarten",
+    "operator:type": "public",
+    "roof:colour": "rosybrown",
+    "roof:height": "2.5",
+    "roof:levels": "1",
+    "roof:material": "roof_tiles",
+    "roof:orientation": "along",
+    "roof:shape": "gabled",
     "wheelchair": "no",
     "id": "way/276532732"
   },
@@ -32325,6 +32338,22 @@
     "coordinates": [
       8.5493471,
       47.4166892
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4270523959",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten",
+    "id": "node/4270523959"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.684183,
+      47.4306038
     ]
   }
 },

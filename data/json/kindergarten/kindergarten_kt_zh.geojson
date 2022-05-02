@@ -28581,6 +28581,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/4270523959",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten",
+    "id": "node/4270523959"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.684183,
+      47.4306038
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4299449047",
   "properties": {
     "amenity": "kindergarten",
