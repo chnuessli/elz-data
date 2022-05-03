@@ -26738,14 +26738,17 @@
   "id": "node/1892268177",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kindergarten",
+    "email": "info@schulewehntal.ch",
+    "name": "Kindergarten Bluemwis",
+    "phone": "+4144 856 08 96",
+    "website": "https://www.schleinikon.ch/kindergarten/2065",
     "id": "node/1892268177"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.3936029,
-      47.4985013
+      8.3934873,
+      47.4985052
     ]
   }
 },
