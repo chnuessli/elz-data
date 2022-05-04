@@ -3632,6 +3632,7 @@
   "properties": {
     "addr:city": "Windisch",
     "addr:country": "CH",
+    "addr:housenumber": "1.44",
     "addr:postcode": "5210",
     "addr:street": "Königsfelderstrasse",
     "amenity": "clinic",
@@ -44014,6 +44015,7 @@
   "properties": {
     "addr:city": "Windisch",
     "addr:country": "CH",
+    "addr:housenumber": "1.41",
     "addr:postcode": "5210",
     "addr:street": "Königsfelderstrasse",
     "amenity": "clinic",
@@ -44079,6 +44081,7 @@
   "properties": {
     "addr:city": "Windisch",
     "addr:country": "CH",
+    "addr:housenumber": "1.42",
     "addr:postcode": "5210",
     "addr:street": "Königsfelderstrasse",
     "amenity": "clinic",
@@ -44144,6 +44147,7 @@
   "properties": {
     "addr:city": "Windisch",
     "addr:country": "CH",
+    "addr:housenumber": "1.19",
     "addr:postcode": "5210",
     "addr:street": "Königsfelderstrasse",
     "amenity": "clinic",
