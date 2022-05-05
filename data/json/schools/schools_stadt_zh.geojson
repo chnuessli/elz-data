@@ -2078,6 +2078,10 @@
   "type": "Feature",
   "id": "way/32649990",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "30",
+    "addr:postcode": "8027",
+    "addr:street": "Parkring",
     "amenity": "school",
     "building": "school",
     "contact:email": "sekretariat@liceo.ch",
@@ -19295,20 +19299,22 @@
   "type": "Feature",
   "id": "node/5284050559",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "24",
-    "addr:postcode": "8048",
-    "addr:street": "Buckhauserstrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "zuerich@sae.edu",
+    "contact:housenumber": "24",
+    "contact:phone": "+41 44 200 12 12",
+    "contact:postcode": "8048",
+    "contact:street": "Buckhauserstrasse",
+    "contact:website": "https://www.sae.edu/che/de/campus/z%c3%bcrich",
     "name": "SAE Institute Zürich",
-    "website": "http://sae.edu",
     "id": "node/5284050559"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4921435,
-      47.3845527
+      8.4919049,
+      47.3845883
     ]
   }
 },

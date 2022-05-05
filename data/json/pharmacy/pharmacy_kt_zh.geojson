@@ -5441,9 +5441,11 @@
     "addr:street": "St. Peterstrasse",
     "amenity": "pharmacy",
     "brand": "Fortis",
+    "check_date:opening_hours": "2022-05-04",
     "name": "St. Peter Apotheke",
     "opening_hours": "Mo-Su 08:00-20:00",
     "website": "https://www.stpeter-apotheke.com/",
+    "wheelchair": "yes",
     "id": "node/4838594382"
   },
   "geometry": {
