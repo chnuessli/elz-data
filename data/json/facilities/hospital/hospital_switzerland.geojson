@@ -50515,6 +50515,32 @@
       47.2981793
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9718919171",
+  "properties": {
+    "addr:city": "Lenzburg",
+    "addr:housenumber": "17",
+    "addr:postcode": "5600",
+    "addr:street": "Dammweg",
+    "amenity": "clinic",
+    "email": "info@aklb.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "ophthalmology",
+    "name": "Augenklinik Lenzburg",
+    "note": "Eröffnung am 01. Juli 2022\nTermine ab sofort.",
+    "phone": "+41 62 562 14 00",
+    "website": "https://www.augenklinik-lenzburg.ch/",
+    "id": "node/9718919171"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1739565,
+      47.3906098
+    ]
+  }
 }
 ]
 }

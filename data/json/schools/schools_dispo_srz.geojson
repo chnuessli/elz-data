@@ -18949,6 +18949,10 @@
   "type": "Feature",
   "id": "way/42833982",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "12",
+    "addr:postcode": "8045",
+    "addr:street": "Edenstrasse",
     "amenity": "school",
     "building": "school",
     "name": "Jüdische Schule Knaben",
@@ -103633,7 +103637,10 @@
   "type": "Feature",
   "id": "node/7156079485",
   "properties": {
+    "addr:city": "Zurich",
+    "addr:housenumber": "42",
     "addr:postcode": "8032",
+    "addr:street": "Juchstrasse",
     "amenity": "school",
     "email": "info@raum-allegra.ch",
     "name": "LernRaum Allegra",
@@ -104390,8 +104397,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5023239,
-      47.3850393
+      8.5022361,
+      47.3850881
     ]
   }
 },
@@ -105244,8 +105251,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5023401,
-      47.3850064
+      8.5022883,
+      47.3850308
     ]
   }
 },
@@ -105271,6 +105278,266 @@
     "coordinates": [
       8.5127943,
       47.3619057
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9717516721",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@agora-kolleg.ch",
+    "contact:housenumber": "176",
+    "contact:phone": "+41 43 343 96 34",
+    "contact:postcode": "8047",
+    "contact:street": "Letzigraben",
+    "contact:website": "https://www.agora-kolleg.ch/",
+    "isced:level": "3",
+    "name": "AGORA-Kolleg",
+    "operator": "AGORA-Kolleg",
+    "operator:type": "private",
+    "id": "node/9717516721"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4946539,
+      47.3736751
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9717537568",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "sfk.zuerich@sfk.ch",
+    "contact:housenumber": "239",
+    "contact:phone": "+41 44 272 75 00",
+    "contact:postcode": "8005",
+    "contact:street": "Heinrichstrasse",
+    "contact:website": "https://zh.sfk.ch/",
+    "isced:level": "3",
+    "name": "SFK Schule für Förderkurse Zürich",
+    "operator": "SFK Schule für Förderkurse Zürich AG",
+    "operator:type": "private",
+    "id": "node/9717537568"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5221662,
+      47.3887489
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9717546279",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@nsz.ch",
+    "contact:housenumber": "64",
+    "contact:phone": "+41 44 360 50 60",
+    "contact:postcode": "8006",
+    "contact:street": "Stapferstrasse",
+    "contact:website": "https://nsz.ch/",
+    "isced:level": "3",
+    "name": "NEUE SCHULE ZÜRICH",
+    "operator": "NEUE SCHULE ZÜRICH",
+    "operator:type": "private",
+    "id": "node/9717546279"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5475639,
+      47.3835082
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9717579180",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@buchmannschule.ch",
+    "contact:housenumber": "11",
+    "contact:phone": "+41 44 252 65 64",
+    "contact:postcode": "8044",
+    "contact:street": "Keltenstrasse",
+    "contact:website": "https://www.buchmannschule.ch/",
+    "isced:level": "2",
+    "name": "Mittelschule Dr. Buchmann",
+    "operator": "Stiftung Mittelschule Dr. Buchmann",
+    "operator:type": "private",
+    "id": "node/9717579180"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.561613,
+      47.3768333
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9718091320",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@kibsz.ch",
+    "contact:housenumber": "550",
+    "contact:phone": "+41 44 501 44 44",
+    "contact:postcode": "8052",
+    "contact:street": "Schaffhauserstrasse",
+    "contact:website": "https://www.kibsz.ch/de/",
+    "isced:level": "1",
+    "name": "KIBS Zürich Seebach",
+    "operator": "Kibs Island Bilingual School Zürich",
+    "operator:type": "private",
+    "id": "node/9718091320"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.553209,
+      47.423994
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9718112942",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "kihalimmat@bluewin.ch",
+    "contact:housenumber": "38",
+    "contact:phone": "+41 76 383 05 04",
+    "contact:postcode": "8049",
+    "contact:street": "Limmatstrasse",
+    "contact:website": "http://www.kinderhaus-limmat.ch/de/home#de/intro",
+    "isced:level": "1",
+    "name": "Kinderhaus Limmat",
+    "operator": "Kinderhaus Limmat",
+    "operator:type": "private",
+    "id": "node/9718112942"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5110867,
+      47.3966578
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9718122719",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "lernatelier@gmx.ch",
+    "contact:housenumber": "26",
+    "contact:phone": "+41 43 268 05 66",
+    "contact:postcode": "8044",
+    "contact:street": "Hochstrasse",
+    "contact:website": "https://www.tagesschuletandem.ch/",
+    "isced:level": "1",
+    "name": "Lernatelier Tandem",
+    "operator": "Lernatelier tandem",
+    "operator:type": "private",
+    "id": "node/9718122719"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5516899,
+      47.3805547
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9718125663",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "lip@lipschule.ch",
+    "contact:housenumber": "561",
+    "contact:phone": "+41 44 480 08 80",
+    "contact:postcode": "8038",
+    "contact:street": "Seestrasse",
+    "contact:website": "https://www.lipschule.ch/",
+    "isced:level": "1",
+    "name": "LIPSCHULE",
+    "operator": "LIPSCHULE Zürich",
+    "operator:type": "private",
+    "id": "node/9718125663"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5414351,
+      47.335407
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9718167647",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "office@LittleStar.ch",
+    "contact:housenumber": "16",
+    "contact:phone": "+41 43 377 54 00",
+    "contact:postcode": "8045",
+    "contact:street": "Büttenweg",
+    "contact:website": "https://littlestardayschool.ch/de/",
+    "isced:level": "1",
+    "name": "Little Star Day School",
+    "operator": "Little Star Day School",
+    "operator:type": "private",
+    "id": "node/9718167647"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5237458,
+      47.356548
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9718191902",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@montessori-infants.ch",
+    "contact:housenumber": "133",
+    "contact:phone": "+41 44 205 94 00",
+    "contact:postcode": "8002",
+    "contact:street": "Seestrasse",
+    "contact:website": "https://www.montessori-infants.ch/de/",
+    "isced:level": "1",
+    "name": "MIC Montessori Infant Community",
+    "operator": "MIC Montessori Infant Community GmbH",
+    "operator:type": "private",
+    "id": "node/9718191902"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5325427,
+      47.3573161
     ]
   }
 }
