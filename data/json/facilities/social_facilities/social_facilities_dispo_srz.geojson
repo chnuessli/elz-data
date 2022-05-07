@@ -39955,6 +39955,10 @@
   "type": "Feature",
   "id": "way/918815437",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "34",
+    "addr:postcode": "8047",
+    "addr:street": "Flüelastrasse",
     "amenity": "social_facility",
     "building": "yes",
     "social_facility": "shelter",
@@ -39993,6 +39997,10 @@
   "type": "Feature",
   "id": "way/918815438",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "36",
+    "addr:postcode": "8047",
+    "addr:street": "Flüelastrasse",
     "amenity": "social_facility",
     "building": "yes",
     "social_facility": "shelter",
@@ -40031,6 +40039,10 @@
   "type": "Feature",
   "id": "way/918815439",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "38",
+    "addr:postcode": "8047",
+    "addr:street": "Flüelastrasse",
     "amenity": "social_facility",
     "building": "yes",
     "social_facility": "shelter",

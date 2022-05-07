@@ -105540,6 +105540,84 @@
       47.3573161
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9719738072",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@scuolaitaliana.ch",
+    "contact:housenumber": "199",
+    "contact:phone": "+41 44 291 11 20",
+    "contact:postcode": "8047",
+    "contact:street": "Albisriederstrasse",
+    "contact:website": "http://scuolaitaliana.ch/",
+    "isced:level": "1",
+    "name": "Scuola Italiana Statale Bilingue",
+    "operator": "Scuola Italiana Statale",
+    "operator:type": "private",
+    "id": "node/9719738072"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4967355,
+      47.3780257
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9719866404",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "kontakt@talenta.ch",
+    "contact:housenumber": "109",
+    "contact:phone": "+41 44 222 00 22",
+    "contact:postcode": "8006",
+    "contact:street": "Weinbergstrasse",
+    "contact:website": "https://www.talenta.ch/",
+    "isced:level": "1",
+    "name": "Schule Talenta Zürich",
+    "operator": "Talenta",
+    "operator:type": "private",
+    "id": "node/9719866404"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5418353,
+      47.3858578
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9719866589",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "sekretariat@kita-kaeferberg.ch",
+    "contact:housenumber": "6",
+    "contact:phone": "+41 43 321 39 20",
+    "contact:postcode": "8050",
+    "contact:street": "Gubelhangstrasse",
+    "contact:website": "https://amkaeferberg.ch/",
+    "isced:level": "1",
+    "name": "Schule und Kita am Käferberg",
+    "operator": "Schule und Kita am Käferberg",
+    "operator:type": "private",
+    "id": "node/9719866589"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5427068,
+      47.4084891
+    ]
+  }
 }
 ]
 }

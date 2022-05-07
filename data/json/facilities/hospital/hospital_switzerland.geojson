@@ -50541,6 +50541,42 @@
       47.3906098
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9720364632",
+  "properties": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "GNZ Wattwil",
+    "operator": "Berit Klinik",
+    "operator:type": "community",
+    "id": "node/9720364632"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0843135,
+      47.2980571
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9720370226",
+  "properties": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Tumor Zentrum Ostschweiz",
+    "id": "node/9720370226"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0838964,
+      47.2975781
+    ]
+  }
 }
 ]
 }
