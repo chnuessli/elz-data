@@ -35476,6 +35476,58 @@
       47.3711266
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9726285782",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:email": "info@aufdemstern.ch",
+    "contact:housenumber": "15",
+    "contact:phone": "+41 43 243 03 34",
+    "contact:postcode": "8002",
+    "contact:street": "Sternenstrasse",
+    "contact:website": "http://www.aufdemstern.ch/home.html",
+    "isced:level": "0",
+    "name": "Tageskindergarten Auf dem Stern",
+    "operator": "Tageskindergarten Auf dem Stern",
+    "operator:type": "private",
+    "id": "node/9726285782"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5334423,
+      47.3600217
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9726524940",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:email": "info@wingsschool.ch",
+    "contact:housenumber": "29",
+    "contact:phone": "+41 43 333 36 46",
+    "contact:postcode": "8045",
+    "contact:street": "Eichstrasse",
+    "contact:website": "https://www.wingsschool.ch/de/",
+    "isced:level": "0",
+    "name": "Wings School",
+    "operator": "Wings School AG",
+    "operator:type": "private",
+    "id": "node/9726524940"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.519363,
+      47.3624934
+    ]
+  }
 }
 ]
 }
