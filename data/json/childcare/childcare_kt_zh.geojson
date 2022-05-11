@@ -4209,6 +4209,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/4110517437",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "8",
+    "addr:postcode": "8400",
+    "addr:street": "Feldstrasse",
+    "amenity": "childcare",
+    "name": "Betreuung Feldstrasse",
+    "id": "node/4110517437"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7174426,
+      47.5081983
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4128241330",
   "properties": {
     "amenity": "childcare",

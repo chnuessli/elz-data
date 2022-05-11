@@ -17760,7 +17760,13 @@
     "addr:street": "Riedhofstrasse",
     "amenity": "school",
     "building": "yes",
+    "contact:email": "info@strickhof.ch",
+    "contact:phone": "+41 58 105 91 00",
+    "contact:website": "https://www.strickhof.ch/ueber-uns/",
+    "isced:level": "3",
     "name": "Landwirtschaftliche Schule Strickhof",
+    "operator": "Strickhof",
+    "operator:type": "private",
     "id": "way/39436851"
   },
   "geometry": {
@@ -17768,40 +17774,40 @@
     "coordinates": [
       [
         [
-          8.6987675,
-          47.5136981
+          8.6987692,
+          47.5136881
         ],
         [
-          8.698632,
-          47.5135876
+          8.698623,
+          47.5135711
         ],
         [
-          8.6985955,
-          47.5136081
+          8.6985943,
+          47.5135875
         ],
         [
-          8.698419,
-          47.5134641
+          8.6984365,
+          47.5134613
         ],
         [
-          8.6987612,
-          47.5132727
+          8.6987567,
+          47.5132786
         ],
         [
-          8.6989305,
-          47.5134108
+          8.6989141,
+          47.5134045
         ],
         [
-          8.6987566,
-          47.513508
+          8.698738,
+          47.513505
         ],
         [
-          8.6988993,
-          47.5136244
+          8.6988846,
+          47.5136222
         ],
         [
-          8.6987675,
-          47.5136981
+          8.6987692,
+          47.5136881
         ]
       ]
     ]
@@ -20683,10 +20689,13 @@
   "type": "Feature",
   "id": "way/50769286",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "42",
+    "addr:postcode": "8408",
     "addr:street": "Erlenstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
+    "isced:level": "1",
     "name": "Schulhaus Erlen",
     "id": "way/50769286"
   },
@@ -101573,6 +101582,10 @@
   "type": "Feature",
   "id": "node/1531299421",
   "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "28",
+    "addr:postcode": "8400",
+    "addr:street": "Zürcherstrasse",
     "amenity": "school",
     "name": "Berufsbildungsschule Winterthur",
     "short_name": "BBW",

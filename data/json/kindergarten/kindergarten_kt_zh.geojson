@@ -3737,6 +3737,72 @@
 },
 {
   "type": "Feature",
+  "id": "way/43858171",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "18",
+    "addr:postcode": "8406",
+    "addr:street": "Agnesstrasse",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "contact:city": "Winterthur",
+    "contact:email": "rahel.schmid@win.ch",
+    "contact:housenumber": "18",
+    "contact:phone": "+41 52 267 19 52",
+    "contact:postcode": "8406",
+    "contact:street": "Agnesstrasse",
+    "contact:website": "https://www.schuletoessfeld.ch/team/kindergarten-agnesstrasse/p-50/",
+    "name": "Kindergarten Agnesstrasse",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "id": "way/43858171"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.713447,
+          47.4937557
+        ],
+        [
+          8.7133435,
+          47.4938223
+        ],
+        [
+          8.713146,
+          47.4936712
+        ],
+        [
+          8.7131801,
+          47.4936516
+        ],
+        [
+          8.713159,
+          47.4936364
+        ],
+        [
+          8.7132259,
+          47.4935965
+        ],
+        [
+          8.7133338,
+          47.49368
+        ],
+        [
+          8.7133418,
+          47.4936757
+        ],
+        [
+          8.713447,
+          47.4937557
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/44333704",
   "properties": {
     "addr:city": "Dübendorf",
@@ -4297,10 +4363,13 @@
   "type": "Feature",
   "id": "way/50769297",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "40",
+    "addr:postcode": "8408",
     "addr:street": "Erlenstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
+    "isced:level": "0",
     "name": "Kiga Erlen",
     "id": "way/50769297"
   },
@@ -5543,6 +5612,65 @@
         [
           8.7015447,
           47.4785226
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/81898336",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "81",
+    "addr:postcode": "8406",
+    "addr:street": "Neumühlestrasse",
+    "amenity": "kindergarten",
+    "building": "school",
+    "name": "Kindergarten Auwiesen",
+    "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
+    "operator:type": "public,",
+    "id": "way/81898336"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7086047,
+          47.4831717
+        ],
+        [
+          8.7084968,
+          47.483082
+        ],
+        [
+          8.7086106,
+          47.483019
+        ],
+        [
+          8.7087431,
+          47.4831271
+        ],
+        [
+          8.7087295,
+          47.483136
+        ],
+        [
+          8.708738,
+          47.4832167
+        ],
+        [
+          8.708628,
+          47.4832228
+        ],
+        [
+          8.708611,
+          47.4832234
+        ],
+        [
+          8.7086047,
+          47.4831717
         ]
       ]
     ]
@@ -14338,6 +14466,109 @@
 },
 {
   "type": "Feature",
+  "id": "way/237304227",
+  "properties": {
+    "addr:housenumber": "35",
+    "addr:street": "Am Bach",
+    "amenity": "kindergarten",
+    "building": "school",
+    "building:levels": "1",
+    "building:roof": "F",
+    "contact:email": "primarschule.mattenbach@win.ch",
+    "contact:phone": "+41 52 232 19 00",
+    "contact:website": "https://stadt.winterthur.ch/themen/leben-in-winterthur/bildung-und-schule/schulen-und-schulhaeuser/schulen-stadtkreis-mattenbach",
+    "name": "Kindergarten Am Bach",
+    "operator": "Tagesschule Mattenbach",
+    "operator:type": "public",
+    "roof:shape": "flat",
+    "id": "way/237304227"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7499887,
+          47.4874246
+        ],
+        [
+          8.7499939,
+          47.4875206
+        ],
+        [
+          8.7499736,
+          47.4875211
+        ],
+        [
+          8.7499754,
+          47.487554
+        ],
+        [
+          8.7500925,
+          47.4875511
+        ],
+        [
+          8.750097,
+          47.4876335
+        ],
+        [
+          8.7497515,
+          47.4876421
+        ],
+        [
+          8.7497505,
+          47.4876221
+        ],
+        [
+          8.7497406,
+          47.4876223
+        ],
+        [
+          8.7497402,
+          47.4876142
+        ],
+        [
+          8.7497489,
+          47.487614
+        ],
+        [
+          8.749746,
+          47.4875607
+        ],
+        [
+          8.7498668,
+          47.4875577
+        ],
+        [
+          8.7498622,
+          47.4874723
+        ],
+        [
+          8.7497917,
+          47.4874741
+        ],
+        [
+          8.7497873,
+          47.4873921
+        ],
+        [
+          8.7499101,
+          47.487389
+        ],
+        [
+          8.7499121,
+          47.4874265
+        ],
+        [
+          8.7499887,
+          47.4874246
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/237882010",
   "properties": {
     "amenity": "kindergarten",
@@ -18865,43 +19096,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/409160858",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Am Bach",
-    "operator": "Tagesschule Mattenbach",
-    "id": "way/409160858"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7496523,
-          47.4876797
-        ],
-        [
-          8.7496232,
-          47.4872243
-        ],
-        [
-          8.7501698,
-          47.487204
-        ],
-        [
-          8.7502021,
-          47.4876616
-        ],
-        [
-          8.7496523,
-          47.4876797
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/409160863",
   "properties": {
     "amenity": "kindergarten",
@@ -19037,51 +19231,6 @@
         [
           8.7120208,
           47.4874087
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/410328300",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Auwiesen",
-    "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
-    "id": "way/410328300"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7084401,
-          47.4828646
-        ],
-        [
-          8.7088178,
-          47.4831564
-        ],
-        [
-          8.7088755,
-          47.4831999
-        ],
-        [
-          8.7087948,
-          47.4832039
-        ],
-        [
-          8.7086097,
-          47.4832116
-        ],
-        [
-          8.708255,
-          47.4832266
-        ],
-        [
-          8.7084401,
-          47.4828646
         ]
       ]
     ]
@@ -28036,26 +28185,6 @@
     "coordinates": [
       8.7177702,
       47.5168675
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4110517437",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "8",
-    "addr:postcode": "8400",
-    "addr:street": "Feldstrasse",
-    "amenity": "kindergarten",
-    "name": "Betreuung Feldstrasse",
-    "id": "node/4110517437"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7174426,
-      47.5081983
     ]
   }
 },
