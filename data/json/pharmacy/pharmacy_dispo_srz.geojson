@@ -7021,6 +7021,7 @@
   "id": "node/6912211982",
   "properties": {
     "addr:city": "Schübelbach",
+    "addr:country": "CH",
     "addr:full": "Gutenbrunnen 20",
     "addr:housenumber": "20",
     "addr:postcode": "8862",

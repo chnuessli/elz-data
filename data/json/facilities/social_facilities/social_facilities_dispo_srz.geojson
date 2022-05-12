@@ -21430,6 +21430,8 @@
   "type": "Feature",
   "id": "way/196496829",
   "properties": {
+    "addr:city": "Schübelbach",
+    "addr:country": "CH",
     "addr:housenumber": "3",
     "addr:postcode": "8862",
     "addr:street": "Eisenburgstrasse",
@@ -29239,7 +29241,8 @@
   "type": "Feature",
   "id": "way/293171567",
   "properties": {
-    "addr:city": "buttikon",
+    "addr:city": "Buttikon SZ",
+    "addr:country": "CH",
     "addr:housenumber": "1",
     "addr:postcode": "8863",
     "addr:street": "Schäfliwiese",
@@ -48445,6 +48448,7 @@
   "id": "node/9468887466",
   "properties": {
     "addr:city": "Schübelbach",
+    "addr:country": "CH",
     "addr:housenumber": "30",
     "addr:postcode": "8862",
     "addr:street": "Haslenstrasse",

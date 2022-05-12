@@ -41,7 +41,8 @@
   "type": "Feature",
   "id": "node/9098369088",
   "properties": {
-    "addr:city": "Buttikon",
+    "addr:city": "Buttikon SZ",
+    "addr:country": "CH",
     "addr:housenumber": "15",
     "addr:postcode": "8863",
     "addr:street": "Kantonsstrasse",
