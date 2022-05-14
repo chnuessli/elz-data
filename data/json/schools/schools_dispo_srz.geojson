@@ -3197,7 +3197,9 @@
   "type": "Feature",
   "id": "way/22703667",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "16",
+    "addr:postcode": "8400",
     "addr:street": "Büelrainstrasse",
     "amenity": "school",
     "building": "yes",
@@ -59439,7 +59441,7 @@
   "id": "way/229014557",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Geiselweid",
+    "name": "Schule Geiselweid",
     "operator": "Schule Lind, Schulkreis Winterthur Stadt-Töss",
     "id": "way/229014557"
   },
@@ -92550,6 +92552,7 @@
   "id": "way/744740177",
   "properties": {
     "amenity": "school",
+    "name": "Langweg",
     "id": "way/744740177"
   },
   "geometry": {
@@ -105886,6 +105889,30 @@
     "coordinates": [
       8.5845909,
       47.4060458
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9737276770",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "9",
+    "addr:postcode": "8400",
+    "addr:street": "Lagerhausstrasse",
+    "amenity": "school",
+    "contact:email": "winterthur@get.ch",
+    "contact:phone": "+41 52 242 22 40",
+    "contact:website": "https://www.get.ch/kontakt/standorte/winterthur",
+    "name": "GET Kaderschule",
+    "operator": "GET Kaderschule",
+    "id": "node/9737276770"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7247092,
+      47.497498
     ]
   }
 }

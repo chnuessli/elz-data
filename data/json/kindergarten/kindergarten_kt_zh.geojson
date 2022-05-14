@@ -27213,8 +27213,12 @@
   "type": "Feature",
   "id": "node/2324398392",
   "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "1",
+    "addr:postcode": "8400",
+    "addr:street": "Scheideggstrasse",
     "amenity": "kindergarten",
-    "name": "Kindergarten 4",
+    "name": "Kindergarten Gutschick",
     "id": "node/2324398392"
   },
   "geometry": {
