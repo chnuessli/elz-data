@@ -476,6 +476,7 @@
     "overtaking": "no",
     "ref": "A4;E41;E54",
     "source:maxspeed": "CH:rural",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/4578027"
   },
@@ -11446,6 +11447,7 @@
     "overtaking": "no",
     "ref": "A4;E41;E54",
     "source:maxspeed": "CH:rural",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/197438441"
   },
@@ -11617,6 +11619,7 @@
     "overtaking": "no",
     "ref": "A4;E41;E54",
     "source:maxspeed": "CH:rural",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/197438443"
   },
@@ -15840,6 +15843,7 @@
     "placement:forward": "left_of:1",
     "ref": "A4;E41;E54",
     "source:maxspeed": "CH:rural",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes:backward": "|merge_to_left",
     "id": "way/304151598"

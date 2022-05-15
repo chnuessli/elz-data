@@ -7598,6 +7598,7 @@
     "addr:postcode": "8004",
     "addr:street": "Badenerstrasse",
     "amenity": "clinic",
+    "healthcare": "clinic",
     "name": "Psychiatrische Polyklinik",
     "operator": "Stadt Zürich",
     "phone": "+41 44 412 48 00",
