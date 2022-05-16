@@ -3061,6 +3061,8 @@
   "id": "way/23003999",
   "properties": {
     "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "hospital",
     "name": "Spital SRO Langzeitpflege Panoramapark",
     "source": "knowledge",
     "id": "way/23003999"
