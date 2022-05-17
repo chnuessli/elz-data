@@ -9986,24 +9986,48 @@
     "coordinates": [
       [
         [
-          8.850239,
-          47.2655327
+          8.8502868,
+          47.2655279
         ],
         [
-          8.8501499,
-          47.2650168
+          8.8502581,
+          47.2653239
         ],
         [
-          8.8509769,
-          47.2649243
+          8.8502731,
+          47.2653018
+        ],
+        [
+          8.850266,
+          47.2652601
+        ],
+        [
+          8.8501849,
+          47.265267
+        ],
+        [
+          8.8501476,
+          47.2650065
+        ],
+        [
+          8.8503256,
+          47.2648959
+        ],
+        [
+          8.8505281,
+          47.2648626
+        ],
+        [
+          8.8509185,
+          47.2649037
         ],
         [
           8.8510662,
           47.2654377
         ],
         [
-          8.850239,
-          47.2655327
+          8.8502868,
+          47.2655279
         ]
       ]
     ]
@@ -33935,7 +33959,8 @@
     "contact:postcode": "8620",
     "contact:street": "Bühlstrasse",
     "contact:website": "https://www.kzo.ch/shortcuts/kontakt",
-    "name": "KZO Kantonsschule Zürcher Oberland",
+    "name": "Kantonsschule Zürcher Oberland",
+    "short_name": "KZO",
     "wikidata": "Q16266359",
     "wikipedia": "de:Kantonsschule Zürcher Oberland",
     "id": "way/122710063"
@@ -103639,7 +103664,8 @@
     "alt_name": "Gewerbliche Berufsschule Wetzikon",
     "amenity": "school",
     "level": "1;2",
-    "name": "KZO Schulhaus Schellerstrasse",
+    "name": "Kantonsschule ZH Oberland Schellerstrasse",
+    "short_name": "KZO",
     "id": "node/7094096292"
   },
   "geometry": {
