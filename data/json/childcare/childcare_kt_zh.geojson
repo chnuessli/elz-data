@@ -104,6 +104,75 @@
 },
 {
   "type": "Feature",
+  "id": "way/43111281",
+  "properties": {
+    "addr:city": "Bachenbülach",
+    "addr:housenumber": "13",
+    "addr:postcode": "8184",
+    "addr:street": "Dorfstrasse",
+    "amenity": "childcare",
+    "building": "yes",
+    "name": "KIMI Kindertagesstätte",
+    "opening_hours": "Mo-Fr 07:00-18:30",
+    "operator": "KIMI Krippen AG, Standort Bachenbülach",
+    "operator:type": "business",
+    "website": "https://www.kimikrippen.ch/kimi_standort/kita-kimi-bachenbuelach/",
+    "id": "way/43111281"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5466679,
+          47.5022841
+        ],
+        [
+          8.5467193,
+          47.5022343
+        ],
+        [
+          8.5467521,
+          47.5022498
+        ],
+        [
+          8.5467689,
+          47.5022335
+        ],
+        [
+          8.5467838,
+          47.5022405
+        ],
+        [
+          8.5468468,
+          47.5021794
+        ],
+        [
+          8.5469546,
+          47.5022301
+        ],
+        [
+          8.5468447,
+          47.5023366
+        ],
+        [
+          8.5467452,
+          47.5022898
+        ],
+        [
+          8.5467239,
+          47.5023104
+        ],
+        [
+          8.5466679,
+          47.5022841
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/47139515",
   "properties": {
     "amenity": "childcare",

@@ -1414,6 +1414,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/6024568736",
+  "properties": {
+    "access": "private",
+    "barrier": "lift_gate",
+    "lift_gate:type": "double",
+    "id": "node/6024568736"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6210183,
+      47.6772012
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6258528134",
   "properties": {
     "barrier": "gate",

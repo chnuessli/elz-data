@@ -2343,32 +2343,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1633856421",
-  "properties": {
-    "addr:city": "Niederglatt",
-    "addr:housenumber": "3",
-    "addr:postcode": "8172",
-    "addr:street": "Grafschaftstrasse",
-    "alt_name": "Kapo",
-    "amenity": "police",
-    "name": "Polizeiposten Niederglatt",
-    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
-    "operator": "Kantonspolizei Zürich",
-    "operator:wikidata": "Q1728099",
-    "operator:wikipedia": "de:Kantonspolizei Zürich",
-    "phone": "+41 44 852 20 00",
-    "id": "node/1633856421"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5033236,
-      47.4918685
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1683181161",
   "properties": {
     "addr:city": "Dietikon",
@@ -4452,6 +4426,32 @@
     "coordinates": [
       8.5740695,
       47.4580662
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9748423421",
+  "properties": {
+    "addr:city": "Niederglatt",
+    "addr:housenumber": "14",
+    "addr:postcode": "8172",
+    "addr:street": "Sonnenbergstrasse",
+    "alt_name": "Kapo Niederglatt",
+    "amenity": "police",
+    "name": "Polizeiposten Niederglatt",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
+    "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
+    "phone": "+41 44 852 20 00",
+    "id": "node/9748423421"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5003918,
+      47.4898315
     ]
   }
 }
