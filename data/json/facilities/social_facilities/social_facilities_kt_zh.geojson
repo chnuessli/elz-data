@@ -13891,6 +13891,7 @@
     "addr:housenumber": "2a",
     "addr:postcode": "8627",
     "addr:street": "Binzikerstrasse",
+    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Klinik Sonnhalde Haus Binzikerbach A",
@@ -13963,7 +13964,7 @@
     "building": "yes",
     "name": "Klinik Sonnhalde Haus Am Binzikerbach B",
     "operator": "Klinik Sonnhalde",
-    "social_facility": "outreach",
+    "social_facility": "assisted_living",
     "id": "way/117103477"
   },
   "geometry": {
@@ -14003,11 +14004,12 @@
     "addr:housenumber": "9",
     "addr:postcode": "8627",
     "addr:street": "Binzikerstrasse",
+    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Klinik Sonnhalde Haus Binzikerstrasse 9",
     "operator": "Klinik Sonnhalde",
-    "social_facility": "outreach",
+    "social_facility": "assisted_living",
     "id": "way/117103481"
   },
   "geometry": {
@@ -14071,11 +14073,12 @@
     "addr:housenumber": "9",
     "addr:postcode": "8627",
     "addr:street": "Gerbistrasse",
+    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Klinik Sonnhalde Haus Gerbi und Haus Stöckli",
     "operator": "Klinik Sonnhalde",
-    "social_facility": "outreach",
+    "social_facility": "assisted_living",
     "id": "way/117103906"
   },
   "geometry": {
@@ -14199,11 +14202,12 @@
     "addr:housenumber": "7",
     "addr:postcode": "8627",
     "addr:street": "Gerbistrasse",
+    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Klinik Sonnhalde Haus Chalberweidli B",
     "operator": "Klinik Sonnhalde",
-    "social_facility": "outreach",
+    "social_facility": "assisted_living",
     "id": "way/117103907"
   },
   "geometry": {
@@ -14259,6 +14263,7 @@
     "addr:housenumber": "8",
     "addr:postcode": "8627",
     "addr:street": "Gerbistrasse",
+    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Klinik Sonnhalde Haus Neubau",
@@ -14614,6 +14619,7 @@
     "addr:housenumber": "10",
     "addr:postcode": "8627",
     "addr:street": "Gerbistrasse",
+    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Klinik Sonnhalde Gründerhaus Altbau",
@@ -14679,11 +14685,12 @@
     "addr:housenumber": "5",
     "addr:postcode": "8627",
     "addr:street": "Gerbistrasse",
+    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Klinik Sonnhalde Haus Chalberweidli A",
     "operator": "Klinik Sonnhalde",
-    "social_facility": "outreach",
+    "social_facility": "assisted_living",
     "id": "way/117103927"
   },
   "geometry": {
@@ -14785,6 +14792,116 @@
         [
           8.7625685,
           47.2795957
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/117104662",
+  "properties": {
+    "addr:city": "Grüningen",
+    "addr:housenumber": "3",
+    "addr:postcode": "8627",
+    "addr:street": "Niderwisstrasse",
+    "amenity": "social_facility",
+    "building": "dormitory",
+    "name": "Stiftung Züriwerk",
+    "social_facility": "assisted_living",
+    "id": "way/117104662"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7589699,
+          47.2795522
+        ],
+        [
+          8.7588772,
+          47.2791959
+        ],
+        [
+          8.7591121,
+          47.2791678
+        ],
+        [
+          8.759132,
+          47.2792443
+        ],
+        [
+          8.759218,
+          47.279234
+        ],
+        [
+          8.759267,
+          47.2794225
+        ],
+        [
+          8.7591687,
+          47.2794342
+        ],
+        [
+          8.7591822,
+          47.2794862
+        ],
+        [
+          8.7592762,
+          47.2794749
+        ],
+        [
+          8.7592864,
+          47.2795143
+        ],
+        [
+          8.7589699,
+          47.2795522
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/117104680",
+  "properties": {
+    "addr:city": "Grüningen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8627",
+    "addr:street": "Niderwisstrasse",
+    "amenity": "social_facility",
+    "building": "dormitory",
+    "name": "Stiftung Züriwerk",
+    "phone": "+41 44 936 54 54",
+    "social_facility": "assisted_living",
+    "website": "https://www.zueriwerk.ch/stiftung-zueriwerk/kontakt-standorte/grueningen/",
+    "id": "way/117104680"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7594304,
+          47.2793923
+        ],
+        [
+          8.7593586,
+          47.2790513
+        ],
+        [
+          8.7595598,
+          47.2790318
+        ],
+        [
+          8.7596316,
+          47.2793728
+        ],
+        [
+          8.7594304,
+          47.2793923
         ]
       ]
     ]
@@ -20719,7 +20836,7 @@
     "amenity": "social_facility",
     "building": "yes",
     "name": "Alterszentrum Breitenhof",
-    "social_facility": "group_home",
+    "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "id": "way/204444065"
   },
@@ -22647,6 +22764,122 @@
 },
 {
   "type": "Feature",
+  "id": "way/249411582",
+  "properties": {
+    "addr:city": "Rüti (ZH)",
+    "addr:housenumber": "11",
+    "addr:postcode": "8630",
+    "addr:street": "Haldengutstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "mail": "wohngruppen@vivazzo.ch",
+    "name": "Vivazzo Wohngruppe Linde",
+    "phone": "+41 55 240 86 80",
+    "social_facility": "assisted_living",
+    "source": "bing",
+    "website": "https://vivazzo.ch/vivazzo-wohngruppe-linde/",
+    "id": "way/249411582"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8589651,
+          47.2585004
+        ],
+        [
+          8.8588483,
+          47.2584514
+        ],
+        [
+          8.8589278,
+          47.258364
+        ],
+        [
+          8.8589448,
+          47.2583711
+        ],
+        [
+          8.8589961,
+          47.2583203
+        ],
+        [
+          8.8590901,
+          47.2583625
+        ],
+        [
+          8.8589651,
+          47.2585004
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/250226267",
+  "properties": {
+    "addr:city": "Rüti (ZH)",
+    "addr:housenumber": "35",
+    "addr:postcode": "8630",
+    "addr:street": "Steinacherstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "mail": "buchenhof@vivazzo.ch",
+    "name": "Vivazzo Wohnhaus Buchenhof",
+    "phone": "+41 55 251 04 30",
+    "social_facility": "assisted_living",
+    "source": "bing",
+    "website": "https://vivazzo.ch/vivazzo-buchenhof/",
+    "id": "way/250226267"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.860593,
+          47.2533321
+        ],
+        [
+          8.8606286,
+          47.2532453
+        ],
+        [
+          8.8607525,
+          47.2532687
+        ],
+        [
+          8.8608059,
+          47.2531385
+        ],
+        [
+          8.8608965,
+          47.2531556
+        ],
+        [
+          8.8608236,
+          47.2533331
+        ],
+        [
+          8.8607492,
+          47.2533191
+        ],
+        [
+          8.860733,
+          47.2533585
+        ],
+        [
+          8.860593,
+          47.2533321
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/251388671",
   "properties": {
     "addr:city": "Dielsdorf",
@@ -23207,6 +23440,123 @@
 },
 {
   "type": "Feature",
+  "id": "way/251516032",
+  "properties": {
+    "addr:city": "Dürnten",
+    "addr:housenumber": "1",
+    "addr:postcode": "8635",
+    "addr:street": "Oberdürntnerstrasse",
+    "alt_name": "Wohnheim Landhaus Sonne",
+    "amenity": "social_facility",
+    "building": "yes",
+    "mail": "wohnen@landhaus-sonne.ch",
+    "name": "Landhaus Sonne",
+    "phone": "+41 44 972 18 70",
+    "social_facility": "assisted_living",
+    "website": "https://landhaus-sonne.ch/",
+    "id": "way/251516032"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8431135,
+          47.2787149
+        ],
+        [
+          8.8430425,
+          47.2786343
+        ],
+        [
+          8.8430947,
+          47.2786132
+        ],
+        [
+          8.8429839,
+          47.2784872
+        ],
+        [
+          8.8431294,
+          47.2784284
+        ],
+        [
+          8.8432329,
+          47.2785461
+        ],
+        [
+          8.8433299,
+          47.2785068
+        ],
+        [
+          8.8434081,
+          47.2785957
+        ],
+        [
+          8.8431135,
+          47.2787149
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/252002382",
+  "properties": {
+    "addr:city": "Hinwil",
+    "addr:housenumber": "2b",
+    "addr:postcode": "8340",
+    "addr:street": "Sonnenhofstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Vivazzo Wohngruppe Magnolie",
+    "phone": "+41 43 843 70 88",
+    "social_facility": "assisted_living",
+    "id": "way/252002382"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.840182,
+          47.2978967
+        ],
+        [
+          8.8402095,
+          47.2977896
+        ],
+        [
+          8.8403963,
+          47.2978116
+        ],
+        [
+          8.8403782,
+          47.2978823
+        ],
+        [
+          8.8403729,
+          47.297903
+        ],
+        [
+          8.8403466,
+          47.2978999
+        ],
+        [
+          8.8403426,
+          47.2979156
+        ],
+        [
+          8.840182,
+          47.2978967
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/252131853",
   "properties": {
     "addr:city": "Hinwil",
@@ -23216,9 +23566,10 @@
     "alt_name": "Wohnen im Alter Hinwil",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Haus Schätti",
+    "name": "Alters- und Pflegeheim Hinwil, Haus Schätti",
+    "operator": "Stiftung Wohnen im Alter Hinwil",
     "phone": "+41 44 938 32 32",
-    "social_facility": "group_home",
+    "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "website": "http://www.aph-hinwil.ch",
     "id": "way/252131853"
@@ -23294,9 +23645,10 @@
     "alt_name": "Haus Meiligut Wohnen im Alter",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Stiftung Wohnen im Alter Hinwil",
-    "phone": "+41 44 938 32 32",
-    "social_facility": "group_home",
+    "name": "Alters- und Pflegeheim Hinwil, Haus Meiligut",
+    "operator": "Stiftung Wohnen im Alter Hinwil",
+    "phone": "+41449383247",
+    "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "website": "http://www.aph-hinwil.ch",
     "id": "way/252131858"
@@ -23423,6 +23775,131 @@
         [
           8.8512439,
           47.2634442
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/259524669",
+  "properties": {
+    "amenity": "social_facility",
+    "building": "yes",
+    "social_facility": "nursing_home",
+    "source": "bing",
+    "id": "way/259524669"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8548315,
+          47.2735354
+        ],
+        [
+          8.8548369,
+          47.2734535
+        ],
+        [
+          8.8551212,
+          47.2734572
+        ],
+        [
+          8.8551265,
+          47.2735773
+        ],
+        [
+          8.8549307,
+          47.2735846
+        ],
+        [
+          8.8548315,
+          47.2735354
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/259524720",
+  "properties": {
+    "amenity": "social_facility",
+    "building": "yes",
+    "social_facility": "nursing_home",
+    "source": "bing",
+    "id": "way/259524720"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8546115,
+          47.2739132
+        ],
+        [
+          8.8545929,
+          47.2737402
+        ],
+        [
+          8.85478,
+          47.273731
+        ],
+        [
+          8.8547986,
+          47.273904
+        ],
+        [
+          8.8546115,
+          47.2739132
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/259524742",
+  "properties": {
+    "addr:city": "Tann",
+    "addr:housenumber": "3",
+    "addr:postcode": "8632",
+    "addr:street": "Knecht-Wethli-Weg",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Alters- und Pflegeheim Nauengut",
+    "phone": "+41 55 250 81 11",
+    "social_facility": "nursing_home",
+    "source": "bing",
+    "website": "http://www.nauengut.ch/xml_3/internet/de/application/d447/f454.cfm",
+    "id": "way/259524742"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8545938,
+          47.2736417
+        ],
+        [
+          8.8547383,
+          47.2735112
+        ],
+        [
+          8.8548903,
+          47.2735886
+        ],
+        [
+          8.8547458,
+          47.2737191
+        ],
+        [
+          8.8545938,
+          47.2736417
         ]
       ]
     ]
@@ -24710,6 +25187,7 @@
     "addr:housenumber": "1",
     "addr:postcode": "8627",
     "addr:street": "Gerbistrasse",
+    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Klinik Sonnhalde Psychiatrie Haus im Rank",
@@ -25623,8 +26101,10 @@
     "amenity": "social_facility",
     "building": "yes",
     "name": "Tertianum Grünegg",
-    "social_facility": "assisted_living",
+    "phone": "+41 55 256 78 78",
+    "social_facility": "nursing_home",
     "social_facility:for": "senior",
+    "website": "https://www.tertianum.ch/de/tertianum-gruenegg-wald_url-correct",
     "id": "way/299214366"
   },
   "geometry": {
@@ -26980,6 +27460,50 @@
         [
           8.5240737,
           47.3407025
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/378942284",
+  "properties": {
+    "addr:city": "Rüti (ZH)",
+    "addr:housenumber": "4",
+    "addr:postcode": "8630",
+    "addr:street": "Werkstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Pflegewohnung Bruggacher",
+    "phone": "+41 55 260 14 28",
+    "social_facility": "nursing_home",
+    "website": "https://www.pwg-rb.ch/content/191/138/bruggacher-rueti",
+    "id": "way/378942284"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.851398,
+          47.2579861
+        ],
+        [
+          8.8510175,
+          47.2580028
+        ],
+        [
+          8.8510076,
+          47.2578994
+        ],
+        [
+          8.8513881,
+          47.2578827
+        ],
+        [
+          8.851398,
+          47.2579861
         ]
       ]
     ]
@@ -31381,82 +31905,81 @@
 },
 {
   "type": "Feature",
-  "id": "way/689514499",
+  "id": "way/686878008",
   "properties": {
-    "addr:city": "Wald ZH",
-    "addr:housenumber": "2",
-    "addr:postcode": "8636",
-    "addr:street": "Rosenthalstrasse",
-    "alt_name": "Pflegezentrum Rosenthal",
+    "addr:city": "Grüningen",
+    "addr:housenumber": "6",
+    "addr:postcode": "8627",
+    "addr:street": "Niderwisstrasse",
+    "alt_name": "Pflegewohnung Spitex Grüningen",
     "amenity": "social_facility",
-    "building": "yes",
-    "email": "info@stiftungdreitannen.ch",
-    "name": "Altersheim Drei Tannen/Ärztezentrum Rosenthal",
-    "opening_date": "2021-07-01",
-    "operator": "Stiftung Drei Tannen, Wald",
-    "operator:type": "private_non_profit",
-    "phone": "+41 55 256 11 11",
+    "building": "dormitory",
+    "building:levels": "4",
+    "name": "Pflegewohnung SEWO",
+    "roof:levels": "0",
     "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "website": "https://www.stiftungdreitannen.ch/",
-    "wheelchair": "yes",
-    "id": "way/689514499"
+    "website": "https://www.spitex-grueningen.ch/pflegewohnung/",
+    "id": "way/686878008"
   },
   "geometry": {
     "type": "Polygon",
     "coordinates": [
       [
         [
-          8.9109088,
-          47.2729956
+          8.758531,
+          47.2807057
         ],
         [
-          8.9108038,
-          47.2727737
+          8.7585144,
+          47.2805655
         ],
         [
-          8.9112263,
-          47.2726852
+          8.7587171,
+          47.2805074
         ],
         [
-          8.9112567,
-          47.2725454
+          8.7588438,
+          47.280391
         ],
         [
-          8.911714,
-          47.2725881
+          8.7587483,
+          47.2802932
         ],
         [
-          8.9117585,
-          47.2726538
+          8.7587727,
+          47.2802019
         ],
         [
-          8.9121594,
-          47.272518
+          8.7589705,
+          47.2801755
         ],
         [
-          8.9122948,
-          47.2727079
+          8.7590319,
+          47.2804737
         ],
         [
-          8.9117213,
-          47.272827
+          8.7590572,
+          47.280473
         ],
         [
-          8.9116911,
-          47.2727693
+          8.759105,
+          47.2805616
         ],
         [
-          8.9113481,
-          47.2728056
+          8.7589529,
+          47.2806178
         ],
         [
-          8.9113314,
-          47.2729079
+          8.7588477,
+          47.2806429
         ],
         [
-          8.9109088,
-          47.2729956
+          8.7587551,
+          47.2806905
+        ],
+        [
+          8.758531,
+          47.2807057
         ]
       ]
     ]
@@ -34869,6 +35392,7 @@
     "addr:housenumber": "2b",
     "addr:postcode": "8627",
     "addr:street": "Binzikerstrasse",
+    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Klinik Sonnhalde Haus Binzikerbach A",
@@ -35318,6 +35842,144 @@
         [
           8.4298795,
           47.3924998
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1061887143",
+  "properties": {
+    "addr:city": "Grüningen",
+    "addr:country": "CH",
+    "addr:housenumber": "2a",
+    "addr:postcode": "8627",
+    "addr:street": "Binzikerstrasse",
+    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Klinik Sonnhalde Haus Binzikerbach A",
+    "operator": "Klinik Sonnhalde",
+    "social_facility": "assisted_living",
+    "id": "way/1061887143"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7629658,
+          47.2818321
+        ],
+        [
+          8.763135,
+          47.2817817
+        ],
+        [
+          8.7631562,
+          47.2818145
+        ],
+        [
+          8.7631353,
+          47.2818208
+        ],
+        [
+          8.7631488,
+          47.2818416
+        ],
+        [
+          8.7631595,
+          47.2818384
+        ],
+        [
+          8.7632083,
+          47.2819136
+        ],
+        [
+          8.7630644,
+          47.2819566
+        ],
+        [
+          8.7630025,
+          47.2818612
+        ],
+        [
+          8.7629876,
+          47.2818657
+        ],
+        [
+          8.7629658,
+          47.2818321
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1061887144",
+  "properties": {
+    "addr:city": "Grüningen",
+    "addr:country": "CH",
+    "addr:housenumber": "2a",
+    "addr:postcode": "8627",
+    "addr:street": "Binzikerstrasse",
+    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Klinik Sonnhalde Haus Binzikerbach A",
+    "operator": "Klinik Sonnhalde",
+    "social_facility": "assisted_living",
+    "id": "way/1061887144"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7612614,
+          47.2806558
+        ],
+        [
+          8.7614306,
+          47.2806054
+        ],
+        [
+          8.7614518,
+          47.2806382
+        ],
+        [
+          8.7614309,
+          47.2806445
+        ],
+        [
+          8.7614444,
+          47.2806653
+        ],
+        [
+          8.7614551,
+          47.2806621
+        ],
+        [
+          8.7615039,
+          47.2807373
+        ],
+        [
+          8.76136,
+          47.2807803
+        ],
+        [
+          8.7612981,
+          47.2806849
+        ],
+        [
+          8.7612832,
+          47.2806894
+        ],
+        [
+          8.7612614,
+          47.2806558
         ]
       ]
     ]
@@ -38130,7 +38792,7 @@
     "email": "wohnheim@sandbueel.ch",
     "name": "Sandbüel",
     "phone": "+41 55 240 22 64",
-    "social_facility": "group_home",
+    "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "website": "http://www.sandbueel.ch/",
     "id": "node/6263487302"
@@ -40876,6 +41538,73 @@
     "coordinates": [
       8.4194922,
       47.3917959
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9754019575",
+  "properties": {
+    "alt_name": "Pflegezentrum Rosenthal Pflegeheim Wald Altersheim Wald Wohnen Rosenthal",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@stiftungdreitannen.ch",
+    "name": "Stiftung Drei Tannen / Pflegezentrum Rosenthal",
+    "opening_date": "2021-07-01",
+    "operator": "Stiftung Drei Tannen, Wald",
+    "operator:type": "private_non_profit",
+    "phone": "+41 55 256 11 11",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.stiftungdreitannen.ch/",
+    "wheelchair": "yes",
+    "id": "node/9754019575"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9115226,
+      47.2727259
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9754019576",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Spitex Wald und Fischenthal",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "operator": "Spitex Wald & Fischenthal",
+    "phone": "+41552461313",
+    "social_facility": "ambulatory_care",
+    "website": "https://www.stiftungdreitannen.ch/",
+    "id": "node/9754019576"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9120577,
+      47.2727169
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9754915190",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Pflegewohnung Park Schönegg",
+    "operator": "Verein Pflegewohnungen Rüti-Bubikon",
+    "phone": "+41 55 260 12 77",
+    "social_facility": "assisted_living",
+    "id": "node/9754915190"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8468301,
+      47.2593461
     ]
   }
 }
