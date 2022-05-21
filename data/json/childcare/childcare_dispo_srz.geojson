@@ -4564,6 +4564,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/4110517426",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Betreuung Schachen",
+    "operator": "Schule Schachen",
+    "id": "node/4110517426"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7178678,
+      47.5167361
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4110517437",
   "properties": {
     "addr:city": "Winterthur",

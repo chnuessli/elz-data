@@ -3195,6 +3195,134 @@
 },
 {
   "type": "Feature",
+  "id": "way/22468103",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "54",
+    "addr:postcode": "8400",
+    "addr:street": "Heiligbergstrasse",
+    "amenity": "school",
+    "building": "school",
+    "building:roof": "flat",
+    "isced:level": "1;2",
+    "name": "Freie Schule Winterthur",
+    "operator": "Freie Schule Winterthur",
+    "id": "way/22468103"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7216583,
+          47.4946367
+        ],
+        [
+          8.7218159,
+          47.4946105
+        ],
+        [
+          8.7218127,
+          47.4946017
+        ],
+        [
+          8.7218885,
+          47.4945891
+        ],
+        [
+          8.7219106,
+          47.4946495
+        ],
+        [
+          8.7218706,
+          47.4946562
+        ],
+        [
+          8.7218901,
+          47.4947095
+        ],
+        [
+          8.7218666,
+          47.4947134
+        ],
+        [
+          8.7218399,
+          47.4947178
+        ],
+        [
+          8.7218761,
+          47.494817
+        ],
+        [
+          8.7219028,
+          47.4948126
+        ],
+        [
+          8.7219415,
+          47.4949186
+        ],
+        [
+          8.7218828,
+          47.4949284
+        ],
+        [
+          8.7218636,
+          47.4949316
+        ],
+        [
+          8.7218875,
+          47.4949971
+        ],
+        [
+          8.721784,
+          47.4950143
+        ],
+        [
+          8.7217611,
+          47.4950181
+        ],
+        [
+          8.7217365,
+          47.4949508
+        ],
+        [
+          8.7216895,
+          47.4949587
+        ],
+        [
+          8.721657,
+          47.4948695
+        ],
+        [
+          8.7216773,
+          47.4948661
+        ],
+        [
+          8.7216494,
+          47.4947896
+        ],
+        [
+          8.7216733,
+          47.4947857
+        ],
+        [
+          8.7216454,
+          47.4947094
+        ],
+        [
+          8.7216826,
+          47.4947032
+        ],
+        [
+          8.7216583,
+          47.4946367
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/22703667",
   "properties": {
     "addr:city": "Winterthur",
@@ -13921,7 +14049,9 @@
   "type": "Feature",
   "id": "way/34931491",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "15",
+    "addr:postcode": "8406",
     "addr:street": "Maienstrasse",
     "amenity": "school",
     "building": "school",
@@ -13937,40 +14067,40 @@
     "coordinates": [
       [
         [
-          8.7149828,
-          47.4923677
+          8.7149315,
+          47.492318
         ],
         [
-          8.71501,
-          47.4923915
+          8.7150002,
+          47.4923741
         ],
         [
-          8.7150262,
-          47.492383
+          8.7150215,
+          47.4923635
         ],
         [
-          8.715067,
-          47.4924187
+          8.7150804,
+          47.492412
         ],
         [
-          8.7150833,
-          47.4924102
+          8.7150917,
+          47.4924059
         ],
         [
-          8.7151398,
-          47.4924628
+          8.7151447,
+          47.4924509
         ],
         [
-          8.7149778,
-          47.49253
+          8.7149919,
+          47.4925138
         ],
         [
-          8.7148642,
-          47.4924296
+          8.714815,
+          47.4923655
         ],
         [
-          8.7149828,
-          47.4923677
+          8.7149315,
+          47.492318
         ]
       ]
     ]
@@ -21118,7 +21248,9 @@
   "type": "Feature",
   "id": "way/52373547",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "24",
+    "addr:postcode": "8408",
     "addr:street": "Talhofweg",
     "amenity": "school",
     "building": "yes",
@@ -21265,7 +21397,7 @@
   "id": "way/52562296",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Langwiesen",
+    "name": "Schule Langwiesen",
     "operator": "Schule Langwiesen-Wyden",
     "id": "way/52562296"
   },
@@ -24319,7 +24451,7 @@
   "id": "way/72414570",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Altstadt",
+    "name": "Schule Altstadt",
     "operator": "Primarschule Lind",
     "id": "way/72414570"
   },
@@ -24464,7 +24596,7 @@
   "id": "way/72414574",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Eulachpark",
+    "name": "Schule Eulachpark",
     "website": "https://www.schule-hegi.ch/",
     "id": "way/72414574"
   },
@@ -25317,7 +25449,7 @@
   "id": "way/80905222",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Wyden",
+    "name": "Schule Wyden",
     "operator": "Schule Langwiesen-Wyden",
     "toilets:wheelchair": "yes",
     "wheelchair": "yes",
@@ -25559,7 +25691,7 @@
   "id": "way/82742584",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Gutenberg",
+    "name": "Schule Gutenberg",
     "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
     "id": "way/82742584"
   },
@@ -25616,7 +25748,7 @@
     "addr:postcode": "8406",
     "addr:street": "Klosterstrasse",
     "amenity": "school",
-    "name": "Schulhaus Eichliacker",
+    "name": "Schule Eichliacker",
     "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
     "id": "way/82967375"
   },
@@ -27354,7 +27486,7 @@
   "id": "way/91979519",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Tössfeld",
+    "name": "Schule Tössfeld",
     "operator": "Primarschule Tössfeld, Schulkreis Winterthur Stadt-Töss",
     "website": "http://www.schuletoessfeld.ch",
     "id": "way/91979519"
@@ -30666,7 +30798,7 @@
     "addr:postcode": "8405",
     "addr:street": "Eidbergstrasse",
     "amenity": "school",
-    "name": "Schulhaus Eidberg",
+    "name": "Schule Eidberg",
     "operator": "Schule Aussenwachten",
     "id": "way/101625922"
   },
@@ -31520,7 +31652,7 @@
   "id": "way/109298074",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Hegifeld",
+    "name": "Schule Hegifeld",
     "website": "https://www.schule-hegi.ch/",
     "id": "way/109298074"
   },
@@ -32604,6 +32736,10 @@
   "type": "Feature",
   "id": "way/113218914",
   "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "15.1",
+    "addr:postcode": "8404",
+    "addr:street": "Lindbergwaldstrasse",
     "amenity": "school",
     "name": "Waldschulzimmer",
     "operator": "Holzkorporation Oberwinterthur",
@@ -32667,7 +32803,7 @@
   "id": "way/114313864",
   "properties": {
     "amenity": "school",
-    "name": "Talacker",
+    "name": "Schule Talacker",
     "id": "way/114313864"
   },
   "geometry": {
@@ -33266,7 +33402,7 @@
   "id": "way/115808359",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Stadel",
+    "name": "Schule Stadel",
     "id": "way/115808359"
   },
   "geometry": {
@@ -36561,7 +36697,7 @@
   "properties": {
     "amenity": "school",
     "grades": "0-6",
-    "name": "Schule Guggenbühl",
+    "name": "Primarschule Guggenbühl",
     "operator": "Stadt Winterthur",
     "operator:type": "public",
     "website": "https://www.schule-guggenbuehl.ch/",
@@ -37787,7 +37923,7 @@
   "id": "way/135263660",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Schachen",
+    "name": "Schule Schachen",
     "operator": "Schule Schachen",
     "id": "way/135263660"
   },
@@ -38524,7 +38660,7 @@
   "id": "way/139975268",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Tägelmoos",
+    "name": "Schule Tägelmoos",
     "operator": "Schule Tägelmoos",
     "website": "http://www.taegelmoos.ch/",
     "id": "way/139975268"
@@ -47063,7 +47199,7 @@
   "id": "way/172341987",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Steinacker",
+    "name": "Schule Steinacker",
     "id": "way/172341987"
   },
   "geometry": {
@@ -78846,7 +78982,7 @@
   "id": "way/397797231",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Zinzikon",
+    "name": "Schule Zinzikon",
     "website": "http://www.schule-oberi.ch/schulhaeuser.php?schulhausid=26",
     "wikidata": "Q67404668",
     "id": "way/397797231"
@@ -79288,6 +79424,10 @@
   "type": "Feature",
   "id": "way/406012751",
   "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "2",
+    "addr:postcode": "8400",
+    "addr:street": "Weberstrasse",
     "amenity": "school",
     "name": "Primarschule Schönengrund",
     "operator": "Tagesschule Schönengrund",
@@ -102613,23 +102753,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4110517426",
-  "properties": {
-    "amenity": "school",
-    "name": "Betreuung Schachen",
-    "operator": "Schule Schachen",
-    "id": "node/4110517426"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7178678,
-      47.5167361
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4122645389",
   "properties": {
     "addr:housenumber": "24",
@@ -102722,8 +102845,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7235136,
-      47.502741
+      8.7234462,
+      47.5027483
     ]
   }
 },
@@ -102888,8 +103011,12 @@
   "type": "Feature",
   "id": "node/4379763131",
   "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "10",
+    "addr:postcode": "8404",
+    "addr:street": "Rudolf-Diesel-Strasse",
     "amenity": "school",
-    "name": "Profil",
+    "name": "Profil Berufsvorbereitung",
     "id": "node/4379763131"
   },
   "geometry": {
@@ -106129,6 +106256,74 @@
     "coordinates": [
       8.8504426,
       47.2994047
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9756929945",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "1",
+    "addr:postcode": "8406",
+    "addr:street": "Technoparkstrasse",
+    "amenity": "school",
+    "contact:email": "info.winterthur@swissinternationalschool.ch",
+    "contact:phone": "+41 52 202 82 11",
+    "contact:website": "https://www.swissinternationalschool.ch/de-CH/Schulorte/Winterthur",
+    "name": "SIS Swiss International School",
+    "operator": "SIS Swiss International School",
+    "short_name": "SIS",
+    "id": "node/9756929945"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7162418,
+      47.4945564
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9756988095",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "3",
+    "addr:postcode": "8400",
+    "addr:street": "Wülflingerstrasse",
+    "amenity": "school",
+    "name": "United School of Sports",
+    "operator": "United School of Sports",
+    "id": "node/9756988095"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7235565,
+      47.502706
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9757186160",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "5",
+    "addr:postcode": "8401",
+    "addr:street": "Technoparkstrasse",
+    "amenity": "school",
+    "name": "SWS Schulen für Wirtschaft & Sprachen",
+    "operator": "SWS Schulen für Wirtschaft & Sprachen",
+    "short_name": "SWS",
+    "id": "node/9757186160"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7168634,
+      47.4951663
     ]
   }
 }

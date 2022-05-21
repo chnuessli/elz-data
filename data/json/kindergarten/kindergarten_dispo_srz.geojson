@@ -39718,6 +39718,26 @@
       47.3624934
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9757069408",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "50",
+    "addr:postcode": "8409",
+    "addr:street": "Reismühleweg",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Reismühle",
+    "id": "node/9757069408"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7697977,
+      47.505648
+    ]
+  }
 }
 ]
 }
