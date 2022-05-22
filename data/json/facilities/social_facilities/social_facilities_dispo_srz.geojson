@@ -22166,11 +22166,14 @@
     "addr:housenumber": "71",
     "addr:postcode": "8344",
     "addr:street": "Rüeggenthalstrasse",
+    "alt_name": "Kinderheim Sunnemätteli",
     "amenity": "social_facility",
     "building": "yes",
-    "email": "sunnemaetteli@swi.salvationarmy.org",
-    "name": "Sunnemätteli",
+    "email": "sunnemaetteli@heilsarmee.ch",
+    "name": "Entlastungsheim Sunnemätteli",
     "phone": "+41 44 939 99 80",
+    "social_facility": "group_home",
+    "social_facility:for": "child",
     "website": "https://www.entlastungsheim-sunnemaetteli.ch/",
     "id": "way/200986361"
   },
@@ -25572,7 +25575,7 @@
     "addr:street": "Haldengutstrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "mail": "wohngruppen@vivazzo.ch",
+    "email": "wohngruppen@vivazzo.ch",
     "name": "Vivazzo Wohngruppe Linde",
     "phone": "+41 55 240 86 80",
     "social_facility": "assisted_living",
@@ -25626,7 +25629,7 @@
     "addr:street": "Steinacherstrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "mail": "buchenhof@vivazzo.ch",
+    "email": "buchenhof@vivazzo.ch",
     "name": "Vivazzo Wohnhaus Buchenhof",
     "phone": "+41 55 251 04 30",
     "social_facility": "assisted_living",
@@ -26321,7 +26324,7 @@
     "alt_name": "Wohnheim Landhaus Sonne",
     "amenity": "social_facility",
     "building": "yes",
-    "mail": "wohnen@landhaus-sonne.ch",
+    "email": "wohnen@landhaus-sonne.ch",
     "name": "Landhaus Sonne",
     "phone": "+41 44 972 18 70",
     "social_facility": "assisted_living",
@@ -49932,6 +49935,27 @@
     "coordinates": [
       8.8468301,
       47.2593461
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9759476430",
+  "properties": {
+    "alt_name": "Pflegewohnung Spitex Bäretswil",
+    "amenity": "social_facility",
+    "name": "Pflegewohnung Bäretswil",
+    "operator": "Spitex Bäretswil",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.spitex-baeretswil.ch/pflegewohnung",
+    "id": "node/9759476430"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8564191,
+      47.3369974
     ]
   }
 }
