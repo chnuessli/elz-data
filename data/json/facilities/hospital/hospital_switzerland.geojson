@@ -50564,6 +50564,25 @@
       47.5353622
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9764353943",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "orthopaedics;hand_surgery;rheumatology;internal;sugery;osteopathy;physiotherapy;ergotherapy",
+    "name": "Klinik Impuls Zürcher Oberland",
+    "website": "https://www.klinik-impuls.ch/",
+    "id": "node/9764353943"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7989759,
+      47.3273504
+    ]
+  }
 }
 ]
 }
