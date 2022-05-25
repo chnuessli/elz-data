@@ -7909,6 +7909,48 @@
       47.3273504
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9767828227",
+  "properties": {
+    "amenity": "clinic",
+    "email": "info@handclinic.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "hand_surgery",
+    "name": "handclinic AG Rüti",
+    "phone": "+41 55 251 23 23",
+    "website": "http://www.handclinic.ch/",
+    "id": "node/9767828227"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8531577,
+      47.2601863
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9768060623",
+  "properties": {
+    "amenity": "clinic",
+    "email": "info@geburtshaus-zho.ch",
+    "healthcare": "birthing_center",
+    "healthcare:speciality": "midwife",
+    "name": "Geburtshaus Zürcher Oberland",
+    "phone": "+41449399900",
+    "website": "https://geburtshaus-zho.ch/",
+    "id": "node/9768060623"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8472584,
+      47.3323461
+    ]
+  }
 }
 ]
 }

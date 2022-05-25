@@ -9257,7 +9257,7 @@
     "addr:street": "Bühlstrasse",
     "amenity": "kindergarten",
     "building": "yes",
-    "name": "Kindergarten Bühl",
+    "name": "Kindergarten Bühl 3",
     "id": "way/123561294"
   },
   "geometry": {
@@ -17335,7 +17335,7 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "isced:level": "0",
-    "name": "Feld",
+    "name": "Kindergarten Feld",
     "id": "way/247885744"
   },
   "geometry": {
@@ -17909,7 +17909,7 @@
     "amenity": "kindergarten",
     "building": "yes",
     "isced:level": "0",
-    "name": "Kindergarten Egg",
+    "name": "Kindergarten Egg 1+2",
     "id": "way/253300013"
   },
   "geometry": {
@@ -27932,11 +27932,12 @@
   "properties": {
     "addr:city": "Wetzikon",
     "addr:country": "CH",
-    "addr:housenumber": "35",
+    "addr:housenumber": "35a",
     "addr:postcode": "8620",
     "addr:street": "Bühlstrasse",
     "amenity": "kindergarten",
     "building": "yes",
+    "name": "Kindergarten Bühl 1+2",
     "id": "way/963055706"
   },
   "geometry": {
@@ -29175,6 +29176,26 @@
     "coordinates": [
       8.5388817,
       47.4131857
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/431298146",
+  "properties": {
+    "addr:city": "Wetzikon",
+    "addr:housenumber": "27",
+    "addr:postcode": "8620",
+    "addr:street": "Ettenhauserstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Goldbühl 1+2",
+    "id": "node/431298146"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8045898,
+      47.327158
     ]
   }
 },
@@ -39736,6 +39757,26 @@
     "coordinates": [
       8.7697977,
       47.505648
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9766170717",
+  "properties": {
+    "addr:city": "Wetzikon",
+    "addr:housenumber": "2",
+    "addr:postcode": "8620",
+    "addr:street": "Ringwilerstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Ettenhausen",
+    "id": "node/9766170717"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.824733,
+      47.3224863
     ]
   }
 }

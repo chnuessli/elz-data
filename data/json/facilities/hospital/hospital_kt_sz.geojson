@@ -12,7 +12,7 @@
     "amenity": "clinic",
     "building": "yes",
     "healthcare": "clinic",
-    "healthcare:speciality": "cardiology",
+    "healthcare:speciality": "cardiology;interventional_cardiology",
     "name": "Cardiance Clinic",
     "operator": "Cardiance Clinic",
     "website": "https://www.cardiance.com",
