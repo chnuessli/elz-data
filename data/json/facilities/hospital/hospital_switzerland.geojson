@@ -46782,11 +46782,14 @@
     "addr:postcode": "8640",
     "addr:street": "Güterstrasse",
     "amenity": "clinic",
-    "contact:website": "http://rosenklinik.ch/",
+    "email": "klinik@rosenklinik.ch",
     "emergency": "no",
     "healthcare": "clinic",
+    "healthcare:speciality": "orthopaedics;orthopaedic_surgery;abdominal_surgery;gastroenterological_surgery;vascular_surgery;thoracic_surgery;physiotherapy;radiology;Anesthesiology",
     "name": "Rosenklinik",
     "opening_hours": "Mo-Fr 08:00-12:00, 13:30-16:00",
+    "phone": "+41 55 220 70 00",
+    "website": "https://www.rosenklinik.ch/",
     "id": "node/3978250421"
   },
   "geometry": {
@@ -49920,6 +49923,8 @@
   "properties": {
     "amenity": "clinic",
     "email": "rapperswil@rodiag.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
     "name": "RODIAG Diagnostic Centers Röntgeninstitut",
     "phone": "+41 58 401 14 00",
     "website": "http://www.rodiag.ch/default.asp?langid=de&siteid=1&id=1011000",
@@ -50623,6 +50628,28 @@
     "coordinates": [
       8.8472584,
       47.3323461
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9770559736",
+  "properties": {
+    "alt_name": "Uroklinik Rapperswil",
+    "amenity": "clinic",
+    "email": "uroclinic.rapperswil@hin.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "urology",
+    "name": "uroclinic Rapperswil",
+    "phone": "+41 55 210 74 74",
+    "website": "https://uroclinic.ch/kontakt/uroclinic-rapperswil",
+    "id": "node/9770559736"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8218901,
+      47.2280276
     ]
   }
 }

@@ -1078,6 +1078,27 @@
       47.4041794
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9770635305",
+  "properties": {
+    "amenity": "doctors",
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Impfzentrum Rapperswil-Jona",
+    "operator": "Gesundheitsdirektion Kanton SG",
+    "vaccination": "COVID-19",
+    "website": "https://www.sg-impft.ch/standort/impfzentrum-rapperswil-jona/",
+    "id": "node/9770635305"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8486075,
+      47.2299528
+    ]
+  }
 }
 ]
 }
