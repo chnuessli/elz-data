@@ -4369,6 +4369,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/4237477600",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Joey",
+    "website": "https://www.joey-kinderkrippe.ch/",
+    "id": "node/4237477600"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5332524,
+      47.3449977
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4237507889",
   "properties": {
     "amenity": "childcare",
@@ -10690,6 +10707,23 @@
     "coordinates": [
       8.4074046,
       47.4995927
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9776848825",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Tobogan",
+    "website": "https://www.centrum-cs-curych.ch/",
+    "id": "node/9776848825"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5418582,
+      47.4135944
     ]
   }
 }
