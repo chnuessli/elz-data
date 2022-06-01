@@ -17509,24 +17509,24 @@
           47.2673276
         ],
         [
-          8.7213613,
-          47.2674161
+          8.7213627,
+          47.2674032
         ],
         [
-          8.7213978,
-          47.2674479
+          8.7213789,
+          47.267416
         ],
         [
-          8.7214747,
-          47.2674092
+          8.7214625,
+          47.2674409
         ],
         [
-          8.721563,
-          47.2673581
+          8.7215363,
+          47.267381
         ],
         [
-          8.7217268,
-          47.2672568
+          8.72167,
+          47.2672859
         ],
         [
           8.7219587,
@@ -17537,16 +17537,24 @@
           47.2674386
         ],
         [
-          8.7221971,
-          47.267609
+          8.722183,
+          47.2675994
         ],
         [
-          8.7217679,
-          47.2675347
+          8.721888,
+          47.2675595
         ],
         [
-          8.7217374,
-          47.267583
+          8.7218022,
+          47.2675481
+        ],
+        [
+          8.7217339,
+          47.2675956
+        ],
+        [
+          8.7215882,
+          47.2678721
         ],
         [
           8.7214321,
@@ -46807,8 +46815,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8221395,
-      47.2263676
+      8.8222097,
+      47.2264223
     ]
   }
 },
@@ -47900,22 +47908,22 @@
   "id": "node/5807037463",
   "properties": {
     "addr:city": "Meyrin",
-    "addr:housenumber": "24",
+    "addr:housenumber": "21B",
     "addr:postcode": "1217",
-    "addr:street": "Promenade des Artisans",
+    "addr:street": "Rue des Lattes",
     "amenity": "clinic",
     "healthcare": "clinic",
-    "name": "Centre médical de Meyrin, CMM",
-    "opening_hours": "Mo-Fr 08:00-19:00",
-    "phone": "+41 22 719 74 00",
-    "website": "https://www.la-tour.ch",
+    "name": "Centre Médical de Meyrin, CMM",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "phone": "+41 22 555 40 00",
+    "website": "https://cmmeyrin.ch/",
     "id": "node/5807037463"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      6.0794984,
-      46.2382538
+      6.080633,
+      46.2381035
     ]
   }
 },
@@ -50662,6 +50670,72 @@
     "coordinates": [
       8.8218901,
       47.2280276
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9770566632",
+  "properties": {
+    "amenity": "clinic",
+    "email": "rapperswil@psych.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "psychiatry;psychotherapy",
+    "name": "Psychiatriezentrum Linthgebiet, Standort Rapperswil",
+    "operator": "Psychiatrie-Dienste Süd Kanton St. Gallen",
+    "phone": "+41 58 178 76 11",
+    "website": "https://psych.ch/standorte/psychiatrie-zentrum-linthgebiet-standort-rapperswil#0",
+    "id": "node/9770566632"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8178185,
+      47.2255667
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9786615070",
+  "properties": {
+    "amenity": "clinic",
+    "email": "uznach@psych.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "psychiatry;psychotherapy",
+    "name": "Psychiatrie-Zentrum Linthgebiet",
+    "operator": "Psychiatrie-Dienste Süd Kanton St. Gallen",
+    "phone": "+41 58 178 76 11",
+    "website": "https://psych.ch/standorte/psychiatrie-zentrum-linthgebiet-standort-uznach#0",
+    "id": "node/9786615070"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9837559,
+      47.2244011
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9786676756",
+  "properties": {
+    "alt_name": "Rodiag Jona",
+    "amenity": "clinic",
+    "email": "jona@rodiag.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "phone": "0800 440 014",
+    "website": "https://www.rodiag.ch/willkommen/standorte/jona/",
+    "id": "node/9786676756"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8525138,
+      47.2305492
     ]
   }
 }

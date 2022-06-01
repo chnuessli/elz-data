@@ -47907,15 +47907,17 @@
   "type": "Feature",
   "id": "node/6886399427",
   "properties": {
+    "access": "no",
     "barrier": "lift_gate",
-    "lift_gate:type": "single",
+    "lift_gate:type": "double",
+    "vehicle": "delivery",
     "id": "node/6886399427"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5667162,
-      47.4523528
+      8.5667199,
+      47.4523546
     ]
   }
 },
@@ -47923,15 +47925,17 @@
   "type": "Feature",
   "id": "node/6886399430",
   "properties": {
+    "access": "no",
     "barrier": "lift_gate",
     "lift_gate:type": "double",
+    "vehicle": "delivery",
     "id": "node/6886399430"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5667972,
-      47.4524421
+      8.5668013,
+      47.4524343
     ]
   }
 },
@@ -63968,6 +63972,69 @@
     "coordinates": [
       8.6697155,
       47.3826176
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9785751932",
+  "properties": {
+    "access": "yes",
+    "barrier": "lift_gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "horse": "yes",
+    "lift_gate:type": "single",
+    "motor_vehicle": "no",
+    "vehicle": "no",
+    "wheelchair": "yes",
+    "id": "node/9785751932"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.565768,
+      47.4523267
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9785751933",
+  "properties": {
+    "access": "yes",
+    "barrier": "lift_gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "horse": "yes",
+    "lift_gate:type": "single",
+    "motor_vehicle": "no",
+    "vehicle": "no",
+    "wheelchair": "yes",
+    "id": "node/9785751933"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5657825,
+      47.4522541
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9785751941",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "vehicle": "yes",
+    "id": "node/9785751941"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5669386,
+      47.4487921
     ]
   }
 }

@@ -2671,6 +2671,42 @@
       47.6778427
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9787032231",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "maxwidth": "1",
+    "id": "node/9787032231"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.642217,
+      47.6954864
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9787032232",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "maxwidth": "1",
+    "id": "node/9787032232"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6422991,
+      47.695345
+    ]
+  }
 }
 ]
 }
