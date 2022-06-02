@@ -5975,29 +5975,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5331472,
-      47.3079194
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9417237845",
-  "properties": {
-    "addr:city": "Adliswil",
-    "addr:housenumber": "4",
-    "addr:postcode": "8134",
-    "addr:street": "Parkweg",
-    "description": "Schulhaus Dietlimoos",
-    "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
-    "id": "node/9417237845"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5312786,
-      47.3187135
+      8.533118,
+      47.3079043
     ]
   }
 },
@@ -6502,6 +6481,27 @@
     "coordinates": [
       8.6484559,
       47.5724976
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9788460834",
+  "properties": {
+    "addr:city": "Adliswil",
+    "addr:housenumber": "4",
+    "addr:postcode": "8134",
+    "addr:street": "Parkweg",
+    "description": "Schulhaus Dietlimoos",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "id": "node/9788460834"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5305523,
+      47.3213577
     ]
   }
 }

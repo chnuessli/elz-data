@@ -2407,7 +2407,9 @@
   "type": "Feature",
   "id": "way/36738978",
   "properties": {
+    "addr:city": "Adliswil",
     "addr:housenumber": "7",
+    "addr:postcode": "8134",
     "addr:street": "Isengrundstrasse",
     "amenity": "kindergarten",
     "building": "yes",
@@ -2419,32 +2421,56 @@
     "coordinates": [
       [
         [
-          8.5253666,
-          47.317924
+          8.5253487,
+          47.317908
         ],
         [
-          8.5254729,
-          47.3178383
+          8.5254173,
+          47.3178522
         ],
         [
-          8.5256254,
-          47.3179252
+          8.5255408,
+          47.3179213
         ],
         [
-          8.5257019,
-          47.3178635
+          8.5255569,
+          47.317909
         ],
         [
-          8.5258073,
-          47.3179236
+          8.5256002,
+          47.3179348
         ],
         [
-          8.5256245,
-          47.318071
+          8.5256801,
+          47.3178705
         ],
         [
-          8.5253666,
-          47.317924
+          8.5257648,
+          47.317918
+        ],
+        [
+          8.5256392,
+          47.318021
+        ],
+        [
+          8.5255843,
+          47.3179893
+        ],
+        [
+          8.5255169,
+          47.3180443
+        ],
+        [
+          8.5254377,
+          47.3179993
+        ],
+        [
+          8.5254674,
+          47.3179744
+        ],
+        [
+          8.5253487,
+          47.317908
         ]
       ]
     ]
@@ -2454,8 +2480,12 @@
   "type": "Feature",
   "id": "way/36739585",
   "properties": {
+    "addr:city": "Adliswil",
+    "addr:housenumber": "58",
+    "addr:postcode": "8134",
+    "addr:street": "Zelgstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Hündli",
     "id": "way/36739585"
   },
@@ -2464,48 +2494,56 @@
     "coordinates": [
       [
         [
-          8.5171215,
-          47.3150824
+          8.5171087,
+          47.3150814
         ],
         [
-          8.517167,
-          47.3149473
+          8.5171517,
+          47.3149445
         ],
         [
-          8.5172867,
-          47.3149658
+          8.517196,
+          47.3149501
         ],
         [
-          8.5172704,
-          47.3150141
+          8.517221,
+          47.3148719
         ],
         [
-          8.5173131,
-          47.3150207
+          8.5173418,
+          47.314889
         ],
         [
-          8.5172929,
-          47.3150806
+          8.5173275,
+          47.314936
         ],
         [
-          8.5172689,
-          47.3150769
+          8.5173687,
+          47.3149422
         ],
         [
-          8.5172618,
-          47.315098
+          8.5173312,
+          47.3150576
         ],
         [
-          8.5172422,
-          47.315095
+          8.5172913,
+          47.3150515
         ],
         [
-          8.5172402,
-          47.3151008
+          8.5172819,
+          47.3150786
         ],
         [
-          8.5171215,
-          47.3150824
+          8.5172409,
+          47.3150732
+        ],
+        [
+          8.5172331,
+          47.3151003
+        ],
+        [
+          8.5171087,
+          47.3150814
         ]
       ]
     ]
@@ -11882,6 +11920,62 @@
         [
           8.6134851,
           47.2885771
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/155725645",
+  "properties": {
+    "addr:housenumber": "8",
+    "addr:postcode": "8134",
+    "addr:street": "Feldweg",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Feldweg",
+    "id": "way/155725645"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5302438,
+          47.3121547
+        ],
+        [
+          8.5302568,
+          47.3121332
+        ],
+        [
+          8.530238,
+          47.3121274
+        ],
+        [
+          8.5302878,
+          47.3120424
+        ],
+        [
+          8.5306353,
+          47.3121375
+        ],
+        [
+          8.5306186,
+          47.3121647
+        ],
+        [
+          8.5305911,
+          47.3121577
+        ],
+        [
+          8.5305445,
+          47.3122364
+        ],
+        [
+          8.5302438,
+          47.3121547
         ]
       ]
     ]
@@ -27907,6 +28001,63 @@
 },
 {
   "type": "Feature",
+  "id": "way/923720418",
+  "properties": {
+    "addr:city": "Adliswil",
+    "addr:housenumber": "23",
+    "addr:postcode": "8134",
+    "addr:street": "Sihlstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kiga Rudolf Steiner Schule Sihlau",
+    "id": "way/923720418"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5255762,
+          47.3035655
+        ],
+        [
+          8.5258324,
+          47.303399
+        ],
+        [
+          8.5259408,
+          47.3034757
+        ],
+        [
+          8.5258564,
+          47.3035306
+        ],
+        [
+          8.5258785,
+          47.3035462
+        ],
+        [
+          8.5257929,
+          47.3036019
+        ],
+        [
+          8.5257725,
+          47.3035875
+        ],
+        [
+          8.5256864,
+          47.3036434
+        ],
+        [
+          8.5255762,
+          47.3035655
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/930769888",
   "properties": {
     "amenity": "kindergarten",
@@ -40118,6 +40269,74 @@
     "coordinates": [
       8.5396223,
       47.5171391
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9787410508",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Adlikon",
+    "contact:housenumber": "13",
+    "contact:phone": "+41 44 841 12 46",
+    "contact:postcode": "8106",
+    "contact:street": "Büngertlistrasse",
+    "contact:website": "https://www.ps-regensdorf.ch/watt/kontakt/p-241/",
+    "name": "Kindergarten Büngertli",
+    "id": "node/9787410508"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.461581,
+      47.4544574
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9787453319",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Adliswil",
+    "contact:housenumber": "6",
+    "contact:phone": "+41 44 710 72 94",
+    "contact:postcode": "8134",
+    "contact:street": "Hofackerstrasse",
+    "contact:website": "https://www.allbiz.ch/kindergarten-hofacker_50-044-710-72-94",
+    "name": "Kindergarten Hofacker",
+    "id": "node/9787453319"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5325119,
+      47.3154974
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9787537271",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Adliswil",
+    "contact:email": "office@houseofkids.ch",
+    "contact:housenumber": "73a",
+    "contact:phone": "+41 44 709 24 75",
+    "contact:postcode": "8134",
+    "contact:street": "Zürichstrasse",
+    "contact:website": "https://www.houseofkids.ch/de/kontakt/",
+    "name": "Montessori House of Kids",
+    "operator": "Montesori",
+    "id": "node/9787537271"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5285896,
+      47.3223108
     ]
   }
 }

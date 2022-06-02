@@ -50117,6 +50117,78 @@
 },
 {
   "type": "Feature",
+  "id": "way/226527393",
+  "properties": {
+    "addr:city": "Bäretswil",
+    "addr:country": "CH",
+    "addr:housenumber": "16a",
+    "addr:postcode": "8344",
+    "addr:street": "Stapfetenstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Adetswil",
+    "phone": "+41 44 939 17 41",
+    "website": "https://www.baeretswil.org/de/schule/schulhaeuser/welcome.php?action=showobject&object_id=2032",
+    "id": "way/226527393"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8444827,
+          47.3403037
+        ],
+        [
+          8.8443421,
+          47.340353
+        ],
+        [
+          8.844356,
+          47.3403711
+        ],
+        [
+          8.844487,
+          47.3405429
+        ],
+        [
+          8.8443452,
+          47.3405925
+        ],
+        [
+          8.8441612,
+          47.3403512
+        ],
+        [
+          8.8441804,
+          47.3403445
+        ],
+        [
+          8.8441458,
+          47.3402991
+        ],
+        [
+          8.8440187,
+          47.3401324
+        ],
+        [
+          8.8439925,
+          47.340098
+        ],
+        [
+          8.8442556,
+          47.3400059
+        ],
+        [
+          8.8444827,
+          47.3403037
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/226528805",
   "properties": {
     "addr:city": "Adetswil",
@@ -57077,7 +57149,7 @@
     "addr:street": "Stapfetenstrasse",
     "amenity": "school",
     "email": "schulhaus.adetswil@baeretswil.org",
-    "name": "Schulhaus Adetswil",
+    "name": "Schule Adetswil",
     "phone": "+41 44 939 17 41",
     "school": "primary",
     "school:CH": "primarschule",
@@ -69487,20 +69559,20 @@
           47.5838141
         ],
         [
-          8.6924407,
+          8.6924568,
           47.5838418
         ],
         [
-          8.6924333,
-          47.5838842
+          8.6924506,
+          47.5838818
         ],
         [
-          8.6924014,
-          47.5841006
+          8.6924141,
+          47.5841021
         ],
         [
-          8.6924001,
-          47.5841168
+          8.6924154,
+          47.5841163
         ],
         [
           8.692067,
@@ -83056,7 +83128,7 @@
   "id": "way/1000814176",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Dietlimoos",
+    "name": "Schule Dietlimoos",
     "website": "https://www.schule-adliswil.ch/dietlimoos/",
     "id": "way/1000814176"
   },
@@ -84903,8 +84975,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5197087,
-      47.3105405
+      8.519244,
+      47.3104265
     ]
   }
 },
