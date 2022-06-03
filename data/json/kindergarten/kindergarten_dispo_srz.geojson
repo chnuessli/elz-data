@@ -39312,26 +39312,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9529440134",
-  "properties": {
-    "amenity": "kindergarten",
-    "email": "kontakt@guexi.ch",
-    "name": "Güxi Kinderkrippe ZH-Altstetten Kreis 9, Lindenplatz",
-    "operator": "Güxi Kinderkrippen",
-    "phone": "+41 43 266 62 62",
-    "website": "https://www.guexi.ch/de/standorte",
-    "id": "node/9529440134"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.485265,
-      47.388168
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9529440135",
   "properties": {
     "amenity": "kindergarten",

@@ -6340,14 +6340,22 @@
   "id": "node/7967037972",
   "properties": {
     "amenity": "childcare",
+    "contact:city": "Zürich-Flughafen",
+    "contact:email": "info@globegarden.org",
+    "contact:housenumber": "67",
+    "contact:phone": "+41 44 536 55 32",
+    "contact:postcode": "8058",
+    "contact:street": "The Circle",
+    "contact:website": "http://www.globegarden.org/",
+    "isced:level": "0",
     "name": "Globegarden Kinderkrippe",
     "id": "node/7967037972"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5675822,
-      47.4489314
+      8.5675914,
+      47.4489527
     ]
   }
 },

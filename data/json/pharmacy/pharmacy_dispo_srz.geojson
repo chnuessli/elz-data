@@ -7723,16 +7723,21 @@
   "properties": {
     "amenity": "pharmacy",
     "dispensing": "yes",
+    "email": "circle@victoria-apotheke.ch",
     "healthcare": "pharmacy",
     "level": "0",
-    "name": "Victoria-Apotheke",
+    "name": "Victoria Apotheke",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa,Su 10:00-17:00",
+    "phone": "+41 44 259 80 80",
+    "website": "http://www.victoria-apotheke.ch/",
+    "wheelchair": "yes",
     "id": "node/7967037966"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5662041,
-      47.4491418
+      8.5661056,
+      47.4490752
     ]
   }
 },
