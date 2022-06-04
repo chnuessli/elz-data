@@ -13204,7 +13204,7 @@
   "id": "way/37345837",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Werd",
+    "name": "Schule Werd",
     "id": "way/37345837"
   },
   "geometry": {
@@ -13212,20 +13212,20 @@
     "coordinates": [
       [
         [
-          8.5282993,
-          47.316358
+          8.5283075,
+          47.3163769
         ],
         [
-          8.5278563,
-          47.3165231
+          8.5278538,
+          47.3165498
         ],
         [
-          8.5266641,
-          47.3162065
+          8.526628,
+          47.3162054
         ],
         [
-          8.5266738,
-          47.3160291
+          8.5267017,
+          47.3159823
         ],
         [
           8.5268522,
@@ -13236,52 +13236,52 @@
           47.3156119
         ],
         [
-          8.5272498,
-          47.3155857
+          8.5272375,
+          47.3155985
         ],
         [
           8.5271043,
           47.3154453
         ],
         [
-          8.5270586,
+          8.527052,
           47.3154012
         ],
         [
-          8.5270737,
-          47.3153527
+          8.5270622,
+          47.3153555
         ],
         [
-          8.5273771,
-          47.3151968
+          8.5273763,
+          47.3151951
         ],
         [
-          8.5275022,
-          47.3151352
+          8.5275426,
+          47.3151111
         ],
         [
-          8.5283382,
-          47.3157073
+          8.5279924,
+          47.3154178
         ],
         [
-          8.528277,
-          47.3157499
+          8.5283994,
+          47.3157338
         ],
         [
-          8.5281586,
-          47.3158137
+          8.5285867,
+          47.3158816
         ],
         [
-          8.5284805,
-          47.3161047
+          8.528791,
+          47.3160353
         ],
         [
-          8.5282283,
-          47.3162319
+          8.5288977,
+          47.3161492
         ],
         [
-          8.5282993,
-          47.316358
+          8.5283075,
+          47.3163769
         ]
       ]
     ]
@@ -13292,7 +13292,7 @@
   "id": "way/37346024",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Zopf",
+    "name": "Schule Zopf",
     "id": "way/37346024"
   },
   "geometry": {
@@ -13467,6 +13467,7 @@
   "id": "way/37346345",
   "properties": {
     "amenity": "school",
+    "name": "Schule Zentrum Kronenwiese",
     "id": "way/37346345"
   },
   "geometry": {
@@ -13646,6 +13647,7 @@
   "id": "way/37347275",
   "properties": {
     "amenity": "school",
+    "name": "Schule Wilacker",
     "id": "way/37347275"
   },
   "geometry": {
@@ -18093,7 +18095,7 @@
     "addr:street": "Spitzenstrasse",
     "amenity": "school",
     "building": "school",
-    "name": "Gallenbüel 1",
+    "name": "Schulhaus Gallenbüel 1",
     "id": "way/53114645"
   },
   "geometry": {
@@ -20995,7 +20997,7 @@
   "id": "way/78502640",
   "properties": {
     "amenity": "school",
-    "wheelchair": "no",
+    "name": "Schule Lindenbuck",
     "id": "way/78502640"
   },
   "geometry": {
@@ -21054,8 +21056,13 @@
   "type": "Feature",
   "id": "way/78502644",
   "properties": {
+    "addr:city": "Bachs",
+    "addr:housenumber": "19",
+    "addr:postcode": "8164",
+    "addr:street": "Dorfstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
+    "name": "Schulhaus Lindenbuck",
     "wheelchair": "no",
     "id": "way/78502644"
   },
@@ -21064,93 +21071,24 @@
     "coordinates": [
       [
         [
-          8.4404888,
-          47.5236243
+          8.4404797,
+          47.5236245
         ],
         [
-          8.440412,
-          47.5235147
+          8.4404134,
+          47.5235333
         ],
         [
-          8.4406456,
-          47.52344
+          8.4406246,
+          47.5234636
         ],
         [
-          8.4407224,
-          47.5235496
+          8.4406899,
+          47.5235546
         ],
         [
-          8.4404888,
-          47.5236243
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/78502648",
-  "properties": {
-    "amenity": "school",
-    "building": "yes",
-    "wheelchair": "yes",
-    "id": "way/78502648"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4407942,
-          47.5235184
-        ],
-        [
-          8.4409388,
-          47.5234724
-        ],
-        [
-          8.4410971,
-          47.5236992
-        ],
-        [
-          8.4409208,
-          47.5237553
-        ],
-        [
-          8.44094,
-          47.5237828
-        ],
-        [
-          8.4406359,
-          47.5238796
-        ],
-        [
-          8.4405102,
-          47.5236993
-        ],
-        [
-          8.4406431,
-          47.523657
-        ],
-        [
-          8.4406678,
-          47.5236925
-        ],
-        [
-          8.4407693,
-          47.5236602
-        ],
-        [
-          8.4407572,
-          47.5236427
-        ],
-        [
-          8.4408585,
-          47.5236105
-        ],
-        [
-          8.4407942,
-          47.5235184
+          8.4404797,
+          47.5236245
         ]
       ]
     ]
@@ -25234,8 +25172,8 @@
     "addr:postcode": "8904",
     "addr:street": "Lielistrasse",
     "amenity": "school",
-    "building": "yes",
-    "name": "Nassenmatt 1",
+    "building": "school",
+    "name": "Schulhaus Nassenmatt 1",
     "id": "way/96385044"
   },
   "geometry": {
@@ -45690,96 +45628,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/202776160",
-  "properties": {
-    "addr:city": "Bauma",
-    "addr:housenumber": "4",
-    "addr:postcode": "8494",
-    "addr:street": "Altlandenbergstrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Altlandenberg",
-    "phone": "+41 52 386 21 28",
-    "roof:shape": "flat",
-    "school": "primary",
-    "school:CH": "primarschule",
-    "website": "http://www.schulebauma.ch/de/schulhaus/altlandenberg/",
-    "id": "way/202776160"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.8726631,
-          47.3708781
-        ],
-        [
-          8.8726302,
-          47.3708786
-        ],
-        [
-          8.8726299,
-          47.3708707
-        ],
-        [
-          8.8725575,
-          47.3708717
-        ],
-        [
-          8.8725577,
-          47.3708794
-        ],
-        [
-          8.8724469,
-          47.370881
-        ],
-        [
-          8.872442,
-          47.3707229
-        ],
-        [
-          8.8724408,
-          47.3706833
-        ],
-        [
-          8.8724349,
-          47.3704958
-        ],
-        [
-          8.8725452,
-          47.3704942
-        ],
-        [
-          8.8725455,
-          47.3705046
-        ],
-        [
-          8.8726192,
-          47.3705036
-        ],
-        [
-          8.8726189,
-          47.3704934
-        ],
-        [
-          8.8727304,
-          47.3704918
-        ],
-        [
-          8.8727425,
-          47.370877
-        ],
-        [
-          8.8726631,
-          47.3708781
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/204261839",
   "properties": {
     "amenity": "school",
@@ -49953,78 +49801,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/226525742",
-  "properties": {
-    "addr:city": "Bauma",
-    "addr:housenumber": "23",
-    "addr:postcode": "8494",
-    "addr:street": "Wellenau",
-    "amenity": "school",
-    "building": "yes",
-    "name": "Schulhaus Wellenau",
-    "phone": "+41 52 394 18 28",
-    "school": "primary",
-    "school:CH": "primarschule",
-    "id": "way/226525742"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.904679,
-          47.3659334
-        ],
-        [
-          8.9046589,
-          47.3658445
-        ],
-        [
-          8.9050573,
-          47.3658032
-        ],
-        [
-          8.9050729,
-          47.365872
-        ],
-        [
-          8.9051045,
-          47.3658687
-        ],
-        [
-          8.9053449,
-          47.3658438
-        ],
-        [
-          8.9053693,
-          47.3659517
-        ],
-        [
-          8.9050296,
-          47.3659869
-        ],
-        [
-          8.9050169,
-          47.3659308
-        ],
-        [
-          8.9047674,
-          47.3659566
-        ],
-        [
-          8.9047602,
-          47.3659249
-        ],
-        [
-          8.904679,
-          47.3659334
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/226526735",
   "properties": {
     "addr:city": "Bäretswil",
@@ -50755,7 +50531,7 @@
   "id": "way/230276556",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Altlandenberg",
+    "name": "Schule Altlandenberg",
     "id": "way/230276556"
   },
   "geometry": {
@@ -50943,7 +50719,7 @@
   "id": "way/232195864",
   "properties": {
     "amenity": "school",
-    "name": "Wellenau",
+    "name": "Schule Wellenau",
     "id": "way/232195864"
   },
   "geometry": {
@@ -51233,7 +51009,7 @@
   "id": "way/232960438",
   "properties": {
     "amenity": "school",
-    "name": "Oberstufenschulhaus im Letten",
+    "name": "Schule Letten",
     "id": "way/232960438"
   },
   "geometry": {
@@ -55547,7 +55323,7 @@
   "id": "way/255012639",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Maiwinkel",
+    "name": "Schule Maiwinkel",
     "id": "way/255012639"
   },
   "geometry": {
@@ -56855,20 +56631,32 @@
           47.3368731
         ],
         [
-          8.8552135,
-          47.3368612
+          8.8552123,
+          47.3368665
         ],
         [
-          8.8551899,
-          47.33684
+          8.8551804,
+          47.3368574
         ],
         [
-          8.8550392,
-          47.3367667
+          8.8550506,
+          47.3367999
         ],
         [
-          8.8548918,
-          47.3366951
+          8.8548359,
+          47.3369897
+        ],
+        [
+          8.8547697,
+          47.3369911
+        ],
+        [
+          8.8546892,
+          47.3370448
+        ],
+        [
+          8.8545592,
+          47.3369895
         ],
         [
           8.8548797,
@@ -58312,7 +58100,7 @@
     "amenity": "school",
     "building": "school",
     "email": "sl.ps@baeretswil.org",
-    "name": "Schulhaus Dorf",
+    "name": "Schulhaus Dorf B",
     "phone": "+41 44 939 11 19",
     "school": "primary",
     "school:CH": "primarschule",
@@ -59211,6 +58999,7 @@
   "id": "way/288723194",
   "properties": {
     "amenity": "school",
+    "name": "Schule Altikon",
     "id": "way/288723194"
   },
   "geometry": {
@@ -67558,36 +67347,44 @@
     "coordinates": [
       [
         [
-          8.6427005,
-          47.4319853
+          8.6427075,
+          47.4319812
         ],
         [
-          8.6426614,
+          8.6426763,
           47.4319179
         ],
         [
-          8.6427284,
-          47.4318354
+          8.6427454,
+          47.431834
         ],
         [
-          8.6427866,
-          47.4318532
+          8.6428,
+          47.4318546
         ],
         [
-          8.6428983,
-          47.4317237
+          8.642912,
+          47.4317219
         ],
         [
-          8.6429286,
-          47.4317226
+          8.6429407,
+          47.4317208
         ],
         [
-          8.6430235,
-          47.4319093
+          8.6430338,
+          47.4319068
         ],
         [
-          8.6427005,
-          47.4319853
+          8.6429589,
+          47.4319238
+        ],
+        [
+          8.6428255,
+          47.4319542
+        ],
+        [
+          8.6427075,
+          47.4319812
         ]
       ]
     ]
@@ -69065,7 +68862,7 @@
     "addr:street": "Spitzenstrasse",
     "amenity": "school",
     "building": "yes",
-    "name": "Gallenbüel 2",
+    "name": "Schulhaus Gallenbüel 2",
     "id": "way/435899204"
   },
   "geometry": {
@@ -69213,7 +69010,7 @@
   "id": "way/439064624",
   "properties": {
     "amenity": "school",
-    "name": "Primarschulhaus Hofwiesen",
+    "name": "Primarschule Hofwiesen",
     "id": "way/439064624"
   },
   "geometry": {
@@ -84973,22 +84770,6 @@
     "coordinates": [
       8.519244,
       47.3104265
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/435496346",
-  "properties": {
-    "amenity": "school",
-    "name": "Schule Zentrum Kronenwiese",
-    "id": "node/435496346"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5291759,
-      47.3132989
     ]
   }
 },
