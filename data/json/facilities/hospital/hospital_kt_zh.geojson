@@ -6839,6 +6839,93 @@
 },
 {
   "type": "Feature",
+  "id": "way/1067474616",
+  "properties": {
+    "addr:city": "Tann",
+    "addr:housenumber": "16",
+    "addr:postcode": "8632",
+    "addr:street": "Florastrasse",
+    "alt_name": "Tannenhofpraxis",
+    "amenity": "clinic",
+    "building": "yes",
+    "name": "Ärztehaus Tannenhof",
+    "website": "https://aerztehaus-tannenhof.ch/",
+    "id": "way/1067474616"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8506395,
+          47.2631998
+        ],
+        [
+          8.850716,
+          47.2632962
+        ],
+        [
+          8.8506217,
+          47.2633341
+        ],
+        [
+          8.8506266,
+          47.2633415
+        ],
+        [
+          8.8506388,
+          47.2633374
+        ],
+        [
+          8.850683,
+          47.2633927
+        ],
+        [
+          8.8506388,
+          47.2634097
+        ],
+        [
+          8.850697,
+          47.2634787
+        ],
+        [
+          8.8505634,
+          47.2635337
+        ],
+        [
+          8.8505555,
+          47.2635369
+        ],
+        [
+          8.8503889,
+          47.2633449
+        ],
+        [
+          8.8505304,
+          47.2632833
+        ],
+        [
+          8.8505384,
+          47.2632912
+        ],
+        [
+          8.8505629,
+          47.2632813
+        ],
+        [
+          8.850531,
+          47.2632468
+        ],
+        [
+          8.8506395,
+          47.2631998
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3600466682",
   "properties": {
     "addr:city": "Kilchberg",
@@ -7948,6 +8035,26 @@
     "coordinates": [
       8.8531577,
       47.2601863
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9767931304",
+  "properties": {
+    "addr:city": "Rüti (ZH)",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology;radiotherapy",
+    "name": "ZRR - Zentrum für Radiotherapie Rüti",
+    "website": "https://www.zrr.ch/",
+    "id": "node/9767931304"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8422905,
+      47.259456
     ]
   }
 },
