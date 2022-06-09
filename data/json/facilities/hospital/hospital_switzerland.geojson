@@ -2151,6 +2151,40 @@
       ],
       [
         [
+          7.8444529,
+          46.6804782
+        ],
+        [
+          7.8445598,
+          46.6803654
+        ],
+        [
+          7.8443941,
+          46.6802915
+        ],
+        [
+          7.8443039,
+          46.6803865
+        ],
+        [
+          7.8442871,
+          46.6804042
+        ],
+        [
+          7.844327,
+          46.6804221
+        ],
+        [
+          7.8444386,
+          46.6804718
+        ],
+        [
+          7.8444529,
+          46.6804782
+        ]
+      ],
+      [
+        [
           7.8444655,
           46.6811335
         ],
@@ -45132,6 +45166,53 @@
         [
           8.8506395,
           47.2631998
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1068007266",
+  "properties": {
+    "addr:city": "Oberuzwil",
+    "addr:housenumber": "11",
+    "addr:postcode": "9242",
+    "addr:street": "Wiesentalstrasse",
+    "amenity": "clinic",
+    "building": "yes",
+    "building:levels": "4",
+    "description": "Gesundheit in Oberuzwil",
+    "healthcare": "clinic",
+    "healthcare:speciality": "paediatrics;general",
+    "name": "Clientis Zentrum",
+    "operator": "Clientis Oberuzwil",
+    "website": "https://gesundheitszentrum-oberuzwil.ch/",
+    "id": "way/1068007266"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.1250151,
+          47.4303202
+        ],
+        [
+          9.1249454,
+          47.4305034
+        ],
+        [
+          9.1247604,
+          47.4304708
+        ],
+        [
+          9.1248279,
+          47.4302876
+        ],
+        [
+          9.1250151,
+          47.4303202
         ]
       ]
     ]

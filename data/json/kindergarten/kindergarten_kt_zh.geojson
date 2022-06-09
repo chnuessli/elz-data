@@ -25723,6 +25723,49 @@
 },
 {
   "type": "Feature",
+  "id": "way/1067783307",
+  "properties": {
+    "addr:city": "Pfaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "13a",
+    "addr:postcode": "8118",
+    "addr:street": "Baumgartenstrasse",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "name": "Pippi's Blockhus",
+    "website": "https://www.pippis-blockhus.ch/",
+    "id": "way/1067783307"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6216575,
+          47.3645799
+        ],
+        [
+          8.6215772,
+          47.3645826
+        ],
+        [
+          8.6215748,
+          47.3645503
+        ],
+        [
+          8.6216552,
+          47.3645476
+        ],
+        [
+          8.6216575,
+          47.3645799
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
