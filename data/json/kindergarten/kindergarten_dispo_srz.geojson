@@ -6230,7 +6230,7 @@
     "addr:postcode": "8903",
     "addr:street": "Kirchgasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Kirche",
     "id": "way/88324255"
   },
@@ -6272,8 +6272,8 @@
     "addr:postcode": "8903",
     "addr:street": "Kirchgasse",
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Am Bach",
+    "building": "kindergarten",
+    "name": "Kindergarten Am Bach 1+2",
     "id": "way/88324261"
   },
   "geometry": {
@@ -6338,6 +6338,71 @@
 },
 {
   "type": "Feature",
+  "id": "way/88384332",
+  "properties": {
+    "addr:city": "Bonstetten",
+    "addr:housenumber": "59",
+    "addr:postcode": "8906",
+    "addr:street": "Friedhofstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Bodenfeld 1+2",
+    "id": "way/88384332"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4650564,
+          47.314852
+        ],
+        [
+          8.465082,
+          47.3147813
+        ],
+        [
+          8.4651065,
+          47.3147854
+        ],
+        [
+          8.4651279,
+          47.3147263
+        ],
+        [
+          8.4652216,
+          47.3147419
+        ],
+        [
+          8.4652199,
+          47.3147467
+        ],
+        [
+          8.4652433,
+          47.3147506
+        ],
+        [
+          8.4652158,
+          47.3148263
+        ],
+        [
+          8.4651912,
+          47.3148222
+        ],
+        [
+          8.4651733,
+          47.3148715
+        ],
+        [
+          8.4650564,
+          47.314852
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/88725741",
   "properties": {
     "addr:city": "Birmensdorf (ZH)",
@@ -6346,7 +6411,7 @@
     "addr:postcode": "8903",
     "addr:street": "Lettenmattstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "school",
     "name": "Kindergarten Lettenmatt",
     "id": "way/88725741"
   },
@@ -6882,7 +6947,7 @@
     "addr:postcode": "8903",
     "addr:street": "Haslenstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Sternen",
     "id": "way/92135951"
   },
@@ -7007,7 +7072,7 @@
     "addr:street": "Zürcherstrasse",
     "alt_name": "Lettenhüsli",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Reppisch",
     "id": "way/92840876"
   },
@@ -7126,7 +7191,7 @@
     "addr:postcode": "8903",
     "addr:street": "Alte Zürcherstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Risi",
     "id": "way/93175592"
   },
@@ -7636,6 +7701,46 @@
         [
           8.5774549,
           47.3279193
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/98440073",
+  "properties": {
+    "addr:housenumber": "2",
+    "addr:street": "Männetsrietstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Männetrsriet 1 & 2",
+    "operator": "Gemeinde Gossau",
+    "id": "way/98440073"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7618292,
+          47.3220062
+        ],
+        [
+          8.7616572,
+          47.3221538
+        ],
+        [
+          8.7614849,
+          47.3220615
+        ],
+        [
+          8.7616569,
+          47.3219139
+        ],
+        [
+          8.7618292,
+          47.3220062
         ]
       ]
     ]
@@ -33991,34 +34096,14 @@
     "addr:postcode": "8906",
     "addr:street": "Dorfstrasse",
     "amenity": "kindergarten",
-    "name": "Kindergarten Dorf",
+    "name": "Kindergarten Dorfschulhaus 1+2",
     "id": "node/5358669404"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4674519,
-      47.3152326
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5606316129",
-  "properties": {
-    "addr:city": "Bonstetten",
-    "addr:housenumber": "59",
-    "addr:postcode": "8906",
-    "addr:street": "Friedhofstrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Bodenfeld",
-    "id": "node/5606316129"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4650928,
-      47.3148545
+      8.4674669,
+      47.3151877
     ]
   }
 },

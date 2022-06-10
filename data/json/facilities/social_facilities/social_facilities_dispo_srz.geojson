@@ -30787,9 +30787,10 @@
     "amenity": "social_facility",
     "building": "yes",
     "email": "gehoerlosendorf@schlosst.ch",
-    "name": "Gehörlosendorf",
+    "name": "Stiftung Schloss Turbenthal Gehörlosendorf - Bewohner",
     "operator": "Stiftung Schloss Turbenthal Gehörlosendorf",
     "phone": "+41 52 396 26 26",
+    "social_facility": "assisted_living",
     "website": "https://www.gehoerlosendorf.ch/index.php?id=97",
     "id": "way/297752932"
   },
