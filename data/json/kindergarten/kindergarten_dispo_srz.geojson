@@ -1492,6 +1492,87 @@
 },
 {
   "type": "Feature",
+  "id": "way/31827489",
+  "properties": {
+    "addr:city": "Au (ZH)",
+    "addr:housenumber": "78",
+    "addr:postcode": "8804",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Ort",
+    "id": "way/31827489"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6473527,
+          47.2448758
+        ],
+        [
+          8.6473265,
+          47.2447842
+        ],
+        [
+          8.6474698,
+          47.2447654
+        ],
+        [
+          8.6474859,
+          47.244823
+        ],
+        [
+          8.6476178,
+          47.244806
+        ],
+        [
+          8.6476097,
+          47.244777
+        ],
+        [
+          8.647717,
+          47.2447636
+        ],
+        [
+          8.6477361,
+          47.2447856
+        ],
+        [
+          8.647759,
+          47.2447831
+        ],
+        [
+          8.6478113,
+          47.2448465
+        ],
+        [
+          8.6476335,
+          47.2448699
+        ],
+        [
+          8.6476479,
+          47.2449242
+        ],
+        [
+          8.647523,
+          47.2449409
+        ],
+        [
+          8.6474998,
+          47.2448577
+        ],
+        [
+          8.6473527,
+          47.2448758
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/32215457",
   "properties": {
     "addr:city": "Esslingen",
@@ -5997,6 +6078,64 @@
         [
           8.5641004,
           47.2932279
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/87418272",
+  "properties": {
+    "addr:city": "Bassersdorf",
+    "addr:housenumber": "29",
+    "addr:postcode": "8303",
+    "addr:street": "Opfikonerstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Geeren 1+2",
+    "source": "Bing",
+    "id": "way/87418272"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6213577,
+          47.4429821
+        ],
+        [
+          8.6213513,
+          47.442755
+        ],
+        [
+          8.621505,
+          47.4427529
+        ],
+        [
+          8.621506,
+          47.4428194
+        ],
+        [
+          8.6215397,
+          47.4428196
+        ],
+        [
+          8.6215418,
+          47.4429119
+        ],
+        [
+          8.6215083,
+          47.4429124
+        ],
+        [
+          8.6215096,
+          47.4429792
+        ],
+        [
+          8.6213577,
+          47.4429821
         ]
       ]
     ]
@@ -11496,6 +11635,79 @@
 },
 {
   "type": "Feature",
+  "id": "way/148742739",
+  "properties": {
+    "addr:city": "Au (ZH)",
+    "addr:housenumber": "32",
+    "addr:postcode": "8804",
+    "addr:street": "Alvierstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Zopf 1+2",
+    "id": "way/148742739"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6519814,
+          47.2411028
+        ],
+        [
+          8.6519797,
+          47.2410087
+        ],
+        [
+          8.6521044,
+          47.2410076
+        ],
+        [
+          8.6521054,
+          47.2410251
+        ],
+        [
+          8.6521887,
+          47.2410244
+        ],
+        [
+          8.6521886,
+          47.241006
+        ],
+        [
+          8.6523143,
+          47.2410041
+        ],
+        [
+          8.6523154,
+          47.2410984
+        ],
+        [
+          8.6522318,
+          47.2410995
+        ],
+        [
+          8.652232,
+          47.2411247
+        ],
+        [
+          8.6520673,
+          47.2411269
+        ],
+        [
+          8.6520653,
+          47.2411021
+        ],
+        [
+          8.6519814,
+          47.2411028
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/148748917",
   "properties": {
     "addr:city": "Unterägeri",
@@ -16689,8 +16901,9 @@
     "addr:postcode": "8303",
     "addr:street": "Auenring",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "building:roof": "flat",
+    "name": "Kindergarten Auenring 1+2",
     "id": "way/225999818"
   },
   "geometry": {
@@ -16698,48 +16911,72 @@
     "coordinates": [
       [
         [
-          8.6234044,
-          47.4414392
+          8.6234008,
+          47.4414421
         ],
         [
-          8.6233136,
-          47.44138
+          8.6233669,
+          47.4414223
         ],
         [
-          8.6233291,
-          47.4413321
+          8.6233693,
+          47.4414145
         ],
         [
-          8.6233911,
-          47.4413164
+          8.623312,
+          47.4413832
         ],
         [
-          8.6234609,
-          47.4413433
+          8.6233242,
+          47.4413341
         ],
         [
-          8.6234941,
-          47.4413351
+          8.6233924,
+          47.4413159
         ],
         [
-          8.6235063,
+          8.6234569,
+          47.4413512
+        ],
+        [
+          8.6234555,
+          47.4413606
+        ],
+        [
+          8.6234977,
+          47.44135
+        ],
+        [
+          8.6234867,
+          47.4413437
+        ],
+        [
+          8.6234983,
           47.4412871
         ],
         [
-          8.6235772,
-          47.4412692
+          8.623568,
+          47.44127
         ],
         [
-          8.6236381,
-          47.4413006
+          8.6236252,
+          47.4413004
+        ],
+        [
+          8.6236147,
+          47.4413505
+        ],
+        [
+          8.6236243,
+          47.4413558
         ],
         [
           8.6236192,
-          47.4413815
+          47.4413844
         ],
         [
-          8.6234044,
-          47.4414392
+          8.6234008,
+          47.4414421
         ]
       ]
     ]
@@ -23206,6 +23443,70 @@
 },
 {
   "type": "Feature",
+  "id": "way/425905494",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Auenring",
+    "id": "way/425905494"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6233957,
+          47.4414459
+        ],
+        [
+          8.6232389,
+          47.4413621
+        ],
+        [
+          8.6232577,
+          47.4413457
+        ],
+        [
+          8.6232502,
+          47.4413159
+        ],
+        [
+          8.6232895,
+          47.4412773
+        ],
+        [
+          8.6234618,
+          47.4411689
+        ],
+        [
+          8.6235171,
+          47.441143
+        ],
+        [
+          8.6235873,
+          47.4411354
+        ],
+        [
+          8.6237437,
+          47.4411347
+        ],
+        [
+          8.6237409,
+          47.4412804
+        ],
+        [
+          8.6236292,
+          47.4413837
+        ],
+        [
+          8.6233957,
+          47.4414459
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/426044099",
   "properties": {
     "amenity": "kindergarten",
@@ -29285,6 +29586,47 @@
 },
 {
   "type": "Feature",
+  "id": "way/1068422505",
+  "properties": {
+    "addr:city": "Au (ZH)",
+    "addr:housenumber": "84.1",
+    "addr:postcode": "8804",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Brunnenhof",
+    "id": "way/1068422505"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.645773,
+          47.2454272
+        ],
+        [
+          8.645727,
+          47.2453214
+        ],
+        [
+          8.6459308,
+          47.2452804
+        ],
+        [
+          8.6459768,
+          47.2453864
+        ],
+        [
+          8.645773,
+          47.2454272
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",
@@ -31359,6 +31701,10 @@
   "type": "Feature",
   "id": "node/2353671263",
   "properties": {
+    "addr:city": "Brüttisellen",
+    "addr:housenumber": "29",
+    "addr:postcode": "8306",
+    "addr:street": "Im Talacher",
     "amenity": "kindergarten",
     "name": "Kindergarten Talacher",
     "website": "http://www.wangen-bruettisellen.ch/de/bildung/schulbereiche/welcome.php?action=showobject&object_id=11302",
@@ -31617,37 +31963,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2814980176",
-  "properties": {
-    "amenity": "kindergarten",
-    "id": "node/2814980176"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6222446,
-      47.4432228
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2814987933",
-  "properties": {
-    "amenity": "kindergarten",
-    "wheelchair": "yes",
-    "id": "node/2814987933"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6215549,
-      47.4431787
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2927936944",
   "properties": {
     "amenity": "kindergarten",
@@ -31757,6 +32072,10 @@
   "type": "Feature",
   "id": "node/3186211526",
   "properties": {
+    "addr:city": "Bubikon",
+    "addr:housenumber": "13",
+    "addr:postcode": "8608",
+    "addr:street": "Rutschbergstrasse",
     "amenity": "kindergarten",
     "name": "Kindergarten Spatz",
     "phone": "+41 55 253 34 21",
@@ -31775,6 +32094,10 @@
   "type": "Feature",
   "id": "node/3186215850",
   "properties": {
+    "addr:city": "Bubikon",
+    "addr:housenumber": "6",
+    "addr:postcode": "8608",
+    "addr:street": "Alte Schulstrasse",
     "amenity": "kindergarten",
     "isced:level": "0",
     "name": "Kindergarten Rägeboge",
@@ -31794,6 +32117,10 @@
   "type": "Feature",
   "id": "node/3186215851",
   "properties": {
+    "addr:city": "Bubikon",
+    "addr:housenumber": "6",
+    "addr:postcode": "8608",
+    "addr:street": "Alte Schulstrasse",
     "amenity": "kindergarten",
     "isced:level": "0",
     "name": "Kindergarten Kunterbunt",
@@ -31804,8 +32131,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8171282,
-      47.2679518
+      8.8171233,
+      47.2679842
     ]
   }
 },
@@ -31813,6 +32140,10 @@
   "type": "Feature",
   "id": "node/3186216669",
   "properties": {
+    "addr:city": "Bubikon",
+    "addr:housenumber": "13",
+    "addr:postcode": "8608",
+    "addr:street": "Rutschbergstrasse",
     "amenity": "kindergarten",
     "name": "Kindergarten Chäfer",
     "phone": "+41 55 253 34 22",
@@ -40233,6 +40564,26 @@
     "coordinates": [
       8.5285896,
       47.3223108
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9808397154",
+  "properties": {
+    "addr:city": "Au (ZH)",
+    "addr:housenumber": "17",
+    "addr:postcode": "8804",
+    "addr:street": "Seeguetstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Toblerweg 1+2",
+    "id": "node/9808397154"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6306107,
+      47.2498821
     ]
   }
 }
