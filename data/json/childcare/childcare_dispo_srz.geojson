@@ -11409,6 +11409,22 @@
       47.4135944
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9811018975",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Globegarden Childcare",
+    "id": "node/9811018975"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5327903,
+      47.3694286
+    ]
+  }
 }
 ]
 }
