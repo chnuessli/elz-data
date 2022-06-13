@@ -40970,8 +40970,9 @@
     "addr:country": "CH",
     "addr:housenumber": "13",
     "addr:postcode": "1318",
-    "addr:street": "St.-Loup",
+    "addr:street": "St-Loup",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Hôpital de Saint-Loup",
     "phone": "+41 21 866 51 11",
     "id": "way/681549052"
