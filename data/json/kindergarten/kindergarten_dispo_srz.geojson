@@ -9426,6 +9426,7 @@
     "addr:street": "Alte Landstrasse",
     "amenity": "kindergarten",
     "building": "yes",
+    "name": "Kindergarten Bifang",
     "id": "way/122892521"
   },
   "geometry": {
@@ -9433,64 +9434,80 @@
     "coordinates": [
       [
         [
-          8.407032,
-          47.4470294
+          8.4070278,
+          47.4470519
         ],
         [
-          8.4068615,
-          47.4470542
+          8.4066373,
+          47.4471186
         ],
         [
-          8.4068706,
-          47.4470829
+          8.4066368,
+          47.4471171
         ],
         [
-          8.406647,
-          47.4471155
+          8.4066039,
+          47.4471225
         ],
         [
-          8.4066294,
-          47.4470602
+          8.4065957,
+          47.4470989
         ],
         [
-          8.4066481,
-          47.4470575
+          8.406628,
+          47.4470948
         ],
         [
-          8.4066307,
-          47.4470028
+          8.4066208,
+          47.4470711
         ],
         [
-          8.4067486,
-          47.4469857
+          8.4066388,
+          47.4470687
         ],
         [
-          8.4067431,
-          47.4469684
+          8.4066195,
+          47.4470146
         ],
         [
-          8.4068602,
-          47.4469513
+          8.4067286,
+          47.4469957
         ],
         [
-          8.4068569,
-          47.4469408
+          8.4067244,
+          47.4469841
         ],
         [
-          8.406976,
-          47.4469235
+          8.4068521,
+          47.4469624
+        ],
+        [
+          8.4068478,
+          47.4469496
+        ],
+        [
+          8.4069623,
+          47.4469299
+        ],
+        [
+          8.4069819,
+          47.4469837
+        ],
+        [
+          8.4069951,
+          47.4469818
         ],
         [
           8.4069925,
-          47.4469751
+          47.4469708
         ],
         [
-          8.4070137,
-          47.4469721
+          8.4069976,
+          47.4469701
         ],
         [
-          8.407032,
-          47.4470294
+          8.4070278,
+          47.4470519
         ]
       ]
     ]
@@ -10127,8 +10144,8 @@
     "addr:postcode": "8107",
     "addr:street": "Bahnhofstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Kindervilla",
+    "building": "kindergarten",
+    "name": "Kindergarten Kindervilla 1+2",
     "wheelchair": "no",
     "id": "way/131188189"
   },
@@ -10185,8 +10202,8 @@
     "addr:postcode": "8107",
     "addr:street": "Oberdorfstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Oberdorf",
+    "building": "kindergarten",
+    "name": "Kindergarten Oberdorf 1+2",
     "wheelchair": "no",
     "id": "way/131320207"
   },
@@ -16573,7 +16590,7 @@
     "addr:street": "Schöneggstrasse",
     "amenity": "kindergarten",
     "building": "yes",
-    "name": "Kindergarten Wolfsmatt 2",
+    "name": "Kindergarten Wolfsmatt 1+2",
     "operator": "Schuleinheit Wolfsmatt",
     "id": "way/215522993"
   },
@@ -16582,24 +16599,24 @@
     "coordinates": [
       [
         [
-          8.4092984,
-          47.3992688
+          8.4093,
+          47.3992625
         ],
         [
-          8.4092842,
-          47.3991771
+          8.4092873,
+          47.3991873
         ],
         [
-          8.4096175,
-          47.3991533
+          8.4096211,
+          47.3991624
         ],
         [
-          8.4096318,
-          47.3992451
+          8.4096328,
+          47.3992384
         ],
         [
-          8.4092984,
-          47.3992688
+          8.4093,
+          47.3992625
         ]
       ]
     ]
@@ -16718,11 +16735,13 @@
   "type": "Feature",
   "id": "way/222919541",
   "properties": {
+    "addr:city": "Dietikon",
     "addr:housenumber": "30",
+    "addr:postcode": "8953",
     "addr:street": "Florastrasse",
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Flora",
+    "building": "kindergarten",
+    "name": "Kindergarten Flora",
     "source": "bing",
     "id": "way/222919541"
   },
@@ -16731,40 +16750,60 @@
     "coordinates": [
       [
         [
-          8.4036105,
-          47.4031561
+          8.4036002,
+          47.4031737
         ],
         [
-          8.4035178,
-          47.4030386
+          8.4035618,
+          47.403147
         ],
         [
-          8.4035764,
-          47.4030175
+          8.4035985,
+          47.4031191
         ],
         [
-          8.4035845,
-          47.4030278
+          8.403554,
+          47.4030661
         ],
         [
-          8.4036966,
-          47.4029874
+          8.4035985,
+          47.4030486
         ],
         [
-          8.4037686,
-          47.4030787
+          8.4035942,
+          47.403043
         ],
         [
-          8.4036657,
-          47.4031158
+          8.4037091,
+          47.4029975
         ],
         [
-          8.4036782,
-          47.4031317
+          8.4037074,
+          47.4029948
         ],
         [
-          8.4036105,
-          47.4031561
+          8.4037133,
+          47.4029927
+        ],
+        [
+          8.4037759,
+          47.4030713
+        ],
+        [
+          8.4036803,
+          47.4031084
+        ],
+        [
+          8.403689,
+          47.4031271
+        ],
+        [
+          8.4036268,
+          47.4031498
+        ],
+        [
+          8.4036002,
+          47.4031737
         ]
       ]
     ]
@@ -17606,7 +17645,7 @@
     "addr:postcode": "8953",
     "addr:street": "Birmensdorferstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten Birmensdorferstrasse",
     "id": "way/238691712"
   },
   "geometry": {
@@ -17614,28 +17653,68 @@
     "coordinates": [
       [
         [
-          8.4181197,
-          47.3970374
+          8.4181259,
+          47.3970411
         ],
         [
-          8.4180781,
-          47.3969512
+          8.4181122,
+          47.3970151
         ],
         [
-          8.4181854,
-          47.3968958
+          8.4180923,
+          47.3970152
         ],
         [
-          8.4182954,
-          47.3969548
+          8.4180926,
+          47.3970208
         ],
         [
-          8.4182578,
-          47.3970374
+          8.4180084,
+          47.3970217
         ],
         [
-          8.4181197,
-          47.3970374
+          8.4180075,
+          47.3969744
+        ],
+        [
+          8.4180906,
+          47.3969731
+        ],
+        [
+          8.4180865,
+          47.3969645
+        ],
+        [
+          8.4181824,
+          47.3969147
+        ],
+        [
+          8.4182813,
+          47.3969624
+        ],
+        [
+          8.4182457,
+          47.3970395
+        ],
+        [
+          8.4182144,
+          47.3970399
+        ],
+        [
+          8.4182144,
+          47.3970481
+        ],
+        [
+          8.4181594,
+          47.3970487
+        ],
+        [
+          8.4181593,
+          47.397041
+        ],
+        [
+          8.4181259,
+          47.3970411
         ]
       ]
     ]
@@ -30604,6 +30683,10 @@
   "type": "Feature",
   "id": "node/1305706569",
   "properties": {
+    "addr:city": "Buchs ZH",
+    "addr:housenumber": "20",
+    "addr:postcode": "8107",
+    "addr:street": "Dielsdorferstrasse",
     "amenity": "kindergarten",
     "name": "Kindergarten Baumacker",
     "id": "node/1305706569"
@@ -30958,7 +31041,12 @@
   "type": "Feature",
   "id": "node/1682878111",
   "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "13",
+    "addr:postcode": "8953",
+    "addr:street": "Alemannenweg",
     "amenity": "kindergarten",
+    "name": "Kindergarten Alemannenweg",
     "id": "node/1682878111"
   },
   "geometry": {
@@ -40584,6 +40672,106 @@
     "coordinates": [
       8.6306107,
       47.2498821
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9813875348",
+  "properties": {
+    "addr:city": "Buchs ZH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8107",
+    "addr:street": "Dielsdorferstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten die wilden Sieben",
+    "id": "node/9813875348"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4400214,
+      47.458981
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9814273934",
+  "properties": {
+    "addr:city": "Dällikon",
+    "addr:housenumber": "8",
+    "addr:postcode": "8108",
+    "addr:street": "Grundacherstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Leepünt 5",
+    "id": "node/9814273934"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4401406,
+      47.4383538
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9814274411",
+  "properties": {
+    "addr:city": "Dällikon",
+    "addr:housenumber": "6",
+    "addr:postcode": "8108",
+    "addr:street": "Schulstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Leepünt 6",
+    "id": "node/9814274411"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4391131,
+      47.4387969
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9814310046",
+  "properties": {
+    "addr:city": "Dällikon",
+    "addr:housenumber": "14",
+    "addr:postcode": "8108",
+    "addr:street": "Grundacherstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Leepünt 3+4",
+    "id": "node/9814310046"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4390458,
+      47.4381707
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9814628783",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "10",
+    "addr:postcode": "8953",
+    "addr:street": "Martastrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Altberg 1+2",
+    "id": "node/9814628783"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4054948,
+      47.4071137
     ]
   }
 }

@@ -14325,13 +14325,14 @@
   "properties": {
     "aeroway": "helipad",
     "name": "Kaserne",
+    "surface": "asphalt",
     "id": "node/6074157638"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5954568,
-      46.6386683
+      8.5953329,
+      46.6386975
     ]
   }
 },
