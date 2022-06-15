@@ -336,7 +336,7 @@ FeatureCollection,"{'type': 'Feature', 'id': 'node/4625273840', 'properties': {'
 FeatureCollection,"{'type': 'Feature', 'id': 'node/4625273841', 'properties': {'aeroway': 'helipad', 'id': 'node/4625273841'}, 'geometry': {'type': 'Point', 'coordinates': [7.0927583, 46.5957183]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/5075731256', 'properties': {'aeroway': 'helipad', 'id': 'node/5075731256'}, 'geometry': {'type': 'Point', 'coordinates': [8.2890934, 46.946004]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/5328302396', 'properties': {'aeroway': 'helipad', 'name': 'Cresmino', 'id': 'node/5328302396'}, 'geometry': {'type': 'Point', 'coordinates': [8.7088499, 46.1827095]}}"
-FeatureCollection,"{'type': 'Feature', 'id': 'node/6074157638', 'properties': {'aeroway': 'helipad', 'name': 'Kaserne', 'id': 'node/6074157638'}, 'geometry': {'type': 'Point', 'coordinates': [8.595456800000001, 46.6386683]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/6074157638', 'properties': {'aeroway': 'helipad', 'name': 'Kaserne', 'surface': 'asphalt', 'id': 'node/6074157638'}, 'geometry': {'type': 'Point', 'coordinates': [8.5953329, 46.6386975]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/6088467382', 'properties': {'aeroway': 'helipad', 'id': 'node/6088467382'}, 'geometry': {'type': 'Point', 'coordinates': [7.7934332, 47.216722]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/6303429653', 'properties': {'aeroway': 'helipad', 'id': 'node/6303429653'}, 'geometry': {'type': 'Point', 'coordinates': [7.8324494, 46.3016407]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/6303429654', 'properties': {'aeroway': 'helipad', 'id': 'node/6303429654'}, 'geometry': {'type': 'Point', 'coordinates': [7.8333835, 46.3015636]}}"
