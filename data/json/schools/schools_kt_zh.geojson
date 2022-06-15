@@ -16726,6 +16726,63 @@
 },
 {
   "type": "Feature",
+  "id": "way/46968177",
+  "properties": {
+    "addr:city": "Dorf",
+    "addr:housenumber": "4",
+    "addr:postcode": "8458",
+    "addr:street": "Trottenackerstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Trottenacker",
+    "id": "way/46968177"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6433572,
+          47.5711251
+        ],
+        [
+          8.6433519,
+          47.5711156
+        ],
+        [
+          8.6432113,
+          47.5711278
+        ],
+        [
+          8.6431931,
+          47.5710329
+        ],
+        [
+          8.6433345,
+          47.5710206
+        ],
+        [
+          8.6433293,
+          47.5709935
+        ],
+        [
+          8.6437171,
+          47.5709597
+        ],
+        [
+          8.6437423,
+          47.5710916
+        ],
+        [
+          8.6433572,
+          47.5711251
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/47148542",
   "properties": {
     "addr:housenumber": "80",
@@ -28938,7 +28995,7 @@
     "amenity": "school",
     "grades": "7-9",
     "loc_name": "s'Lubi",
-    "name": "Luberzen",
+    "name": "Schule Luberzen",
     "id": "way/114790557"
   },
   "geometry": {
@@ -29155,7 +29212,7 @@
     "addr:street": "Schöneggstrasse",
     "amenity": "school",
     "building": "yes",
-    "name": "Kindergarten Luberzen",
+    "name": "Kindergarten Luberzen 1+2+3",
     "id": "way/114790571"
   },
   "geometry": {
@@ -29227,7 +29284,8 @@
     "addr:postcode": "8953",
     "addr:street": "Schöneggstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
+    "name": "Schulhaus Luberzen",
     "id": "way/114790573"
   },
   "geometry": {
@@ -34622,8 +34680,12 @@
   "type": "Feature",
   "id": "way/144717737",
   "properties": {
+    "addr:city": "Dietlikon",
+    "addr:housenumber": "2",
+    "addr:postcode": "8305",
+    "addr:street": "Bühlstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Schulhaus Hüenerweid",
     "source": "Bing",
     "id": "way/144717737"
@@ -37506,78 +37568,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/155992842",
-  "properties": {
-    "addr:city": "Dietikon",
-    "addr:housenumber": "7",
-    "addr:postcode": "8953",
-    "addr:street": "Stelzenackerstrasse",
-    "amenity": "school",
-    "building": "yes",
-    "id": "way/155992842"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.3909922,
-          47.4039483
-        ],
-        [
-          8.3908068,
-          47.4038914
-        ],
-        [
-          8.3908532,
-          47.4038222
-        ],
-        [
-          8.3909766,
-          47.40386
-        ],
-        [
-          8.3909982,
-          47.4038444
-        ],
-        [
-          8.3909542,
-          47.4038144
-        ],
-        [
-          8.3910048,
-          47.4037804
-        ],
-        [
-          8.3910302,
-          47.4037977
-        ],
-        [
-          8.3911402,
-          47.403724
-        ],
-        [
-          8.3912212,
-          47.4037793
-        ],
-        [
-          8.3911197,
-          47.4038473
-        ],
-        [
-          8.3911315,
-          47.4038554
-        ],
-        [
-          8.3909922,
-          47.4039483
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/155992843",
   "properties": {
     "addr:city": "Dietikon",
@@ -37767,7 +37757,7 @@
   "id": "way/156389090",
   "properties": {
     "amenity": "school",
-    "name": "Fondli",
+    "name": "Schule Fondli",
     "id": "way/156389090"
   },
   "geometry": {
@@ -37919,10 +37909,13 @@
   "type": "Feature",
   "id": "way/156393990",
   "properties": {
+    "addr:city": "Dietikon",
     "addr:housenumber": "5",
+    "addr:postcode": "8953",
     "addr:street": "Bohnackerstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
+    "name": "Schulhaus Fondli",
     "id": "way/156393990"
   },
   "geometry": {
@@ -41561,6 +41554,163 @@
 },
 {
   "type": "Feature",
+  "id": "way/169783075",
+  "properties": {
+    "addr:city": "Dinhard",
+    "addr:housenumber": "51",
+    "addr:postcode": "8474",
+    "addr:street": "Ebnetstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Ebnet",
+    "id": "way/169783075"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.764759,
+          47.5567526
+        ],
+        [
+          8.7646421,
+          47.5568435
+        ],
+        [
+          8.7645065,
+          47.5567641
+        ],
+        [
+          8.7645247,
+          47.5567499
+        ],
+        [
+          8.7643819,
+          47.5566663
+        ],
+        [
+          8.764325,
+          47.5567106
+        ],
+        [
+          8.7642987,
+          47.5566951
+        ],
+        [
+          8.7642893,
+          47.5567024
+        ],
+        [
+          8.7642049,
+          47.5566531
+        ],
+        [
+          8.7642146,
+          47.5566456
+        ],
+        [
+          8.7640463,
+          47.5565473
+        ],
+        [
+          8.7640785,
+          47.5565222
+        ],
+        [
+          8.7640099,
+          47.5564821
+        ],
+        [
+          8.7640739,
+          47.5564322
+        ],
+        [
+          8.7643276,
+          47.5565804
+        ],
+        [
+          8.7643862,
+          47.5565347
+        ],
+        [
+          8.7646372,
+          47.5566813
+        ],
+        [
+          8.7647498,
+          47.5566133
+        ],
+        [
+          8.7647416,
+          47.5566071
+        ],
+        [
+          8.7648507,
+          47.5565412
+        ],
+        [
+          8.7648905,
+          47.5565713
+        ],
+        [
+          8.7651381,
+          47.5564217
+        ],
+        [
+          8.7651623,
+          47.55644
+        ],
+        [
+          8.7652892,
+          47.5564021
+        ],
+        [
+          8.765358,
+          47.5565069
+        ],
+        [
+          8.7652687,
+          47.5565336
+        ],
+        [
+          8.7652417,
+          47.5565495
+        ],
+        [
+          8.7652691,
+          47.5565706
+        ],
+        [
+          8.7652001,
+          47.5566113
+        ],
+        [
+          8.7651565,
+          47.5565776
+        ],
+        [
+          8.764954,
+          47.5566971
+        ],
+        [
+          8.7649298,
+          47.5566784
+        ],
+        [
+          8.7647785,
+          47.5567677
+        ],
+        [
+          8.764759,
+          47.5567526
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/169783316",
   "properties": {
     "amenity": "school",
@@ -43591,6 +43741,48 @@
         [
           8.4549957,
           47.481749
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/183644208",
+  "properties": {
+    "addr:city": "Dietlikon",
+    "addr:housenumber": "6",
+    "addr:postcode": "8305",
+    "addr:street": "Limmatfeld-Strasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Dorf 1-5",
+    "source": "bing",
+    "id": "way/183644208"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6168771,
+          47.4258279
+        ],
+        [
+          8.61686,
+          47.4255311
+        ],
+        [
+          8.6171079,
+          47.4255245
+        ],
+        [
+          8.617125,
+          47.4258213
+        ],
+        [
+          8.6168771,
+          47.4258279
         ]
       ]
     ]
@@ -49420,6 +49612,128 @@
         [
           8.7209649,
           47.3545703
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/223122751",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "30",
+    "addr:postcode": "8953",
+    "addr:street": "Vogelaustrasse",
+    "amenity": "school",
+    "building": "yes",
+    "name": "Heilpädagoische Schule Limmattal",
+    "source": "bing",
+    "id": "way/223122751"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4121399,
+          47.3963783
+        ],
+        [
+          8.4121491,
+          47.3963312
+        ],
+        [
+          8.4123082,
+          47.3962011
+        ],
+        [
+          8.4123609,
+          47.3962305
+        ],
+        [
+          8.4124154,
+          47.3961866
+        ],
+        [
+          8.4123838,
+          47.3961686
+        ],
+        [
+          8.4123727,
+          47.3960796
+        ],
+        [
+          8.4126483,
+          47.396063
+        ],
+        [
+          8.4126487,
+          47.3960752
+        ],
+        [
+          8.4126923,
+          47.3960728
+        ],
+        [
+          8.4128028,
+          47.3961344
+        ],
+        [
+          8.4127213,
+          47.3962003
+        ],
+        [
+          8.4127155,
+          47.3961975
+        ],
+        [
+          8.4127092,
+          47.3962021
+        ],
+        [
+          8.4127059,
+          47.396203
+        ],
+        [
+          8.4126949,
+          47.3962031
+        ],
+        [
+          8.4126911,
+          47.3962014
+        ],
+        [
+          8.4126587,
+          47.3961824
+        ],
+        [
+          8.4126541,
+          47.3961526
+        ],
+        [
+          8.412534,
+          47.3961599
+        ],
+        [
+          8.4125389,
+          47.3961938
+        ],
+        [
+          8.4125106,
+          47.3962172
+        ],
+        [
+          8.4125734,
+          47.3962535
+        ],
+        [
+          8.4123073,
+          47.3964736
+        ],
+        [
+          8.4121399,
+          47.3963783
         ]
       ]
     ]
@@ -70399,6 +70713,159 @@
 },
 {
   "type": "Feature",
+  "id": "way/451687220",
+  "properties": {
+    "addr:city": "Dietlikon",
+    "addr:housenumber": "2",
+    "addr:postcode": "8305",
+    "addr:street": "Fuchshalde",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Fadacher",
+    "id": "way/451687220"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6151757,
+          47.4203302
+        ],
+        [
+          8.6151441,
+          47.4202772
+        ],
+        [
+          8.6151167,
+          47.4202699
+        ],
+        [
+          8.6151851,
+          47.4201621
+        ],
+        [
+          8.6151554,
+          47.4201527
+        ],
+        [
+          8.6151643,
+          47.4201404
+        ],
+        [
+          8.6151416,
+          47.4201043
+        ],
+        [
+          8.6151723,
+          47.4200543
+        ],
+        [
+          8.6151439,
+          47.4200067
+        ],
+        [
+          8.6151609,
+          47.4199806
+        ],
+        [
+          8.6151791,
+          47.4199875
+        ],
+        [
+          8.6152381,
+          47.4199714
+        ],
+        [
+          8.6153097,
+          47.4199913
+        ],
+        [
+          8.6153619,
+          47.4199752
+        ],
+        [
+          8.6154391,
+          47.4199998
+        ],
+        [
+          8.6154891,
+          47.4199836
+        ],
+        [
+          8.6155663,
+          47.4200075
+        ],
+        [
+          8.6156356,
+          47.419986
+        ],
+        [
+          8.6156742,
+          47.4199982
+        ],
+        [
+          8.6156662,
+          47.4200113
+        ],
+        [
+          8.6156878,
+          47.4200482
+        ],
+        [
+          8.6156549,
+          47.4200989
+        ],
+        [
+          8.6156776,
+          47.4201366
+        ],
+        [
+          8.6156469,
+          47.4201857
+        ],
+        [
+          8.6156685,
+          47.4202241
+        ],
+        [
+          8.6156413,
+          47.4202649
+        ],
+        [
+          8.6156061,
+          47.4202549
+        ],
+        [
+          8.6155515,
+          47.4202695
+        ],
+        [
+          8.6155311,
+          47.4202295
+        ],
+        [
+          8.6153369,
+          47.4202833
+        ],
+        [
+          8.6153063,
+          47.4202702
+        ],
+        [
+          8.6152904,
+          47.4202979
+        ],
+        [
+          8.6151757,
+          47.4203302
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/459058872",
   "properties": {
     "amenity": "school",
@@ -86403,26 +86870,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2990658736",
-  "properties": {
-    "addr:city": "Dietikon",
-    "addr:housenumber": "30",
-    "addr:postcode": "8953",
-    "addr:street": "Vogelaustrasse",
-    "amenity": "school",
-    "name": "Heilpädagoische Schule Limmattal",
-    "id": "node/2990658736"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4125471,
-      47.3961456
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3147351686",
   "properties": {
     "addr:city": "Hittnau",
@@ -89735,6 +90182,26 @@
     "coordinates": [
       8.4488725,
       47.3562366
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9816617971",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:housenumber": "52",
+    "addr:postcode": "8600",
+    "addr:street": "Neugutstrasse",
+    "amenity": "school",
+    "name": "Christliche Schule Dübendorf",
+    "id": "node/9816617971"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6092106,
+      47.4001245
     ]
   }
 }

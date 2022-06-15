@@ -2481,65 +2481,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/292438145",
-  "properties": {
-    "addr:housenumber": "25",
-    "addr:street": "Vorstadtstrasse",
-    "after_school": "no",
-    "amenity": "childcare",
-    "building": "yes",
-    "kindergarten": "yes",
-    "name": "Vorstadt",
-    "nursery": "no",
-    "orphanage": "no",
-    "id": "way/292438145"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.3995713,
-          47.4085317
-        ],
-        [
-          8.39964,
-          47.4084805
-        ],
-        [
-          8.3996953,
-          47.4085145
-        ],
-        [
-          8.3997192,
-          47.4084967
-        ],
-        [
-          8.3998237,
-          47.408561
-        ],
-        [
-          8.3997404,
-          47.408623
-        ],
-        [
-          8.3996352,
-          47.4085583
-        ],
-        [
-          8.3996258,
-          47.4085653
-        ],
-        [
-          8.3995713,
-          47.4085317
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/296093153",
   "properties": {
     "amenity": "childcare",

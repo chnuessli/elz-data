@@ -36749,22 +36749,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2950839437",
-  "properties": {
-    "amenity": "social_facility",
-    "name": "Alterswohnheim Lindenbaum",
-    "id": "node/2950839437"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.3956732,
-      47.4086386
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3246946609",
   "properties": {
     "addr:city": "Zürich",

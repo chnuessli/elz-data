@@ -74228,6 +74228,21 @@
       47.2155343
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9816554704",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/9816554704"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.436043,
+      47.4416122
+    ]
+  }
 }
 ]
 }

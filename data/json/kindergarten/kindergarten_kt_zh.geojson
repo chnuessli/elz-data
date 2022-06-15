@@ -9540,6 +9540,81 @@
 },
 {
   "type": "Feature",
+  "id": "way/126505436",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "8600",
+    "addr:street": "Wasserfurrenstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "2",
+    "name": "Kindergarten Högler",
+    "id": "way/126505436"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6081125,
+          47.3940016
+        ],
+        [
+          8.6081363,
+          47.3939865
+        ],
+        [
+          8.6080543,
+          47.3939275
+        ],
+        [
+          8.6081757,
+          47.3938501
+        ],
+        [
+          8.6082848,
+          47.3939285
+        ],
+        [
+          8.6083116,
+          47.3939114
+        ],
+        [
+          8.6083519,
+          47.3939404
+        ],
+        [
+          8.608327,
+          47.3939563
+        ],
+        [
+          8.6083399,
+          47.3939655
+        ],
+        [
+          8.6083164,
+          47.3939806
+        ],
+        [
+          8.6084181,
+          47.3940537
+        ],
+        [
+          8.6082946,
+          47.3941324
+        ],
+        [
+          8.6081125,
+          47.3940016
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/127601556",
   "properties": {
     "amenity": "kindergarten",
@@ -11689,7 +11764,7 @@
   "id": "way/155992440",
   "properties": {
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten Staffelacker",
     "id": "way/155992440"
   },
   "geometry": {
@@ -11697,32 +11772,125 @@
     "coordinates": [
       [
         [
-          8.3898572,
-          47.4022969
+          8.3898531,
+          47.4022991
         ],
         [
-          8.3898572,
-          47.4021857
+          8.3898511,
+          47.4021827
         ],
         [
-          8.3902153,
-          47.4021857
+          8.3902272,
+          47.4021797
         ],
         [
-          8.3902153,
-          47.4022969
+          8.3902292,
+          47.4022961
         ],
         [
-          8.3901353,
-          47.4022969
+          8.3901373,
+          47.4022968
         ],
         [
           8.3899502,
-          47.4022969
+          47.4022983
         ],
         [
-          8.3898572,
-          47.4022969
+          8.3898531,
+          47.4022991
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/155992842",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "7",
+    "addr:postcode": "8953",
+    "addr:street": "Stelzenackerstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Zinggen 1+2",
+    "id": "way/155992842"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.3909953,
+          47.4039488
+        ],
+        [
+          8.3909412,
+          47.4039319
+        ],
+        [
+          8.3909376,
+          47.4039373
+        ],
+        [
+          8.3908004,
+          47.4038926
+        ],
+        [
+          8.3908506,
+          47.4038219
+        ],
+        [
+          8.3909845,
+          47.4038661
+        ],
+        [
+          8.3910005,
+          47.4038436
+        ],
+        [
+          8.3909966,
+          47.4038419
+        ],
+        [
+          8.3910092,
+          47.4038335
+        ],
+        [
+          8.3910451,
+          47.4038088
+        ],
+        [
+          8.3910396,
+          47.4038049
+        ],
+        [
+          8.3910452,
+          47.4038014
+        ],
+        [
+          8.3910338,
+          47.403793
+        ],
+        [
+          8.3911405,
+          47.4037198
+        ],
+        [
+          8.391222,
+          47.4037746
+        ],
+        [
+          8.3911197,
+          47.4038454
+        ],
+        [
+          8.3911325,
+          47.403854
+        ],
+        [
+          8.3909953,
+          47.4039488
         ]
       ]
     ]
@@ -11830,8 +11998,8 @@
   "id": "way/156400349",
   "properties": {
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Sonnenberg 1",
+    "building": "kindergarten",
+    "name": "Kindergarten Sonnenhof 1+2",
     "id": "way/156400349"
   },
   "geometry": {
@@ -11839,28 +12007,28 @@
     "coordinates": [
       [
         [
-          8.3954328,
-          47.4040641
+          8.3954543,
+          47.40406
         ],
         [
-          8.3955665,
-          47.4039976
+          8.3955482,
+          47.4040083
         ],
         [
-          8.3956726,
-          47.4040943
+          8.3956571,
+          47.4041034
         ],
         [
-          8.3958198,
-          47.4042306
+          8.3958064,
+          47.4042342
         ],
         [
-          8.3956862,
-          47.4042972
+          8.3957137,
+          47.4042862
         ],
         [
-          8.3954328,
-          47.4040641
+          8.3954543,
+          47.40406
         ]
       ]
     ]
@@ -11871,8 +12039,8 @@
   "id": "way/156400350",
   "properties": {
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Steinmürli",
+    "building": "kindergarten",
+    "name": "Kindergarten Steinmürli 1+2",
     "id": "way/156400350"
   },
   "geometry": {
@@ -11880,28 +12048,28 @@
     "coordinates": [
       [
         [
-          8.396306,
-          47.4044278
+          8.3963071,
+          47.4044218
         ],
         [
-          8.3959896,
-          47.4045853
+          8.3959924,
+          47.4045848
         ],
         [
-          8.39587,
-          47.4044752
+          8.3958714,
+          47.4044776
         ],
         [
           8.3960298,
           47.4043957
         ],
         [
-          8.3961835,
-          47.4043175
+          8.3961846,
+          47.4043138
         ],
         [
-          8.396306,
-          47.4044278
+          8.3963071,
+          47.4044218
         ]
       ]
     ]
@@ -12875,8 +13043,13 @@
   "type": "Feature",
   "id": "way/169783067",
   "properties": {
+    "addr:city": "Dinhard",
+    "addr:housenumber": "49",
+    "addr:postcode": "8474",
+    "addr:street": "Ebnetstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
+    "name": "Kindergarten Ebnet",
     "id": "way/169783067"
   },
   "geometry": {
@@ -13099,12 +13272,13 @@
   "type": "Feature",
   "id": "way/174680951",
   "properties": {
+    "addr:city": "Dietikon",
     "addr:housename": "Kindergarten in der Lachen",
     "addr:housenumber": "14",
     "addr:postcode": "8953",
     "addr:street": "In der Lachen",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten in der Lachen",
     "id": "way/174680951"
   },
@@ -13113,24 +13287,32 @@
     "coordinates": [
       [
         [
-          8.3997211,
-          47.3975714
+          8.3997293,
+          47.3975632
         ],
         [
-          8.3995858,
-          47.397455
+          8.3995991,
+          47.3974533
         ],
         [
-          8.3996968,
-          47.3973959
+          8.3996461,
+          47.3974267
         ],
         [
-          8.3998321,
-          47.3975123
+          8.3996064,
+          47.397393
         ],
         [
-          8.3997211,
-          47.3975714
+          8.3996483,
+          47.39737
+        ],
+        [
+          8.3998182,
+          47.3975138
+        ],
+        [
+          8.3997293,
+          47.3975632
         ]
       ]
     ]
@@ -13313,6 +13495,51 @@
 },
 {
   "type": "Feature",
+  "id": "way/183418253",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:housenumber": "44",
+    "addr:postcode": "8600",
+    "addr:street": "Grüzenstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Grüze",
+    "id": "way/183418253"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6179008,
+          47.3928221
+        ],
+        [
+          8.6178153,
+          47.3927563
+        ],
+        [
+          8.6180166,
+          47.3926366
+        ],
+        [
+          8.618204,
+          47.3925251
+        ],
+        [
+          8.6182895,
+          47.392591
+        ],
+        [
+          8.6179008,
+          47.3928221
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/183535019",
   "properties": {
     "addr:city": "Dielsdorf",
@@ -13434,6 +13661,79 @@
         [
           8.4549805,
           47.4852846
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/183641274",
+  "properties": {
+    "addr:city": "Dietlikon",
+    "addr:housenumber": "8",
+    "addr:postcode": "8305",
+    "addr:street": "Tödistrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Tödi 1+2",
+    "id": "way/183641274"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6159684,
+          47.4197353
+        ],
+        [
+          8.6159296,
+          47.4196856
+        ],
+        [
+          8.6159602,
+          47.4196746
+        ],
+        [
+          8.6159232,
+          47.4196271
+        ],
+        [
+          8.6160369,
+          47.4195865
+        ],
+        [
+          8.6160728,
+          47.4196325
+        ],
+        [
+          8.6161721,
+          47.4195971
+        ],
+        [
+          8.6161354,
+          47.4195501
+        ],
+        [
+          8.6162473,
+          47.4195101
+        ],
+        [
+          8.6162823,
+          47.419555
+        ],
+        [
+          8.616321,
+          47.4195411
+        ],
+        [
+          8.6163626,
+          47.4195944
+        ],
+        [
+          8.6159684,
+          47.4197353
         ]
       ]
     ]
@@ -14759,6 +15059,131 @@
         [
           8.4036002,
           47.4031737
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/222919554",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "7",
+    "addr:postcode": "8953",
+    "addr:street": "Schulstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Zentral 1",
+    "id": "way/222919554"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4032322,
+          47.4025873
+        ],
+        [
+          8.4031155,
+          47.402438
+        ],
+        [
+          8.4032423,
+          47.4023926
+        ],
+        [
+          8.403359,
+          47.4025419
+        ],
+        [
+          8.4032322,
+          47.4025873
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/222919566",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "7a",
+    "addr:postcode": "8953",
+    "addr:street": "Schulstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Zentral 2",
+    "source": "bing",
+    "id": "way/222919566"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4034455,
+          47.4028293
+        ],
+        [
+          8.4033326,
+          47.4026888
+        ],
+        [
+          8.4034479,
+          47.4026464
+        ],
+        [
+          8.4035608,
+          47.4027869
+        ],
+        [
+          8.4034455,
+          47.4028293
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/223122727",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "39",
+    "addr:postcode": "8953",
+    "addr:street": "Hofackerstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Hofacker",
+    "source": "bing",
+    "id": "way/223122727"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4150154,
+          47.3963084
+        ],
+        [
+          8.4150471,
+          47.3961754
+        ],
+        [
+          8.4151599,
+          47.396188
+        ],
+        [
+          8.4151285,
+          47.3963205
+        ],
+        [
+          8.4150154,
+          47.3963084
         ]
       ]
     ]
@@ -17778,6 +18203,163 @@
 },
 {
   "type": "Feature",
+  "id": "way/292438145",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "25",
+    "addr:postcode": "8953",
+    "addr:street": "Vorstadtstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Vorstadt",
+    "id": "way/292438145"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.399578,
+          47.4085218
+        ],
+        [
+          8.3996102,
+          47.4084986
+        ],
+        [
+          8.3996011,
+          47.408493
+        ],
+        [
+          8.3996158,
+          47.4084827
+        ],
+        [
+          8.3996234,
+          47.408488
+        ],
+        [
+          8.3996446,
+          47.4084736
+        ],
+        [
+          8.3996118,
+          47.4084524
+        ],
+        [
+          8.3996586,
+          47.4084178
+        ],
+        [
+          8.3997059,
+          47.4084475
+        ],
+        [
+          8.3996616,
+          47.4085021
+        ],
+        [
+          8.3996911,
+          47.4085208
+        ],
+        [
+          8.3997172,
+          47.4085022
+        ],
+        [
+          8.3997292,
+          47.4085105
+        ],
+        [
+          8.3997347,
+          47.4085067
+        ],
+        [
+          8.3998054,
+          47.4085522
+        ],
+        [
+          8.3998004,
+          47.4085558
+        ],
+        [
+          8.3998157,
+          47.4085651
+        ],
+        [
+          8.3998427,
+          47.408571
+        ],
+        [
+          8.3998509,
+          47.4085588
+        ],
+        [
+          8.3998862,
+          47.4085526
+        ],
+        [
+          8.3999164,
+          47.4085651
+        ],
+        [
+          8.3999222,
+          47.4085912
+        ],
+        [
+          8.3998978,
+          47.4086103
+        ],
+        [
+          8.3998588,
+          47.4086094
+        ],
+        [
+          8.3998457,
+          47.4085967
+        ],
+        [
+          8.3997894,
+          47.4085832
+        ],
+        [
+          8.3997445,
+          47.4086164
+        ],
+        [
+          8.3996544,
+          47.4085596
+        ],
+        [
+          8.3996465,
+          47.4085659
+        ],
+        [
+          8.3996372,
+          47.4085601
+        ],
+        [
+          8.3996396,
+          47.4085586
+        ],
+        [
+          8.3995842,
+          47.4085228
+        ],
+        [
+          8.3995819,
+          47.4085244
+        ],
+        [
+          8.399578,
+          47.4085218
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/295507677",
   "properties": {
     "addr:city": "Guntalingen",
@@ -17929,6 +18511,87 @@
         [
           8.7652906,
           47.255113
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/300465599",
+  "properties": {
+    "addr:city": "Dorf",
+    "addr:housenumber": "4.1",
+    "addr:postcode": "8458",
+    "addr:street": "Trottenackerstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Trottenacker",
+    "id": "way/300465599"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6428192,
+          47.5711979
+        ],
+        [
+          8.6428227,
+          47.5711514
+        ],
+        [
+          8.6427997,
+          47.5711514
+        ],
+        [
+          8.6428245,
+          47.5710547
+        ],
+        [
+          8.6428918,
+          47.5710093
+        ],
+        [
+          8.6430298,
+          47.570983
+        ],
+        [
+          8.6430386,
+          47.5710045
+        ],
+        [
+          8.6431006,
+          47.5709926
+        ],
+        [
+          8.6431254,
+          47.5710833
+        ],
+        [
+          8.6431944,
+          47.5710774
+        ],
+        [
+          8.643205,
+          47.5711203
+        ],
+        [
+          8.6430793,
+          47.5711287
+        ],
+        [
+          8.6430103,
+          47.5711741
+        ],
+        [
+          8.643005,
+          47.5712051
+        ],
+        [
+          8.6428192,
+          47.5711979
         ]
       ]
     ]
@@ -26292,6 +26955,139 @@
 },
 {
   "type": "Feature",
+  "id": "way/1069481268",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "2",
+    "addr:postcode": "8953",
+    "addr:street": "Max Müller-Strasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Max-Müllerstrasse",
+    "id": "way/1069481268"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4117584,
+          47.3975463
+        ],
+        [
+          8.4118163,
+          47.3975131
+        ],
+        [
+          8.4118199,
+          47.397516
+        ],
+        [
+          8.4118168,
+          47.3975177
+        ],
+        [
+          8.4118361,
+          47.3975331
+        ],
+        [
+          8.4118225,
+          47.3975408
+        ],
+        [
+          8.4118419,
+          47.3975564
+        ],
+        [
+          8.4118592,
+          47.3975465
+        ],
+        [
+          8.4118783,
+          47.3975618
+        ],
+        [
+          8.4119507,
+          47.3975204
+        ],
+        [
+          8.4119542,
+          47.3975231
+        ],
+        [
+          8.4119501,
+          47.3975255
+        ],
+        [
+          8.4120389,
+          47.3975966
+        ],
+        [
+          8.4120413,
+          47.3975952
+        ],
+        [
+          8.4120445,
+          47.3975978
+        ],
+        [
+          8.41195,
+          47.397652
+        ],
+        [
+          8.411913,
+          47.3976224
+        ],
+        [
+          8.4118771,
+          47.397643
+        ],
+        [
+          8.4118732,
+          47.3976399
+        ],
+        [
+          8.4118772,
+          47.3976376
+        ],
+        [
+          8.411855,
+          47.3976196
+        ],
+        [
+          8.411846,
+          47.3976247
+        ],
+        [
+          8.4118291,
+          47.3976172
+        ],
+        [
+          8.4118237,
+          47.3976134
+        ],
+        [
+          8.4118197,
+          47.397616
+        ],
+        [
+          8.4118152,
+          47.3976123
+        ],
+        [
+          8.4118302,
+          47.3976037
+        ],
+        [
+          8.4117584,
+          47.3975463
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
@@ -27880,24 +28676,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2194345192",
-  "properties": {
-    "addr:housenumber": "2",
-    "addr:postcode": "8953",
-    "addr:street": "Max Müller-Strasse",
-    "amenity": "kindergarten",
-    "id": "node/2194345192"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4118583,
-      47.3976013
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2216406533",
   "properties": {
     "amenity": "kindergarten",
@@ -27932,17 +28710,19 @@
   "type": "Feature",
   "id": "node/2249840673",
   "properties": {
+    "addr:city": "Dietikon",
     "addr:housenumber": "44",
     "addr:postcode": "8953",
     "addr:street": "Bleicherstrasse",
     "amenity": "kindergarten",
+    "name": "Kindergarten Lindenbaum",
     "id": "node/2249840673"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.3954942,
-      47.4087024
+      8.3954859,
+      47.4087322
     ]
   }
 },
@@ -28717,31 +29497,21 @@
 },
 {
   "type": "Feature",
-  "id": "node/3373722556",
-  "properties": {
-    "amenity": "kindergarten",
-    "id": "node/3373722556"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4053862,
-      47.4107303
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3373722557",
   "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "19",
+    "addr:postcode": "8953",
+    "addr:street": "Limmatfeld-Strasse",
     "amenity": "kindergarten",
+    "name": "Kindergarten Zypressenhof",
     "id": "node/3373722557"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4056574,
-      47.4107773
+      8.4056249,
+      47.410776
     ]
   }
 },
@@ -36715,6 +37485,46 @@
     "coordinates": [
       8.4054948,
       47.4071137
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9816294248",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "9",
+    "addr:postcode": "8953",
+    "addr:street": "Mina Hess-Strasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Limmatfeld",
+    "id": "node/9816294248"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4066631,
+      47.4105573
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9816361570",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "12",
+    "addr:postcode": "8953",
+    "addr:street": "Schachenmattstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Schächli",
+    "id": "node/9816361570"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4050576,
+      47.4080895
     ]
   }
 }
