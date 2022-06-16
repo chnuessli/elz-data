@@ -3634,7 +3634,7 @@
     "addr:street": "Zwinggartenstrasse",
     "amenity": "school",
     "building": "school",
-    "name": "Oberstufenschulhaus",
+    "name": "Schulhaus Stägenbuck Sekundar",
     "id": "way/24543623"
   },
   "geometry": {
@@ -3768,7 +3768,7 @@
     "addr:street": "Zwinggartenstrasse",
     "amenity": "school",
     "building": "school",
-    "name": "Primarschule",
+    "name": "Schulhaus Stägenbuck Primar",
     "id": "way/24543625"
   },
   "geometry": {
@@ -5814,32 +5814,32 @@
     "coordinates": [
       [
         [
-          8.6784277,
-          47.3903012
+          8.67843,
+          47.3903148
         ],
         [
-          8.6783,
-          47.3901943
+          8.6782712,
+          47.390199
         ],
         [
-          8.6784988,
-          47.3900855
+          8.6784401,
+          47.3900929
         ],
         [
-          8.6785486,
-          47.3901271
+          8.6784989,
+          47.3901358
         ],
         [
-          8.6785894,
-          47.3901048
+          8.6785355,
+          47.3901128
         ],
         [
-          8.6786674,
-          47.3901701
+          8.6786354,
+          47.3901857
         ],
         [
-          8.6784277,
-          47.3903012
+          8.67843,
+          47.3903148
         ]
       ]
     ]
@@ -7901,12 +7901,14 @@
   "type": "Feature",
   "id": "way/30002424",
   "properties": {
+    "addr:city": "Effretikon",
     "addr:housenumber": "7",
+    "addr:postcode": "8307",
     "addr:street": "Sportplatzstrasse",
     "amenity": "school",
     "building": "school",
     "building:levels": "3",
-    "name": "Eselriet B",
+    "name": "Schulhaus Eselriet B",
     "source": "Yahoo",
     "id": "way/30002424"
   },
@@ -7998,12 +8000,14 @@
   "type": "Feature",
   "id": "way/30002425",
   "properties": {
+    "addr:city": "Effretikon",
     "addr:housenumber": "9",
+    "addr:postcode": "8307",
     "addr:street": "Sportplatzstrasse",
     "amenity": "school",
     "building": "school",
     "building:levels": "3",
-    "name": "Eselriet A",
+    "name": "Schulhaus Eselriet A",
     "source": "Yahoo",
     "id": "way/30002425"
   },
@@ -8561,7 +8565,7 @@
   "id": "way/30792336",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Leeacher",
+    "name": "Schule Leeacher",
     "website": "http://www.leeacher.ch/",
     "id": "way/30792336"
   },
@@ -9253,7 +9257,7 @@
   "id": "way/31109383",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Oberdürnten",
+    "name": "Schule Oberdürnten",
     "website": "https://www.schuleduernten.ch/",
     "id": "way/31109383"
   },
@@ -15899,7 +15903,7 @@
   "id": "way/41763790",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Stägenbuck",
+    "name": "Schule Stägenbuck",
     "school": "primary;secondary",
     "website": "https://www.staegenbuck.ch/",
     "id": "way/41763790"
@@ -16967,7 +16971,9 @@
   "type": "Feature",
   "id": "way/47362123",
   "properties": {
+    "addr:city": "Dübendorf",
     "addr:housenumber": "37",
+    "addr:postcode": "8600",
     "addr:street": "Feldhofstrasse",
     "amenity": "school",
     "building": "yes",
@@ -20589,7 +20595,7 @@
     "amenity": "school",
     "building": "school",
     "isced:level": "1",
-    "name": "Schulhaus",
+    "name": "Schulhaus Ebertswil",
     "id": "way/69027673"
   },
   "geometry": {
@@ -29596,6 +29602,64 @@
 },
 {
   "type": "Feature",
+  "id": "way/119567262",
+  "properties": {
+    "addr:city": "Bisikon",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8307",
+    "addr:street": "Hauptstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Bissikon",
+    "id": "way/119567262"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6945826,
+          47.4132127
+        ],
+        [
+          8.6945668,
+          47.4132063
+        ],
+        [
+          8.6945317,
+          47.413246
+        ],
+        [
+          8.6944224,
+          47.4132017
+        ],
+        [
+          8.6944576,
+          47.4131619
+        ],
+        [
+          8.694446,
+          47.4131572
+        ],
+        [
+          8.6945521,
+          47.4130371
+        ],
+        [
+          8.6946889,
+          47.4130924
+        ],
+        [
+          8.6945826,
+          47.4132127
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/120912175",
   "properties": {
     "addr:city": "Boppelsen",
@@ -31763,6 +31827,298 @@
         [
           8.791213,
           47.319875
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/126505439",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "8600",
+    "addr:street": "Wasserfurrenstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Högler",
+    "id": "way/126505439"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6086331,
+          47.3940897
+        ],
+        [
+          8.6085712,
+          47.394044
+        ],
+        [
+          8.6085959,
+          47.3940286
+        ],
+        [
+          8.6085057,
+          47.393962
+        ],
+        [
+          8.6086023,
+          47.3939021
+        ],
+        [
+          8.6086198,
+          47.3939151
+        ],
+        [
+          8.6086381,
+          47.3939038
+        ],
+        [
+          8.6086486,
+          47.3939115
+        ],
+        [
+          8.6087674,
+          47.3938378
+        ],
+        [
+          8.6087795,
+          47.3938468
+        ],
+        [
+          8.6088113,
+          47.393827
+        ],
+        [
+          8.6087534,
+          47.3937842
+        ],
+        [
+          8.6087842,
+          47.3937651
+        ],
+        [
+          8.6087223,
+          47.3937194
+        ],
+        [
+          8.6088121,
+          47.3936637
+        ],
+        [
+          8.6088391,
+          47.3936837
+        ],
+        [
+          8.6089239,
+          47.3936311
+        ],
+        [
+          8.6089532,
+          47.3936527
+        ],
+        [
+          8.6090412,
+          47.3935982
+        ],
+        [
+          8.609123,
+          47.3936586
+        ],
+        [
+          8.6090933,
+          47.393677
+        ],
+        [
+          8.6091709,
+          47.3937344
+        ],
+        [
+          8.6090824,
+          47.3937894
+        ],
+        [
+          8.6092311,
+          47.3938993
+        ],
+        [
+          8.6093161,
+          47.3938465
+        ],
+        [
+          8.6093454,
+          47.3938682
+        ],
+        [
+          8.6094336,
+          47.3938135
+        ],
+        [
+          8.6095155,
+          47.3938741
+        ],
+        [
+          8.6094861,
+          47.3938923
+        ],
+        [
+          8.6095635,
+          47.3939495
+        ],
+        [
+          8.6095338,
+          47.393968
+        ],
+        [
+          8.609611,
+          47.394025
+        ],
+        [
+          8.6095175,
+          47.394083
+        ],
+        [
+          8.6094995,
+          47.3940697
+        ],
+        [
+          8.6094469,
+          47.3941023
+        ],
+        [
+          8.6093365,
+          47.3940207
+        ],
+        [
+          8.6092764,
+          47.394058
+        ],
+        [
+          8.6089869,
+          47.3938441
+        ],
+        [
+          8.6090468,
+          47.3938069
+        ],
+        [
+          8.6089967,
+          47.3937699
+        ],
+        [
+          8.6088584,
+          47.3938557
+        ],
+        [
+          8.6089126,
+          47.3938957
+        ],
+        [
+          8.6087378,
+          47.3940041
+        ],
+        [
+          8.6086946,
+          47.3939722
+        ],
+        [
+          8.6086287,
+          47.3940131
+        ],
+        [
+          8.6086871,
+          47.3940562
+        ],
+        [
+          8.6086331,
+          47.3940897
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/126532041",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:country": "CH",
+    "addr:housenumber": "18",
+    "addr:postcode": "8600",
+    "addr:street": "Untere Geerenstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Wil",
+    "id": "way/126532041"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6158643,
+          47.3890665
+        ],
+        [
+          8.6158392,
+          47.3890471
+        ],
+        [
+          8.6159967,
+          47.3889518
+        ],
+        [
+          8.6159422,
+          47.3889094
+        ],
+        [
+          8.6159661,
+          47.3888953
+        ],
+        [
+          8.6158068,
+          47.3887724
+        ],
+        [
+          8.6159134,
+          47.3887086
+        ],
+        [
+          8.6160455,
+          47.3888113
+        ],
+        [
+          8.6160086,
+          47.3888339
+        ],
+        [
+          8.6161205,
+          47.3889221
+        ],
+        [
+          8.6160369,
+          47.3889726
+        ],
+        [
+          8.616214,
+          47.3891094
+        ],
+        [
+          8.6160327,
+          47.3892173
+        ],
+        [
+          8.6158499,
+          47.3890757
+        ],
+        [
+          8.6158643,
+          47.3890665
         ]
       ]
     ]
@@ -42943,6 +43299,168 @@
         [
           8.3942279,
           47.4975628
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/180476024",
+  "properties": {
+    "addr:city": "Effretikon",
+    "addr:housenumber": "9",
+    "addr:postcode": "8307",
+    "addr:street": "Brüttenerstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Schlimperg Trakt B",
+    "id": "way/180476024"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6856236,
+          47.4315475
+        ],
+        [
+          8.685583,
+          47.4315023
+        ],
+        [
+          8.6855383,
+          47.4315206
+        ],
+        [
+          8.6854617,
+          47.4314352
+        ],
+        [
+          8.6855088,
+          47.4314158
+        ],
+        [
+          8.685426,
+          47.4313235
+        ],
+        [
+          8.6853808,
+          47.4313421
+        ],
+        [
+          8.6853016,
+          47.4312539
+        ],
+        [
+          8.6853477,
+          47.4312349
+        ],
+        [
+          8.6852663,
+          47.4311443
+        ],
+        [
+          8.6852054,
+          47.4311694
+        ],
+        [
+          8.6851108,
+          47.431064
+        ],
+        [
+          8.6851633,
+          47.4310424
+        ],
+        [
+          8.6851204,
+          47.4309947
+        ],
+        [
+          8.6852531,
+          47.4309402
+        ],
+        [
+          8.6857511,
+          47.4314951
+        ],
+        [
+          8.6856236,
+          47.4315475
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/180476025",
+  "properties": {
+    "addr:city": "Effretikon",
+    "addr:housenumber": "18",
+    "addr:postcode": "8307",
+    "addr:street": "Schlimpergstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Schlimperg Trakt A",
+    "id": "way/180476025"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6842072,
+          47.4307531
+        ],
+        [
+          8.6842207,
+          47.4307477
+        ],
+        [
+          8.684342,
+          47.4306999
+        ],
+        [
+          8.6843618,
+          47.4306921
+        ],
+        [
+          8.6844543,
+          47.4307995
+        ],
+        [
+          8.6849722,
+          47.4305955
+        ],
+        [
+          8.6852043,
+          47.430865
+        ],
+        [
+          8.6850666,
+          47.4309193
+        ],
+        [
+          8.6849253,
+          47.4307552
+        ],
+        [
+          8.6846505,
+          47.4308635
+        ],
+        [
+          8.6846908,
+          47.4309103
+        ],
+        [
+          8.6844309,
+          47.4310128
+        ],
+        [
+          8.6842072,
+          47.4307531
         ]
       ]
     ]
@@ -66830,6 +67348,80 @@
 },
 {
   "type": "Feature",
+  "id": "way/402764374",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:housenumber": "1",
+    "addr:postcode": "8600",
+    "addr:street": "Zukunftstrasse",
+    "amenity": "school",
+    "building": "school",
+    "building:levels": "5",
+    "name": "Lycée Français de Zurich",
+    "id": "way/402764374"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5994725,
+          47.4003678
+        ],
+        [
+          8.5999255,
+          47.400244
+        ],
+        [
+          8.6000637,
+          47.4004755
+        ],
+        [
+          8.6002851,
+          47.4004149
+        ],
+        [
+          8.6003318,
+          47.4004931
+        ],
+        [
+          8.6005818,
+          47.4004248
+        ],
+        [
+          8.6003959,
+          47.4001134
+        ],
+        [
+          8.6008094,
+          47.4000004
+        ],
+        [
+          8.601088,
+          47.4004671
+        ],
+        [
+          8.5998602,
+          47.4008029
+        ],
+        [
+          8.5997243,
+          47.4005753
+        ],
+        [
+          8.5996143,
+          47.4006054
+        ],
+        [
+          8.5994725,
+          47.4003678
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/406012751",
   "properties": {
     "addr:city": "Winterthur",
@@ -67362,12 +67954,20 @@
           47.3942593
         ],
         [
-          8.608646,
-          47.3940708
+          8.6086008,
+          47.3940908
         ],
         [
-          8.6084148,
-          47.3939043
+          8.6085282,
+          47.3940346
+        ],
+        [
+          8.6085553,
+          47.3940196
+        ],
+        [
+          8.608409,
+          47.3939076
         ],
         [
           8.6085125,
@@ -78370,7 +78970,7 @@
   "id": "way/695508228",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Flugfeld",
+    "name": "Schule Flugfeld",
     "id": "way/695508228"
   },
   "geometry": {
@@ -84590,8 +85190,8 @@
           47.4142138
         ],
         [
-          8.5611391,
-          47.4137613
+          8.5611351,
+          47.4137628
         ],
         [
           8.5611665,
@@ -90202,6 +90802,27 @@
     "coordinates": [
       8.6092106,
       47.4001245
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9819305118",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:housenumber": "28",
+    "addr:postcode": "8600",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "school",
+    "name": "Privatschule-Schatzinsel",
+    "operator": "Privatschule-Schatzinsel GmbH",
+    "id": "node/9819305118"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6192991,
+      47.3977757
     ]
   }
 }

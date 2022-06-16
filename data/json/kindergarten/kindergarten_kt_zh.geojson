@@ -1116,7 +1116,7 @@
     "addr:street": "Leeacherstrasse",
     "amenity": "kindergarten",
     "building": "yes",
-    "name": "Kindergarten Leeacher",
+    "name": "Kindergarten Leeacher 1-2-3",
     "id": "way/30976140"
   },
   "geometry": {
@@ -4000,53 +4000,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/44333704",
-  "properties": {
-    "addr:city": "Dübendorf",
-    "addr:country": "CH",
-    "addr:housenumber": "28",
-    "addr:postcode": "8600",
-    "addr:street": "Bahnhofstrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kinderwerkstatt",
-    "wheelchair": "no",
-    "id": "way/44333704"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6191782,
-          47.3977663
-        ],
-        [
-          8.6193277,
-          47.3976556
-        ],
-        [
-          8.6193544,
-          47.3976721
-        ],
-        [
-          8.6194521,
-          47.3977379
-        ],
-        [
-          8.6192997,
-          47.397842
-        ],
-        [
-          8.6191782,
-          47.3977663
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/44846770",
   "properties": {
     "addr:city": "Zürich",
@@ -5140,6 +5093,56 @@
 },
 {
   "type": "Feature",
+  "id": "way/56042958",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8600",
+    "addr:street": "Im Zwinggarten",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Zwinggarten",
+    "id": "way/56042958"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6184787,
+          47.4030573
+        ],
+        [
+          8.6183416,
+          47.4028784
+        ],
+        [
+          8.6185097,
+          47.402819
+        ],
+        [
+          8.6185563,
+          47.4028801
+        ],
+        [
+          8.6186674,
+          47.4028408
+        ],
+        [
+          8.6187579,
+          47.4029585
+        ],
+        [
+          8.6184787,
+          47.4030573
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/56042959",
   "properties": {
     "addr:city": "Dübendorf",
@@ -5190,6 +5193,7 @@
     "addr:street": "Nelkenstrasse",
     "amenity": "kindergarten",
     "building": "yes",
+    "name": "Kindergarten Nelkenstrasse",
     "id": "way/56419713"
   },
   "geometry": {
@@ -5197,40 +5201,32 @@
     "coordinates": [
       [
         [
-          8.62639,
-          47.4008049
+          8.6263817,
+          47.4008063
         ],
         [
-          8.6262094,
-          47.4007155
+          8.626126,
+          47.4006767
         ],
         [
-          8.6262058,
-          47.4007189
+          8.6261946,
+          47.4006136
         ],
         [
-          8.6261217,
-          47.4006772
+          8.6262796,
+          47.4006568
         ],
         [
-          8.6262026,
-          47.4006024
+          8.6262895,
+          47.400647
         ],
         [
-          8.6262892,
-          47.4006452
+          8.626462,
+          47.4007334
         ],
         [
-          8.6263037,
-          47.4006318
-        ],
-        [
-          8.6264818,
-          47.40072
-        ],
-        [
-          8.62639,
-          47.4008049
+          8.6263817,
+          47.4008063
         ]
       ]
     ]
@@ -13540,6 +13536,63 @@
 },
 {
   "type": "Feature",
+  "id": "way/183419024",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:housenumber": "25",
+    "addr:postcode": "8600",
+    "addr:street": "Strehlgasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Strehlgasse",
+    "id": "way/183419024"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6224681,
+          47.3973654
+        ],
+        [
+          8.6223114,
+          47.3972833
+        ],
+        [
+          8.62229,
+          47.3973037
+        ],
+        [
+          8.6220625,
+          47.397192
+        ],
+        [
+          8.6221491,
+          47.3970948
+        ],
+        [
+          8.6224322,
+          47.3972304
+        ],
+        [
+          8.6224417,
+          47.3972222
+        ],
+        [
+          8.6225596,
+          47.3972807
+        ],
+        [
+          8.6224681,
+          47.3973654
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/183535019",
   "properties": {
     "addr:city": "Dielsdorf",
@@ -14286,6 +14339,103 @@
 },
 {
   "type": "Feature",
+  "id": "way/196531399",
+  "properties": {
+    "addr:city": "Effretikon",
+    "addr:housenumber": "13a",
+    "addr:postcode": "8307",
+    "addr:street": "Rappenstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Aemmenacher",
+    "id": "way/196531399"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6965252,
+          47.4256648
+        ],
+        [
+          8.6965536,
+          47.4256415
+        ],
+        [
+          8.6965569,
+          47.4256434
+        ],
+        [
+          8.6966309,
+          47.425582
+        ],
+        [
+          8.6967182,
+          47.425631
+        ],
+        [
+          8.6967538,
+          47.425602
+        ],
+        [
+          8.6968417,
+          47.4256518
+        ],
+        [
+          8.6968445,
+          47.4256497
+        ],
+        [
+          8.6968798,
+          47.4256698
+        ],
+        [
+          8.6968,
+          47.425735
+        ],
+        [
+          8.6967804,
+          47.4257237
+        ],
+        [
+          8.6966943,
+          47.4257943
+        ],
+        [
+          8.6966406,
+          47.425764
+        ],
+        [
+          8.6966655,
+          47.4257426
+        ],
+        [
+          8.6966427,
+          47.4257305
+        ],
+        [
+          8.6966566,
+          47.4257192
+        ],
+        [
+          8.6966365,
+          47.4257078
+        ],
+        [
+          8.6966227,
+          47.425719
+        ],
+        [
+          8.6965252,
+          47.4256648
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/197475523",
   "properties": {
     "addr:city": "Effretikon",
@@ -14407,6 +14557,100 @@
         [
           8.3787217,
           47.5068977
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/200206712",
+  "properties": {
+    "addr:city": "Effretikon",
+    "addr:housenumber": "2",
+    "addr:postcode": "8307",
+    "addr:street": "Anwandelstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "name": "Kindergarten Müselacher",
+    "id": "way/200206712"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6949604,
+          47.4299045
+        ],
+        [
+          8.6949659,
+          47.4298818
+        ],
+        [
+          8.6949749,
+          47.4298445
+        ],
+        [
+          8.6949929,
+          47.4298465
+        ],
+        [
+          8.6950009,
+          47.4298131
+        ],
+        [
+          8.694958,
+          47.4298084
+        ],
+        [
+          8.6949914,
+          47.4296704
+        ],
+        [
+          8.6951125,
+          47.4296838
+        ],
+        [
+          8.6951058,
+          47.4297116
+        ],
+        [
+          8.695144,
+          47.4297158
+        ],
+        [
+          8.695141,
+          47.4297283
+        ],
+        [
+          8.6952574,
+          47.4297412
+        ],
+        [
+          8.6952246,
+          47.4298765
+        ],
+        [
+          8.6951361,
+          47.4298667
+        ],
+        [
+          8.6951288,
+          47.4298967
+        ],
+        [
+          8.6950398,
+          47.4298869
+        ],
+        [
+          8.6950336,
+          47.4299126
+        ],
+        [
+          8.6949604,
+          47.4299045
         ]
       ]
     ]
@@ -20788,12 +21032,20 @@
           47.3938459
         ],
         [
-          8.6084148,
-          47.3939043
+          8.608409,
+          47.3939076
         ],
         [
-          8.608646,
-          47.3940708
+          8.6085553,
+          47.3940196
+        ],
+        [
+          8.6085282,
+          47.3940346
+        ],
+        [
+          8.6086008,
+          47.3940908
         ],
         [
           8.6083366,
@@ -21421,6 +21673,52 @@
         [
           8.5341566,
           47.4252063
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/462496581",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:housenumber": "40",
+    "addr:postcode": "8600",
+    "addr:street": "Feldhofstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "2",
+    "name": "Kindergarten Sonnenberg",
+    "id": "way/462496581"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6299287,
+          47.3933682
+        ],
+        [
+          8.6299619,
+          47.3933657
+        ],
+        [
+          8.6300475,
+          47.3933648
+        ],
+        [
+          8.6300567,
+          47.3934997
+        ],
+        [
+          8.6299385,
+          47.3935027
+        ],
+        [
+          8.6299287,
+          47.3933682
         ]
       ]
     ]
@@ -25177,6 +25475,87 @@
         [
           8.6775685,
           47.4325501
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/788458390",
+  "properties": {
+    "addr:city": "Effretikon",
+    "addr:housenumber": "8",
+    "addr:postcode": "8307",
+    "addr:street": "Bannhaldenstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Bannhalde",
+    "id": "way/788458390"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6925834,
+          47.4238926
+        ],
+        [
+          8.6925058,
+          47.4238651
+        ],
+        [
+          8.6925145,
+          47.4238538
+        ],
+        [
+          8.6923934,
+          47.423811
+        ],
+        [
+          8.6924536,
+          47.423733
+        ],
+        [
+          8.6925714,
+          47.4237747
+        ],
+        [
+          8.6926337,
+          47.423694
+        ],
+        [
+          8.6926189,
+          47.4236888
+        ],
+        [
+          8.6926786,
+          47.4236114
+        ],
+        [
+          8.6928046,
+          47.4236559
+        ],
+        [
+          8.6927447,
+          47.4237336
+        ],
+        [
+          8.692724,
+          47.4237263
+        ],
+        [
+          8.6926576,
+          47.4238124
+        ],
+        [
+          8.692648,
+          47.423809
+        ],
+        [
+          8.6925834,
+          47.4238926
         ]
       ]
     ]
@@ -37525,6 +37904,26 @@
     "coordinates": [
       8.4050576,
       47.4080895
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9819305119",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:housenumber": "28",
+    "addr:postcode": "8600",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "kindergarten",
+    "name": "Kinderkrippe Kinderwerkstatt",
+    "id": "node/9819305119"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.619241,
+      47.3977459
     ]
   }
 }

@@ -8064,7 +8064,7 @@
   "properties": {
     "amenity": "clinic",
     "email": "info@geburtshaus-zho.ch",
-    "healthcare": "birthing_center",
+    "healthcare": "birthing_centre",
     "healthcare:speciality": "midwife",
     "name": "Geburtshaus Zürcher Oberland",
     "phone": "+41449399900",
