@@ -2229,113 +2229,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/34644661",
-  "properties": {
-    "addr:city": "Egg",
-    "addr:housenumber": "14",
-    "addr:postcode": "8132",
-    "addr:street": "Im Oberdorf",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Bützi 1+2",
-    "toilets:wheelchair": "yes",
-    "wheelchair": "yes",
-    "id": "way/34644661"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6861982,
-          47.3011091
-        ],
-        [
-          8.6862239,
-          47.3010377
-        ],
-        [
-          8.6863568,
-          47.301062
-        ],
-        [
-          8.686383,
-          47.3009987
-        ],
-        [
-          8.6862518,
-          47.3009725
-        ],
-        [
-          8.6862806,
-          47.3008999
-        ],
-        [
-          8.6864126,
-          47.300925
-        ],
-        [
-          8.6864355,
-          47.3008649
-        ],
-        [
-          8.6863057,
-          47.3008417
-        ],
-        [
-          8.6863361,
-          47.3007692
-        ],
-        [
-          8.6864684,
-          47.3007947
-        ],
-        [
-          8.6864925,
-          47.3007323
-        ],
-        [
-          8.6863603,
-          47.3007086
-        ],
-        [
-          8.6863917,
-          47.3006363
-        ],
-        [
-          8.6867484,
-          47.3007044
-        ],
-        [
-          8.6865514,
-          47.3011854
-        ],
-        [
-          8.6863706,
-          47.3011524
-        ],
-        [
-          8.68635,
-          47.3012041
-        ],
-        [
-          8.6863046,
-          47.3011951
-        ],
-        [
-          8.6863276,
-          47.3011327
-        ],
-        [
-          8.6861982,
-          47.3011091
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/36392300",
   "properties": {
     "addr:housenumber": "19",
@@ -41981,6 +41874,50 @@
     "coordinates": [
       8.619241,
       47.3977459
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9821609258",
+  "properties": {
+    "addr:city": "Egg",
+    "addr:housenumber": "14",
+    "addr:postcode": "8132",
+    "addr:street": "Im Oberdorf",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Bützi 1+2",
+    "id": "node/9821609258"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6864866,
+      47.3010054
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9822826596",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "156",
+    "addr:postcode": "8041",
+    "addr:street": "Allmendstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten an der Sihl 1 und 2",
+    "operator": "Schule Allmend",
+    "operator:type": "public",
+    "phone": "+41 44 413 35 54",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/allmend/ueberuns/standorte/kindergaerten.html",
+    "id": "node/9822826596"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5187304,
+      47.3377172
     ]
   }
 }

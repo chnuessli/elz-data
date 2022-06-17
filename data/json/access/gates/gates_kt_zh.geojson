@@ -36913,6 +36913,8 @@
   "id": "node/5034034057",
   "properties": {
     "barrier": "gate",
+    "motor_vehicle": "permit",
+    "name": "Obere Zufahrt Schwimmbad Letzigraben",
     "id": "node/5034034057"
   },
   "geometry": {
@@ -64063,6 +64065,21 @@
     "coordinates": [
       8.436043,
       47.4416122
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9822067574",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/9822067574"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4395739,
+      47.4399116
     ]
   }
 }
