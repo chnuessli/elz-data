@@ -4068,6 +4068,7 @@
     "addr:housenumber": "18",
     "addr:postcode": "8197",
     "addr:street": "Bahnhofstrasse",
+    "advertising": "board",
     "amenity": "police",
     "name": "Polizeiposten Rafz",
     "operator": "Kantonspolizei Zürich",

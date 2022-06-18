@@ -7672,6 +7672,7 @@
     "nat_name": "N4",
     "oneway": "yes",
     "ref": "A4;E41",
+    "shoulder": "right",
     "source:maxspeed": "sign",
     "toll": "yes",
     "id": "way/82684096"
@@ -7816,6 +7817,7 @@
     "nat_name": "N4",
     "oneway": "yes",
     "ref": "A4;E41",
+    "shoulder": "no",
     "source:maxspeed": "sign",
     "toll": "yes",
     "id": "way/82684104"
@@ -11942,6 +11944,7 @@
     "oneway": "yes",
     "placement": "middle_of:1",
     "ref": "A4;E41",
+    "shoulder": "right",
     "source:maxspeed": "sign",
     "toll": "yes",
     "turn:lanes": "merge_to_left",

@@ -4404,6 +4404,56 @@
 },
 {
   "type": "Feature",
+  "id": "way/50318650",
+  "properties": {
+    "addr:city": "Eglisau",
+    "addr:country": "CH",
+    "addr:housenumber": "13",
+    "addr:postcode": "8193",
+    "addr:street": "Salomon Landolt-Weg",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Eigenacker",
+    "id": "way/50318650"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5180105,
+          47.5795428
+        ],
+        [
+          8.5179626,
+          47.5794358
+        ],
+        [
+          8.518045,
+          47.579418
+        ],
+        [
+          8.5180544,
+          47.5794392
+        ],
+        [
+          8.5181612,
+          47.5794176
+        ],
+        [
+          8.5181995,
+          47.5795043
+        ],
+        [
+          8.5180105,
+          47.5795428
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/50769297",
   "properties": {
     "addr:city": "Winterthur",
@@ -14974,6 +15024,111 @@
 },
 {
   "type": "Feature",
+  "id": "way/212451397",
+  "properties": {
+    "addr:city": "Elgg",
+    "addr:housenumber": "1",
+    "addr:postcode": "8153",
+    "addr:street": "Gerbestrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Gerbestrasse",
+    "id": "way/212451397"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8675239,
+          47.4920448
+        ],
+        [
+          8.8674821,
+          47.4919586
+        ],
+        [
+          8.8675468,
+          47.4919443
+        ],
+        [
+          8.8675512,
+          47.4919535
+        ],
+        [
+          8.8675861,
+          47.4919458
+        ],
+        [
+          8.8675782,
+          47.4919296
+        ],
+        [
+          8.8677887,
+          47.491883
+        ],
+        [
+          8.867796,
+          47.4918982
+        ],
+        [
+          8.8678308,
+          47.4918905
+        ],
+        [
+          8.8678262,
+          47.4918809
+        ],
+        [
+          8.8678906,
+          47.4918667
+        ],
+        [
+          8.8679327,
+          47.4919536
+        ],
+        [
+          8.8678681,
+          47.4919679
+        ],
+        [
+          8.8678596,
+          47.4919503
+        ],
+        [
+          8.8678247,
+          47.4919581
+        ],
+        [
+          8.8678274,
+          47.4919637
+        ],
+        [
+          8.8676172,
+          47.4920102
+        ],
+        [
+          8.8676148,
+          47.4920052
+        ],
+        [
+          8.8675804,
+          47.4920129
+        ],
+        [
+          8.8675889,
+          47.4920304
+        ],
+        [
+          8.8675239,
+          47.4920448
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/215522993",
   "properties": {
     "addr:city": "Dietikon",
@@ -15533,6 +15688,111 @@
         [
           8.6234008,
           47.4414421
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/226338540",
+  "properties": {
+    "addr:city": "Dürnten",
+    "addr:housenumber": "1",
+    "addr:postcode": "8635",
+    "addr:street": "Feldeggweg",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Feldegg 1-2-3",
+    "id": "way/226338540"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8396197,
+          47.2777629
+        ],
+        [
+          8.8396149,
+          47.2777539
+        ],
+        [
+          8.8396089,
+          47.2777555
+        ],
+        [
+          8.8395622,
+          47.2776787
+        ],
+        [
+          8.8396965,
+          47.277641
+        ],
+        [
+          8.8397421,
+          47.2777175
+        ],
+        [
+          8.8397355,
+          47.2777194
+        ],
+        [
+          8.8397428,
+          47.2777593
+        ],
+        [
+          8.8396901,
+          47.2777747
+        ],
+        [
+          8.8396683,
+          47.2777387
+        ],
+        [
+          8.8396409,
+          47.2777458
+        ],
+        [
+          8.8396884,
+          47.2778237
+        ],
+        [
+          8.8396664,
+          47.2778302
+        ],
+        [
+          8.8396824,
+          47.2778557
+        ],
+        [
+          8.8394209,
+          47.2779293
+        ],
+        [
+          8.8394052,
+          47.2779029
+        ],
+        [
+          8.8394001,
+          47.2779045
+        ],
+        [
+          8.8393568,
+          47.2778336
+        ],
+        [
+          8.8395521,
+          47.2777784
+        ],
+        [
+          8.8395544,
+          47.2777816
+        ],
+        [
+          8.8396197,
+          47.2777629
         ]
       ]
     ]
@@ -33905,30 +34165,14 @@
   "id": "node/6819396647",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kindergarten Städtli 2",
+    "name": "Kindergarten Städtli 1-2-3",
     "id": "node/6819396647"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5265875,
-      47.5756587
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6819396648",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Städtli 1",
-    "id": "node/6819396648"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5265798,
-      47.5756347
+      8.5266131,
+      47.575656
     ]
   }
 },
@@ -37861,6 +38105,47 @@
     "coordinates": [
       8.5187304,
       47.3377172
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9824761883",
+  "properties": {
+    "addr:city": "Eglisau",
+    "addr:housenumber": "43",
+    "addr:postcode": "8193",
+    "addr:street": "Rheinsfelderstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Quelle",
+    "operator": "Schule Eglisau",
+    "id": "node/9824761883"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5108217,
+      47.5752593
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9825256438",
+  "properties": {
+    "addr:city": "Embrach",
+    "addr:housenumber": "4",
+    "addr:postcode": "8424",
+    "addr:street": "Dorfstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Dorf 3",
+    "id": "node/9825256438"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5951298,
+      47.5021677
     ]
   }
 }
