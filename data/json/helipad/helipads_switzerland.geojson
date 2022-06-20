@@ -4274,6 +4274,7 @@
   "id": "way/363104910",
   "properties": {
     "aeroway": "helipad",
+    "note": "Not sure this is still in use, there appears to be another helipad on the new hospital building",
     "id": "way/363104910"
   },
   "geometry": {
@@ -6828,42 +6829,6 @@
         [
           9.5507475,
           46.9127523
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/634110360",
-  "properties": {
-    "aeroway": "helipad",
-    "source": "DigitalGlobe;survey;gps",
-    "id": "way/634110360"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          9.2751139,
-          46.9153388
-        ],
-        [
-          9.2751403,
-          46.9153127
-        ],
-        [
-          9.2751846,
-          46.9153337
-        ],
-        [
-          9.2751583,
-          46.9153597
-        ],
-        [
-          9.2751139,
-          46.9153388
         ]
       ]
     ]
@@ -13026,6 +12991,108 @@
 },
 {
   "type": "Feature",
+  "id": "way/1071278848",
+  "properties": {
+    "aeroway": "helipad",
+    "id": "way/1071278848"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.910647,
+          47.5496852
+        ],
+        [
+          8.9106842,
+          47.5495807
+        ],
+        [
+          8.9108347,
+          47.5496051
+        ],
+        [
+          8.9107975,
+          47.5497096
+        ],
+        [
+          8.910647,
+          47.5496852
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1071294663",
+  "properties": {
+    "aeroway": "helipad",
+    "id": "way/1071294663"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.2750977,
+          46.9153123
+        ],
+        [
+          9.275114,
+          46.9153007
+        ],
+        [
+          9.2751364,
+          46.9152959
+        ],
+        [
+          9.2751594,
+          46.915299
+        ],
+        [
+          9.2751774,
+          46.9153093
+        ],
+        [
+          9.2751862,
+          46.9153266
+        ],
+        [
+          9.2751798,
+          46.9153444
+        ],
+        [
+          9.2751604,
+          46.915357
+        ],
+        [
+          9.2751341,
+          46.9153603
+        ],
+        [
+          9.2751093,
+          46.9153534
+        ],
+        [
+          9.2750958,
+          46.9153415
+        ],
+        [
+          9.2750917,
+          46.9153267
+        ],
+        [
+          9.2750977,
+          46.9153123
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/35211724",
   "properties": {
     "aeroway": "helipad",
@@ -15041,6 +15108,40 @@
     "coordinates": [
       8.743401,
       46.210008
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9831344316",
+  "properties": {
+    "aeroway": "helipad",
+    "ele": "2696",
+    "name": "Gebirgslandeplatz HEL Madrisahorn",
+    "id": "node/9831344316"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.86572,
+      46.9319
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9831378031",
+  "properties": {
+    "aeroway": "helipad",
+    "ele": "2267",
+    "name": "Gebirgslandeplatz HEL Alp Trida",
+    "id": "node/9831378031"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3713615,
+      46.9787619
     ]
   }
 }
