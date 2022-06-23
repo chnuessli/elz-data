@@ -9,6 +9,7 @@
     "highway": "trunk",
     "int_ref": "E 41",
     "lanes": "2",
+    "maxheight": "default",
     "maxspeed": "80",
     "motorroad": "yes",
     "nat_name": "N4",
