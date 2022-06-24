@@ -830,6 +830,7 @@
     "branch": "Wädenswil Bahnhof",
     "brand": "Amavita",
     "name": "Amavita Wädenswil Bahnhof",
+    "opening_hours": "Mo-Fr 07:30-18:30; Sa 07:30-16:00; Su 10:00-12:00",
     "operator": "GaleniCare",
     "phone": "+41 58 851 33 06",
     "website": "https://www.amavita.ch/de/amavita-apotheke-bahnhof-wadenswil",
@@ -5248,7 +5249,7 @@
     "healthcare": "pharmacy",
     "name": "Medbase Apotheke Enge",
     "old_name": "Apotheke-Drogerie Bahnhof Enge",
-    "opening_hours": "Mo-Fr 07:00-19:00, Sa 09:00-18:00, Su 10:00-18:00",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa,Su 09:00-19:00",
     "operator": "Medbase Apotheken",
     "website": "https://www.topwell.ch/medbaseapothekezuerichenge/",
     "id": "node/4827130161"
