@@ -2893,6 +2893,7 @@
     "amenity": "clinic",
     "building": "yes",
     "email": "tagesklinik.militaerstrasse@puk.zh.ch",
+    "healthcare": "clinic",
     "name": "KIZ Tagesklinik Militärstrasse",
     "operator": "Psychiatrische Universitätsklinik Zürich",
     "phone": "+41 44 296 74 81",
@@ -7409,6 +7410,7 @@
   "id": "node/7044143562",
   "properties": {
     "amenity": "clinic",
+    "healthcare": "clinic",
     "name": "ARUD Zentrum für Suchtmedizin",
     "id": "node/7044143562"
   },
@@ -7987,6 +7989,7 @@
     "contact:postcode": "8952",
     "contact:street": "Wagistrasse",
     "contact:website": "https://www.usz.ch/",
+    "healthcare": "clinic",
     "name": "PET/CT-MR Zentrum Schlieren USZ Klinik",
     "id": "node/9662210482"
   },
