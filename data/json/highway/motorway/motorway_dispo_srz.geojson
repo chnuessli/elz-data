@@ -7729,7 +7729,6 @@
   "id": "way/17123647",
   "properties": {
     "avz": "607",
-    "cs_dir:forward": "1",
     "highway": "motorway",
     "lanes": "2",
     "maxspeed": "120",
@@ -32474,7 +32473,6 @@
   "id": "way/137477230",
   "properties": {
     "avz": "577",
-    "cs_dir:forward": "1",
     "highway": "motorway",
     "lanes": "2",
     "layer": "-2",
@@ -36342,7 +36340,6 @@
   "id": "way/183852057",
   "properties": {
     "avz": "66",
-    "cs_dir:forward": "1",
     "highway": "motorway",
     "lanes": "3",
     "lit": "no",
