@@ -51230,6 +51230,27 @@
       47.2305492
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9850204699",
+  "properties": {
+    "addr:city": "Wattwil",
+    "addr:housenumber": "20",
+    "addr:postcode": "9630",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Team Radiologie plus",
+    "id": "node/9850204699"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0876137,
+      47.2984277
+    ]
+  }
 }
 ]
 }

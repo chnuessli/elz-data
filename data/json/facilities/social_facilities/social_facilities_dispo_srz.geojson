@@ -40096,6 +40096,7 @@
     "building": "yes",
     "name": "Bundesasylzentrum",
     "operator": "SEM",
+    "short_name": "BAZ",
     "social_facility": "assisted_living",
     "social_facility:for": "migrant",
     "id": "way/839145578"

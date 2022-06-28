@@ -9828,6 +9828,106 @@
 },
 {
   "type": "Feature",
+  "id": "way/30392197",
+  "properties": {
+    "addr:housenumber": "61",
+    "addr:postcode": "8706",
+    "addr:street": "Höschstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Primarschulhaus Feldmeilen",
+    "id": "way/30392197"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6233821,
+          47.277258
+        ],
+        [
+          8.6231204,
+          47.2771029
+        ],
+        [
+          8.6232321,
+          47.2770151
+        ],
+        [
+          8.6235517,
+          47.2772049
+        ],
+        [
+          8.6234996,
+          47.2772454
+        ],
+        [
+          8.6235035,
+          47.2772478
+        ],
+        [
+          8.6234846,
+          47.2772616
+        ],
+        [
+          8.6235331,
+          47.2772979
+        ],
+        [
+          8.6235555,
+          47.2772876
+        ],
+        [
+          8.6235629,
+          47.2772886
+        ],
+        [
+          8.6237169,
+          47.2774447
+        ],
+        [
+          8.6237687,
+          47.2774975
+        ],
+        [
+          8.6237826,
+          47.2775108
+        ],
+        [
+          8.623673,
+          47.2775621
+        ],
+        [
+          8.6236076,
+          47.2774939
+        ],
+        [
+          8.6235811,
+          47.2775061
+        ],
+        [
+          8.6234271,
+          47.2773515
+        ],
+        [
+          8.6233954,
+          47.2773284
+        ],
+        [
+          8.6233373,
+          47.277294
+        ],
+        [
+          8.6233821,
+          47.277258
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/30499083",
   "properties": {
     "amenity": "school",
@@ -12988,10 +13088,8 @@
     "addr:postcode": "8320",
     "addr:street": "Schulhausstrasse",
     "amenity": "school",
-    "name": "Sekundarschule Fehraltorf",
+    "name": "Schule Fehraltorf",
     "phone": "+41 44 956 22 82",
-    "school": "secondary",
-    "school:CH": "oberstufe",
     "id": "way/34074274"
   },
   "geometry": {
@@ -49342,6 +49440,7 @@
     "addr:street": "Hungerbühlstrasse",
     "amenity": "school",
     "building": "yes",
+    "name": "Schulhaus Hungerbühl Primar",
     "id": "way/173343797"
   },
   "geometry": {
@@ -49390,6 +49489,7 @@
     "addr:street": "Hungerbühlstrasse",
     "amenity": "school",
     "building": "yes",
+    "name": "Schulhaus Hungerbühl Sekundar",
     "id": "way/173343808"
   },
   "geometry": {
@@ -49438,7 +49538,7 @@
     "addr:street": "Hungerbühlstrasse",
     "amenity": "school",
     "building": "yes",
-    "name": "Schulhaus Hungerbühl",
+    "name": "Schulhaus Hungerbühl Sekundar",
     "id": "way/173343834"
   },
   "geometry": {
@@ -49503,6 +49603,7 @@
     "addr:street": "Hungerbühlstrasse",
     "amenity": "school",
     "building": "yes",
+    "name": "Schulhaus Hungerbühl Primar",
     "id": "way/173343839"
   },
   "geometry": {
@@ -105429,22 +105530,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1712711826",
-  "properties": {
-    "amenity": "school",
-    "name": "Primarschule Feldmeilen",
-    "id": "node/1712711826"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6231821,
-      47.2770883
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1733581205",
   "properties": {
     "amenity": "school",
@@ -109852,6 +109937,26 @@
     "coordinates": [
       8.6314824,
       47.4177055
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9850693839",
+  "properties": {
+    "addr:city": "Feldmeilen",
+    "addr:housenumber": "59",
+    "addr:postcode": "8706",
+    "addr:street": "General-Wille-Strasse",
+    "amenity": "school",
+    "name": "Privatschule Portanova",
+    "id": "node/9850693839"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6146596,
+      47.2802538
     ]
   }
 }

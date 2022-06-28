@@ -81,7 +81,7 @@
     "opening_hours:covid19": "same",
     "phone": "+41 41 780 39 19",
     "website": "http://www.anklinapotheke.ch/",
-    "wheelchair": "yes",
+    "wheelchair": "limited",
     "id": "node/321679039"
   },
   "geometry": {
