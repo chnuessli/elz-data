@@ -8170,9 +8170,13 @@
   "type": "Feature",
   "id": "way/99494677",
   "properties": {
+    "addr:city": "Feuerthalen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8245",
+    "addr:street": "Gartenstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
-    "name": "Kindergarten Stumpenboden",
+    "name": "Kindergarten Lindenbuck West",
     "id": "way/99494677"
   },
   "geometry": {
@@ -8180,91 +8184,40 @@
     "coordinates": [
       [
         [
-          8.6505542,
-          47.6864978
+          8.6505349,
+          47.6865039
         ],
         [
-          8.6505826,
-          47.686452
+          8.6505594,
+          47.6864657
         ],
         [
-          8.6506721,
-          47.6864772
+          8.6506481,
+          47.6864914
         ],
         [
-          8.6507156,
-          47.6864073
+          8.6506937,
+          47.6864202
         ],
         [
-          8.6508333,
-          47.6864405
+          8.6507989,
+          47.6864507
         ],
         [
-          8.6508939,
-          47.6864574
+          8.6508128,
+          47.6864293
         ],
         [
-          8.650822,
-          47.6865732
+          8.6508689,
+          47.6864457
         ],
         [
-          8.6505542,
-          47.6864978
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/99494689",
-  "properties": {
-    "addr:housenumber": "3",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Stumpenboden",
-    "wheelchair": "limited",
-    "id": "way/99494689"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6508333,
-          47.6864405
+          8.6507851,
+          47.6865765
         ],
         [
-          8.6508681,
-          47.6863841
-        ],
-        [
-          8.6509507,
-          47.6864072
-        ],
-        [
-          8.6509925,
-          47.6863396
-        ],
-        [
-          8.6511036,
-          47.6863707
-        ],
-        [
-          8.6511371,
-          47.6863165
-        ],
-        [
-          8.6511954,
-          47.6863328
-        ],
-        [
-          8.6510853,
-          47.686511
-        ],
-        [
-          8.6508333,
-          47.6864405
+          8.6505349,
+          47.6865039
         ]
       ]
     ]
@@ -12067,6 +12020,10 @@
   "type": "Feature",
   "id": "way/151378735",
   "properties": {
+    "addr:city": "Feuerthalen",
+    "addr:housenumber": "7",
+    "addr:postcode": "8245",
+    "addr:street": "Haldenstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Halde",
@@ -12077,24 +12034,40 @@
     "coordinates": [
       [
         [
-          8.6430456,
-          47.6918251
+          8.6430247,
+          47.6918275
         ],
         [
-          8.6432611,
-          47.6917504
+          8.6430931,
+          47.6918028
         ],
         [
-          8.6433865,
-          47.6919143
+          8.6431337,
+          47.6918536
         ],
         [
-          8.6431711,
-          47.691989
+          8.6432661,
+          47.6918056
         ],
         [
-          8.6430456,
-          47.6918251
+          8.6433142,
+          47.6918658
+        ],
+        [
+          8.6431811,
+          47.691914
+        ],
+        [
+          8.6431844,
+          47.6919181
+        ],
+        [
+          8.6431167,
+          47.6919427
+        ],
+        [
+          8.6430247,
+          47.6918275
         ]
       ]
     ]
@@ -31320,6 +31293,67 @@
 },
 {
   "type": "Feature",
+  "id": "way/1074113428",
+  "properties": {
+    "addr:city": "Feuerthalen",
+    "addr:housenumber": "3",
+    "addr:postcode": "8245",
+    "addr:street": "Gartenstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Lindenbuck Ost",
+    "id": "way/1074113428"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6508128,
+          47.6864293
+        ],
+        [
+          8.6508377,
+          47.6863908
+        ],
+        [
+          8.6509261,
+          47.6864167
+        ],
+        [
+          8.6509718,
+          47.6863459
+        ],
+        [
+          8.6510773,
+          47.6863768
+        ],
+        [
+          8.651116,
+          47.6863168
+        ],
+        [
+          8.6511715,
+          47.686333
+        ],
+        [
+          8.6510621,
+          47.6865023
+        ],
+        [
+          8.6508689,
+          47.6864457
+        ],
+        [
+          8.6508128,
+          47.6864293
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",
@@ -33503,6 +33537,10 @@
   "type": "Feature",
   "id": "node/2501020938",
   "properties": {
+    "addr:city": "Flurlingen",
+    "addr:housenumber": "32",
+    "addr:postcode": "8247",
+    "addr:street": "Gründenstrasse",
     "amenity": "kindergarten",
     "id": "node/2501020938"
   },
@@ -42451,6 +42489,66 @@
     "coordinates": [
       8.5951298,
       47.5021677
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9852586103",
+  "properties": {
+    "addr:city": "Feuerthalen",
+    "addr:housenumber": "24",
+    "addr:postcode": "8245",
+    "addr:street": "Stadtweg",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Stadtweg",
+    "id": "node/9852586103"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6452744,
+      47.6872931
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9852701371",
+  "properties": {
+    "addr:city": "Flaach",
+    "addr:housenumber": "9",
+    "addr:postcode": "8416",
+    "addr:street": "Webergasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Flaach",
+    "id": "node/9852701371"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6070529,
+      47.5763817
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9852854118",
+  "properties": {
+    "addr:city": "Forch",
+    "addr:housenumber": "17a",
+    "addr:postcode": "8127",
+    "addr:street": "Aeschstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Aesch",
+    "id": "node/9852854118"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6555625,
+      47.3267333
     ]
   }
 }

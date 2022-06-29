@@ -51251,6 +51251,31 @@
       47.2984277
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9853341103",
+  "properties": {
+    "addr:city": "Genève",
+    "addr:housenumber": "100",
+    "addr:street": "Route de Frontenex",
+    "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "healthcare:speciality": "psychiatry",
+    "name": "Pôle Positif",
+    "phone": "+41 22 321 93 73",
+    "website": "https://www.polepositif.ch",
+    "wheelchair": "yes",
+    "id": "node/9853341103"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1727019,
+      46.204179
+    ]
+  }
 }
 ]
 }
