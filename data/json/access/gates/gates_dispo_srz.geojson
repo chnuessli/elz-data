@@ -2282,6 +2282,27 @@
 },
 {
   "type": "Feature",
+  "id": "way/1074757286",
+  "properties": {
+    "barrier": "gate",
+    "id": "way/1074757286"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.700106,
+        47.4785071
+      ],
+      [
+        8.7001191,
+        47.4785073
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/25427486",
   "properties": {
     "barrier": "gate",
