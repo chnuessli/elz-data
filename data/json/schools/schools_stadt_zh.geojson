@@ -1966,7 +1966,7 @@
     "operator": "Kanton Zürich, Bildungsdirektion",
     "short_name": "KFR",
     "website": "http://www.kfr.ch/",
-    "wikidata": "Q33121429",
+    "wikidata": "Q1728111",
     "id": "way/31969810"
   },
   "geometry": {
@@ -2035,7 +2035,7 @@
     "short_name": "KEN",
     "website": "https://www.ken.ch/",
     "wheelchair": "limited",
-    "wikidata": "Q33121089",
+    "wikidata": "Q1528177",
     "id": "way/31969818"
   },
   "geometry": {

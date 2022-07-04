@@ -9091,6 +9091,8 @@
     "name": "Fennergut",
     "operator": "Stiftung Zürcher Kinder- und Jugendheime",
     "phone": "+41 43 266 70 10",
+    "social_facility": "orphanage",
+    "social_facility:for": "orphan",
     "website": "www.fennergut.ch",
     "id": "way/67301918"
   },

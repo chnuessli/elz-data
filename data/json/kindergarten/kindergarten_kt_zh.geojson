@@ -38494,6 +38494,22 @@
       47.3267333
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9863490347",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Goldbach 1",
+    "id": "node/9863490347"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.577934,
+      47.3270724
+    ]
+  }
 }
 ]
 }
