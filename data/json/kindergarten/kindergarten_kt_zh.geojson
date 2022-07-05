@@ -3981,6 +3981,112 @@
 },
 {
   "type": "Feature",
+  "id": "way/44352191",
+  "properties": {
+    "addr:city": "Glattbrugg",
+    "addr:housenumber": "27",
+    "addr:postcode": "8152",
+    "addr:street": "Dammstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Dammstrasse",
+    "id": "way/44352191"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5647159,
+          47.4382197
+        ],
+        [
+          8.564644,
+          47.4380931
+        ],
+        [
+          8.5647962,
+          47.4380535
+        ],
+        [
+          8.5648682,
+          47.4381801
+        ],
+        [
+          8.5647159,
+          47.4382197
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/44352192",
+  "properties": {
+    "addr:city": "Glattbrugg",
+    "addr:housenumber": "25",
+    "addr:postcode": "8152",
+    "addr:street": "Dammstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Dammstrasse",
+    "id": "way/44352192"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.564438,
+          47.4378482
+        ],
+        [
+          8.564527,
+          47.4378247
+        ],
+        [
+          8.5645607,
+          47.4378829
+        ],
+        [
+          8.5646364,
+          47.4378629
+        ],
+        [
+          8.5647051,
+          47.4379817
+        ],
+        [
+          8.5645404,
+          47.4380253
+        ],
+        [
+          8.564516,
+          47.4379831
+        ],
+        [
+          8.5644975,
+          47.4379879
+        ],
+        [
+          8.5644713,
+          47.4379427
+        ],
+        [
+          8.5644898,
+          47.4379378
+        ],
+        [
+          8.564438,
+          47.4378482
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/44846770",
   "properties": {
     "addr:city": "Zürich",
@@ -11617,8 +11723,8 @@
     "addr:postcode": "8152",
     "addr:street": "Oberhauserstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Halden",
+    "building": "kindergarten",
+    "name": "Kindergarten Halden",
     "source": "bing",
     "id": "way/152220154"
   },
@@ -25720,6 +25826,47 @@
 },
 {
   "type": "Feature",
+  "id": "way/751389489",
+  "properties": {
+    "addr:city": "Glattfelden",
+    "addr:housenumber": "1",
+    "addr:postcode": "8192",
+    "addr:street": "Leuengässli",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "name": "Kindergarten Leuengässli A+B",
+    "id": "way/751389489"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4968926,
+          47.5600058
+        ],
+        [
+          8.4967921,
+          47.5598658
+        ],
+        [
+          8.4971257,
+          47.5597567
+        ],
+        [
+          8.4972263,
+          47.5598967
+        ],
+        [
+          8.4968926,
+          47.5600058
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/757318544",
   "properties": {
     "amenity": "kindergarten",
@@ -32490,22 +32637,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6470493433",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Dammstrasse",
-    "id": "node/6470493433"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5646449,
-      47.4379482
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6498396919",
   "properties": {
     "amenity": "kindergarten",
@@ -37757,6 +37888,10 @@
   "type": "Feature",
   "id": "node/9717559587",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "33",
+    "addr:postcode": "8002",
+    "addr:street": "Lavaterstrasse",
     "amenity": "kindergarten",
     "contact:city": "Zürich",
     "contact:housenumber": "33",
@@ -37764,16 +37899,21 @@
     "contact:postcode": "8002",
     "contact:street": "Lavaterstrasse",
     "contact:website": "https://icz.org/",
-    "name": "Kindergarten Israel. Cultusgemeinde, Zürich",
-    "operator": "Israel. Cultusgemeinde, Zürich",
+    "description": "Die ICZ Schule umfasst den Ganon (Vorkindergarten), vier altersgemischte Kindergartengruppen, die Mittagsbetreuung, die Nachmittagsbetreuung (Hort), den Bar- und Bat-Mizwa-Kurs sowie den Religionsunterricht für Kinder, die die öffentliche Schule besuchen",
+    "email": "schulsekretariat@icz.org",
+    "name": "ICZ Schule (Kindergarten)",
+    "operator": "Israelische Cultusgemeinde Zürich",
     "operator:type": "private",
+    "phone": "+41 44 283 22 56",
+    "preschool": "yes",
+    "website": "https://icz.org/institutionen/schule/",
     "id": "node/9717559587"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5324623,
-      47.3631094
+      8.5325642,
+      47.3627842
     ]
   }
 },
@@ -38508,6 +38648,86 @@
     "coordinates": [
       8.577934,
       47.3270724
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9865424409",
+  "properties": {
+    "addr:city": "Geroldswil",
+    "addr:housenumber": "54",
+    "addr:postcode": "8954",
+    "addr:street": "Dorfstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Rötelacher",
+    "id": "node/9865424409"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4144237,
+      47.4213754
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9865540231",
+  "properties": {
+    "addr:city": "Glattbrugg",
+    "addr:housenumber": "10",
+    "addr:postcode": "8152",
+    "addr:street": "Blumenstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Blumenstrasse",
+    "id": "node/9865540231"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5653368,
+      47.4319243
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9865919816",
+  "properties": {
+    "addr:city": "Opfikon",
+    "addr:housenumber": "22",
+    "addr:postcode": "8152",
+    "addr:street": "Boulevard Lilienthal",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Lilienthal 1+2",
+    "id": "node/9865919816"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5613085,
+      47.4232197
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9865921984",
+  "properties": {
+    "addr:city": "Opfikon",
+    "addr:housenumber": "60",
+    "addr:postcode": "8152",
+    "addr:street": "Wright-Strasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten ABZ",
+    "id": "node/9865921984"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5610186,
+      47.4193219
     ]
   }
 }

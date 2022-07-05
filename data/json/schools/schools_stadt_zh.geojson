@@ -19415,6 +19415,10 @@
   "type": "Feature",
   "id": "node/5331387438",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "68",
+    "addr:postcode": "8002",
+    "addr:street": "Grütlistrasse",
     "amenity": "school",
     "contact:city": "Zürich",
     "contact:email": "info@noam.ch",
@@ -19423,18 +19427,23 @@
     "contact:postcode": "8002",
     "contact:street": "Grütlistrasse",
     "contact:website": "https://www.noam.ch/de/startseite/",
-    "description": "Primar- und Sekundarschule",
+    "denomination": "jewish",
+    "description": "Primar- und Sekundarschule, modern-orthodoxe (weltoffen orthodoxe) jüdische Tagesschule",
+    "email": "info@noam.ch",
+    "grades": "1-9",
     "isced:level": "1;2",
     "name": "Jüdische Schule NOAM",
     "operator": "Verein Jüdische Schule NOAM",
     "operator:type": "private",
+    "religion": "jewish",
+    "website": "www.noam.ch",
     "id": "node/5331387438"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5309988,
-      47.3603173
+      8.5309957,
+      47.3603717
     ]
   }
 },

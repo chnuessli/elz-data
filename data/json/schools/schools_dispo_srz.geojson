@@ -6552,32 +6552,24 @@
     "coordinates": [
       [
         [
-          8.5015282,
-          47.5591562
+          8.5014667,
+          47.5591739
         ],
         [
-          8.5010731,
-          47.5588425
+          8.5009439,
+          47.5588404
         ],
         [
-          8.5013888,
-          47.5586324
+          8.5012419,
+          47.5585483
         ],
         [
-          8.5013026,
-          47.5585751
+          8.5014368,
+          47.5583316
         ],
         [
-          8.5017434,
-          47.5582673
-        ],
-        [
-          8.5017215,
-          47.5582526
-        ],
-        [
-          8.5019406,
-          47.5580971
+          8.5018483,
+          47.5580317
         ],
         [
           8.502163,
@@ -6600,8 +6592,8 @@
           47.5589302
         ],
         [
-          8.5015282,
-          47.5591562
+          8.5014667,
+          47.5591739
         ]
       ]
     ]
@@ -13426,8 +13418,13 @@
   "type": "Feature",
   "id": "way/34290532",
   "properties": {
+    "addr:city": "Glattfelden",
+    "addr:housenumber": "59",
+    "addr:postcode": "8192",
+    "addr:street": "Dorfstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
+    "name": "Schulhaus Hof",
     "source": "Yahoo aerial images",
     "id": "way/34290532"
   },
@@ -13436,24 +13433,76 @@
     "coordinates": [
       [
         [
-          8.5013349,
-          47.5589395
+          8.5013061,
+          47.5589148
         ],
         [
-          8.5015555,
-          47.5587976
+          8.5013298,
+          47.5588995
         ],
         [
-          8.5016836,
-          47.5588883
+          8.5012614,
+          47.5588522
         ],
         [
-          8.5014631,
-          47.5590302
+          8.501146,
+          47.5589293
         ],
         [
-          8.5013349,
-          47.5589395
+          8.5010221,
+          47.5588444
+        ],
+        [
+          8.5012571,
+          47.5586876
+        ],
+        [
+          8.5012827,
+          47.5587059
+        ],
+        [
+          8.5013841,
+          47.5586389
+        ],
+        [
+          8.5014322,
+          47.5586722
+        ],
+        [
+          8.5014779,
+          47.558703
+        ],
+        [
+          8.5013987,
+          47.5587576
+        ],
+        [
+          8.5014222,
+          47.5587731
+        ],
+        [
+          8.5014218,
+          47.558816
+        ],
+        [
+          8.5014387,
+          47.5588269
+        ],
+        [
+          8.5014959,
+          47.5587893
+        ],
+        [
+          8.5016101,
+          47.5588683
+        ],
+        [
+          8.5014208,
+          47.5589941
+        ],
+        [
+          8.5013061,
+          47.5589148
         ]
       ]
     ]
@@ -31303,7 +31352,7 @@
   "id": "way/101596851",
   "properties": {
     "amenity": "school",
-    "name": "Schweikrüti",
+    "name": "Schule Schweikrüti",
     "id": "way/101596851"
   },
   "geometry": {
@@ -43980,8 +44029,12 @@
           47.4311316
         ],
         [
-          8.567677,
-          47.4305931
+          8.5681565,
+          47.4308802
+        ],
+        [
+          8.5676714,
+          47.4306063
         ],
         [
           8.5676698,
@@ -52269,10 +52322,14 @@
   "type": "Feature",
   "id": "way/192419856",
   "properties": {
+    "addr:city": "Glattbrugg",
+    "addr:housenumber": "52",
+    "addr:postcode": "8152",
+    "addr:street": "Giebeleichstrasse",
     "amenity": "school",
     "building": "school",
     "description": "Architekt: e2A Architekten, Zürich",
-    "name": "Schulzentrum Opfikon",
+    "name": "Schulzentrum Oberhausen",
     "start_date": "2010",
     "id": "way/192419856"
   },
@@ -52281,24 +52338,24 @@
     "coordinates": [
       [
         [
-          8.5647951,
-          47.4280507
+          8.5652175,
+          47.4281246
         ],
         [
-          8.5654335,
-          47.4277604
+          8.5649696,
+          47.4282387
         ],
         [
-          8.5656052,
-          47.4279346
+          8.564795,
+          47.428065
         ],
         [
-          8.5649668,
-          47.4282267
+          8.5650425,
+          47.4279512
         ],
         [
-          8.5647951,
-          47.4280507
+          8.5652175,
+          47.4281246
         ]
       ]
     ]
@@ -104701,6 +104758,49 @@
 },
 {
   "type": "Feature",
+  "id": "way/1075733597",
+  "properties": {
+    "addr:city": "Glattbrugg",
+    "addr:housenumber": "56",
+    "addr:postcode": "8152",
+    "addr:street": "Giebeleichstrasse",
+    "amenity": "school",
+    "building": "school",
+    "description": "Architekt: e2A Architekten, Zürich",
+    "name": "Schulzentrum Opfikon",
+    "start_date": "2010",
+    "id": "way/1075733597"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5650425,
+          47.4279512
+        ],
+        [
+          8.5654348,
+          47.4277701
+        ],
+        [
+          8.5656097,
+          47.4279436
+        ],
+        [
+          8.5652175,
+          47.4281246
+        ],
+        [
+          8.5650425,
+          47.4279512
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/122507552",
   "properties": {
     "amenity": "school",
@@ -107340,6 +107440,10 @@
   "type": "Feature",
   "id": "node/5331387438",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "68",
+    "addr:postcode": "8002",
+    "addr:street": "Grütlistrasse",
     "amenity": "school",
     "contact:city": "Zürich",
     "contact:email": "info@noam.ch",
@@ -107348,18 +107452,23 @@
     "contact:postcode": "8002",
     "contact:street": "Grütlistrasse",
     "contact:website": "https://www.noam.ch/de/startseite/",
-    "description": "Primar- und Sekundarschule",
+    "denomination": "jewish",
+    "description": "Primar- und Sekundarschule, modern-orthodoxe (weltoffen orthodoxe) jüdische Tagesschule",
+    "email": "info@noam.ch",
+    "grades": "1-9",
     "isced:level": "1;2",
     "name": "Jüdische Schule NOAM",
     "operator": "Verein Jüdische Schule NOAM",
     "operator:type": "private",
+    "religion": "jewish",
+    "website": "www.noam.ch",
     "id": "node/5331387438"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5309988,
-      47.3603173
+      8.5309957,
+      47.3603717
     ]
   }
 },
@@ -110417,6 +110526,26 @@
     "coordinates": [
       8.6146596,
       47.2802538
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9865426916",
+  "properties": {
+    "addr:city": "Geroldswil",
+    "addr:housenumber": "5",
+    "addr:postcode": "8954",
+    "addr:street": "Chrummacherstrasse",
+    "amenity": "school",
+    "name": "Integrative Tagesvorschule",
+    "id": "node/9865426916"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4173313,
+      47.4179375
     ]
   }
 }
