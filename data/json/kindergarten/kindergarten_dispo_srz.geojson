@@ -7287,6 +7287,106 @@
 },
 {
   "type": "Feature",
+  "id": "way/91933389",
+  "properties": {
+    "addr:city": "Gattikon",
+    "addr:housenumber": "27",
+    "addr:postcode": "8136",
+    "addr:street": "Hofwiesenstrasse",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "name": "Kindergarten Hof",
+    "source": "bing",
+    "id": "way/91933389"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5467323,
+          47.286916
+        ],
+        [
+          8.5467032,
+          47.2868684
+        ],
+        [
+          8.5466783,
+          47.2868754
+        ],
+        [
+          8.5466323,
+          47.2868005
+        ],
+        [
+          8.5467447,
+          47.2867688
+        ],
+        [
+          8.5467544,
+          47.2867847
+        ],
+        [
+          8.5467892,
+          47.2867748
+        ],
+        [
+          8.5468546,
+          47.2868815
+        ],
+        [
+          8.5467323,
+          47.286916
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/91937854",
+  "properties": {
+    "addr:city": "Gattikon",
+    "addr:housenumber": "15",
+    "addr:postcode": "8136",
+    "addr:street": "Obstgartenstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Altes Schulhaus",
+    "source": "bing",
+    "id": "way/91937854"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5491552,
+          47.2842558
+        ],
+        [
+          8.5491528,
+          47.2841579
+        ],
+        [
+          8.5493328,
+          47.2841557
+        ],
+        [
+          8.5493364,
+          47.2842531
+        ],
+        [
+          8.5491552,
+          47.2842558
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/92088051",
   "properties": {
     "addr:city": "Uerikon",
@@ -8153,7 +8253,7 @@
     "addr:street": "Bölstrasse",
     "amenity": "kindergarten",
     "building": "yes",
-    "name": "Rooswis",
+    "name": "Kindergarten Rooswis",
     "id": "way/99051392"
   },
   "geometry": {
@@ -8161,24 +8261,24 @@
     "coordinates": [
       [
         [
-          8.7564851,
-          47.3087333
+          8.7564882,
+          47.3087413
         ],
         [
-          8.756341,
-          47.3084309
+          8.7563294,
+          47.3084164
         ],
         [
-          8.7564198,
-          47.3084126
+          8.7564122,
+          47.3083991
         ],
         [
           8.7564448,
           47.3084659
         ],
         [
-          8.7564919,
-          47.3085661
+          8.7564947,
+          47.3085701
         ],
         [
           8.7565614,
@@ -8189,24 +8289,24 @@
           47.308535
         ],
         [
-          8.7566606,
-          47.308581
+          8.7566658,
+          47.3085833
         ],
         [
-          8.7565657,
-          47.3086517
+          8.7565719,
+          47.308654
         ],
         [
           8.7565182,
-          47.308623
+          47.3086216
         ],
         [
-          8.7565623,
-          47.3087196
+          8.7565696,
+          47.3087255
         ],
         [
-          8.7564851,
-          47.3087333
+          8.7564882,
+          47.3087413
         ]
       ]
     ]
@@ -32319,38 +32419,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1069638604",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Hof",
-    "id": "node/1069638604"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5467726,
-      47.2868961
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1069638617",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Altes Schulhaus Gattikon",
-    "id": "node/1069638617"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5492985,
-      47.2842071
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1069638625",
   "properties": {
     "amenity": "kindergarten",
@@ -39089,7 +39157,12 @@
   "type": "Feature",
   "id": "node/8714560822",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "50",
+    "addr:postcode": "8152",
+    "addr:street": "Boulevard Lilienthal",
     "amenity": "kindergarten",
+    "name": "Kindergarten Wright Place",
     "id": "node/8714560822"
   },
   "geometry": {
@@ -39682,15 +39755,19 @@
   "type": "Feature",
   "id": "node/9053024875",
   "properties": {
+    "addr:city": "Geroldswil",
+    "addr:housenumber": "73-79",
+    "addr:postcode": "8954",
+    "addr:street": "Dorfstrasse",
     "amenity": "kindergarten",
-    "name": "Dorf",
+    "name": "Kindergarten Dorf",
     "id": "node/9053024875"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4112775,
-      47.4231692
+      8.4113137,
+      47.4231834
     ]
   }
 },
@@ -42785,6 +42862,26 @@
     "coordinates": [
       8.5610186,
       47.4193219
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9867396086",
+  "properties": {
+    "addr:city": "Geroldswil",
+    "addr:housenumber": "1",
+    "addr:postcode": "8954",
+    "addr:street": "Breitlandstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Breitland",
+    "id": "node/9867396086"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4101592,
+      47.4246132
     ]
   }
 }
