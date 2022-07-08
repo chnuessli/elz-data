@@ -39166,6 +39166,7 @@
     "name": "ESPAS",
     "social_facility": "workshop",
     "social_facility:for": "mental_health",
+    "wheelchair": "yes",
     "id": "node/5507116092"
   },
   "geometry": {

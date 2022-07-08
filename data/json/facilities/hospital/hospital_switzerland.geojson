@@ -11936,6 +11936,7 @@
     "addr:street": "Dorf",
     "amenity": "clinic",
     "building": "yes",
+    "healthcare": "clinic",
     "name": "Rheinburg-Klinik Walzenhausen",
     "source": "GeoImage.at",
     "website": "http://www.rheinburg.ch",
