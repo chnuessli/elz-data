@@ -340,7 +340,7 @@
     "layer": "-1",
     "lit": "yes",
     "maxheight": "default",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",

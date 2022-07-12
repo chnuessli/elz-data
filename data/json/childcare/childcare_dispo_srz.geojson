@@ -1919,115 +1919,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/241657000",
-  "properties": {
-    "addr:city": "Greifensee",
-    "addr:country": "CH",
-    "addr:housenumber": "6",
-    "addr:postcode": "8606",
-    "addr:street": "Sandbüelstrasse",
-    "amenity": "childcare",
-    "building": "childcare",
-    "building:levels": "1",
-    "name": "Kita Greifensee",
-    "roof:shape": "flat",
-    "website": "https://www.kita-greifensee.ch/",
-    "id": "way/241657000"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6791662,
-          47.3717051
-        ],
-        [
-          8.6792123,
-          47.3717051
-        ],
-        [
-          8.6792123,
-          47.3716802
-        ],
-        [
-          8.6792912,
-          47.3716801
-        ],
-        [
-          8.6793549,
-          47.3716801
-        ],
-        [
-          8.6793549,
-          47.3716342
-        ],
-        [
-          8.6793859,
-          47.3716341
-        ],
-        [
-          8.6793858,
-          47.3715936
-        ],
-        [
-          8.6795277,
-          47.3715935
-        ],
-        [
-          8.6795279,
-          47.3717068
-        ],
-        [
-          8.6794603,
-          47.3717068
-        ],
-        [
-          8.6794603,
-          47.3717362
-        ],
-        [
-          8.6794281,
-          47.3717363
-        ],
-        [
-          8.6794282,
-          47.3717636
-        ],
-        [
-          8.6793366,
-          47.3717636
-        ],
-        [
-          8.6793367,
-          47.371785
-        ],
-        [
-          8.6792895,
-          47.371785
-        ],
-        [
-          8.6792895,
-          47.3717952
-        ],
-        [
-          8.6792104,
-          47.3717953
-        ],
-        [
-          8.6791664,
-          47.3717953
-        ],
-        [
-          8.6791662,
-          47.3717051
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/245187132",
   "properties": {
     "addr:city": "Fehraltorf",
@@ -3727,6 +3618,67 @@
         [
           8.5867537,
           47.4027457
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1077678050",
+  "properties": {
+    "addr:city": "Greifensee",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "8606",
+    "addr:street": "Sandbüelstrasse",
+    "amenity": "childcare",
+    "building": "childcare",
+    "building:levels": "1",
+    "name": "Kita Greifensee",
+    "roof:shape": "flat",
+    "website": "https://www.kita-greifensee.ch/",
+    "id": "way/1077678050"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6792712,
+          47.3718451
+        ],
+        [
+          8.6792726,
+          47.3719238
+        ],
+        [
+          8.6792727,
+          47.371932
+        ],
+        [
+          8.6791693,
+          47.3719328
+        ],
+        [
+          8.6791678,
+          47.3718471
+        ],
+        [
+          8.6792,
+          47.3718468
+        ],
+        [
+          8.6791992,
+          47.3717966
+        ],
+        [
+          8.6792702,
+          47.3717959
+        ],
+        [
+          8.6792712,
+          47.3718451
         ]
       ]
     ]

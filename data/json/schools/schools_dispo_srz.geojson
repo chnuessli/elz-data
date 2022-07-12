@@ -110705,6 +110705,26 @@
       47.6919127
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9880875583",
+  "properties": {
+    "addr:city": "Greifensee",
+    "addr:housenumber": "1",
+    "addr:postcode": "8606",
+    "addr:street": "Zentrum Meierwis",
+    "amenity": "school",
+    "name": "KUK Tagesschule",
+    "id": "node/9880875583"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6796635,
+      47.3679592
+    ]
+  }
 }
 ]
 }
