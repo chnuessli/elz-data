@@ -45051,12 +45051,13 @@
   "type": "Feature",
   "id": "way/1009849339",
   "properties": {
-    "amenity": "hospital",
+    "amenity": "clinic",
     "healthcare": "hospital",
     "healthcare:speciality": "psychiatry",
     "hospital": "psychiatry",
-    "name": "IPW Integrierte Psychiatrie Winterthur - Zürcher Unterland Zentrum Hard",
-    "short_name": "IPW Embrach Zentrum Hard",
+    "name": "IPW - Zürcher Unterland Zentrum Hard",
+    "operator": "IPW Integrierte Psychiatrie Winterthur",
+    "short_name": "IPW Klinik Hard",
     "id": "way/1009849339"
   },
   "geometry": {

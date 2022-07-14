@@ -1859,6 +1859,63 @@
 },
 {
   "type": "Feature",
+  "id": "way/32450750",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8810",
+    "addr:street": "Mühlebachstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Allmend 1+2+3",
+    "id": "way/32450750"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6022983,
+          47.249946
+        ],
+        [
+          8.6023835,
+          47.2498696
+        ],
+        [
+          8.6024979,
+          47.2499212
+        ],
+        [
+          8.6025207,
+          47.2498967
+        ],
+        [
+          8.6025682,
+          47.2499171
+        ],
+        [
+          8.6026471,
+          47.2498394
+        ],
+        [
+          8.6027715,
+          47.249898
+        ],
+        [
+          8.6025698,
+          47.250084
+        ],
+        [
+          8.6022983,
+          47.249946
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/32451201",
   "properties": {
     "addr:city": "Horgen",
@@ -1866,7 +1923,7 @@
     "addr:postcode": "8810",
     "addr:street": "Drusbergstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Heubach",
     "id": "way/32451201"
   },
@@ -1875,40 +1932,81 @@
     "coordinates": [
       [
         [
-          8.5978406,
+          8.5978377,
           47.2539123
         ],
         [
-          8.5978713,
-          47.2538725
+          8.5978781,
+          47.2538705
         ],
         [
-          8.5979332,
-          47.2538977
+          8.5979317,
+          47.253896
         ],
         [
-          8.5980122,
-          47.2538131
+          8.5980076,
+          47.2538176
         ],
         [
-          8.5981983,
-          47.2538985
+          8.5981956,
+          47.2539034
         ],
         [
-          8.5980954,
-          47.2540032
+          8.5980917,
+          47.2540083
         ],
         [
-          8.5979109,
-          47.2539232
+          8.5979084,
+          47.2539249
         ],
         [
-          8.5978949,
-          47.2539369
+          8.5978959,
+          47.2539386
         ],
         [
-          8.5978406,
+          8.5978377,
           47.2539123
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/32452595",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "127",
+    "addr:postcode": "8810",
+    "addr:street": "Einsiedlerstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Brunnenwiesli",
+    "id": "way/32452595"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5906422,
+          47.2602441
+        ],
+        [
+          8.5907536,
+          47.2601624
+        ],
+        [
+          8.5909092,
+          47.260258
+        ],
+        [
+          8.5907965,
+          47.2603408
+        ],
+        [
+          8.5906422,
+          47.2602441
         ]
       ]
     ]
@@ -7110,9 +7208,9 @@
     "addr:housenumber": "53",
     "addr:street": "Eichwisstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "isced:level": "0",
-    "name": "Tobel",
+    "name": "Kindergarten Tobel",
     "source": "bing",
     "id": "way/90704757"
   },
@@ -8163,6 +8261,221 @@
         [
           8.7496429,
           47.4923227
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/97010281",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "16",
+    "addr:postcode": "8810",
+    "addr:street": "Aubrigstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Kottenrain 1+2",
+    "id": "way/97010281"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6016191,
+          47.2544347
+        ],
+        [
+          8.6015743,
+          47.2543434
+        ],
+        [
+          8.6016612,
+          47.254324
+        ],
+        [
+          8.6016642,
+          47.2543221
+        ],
+        [
+          8.6016599,
+          47.2543201
+        ],
+        [
+          8.6016569,
+          47.2543172
+        ],
+        [
+          8.6016556,
+          47.2543147
+        ],
+        [
+          8.6016107,
+          47.254224
+        ],
+        [
+          8.6017377,
+          47.2541943
+        ],
+        [
+          8.6017456,
+          47.2541926
+        ],
+        [
+          8.6017572,
+          47.2541929
+        ],
+        [
+          8.6017638,
+          47.254196
+        ],
+        [
+          8.6017672,
+          47.2541996
+        ],
+        [
+          8.6017696,
+          47.254204
+        ],
+        [
+          8.6017985,
+          47.2542628
+        ],
+        [
+          8.6018659,
+          47.2542477
+        ],
+        [
+          8.6018238,
+          47.2543412
+        ],
+        [
+          8.601808,
+          47.2543442
+        ],
+        [
+          8.6017978,
+          47.2543677
+        ],
+        [
+          8.6017589,
+          47.2543766
+        ],
+        [
+          8.6017709,
+          47.254401
+        ],
+        [
+          8.6017712,
+          47.2544057
+        ],
+        [
+          8.6017682,
+          47.2544107
+        ],
+        [
+          8.6017623,
+          47.2544139
+        ],
+        [
+          8.6016414,
+          47.2544421
+        ],
+        [
+          8.6016327,
+          47.2544419
+        ],
+        [
+          8.6016243,
+          47.2544398
+        ],
+        [
+          8.6016191,
+          47.2544347
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/97161679",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "39",
+    "addr:postcode": "8810",
+    "addr:street": "Gehrenstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Gehren",
+    "id": "way/97161679"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6035604,
+          47.2522569
+        ],
+        [
+          8.6034109,
+          47.2520571
+        ],
+        [
+          8.6035148,
+          47.252019
+        ],
+        [
+          8.6036673,
+          47.252222
+        ],
+        [
+          8.6035604,
+          47.2522569
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/97467854",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "60a",
+    "addr:postcode": "8810",
+    "addr:street": "Bockenweg",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Arn",
+    "id": "way/97467854"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6171211,
+          47.2366553
+        ],
+        [
+          8.6171967,
+          47.2365851
+        ],
+        [
+          8.6173796,
+          47.2366684
+        ],
+        [
+          8.6173039,
+          47.236738
+        ],
+        [
+          8.6171211,
+          47.2366553
         ]
       ]
     ]
@@ -17008,24 +17321,40 @@
     "coordinates": [
       [
         [
-          8.8258752,
-          47.3677232
+          8.8258872,
+          47.3677393
         ],
         [
-          8.8260393,
-          47.3676367
+          8.826048,
+          47.3676576
         ],
         [
-          8.8261428,
-          47.3677266
+          8.826115,
+          47.3677178
         ],
         [
-          8.8259787,
-          47.3678132
+          8.8261099,
+          47.3677204
         ],
         [
-          8.8258752,
-          47.3677232
+          8.8261322,
+          47.3677411
+        ],
+        [
+          8.8259828,
+          47.3678177
+        ],
+        [
+          8.8259593,
+          47.367797
+        ],
+        [
+          8.8259537,
+          47.3677996
+        ],
+        [
+          8.8258872,
+          47.3677393
         ]
       ]
     ]
@@ -17040,7 +17369,7 @@
     "addr:postcode": "8335",
     "addr:street": "Jakob Stutz-Strasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Unterhittnau",
     "phone": "+41 44 950 40 29",
     "id": "way/202055920"
@@ -17050,32 +17379,40 @@
     "coordinates": [
       [
         [
-          8.8236259,
-          47.3686668
+          8.8236272,
+          47.3686743
         ],
         [
-          8.8237238,
-          47.3685615
+          8.8237249,
+          47.3685693
         ],
         [
-          8.8238367,
-          47.3686097
+          8.8238385,
+          47.3686182
         ],
         [
-          8.8237785,
-          47.3686723
+          8.8237765,
+          47.3686854
         ],
         [
-          8.8238048,
-          47.3686835
+          8.8238042,
+          47.3686979
         ],
         [
-          8.8237651,
-          47.3687262
+          8.8237706,
+          47.3687338
         ],
         [
-          8.8236259,
-          47.3686668
+          8.8237428,
+          47.368721
+        ],
+        [
+          8.8237406,
+          47.3687236
+        ],
+        [
+          8.8236272,
+          47.3686743
         ]
       ]
     ]
@@ -17090,7 +17427,7 @@
     "addr:postcode": "8335",
     "addr:street": "Jakob Stutz-Strasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Sonne",
     "phone": "+41 44 950 50 20",
     "id": "way/202055999"
@@ -17100,40 +17437,56 @@
     "coordinates": [
       [
         [
-          8.8239392,
-          47.3689407
+          8.8239372,
+          47.3689396
         ],
         [
-          8.8239148,
-          47.3689206
+          8.8239081,
+          47.3689155
         ],
         [
-          8.8238915,
-          47.3689335
+          8.823887,
+          47.3689276
         ],
         [
-          8.8238398,
-          47.3688909
+          8.8238677,
+          47.368912
         ],
         [
-          8.8238631,
-          47.368878
+          8.8238893,
+          47.3688998
         ],
         [
-          8.8238421,
-          47.3688606
+          8.8238619,
+          47.3688766
         ],
         [
-          8.824008,
-          47.3687683
+          8.8239405,
+          47.3688324
         ],
         [
-          8.8241051,
-          47.3688484
+          8.8239267,
+          47.3688269
         ],
         [
-          8.8239392,
-          47.3689407
+          8.8239741,
+          47.3687756
+        ],
+        [
+          8.8240121,
+          47.3687926
+        ],
+        [
+          8.8240222,
+          47.3687876
+        ],
+        [
+          8.8240977,
+          47.3688517
+        ],
+        [
+          8.8239372,
+          47.3689396
         ]
       ]
     ]
@@ -19933,8 +20286,8 @@
     "addr:postcode": "8340",
     "addr:street": "Schweipelstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Fröschlezzen",
+    "building": "kindergarten",
+    "name": "Kindergarten Fröschlezzen 1+2",
     "phone": "+41 44 937 41 08",
     "phone_2": "+41 44 937 37 41",
     "id": "way/251969228"
@@ -20041,6 +20394,47 @@
 },
 {
   "type": "Feature",
+  "id": "way/252131855",
+  "properties": {
+    "addr:city": "Hinwil",
+    "addr:housenumber": "1",
+    "addr:postcode": "8340",
+    "addr:street": "Gemeindehausstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Meiliwiese 1+2",
+    "id": "way/252131855"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8414718,
+          47.3017966
+        ],
+        [
+          8.8412007,
+          47.3016693
+        ],
+        [
+          8.8413883,
+          47.3014856
+        ],
+        [
+          8.8416594,
+          47.3016128
+        ],
+        [
+          8.8414718,
+          47.3017966
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/252135073",
   "properties": {
     "addr:city": "Hinwil",
@@ -20048,8 +20442,8 @@
     "addr:postcode": "8340",
     "addr:street": "Täusistrasse",
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Wihalden",
+    "building": "kindergarten",
+    "name": "Kindergarten Wihalden 1+2",
     "phone": "+41 44 937 24 76",
     "id": "way/252135073"
   },
@@ -20058,56 +20452,40 @@
     "coordinates": [
       [
         [
-          8.8403452,
-          47.3047339
+          8.840336,
+          47.3047398
         ],
         [
-          8.8403112,
-          47.3047087
+          8.8403016,
+          47.3047134
         ],
         [
-          8.8402964,
-          47.304718
+          8.8402896,
+          47.3047213
         ],
         [
-          8.8402185,
-          47.3046604
+          8.8402056,
+          47.3046607
         ],
         [
-          8.8402813,
-          47.3046214
+          8.8404218,
+          47.3045218
         ],
         [
-          8.8402956,
-          47.304632
+          8.8405061,
+          47.3045834
         ],
         [
-          8.8403997,
-          47.3045671
+          8.8404937,
+          47.3045918
         ],
         [
-          8.8403837,
-          47.3045553
+          8.8405285,
+          47.3046159
         ],
         [
-          8.8404436,
-          47.304518
-        ],
-        [
-          8.8405185,
-          47.3045733
-        ],
-        [
-          8.840504,
-          47.3045823
-        ],
-        [
-          8.8405427,
-          47.3046109
-        ],
-        [
-          8.8403452,
-          47.3047339
+          8.840336,
+          47.3047398
         ]
       ]
     ]
@@ -21975,6 +22353,47 @@
 },
 {
   "type": "Feature",
+  "id": "way/284068743",
+  "properties": {
+    "addr:city": "Hinwil",
+    "addr:housenumber": "9",
+    "addr:postcode": "8340",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Hadlikon 1+2",
+    "id": "way/284068743"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8524876,
+          47.2880634
+        ],
+        [
+          8.8525202,
+          47.2879584
+        ],
+        [
+          8.8528235,
+          47.2880018
+        ],
+        [
+          8.8527909,
+          47.2881068
+        ],
+        [
+          8.8524876,
+          47.2880634
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/289329278",
   "properties": {
     "addr:city": "Hinwil",
@@ -21992,24 +22411,65 @@
     "coordinates": [
       [
         [
-          8.8548696,
-          47.3144818
+          8.8548989,
+          47.3144946
         ],
         [
-          8.85498,
-          47.3144131
+          8.8549976,
+          47.3144344
         ],
         [
-          8.855117,
-          47.3145142
+          8.8551178,
+          47.3145247
         ],
         [
-          8.8550065,
-          47.3145829
+          8.8550199,
+          47.3145857
         ],
         [
-          8.8548696,
-          47.3144818
+          8.8548989,
+          47.3144946
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/289329288",
+  "properties": {
+    "addr:city": "Hinwil",
+    "addr:housenumber": "39a",
+    "addr:postcode": "8340",
+    "addr:street": "Ringwilerstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Ringwil",
+    "id": "way/289329288"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8545539,
+          47.3146643
+        ],
+        [
+          8.854681,
+          47.3145083
+        ],
+        [
+          8.8547641,
+          47.3145402
+        ],
+        [
+          8.8546367,
+          47.3146951
+        ],
+        [
+          8.8545539,
+          47.3146643
         ]
       ]
     ]
@@ -22298,6 +22758,79 @@
         [
           8.399578,
           47.4085218
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/295035033",
+  "properties": {
+    "addr:city": "Hirzel",
+    "addr:housenumber": "27",
+    "addr:postcode": "8816",
+    "addr:street": "Dorfstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Dorf",
+    "id": "way/295035033"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6070519,
+          47.2137217
+        ],
+        [
+          8.6070781,
+          47.2136602
+        ],
+        [
+          8.6071688,
+          47.2136779
+        ],
+        [
+          8.6071524,
+          47.2137166
+        ],
+        [
+          8.6071797,
+          47.213722
+        ],
+        [
+          8.6072101,
+          47.2136505
+        ],
+        [
+          8.6073827,
+          47.2136843
+        ],
+        [
+          8.607349,
+          47.2137636
+        ],
+        [
+          8.6073186,
+          47.2137576
+        ],
+        [
+          8.6073097,
+          47.2137784
+        ],
+        [
+          8.6071977,
+          47.2137564
+        ],
+        [
+          8.6072001,
+          47.2137507
+        ],
+        [
+          8.6070519,
+          47.2137217
         ]
       ]
     ]
@@ -25942,6 +26475,49 @@
         [
           8.6178847,
           47.3928603
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/505382883",
+  "properties": {
+    "addr:city": "Hochfelden",
+    "addr:country": "CH",
+    "addr:housenumber": "12a",
+    "addr:postcode": "8182",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Wisacher",
+    "source": "Kanton Zurich Orthofotos 2014/2015",
+    "id": "way/505382883"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5152696,
+          47.5255955
+        ],
+        [
+          8.5152235,
+          47.5254176
+        ],
+        [
+          8.5155226,
+          47.5253822
+        ],
+        [
+          8.5155688,
+          47.5255601
+        ],
+        [
+          8.5152696,
+          47.5255955
         ]
       ]
     ]
@@ -33802,36 +34378,6 @@
     "coordinates": [
       8.4086773,
       47.0656931
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2353196081",
-  "properties": {
-    "amenity": "kindergarten",
-    "id": "node/2353196081"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8239554,
-      47.3688632
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2353196108",
-  "properties": {
-    "amenity": "kindergarten",
-    "id": "node/2353196108"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.823714,
-      47.3686289
     ]
   }
 },
@@ -43152,6 +43698,86 @@
     "coordinates": [
       8.4491514,
       47.3015754
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9884561531",
+  "properties": {
+    "addr:city": "Hirzel",
+    "addr:housenumber": "3",
+    "addr:postcode": "8816",
+    "addr:street": "Sitenrain",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Vorderi Siten",
+    "id": "node/9884561531"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6097628,
+      47.2181826
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9884680249",
+  "properties": {
+    "addr:city": "Dickbuch",
+    "addr:housenumber": "17",
+    "addr:postcode": "8354",
+    "addr:street": "Schulstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Dickbuch",
+    "id": "node/9884680249"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8295958,
+      47.4970091
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9884759540",
+  "properties": {
+    "addr:city": "Hombrechtikon",
+    "addr:housenumber": "13",
+    "addr:postcode": "8634",
+    "addr:street": "Feldbachstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Neues Dörfli",
+    "id": "node/9884759540"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7671805,
+      47.2505495
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9885283083",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "47",
+    "addr:postcode": "8810",
+    "addr:street": "Seestrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Holzbach",
+    "id": "node/9885283083"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5891619,
+      47.2650856
     ]
   }
 }

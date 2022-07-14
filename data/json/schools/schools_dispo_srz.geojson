@@ -11073,6 +11073,144 @@
 },
 {
   "type": "Feature",
+  "id": "way/31827047",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "35",
+    "addr:postcode": "8810",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Lakeside School Horgen",
+    "id": "way/31827047"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5939357,
+          47.2610301
+        ],
+        [
+          8.5942101,
+          47.2609234
+        ],
+        [
+          8.594223,
+          47.2609389
+        ],
+        [
+          8.5942395,
+          47.2609329
+        ],
+        [
+          8.5942851,
+          47.2609859
+        ],
+        [
+          8.5942674,
+          47.2609919
+        ],
+        [
+          8.5942812,
+          47.2610084
+        ],
+        [
+          8.594008,
+          47.2611145
+        ],
+        [
+          8.5939357,
+          47.2610301
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/31827052",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "33",
+    "addr:postcode": "8810",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Lakeside School Horgen",
+    "id": "way/31827052"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5942968,
+          47.2608884
+        ],
+        [
+          8.5944022,
+          47.2608463
+        ],
+        [
+          8.5943904,
+          47.2608314
+        ],
+        [
+          8.5944281,
+          47.2608168
+        ],
+        [
+          8.5944399,
+          47.2608314
+        ],
+        [
+          8.5945462,
+          47.2607909
+        ],
+        [
+          8.5946175,
+          47.2608749
+        ],
+        [
+          8.5943695,
+          47.2609725
+        ],
+        [
+          8.5943796,
+          47.2609848
+        ],
+        [
+          8.5942923,
+          47.2610181
+        ],
+        [
+          8.5942812,
+          47.2610084
+        ],
+        [
+          8.5942674,
+          47.2609919
+        ],
+        [
+          8.5942851,
+          47.2609859
+        ],
+        [
+          8.5943557,
+          47.2609572
+        ],
+        [
+          8.5942968,
+          47.2608884
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/31827497",
   "properties": {
     "addr:city": "Au (ZH)",
@@ -19392,6 +19530,129 @@
 },
 {
   "type": "Feature",
+  "id": "way/42093518",
+  "properties": {
+    "addr:city": "Hochfelden",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "8182",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Wisacher Primar",
+    "source": "Yahoo aerial images",
+    "id": "way/42093518"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5154132,
+          47.5263909
+        ],
+        [
+          8.5153787,
+          47.5262645
+        ],
+        [
+          8.515564,
+          47.5262414
+        ],
+        [
+          8.5155575,
+          47.5262175
+        ],
+        [
+          8.5154393,
+          47.5262322
+        ],
+        [
+          8.5154086,
+          47.5261196
+        ],
+        [
+          8.515489,
+          47.5261095
+        ],
+        [
+          8.5154609,
+          47.5260064
+        ],
+        [
+          8.5153865,
+          47.5260156
+        ],
+        [
+          8.5153478,
+          47.5258736
+        ],
+        [
+          8.5155188,
+          47.5258523
+        ],
+        [
+          8.5155321,
+          47.5259011
+        ],
+        [
+          8.5156369,
+          47.525888
+        ],
+        [
+          8.5156511,
+          47.5259399
+        ],
+        [
+          8.5157521,
+          47.5259273
+        ],
+        [
+          8.5157652,
+          47.5259752
+        ],
+        [
+          8.5158756,
+          47.5259614
+        ],
+        [
+          8.5158845,
+          47.5259939
+        ],
+        [
+          8.5159771,
+          47.5259824
+        ],
+        [
+          8.5160374,
+          47.5262035
+        ],
+        [
+          8.5156165,
+          47.5262559
+        ],
+        [
+          8.5156341,
+          47.5263205
+        ],
+        [
+          8.5155269,
+          47.5263339
+        ],
+        [
+          8.5155383,
+          47.5263754
+        ],
+        [
+          8.5154132,
+          47.5263909
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/42823800",
   "properties": {
     "addr:city": "Bülach",
@@ -25066,6 +25327,51 @@
 },
 {
   "type": "Feature",
+  "id": "way/68804806",
+  "properties": {
+    "addr:city": "Hirzel",
+    "addr:housenumber": "47",
+    "addr:postcode": "8816",
+    "addr:street": "Dorfstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Schützenmatt",
+    "id": "way/68804806"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6059731,
+          47.2157405
+        ],
+        [
+          8.6059483,
+          47.2158581
+        ],
+        [
+          8.605594,
+          47.2158231
+        ],
+        [
+          8.6055944,
+          47.2158211
+        ],
+        [
+          8.6056182,
+          47.215704
+        ],
+        [
+          8.6059731,
+          47.2157405
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/69027673",
   "properties": {
     "addr:city": "Ebertswil",
@@ -28152,7 +28458,7 @@
     "addr:postcode": "8634",
     "addr:street": "Eichwisstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Schulhaus Tobel 2",
     "id": "way/91073031"
   },
@@ -30337,6 +30643,55 @@
         [
           8.7709515,
           47.250491
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/97467858",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "60",
+    "addr:postcode": "8810",
+    "addr:street": "Bockenweg",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Arn",
+    "id": "way/97467858"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6172334,
+          47.2368637
+        ],
+        [
+          8.6173202,
+          47.2367778
+        ],
+        [
+          8.6173894,
+          47.2368092
+        ],
+        [
+          8.6174874,
+          47.2367154
+        ],
+        [
+          8.6175839,
+          47.2367614
+        ],
+        [
+          8.6173894,
+          47.2369387
+        ],
+        [
+          8.6172334,
+          47.2368637
         ]
       ]
     ]
@@ -54362,7 +54717,7 @@
     "amenity": "school",
     "building": "yes",
     "email": "isabelle.cavadini@schulehittnau.ch",
-    "name": "Primarschule Hittnau",
+    "name": "Primarschule Hermetsbüel",
     "phone": "+41 43 288 67 71",
     "school": "primary",
     "school:CH": "primarschule",
@@ -54442,7 +54797,7 @@
     "amenity": "school",
     "building": "yes",
     "building:levels": "2",
-    "name": "Sekundarschulhaus",
+    "name": "Sekundarschulhaus Hermetsbüel",
     "school": "secondary",
     "wheelchair": "yes",
     "id": "way/196393812"
@@ -56690,8 +57045,12 @@
   "type": "Feature",
   "id": "way/204261839",
   "properties": {
+    "addr:city": "Hinwil",
+    "addr:housenumber": "10",
+    "addr:postcode": "8340",
+    "addr:street": "Schulhausstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Schulhaus Hadlikon",
     "id": "way/204261839"
   },
@@ -56700,32 +57059,32 @@
     "coordinates": [
       [
         [
-          8.8521878,
-          47.2883536
+          8.8526718,
+          47.288422
         ],
         [
-          8.8524734,
-          47.2882122
+          8.8527572,
+          47.2885005
         ],
         [
-          8.8526913,
-          47.2884147
+          8.8525148,
+          47.288622
         ],
         [
-          8.8526616,
-          47.2884294
+          8.8522203,
+          47.2883517
         ],
         [
-          8.8527576,
-          47.2885186
+          8.8523955,
+          47.2882639
         ],
         [
-          8.8525018,
-          47.2886453
+          8.8526046,
+          47.2884557
         ],
         [
-          8.8521878,
-          47.2883536
+          8.8526718,
+          47.288422
         ]
       ]
     ]
@@ -61506,6 +61865,48 @@
         [
           8.9269129,
           47.3400741
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/226338422",
+  "properties": {
+    "addr:city": "Hombrechtikon",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8634",
+    "addr:street": "Chilerai",
+    "amenity": "school",
+    "building": "school",
+    "name": "Zürisee Schule",
+    "id": "way/226338422"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7636411,
+          47.2516731
+        ],
+        [
+          8.7634578,
+          47.2516976
+        ],
+        [
+          8.7633973,
+          47.2514888
+        ],
+        [
+          8.7635806,
+          47.2514643
+        ],
+        [
+          8.7636411,
+          47.2516731
         ]
       ]
     ]
@@ -67457,7 +67858,7 @@
     "addr:postcode": "8340",
     "addr:street": "Felsenhofstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Schulhaus Mätteli",
     "phone": "+41 44 937 33 27",
     "school": "primary",
@@ -67593,7 +67994,7 @@
   "id": "way/252014694",
   "properties": {
     "addr:city": "Hinwil",
-    "addr:housenumber": "6",
+    "addr:housenumber": "7",
     "addr:postcode": "8340",
     "addr:street": "Breitestrasse",
     "amenity": "school",
@@ -67608,24 +68009,24 @@
     "coordinates": [
       [
         [
-          8.8495796,
-          47.2994346
+          8.8496157,
+          47.2994447
         ],
         [
-          8.8497046,
-          47.2992089
+          8.8497434,
+          47.2992143
         ],
         [
-          8.8500085,
-          47.2992862
+          8.8500574,
+          47.2992945
         ],
         [
-          8.8498834,
-          47.299512
+          8.849927,
+          47.2995243
         ],
         [
-          8.8495796,
-          47.2994346
+          8.8496157,
+          47.2994447
         ]
       ]
     ]
@@ -67838,9 +68239,9 @@
     "addr:postcode": "8340",
     "addr:street": "Gemeindehausstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "email": "schulleitung.meiliwiese@schulehinwil.ch",
-    "name": "Schulhaus/Schulleitung Primarstufe Meiliwiese",
+    "name": "Schulhaus Meiliwiese",
     "phone": "+41 43 843 18 18",
     "school": "primary",
     "school:CH": "primarschule",
@@ -70042,28 +70443,56 @@
     "coordinates": [
       [
         [
-          8.8722157,
-          47.3097099
+          8.8722406,
+          47.3097145
         ],
         [
-          8.8720546,
-          47.3097414
+          8.8722243,
+          47.3097182
         ],
         [
-          8.8720053,
-          47.3096257
+          8.8722378,
+          47.3097486
         ],
         [
-          8.8721664,
-          47.3095941
+          8.8722098,
+          47.3097557
         ],
         [
-          8.8722108,
-          47.3096983
+          8.8721505,
+          47.3098346
         ],
         [
-          8.8722157,
-          47.3097099
+          8.8720852,
+          47.3098118
+        ],
+        [
+          8.8721286,
+          47.3097542
+        ],
+        [
+          8.8721243,
+          47.3097424
+        ],
+        [
+          8.8721155,
+          47.3097439
+        ],
+        [
+          8.8720626,
+          47.309634
+        ],
+        [
+          8.8721886,
+          47.3096053
+        ],
+        [
+          8.8722307,
+          47.3096936
+        ],
+        [
+          8.8722406,
+          47.3097145
         ]
       ]
     ]
@@ -74906,6 +75335,87 @@
 },
 {
   "type": "Feature",
+  "id": "way/295032920",
+  "properties": {
+    "addr:city": "Hirzel",
+    "addr:housenumber": "56b",
+    "addr:postcode": "8816",
+    "addr:street": "Dorfstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schule Heerenrainli",
+    "id": "way/295032920"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6071442,
+          47.2161065
+        ],
+        [
+          8.6071582,
+          47.2160224
+        ],
+        [
+          8.6072808,
+          47.2160308
+        ],
+        [
+          8.6072804,
+          47.2160332
+        ],
+        [
+          8.6073786,
+          47.2160416
+        ],
+        [
+          8.6073773,
+          47.2160488
+        ],
+        [
+          8.6075141,
+          47.2160697
+        ],
+        [
+          8.6075041,
+          47.2160958
+        ],
+        [
+          8.6075567,
+          47.2161044
+        ],
+        [
+          8.6075318,
+          47.2161765
+        ],
+        [
+          8.6074587,
+          47.2161647
+        ],
+        [
+          8.6074217,
+          47.2161587
+        ],
+        [
+          8.6072345,
+          47.2161271
+        ],
+        [
+          8.607235,
+          47.2161133
+        ],
+        [
+          8.6071442,
+          47.2161065
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/295507676",
   "properties": {
     "addr:city": "Guntalingen",
@@ -75302,6 +75812,155 @@
         [
           8.847968,
           47.4383457
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/297867870",
+  "properties": {
+    "addr:city": "Hofstetten",
+    "addr:housenumber": "5",
+    "addr:postcode": "8354",
+    "addr:street": "Elggerstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Hofstetten",
+    "id": "way/297867870"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8542615,
+          47.4739219
+        ],
+        [
+          8.8543471,
+          47.4738529
+        ],
+        [
+          8.8543634,
+          47.4738402
+        ],
+        [
+          8.8544113,
+          47.4738679
+        ],
+        [
+          8.8544194,
+          47.4738615
+        ],
+        [
+          8.8544993,
+          47.4739076
+        ],
+        [
+          8.8545394,
+          47.4738759
+        ],
+        [
+          8.8545445,
+          47.4738788
+        ],
+        [
+          8.8545404,
+          47.473882
+        ],
+        [
+          8.854754,
+          47.4740053
+        ],
+        [
+          8.8547584,
+          47.4740019
+        ],
+        [
+          8.8547638,
+          47.474005
+        ],
+        [
+          8.8547368,
+          47.4740264
+        ],
+        [
+          8.8549342,
+          47.4741404
+        ],
+        [
+          8.854855,
+          47.474203
+        ],
+        [
+          8.8547945,
+          47.4741681
+        ],
+        [
+          8.8547637,
+          47.4741925
+        ],
+        [
+          8.8546235,
+          47.4741115
+        ],
+        [
+          8.8545711,
+          47.474153
+        ],
+        [
+          8.8545676,
+          47.4741509
+        ],
+        [
+          8.8545724,
+          47.4741472
+        ],
+        [
+          8.8544083,
+          47.4740524
+        ],
+        [
+          8.8544041,
+          47.4740558
+        ],
+        [
+          8.8544002,
+          47.4740535
+        ],
+        [
+          8.8544825,
+          47.4739884
+        ],
+        [
+          8.8544387,
+          47.4739631
+        ],
+        [
+          8.8544082,
+          47.4739873
+        ],
+        [
+          8.8544023,
+          47.4739839
+        ],
+        [
+          8.8544064,
+          47.4739806
+        ],
+        [
+          8.8543022,
+          47.4739204
+        ],
+        [
+          8.8542842,
+          47.4739346
+        ],
+        [
+          8.8542615,
+          47.4739219
         ]
       ]
     ]
@@ -77664,12 +78323,16 @@
           47.4740484
         ],
         [
-          8.8542731,
-          47.4739113
+          8.8542615,
+          47.4739219
         ],
         [
-          8.8543593,
-          47.4738395
+          8.8543471,
+          47.4738529
+        ],
+        [
+          8.8543634,
+          47.4738402
         ],
         [
           8.854669,
@@ -105184,6 +105847,50 @@
 },
 {
   "type": "Feature",
+  "id": "way/1078127711",
+  "properties": {
+    "addr:city": "Hinwil",
+    "addr:housenumber": "12",
+    "addr:postcode": "8340",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "school",
+    "building": "school",
+    "id": "way/1078127711"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8523955,
+          47.2882639
+        ],
+        [
+          8.8524878,
+          47.2882178
+        ],
+        [
+          8.852696,
+          47.2884101
+        ],
+        [
+          8.8526718,
+          47.288422
+        ],
+        [
+          8.8526046,
+          47.2884557
+        ],
+        [
+          8.8523955,
+          47.2882639
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/122507552",
   "properties": {
     "amenity": "school",
@@ -105229,8 +105936,13 @@
   "type": "Feature",
   "id": "node/266914530",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "110",
+    "addr:postcode": "8810",
+    "addr:street": "Seestrasse",
     "amenity": "school",
     "name": "Bildungszentrum Zürichsee, Horgen",
+    "short_name": "BZZ Horgen",
     "wheelchair": "limited",
     "id": "node/266914530"
   },
@@ -105862,22 +106574,6 @@
     "coordinates": [
       8.5268996,
       47.5757578
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/481323586",
-  "properties": {
-    "amenity": "school",
-    "name": "Primarschule Hochfelden",
-    "id": "node/481323586"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5158173,
-      47.5260749
     ]
   }
 },
@@ -106660,22 +107356,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2086964118",
-  "properties": {
-    "amenity": "school",
-    "name": "Schulhaus Meiliwiese",
-    "id": "node/2086964118"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8408306,
-      47.301363
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2098533022",
   "properties": {
     "amenity": "school",
@@ -106963,10 +107643,14 @@
   "type": "Feature",
   "id": "node/3147403058",
   "properties": {
+    "addr:city": "Hinwil",
+    "addr:housenumber": "6",
+    "addr:postcode": "8340",
+    "addr:street": "Breitestrasse",
     "amenity": "school",
     "email": "schulleitung.breite@schulehinwil.ch",
+    "government": "government",
     "name": "Schulhaus/Schulleitung Breite",
-    "office": "administrative",
     "phone": "+41 43 843 17 17",
     "school": "primary",
     "school:CH": "primarschule",
