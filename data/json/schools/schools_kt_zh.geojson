@@ -9506,6 +9506,47 @@
 },
 {
   "type": "Feature",
+  "id": "way/31318152",
+  "properties": {
+    "addr:city": "Horgenberg",
+    "addr:housenumber": "1",
+    "addr:postcode": "8815",
+    "addr:street": "Maurenmoosstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Horgenberg",
+    "id": "way/31318152"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5869855,
+          47.2477815
+        ],
+        [
+          8.5867798,
+          47.2475895
+        ],
+        [
+          8.5869193,
+          47.2475236
+        ],
+        [
+          8.5871208,
+          47.2477149
+        ],
+        [
+          8.5869855,
+          47.2477815
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/31610883",
   "properties": {
     "addr:city": "Zürich",
@@ -10889,6 +10930,64 @@
 },
 {
   "type": "Feature",
+  "id": "way/32963716",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "6",
+    "addr:postcode": "8810",
+    "addr:street": "Lindenstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Baumgärtli",
+    "wheelchair": "no",
+    "id": "way/32963716"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5994047,
+          47.2591641
+        ],
+        [
+          8.5995702,
+          47.2591224
+        ],
+        [
+          8.5996697,
+          47.2593061
+        ],
+        [
+          8.5995043,
+          47.259347
+        ],
+        [
+          8.5994747,
+          47.2592938
+        ],
+        [
+          8.5994336,
+          47.2593038
+        ],
+        [
+          8.5993923,
+          47.2592275
+        ],
+        [
+          8.5994322,
+          47.2592177
+        ],
+        [
+          8.5994047,
+          47.2591641
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/33147924",
   "properties": {
     "amenity": "school",
@@ -11374,8 +11473,12 @@
   "id": "way/34288360",
   "properties": {
     "amenity": "school",
-    "building": "yes",
-    "name": "Schulhaus im Weiher",
+    "building": "school",
+    "contact:city": "Höri",
+    "contact:housenumber": "11",
+    "contact:postcode": "8181",
+    "contact:street": "Schulhausstrasse",
+    "name": "Schulhaus im Weiher 1",
     "source": "Yahoo aerial images",
     "id": "way/34288360"
   },
@@ -11444,7 +11547,11 @@
   "id": "way/34288361",
   "properties": {
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
+    "contact:city": "Höri",
+    "contact:housenumber": "11.2",
+    "contact:postcode": "8181",
+    "contact:street": "Schulhausstrasse",
     "name": "Schulhaus Weiher 2",
     "source": "Yahoo aerial images",
     "id": "way/34288361"
@@ -16969,8 +17076,12 @@
   "type": "Feature",
   "id": "way/44629796",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "57",
+    "addr:postcode": "8810",
+    "addr:street": "Glärnischstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Schulhaus Rotweg",
     "wheelchair": "no",
     "id": "way/44629796"
@@ -16980,24 +17091,64 @@
     "coordinates": [
       [
         [
-          8.6087083,
-          47.2552777
+          8.6087219,
+          47.2552749
         ],
         [
-          8.6085554,
-          47.2551174
+          8.6086134,
+          47.2551671
         ],
         [
-          8.6089047,
-          47.2549639
+          8.6086183,
+          47.2551648
         ],
         [
-          8.6090576,
-          47.2551242
+          8.6085666,
+          47.2551133
         ],
         [
-          8.6087083,
-          47.2552777
+          8.6087156,
+          47.2550442
+        ],
+        [
+          8.6087132,
+          47.2550418
+        ],
+        [
+          8.608759,
+          47.2550206
+        ],
+        [
+          8.6087615,
+          47.2550231
+        ],
+        [
+          8.6088138,
+          47.2549989
+        ],
+        [
+          8.6088067,
+          47.2549919
+        ],
+        [
+          8.6089134,
+          47.2549425
+        ],
+        [
+          8.609085,
+          47.2551132
+        ],
+        [
+          8.6089776,
+          47.2551629
+        ],
+        [
+          8.6089731,
+          47.2551585
+        ],
+        [
+          8.6087219,
+          47.2552749
         ]
       ]
     ]
@@ -18401,9 +18552,13 @@
   "type": "Feature",
   "id": "way/51160036",
   "properties": {
+    "addr:city": "Hüntwangen",
+    "addr:housenumber": "7",
+    "addr:postcode": "8194",
+    "addr:street": "Bergstrasse",
     "amenity": "school",
     "building": "school",
-    "name": "Primarschulhaus",
+    "name": "Primarschulhaus und Kiga",
     "wheelchair": "no",
     "id": "way/51160036"
   },
@@ -19275,6 +19430,7 @@
     "addr:street": "Dorfstrasse",
     "amenity": "school",
     "building": "school",
+    "name": "Schulhaus und Kiga Hütten",
     "id": "way/54252509"
   },
   "geometry": {
@@ -26194,8 +26350,12 @@
   "type": "Feature",
   "id": "way/96298580",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "13",
+    "addr:postcode": "8810",
+    "addr:street": "Speerstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Schulhaus Tannenbach",
     "source": "bing sat, survey",
     "id": "way/96298580"
@@ -26205,24 +26365,24 @@
     "coordinates": [
       [
         [
-          8.5834575,
-          47.2667153
+          8.583461,
+          47.2667341
         ],
         [
-          8.5835481,
-          47.2666103
+          8.5835668,
+          47.2666178
         ],
         [
-          8.5839888,
-          47.2667853
+          8.584004,
+          47.2668041
         ],
         [
-          8.5838982,
-          47.2668903
+          8.5838989,
+          47.2669185
         ],
         [
-          8.5834575,
-          47.2667153
+          8.583461,
+          47.2667341
         ]
       ]
     ]
@@ -26232,8 +26392,12 @@
   "type": "Feature",
   "id": "way/96298611",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "26",
+    "addr:postcode": "8810",
+    "addr:street": "Einsiedlerstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Schulhaus Tannenbach",
     "source": "bing sat, survey",
     "id": "way/96298611"
@@ -26243,64 +26407,64 @@
     "coordinates": [
       [
         [
-          8.5831486,
-          47.2670549
+          8.5834606,
+          47.2670612
         ],
         [
-          8.5833154,
-          47.2668626
+          8.5833547,
+          47.2670163
         ],
         [
-          8.5838126,
-          47.2670611
+          8.5833377,
+          47.2670348
         ],
         [
-          8.5837232,
-          47.2671642
+          8.5833481,
+          47.2670393
         ],
         [
-          8.5835767,
-          47.2671057
+          8.5833369,
+          47.2670505
         ],
         [
-          8.5834896,
-          47.2672062
+          8.5833272,
+          47.2670461
         ],
         [
-          8.5837517,
-          47.2673109
+          8.5832817,
+          47.2670981
         ],
         [
-          8.5836112,
-          47.267473
+          8.5831715,
+          47.2670509
         ],
         [
-          8.5832734,
-          47.2673396
+          8.5833251,
+          47.2668819
         ],
         [
-          8.5833645,
-          47.2672307
+          8.5837243,
+          47.2670509
         ],
         [
-          8.5833209,
-          47.2672133
+          8.5837121,
+          47.2670639
         ],
         [
-          8.5834561,
-          47.2670574
+          8.5838109,
+          47.267106
         ],
         [
-          8.5833665,
-          47.2670216
+          8.5837433,
+          47.2671797
         ],
         [
-          8.583289,
-          47.267111
+          8.5836429,
+          47.2671377
         ],
         [
-          8.5831486,
-          47.2670549
+          8.5834606,
+          47.2670612
         ]
       ]
     ]
@@ -59582,6 +59746,66 @@
 },
 {
   "type": "Feature",
+  "id": "way/264194308",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "11",
+    "addr:postcode": "8810",
+    "addr:street": "Speerstrasse",
+    "amenity": "school",
+    "building": "school",
+    "id": "way/264194308"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5832276,
+          47.2674894
+        ],
+        [
+          8.5829144,
+          47.2673592
+        ],
+        [
+          8.5829919,
+          47.2672726
+        ],
+        [
+          8.5830524,
+          47.2672975
+        ],
+        [
+          8.5830693,
+          47.2672782
+        ],
+        [
+          8.5832106,
+          47.267337
+        ],
+        [
+          8.583194,
+          47.2673555
+        ],
+        [
+          8.5833062,
+          47.2674035
+        ],
+        [
+          8.583298,
+          47.267412
+        ],
+        [
+          8.5832276,
+          47.2674894
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/264289162",
   "properties": {
     "amenity": "school",
@@ -79958,16 +80182,16 @@
           47.267629
         ],
         [
-          8.583299,
-          47.2674118
+          8.583298,
+          47.267412
         ],
         [
-          8.5832307,
-          47.2674875
+          8.5832276,
+          47.2674894
         ],
         [
-          8.5829213,
-          47.267359
+          8.5829144,
+          47.2673592
         ],
         [
           8.5838024,
@@ -88850,6 +89074,350 @@
 },
 {
   "type": "Feature",
+  "id": "way/1078399727",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "24",
+    "addr:postcode": "8810",
+    "addr:street": "Einsiedlerstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Tannenbach",
+    "source": "bing sat, survey",
+    "id": "way/1078399727"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5836429,
+          47.2671377
+        ],
+        [
+          8.5835461,
+          47.2672417
+        ],
+        [
+          8.5837631,
+          47.2673346
+        ],
+        [
+          8.5836458,
+          47.2674645
+        ],
+        [
+          8.5835767,
+          47.2674338
+        ],
+        [
+          8.5835559,
+          47.2674559
+        ],
+        [
+          8.5832762,
+          47.2673387
+        ],
+        [
+          8.5833678,
+          47.2672388
+        ],
+        [
+          8.5833193,
+          47.2672187
+        ],
+        [
+          8.5834606,
+          47.2670612
+        ],
+        [
+          8.5836429,
+          47.2671377
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1078441709",
+  "properties": {
+    "amenity": "school",
+    "id": "way/1078441709"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4014381,
+          47.4690737
+        ],
+        [
+          8.4014429,
+          47.4690614
+        ],
+        [
+          8.4016093,
+          47.4685021
+        ],
+        [
+          8.4016241,
+          47.4684808
+        ],
+        [
+          8.4016676,
+          47.4684733
+        ],
+        [
+          8.403408,
+          47.468631
+        ],
+        [
+          8.403455,
+          47.4686548
+        ],
+        [
+          8.4034686,
+          47.4686839
+        ],
+        [
+          8.4034726,
+          47.4689231
+        ],
+        [
+          8.403638,
+          47.4689557
+        ],
+        [
+          8.4037083,
+          47.4690922
+        ],
+        [
+          8.4025477,
+          47.4693289
+        ],
+        [
+          8.4024714,
+          47.4693289
+        ],
+        [
+          8.4021468,
+          47.4692813
+        ],
+        [
+          8.4015387,
+          47.4691135
+        ],
+        [
+          8.4014762,
+          47.4691108
+        ],
+        [
+          8.401441,
+          47.4690963
+        ],
+        [
+          8.4014381,
+          47.4690737
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1078511517",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "5",
+    "addr:postcode": "8810",
+    "addr:street": "Waldeggstrasse",
+    "amenity": "school",
+    "building": "school",
+    "layer": "1",
+    "name": "Schulhaus Waldegg 1+2",
+    "wheelchair": "limited",
+    "id": "way/1078511517"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6062454,
+          47.2453757
+        ],
+        [
+          8.606006,
+          47.2452071
+        ],
+        [
+          8.6060692,
+          47.2451656
+        ],
+        [
+          8.6058729,
+          47.2450288
+        ],
+        [
+          8.6059171,
+          47.2450003
+        ],
+        [
+          8.6059094,
+          47.2449953
+        ],
+        [
+          8.6059257,
+          47.2449835
+        ],
+        [
+          8.6059351,
+          47.2449887
+        ],
+        [
+          8.6059469,
+          47.24498
+        ],
+        [
+          8.6059226,
+          47.2449628
+        ],
+        [
+          8.6059191,
+          47.2449642
+        ],
+        [
+          8.6059153,
+          47.2449616
+        ],
+        [
+          8.6059231,
+          47.2449564
+        ],
+        [
+          8.6059487,
+          47.2449395
+        ],
+        [
+          8.6059553,
+          47.2449352
+        ],
+        [
+          8.6059584,
+          47.2449366
+        ],
+        [
+          8.6059775,
+          47.2449241
+        ],
+        [
+          8.6059966,
+          47.2449371
+        ],
+        [
+          8.6059761,
+          47.2449517
+        ],
+        [
+          8.6059831,
+          47.2449562
+        ],
+        [
+          8.6060559,
+          47.2449076
+        ],
+        [
+          8.6062962,
+          47.245075
+        ],
+        [
+          8.6062826,
+          47.2450848
+        ],
+        [
+          8.60636,
+          47.2451392
+        ],
+        [
+          8.6065098,
+          47.2450392
+        ],
+        [
+          8.6064361,
+          47.2449885
+        ],
+        [
+          8.6064361,
+          47.2449632
+        ],
+        [
+          8.6064698,
+          47.2449632
+        ],
+        [
+          8.6070017,
+          47.244613
+        ],
+        [
+          8.6074057,
+          47.2448965
+        ],
+        [
+          8.6073656,
+          47.2449253
+        ],
+        [
+          8.6074002,
+          47.2449902
+        ],
+        [
+          8.6071125,
+          47.2451807
+        ],
+        [
+          8.6070153,
+          47.2451559
+        ],
+        [
+          8.6069732,
+          47.2451826
+        ],
+        [
+          8.6067672,
+          47.2450387
+        ],
+        [
+          8.6065556,
+          47.2451802
+        ],
+        [
+          8.6065712,
+          47.2452165
+        ],
+        [
+          8.6064528,
+          47.2452953
+        ],
+        [
+          8.6064038,
+          47.2452842
+        ],
+        [
+          8.6063941,
+          47.2452774
+        ],
+        [
+          8.6062454,
+          47.2453757
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/256335788",
   "properties": {
     "amenity": "school",
@@ -89402,40 +89970,6 @@
     "coordinates": [
       8.4630882,
       47.2464196
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/566633342",
-  "properties": {
-    "amenity": "school",
-    "name": "Schulhaus Baumgärtli",
-    "wheelchair": "no",
-    "id": "node/566633342"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5995455,
-      47.2592495
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/566634743",
-  "properties": {
-    "amenity": "school",
-    "name": "Schulhaus Waldegg",
-    "wheelchair": "limited",
-    "id": "node/566634743"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6068317,
-      47.244935
     ]
   }
 },
@@ -93407,6 +93941,71 @@
     "coordinates": [
       8.6796635,
       47.3679592
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9886540710",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "217",
+    "addr:postcode": "8810",
+    "addr:street": "Seestrasse",
+    "amenity": "school",
+    "name": "Schule startklar",
+    "website": "https://www.schule-startklar.ch/",
+    "id": "node/9886540710"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6046694,
+      47.258405
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9886557634",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "177",
+    "addr:postcode": "8400",
+    "addr:street": "Untere Vogelsangstrasse",
+    "amenity": "school",
+    "grades": "0",
+    "name": "Kindergarten Vogelsang",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schuletoessfeld.ch/team/kindergarten-vogelsang/p-51/",
+    "id": "node/9886557634"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7168809,
+      47.4895441
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9887494790",
+  "properties": {
+    "addr:city": "Hüntwangen",
+    "addr:housenumber": "2",
+    "addr:postcode": "8194",
+    "addr:street": "Wolfhagstrasse",
+    "amenity": "school",
+    "name": "Privatschule Tany Fitiavana",
+    "id": "node/9887494790"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4876988,
+      47.5969895
     ]
   }
 }

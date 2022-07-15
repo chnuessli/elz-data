@@ -8320,6 +8320,47 @@
 },
 {
   "type": "Feature",
+  "id": "way/98645682",
+  "properties": {
+    "addr:city": "Horgenberg",
+    "addr:housenumber": "1a",
+    "addr:postcode": "8815",
+    "addr:street": "Maurenmoosstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Horgenberg",
+    "id": "way/98645682"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5863622,
+          47.2473244
+        ],
+        [
+          8.5865095,
+          47.247249
+        ],
+        [
+          8.5866255,
+          47.2473535
+        ],
+        [
+          8.5864783,
+          47.2474288
+        ],
+        [
+          8.5863622,
+          47.2473244
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/99051392",
   "properties": {
     "addr:city": "Gossau ZH",
@@ -29347,6 +29388,10 @@
   "type": "Feature",
   "id": "node/566547038",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "8",
+    "addr:postcode": "8810",
+    "addr:street": "Teufenbachstrasse",
     "amenity": "kindergarten",
     "name": "Kindergarten Winkel Wegli",
     "id": "node/566547038"
@@ -29354,8 +29399,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6041819,
-      47.2569117
+      8.6042373,
+      47.2568989
     ]
   }
 },
@@ -31803,26 +31848,6 @@
     "coordinates": [
       8.7141527,
       47.4921811
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4115298021",
-  "properties": {
-    "addr:housenumber": "50",
-    "addr:street": "Heiligbergstrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Frohberg",
-    "operator": "Primarschule Tössfeld, Schulkreis Winterthur Stadt-Töss",
-    "wheelchair": "no",
-    "id": "node/4115298021"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7219953,
-      47.495339
     ]
   }
 },
@@ -35751,6 +35776,33 @@
     "coordinates": [
       8.59277,
       47.4159524
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7823329279",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "25",
+    "addr:postcode": "8810",
+    "addr:street": "Käpfnerweg",
+    "amenity": "kindergarten",
+    "ele": "417",
+    "email": "anja.lehmann@schule.horgen.ch",
+    "name": "Kindergarten Rietwies",
+    "operator": "Schule Horgen",
+    "operator:type": "public",
+    "phone": "+41 43 2440013",
+    "start_date": "2020-08-17",
+    "wheelchair": "yes",
+    "id": "node/7823329279"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6182816,
+      47.253336
     ]
   }
 },
@@ -39721,6 +39773,26 @@
     "coordinates": [
       8.5891619,
       47.2650856
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9887441712",
+  "properties": {
+    "addr:city": "Höri",
+    "addr:housenumber": "32",
+    "addr:postcode": "8181",
+    "addr:street": "Fuhrstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Brunnenhüsli",
+    "id": "node/9887441712"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5115254,
+      47.5070363
     ]
   }
 }

@@ -6596,33 +6596,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7823329279",
-  "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "25",
-    "addr:postcode": "8810",
-    "addr:street": "Käpfnerweg",
-    "amenity": "childcare",
-    "ele": "417",
-    "email": "anja.lehmann@schule.horgen.ch",
-    "name": "Kindergarten Rietwies",
-    "operator": "Schule Horgen",
-    "operator:type": "public",
-    "phone": "+41 43 2440013",
-    "start_date": "2020-08-17",
-    "wheelchair": "yes",
-    "id": "node/7823329279"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6182816,
-      47.253336
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7918372809",
   "properties": {
     "amenity": "childcare",

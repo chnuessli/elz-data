@@ -25569,6 +25569,66 @@
 },
 {
   "type": "Feature",
+  "id": "way/243659437",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "69",
+    "addr:postcode": "8200",
+    "addr:street": "Lochstrasse",
+    "alt_name": "Notschlafstelle Schaffhausen",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Notunterkunft / Soziales Wohnen",
+    "social_facility": "shelter",
+    "website": "https://www.stadt-schaffhausen.ch/Soziales-Wohnen-Geissberg.3451.0.html",
+    "id": "way/243659437"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6291915,
+          47.7107006
+        ],
+        [
+          8.6291816,
+          47.7106393
+        ],
+        [
+          8.6291297,
+          47.7106428
+        ],
+        [
+          8.6291248,
+          47.7106055
+        ],
+        [
+          8.6291745,
+          47.7106025
+        ],
+        [
+          8.6291747,
+          47.7105984
+        ],
+        [
+          8.6292954,
+          47.7105895
+        ],
+        [
+          8.6293133,
+          47.7106924
+        ],
+        [
+          8.6291915,
+          47.7107006
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/243669530",
   "properties": {
     "addr:city": "Hemmental",
@@ -37673,16 +37733,16 @@
           47.2681697
         ],
         [
-          8.5829213,
-          47.267359
+          8.5829144,
+          47.2673592
         ],
         [
-          8.5832307,
-          47.2674875
+          8.5832276,
+          47.2674894
         ],
         [
-          8.583299,
-          47.2674118
+          8.583298,
+          47.267412
         ],
         [
           8.5838298,
