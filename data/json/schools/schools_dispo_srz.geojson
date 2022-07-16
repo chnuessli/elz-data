@@ -97829,49 +97829,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/767959233",
-  "properties": {
-    "amenity": "school",
-    "name": "SalZH Oberstufe",
-    "operator": "SalZH Schulalternative Zürich",
-    "operator:type": "private",
-    "religion": "christian",
-    "id": "way/767959233"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7324778,
-          47.5042229
-        ],
-        [
-          8.7328522,
-          47.5041287
-        ],
-        [
-          8.7329617,
-          47.5043197
-        ],
-        [
-          8.7325532,
-          47.5044403
-        ],
-        [
-          8.7325057,
-          47.5044173
-        ],
-        [
-          8.7324778,
-          47.5042229
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/769669590",
   "properties": {
     "addr:city": "Egg",

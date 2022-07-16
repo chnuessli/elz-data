@@ -6883,6 +6883,26 @@
       47.4995242
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9890092430",
+  "properties": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Apotheke im KSW",
+    "opening_hours": "Mo-Fr 8:30-18:00; Sa 8:30-17:00",
+    "id": "node/9890092430"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.728567,
+      47.506884
+    ]
+  }
 }
 ]
 }
