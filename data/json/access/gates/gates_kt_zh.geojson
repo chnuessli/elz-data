@@ -2142,6 +2142,59 @@
 },
 {
   "type": "Feature",
+  "id": "way/1079030714",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "foot": "yes",
+    "height": "2",
+    "locked": "yes",
+    "material": "metal",
+    "opening_hours": "Mitte September - Mitte Mai (ausserhalb Badesaison)",
+    "wheelchair": "limited",
+    "id": "way/1079030714"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5113144,
+        47.2650498
+      ],
+      [
+        8.5112662,
+        47.2650389
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1079035965",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "height": "2",
+    "locked": "yes",
+    "material": "metal",
+    "id": "way/1079035965"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5026425,
+        47.2757188
+      ],
+      [
+        8.5026428,
+        47.2757153
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/25427486",
   "properties": {
     "barrier": "gate",
@@ -4237,7 +4290,14 @@
   "type": "Feature",
   "id": "node/370787075",
   "properties": {
+    "access": "no",
     "barrier": "gate",
+    "foot": "yes",
+    "height": "2",
+    "locked": "yes",
+    "material": "metal",
+    "opening_hours": "Mitte September - Mitte Mai (ausserhalb Badesaison)",
+    "wheelchair": "limited",
     "id": "node/370787075"
   },
   "geometry": {
@@ -4252,7 +4312,15 @@
   "type": "Feature",
   "id": "node/371209382",
   "properties": {
+    "access": "no",
     "barrier": "gate",
+    "foot": "yes",
+    "height": "2",
+    "locked": "yes",
+    "material": "metal",
+    "opening_hours": "Mitte September - Mitte Mai (ausserhalb Badesaison)",
+    "operator": "Camping - Strandbad - Restaurant Türlersee",
+    "wheelchair": "limited",
     "id": "node/371209382"
   },
   "geometry": {
@@ -20590,6 +20658,7 @@
   "id": "node/2460297736",
   "properties": {
     "barrier": "gate",
+    "foot": "yes",
     "id": "node/2460297736"
   },
   "geometry": {
@@ -64217,6 +64286,25 @@
     "coordinates": [
       8.4997664,
       47.3599418
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9891621248",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "height": "2",
+    "locked": "yes",
+    "material": "metal",
+    "id": "node/9891621248"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5026428,
+      47.2757153
     ]
   }
 }

@@ -3572,8 +3572,8 @@
           47.3884463
         ],
         [
-          8.5430665,
-          47.3884791
+          8.54305,
+          47.3884625
         ],
         [
           8.5430704,
@@ -21258,6 +21258,28 @@
     "coordinates": [
       8.5845909,
       47.4060458
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9892352971",
+  "properties": {
+    "amenity": "school",
+    "name": "Creative Arts Project Zürich",
+    "operator": "Ariane und Brigitte",
+    "operator:type": "private",
+    "phone": "+41774250018",
+    "school": "art",
+    "short_name": "CAP Zürich",
+    "website": "https://capzh.ch/",
+    "id": "node/9892352971"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5360773,
+      47.3876643
     ]
   }
 }

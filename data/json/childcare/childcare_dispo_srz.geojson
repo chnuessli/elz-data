@@ -11309,6 +11309,24 @@
       47.333738
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9892386988",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Krippe Schiguna Kronenwiese",
+    "phone": "+41 445108470",
+    "website": "http://www.schiguna.ch/",
+    "id": "node/9892386988"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5365667,
+      47.3876822
+    ]
+  }
 }
 ]
 }
