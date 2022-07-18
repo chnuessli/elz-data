@@ -5587,12 +5587,9 @@
     "amenity": "school",
     "contact:city": "Oberarth",
     "contact:housenumber": "71",
-    "contact:phone": "*",
     "contact:postcode": "6414",
     "contact:street": "Gotthardstrasse",
-    "contact:website": "*",
     "name": "Schul- und Sportzentrum Oberarth",
-    "operator": "*",
     "id": "way/996655534"
   },
   "geometry": {
