@@ -89378,6 +89378,8 @@
   "id": "way/1078950785",
   "properties": {
     "amenity": "school",
+    "name": "Schule Flaachtal",
+    "website": "https://www.schuleflaachtal.ch/",
     "id": "way/1078950785"
   },
   "geometry": {
