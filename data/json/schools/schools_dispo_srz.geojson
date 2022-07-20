@@ -106478,6 +106478,43 @@
 },
 {
   "type": "Feature",
+  "id": "way/1079698647",
+  "properties": {
+    "amenity": "school",
+    "grades": "0",
+    "name": "Kindergarten Haldenstrasse",
+    "id": "way/1079698647"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.64304,
+          47.6920469
+        ],
+        [
+          8.6428654,
+          47.6918161
+        ],
+        [
+          8.6432291,
+          47.6916852
+        ],
+        [
+          8.6434082,
+          47.6919172
+        ],
+        [
+          8.64304,
+          47.6920469
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/122507552",
   "properties": {
     "amenity": "school",

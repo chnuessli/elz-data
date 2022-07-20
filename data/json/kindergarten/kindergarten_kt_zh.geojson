@@ -12116,63 +12116,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/151378735",
-  "properties": {
-    "addr:city": "Feuerthalen",
-    "addr:housenumber": "7",
-    "addr:postcode": "8245",
-    "addr:street": "Haldenstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Halde",
-    "id": "way/151378735"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6430247,
-          47.6918275
-        ],
-        [
-          8.6430931,
-          47.6918028
-        ],
-        [
-          8.6431337,
-          47.6918536
-        ],
-        [
-          8.6432661,
-          47.6918056
-        ],
-        [
-          8.6433142,
-          47.6918658
-        ],
-        [
-          8.6431811,
-          47.691914
-        ],
-        [
-          8.6431844,
-          47.6919181
-        ],
-        [
-          8.6431167,
-          47.6919427
-        ],
-        [
-          8.6430247,
-          47.6918275
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/151768248",
   "properties": {
     "addr:housenumber": "16/18",
