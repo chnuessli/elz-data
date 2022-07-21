@@ -3474,6 +3474,10 @@
           47.3218401
         ],
         [
+          8.7993908,
+          47.3218105
+        ],
+        [
           8.7995529,
           47.3216945
         ],
@@ -45672,6 +45676,124 @@
 },
 {
   "type": "Feature",
+  "id": "way/1079925854",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "145",
+    "addr:postcode": "8032",
+    "addr:street": "Minervastrasse",
+    "amenity": "clinic",
+    "building": "yes",
+    "name": "Alterspsychiatrie Gerontopsychiatrisches Zentrum Hegibach",
+    "id": "way/1079925854"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5603408,
+          47.3630248
+        ],
+        [
+          8.5603156,
+          47.3630115
+        ],
+        [
+          8.5602233,
+          47.3629533
+        ],
+        [
+          8.56025,
+          47.3629299
+        ],
+        [
+          8.5602435,
+          47.3629259
+        ],
+        [
+          8.5602712,
+          47.3629047
+        ],
+        [
+          8.5602369,
+          47.3628844
+        ],
+        [
+          8.5602656,
+          47.362863
+        ],
+        [
+          8.5602618,
+          47.3628606
+        ],
+        [
+          8.5602832,
+          47.3628451
+        ],
+        [
+          8.5603072,
+          47.3628267
+        ],
+        [
+          8.5603101,
+          47.3628285
+        ],
+        [
+          8.5603387,
+          47.3628081
+        ],
+        [
+          8.5603727,
+          47.3628274
+        ],
+        [
+          8.5603992,
+          47.3628066
+        ],
+        [
+          8.5605336,
+          47.3628884
+        ],
+        [
+          8.5604827,
+          47.3629274
+        ],
+        [
+          8.5604898,
+          47.362931
+        ],
+        [
+          8.5604353,
+          47.362972
+        ],
+        [
+          8.5604286,
+          47.3629682
+        ],
+        [
+          8.5603785,
+          47.3630067
+        ],
+        [
+          8.5603737,
+          47.3630042
+        ],
+        [
+          8.5603449,
+          47.363027
+        ],
+        [
+          8.5603408,
+          47.3630248
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/199578656",
   "properties": {
     "id": "way/199578656"
@@ -50759,30 +50881,6 @@
     "coordinates": [
       7.3652106,
       47.1822209
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9370263636",
-  "properties": {
-    "addr:city": "Le Châble",
-    "addr:postcode": "1934",
-    "addr:street": "Curala",
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "healthcare:speciality": "covid19",
-    "name": "Centre de dépistage COVID-19 (Test rapide+PCR)",
-    "safety:hand_sanitizer:covid19": "yes",
-    "safety:mask:covid19": "yes",
-    "website": "https://www.onedoc.ch/fr/centre-de-depistage-covid/le-chable/pccyw/curala-chable",
-    "id": "node/9370263636"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.2144518,
-      46.0783771
     ]
   }
 },

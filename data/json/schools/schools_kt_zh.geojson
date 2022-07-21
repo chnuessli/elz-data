@@ -533,6 +533,92 @@
 },
 {
   "type": "Feature",
+  "id": "relation/7146398",
+  "properties": {
+    "addr:city": "Kollbrunn",
+    "addr:housenumber": "4",
+    "addr:postcode": "8483",
+    "addr:street": "Dorfstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Kollbrunn",
+    "type": "multipolygon",
+    "id": "relation/7146398"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7734064,
+          47.4573465
+        ],
+        [
+          8.7735594,
+          47.4573176
+        ],
+        [
+          8.7738068,
+          47.4572634
+        ],
+        [
+          8.7738163,
+          47.4572813
+        ],
+        [
+          8.7741188,
+          47.4572078
+        ],
+        [
+          8.774132,
+          47.4572341
+        ],
+        [
+          8.7740718,
+          47.4572492
+        ],
+        [
+          8.7741017,
+          47.4573052
+        ],
+        [
+          8.7737773,
+          47.4573828
+        ],
+        [
+          8.7737714,
+          47.4573705
+        ],
+        [
+          8.7734967,
+          47.4574274
+        ],
+        [
+          8.7735027,
+          47.4574496
+        ],
+        [
+          8.773357,
+          47.4574761
+        ],
+        [
+          8.7733027,
+          47.4573723
+        ],
+        [
+          8.7734083,
+          47.4573528
+        ],
+        [
+          8.7734064,
+          47.4573465
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "relation/8329798",
   "properties": {
     "amenity": "school",
@@ -27119,6 +27205,111 @@
 },
 {
   "type": "Feature",
+  "id": "way/99057171",
+  "properties": {
+    "addr:city": "Kilchberg",
+    "addr:housenumber": "41",
+    "addr:postcode": "8802",
+    "addr:street": "Dorfstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Dorf",
+    "id": "way/99057171"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5471689,
+          47.3225932
+        ],
+        [
+          8.5469844,
+          47.3225952
+        ],
+        [
+          8.5469822,
+          47.322502
+        ],
+        [
+          8.5469792,
+          47.322502
+        ],
+        [
+          8.5469787,
+          47.322479
+        ],
+        [
+          8.5469351,
+          47.3224795
+        ],
+        [
+          8.5469358,
+          47.3225069
+        ],
+        [
+          8.5468564,
+          47.3225078
+        ],
+        [
+          8.5468544,
+          47.3224205
+        ],
+        [
+          8.5469337,
+          47.3224196
+        ],
+        [
+          8.5469343,
+          47.3224473
+        ],
+        [
+          8.5469779,
+          47.3224468
+        ],
+        [
+          8.5469774,
+          47.322424
+        ],
+        [
+          8.5469803,
+          47.322424
+        ],
+        [
+          8.5469781,
+          47.3223299
+        ],
+        [
+          8.5471627,
+          47.3223279
+        ],
+        [
+          8.5471649,
+          47.3224206
+        ],
+        [
+          8.5471748,
+          47.3224205
+        ],
+        [
+          8.5471767,
+          47.3225007
+        ],
+        [
+          8.5471667,
+          47.3225008
+        ],
+        [
+          8.5471689,
+          47.3225932
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/99144653",
   "properties": {
     "addr:city": "Gossau (ZH)",
@@ -27392,6 +27583,206 @@
         [
           8.7669098,
           47.3002512
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/99241841",
+  "properties": {
+    "addr:city": "Kilchberg ZH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8802",
+    "addr:street": "Brunnenmoosstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Brunnenmoos A",
+    "source": "bing sat",
+    "id": "way/99241841"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.54378,
+          47.319954
+        ],
+        [
+          8.543848,
+          47.3198289
+        ],
+        [
+          8.5442462,
+          47.3199283
+        ],
+        [
+          8.5441782,
+          47.3200535
+        ],
+        [
+          8.54378,
+          47.319954
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/99241859",
+  "properties": {
+    "addr:city": "Kilchberg ZH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8802",
+    "addr:street": "Brunnenmoosstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Brunnenmoos C",
+    "source": "bing sat",
+    "id": "way/99241859"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5445177,
+          47.3195326
+        ],
+        [
+          8.5445997,
+          47.3194082
+        ],
+        [
+          8.5450568,
+          47.3195467
+        ],
+        [
+          8.5449772,
+          47.3196674
+        ],
+        [
+          8.5448859,
+          47.3196397
+        ],
+        [
+          8.5448391,
+          47.3197106
+        ],
+        [
+          8.5446406,
+          47.3196505
+        ],
+        [
+          8.5446849,
+          47.3195832
+        ],
+        [
+          8.5445177,
+          47.3195326
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/99241864",
+  "properties": {
+    "addr:city": "Kilchberg ZH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8802",
+    "addr:street": "Brunnenmoosstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Brunnenmoos B",
+    "source": "bing sat",
+    "id": "way/99241864"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5444592,
+          47.320015
+        ],
+        [
+          8.5445544,
+          47.3199076
+        ],
+        [
+          8.5451149,
+          47.3201357
+        ],
+        [
+          8.5450197,
+          47.3202431
+        ],
+        [
+          8.5444592,
+          47.320015
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/99241891",
+  "properties": {
+    "addr:city": "Kilchberg ZH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8802",
+    "addr:street": "Brunnenmoosstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Brunnenmoos Turnhalle",
+    "source": "bing sat",
+    "id": "way/99241891"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5439557,
+          47.3194934
+        ],
+        [
+          8.543973,
+          47.3194349
+        ],
+        [
+          8.5440217,
+          47.3194415
+        ],
+        [
+          8.5440629,
+          47.3193017
+        ],
+        [
+          8.5444416,
+          47.319353
+        ],
+        [
+          8.5444172,
+          47.3194359
+        ],
+        [
+          8.5445326,
+          47.3194515
+        ],
+        [
+          8.5444986,
+          47.3195669
+        ],
+        [
+          8.5439557,
+          47.3194934
         ]
       ]
     ]
@@ -60912,8 +61303,16 @@
           47.3194567
         ],
         [
+          8.7953234,
+          47.3195031
+        ],
+        [
           8.7953024,
           47.3195361
+        ],
+        [
+          8.7951578,
+          47.3194799
         ],
         [
           8.7950667,
@@ -64273,6 +64672,7 @@
     "addr:street": "Tömlimatt",
     "amenity": "school",
     "building": "school",
+    "name": "Schulhaus Tömlimatt",
     "id": "way/307963414"
   },
   "geometry": {
@@ -64354,6 +64754,169 @@
         [
           8.5311699,
           47.2276278
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308295226",
+  "properties": {
+    "addr:city": "Knonau",
+    "addr:housenumber": "2",
+    "addr:postcode": "8934",
+    "addr:street": "Stampfistrasse",
+    "amenity": "school",
+    "building": "kindergarten",
+    "loc_name": "Altes Schulhaus",
+    "name": "Schulhaus Dorf",
+    "id": "way/308295226"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4607859,
+          47.2234769
+        ],
+        [
+          8.4607942,
+          47.2234629
+        ],
+        [
+          8.4606963,
+          47.2234361
+        ],
+        [
+          8.4607633,
+          47.2233233
+        ],
+        [
+          8.4608608,
+          47.22335
+        ],
+        [
+          8.4608534,
+          47.2233625
+        ],
+        [
+          8.4610399,
+          47.2234135
+        ],
+        [
+          8.460972,
+          47.2235279
+        ],
+        [
+          8.4607859,
+          47.2234769
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308296682",
+  "properties": {
+    "addr:city": "Knonau",
+    "addr:housenumber": "16",
+    "addr:postcode": "8934",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Aeschrain",
+    "id": "way/308296682"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4623018,
+          47.2204902
+        ],
+        [
+          8.4626832,
+          47.2200237
+        ],
+        [
+          8.462628,
+          47.2200131
+        ],
+        [
+          8.462709,
+          47.2198187
+        ],
+        [
+          8.4626797,
+          47.2198138
+        ],
+        [
+          8.462718,
+          47.2197232
+        ],
+        [
+          8.462873,
+          47.2197527
+        ],
+        [
+          8.4628374,
+          47.2198395
+        ],
+        [
+          8.4628576,
+          47.2198433
+        ],
+        [
+          8.4627695,
+          47.2200647
+        ],
+        [
+          8.4629324,
+          47.2201264
+        ],
+        [
+          8.4629538,
+          47.220101
+        ],
+        [
+          8.4634022,
+          47.2202703
+        ],
+        [
+          8.4634238,
+          47.2202434
+        ],
+        [
+          8.4636726,
+          47.2203381
+        ],
+        [
+          8.4635954,
+          47.220432
+        ],
+        [
+          8.4633571,
+          47.2203416
+        ],
+        [
+          8.4633416,
+          47.2203624
+        ],
+        [
+          8.4627611,
+          47.2201433
+        ],
+        [
+          8.4624366,
+          47.2205415
+        ],
+        [
+          8.4623018,
+          47.2204902
         ]
       ]
     ]
@@ -68421,7 +68984,7 @@
   "id": "way/378153403",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Dorfstrasse",
+    "name": "Schule Dorfstrasse",
     "id": "way/378153403"
   },
   "geometry": {
@@ -69042,6 +69605,104 @@
         [
           8.5614025,
           47.2915091
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/381772852",
+  "properties": {
+    "addr:housenumber": "120",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "school",
+    "building": "school",
+    "building:levels": "3",
+    "name": "Schulhaus Alte Landstrasse",
+    "roof:levels": "1",
+    "roof:shape": "pyramidal",
+    "id": "way/381772852"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5448229,
+          47.3238194
+        ],
+        [
+          8.5448241,
+          47.3235911
+        ],
+        [
+          8.5451011,
+          47.3235918
+        ],
+        [
+          8.5450988,
+          47.3236746
+        ],
+        [
+          8.5451056,
+          47.3236746
+        ],
+        [
+          8.5451055,
+          47.3236811
+        ],
+        [
+          8.5451004,
+          47.3236811
+        ],
+        [
+          8.5451,
+          47.323737
+        ],
+        [
+          8.5451031,
+          47.323737
+        ],
+        [
+          8.5451031,
+          47.3237433
+        ],
+        [
+          8.5450949,
+          47.3237433
+        ],
+        [
+          8.5450945,
+          47.3238228
+        ],
+        [
+          8.5449755,
+          47.3238225
+        ],
+        [
+          8.5449755,
+          47.3238295
+        ],
+        [
+          8.5449614,
+          47.3238295
+        ],
+        [
+          8.5449061,
+          47.3238293
+        ],
+        [
+          8.5449062,
+          47.3238227
+        ],
+        [
+          8.5449062,
+          47.3238196
+        ],
+        [
+          8.5448229,
+          47.3238194
         ]
       ]
     ]
@@ -91688,86 +92349,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7938111635",
-  "properties": {
-    "addr:city": "Kilchberg ZH",
-    "addr:housenumber": "15",
-    "addr:postcode": "8802",
-    "addr:street": "Brunnenmoosstrasse",
-    "amenity": "school",
-    "name": "Brunnenmoos A",
-    "id": "node/7938111635"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5439691,
-      47.3199305
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7938111636",
-  "properties": {
-    "addr:city": "Kilchberg ZH",
-    "addr:housenumber": "15",
-    "addr:postcode": "8802",
-    "addr:street": "Brunnenmoosstrasse",
-    "amenity": "school",
-    "name": "Brunnenmoos B",
-    "id": "node/7938111636"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5447962,
-      47.3200724
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7938124314",
-  "properties": {
-    "addr:city": "Kilchberg ZH",
-    "addr:housenumber": "15",
-    "addr:postcode": "8802",
-    "addr:street": "Brunnenmoosstrasse",
-    "amenity": "school",
-    "name": "Brunnenmoos C",
-    "id": "node/7938124314"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5447803,
-      47.3195427
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7938124315",
-  "properties": {
-    "addr:city": "Kilchberg ZH",
-    "addr:housenumber": "15",
-    "addr:postcode": "8802",
-    "addr:street": "Brunnenmoosstrasse",
-    "amenity": "school",
-    "name": "Brunnenmoos Turnhalle",
-    "id": "node/7938124315"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5442492,
-      47.3194136
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8233931920",
   "properties": {
     "amenity": "school",
@@ -94087,6 +94668,26 @@
     "coordinates": [
       8.5360773,
       47.3876643
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9899510313",
+  "properties": {
+    "addr:city": "Kollbrunn",
+    "addr:housenumber": "52",
+    "addr:postcode": "8483",
+    "addr:street": "Tösstalstrasse",
+    "amenity": "school",
+    "name": "Privatschule Neue Lernwelt",
+    "id": "node/9899510313"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7782898,
+      47.4551623
     ]
   }
 }

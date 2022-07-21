@@ -2861,6 +2861,96 @@
 },
 {
   "type": "Feature",
+  "id": "way/38564582",
+  "properties": {
+    "addr:city": "Illnau",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8308",
+    "addr:street": "Bachtelstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Chelleracher",
+    "id": "way/38564582"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7293075,
+          47.4072532
+        ],
+        [
+          8.7294113,
+          47.4072813
+        ],
+        [
+          8.7293771,
+          47.4073391
+        ],
+        [
+          8.7293558,
+          47.4073334
+        ],
+        [
+          8.7293364,
+          47.4073664
+        ],
+        [
+          8.729302,
+          47.4073571
+        ],
+        [
+          8.7292671,
+          47.4074161
+        ],
+        [
+          8.7292414,
+          47.4074092
+        ],
+        [
+          8.7292232,
+          47.4074401
+        ],
+        [
+          8.7291094,
+          47.4074094
+        ],
+        [
+          8.7291336,
+          47.4073683
+        ],
+        [
+          8.7291619,
+          47.4073759
+        ],
+        [
+          8.7291944,
+          47.4073209
+        ],
+        [
+          8.729226,
+          47.4073295
+        ],
+        [
+          8.7292456,
+          47.4072962
+        ],
+        [
+          8.7292771,
+          47.4073047
+        ],
+        [
+          8.7293075,
+          47.4072532
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/39358555",
   "properties": {
     "addr:city": "Winterthur",
@@ -4767,6 +4857,66 @@
         [
           8.6636042,
           47.5261293
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48045174",
+  "properties": {
+    "addr:city": "Kleinandelfingen",
+    "addr:housenumber": "3",
+    "addr:postcode": "8451",
+    "addr:street": "Zelglistrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "name": "Kindergarten Zelgli",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
+    "id": "way/48045174"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6814102,
+          47.60058
+        ],
+        [
+          8.6813016,
+          47.6005534
+        ],
+        [
+          8.6812802,
+          47.600473
+        ],
+        [
+          8.6813434,
+          47.6003492
+        ],
+        [
+          8.6814352,
+          47.6002961
+        ],
+        [
+          8.6815486,
+          47.600325
+        ],
+        [
+          8.6815664,
+          47.600399
+        ],
+        [
+          8.6815068,
+          47.6005245
+        ],
+        [
+          8.6814102,
+          47.60058
         ]
       ]
     ]
@@ -8923,6 +9073,63 @@
         [
           8.7022787,
           47.2061724
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/101766397",
+  "properties": {
+    "addr:city": "Kollbrunn",
+    "addr:housenumber": "5",
+    "addr:postcode": "8483",
+    "addr:street": "Dorfstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Dorfstrasse",
+    "id": "way/101766397"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7747855,
+          47.4570812
+        ],
+        [
+          8.7748333,
+          47.4571674
+        ],
+        [
+          8.7748041,
+          47.4571748
+        ],
+        [
+          8.7748349,
+          47.4572303
+        ],
+        [
+          8.7747199,
+          47.4572594
+        ],
+        [
+          8.7746891,
+          47.4572039
+        ],
+        [
+          8.7746709,
+          47.4572085
+        ],
+        [
+          8.7746231,
+          47.4571223
+        ],
+        [
+          8.7747855,
+          47.4570812
         ]
       ]
     ]
@@ -26303,6 +26510,47 @@
         [
           8.5275653,
           47.3380754
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/475697077",
+  "properties": {
+    "addr:city": "Kollbrunn",
+    "addr:housenumber": "1",
+    "addr:postcode": "8483",
+    "addr:street": "Kirchstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Kirchstrasse",
+    "id": "way/475697077"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7748381,
+          47.4569593
+        ],
+        [
+          8.7751336,
+          47.4568844
+        ],
+        [
+          8.7751902,
+          47.4569865
+        ],
+        [
+          8.7748946,
+          47.4570614
+        ],
+        [
+          8.7748381,
+          47.4569593
         ]
       ]
     ]
@@ -43777,6 +44025,106 @@
     "coordinates": [
       8.5115254,
       47.5070363
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9899272305",
+  "properties": {
+    "addr:city": "Kilchberg",
+    "addr:housenumber": "33",
+    "addr:postcode": "8802",
+    "addr:street": "Bächlerstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Bächler",
+    "id": "node/9899272305"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5399746,
+      47.32896
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9899296441",
+  "properties": {
+    "addr:city": "Kilchberg",
+    "addr:housenumber": "3",
+    "addr:postcode": "8802",
+    "addr:street": "Paradiesstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Paradies",
+    "id": "node/9899296441"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.546476,
+      47.3289559
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9899307001",
+  "properties": {
+    "addr:city": "Kilchberg",
+    "addr:housenumber": "160",
+    "addr:postcode": "8802",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Schellergut 1+2",
+    "id": "node/9899307001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5455781,
+      47.3200311
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9899330509",
+  "properties": {
+    "addr:city": "Kilchberg",
+    "addr:housenumber": "33",
+    "addr:postcode": "8802",
+    "addr:street": "Pilgerweg",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Schooren 1",
+    "id": "node/9899330509"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.550675,
+      47.3193739
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9899347020",
+  "properties": {
+    "addr:city": "Kilchberg",
+    "addr:housenumber": "75",
+    "addr:postcode": "8802",
+    "addr:street": "Stockenstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Stocken",
+    "id": "node/9899347020"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5405611,
+      47.3248258
     ]
   }
 }
