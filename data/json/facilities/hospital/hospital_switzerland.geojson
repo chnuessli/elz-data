@@ -9418,8 +9418,8 @@
           47.057825
         ],
         [
-          8.3262608,
-          47.0578662
+          8.3262474,
+          47.0578644
         ],
         [
           8.3273145,
@@ -51533,6 +51533,32 @@
     "coordinates": [
       6.1727019,
       46.204179
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9901602630",
+  "properties": {
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "7",
+    "addr:postcode": "9000",
+    "addr:street": "Wassergasse",
+    "amenity": "clinic",
+    "email": "stgallen-einstein@medbase.ch",
+    "healthcare": "clinic",
+    "level": "2",
+    "name": "MedBase St. Gallen Einsten",
+    "opening_hours": "Mo-Th 07:30-17:30; Fr 07:30-16:00",
+    "phone": "+41 71 227 10 60",
+    "website": "www.medbase.ch",
+    "id": "node/9901602630"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3744211,
+      47.4214584
     ]
   }
 }
