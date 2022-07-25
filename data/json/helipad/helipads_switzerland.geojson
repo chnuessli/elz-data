@@ -13096,6 +13096,52 @@
 },
 {
   "type": "Feature",
+  "id": "way/1081015702",
+  "properties": {
+    "aeroway": "helipad",
+    "lit": "no",
+    "operator": "Gelmerhütte",
+    "surface": "ground",
+    "id": "way/1081015702"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.3428532,
+          46.6313973
+        ],
+        [
+          8.3428545,
+          46.6314549
+        ],
+        [
+          8.3428499,
+          46.6314636
+        ],
+        [
+          8.3428232,
+          46.6314751
+        ],
+        [
+          8.3427633,
+          46.6314668
+        ],
+        [
+          8.34277,
+          46.6313941
+        ],
+        [
+          8.3428532,
+          46.6313973
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/35211724",
   "properties": {
     "aeroway": "helipad",
