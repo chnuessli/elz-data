@@ -23529,8 +23529,10 @@
   "type": "Feature",
   "id": "way/54707192",
   "properties": {
-    "addr:housenumber": "366",
-    "addr:street": "Tösstalstrasse",
+    "addr:city": "Sennhof",
+    "addr:housenumber": "2",
+    "addr:postcode": "8405",
+    "addr:street": "Hermann-Bühler-Strasse",
     "amenity": "school",
     "building": "yes",
     "name": "Kindergarten Sennhof altes Schulhaus",

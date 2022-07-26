@@ -4286,6 +4286,7 @@
     "amenity": "pharmacy",
     "branch": "Zürich Wiedikon M-Märt",
     "brand": "Achillea Apotheke",
+    "healthcare": "pharmacy",
     "level": "0",
     "name": "Drogama Apotheke Drogerie",
     "opening_hours": "Mo-Sa 08:00-20:00",

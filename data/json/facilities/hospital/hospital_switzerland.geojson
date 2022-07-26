@@ -34746,6 +34746,8 @@
     "addr:street": "Königsfelderstrasse",
     "amenity": "hospital",
     "fixme": "Gelände nur geschätzt",
+    "healthcare": "hospital",
+    "healthcare:speciality": "psychiatry",
     "loc_name": "Psychiatrie Königsfelden",
     "short_name": "PDAG",
     "website": "https://www.pdag.ch/",
