@@ -3268,6 +3268,47 @@
 },
 {
   "type": "Feature",
+  "id": "way/41729640",
+  "properties": {
+    "addr:city": "Langnau a.A.",
+    "addr:housenumber": "5",
+    "addr:postcode": "8135",
+    "addr:street": "Breitwiesstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Vita",
+    "id": "way/41729640"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.537609,
+          47.293682
+        ],
+        [
+          8.5375994,
+          47.2935511
+        ],
+        [
+          8.5377931,
+          47.293545
+        ],
+        [
+          8.5377999,
+          47.2936752
+        ],
+        [
+          8.537609,
+          47.293682
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/41949795",
   "properties": {
     "addr:city": "Zürich",
@@ -4922,7 +4963,7 @@
   "id": "way/45897831",
   "properties": {
     "addr:city": "Kloten",
-    "addr:housenumber": "17,19",
+    "addr:housenumber": "17",
     "addr:postcode": "8302",
     "addr:street": "Obstgartenstrasse",
     "amenity": "kindergarten",
@@ -6267,48 +6308,169 @@
     "coordinates": [
       [
         [
-          8.5811208,
-          47.3164251
+          8.5811076,
+          47.3164141
         ],
         [
-          8.5811011,
-          47.3164201
+          8.5811026,
+          47.3164131
         ],
         [
-          8.5811667,
-          47.3162948
+          8.5811576,
+          47.3163044
         ],
         [
-          8.5814364,
-          47.3163584
+          8.5814143,
+          47.3163662
         ],
         [
-          8.581371,
-          47.3164833
+          8.5813592,
+          47.3164739
         ],
         [
-          8.5813578,
-          47.316482
+          8.5813402,
+          47.3164693
         ],
         [
-          8.5813415,
-          47.3165128
+          8.5813215,
+          47.3165048
         ],
         [
-          8.5811876,
-          47.3164758
+          8.5811888,
+          47.3164735
         ],
         [
-          8.581201,
-          47.3164435
+          8.5812074,
+          47.3164378
         ],
         [
-          8.5811601,
-          47.3164337
+          8.5811592,
+          47.3164261
         ],
         [
-          8.5811208,
-          47.3164251
+          8.5811076,
+          47.3164141
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/67600227",
+  "properties": {
+    "addr:city": "Küsnacht",
+    "addr:country": "CH",
+    "addr:housenumber": "45a",
+    "addr:postcode": "8700",
+    "addr:street": "Bühlstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Goldbach",
+    "id": "way/67600227"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5780259,
+          47.3271696
+        ],
+        [
+          8.5778316,
+          47.3271174
+        ],
+        [
+          8.577964,
+          47.3268934
+        ],
+        [
+          8.5781575,
+          47.3269459
+        ],
+        [
+          8.5781465,
+          47.3269648
+        ],
+        [
+          8.5781928,
+          47.3269781
+        ],
+        [
+          8.5781591,
+          47.3270361
+        ],
+        [
+          8.5781115,
+          47.3270232
+        ],
+        [
+          8.5780259,
+          47.3271696
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/67984045",
+  "properties": {
+    "addr:city": "Küsnacht",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "8700",
+    "addr:street": "Mittelfeldstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "layer": "-1",
+    "name": "Kindergarten Heslibach",
+    "id": "way/67984045"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5870811,
+          47.3123295
+        ],
+        [
+          8.5871049,
+          47.312263
+        ],
+        [
+          8.5870531,
+          47.3122549
+        ],
+        [
+          8.5871333,
+          47.3119565
+        ],
+        [
+          8.5871954,
+          47.3119651
+        ],
+        [
+          8.5871572,
+          47.3120959
+        ],
+        [
+          8.5871418,
+          47.3121485
+        ],
+        [
+          8.5875161,
+          47.3121984
+        ],
+        [
+          8.5874624,
+          47.3123757
+        ],
+        [
+          8.5870811,
+          47.3123295
         ]
       ]
     ]
@@ -7942,6 +8104,80 @@
 },
 {
   "type": "Feature",
+  "id": "way/92470264",
+  "properties": {
+    "addr:city": "Langnau am ALbis",
+    "addr:housenumber": "4",
+    "addr:postcode": "8135",
+    "addr:street": "Widmerstrasse",
+    "amenity": "kindergarten",
+    "building": "school",
+    "name": "Kindergarten Im Widmer 1+2",
+    "source": "bing",
+    "id": "way/92470264"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5405382,
+          47.2897464
+        ],
+        [
+          8.5405845,
+          47.2896813
+        ],
+        [
+          8.5407545,
+          47.2897374
+        ],
+        [
+          8.5408248,
+          47.2896405
+        ],
+        [
+          8.5407691,
+          47.2896227
+        ],
+        [
+          8.540815,
+          47.2895576
+        ],
+        [
+          8.5409755,
+          47.2896113
+        ],
+        [
+          8.5409305,
+          47.2896751
+        ],
+        [
+          8.5408736,
+          47.2896564
+        ],
+        [
+          8.5407425,
+          47.2898383
+        ],
+        [
+          8.5406757,
+          47.289815
+        ],
+        [
+          8.5406893,
+          47.2897962
+        ],
+        [
+          8.5405382,
+          47.2897464
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/92752897",
   "properties": {
     "addr:city": "Langnau am Albis",
@@ -7949,7 +8185,7 @@
     "addr:postcode": "8135",
     "addr:street": "Alte Dorfstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Schloss",
     "phone": "+41 44 713 29 60",
     "id": "way/92752897"
@@ -8055,6 +8291,64 @@
 },
 {
   "type": "Feature",
+  "id": "way/92926123",
+  "properties": {
+    "addr:city": "Langnau a.A.",
+    "addr:housename": "Altes Schulhaus",
+    "addr:housenumber": "2",
+    "addr:postcode": "8135",
+    "addr:street": "Wolfgrabenstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Wolfgraben 4",
+    "id": "way/92926123"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5332996,
+          47.2869373
+        ],
+        [
+          8.5333642,
+          47.2868475
+        ],
+        [
+          8.5336219,
+          47.2869328
+        ],
+        [
+          8.5335573,
+          47.2870226
+        ],
+        [
+          8.5334663,
+          47.2869925
+        ],
+        [
+          8.5334518,
+          47.2870127
+        ],
+        [
+          8.5333996,
+          47.2869955
+        ],
+        [
+          8.5334141,
+          47.2869752
+        ],
+        [
+          8.5332996,
+          47.2869373
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/93079082",
   "properties": {
     "addr:city": "Zürich",
@@ -8121,6 +8415,120 @@
         [
           8.5307493,
           47.3600538
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/93091502",
+  "properties": {
+    "addr:city": "Langnau am ALbis",
+    "addr:housenumber": "2",
+    "addr:postcode": "8135",
+    "addr:street": "Eggwiesweg",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "name": "Kindergarten Eggwies 1+2",
+    "source": "bing",
+    "id": "way/93091502"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5343922,
+          47.2851705
+        ],
+        [
+          8.5344157,
+          47.2851247
+        ],
+        [
+          8.534439,
+          47.2851303
+        ],
+        [
+          8.5344668,
+          47.285078
+        ],
+        [
+          8.5345739,
+          47.2851038
+        ],
+        [
+          8.5345562,
+          47.2851373
+        ],
+        [
+          8.5345795,
+          47.2851435
+        ],
+        [
+          8.5345773,
+          47.2851506
+        ],
+        [
+          8.5345984,
+          47.2851559
+        ],
+        [
+          8.534602,
+          47.2851486
+        ],
+        [
+          8.5346264,
+          47.2851542
+        ],
+        [
+          8.5346732,
+          47.2850686
+        ],
+        [
+          8.534778,
+          47.2850935
+        ],
+        [
+          8.53475,
+          47.2851467
+        ],
+        [
+          8.534774,
+          47.2851535
+        ],
+        [
+          8.5347493,
+          47.2851982
+        ],
+        [
+          8.5346579,
+          47.2851759
+        ],
+        [
+          8.5346149,
+          47.2852546
+        ],
+        [
+          8.5345551,
+          47.2852402
+        ],
+        [
+          8.534551,
+          47.2852501
+        ],
+        [
+          8.5344654,
+          47.285229
+        ],
+        [
+          8.5344848,
+          47.2851929
+        ],
+        [
+          8.5343922,
+          47.2851705
         ]
       ]
     ]
@@ -12069,39 +12477,49 @@
 },
 {
   "type": "Feature",
-  "id": "way/143989748",
+  "id": "way/143989747",
   "properties": {
+    "addr:city": "Küsnacht",
+    "addr:country": "CH",
+    "addr:housenumber": "21",
+    "addr:postcode": "8700",
+    "addr:street": "Im Dörfli",
     "amenity": "kindergarten",
+    "building": "kindergarten",
     "name": "Kindergarten Dörfli",
-    "id": "way/143989748"
+    "id": "way/143989747"
   },
   "geometry": {
     "type": "Polygon",
     "coordinates": [
       [
         [
-          8.6021077,
-          47.3260018
+          8.6019797,
+          47.3259009
         ],
         [
-          8.6017993,
-          47.3258237
+          8.6020359,
+          47.3258474
         ],
         [
-          8.6018475,
-          47.3257055
+          8.6020283,
+          47.3258441
         ],
         [
-          8.6023867,
-          47.3256909
+          8.6021143,
+          47.3257611
         ],
         [
-          8.6023652,
-          47.3257691
+          8.602231,
+          47.3258169
         ],
         [
-          8.6021077,
-          47.3260018
+          8.6020915,
+          47.3259537
+        ],
+        [
+          8.6019797,
+          47.3259009
         ]
       ]
     ]
@@ -12109,43 +12527,73 @@
 },
 {
   "type": "Feature",
-  "id": "way/143990800",
+  "id": "way/143990801",
   "properties": {
+    "addr:city": "Küsnacht",
+    "addr:country": "CH",
+    "addr:housenumber": "50",
+    "addr:postcode": "8700",
+    "addr:street": "Sonnenrain",
     "amenity": "kindergarten",
-    "name": "Kindergarten Bettlen",
-    "id": "way/143990800"
+    "building": "kindergarten",
+    "name": "Kindergarten Bettlen 1+2",
+    "id": "way/143990801"
   },
   "geometry": {
     "type": "Polygon",
     "coordinates": [
       [
         [
-          8.6044651,
-          47.3263111
+          8.6042533,
+          47.3261755
         ],
         [
-          8.6038616,
-          47.3262548
+          8.6042578,
+          47.326151
         ],
         [
-          8.6038723,
-          47.3261502
+          8.6043644,
+          47.32616
         ],
         [
-          8.6040681,
-          47.3259803
+          8.6043554,
+          47.3262089
         ],
         [
-          8.6042733,
-          47.3260366
+          8.6043871,
+          47.3262116
         ],
         [
-          8.6045174,
-          47.3260557
+          8.6043707,
+          47.3263009
         ],
         [
-          8.6044651,
-          47.3263111
+          8.6040421,
+          47.3262731
+        ],
+        [
+          8.6040631,
+          47.326159
+        ],
+        [
+          8.6040963,
+          47.3261618
+        ],
+        [
+          8.6041054,
+          47.3261128
+        ],
+        [
+          8.604211,
+          47.3261217
+        ],
+        [
+          8.6042019,
+          47.3261712
+        ],
+        [
+          8.6042533,
+          47.3261755
         ]
       ]
     ]
@@ -13520,13 +13968,15 @@
   "type": "Feature",
   "id": "way/158656857",
   "properties": {
+    "addr:city": "Kloten",
     "addr:housenumber": "33",
+    "addr:postcode": "8302",
     "addr:street": "Lochäckerstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
-    "building:roof:shape": "flat",
+    "building": "kindergarten",
     "isced:level": "0",
     "name": "Kindergarten Reutlen A+B",
+    "roof:shape": "flat",
     "source": "bing",
     "id": "way/158656857"
   },
@@ -13535,48 +13985,48 @@
     "coordinates": [
       [
         [
-          8.5914954,
-          47.4443364
+          8.5914891,
+          47.4443461
         ],
         [
-          8.591598,
-          47.4442998
+          8.5915962,
+          47.4443072
         ],
         [
-          8.5916265,
-          47.4443363
+          8.5916245,
+          47.4443428
         ],
         [
-          8.5917676,
-          47.444286
+          8.5917634,
+          47.4442924
         ],
         [
           8.5918508,
-          47.4443927
+          47.4444025
         ],
         [
-          8.5917757,
-          47.4444195
+          8.5917706,
+          47.4444316
         ],
         [
-          8.5917918,
-          47.4444401
+          8.5917869,
+          47.4444522
         ],
         [
-          8.5917012,
-          47.4444724
+          8.5917007,
+          47.4444835
         ],
         [
-          8.5916593,
-          47.4444187
+          8.5916566,
+          47.4444279
         ],
         [
-          8.5915812,
-          47.4444465
+          8.5915769,
+          47.4444568
         ],
         [
-          8.5914954,
-          47.4443364
+          8.5914891,
+          47.4443461
         ]
       ]
     ]
@@ -17150,6 +17600,65 @@
 },
 {
   "type": "Feature",
+  "id": "way/226343663",
+  "properties": {
+    "addr:city": "Laupen ZH",
+    "addr:housenumber": "7",
+    "addr:postcode": "8637",
+    "addr:street": "Neuhausstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "name": "Kindergarten Neuhaus",
+    "operator": "Schulverwaltung Wald ZH",
+    "id": "way/226343663"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9208539,
+          47.2668526
+        ],
+        [
+          8.9208782,
+          47.2667816
+        ],
+        [
+          8.9209531,
+          47.2667932
+        ],
+        [
+          8.9209622,
+          47.2667613
+        ],
+        [
+          8.9211129,
+          47.2667852
+        ],
+        [
+          8.9210834,
+          47.2668706
+        ],
+        [
+          8.9209731,
+          47.2668535
+        ],
+        [
+          8.9209673,
+          47.2668707
+        ],
+        [
+          8.9208539,
+          47.2668526
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/226346143",
   "properties": {
     "addr:city": "Stäfa",
@@ -20520,6 +21029,65 @@
         [
           8.6118711,
           47.668557
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/296173533",
+  "properties": {
+    "addr:city": "Langwiesen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8246",
+    "addr:street": "Rheingasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Langwiesen",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no",
+    "id": "way/296173533"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6630368,
+          47.684125
+        ],
+        [
+          8.6630216,
+          47.6840261
+        ],
+        [
+          8.663201,
+          47.6840143
+        ],
+        [
+          8.6632168,
+          47.6841124
+        ],
+        [
+          8.6632132,
+          47.6841125
+        ],
+        [
+          8.6632158,
+          47.6841333
+        ],
+        [
+          8.6631588,
+          47.6841378
+        ],
+        [
+          8.6631547,
+          47.6841166
+        ],
+        [
+          8.6630368,
+          47.684125
         ]
       ]
     ]
@@ -28162,6 +28730,47 @@
 },
 {
   "type": "Feature",
+  "id": "way/950043667",
+  "properties": {
+    "addr:city": "Lindau",
+    "addr:housenumber": "80",
+    "addr:postcode": "8315",
+    "addr:street": "Fischeracherstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Lindau",
+    "id": "way/950043667"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6748749,
+          47.4421712
+        ],
+        [
+          8.6748703,
+          47.4420045
+        ],
+        [
+          8.6750107,
+          47.4420028
+        ],
+        [
+          8.6750153,
+          47.4421695
+        ],
+        [
+          8.6748749,
+          47.4421712
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/963055706",
   "properties": {
     "addr:city": "Wetzikon",
@@ -29593,6 +30202,80 @@
 },
 {
   "type": "Feature",
+  "id": "way/1081382018",
+  "properties": {
+    "addr:city": "Küsnacht",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "8700",
+    "addr:street": "Mittelfeldstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Heslibach 1+2",
+    "id": "way/1081382018"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5871776,
+          47.3119511
+        ],
+        [
+          8.5871959,
+          47.311893
+        ],
+        [
+          8.5872741,
+          47.3119041
+        ],
+        [
+          8.5872874,
+          47.3118607
+        ],
+        [
+          8.5874135,
+          47.3118789
+        ],
+        [
+          8.5874726,
+          47.3118914
+        ],
+        [
+          8.5874835,
+          47.3118723
+        ],
+        [
+          8.5876059,
+          47.3119013
+        ],
+        [
+          8.587543,
+          47.3120221
+        ],
+        [
+          8.587424,
+          47.3119939
+        ],
+        [
+          8.5874257,
+          47.31199
+        ],
+        [
+          8.5873951,
+          47.3119833
+        ],
+        [
+          8.5871776,
+          47.3119511
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
@@ -29638,23 +30321,6 @@
     "coordinates": [
       8.5174409,
       47.3978312
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/298540376",
-  "properties": {
-    "amenity": "kindergarten",
-    "created_by": "Gabmai",
-    "name": "Kindergarten",
-    "id": "node/298540376"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5346347,
-      47.2852255
     ]
   }
 },
@@ -30126,24 +30792,6 @@
     "coordinates": [
       8.5296882,
       47.3750593
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/915622198",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Langwiesen",
-    "toilets:wheelchair": "no",
-    "wheelchair": "no",
-    "id": "node/915622198"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6631856,
-      47.6840179
     ]
   }
 },
@@ -30756,6 +31404,10 @@
   "type": "Feature",
   "id": "node/1733581207",
   "properties": {
+    "addr:city": "Kloten",
+    "addr:housenumber": "28",
+    "addr:postcode": "8302",
+    "addr:street": "Kirchgasse",
     "amenity": "kindergarten",
     "name": "Kindergarten Kirchgasse",
     "id": "node/1733581207"
@@ -40089,22 +40741,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9863490347",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Goldbach 1",
-    "id": "node/9863490347"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.577934,
-      47.3270724
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9865424409",
   "properties": {
     "addr:city": "Geroldswil",
@@ -40480,6 +41116,86 @@
     "coordinates": [
       8.5753203,
       47.4467708
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9911072905",
+  "properties": {
+    "addr:city": "Kloten",
+    "addr:housenumber": "11a",
+    "addr:postcode": "8302",
+    "addr:street": "Nägelimoosstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Nägelimoos",
+    "id": "node/9911072905"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5867024,
+      47.4627878
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9911555829",
+  "properties": {
+    "addr:city": "Küsnacht",
+    "addr:housenumber": "2",
+    "addr:postcode": "8700",
+    "addr:street": "Im Hüttengraben",
+    "amenity": "kindergarten",
+    "name": "Kindertagesstätte LIFE",
+    "id": "node/9911555829"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5983838,
+      47.3155421
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9911654184",
+  "properties": {
+    "addr:city": "Küsnacht",
+    "addr:housenumber": "36",
+    "addr:postcode": "8700",
+    "addr:street": "Weinmanngasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Weinmanngasse",
+    "id": "node/9911654184"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5866022,
+      47.3188265
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9911939088",
+  "properties": {
+    "addr:city": "Lufingen",
+    "addr:housenumber": "10",
+    "addr:postcode": "8426",
+    "addr:street": "Moosbrunnenstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Moosbrunnen",
+    "id": "node/9911939088"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.593563,
+      47.4901394
     ]
   }
 }

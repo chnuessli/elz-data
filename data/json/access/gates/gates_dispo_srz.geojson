@@ -37955,8 +37955,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7891673,
-      47.0627383
+      8.7890844,
+      47.0627442
     ]
   }
 },
@@ -52673,23 +52673,6 @@
     "coordinates": [
       8.4583687,
       47.1958337
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6516722632",
-  "properties": {
-    "access": "no",
-    "barrier": "gate",
-    "description": "Construction site entrance",
-    "id": "node/6516722632"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5471662,
-      47.396294
     ]
   }
 },

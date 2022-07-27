@@ -45430,23 +45430,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6516722632",
-  "properties": {
-    "access": "no",
-    "barrier": "gate",
-    "description": "Construction site entrance",
-    "id": "node/6516722632"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5471662,
-      47.396294
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6528437698",
   "properties": {
     "barrier": "gate",
