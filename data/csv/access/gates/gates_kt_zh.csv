@@ -2854,7 +2854,6 @@ FeatureCollection,"{'type': 'Feature', 'id': 'node/6511857317', 'properties': {'
 FeatureCollection,"{'type': 'Feature', 'id': 'node/6511857319', 'properties': {'barrier': 'gate', 'id': 'node/6511857319'}, 'geometry': {'type': 'Point', 'coordinates': [8.6828861, 47.2840876]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/6511857320', 'properties': {'barrier': 'gate', 'id': 'node/6511857320'}, 'geometry': {'type': 'Point', 'coordinates': [8.6825971, 47.2849768]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/6511946489', 'properties': {'barrier': 'gate', 'id': 'node/6511946489'}, 'geometry': {'type': 'Point', 'coordinates': [8.6817548, 47.2849042]}}"
-FeatureCollection,"{'type': 'Feature', 'id': 'node/6516722632', 'properties': {'access': 'no', 'barrier': 'gate', 'description': 'Construction site entrance', 'id': 'node/6516722632'}, 'geometry': {'type': 'Point', 'coordinates': [8.5471662, 47.396294]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/6528437698', 'properties': {'barrier': 'gate', 'id': 'node/6528437698'}, 'geometry': {'type': 'Point', 'coordinates': [8.5847607, 47.4580655]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/6528437814', 'properties': {'barrier': 'lift_gate', 'id': 'node/6528437814'}, 'geometry': {'type': 'Point', 'coordinates': [8.5807244, 47.455124]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/6528705831', 'properties': {'access': 'no', 'barrier': 'lift_gate', 'bus': 'yes', 'id': 'node/6528705831'}, 'geometry': {'type': 'Point', 'coordinates': [8.5616975, 47.4699339]}}"
