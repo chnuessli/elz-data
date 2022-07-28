@@ -9739,6 +9739,88 @@
 },
 {
   "type": "Feature",
+  "id": "way/30246920",
+  "properties": {
+    "addr:city": "Meilen",
+    "addr:country": "CH",
+    "addr:housenumber": "41",
+    "addr:postcode": "8706",
+    "addr:street": "Juststrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Just",
+    "id": "way/30246920"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6546364,
+          47.2700881
+        ],
+        [
+          8.6546361,
+          47.2700521
+        ],
+        [
+          8.6545585,
+          47.270052
+        ],
+        [
+          8.65456,
+          47.2699523
+        ],
+        [
+          8.6545655,
+          47.2699523
+        ],
+        [
+          8.6545655,
+          47.2699561
+        ],
+        [
+          8.6546751,
+          47.2699566
+        ],
+        [
+          8.6546754,
+          47.2700024
+        ],
+        [
+          8.6548427,
+          47.2700027
+        ],
+        [
+          8.6548424,
+          47.269954
+        ],
+        [
+          8.6549624,
+          47.2699553
+        ],
+        [
+          8.6549625,
+          47.2700541
+        ],
+        [
+          8.6548834,
+          47.2700545
+        ],
+        [
+          8.6548827,
+          47.270089
+        ],
+        [
+          8.6546364,
+          47.2700881
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/30326282",
   "properties": {
     "amenity": "school",
@@ -10246,7 +10328,7 @@
   "id": "way/30792413",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Pünt",
+    "name": "Schule Pünt",
     "id": "way/30792413"
   },
   "geometry": {
@@ -16730,6 +16812,67 @@
 },
 {
   "type": "Feature",
+  "id": "way/37392767",
+  "properties": {
+    "addr:city": "Marthalen",
+    "addr:housenumber": "21",
+    "addr:postcode": "8460",
+    "addr:street": "Maiegass",
+    "amenity": "school",
+    "building": "school",
+    "building:levels": "3",
+    "name": "Primarschulhaus",
+    "roof:levels": "1",
+    "roof:shape": "hipped",
+    "source": "Yahoo",
+    "id": "way/37392767"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.650185,
+          47.6274503
+        ],
+        [
+          8.6503938,
+          47.6276474
+        ],
+        [
+          8.6502588,
+          47.6277123
+        ],
+        [
+          8.6501981,
+          47.627655
+        ],
+        [
+          8.6501218,
+          47.6276917
+        ],
+        [
+          8.6500334,
+          47.6276082
+        ],
+        [
+          8.6501061,
+          47.6275732
+        ],
+        [
+          8.6500466,
+          47.6275169
+        ],
+        [
+          8.650185,
+          47.6274503
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/37392962",
   "properties": {
     "amenity": "school",
@@ -19750,6 +19893,80 @@
         [
           8.5716589,
           47.5775008
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/42051073",
+  "properties": {
+    "addr:city": "Maur",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "8124",
+    "addr:street": "Zürichstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Pünt",
+    "id": "way/42051073"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6673294,
+          47.340745
+        ],
+        [
+          8.6672325,
+          47.3406914
+        ],
+        [
+          8.6671855,
+          47.3407117
+        ],
+        [
+          8.6671526,
+          47.3406616
+        ],
+        [
+          8.6671138,
+          47.3406743
+        ],
+        [
+          8.6670767,
+          47.3406864
+        ],
+        [
+          8.6670052,
+          47.3406339
+        ],
+        [
+          8.6670344,
+          47.3406262
+        ],
+        [
+          8.6670142,
+          47.3405984
+        ],
+        [
+          8.667197,
+          47.3405387
+        ],
+        [
+          8.6672595,
+          47.3406267
+        ],
+        [
+          8.6673961,
+          47.3406933
+        ],
+        [
+          8.6673294,
+          47.340745
         ]
       ]
     ]
@@ -30091,6 +30308,108 @@
 },
 {
   "type": "Feature",
+  "id": "way/93952590",
+  "properties": {
+    "addr:city": "Madetswil",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8322",
+    "addr:street": "Balmwiesenstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Madetswil",
+    "id": "way/93952590"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7865672,
+          47.4098106
+        ],
+        [
+          8.7864241,
+          47.4097581
+        ],
+        [
+          8.7865032,
+          47.4096595
+        ],
+        [
+          8.7864319,
+          47.4096334
+        ],
+        [
+          8.7864947,
+          47.4095551
+        ],
+        [
+          8.7866336,
+          47.4096061
+        ],
+        [
+          8.7866458,
+          47.4095908
+        ],
+        [
+          8.7867866,
+          47.4096425
+        ],
+        [
+          8.7868065,
+          47.4096178
+        ],
+        [
+          8.7869346,
+          47.4096648
+        ],
+        [
+          8.7868889,
+          47.4097218
+        ],
+        [
+          8.7869841,
+          47.4097567
+        ],
+        [
+          8.7869439,
+          47.4098068
+        ],
+        [
+          8.7869162,
+          47.4097967
+        ],
+        [
+          8.786878,
+          47.4098443
+        ],
+        [
+          8.7867726,
+          47.4098056
+        ],
+        [
+          8.7867831,
+          47.4097926
+        ],
+        [
+          8.7867195,
+          47.4097692
+        ],
+        [
+          8.7866275,
+          47.4097354
+        ],
+        [
+          8.7865672,
+          47.4098106
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/94753486",
   "properties": {
     "amenity": "school",
@@ -30137,6 +30456,10 @@
         [
           8.5394611,
           47.3894694
+        ],
+        [
+          8.5394512,
+          47.3892266
         ],
         [
           8.5394362,
@@ -81657,10 +81980,13 @@
   "type": "Feature",
   "id": "way/362062615",
   "properties": {
+    "addr:city": "Maschwanden",
     "addr:housenumber": "56",
+    "addr:postcode": "8933",
     "addr:street": "Dorfstrasse",
     "amenity": "school",
     "building": "school",
+    "name": "Schule am Bach",
     "id": "way/362062615"
   },
   "geometry": {
@@ -113251,6 +113577,66 @@
     "coordinates": [
       8.5825706,
       47.3178477
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9913753767",
+  "properties": {
+    "addr:city": "Männedorf",
+    "addr:housenumber": "57",
+    "addr:postcode": "8708",
+    "addr:street": "Seestrasse",
+    "amenity": "school",
+    "name": "SIS Swiss International School",
+    "id": "node/9913753767"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6822583,
+      47.2573943
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9913762620",
+  "properties": {
+    "addr:city": "Männedorf",
+    "addr:housenumber": "84",
+    "addr:postcode": "8708",
+    "addr:street": "Asylstrasse",
+    "amenity": "school",
+    "name": "Schule 3x3",
+    "id": "node/9913762620"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7029435,
+      47.2491508
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9914065124",
+  "properties": {
+    "addr:city": "Meilen",
+    "addr:housenumber": "10",
+    "addr:postcode": "8706",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "school",
+    "name": "Tagesschule Fähre",
+    "id": "node/9914065124"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6436972,
+      47.268002
     ]
   }
 }

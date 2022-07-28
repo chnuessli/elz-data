@@ -833,6 +833,95 @@
 },
 {
   "type": "Feature",
+  "id": "way/23794271",
+  "properties": {
+    "addr:city": "Männedorf",
+    "addr:housenumber": "301",
+    "addr:postcode": "8708",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten im Wiesli 1 - 5",
+    "id": "way/23794271"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6991603,
+          47.2515738
+        ],
+        [
+          8.6990603,
+          47.2514788
+        ],
+        [
+          8.6992893,
+          47.2513701
+        ],
+        [
+          8.6992776,
+          47.2513579
+        ],
+        [
+          8.6993096,
+          47.2513403
+        ],
+        [
+          8.6992851,
+          47.2513178
+        ],
+        [
+          8.6993033,
+          47.2513064
+        ],
+        [
+          8.6991387,
+          47.2511511
+        ],
+        [
+          8.6992645,
+          47.251094
+        ],
+        [
+          8.6994339,
+          47.251255
+        ],
+        [
+          8.6994015,
+          47.2512699
+        ],
+        [
+          8.6994378,
+          47.2513045
+        ],
+        [
+          8.6995302,
+          47.2512561
+        ],
+        [
+          8.6996092,
+          47.2513327
+        ],
+        [
+          8.6994564,
+          47.2514084
+        ],
+        [
+          8.69948,
+          47.251432
+        ],
+        [
+          8.6991603,
+          47.2515738
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/23794636",
   "properties": {
     "amenity": "kindergarten",
@@ -1004,6 +1093,71 @@
         [
           8.7243597,
           47.2717931
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/25918105",
+  "properties": {
+    "addr:city": "Männedorf",
+    "addr:housenumber": "24",
+    "addr:postcode": "8708",
+    "addr:street": "Ackerstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Acker",
+    "id": "way/25918105"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6871272,
+          47.2582053
+        ],
+        [
+          8.687164,
+          47.2582667
+        ],
+        [
+          8.6873104,
+          47.2582527
+        ],
+        [
+          8.6873284,
+          47.2583407
+        ],
+        [
+          8.6872742,
+          47.2583463
+        ],
+        [
+          8.6872791,
+          47.2583753
+        ],
+        [
+          8.6871233,
+          47.2583868
+        ],
+        [
+          8.6871034,
+          47.2582951
+        ],
+        [
+          8.6870761,
+          47.2583055
+        ],
+        [
+          8.6870374,
+          47.258234
+        ],
+        [
+          8.6871272,
+          47.2582053
         ]
       ]
     ]
@@ -3678,6 +3832,119 @@
 },
 {
   "type": "Feature",
+  "id": "way/42052062",
+  "properties": {
+    "addr:city": "Maur",
+    "addr:housenumber": "2",
+    "addr:postcode": "8124",
+    "addr:street": "Rainstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Maur 1, 2, 3",
+    "id": "way/42052062"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6693429,
+          47.3393034
+        ],
+        [
+          8.6693506,
+          47.3393015
+        ],
+        [
+          8.6693363,
+          47.3392751
+        ],
+        [
+          8.669423,
+          47.3392536
+        ],
+        [
+          8.6694382,
+          47.3392818
+        ],
+        [
+          8.6694833,
+          47.3392706
+        ],
+        [
+          8.6695344,
+          47.3393653
+        ],
+        [
+          8.6694553,
+          47.3393849
+        ],
+        [
+          8.6694906,
+          47.3394503
+        ],
+        [
+          8.6693361,
+          47.3394886
+        ],
+        [
+          8.6693189,
+          47.3394569
+        ],
+        [
+          8.6692465,
+          47.3394748
+        ],
+        [
+          8.6692524,
+          47.3394857
+        ],
+        [
+          8.6692136,
+          47.3394953
+        ],
+        [
+          8.6691895,
+          47.3394505
+        ],
+        [
+          8.6692242,
+          47.3394419
+        ],
+        [
+          8.6691905,
+          47.3393794
+        ],
+        [
+          8.6692337,
+          47.3393687
+        ],
+        [
+          8.6692194,
+          47.3393422
+        ],
+        [
+          8.6693101,
+          47.3393198
+        ],
+        [
+          8.6693252,
+          47.3393477
+        ],
+        [
+          8.6693619,
+          47.3393386
+        ],
+        [
+          8.6693429,
+          47.3393034
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/42158145",
   "properties": {
     "addr:city": "Zürich",
@@ -5262,6 +5529,136 @@
         [
           8.6636042,
           47.5261293
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/47997311",
+  "properties": {
+    "Schaffhauserstrasse": "28",
+    "addr:city": "Marthalen",
+    "addr:housenumber": "28",
+    "addr:postcode": "8460",
+    "addr:street": "Schaffhuserstrass",
+    "amenity": "kindergarten",
+    "building": "school",
+    "building:levels": "2",
+    "name": "Sekundarschulhaus",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
+    "source": "yahoo! Aerial imagery",
+    "id": "way/47997311"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6492,
+          47.631248
+        ],
+        [
+          8.6493382,
+          47.6310819
+        ],
+        [
+          8.6494401,
+          47.6311201
+        ],
+        [
+          8.649842,
+          47.6312726
+        ],
+        [
+          8.6498474,
+          47.6312746
+        ],
+        [
+          8.6498643,
+          47.6312534
+        ],
+        [
+          8.6498783,
+          47.6312588
+        ],
+        [
+          8.6498898,
+          47.6312635
+        ],
+        [
+          8.6498737,
+          47.6312825
+        ],
+        [
+          8.6498785,
+          47.6312843
+        ],
+        [
+          8.6499849,
+          47.6313258
+        ],
+        [
+          8.6499162,
+          47.6314094
+        ],
+        [
+          8.6494444,
+          47.6312318
+        ],
+        [
+          8.6493758,
+          47.631314
+        ],
+        [
+          8.6492,
+          47.631248
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/47997650",
+  "properties": {
+    "addr:city": "Marthalen",
+    "addr:housenumber": "6",
+    "addr:postcode": "8460",
+    "addr:street": "Schuelwegli",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "name": "Kindergarten Schuelweg",
+    "roof:levels": "2",
+    "roof:shape": "gabled",
+    "id": "way/47997650"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6488654,
+          47.6274194
+        ],
+        [
+          8.6489302,
+          47.6273077
+        ],
+        [
+          8.6492389,
+          47.6273892
+        ],
+        [
+          8.6491741,
+          47.6275008
+        ],
+        [
+          8.6488654,
+          47.6274194
         ]
       ]
     ]
@@ -8918,6 +9315,64 @@
 },
 {
   "type": "Feature",
+  "id": "way/93952523",
+  "properties": {
+    "addr:city": "Madetswil",
+    "addr:country": "CH",
+    "addr:housenumber": "3a",
+    "addr:postcode": "8322",
+    "addr:street": "Balmwiesenstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Madetswil",
+    "id": "way/93952523"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7867896,
+          47.4095258
+        ],
+        [
+          8.7868556,
+          47.4094435
+        ],
+        [
+          8.7870982,
+          47.4095326
+        ],
+        [
+          8.7870417,
+          47.4096031
+        ],
+        [
+          8.7870253,
+          47.4095971
+        ],
+        [
+          8.7869627,
+          47.4096752
+        ],
+        [
+          8.7869346,
+          47.4096648
+        ],
+        [
+          8.7869877,
+          47.4095986
+        ],
+        [
+          8.7867896,
+          47.4095258
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/95252800",
   "properties": {
     "addr:housenumber": "74",
@@ -12020,8 +12475,8 @@
     "addr:postcode": "8708",
     "addr:street": "Schuelerrain",
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Schuelerrain",
+    "building": "kindergarten",
+    "name": "Kindergarten Schuelerrain 1+2",
     "id": "way/135258331"
   },
   "geometry": {
@@ -12087,6 +12542,65 @@
         [
           8.7000394,
           47.2567511
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/135258337",
+  "properties": {
+    "addr:city": "Männedorf",
+    "addr:housenumber": "9",
+    "addr:postcode": "8708",
+    "addr:street": "Schuelerrain",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "layer": "1",
+    "name": "Kindergarten Hasenacker 1+2",
+    "id": "way/135258337"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6993345,
+          47.2563602
+        ],
+        [
+          8.6994385,
+          47.2563138
+        ],
+        [
+          8.6995081,
+          47.2563856
+        ],
+        [
+          8.699531,
+          47.2563753
+        ],
+        [
+          8.6995874,
+          47.2564334
+        ],
+        [
+          8.6995652,
+          47.2564433
+        ],
+        [
+          8.6996493,
+          47.2565301
+        ],
+        [
+          8.6995444,
+          47.2565769
+        ],
+        [
+          8.6993345,
+          47.2563602
         ]
       ]
     ]
@@ -12266,8 +12780,8 @@
           47.2563364
         ],
         [
-          8.699635,
-          47.2563796
+          8.6996346,
+          47.2563827
         ],
         [
           8.6996515,
@@ -33690,6 +34204,108 @@
 },
 {
   "type": "Feature",
+  "id": "way/1081664974",
+  "properties": {
+    "addr:city": "Männedorf",
+    "addr:housenumber": "126",
+    "addr:postcode": "8708",
+    "addr:street": "Glärnischstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Gufenhalde 1",
+    "id": "way/1081664974"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.689975,
+          47.2591976
+        ],
+        [
+          8.6898196,
+          47.2592762
+        ],
+        [
+          8.6897024,
+          47.2591694
+        ],
+        [
+          8.6898078,
+          47.2591161
+        ],
+        [
+          8.6898839,
+          47.2591855
+        ],
+        [
+          8.6899338,
+          47.2591602
+        ],
+        [
+          8.689975,
+          47.2591976
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1081664976",
+  "properties": {
+    "addr:city": "Männedorf",
+    "addr:housenumber": "128",
+    "addr:postcode": "8708",
+    "addr:street": "Glärnischstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Gufenhalde 2",
+    "id": "way/1081664976"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6899338,
+          47.2591602
+        ],
+        [
+          8.6899839,
+          47.2591348
+        ],
+        [
+          8.6899064,
+          47.2590645
+        ],
+        [
+          8.6900111,
+          47.2590114
+        ],
+        [
+          8.6900879,
+          47.2590811
+        ],
+        [
+          8.6901298,
+          47.259119
+        ],
+        [
+          8.689975,
+          47.2591976
+        ],
+        [
+          8.6899338,
+          47.2591602
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",
@@ -45253,6 +45869,26 @@
     "coordinates": [
       8.593563,
       47.4901394
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9913976316",
+  "properties": {
+    "addr:city": "Meilen",
+    "addr:housenumber": "25",
+    "addr:postcode": "8706",
+    "addr:street": "Ormisstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Allmend",
+    "id": "node/9913976316"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6473558,
+      47.2723764
     ]
   }
 }
