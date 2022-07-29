@@ -3,6 +3,31 @@
 "features": [
 {
   "type": "Feature",
+  "id": "way/1082048078",
+  "properties": {
+    "barrier": "gate",
+    "id": "way/1082048078"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6331269,
+        47.0155641
+      ],
+      [
+        8.6331374,
+        47.0155603
+      ],
+      [
+        8.6331504,
+        47.0155557
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/33643021",
   "properties": {
     "barrier": "gate",
@@ -3691,8 +3716,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6331296,
-      47.0155553
+      8.6331374,
+      47.0155603
     ]
   }
 },
