@@ -41297,26 +41297,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9852586103",
-  "properties": {
-    "addr:city": "Feuerthalen",
-    "addr:housenumber": "24",
-    "addr:postcode": "8245",
-    "addr:street": "Stadtweg",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Stadtweg",
-    "id": "node/9852586103"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6452744,
-      47.6872931
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9852701371",
   "properties": {
     "addr:city": "Flaach",
