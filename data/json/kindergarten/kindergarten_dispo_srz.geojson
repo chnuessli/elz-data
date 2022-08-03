@@ -2168,6 +2168,64 @@
 },
 {
   "type": "Feature",
+  "id": "way/32820067",
+  "properties": {
+    "addr:city": "Niederhasli",
+    "addr:housenumber": "1",
+    "addr:postcode": "8155",
+    "addr:street": "Spitzstrasse",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "name": "Kindergarten Spitz",
+    "source": "yahoo aerial images",
+    "id": "way/32820067"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4876605,
+          47.4809949
+        ],
+        [
+          8.4876984,
+          47.4808571
+        ],
+        [
+          8.4880243,
+          47.4808981
+        ],
+        [
+          8.4879889,
+          47.4810265
+        ],
+        [
+          8.4878755,
+          47.4810122
+        ],
+        [
+          8.4878578,
+          47.4810765
+        ],
+        [
+          8.4877458,
+          47.4810624
+        ],
+        [
+          8.487761,
+          47.4810075
+        ],
+        [
+          8.4876605,
+          47.4809949
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/32958945",
   "properties": {
     "addr:city": "Egg",
@@ -2243,10 +2301,14 @@
   "type": "Feature",
   "id": "way/33140491",
   "properties": {
+    "addr:city": "Niederglatt",
+    "addr:housenumber": "2",
+    "addr:postcode": "8172",
+    "addr:street": "Im Guet",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "building:levels": "1",
-    "name": "Guet",
+    "name": "Kindergarten Im Guet",
     "operator": "Kanton Zürich",
     "operator:type": "public",
     "source": "yahoo aerial images",
@@ -2257,40 +2319,56 @@
     "coordinates": [
       [
         [
-          8.5034757,
-          47.4924271
+          8.5035012,
+          47.4924487
         ],
         [
-          8.5037921,
-          47.4923977
+          8.5036043,
+          47.4924426
         ],
         [
-          8.5038145,
-          47.4925073
+          8.5036034,
+          47.4924329
         ],
         [
-          8.5037426,
-          47.492514
+          8.5037135,
+          47.4924269
         ],
         [
-          8.5037458,
-          47.49253
+          8.5037145,
+          47.4924353
         ],
         [
-          8.5035647,
-          47.4925468
+          8.5038184,
+          47.4924294
         ],
         [
-          8.5035595,
-          47.4925212
+          8.5038299,
+          47.4925203
         ],
         [
-          8.5034961,
-          47.4925271
+          8.5037688,
+          47.4925245
         ],
         [
-          8.5034757,
-          47.4924271
+          8.5037702,
+          47.4925421
+        ],
+        [
+          8.5035784,
+          47.4925534
+        ],
+        [
+          8.5035767,
+          47.4925366
+        ],
+        [
+          8.5035144,
+          47.4925397
+        ],
+        [
+          8.5035012,
+          47.4924487
         ]
       ]
     ]
@@ -34309,6 +34387,47 @@
 },
 {
   "type": "Feature",
+  "id": "way/1083194734",
+  "properties": {
+    "addr:city": "Niederglatt",
+    "addr:housenumber": "8",
+    "addr:postcode": "8172",
+    "addr:street": "Gärtlistrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Gärtli",
+    "id": "way/1083194734"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5009579,
+          47.495296
+        ],
+        [
+          8.5009382,
+          47.4951576
+        ],
+        [
+          8.5013134,
+          47.4951333
+        ],
+        [
+          8.5013331,
+          47.4952717
+        ],
+        [
+          8.5009579,
+          47.495296
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",
@@ -35511,6 +35630,10 @@
   "type": "Feature",
   "id": "node/1620873120",
   "properties": {
+    "addr:city": "Niederglatt",
+    "addr:housenumber": "45",
+    "addr:postcode": "8172",
+    "addr:street": "Kaiserstuhlstrasse",
     "amenity": "kindergarten",
     "name": "Altes Schulhaus",
     "id": "node/1620873120"
@@ -35518,24 +35641,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.497951,
-      47.4932037
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1620873122",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Gärtli",
-    "id": "node/1620873122"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5012179,
-      47.4952062
+      8.4978747,
+      47.4931593
     ]
   }
 },
@@ -38511,9 +38618,13 @@
   "type": "Feature",
   "id": "node/5197116921",
   "properties": {
+    "addr:city": "Niederhasli",
+    "addr:housenumber": "1",
+    "addr:postcode": "8155",
+    "addr:street": "Lindackerweg",
     "amenity": "kindergarten",
     "contact:phone": "+41 44 850 29 31",
-    "name": "Lindacker",
+    "name": "Kindergarten Lindacker",
     "id": "node/5197116921"
   },
   "geometry": {
@@ -45872,6 +45983,66 @@
     "coordinates": [
       8.6473558,
       47.2723764
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9926679847",
+  "properties": {
+    "addr:city": "Mettmenstetten",
+    "addr:housenumber": "14",
+    "addr:postcode": "8932",
+    "addr:street": "Schulstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Pavillon",
+    "id": "node/9926679847"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4646502,
+      47.2459448
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9926679848",
+  "properties": {
+    "addr:city": "Mettmenstetten",
+    "addr:housenumber": "6",
+    "addr:postcode": "8932",
+    "addr:street": "Schulstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Dorf",
+    "id": "node/9926679848"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4652671,
+      47.245377
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9927141599",
+  "properties": {
+    "addr:city": "Niederhasli",
+    "addr:housenumber": "14",
+    "addr:postcode": "8155",
+    "addr:street": "Adlibogenstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Adlibogen",
+    "id": "node/9927141599"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4942209,
+      47.481165
     ]
   }
 }
