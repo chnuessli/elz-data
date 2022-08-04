@@ -4066,23 +4066,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3815615557",
-  "properties": {
-    "amenity": "childcare",
-    "kindergarten": "yes",
-    "name": "Kindergarten Limmatwiese",
-    "id": "node/3815615557"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.3903762,
-      47.4282217
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3818500859",
   "properties": {
     "amenity": "childcare",

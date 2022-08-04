@@ -5648,8 +5648,13 @@
   "type": "Feature",
   "id": "way/25904411",
   "properties": {
+    "addr:city": "Oetwil am See",
+    "addr:housenumber": "2",
+    "addr:postcode": "8618",
+    "addr:street": "Zelglistrasse",
     "amenity": "school",
     "building": "school",
+    "name": "Schulhaus Blattenacher",
     "id": "way/25904411"
   },
   "geometry": {
@@ -5657,100 +5662,84 @@
     "coordinates": [
       [
         [
-          8.7217973,
-          47.2714487
+          8.7218473,
+          47.2714227
         ],
         [
-          8.7218739,
-          47.2713619
+          8.7218889,
+          47.2713754
         ],
         [
-          8.7222837,
-          47.2715284
+          8.7223032,
+          47.2715504
         ],
         [
-          8.7223158,
-          47.271492
+          8.7223383,
+          47.2715112
         ],
         [
-          8.7225768,
-          47.2715981
+          8.7225782,
+          47.2716121
         ],
         [
-          8.7224855,
-          47.2717016
+          8.7224974,
+          47.2717011
         ],
         [
-          8.7224529,
-          47.2716884
+          8.7224551,
+          47.2716843
         ],
         [
-          8.7224015,
-          47.2717466
+          8.7224359,
+          47.2717037
+        ],
+        [
+          8.7224502,
+          47.271709
+        ],
+        [
+          8.7224118,
+          47.2717525
         ],
         [
           8.7221823,
           47.2716575
         ],
         [
-          8.7220892,
-          47.2716197
+          8.7221139,
+          47.2716282
         ],
         [
-          8.7221232,
-          47.2715811
+          8.7221424,
+          47.2715961
         ],
         [
-          8.7218784,
-          47.2714817
+          8.7218842,
+          47.2714866
         ],
         [
-          8.7217973,
-          47.2714487
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/25904414",
-  "properties": {
-    "amenity": "school",
-    "building": "school",
-    "id": "way/25904414"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7215425,
-          47.2716371
+          8.7216918,
+          47.2717004
         ],
         [
-          8.7216256,
-          47.2715452
+          8.7215659,
+          47.2716473
         ],
         [
-          8.7216943,
-          47.2715738
+          8.721644,
+          47.2715627
         ],
         [
-          8.7217729,
-          47.2716066
+          8.7216963,
+          47.2715851
         ],
         [
-          8.7216942,
-          47.2716936
+          8.7218448,
+          47.2714216
         ],
         [
-          8.7216898,
-          47.2716985
-        ],
-        [
-          8.7215425,
-          47.2716371
+          8.7218473,
+          47.2714227
         ]
       ]
     ]
@@ -7576,7 +7565,7 @@
   "id": "way/28003814",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Oberhasli",
+    "name": "Schule/Kindergarten Oberhasli",
     "wheelchair": "no",
     "id": "way/28003814"
   },
@@ -12797,6 +12786,47 @@
         [
           8.5994047,
           47.2591641
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/33058286",
+  "properties": {
+    "addr:city": "Oberhasli",
+    "addr:housenumber": "15",
+    "addr:postcode": "8156",
+    "addr:street": "Rietwiesenstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Privatschule Edelweiss",
+    "id": "way/33058286"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5016005,
+          47.4642199
+        ],
+        [
+          8.501806,
+          47.464139
+        ],
+        [
+          8.501875,
+          47.4642192
+        ],
+        [
+          8.5016694,
+          47.4643
+        ],
+        [
+          8.5016005,
+          47.4642199
         ]
       ]
     ]
@@ -20413,6 +20443,146 @@
 },
 {
   "type": "Feature",
+  "id": "way/42151148",
+  "properties": {
+    "addr:city": "Oberglatt",
+    "addr:housenumber": "7",
+    "addr:postcode": "8154",
+    "addr:street": "Hofstetterstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Jungwingert",
+    "source": "Yahoo aerial images",
+    "id": "way/42151148"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.51756,
+          47.4770622
+        ],
+        [
+          8.5176469,
+          47.4770345
+        ],
+        [
+          8.5176446,
+          47.4770316
+        ],
+        [
+          8.517783,
+          47.4769877
+        ],
+        [
+          8.5178728,
+          47.4771166
+        ],
+        [
+          8.5177345,
+          47.4771608
+        ],
+        [
+          8.5177324,
+          47.477158
+        ],
+        [
+          8.517646,
+          47.4771855
+        ],
+        [
+          8.51756,
+          47.4770622
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/42151170",
+  "properties": {
+    "addr:city": "Oberglatt",
+    "addr:housenumber": "4",
+    "addr:postcode": "8154",
+    "addr:street": "Schulrain",
+    "amenity": "school",
+    "building": "yes",
+    "name": "Schulhaus Schulrain 1+2",
+    "source": "Yahoo aerial images",
+    "id": "way/42151170"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5170565,
+          47.4764541
+        ],
+        [
+          8.5172195,
+          47.4764085
+        ],
+        [
+          8.5172322,
+          47.4764288
+        ],
+        [
+          8.517455,
+          47.4763663
+        ],
+        [
+          8.5175108,
+          47.4764556
+        ],
+        [
+          8.5174911,
+          47.4764608
+        ],
+        [
+          8.5174976,
+          47.476471
+        ],
+        [
+          8.5174866,
+          47.476474
+        ],
+        [
+          8.5174801,
+          47.4764642
+        ],
+        [
+          8.5173546,
+          47.4764999
+        ],
+        [
+          8.5173762,
+          47.4765386
+        ],
+        [
+          8.5173057,
+          47.4765576
+        ],
+        [
+          8.5172685,
+          47.4764996
+        ],
+        [
+          8.5171118,
+          47.4765431
+        ],
+        [
+          8.5170565,
+          47.4764541
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/42823800",
   "properties": {
     "addr:city": "Bülach",
@@ -21402,6 +21572,108 @@
         [
           8.5188736,
           47.1985394
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/46483570",
+  "properties": {
+    "addr:city": "Oberembrach",
+    "addr:housenumber": "11",
+    "addr:postcode": "8425",
+    "addr:street": "Embracherstrasse",
+    "amenity": "school",
+    "building": "school",
+    "building:roof": "tile",
+    "name": "Schulhaus Zweigärten",
+    "id": "way/46483570"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6156863,
+          47.4877098
+        ],
+        [
+          8.6157843,
+          47.48761
+        ],
+        [
+          8.6158893,
+          47.487657
+        ],
+        [
+          8.6160155,
+          47.4875285
+        ],
+        [
+          8.6158315,
+          47.487446
+        ],
+        [
+          8.6158673,
+          47.4874095
+        ],
+        [
+          8.6158386,
+          47.4873966
+        ],
+        [
+          8.6158996,
+          47.4873345
+        ],
+        [
+          8.6162542,
+          47.4874935
+        ],
+        [
+          8.6162261,
+          47.4875221
+        ],
+        [
+          8.6163224,
+          47.4875652
+        ],
+        [
+          8.6162283,
+          47.4876611
+        ],
+        [
+          8.6162537,
+          47.4876725
+        ],
+        [
+          8.6160814,
+          47.487848
+        ],
+        [
+          8.6161779,
+          47.4878913
+        ],
+        [
+          8.6161256,
+          47.4879445
+        ],
+        [
+          8.6160791,
+          47.4879236
+        ],
+        [
+          8.6158831,
+          47.4878357
+        ],
+        [
+          8.6159089,
+          47.4878095
+        ],
+        [
+          8.6156863,
+          47.4877098
         ]
       ]
     ]
@@ -30506,6 +30778,47 @@
 },
 {
   "type": "Feature",
+  "id": "way/93784715",
+  "properties": {
+    "addr:city": "Oberrieden",
+    "addr:housenumber": "4",
+    "addr:postcode": "8942",
+    "addr:street": "Kirchstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Sekundarschule Kirchstrasse",
+    "id": "way/93784715"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5759368,
+          47.2765343
+        ],
+        [
+          8.5761245,
+          47.276297
+        ],
+        [
+          8.576287,
+          47.2763562
+        ],
+        [
+          8.5760993,
+          47.2765935
+        ],
+        [
+          8.5759368,
+          47.2765343
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/93952590",
   "properties": {
     "addr:city": "Madetswil",
@@ -33256,6 +33569,64 @@
 },
 {
   "type": "Feature",
+  "id": "way/102669262",
+  "properties": {
+    "addr:city": "Oberglatt",
+    "addr:housenumber": "18",
+    "addr:postcode": "8154",
+    "addr:street": "Alpenstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Stiftung Tagesschule",
+    "source": "Bing",
+    "id": "way/102669262"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5134873,
+          47.4757617
+        ],
+        [
+          8.513485,
+          47.4757417
+        ],
+        [
+          8.5134079,
+          47.4757448
+        ],
+        [
+          8.5133805,
+          47.4754822
+        ],
+        [
+          8.5137629,
+          47.475463
+        ],
+        [
+          8.5137893,
+          47.4757271
+        ],
+        [
+          8.5137127,
+          47.4757307
+        ],
+        [
+          8.5137136,
+          47.4757517
+        ],
+        [
+          8.5134873,
+          47.4757617
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/103027735",
   "properties": {
     "addr:city": "Aathal-Seegräben",
@@ -33547,80 +33918,6 @@
         [
           8.6699788,
           47.779057
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/106310297",
-  "properties": {
-    "addr:city": "Obfelden",
-    "addr:country": "CH",
-    "addr:housenumber": "15",
-    "addr:postcode": "8912",
-    "addr:street": "Räschstrasse",
-    "amenity": "school",
-    "building": "yes",
-    "name": "Kindergarten Räsch",
-    "id": "way/106310297"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4212921,
-          47.2649038
-        ],
-        [
-          8.4213161,
-          47.2647986
-        ],
-        [
-          8.421336,
-          47.2648007
-        ],
-        [
-          8.4213631,
-          47.2646824
-        ],
-        [
-          8.4215332,
-          47.2647003
-        ],
-        [
-          8.4215361,
-          47.2646877
-        ],
-        [
-          8.4216939,
-          47.2647043
-        ],
-        [
-          8.4216525,
-          47.2648859
-        ],
-        [
-          8.4216321,
-          47.2648837
-        ],
-        [
-          8.4216167,
-          47.2649509
-        ],
-        [
-          8.4214789,
-          47.2649364
-        ],
-        [
-          8.4214818,
-          47.2649237
-        ],
-        [
-          8.4212921,
-          47.2649038
         ]
       ]
     ]
@@ -38148,7 +38445,7 @@
     "addr:postcode": "8912",
     "addr:street": "Alte Landstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Schulhaus Schlossächer",
     "id": "way/123503102"
   },
@@ -53776,6 +54073,84 @@
 },
 {
   "type": "Feature",
+  "id": "way/190274569",
+  "properties": {
+    "addr:city": "Oetwil an der Limmat",
+    "addr:housenumber": "18",
+    "addr:postcode": "8955",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Letten",
+    "wheelchair": "limited",
+    "id": "way/190274569"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4020256,
+          47.4257445
+        ],
+        [
+          8.4019665,
+          47.4256608
+        ],
+        [
+          8.4023523,
+          47.4255392
+        ],
+        [
+          8.4023606,
+          47.4255504
+        ],
+        [
+          8.4024307,
+          47.4255271
+        ],
+        [
+          8.4023898,
+          47.4254748
+        ],
+        [
+          8.402515,
+          47.4254295
+        ],
+        [
+          8.4026318,
+          47.4255805
+        ],
+        [
+          8.4025096,
+          47.4256257
+        ],
+        [
+          8.4025055,
+          47.4256219
+        ],
+        [
+          8.4024165,
+          47.42565
+        ],
+        [
+          8.4021684,
+          47.4257314
+        ],
+        [
+          8.4021482,
+          47.4257037
+        ],
+        [
+          8.4020256,
+          47.4257445
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/190555442",
   "properties": {
     "addr:city": "Uster",
@@ -62204,6 +62579,76 @@
 },
 {
   "type": "Feature",
+  "id": "way/222541364",
+  "properties": {
+    "addr:city": "Obfelden",
+    "addr:country": "CH",
+    "addr:housenumber": "94",
+    "addr:postcode": "8912",
+    "addr:street": "Ottenbacherstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Lernwerkstatt Bickwil",
+    "id": "way/222541364"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4221236,
+          47.2685635
+        ],
+        [
+          8.42202,
+          47.2686018
+        ],
+        [
+          8.4220167,
+          47.2685998
+        ],
+        [
+          8.4218726,
+          47.2686692
+        ],
+        [
+          8.4218234,
+          47.2686941
+        ],
+        [
+          8.4217523,
+          47.268625
+        ],
+        [
+          8.4219439,
+          47.2685347
+        ],
+        [
+          8.421969,
+          47.2685264
+        ],
+        [
+          8.4219631,
+          47.2685188
+        ],
+        [
+          8.422063,
+          47.2684841
+        ],
+        [
+          8.4220758,
+          47.2685018
+        ],
+        [
+          8.4221236,
+          47.2685635
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/222864920",
   "properties": {
     "amenity": "school",
@@ -65400,47 +65845,6 @@
         [
           8.724713,
           47.4955947
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/236632280",
-  "properties": {
-    "addr:city": "Oetwil am See",
-    "addr:housenumber": "2",
-    "addr:postcode": "8618",
-    "addr:street": "Zelglistrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Blattenacher",
-    "id": "way/236632280"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7217973,
-          47.2714487
-        ],
-        [
-          8.7218784,
-          47.2714817
-        ],
-        [
-          8.7217729,
-          47.2716066
-        ],
-        [
-          8.7216943,
-          47.2715738
-        ],
-        [
-          8.7217973,
-          47.2714487
         ]
       ]
     ]
@@ -75526,7 +75930,7 @@
   "id": "way/288107624",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Ebnet",
+    "name": "Schule Ebnet",
     "id": "way/288107624"
   },
   "geometry": {
@@ -76933,7 +77337,9 @@
   "type": "Feature",
   "id": "way/295654458",
   "properties": {
+    "addr:city": "Oberstammheim",
     "addr:housenumber": "15",
+    "addr:postcode": "8477",
     "addr:street": "Hauptstrasse",
     "amenity": "school",
     "building": "school",
@@ -87936,7 +88342,7 @@
   "id": "way/428657798",
   "properties": {
     "amenity": "school",
-    "name": "Primarschule Sunnerai",
+    "name": "Primarschule Sunnerain",
     "id": "way/428657798"
   },
   "geometry": {
@@ -89616,6 +90022,47 @@
         [
           8.722708,
           47.2728041
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/446323915",
+  "properties": {
+    "addr:city": "Oberhasli",
+    "addr:housenumber": "15",
+    "addr:postcode": "8156",
+    "addr:street": "Rietwiesenstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Privatschule Edelweiss",
+    "id": "way/446323915"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5015323,
+          47.4641403
+        ],
+        [
+          8.5017378,
+          47.4640597
+        ],
+        [
+          8.501806,
+          47.464139
+        ],
+        [
+          8.5016005,
+          47.4642199
+        ],
+        [
+          8.5015323,
+          47.4641403
         ]
       ]
     ]
@@ -109760,23 +110207,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3820426557",
-  "properties": {
-    "amenity": "school",
-    "name": "Letten",
-    "wheelchair": "limited",
-    "id": "node/3820426557"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.402528,
-      47.4255391
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3920442616",
   "properties": {
     "amenity": "school",
@@ -110401,7 +110831,10 @@
   "type": "Feature",
   "id": "node/5308771121",
   "properties": {
+    "addr:city": "Niederweningen",
+    "addr:housenumber": "17",
     "addr:postcode": "8309",
+    "addr:street": "Bühlwiesenstrasse",
     "amenity": "school",
     "name": "Privatschule EVENTA",
     "id": "node/5308771121"
@@ -110409,8 +110842,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6440797,
-      47.4477348
+      8.643981,
+      47.4470425
     ]
   }
 },

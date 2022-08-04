@@ -1100,6 +1100,75 @@
 },
 {
   "type": "Feature",
+  "id": "way/25904584",
+  "properties": {
+    "addr:city": "Oetwil am See",
+    "addr:housenumber": "1",
+    "addr:postcode": "8618",
+    "addr:street": "Im Jöndler",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Jöndler 1",
+    "id": "way/25904584"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7231637,
+          47.2683926
+        ],
+        [
+          8.7232401,
+          47.2683619
+        ],
+        [
+          8.7232234,
+          47.2683428
+        ],
+        [
+          8.7232682,
+          47.2683248
+        ],
+        [
+          8.7233085,
+          47.268371
+        ],
+        [
+          8.7233429,
+          47.2683572
+        ],
+        [
+          8.7234067,
+          47.2684303
+        ],
+        [
+          8.7232965,
+          47.2684746
+        ],
+        [
+          8.7232889,
+          47.2684659
+        ],
+        [
+          8.7232435,
+          47.2684841
+        ],
+        [
+          8.7232281,
+          47.2684664
+        ],
+        [
+          8.7231637,
+          47.2683926
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/25918105",
   "properties": {
     "addr:city": "Männedorf",
@@ -2647,6 +2716,48 @@
 },
 {
   "type": "Feature",
+  "id": "way/34641179",
+  "properties": {
+    "addr:city": "Oberglatt",
+    "addr:housenumber": "7",
+    "addr:postcode": "8154",
+    "addr:street": "Dickloo-Weg",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Dickloo",
+    "source": "Yahoo aerial images",
+    "id": "way/34641179"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5111999,
+          47.4753069
+        ],
+        [
+          8.5111968,
+          47.4752529
+        ],
+        [
+          8.5113958,
+          47.4752451
+        ],
+        [
+          8.5114004,
+          47.4752996
+        ],
+        [
+          8.5111999,
+          47.4753069
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/36392300",
   "properties": {
     "addr:housenumber": "19",
@@ -3903,6 +4014,56 @@
         [
           8.51433,
           47.4226986
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/42040444",
+  "properties": {
+    "addr:city": "Oberglatt",
+    "addr:housenumber": "6",
+    "addr:postcode": "8154",
+    "addr:street": "Im Bachtel",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "name": "Kindergarten Regenbogen",
+    "source": "Yahoo aerial images",
+    "id": "way/42040444"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5153589,
+          47.4767759
+        ],
+        [
+          8.5151861,
+          47.4765665
+        ],
+        [
+          8.5154914,
+          47.4764514
+        ],
+        [
+          8.5155951,
+          47.476577
+        ],
+        [
+          8.515362,
+          47.4766649
+        ],
+        [
+          8.5154312,
+          47.4767486
+        ],
+        [
+          8.5153589,
+          47.4767759
         ]
       ]
     ]
@@ -5804,6 +5965,50 @@
 },
 {
   "type": "Feature",
+  "id": "way/48045221",
+  "properties": {
+    "addr:city": "Oerlingen",
+    "addr:housenumber": "51",
+    "addr:postcode": "8461",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "name": "Kindergarten Oerlingen",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
+    "id": "way/48045221"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.673449,
+          47.6252981
+        ],
+        [
+          8.6735049,
+          47.6251834
+        ],
+        [
+          8.6736737,
+          47.6252207
+        ],
+        [
+          8.6736178,
+          47.6253354
+        ],
+        [
+          8.673449,
+          47.6252981
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/50318650",
   "properties": {
     "addr:city": "Eglisau",
@@ -6218,6 +6423,87 @@
         [
           8.7022633,
           47.511427
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/52373683",
+  "properties": {
+    "addr:city": "Oberohringen",
+    "addr:housenumber": "5",
+    "addr:postcode": "8472",
+    "addr:street": "Schulstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Ohringen",
+    "id": "way/52373683"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.712631,
+          47.5280099
+        ],
+        [
+          8.7125948,
+          47.5279656
+        ],
+        [
+          8.7125783,
+          47.5279456
+        ],
+        [
+          8.7125416,
+          47.5279005
+        ],
+        [
+          8.7126558,
+          47.5278584
+        ],
+        [
+          8.712623,
+          47.5278147
+        ],
+        [
+          8.7127599,
+          47.5277641
+        ],
+        [
+          8.7128027,
+          47.5278155
+        ],
+        [
+          8.7127674,
+          47.5278297
+        ],
+        [
+          8.7127963,
+          47.5278649
+        ],
+        [
+          8.7127737,
+          47.5278732
+        ],
+        [
+          8.7127922,
+          47.5278969
+        ],
+        [
+          8.7127207,
+          47.5279242
+        ],
+        [
+          8.712753,
+          47.5279632
+        ],
+        [
+          8.712631,
+          47.5280099
         ]
       ]
     ]
@@ -9264,6 +9550,47 @@
 },
 {
   "type": "Feature",
+  "id": "way/93784746",
+  "properties": {
+    "addr:city": "Oberrieden",
+    "addr:housenumber": "12",
+    "addr:postcode": "8942",
+    "addr:street": "Freihofstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Freihof",
+    "id": "way/93784746"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5751976,
+          47.2752641
+        ],
+        [
+          8.5752586,
+          47.2751878
+        ],
+        [
+          8.5755169,
+          47.2752828
+        ],
+        [
+          8.5754559,
+          47.2753591
+        ],
+        [
+          8.5751976,
+          47.2752641
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/93915280",
   "properties": {
     "addr:housenumber": "4",
@@ -9444,6 +9771,63 @@
         [
           8.7867896,
           47.4095258
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/94448637",
+  "properties": {
+    "addr:city": "Oberrieden",
+    "addr:housenumber": "3",
+    "addr:postcode": "8942",
+    "addr:street": "Hechtstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten im Boden",
+    "id": "way/94448637"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.579459,
+          47.2803605
+        ],
+        [
+          8.5795132,
+          47.2802846
+        ],
+        [
+          8.5795476,
+          47.280296
+        ],
+        [
+          8.5795737,
+          47.2802595
+        ],
+        [
+          8.579684,
+          47.2802957
+        ],
+        [
+          8.5796581,
+          47.2803319
+        ],
+        [
+          8.5796925,
+          47.2803432
+        ],
+        [
+          8.579638,
+          47.2804194
+        ],
+        [
+          8.579459,
+          47.2803605
         ]
       ]
     ]
@@ -10491,6 +10875,80 @@
         [
           8.6776171,
           47.7724381
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/106310297",
+  "properties": {
+    "addr:city": "Obfelden",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8912",
+    "addr:street": "Räschstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Räsch",
+    "id": "way/106310297"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4212921,
+          47.2649038
+        ],
+        [
+          8.4213161,
+          47.2647986
+        ],
+        [
+          8.421336,
+          47.2648007
+        ],
+        [
+          8.4213631,
+          47.2646824
+        ],
+        [
+          8.4215332,
+          47.2647003
+        ],
+        [
+          8.4215361,
+          47.2646877
+        ],
+        [
+          8.4216939,
+          47.2647043
+        ],
+        [
+          8.4216525,
+          47.2648859
+        ],
+        [
+          8.4216321,
+          47.2648837
+        ],
+        [
+          8.4216167,
+          47.2649509
+        ],
+        [
+          8.4214789,
+          47.2649364
+        ],
+        [
+          8.4214818,
+          47.2649237
+        ],
+        [
+          8.4212921,
+          47.2649038
         ]
       ]
     ]
@@ -11839,7 +12297,7 @@
     "addr:postcode": "8912",
     "addr:street": "Alte Landstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Schlossächer",
     "id": "way/123922549"
   },
@@ -16597,6 +17055,53 @@
 },
 {
   "type": "Feature",
+  "id": "way/178796732",
+  "properties": {
+    "addr:city": "Oetwil an der Limmat",
+    "addr:housenumber": "46",
+    "addr:postcode": "8955",
+    "addr:street": "Dorfstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "name": "Kindergarten Oberdorf",
+    "source": "AGIS 2011",
+    "id": "way/178796732"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.3981451,
+          47.4273848
+        ],
+        [
+          8.3980069,
+          47.4275853
+        ],
+        [
+          8.397887,
+          47.4275475
+        ],
+        [
+          8.3979496,
+          47.4274567
+        ],
+        [
+          8.3980252,
+          47.427347
+        ],
+        [
+          8.3981451,
+          47.4273848
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/179303449",
   "properties": {
     "amenity": "kindergarten",
@@ -17167,7 +17672,7 @@
     "addr:postcode": "8618",
     "addr:street": "Bachmattstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Gusch",
     "id": "way/189324706"
   },
@@ -18484,6 +18989,10 @@
   "type": "Feature",
   "id": "way/199008566",
   "properties": {
+    "addr:city": "Niederweningen",
+    "addr:housenumber": "16",
+    "addr:postcode": "8166",
+    "addr:street": "Alte Stationsstrasse",
     "amenity": "kindergarten",
     "building": "yes",
     "name": "Kindergarten Rottupf",
@@ -24896,6 +25405,87 @@
         [
           8.7790209,
           47.3078308
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/311971842",
+  "properties": {
+    "addr:city": "Oberweningen",
+    "addr:housenumber": "12",
+    "addr:postcode": "8165",
+    "addr:street": "Dorfstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Altes Schulhaus",
+    "id": "way/311971842"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4066649,
+          47.5024263
+        ],
+        [
+          8.406641,
+          47.5023931
+        ],
+        [
+          8.4066471,
+          47.5023922
+        ],
+        [
+          8.4066379,
+          47.5023777
+        ],
+        [
+          8.4066315,
+          47.5023799
+        ],
+        [
+          8.4066089,
+          47.5023469
+        ],
+        [
+          8.4065826,
+          47.5023551
+        ],
+        [
+          8.406564,
+          47.502328
+        ],
+        [
+          8.4065892,
+          47.5023206
+        ],
+        [
+          8.4065654,
+          47.5022863
+        ],
+        [
+          8.4067597,
+          47.5022225
+        ],
+        [
+          8.4068267,
+          47.5023155
+        ],
+        [
+          8.406683,
+          47.5023627
+        ],
+        [
+          8.4067165,
+          47.5024106
+        ],
+        [
+          8.4066649,
+          47.5024263
         ]
       ]
     ]
@@ -34428,6 +35018,71 @@
 },
 {
   "type": "Feature",
+  "id": "way/1083524391",
+  "properties": {
+    "addr:city": "Oetwil am See",
+    "addr:housenumber": "3",
+    "addr:postcode": "8618",
+    "addr:street": "Im Jöndler",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "name": "Kindergarten Jöndler 3",
+    "id": "way/1083524391"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7232281,
+          47.2684664
+        ],
+        [
+          8.723119,
+          47.2685109
+        ],
+        [
+          8.7231106,
+          47.2685014
+        ],
+        [
+          8.7230652,
+          47.2685199
+        ],
+        [
+          8.7229855,
+          47.2684297
+        ],
+        [
+          8.7230637,
+          47.2683979
+        ],
+        [
+          8.7230462,
+          47.2683781
+        ],
+        [
+          8.7230898,
+          47.2683604
+        ],
+        [
+          8.7231302,
+          47.2684061
+        ],
+        [
+          8.7231637,
+          47.2683926
+        ],
+        [
+          8.7232281,
+          47.2684664
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",
@@ -35849,7 +36504,7 @@
     "addr:postcode": "8309",
     "addr:street": "Brunnackerstr",
     "amenity": "kindergarten",
-    "name": "Kindergarten Sunnerai",
+    "name": "Kindergarten Sunnerain 1+2",
     "source": "http://www.schule-nuerensdorf.ch/schulen/kindergarten/",
     "id": "node/1837722312"
   },
@@ -37099,6 +37754,26 @@
     "coordinates": [
       8.5587448,
       47.4162584
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3815615557",
+  "properties": {
+    "addr:city": "Oetwil an der Limmat",
+    "addr:housenumber": "7",
+    "addr:postcode": "8955",
+    "addr:street": "Bohnäckerstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Limmatwiese",
+    "id": "node/3815615557"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3903762,
+      47.4282217
     ]
   }
 },
@@ -41276,6 +41951,10 @@
   "type": "Feature",
   "id": "node/6784256637",
   "properties": {
+    "addr:city": "Obfelden",
+    "addr:housenumber": "20",
+    "addr:postcode": "8912",
+    "addr:street": "Im Bächler",
     "amenity": "kindergarten",
     "name": "Kindergarten Bächler",
     "preschool": "yes",
@@ -41517,8 +42196,12 @@
   "type": "Feature",
   "id": "node/7575156213",
   "properties": {
+    "addr:city": "Oberengstringen",
+    "addr:housenumber": "31",
+    "addr:postcode": "8942",
+    "addr:street": "Alte Landstrasse",
     "amenity": "kindergarten",
-    "name": "Alte Landstrasse",
+    "name": "Kindergarten Alte Landstrasse",
     "id": "node/7575156213"
   },
   "geometry": {
@@ -42450,26 +43133,6 @@
     "coordinates": [
       8.4303921,
       47.2866714
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8926370038",
-  "properties": {
-    "addr:city": "Oetwil am See",
-    "addr:housenumber": "3",
-    "addr:postcode": "8618",
-    "addr:street": "Im Jöndler",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Jöndler 1 + 3",
-    "id": "node/8926370038"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7230839,
-      47.2684444
     ]
   }
 },
@@ -46043,6 +46706,86 @@
     "coordinates": [
       8.4942209,
       47.481165
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9928644978",
+  "properties": {
+    "addr:city": "Nürensdorf",
+    "addr:housenumber": "25",
+    "addr:postcode": "8309",
+    "addr:street": "Hatzenbühlstrasse",
+    "amenity": "kindergarten",
+    "name": "Waldkindergarten",
+    "id": "node/9928644978"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6463761,
+      47.4515908
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9929211926",
+  "properties": {
+    "addr:city": "Oberglatt",
+    "addr:housenumber": "17",
+    "addr:postcode": "8154",
+    "addr:street": "Bülachstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Glatt",
+    "id": "node/9929211926"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5204639,
+      47.4785489
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9929263953",
+  "properties": {
+    "addr:city": "Oberglatt",
+    "addr:housenumber": "43",
+    "addr:postcode": "8154",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Post",
+    "id": "node/9929263953"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5137448,
+      47.472246
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9929357967",
+  "properties": {
+    "addr:city": "Meilen",
+    "addr:housenumber": "120",
+    "addr:postcode": "8706",
+    "addr:street": "Bergstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Obermeilen",
+    "id": "node/9929357967"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6568654,
+      47.2678781
     ]
   }
 }
