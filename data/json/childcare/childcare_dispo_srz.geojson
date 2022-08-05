@@ -4121,6 +4121,27 @@
 },
 {
   "type": "Feature",
+  "id": "node/3683738427",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "264",
+    "addr:postcode": "8053",
+    "addr:street": "Witikonerstrasse",
+    "amenity": "childcare",
+    "name": "Betreuung am Guggenberg",
+    "id": "node/3683738427"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5841925,
+      47.3581366
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3715345051",
   "properties": {
     "amenity": "childcare",
