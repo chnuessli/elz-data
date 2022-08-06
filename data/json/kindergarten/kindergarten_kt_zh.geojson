@@ -13945,10 +13945,14 @@
   "type": "Feature",
   "id": "way/148506349",
   "properties": {
+    "addr:city": "Opfikon",
+    "addr:housenumber": "43",
+    "addr:postcode": "8152",
+    "addr:street": "Oberhauserstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
-    "building:roof:shape": "flat",
-    "name": "Glattweg",
+    "building": "kindergarten",
+    "name": "Kindergarten Glattweg",
+    "roof:shape": "flat",
     "source": "bing",
     "id": "way/148506349"
   },
@@ -13957,24 +13961,24 @@
     "coordinates": [
       [
         [
-          8.5684003,
-          47.4313481
+          8.5684164,
+          47.431347
         ],
         [
-          8.5686352,
-          47.4312333
+          8.5686339,
+          47.4312416
         ],
         [
-          8.5688033,
-          47.4313908
+          8.5688022,
+          47.4313986
         ],
         [
-          8.5685683,
-          47.4315055
+          8.5685851,
+          47.4315053
         ],
         [
-          8.5684003,
-          47.4313481
+          8.5684164,
+          47.431347
         ]
       ]
     ]
@@ -14949,8 +14953,9 @@
     "addr:postcode": "8152",
     "addr:street": "Dorfstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
-    "building:roof:shape": "flat",
+    "building": "kindergarten",
+    "name": "Kindergarten Mettlen",
+    "roof:shape": "flat",
     "source": "bing",
     "id": "way/157151868"
   },
@@ -15009,6 +15014,58 @@
         [
           8.575241,
           47.4312579
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/157855564",
+  "properties": {
+    "addr:city": "Opfikon",
+    "addr:housenumber": "27",
+    "addr:postcode": "8152",
+    "addr:street": "Dorfstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "3",
+    "name": "Kindergarten Dorf",
+    "roof:shape": "pitched",
+    "source": "gis browser",
+    "id": "way/157855564"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5758607,
+          47.4319343
+        ],
+        [
+          8.5759539,
+          47.4318822
+        ],
+        [
+          8.5760893,
+          47.4319915
+        ],
+        [
+          8.5760537,
+          47.4320118
+        ],
+        [
+          8.5760824,
+          47.4320342
+        ],
+        [
+          8.5760258,
+          47.4320664
+        ],
+        [
+          8.5758607,
+          47.4319343
         ]
       ]
     ]
@@ -23486,75 +23543,6 @@
         [
           8.5161515,
           47.3286286
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/381548181",
-  "properties": {
-    "addr:city": "Opfikon",
-    "addr:housenumber": "27",
-    "addr:postcode": "8152",
-    "addr:street": "Dorfstrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Dorfstrasse",
-    "operator": "Schule Mettlen",
-    "id": "way/381548181"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5757888,
-          47.4319101
-        ],
-        [
-          8.5759698,
-          47.4318267
-        ],
-        [
-          8.5761857,
-          47.4320017
-        ],
-        [
-          8.5762796,
-          47.4319627
-        ],
-        [
-          8.5763038,
-          47.4319763
-        ],
-        [
-          8.5763185,
-          47.431999
-        ],
-        [
-          8.5763494,
-          47.4321151
-        ],
-        [
-          8.5763064,
-          47.4321342
-        ],
-        [
-          8.5763011,
-          47.4321723
-        ],
-        [
-          8.5761764,
-          47.432244
-        ],
-        [
-          8.575774,
-          47.4319128
-        ],
-        [
-          8.5757888,
-          47.4319101
         ]
       ]
     ]
@@ -42729,6 +42717,46 @@
     "coordinates": [
       8.6568654,
       47.2678781
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9933364652",
+  "properties": {
+    "addr:city": "Opfikon",
+    "addr:housenumber": "161",
+    "addr:postcode": "8152",
+    "addr:street": "Wallisellerstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Rietgrabenhang",
+    "id": "node/9933364652"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5763421,
+      47.4247691
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9933823234",
+  "properties": {
+    "addr:city": "Otelfingen",
+    "addr:housenumber": "4",
+    "addr:postcode": "8112",
+    "addr:street": "Sandackerstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Sandacker",
+    "id": "node/9933823234"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3908103,
+      47.4612742
     ]
   }
 }

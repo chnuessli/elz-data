@@ -50320,27 +50320,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9137525048",
-  "properties": {
-    "addr:city": "Morges",
-    "addr:housenumber": "14",
-    "addr:postcode": "1110",
-    "addr:street": "Promenade de Castellane",
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "name": "Permanence des Halles",
-    "id": "node/9137525048"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      6.4959031,
-      46.5112014
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9151547627",
   "properties": {
     "amenity": "clinic",

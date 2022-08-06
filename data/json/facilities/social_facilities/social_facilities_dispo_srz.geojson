@@ -19826,12 +19826,8 @@
           47.1827451
         ],
         [
-          8.4840679,
-          47.1827436
-        ],
-        [
-          8.4840362,
-          47.1828198
+          8.4840455,
+          47.1828265
         ],
         [
           8.4842604,
@@ -44078,144 +44074,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1061887143",
-  "properties": {
-    "addr:city": "Grüningen",
-    "addr:country": "CH",
-    "addr:housenumber": "2a",
-    "addr:postcode": "8627",
-    "addr:street": "Binzikerstrasse",
-    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Klinik Sonnhalde Haus Binzikerbach A",
-    "operator": "Klinik Sonnhalde",
-    "social_facility": "assisted_living",
-    "id": "way/1061887143"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7629658,
-          47.2818321
-        ],
-        [
-          8.763135,
-          47.2817817
-        ],
-        [
-          8.7631562,
-          47.2818145
-        ],
-        [
-          8.7631353,
-          47.2818208
-        ],
-        [
-          8.7631488,
-          47.2818416
-        ],
-        [
-          8.7631595,
-          47.2818384
-        ],
-        [
-          8.7632083,
-          47.2819136
-        ],
-        [
-          8.7630644,
-          47.2819566
-        ],
-        [
-          8.7630025,
-          47.2818612
-        ],
-        [
-          8.7629876,
-          47.2818657
-        ],
-        [
-          8.7629658,
-          47.2818321
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/1061887144",
-  "properties": {
-    "addr:city": "Grüningen",
-    "addr:country": "CH",
-    "addr:housenumber": "2a",
-    "addr:postcode": "8627",
-    "addr:street": "Binzikerstrasse",
-    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Klinik Sonnhalde Haus Binzikerbach A",
-    "operator": "Klinik Sonnhalde",
-    "social_facility": "assisted_living",
-    "id": "way/1061887144"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7612614,
-          47.2806558
-        ],
-        [
-          8.7614306,
-          47.2806054
-        ],
-        [
-          8.7614518,
-          47.2806382
-        ],
-        [
-          8.7614309,
-          47.2806445
-        ],
-        [
-          8.7614444,
-          47.2806653
-        ],
-        [
-          8.7614551,
-          47.2806621
-        ],
-        [
-          8.7615039,
-          47.2807373
-        ],
-        [
-          8.76136,
-          47.2807803
-        ],
-        [
-          8.7612981,
-          47.2806849
-        ],
-        [
-          8.7612832,
-          47.2806894
-        ],
-        [
-          8.7612614,
-          47.2806558
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1066428552",
   "properties": {
     "amenity": "social_facility",
@@ -50757,6 +50615,28 @@
     "coordinates": [
       8.7228674,
       47.510639
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9933553116",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "256",
+    "addr:postcode": "8050",
+    "addr:street": "Saatlenstrasse",
+    "amenity": "social_facility",
+    "operator": "The Salvation Army",
+    "operator:short": "TSA",
+    "operator:wikidata": "Q188307",
+    "id": "node/9933553116"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5634352,
+      47.4111874
     ]
   }
 }
