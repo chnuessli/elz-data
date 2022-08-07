@@ -19422,7 +19422,7 @@
     "addr:postcode": "8953",
     "addr:street": "Birmensdorferstrasse",
     "amenity": "kindergarten",
-    "building": "kindergarten Birmensdorferstrasse",
+    "building": "kindergarten",
     "id": "way/238691712"
   },
   "geometry": {
