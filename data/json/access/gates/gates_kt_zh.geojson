@@ -3048,8 +3048,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7623717,
-      47.2847201
+      8.7623811,
+      47.2846943
     ]
   }
 },
@@ -5858,8 +5858,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5591662,
-      47.4157211
+      8.5591451,
+      47.4157647
     ]
   }
 },
@@ -63666,13 +63666,14 @@
   "id": "node/9731237253",
   "properties": {
     "barrier": "gate",
+    "material": "metal",
     "id": "node/9731237253"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7640954,
-      47.2841293
+      8.7640966,
+      47.2841305
     ]
   }
 },
@@ -63681,13 +63682,14 @@
   "id": "node/9731237281",
   "properties": {
     "barrier": "gate",
+    "material": "metal",
     "id": "node/9731237281"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7646195,
-      47.2839246
+      8.7646228,
+      47.2839289
     ]
   }
 },
@@ -64492,6 +64494,70 @@
     "coordinates": [
       8.7602465,
       47.2801299
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9939948772",
+  "properties": {
+    "access": "customers",
+    "barrier": "gate",
+    "id": "node/9939948772"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7644862,
+      47.2814566
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9941147977",
+  "properties": {
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/9941147977"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7647627,
+      47.2838643
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9941147978",
+  "properties": {
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/9941147978"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7644964,
+      47.2839778
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9941147979",
+  "properties": {
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/9941147979"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7643505,
+      47.2840315
     ]
   }
 }

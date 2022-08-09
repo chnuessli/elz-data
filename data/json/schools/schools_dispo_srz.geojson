@@ -5646,6 +5646,193 @@
 },
 {
   "type": "Feature",
+  "id": "way/25808498",
+  "properties": {
+    "addr:city": "Richterswil",
+    "addr:housenumber": "2",
+    "addr:postcode": "8805",
+    "addr:street": "Reidholzstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Feld I",
+    "id": "way/25808498"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6902754,
+          47.2084862
+        ],
+        [
+          8.6901767,
+          47.2083094
+        ],
+        [
+          8.6902432,
+          47.2082923
+        ],
+        [
+          8.6901771,
+          47.2081739
+        ],
+        [
+          8.6904567,
+          47.2081019
+        ],
+        [
+          8.6904991,
+          47.2081779
+        ],
+        [
+          8.690465,
+          47.2081867
+        ],
+        [
+          8.690505,
+          47.2082583
+        ],
+        [
+          8.6904676,
+          47.2082679
+        ],
+        [
+          8.690508,
+          47.2083404
+        ],
+        [
+          8.6904683,
+          47.2083506
+        ],
+        [
+          8.6905102,
+          47.2084257
+        ],
+        [
+          8.6902754,
+          47.2084862
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/25808508",
+  "properties": {
+    "addr:city": "Richterswil",
+    "addr:housenumber": "9",
+    "addr:postcode": "8805",
+    "addr:street": "Feldstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Feld II",
+    "id": "way/25808508"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6904976,
+          47.2087704
+        ],
+        [
+          8.6903996,
+          47.2086112
+        ],
+        [
+          8.6911779,
+          47.20839
+        ],
+        [
+          8.6910721,
+          47.2082183
+        ],
+        [
+          8.6914279,
+          47.2081172
+        ],
+        [
+          8.6915423,
+          47.208303
+        ],
+        [
+          8.691348,
+          47.2083582
+        ],
+        [
+          8.6915323,
+          47.2086574
+        ],
+        [
+          8.6913127,
+          47.2087198
+        ],
+        [
+          8.6912178,
+          47.2085657
+        ],
+        [
+          8.6908858,
+          47.20866
+        ],
+        [
+          8.6906434,
+          47.2087289
+        ],
+        [
+          8.6904976,
+          47.2087704
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/25808557",
+  "properties": {
+    "addr:city": "Richterswil",
+    "addr:housenumber": "15",
+    "addr:postcode": "8805",
+    "addr:street": "Burghaldenstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Breiten",
+    "id": "way/25808557"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6996441,
+          47.2089954
+        ],
+        [
+          8.6998913,
+          47.2088757
+        ],
+        [
+          8.7000631,
+          47.2090396
+        ],
+        [
+          8.6998159,
+          47.2091592
+        ],
+        [
+          8.6996441,
+          47.2089954
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/25904411",
   "properties": {
     "addr:city": "Oetwil am See",
@@ -11263,6 +11450,64 @@
         [
           8.5231049,
           47.3921235
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/31663831",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "96",
+    "addr:postcode": "8105",
+    "addr:street": "Hofwiesenstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Chrüzächer",
+    "source": "Yahoo aerial images",
+    "id": "way/31663831"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4730282,
+          47.4286156
+        ],
+        [
+          8.4729686,
+          47.4284874
+        ],
+        [
+          8.4732004,
+          47.4284381
+        ],
+        [
+          8.473175,
+          47.4283836
+        ],
+        [
+          8.4733439,
+          47.4283477
+        ],
+        [
+          8.4733731,
+          47.4284104
+        ],
+        [
+          8.4732818,
+          47.4284298
+        ],
+        [
+          8.4733376,
+          47.4285498
+        ],
+        [
+          8.4730282,
+          47.4286156
         ]
       ]
     ]
@@ -17568,6 +17813,63 @@
 },
 {
   "type": "Feature",
+  "id": "way/37770986",
+  "properties": {
+    "addr:city": "Richterswil",
+    "addr:housenumber": "19",
+    "addr:postcode": "8805",
+    "addr:street": "Göldistrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Boden",
+    "id": "way/37770986"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.697583,
+          47.2082348
+        ],
+        [
+          8.6974859,
+          47.2081209
+        ],
+        [
+          8.6975637,
+          47.2080892
+        ],
+        [
+          8.6973613,
+          47.2078598
+        ],
+        [
+          8.6975241,
+          47.2077935
+        ],
+        [
+          8.6978657,
+          47.2081806
+        ],
+        [
+          8.6976957,
+          47.2082498
+        ],
+        [
+          8.6976562,
+          47.208205
+        ],
+        [
+          8.697583,
+          47.2082348
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/37800699",
   "properties": {
     "amenity": "school",
@@ -21291,6 +21593,63 @@
         [
           8.5404348,
           47.289523
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/46108237",
+  "properties": {
+    "addr:city": "Richterswil",
+    "addr:housenumber": "29",
+    "addr:postcode": "8805",
+    "addr:street": "Kirchstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Töss",
+    "id": "way/46108237"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7017702,
+          47.2076492
+        ],
+        [
+          8.701641,
+          47.2075615
+        ],
+        [
+          8.7016988,
+          47.2075223
+        ],
+        [
+          8.7016451,
+          47.2074858
+        ],
+        [
+          8.7017869,
+          47.2073894
+        ],
+        [
+          8.701835,
+          47.2074221
+        ],
+        [
+          8.7018857,
+          47.2073877
+        ],
+        [
+          8.7020204,
+          47.2074792
+        ],
+        [
+          8.7017702,
+          47.2076492
         ]
       ]
     ]
@@ -37385,6 +37744,10 @@
           47.404272
         ],
         [
+          8.5689143,
+          47.4045581
+        ],
+        [
           8.5688948,
           47.4047084
         ],
@@ -50232,9 +50595,14 @@
   "type": "Feature",
   "id": "way/169315599",
   "properties": {
+    "addr:city": "Regensdorf",
     "addr:housename": "Trakt C",
+    "addr:housenumber": "73",
+    "addr:postcode": "8105",
+    "addr:street": "Schulstrasse",
     "amenity": "school",
     "building": "yes",
+    "name": "Schulhaus Ruggenacher 1",
     "id": "way/169315599"
   },
   "geometry": {
@@ -50309,8 +50677,13 @@
   "type": "Feature",
   "id": "way/169315602",
   "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "106",
+    "addr:postcode": "8105",
+    "addr:street": "Adlikerstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
+    "name": "Schulhaus Ruggenacher 3",
     "id": "way/169315602"
   },
   "geometry": {
@@ -50409,8 +50782,12 @@
   "type": "Feature",
   "id": "way/169315605",
   "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "86",
+    "addr:postcode": "8105",
+    "addr:street": "Adlikerstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Ruggenacher 2",
     "id": "way/169315605"
   },
@@ -52473,64 +52850,68 @@
     "coordinates": [
       [
         [
-          8.4667811,
-          47.4340966
+          8.4671141,
+          47.4342548
         ],
         [
-          8.4668548,
-          47.4340585
+          8.4670698,
+          47.4342138
         ],
         [
-          8.4668193,
-          47.4340295
+          8.4669449,
+          47.4342483
         ],
         [
-          8.466936,
-          47.4339741
+          8.4667743,
+          47.4340917
         ],
         [
-          8.4671331,
-          47.4341456
+          8.4668592,
+          47.4340492
         ],
         [
-          8.4671921,
-          47.434117
+          8.4668308,
+          47.4340233
         ],
         [
-          8.4672685,
-          47.4341905
+          8.4669073,
+          47.4339845
         ],
         [
-          8.4672115,
-          47.43422
+          8.4669131,
+          47.4339892
         ],
         [
-          8.4673349,
-          47.4343297
+          8.4669374,
+          47.4339763
         ],
         [
-          8.4671954,
-          47.4344019
+          8.4671263,
+          47.4341492
         ],
         [
-          8.467062,
-          47.434288
+          8.4671878,
+          47.4341194
         ],
         [
-          8.4671197,
-          47.4342558
+          8.4672613,
+          47.4341873
         ],
         [
-          8.467076,
-          47.434215
+          8.4672016,
+          47.4342172
         ],
         [
-          8.4669487,
-          47.434249
+          8.4671994,
+          47.4342155
         ],
         [
-          8.4667811,
-          47.4340966
+          8.4671166,
+          47.4342573
+        ],
+        [
+          8.4671141,
+          47.4342548
         ]
       ]
     ]
@@ -76287,6 +76668,10 @@
   "type": "Feature",
   "id": "way/289326558",
   "properties": {
+    "addr:city": "Ottikon",
+    "addr:housenumber": "117",
+    "addr:postcode": "8626",
+    "addr:street": "Grüningerstrasse",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Strick",
@@ -76300,24 +76685,52 @@
     "coordinates": [
       [
         [
-          8.7821056,
-          47.2967441
+          8.782081,
+          47.296762
         ],
         [
-          8.7822789,
-          47.2968502
+          8.78224,
+          47.2968618
         ],
         [
-          8.7821593,
-          47.2969401
+          8.7821338,
+          47.2969423
         ],
         [
-          8.781986,
-          47.2968339
+          8.7820952,
+          47.2969184
         ],
         [
-          8.7821056,
-          47.2967441
+          8.7820869,
+          47.2969234
+        ],
+        [
+          8.7820806,
+          47.2969257
+        ],
+        [
+          8.782066,
+          47.2969257
+        ],
+        [
+          8.7820589,
+          47.2969229
+        ],
+        [
+          8.7820146,
+          47.2968945
+        ],
+        [
+          8.7820343,
+          47.2968805
+        ],
+        [
+          8.781974,
+          47.2968435
+        ],
+        [
+          8.782081,
+          47.296762
         ]
       ]
     ]
@@ -86536,7 +86949,7 @@
   "id": "way/414673777",
   "properties": {
     "amenity": "school",
-    "name": "Primarschulhaus Reutlingen",
+    "name": "Primarschule Reutlingen",
     "id": "way/414673777"
   },
   "geometry": {
@@ -108547,6 +108960,54 @@
 },
 {
   "type": "Feature",
+  "id": "way/1084661846",
+  "properties": {
+    "amenity": "school",
+    "building": "yes",
+    "id": "way/1084661846"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4672016,
+          47.4342172
+        ],
+        [
+          8.4673322,
+          47.4343385
+        ],
+        [
+          8.4672043,
+          47.4344031
+        ],
+        [
+          8.4670692,
+          47.4342781
+        ],
+        [
+          8.4671141,
+          47.4342548
+        ],
+        [
+          8.4671166,
+          47.4342573
+        ],
+        [
+          8.4671994,
+          47.4342155
+        ],
+        [
+          8.4672016,
+          47.4342172
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/122507552",
   "properties": {
     "amenity": "school",
@@ -108683,72 +109144,6 @@
     "coordinates": [
       8.6559139,
       47.7052453
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/280800980",
-  "properties": {
-    "amenity": "school",
-    "created_by": "Potlatch 0.10",
-    "name": "Schulhaus Feld II",
-    "id": "node/280800980"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6910088,
-      47.2085337
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/280801003",
-  "properties": {
-    "amenity": "school",
-    "name": "Schulhaus Feld I",
-    "id": "node/280801003"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6903924,
-      47.2082587
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/281040929",
-  "properties": {
-    "amenity": "school",
-    "name": "Schulhaus Boden",
-    "id": "node/281040929"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.697574,
-      47.2081424
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/281041140",
-  "properties": {
-    "amenity": "school",
-    "created_by": "Potlatch 0.10",
-    "name": "Schulhaus Töss",
-    "id": "node/281041140"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7018469,
-      47.2075538
     ]
   }
 },
@@ -108944,22 +109339,6 @@
     "coordinates": [
       8.7224208,
       47.3546819
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/414966744",
-  "properties": {
-    "amenity": "school",
-    "name": "Kindergarten Feld 2",
-    "id": "node/414966744"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6907948,
-      47.208773
     ]
   }
 },
@@ -109311,22 +109690,6 @@
     "coordinates": [
       8.6116608,
       47.0504827
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/569327653",
-  "properties": {
-    "amenity": "school",
-    "name": "Kindergarten Im Leemann",
-    "id": "node/569327653"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6947486,
-      47.2061509
     ]
   }
 },
@@ -114347,6 +114710,26 @@
     "coordinates": [
       8.6436972,
       47.268002
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9938724216",
+  "properties": {
+    "addr:city": "Ottenbach",
+    "addr:housenumber": "25",
+    "addr:postcode": "8913",
+    "addr:street": "Stüdlerstrasse",
+    "amenity": "school",
+    "name": "ZIEL Schule AG",
+    "id": "node/9938724216"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3980765,
+      47.2835782
     ]
   }
 }

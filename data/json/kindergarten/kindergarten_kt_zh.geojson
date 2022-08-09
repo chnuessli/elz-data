@@ -2718,6 +2718,62 @@
 },
 {
   "type": "Feature",
+  "id": "way/35383616",
+  "properties": {
+    "addr:housenumber": "11",
+    "addr:postcode": "8805",
+    "addr:street": "Feldstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Feld 2",
+    "id": "way/35383616"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6908536,
+          47.2087265
+        ],
+        [
+          8.6909127,
+          47.2088641
+        ],
+        [
+          8.690775,
+          47.2088914
+        ],
+        [
+          8.6907617,
+          47.2088603
+        ],
+        [
+          8.690669,
+          47.2088787
+        ],
+        [
+          8.6906422,
+          47.2088163
+        ],
+        [
+          8.6907364,
+          47.2087976
+        ],
+        [
+          8.6907174,
+          47.2087535
+        ],
+        [
+          8.6908536,
+          47.2087265
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/36392300",
   "properties": {
     "addr:housenumber": "19",
@@ -3126,11 +3182,12 @@
   "type": "Feature",
   "id": "way/37825655",
   "properties": {
+    "addr:city": "Richterswil",
     "addr:housenumber": "5",
     "addr:postcode": "8805",
     "addr:street": "Erlenstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Rosengarten",
     "id": "way/37825655"
   },
@@ -5031,6 +5088,55 @@
         [
           8.509562,
           47.3542039
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/44848340",
+  "properties": {
+    "addr:city": "Richterswil",
+    "addr:housenumber": "12",
+    "addr:postcode": "8805",
+    "addr:street": "Im Leemann",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "name": "Kindergarten Im Leemann",
+    "id": "way/44848340"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6946114,
+          47.2061544
+        ],
+        [
+          8.6946604,
+          47.2060826
+        ],
+        [
+          8.6947535,
+          47.2061119
+        ],
+        [
+          8.6948095,
+          47.2060297
+        ],
+        [
+          8.6948913,
+          47.2060554
+        ],
+        [
+          8.6947861,
+          47.2062095
+        ],
+        [
+          8.6946114,
+          47.2061544
         ]
       ]
     ]
@@ -10340,7 +10446,7 @@
     "addr:postcode": "8805",
     "addr:street": "Etzelstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Etzelstrasse",
     "id": "way/100318512"
   },
@@ -15970,7 +16076,7 @@
     "addr:postcode": "8118",
     "addr:street": "Benglenstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Bommern",
     "id": "way/171375691"
   },
@@ -31657,6 +31763,59 @@
 },
 {
   "type": "Feature",
+  "id": "way/1084678071",
+  "properties": {
+    "addr:city": "Richterswil",
+    "addr:housenumber": "10",
+    "addr:postcode": "8805",
+    "addr:street": "Im Wisli",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Wisli 1+2",
+    "id": "way/1084678071"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7099157,
+          47.2036416
+        ],
+        [
+          8.7098649,
+          47.2035914
+        ],
+        [
+          8.7100487,
+          47.203506
+        ],
+        [
+          8.7100735,
+          47.2035304
+        ],
+        [
+          8.7100784,
+          47.2035283
+        ],
+        [
+          8.7100998,
+          47.2035497
+        ],
+        [
+          8.7101047,
+          47.2035545
+        ],
+        [
+          8.7099157,
+          47.2036416
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
@@ -31810,14 +31969,14 @@
     "addr:postcode": "8330",
     "addr:street": "Obermattstrasse",
     "amenity": "kindergarten",
-    "name": "Obermatt",
+    "name": "Kindergarten Obermatt",
     "id": "node/381119267"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7801028,
-      47.3691273
+      8.7800768,
+      47.3691617
     ]
   }
 },
@@ -35938,7 +36097,12 @@
   "type": "Feature",
   "id": "node/5620206390",
   "properties": {
+    "addr:city": "Pfäffikon",
+    "addr:housenumber": "6",
+    "addr:postcode": "8330",
+    "addr:street": "Dorfstrasse",
     "amenity": "kindergarten",
+    "name": "Kindergarten Irgenhausen",
     "id": "node/5620206390"
   },
   "geometry": {
@@ -38500,15 +38664,19 @@
   "type": "Feature",
   "id": "node/8399310085",
   "properties": {
+    "addr:city": "Pfäffikon ZH",
+    "addr:housenumber": "26",
+    "addr:postcode": "8330",
+    "addr:street": "Pilatusstrasse",
     "amenity": "kindergarten",
-    "name": "Pilatus",
+    "name": "Kindergarten Pilatus 1+2",
     "id": "node/8399310085"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7828683,
-      47.3644139
+      8.7828223,
+      47.3644428
     ]
   }
 },
@@ -42757,6 +42925,146 @@
     "coordinates": [
       8.3908103,
       47.4612742
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9939315440",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "64",
+    "addr:postcode": "8105",
+    "addr:street": "Gerenstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Geren",
+    "id": "node/9939315440"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.46275,
+      47.4359695
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9939318040",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "17",
+    "addr:postcode": "8105",
+    "addr:street": "Ackerstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Roos",
+    "id": "node/9939318040"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4722395,
+      47.4297511
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9939319861",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "67",
+    "addr:postcode": "8105",
+    "addr:street": "Stationsstrasse",
+    "amenity": "kindergarten",
+    "name": "Kleingruppenschule Furttal",
+    "id": "node/9939319861"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4714865,
+      47.4363096
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9939324750",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "70",
+    "addr:postcode": "8105",
+    "addr:street": "Schulstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Ruggenacher",
+    "id": "node/9939324750"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4671108,
+      47.4341882
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9939346499",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "80",
+    "addr:postcode": "8105",
+    "addr:street": "Hönggerstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Leimatt",
+    "id": "node/9939346499"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4672161,
+      47.4287666
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9939356512",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "6",
+    "addr:postcode": "8105",
+    "addr:street": "Im Dreispitz",
+    "amenity": "kindergarten",
+    "name": "Kindergarten im Dreispitz",
+    "id": "node/9939356512"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4639242,
+      47.4364794
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9939518550",
+  "properties": {
+    "addr:city": "Richterswil",
+    "addr:housenumber": "5",
+    "addr:postcode": "8805",
+    "addr:street": "Zugerstrasse",
+    "amenity": "kindergarten",
+    "name": "Zauberflöte KiTa & KiGa",
+    "id": "node/9939518550"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.705867,
+      47.2048266
     ]
   }
 }
