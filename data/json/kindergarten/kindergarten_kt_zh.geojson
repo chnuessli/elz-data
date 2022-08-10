@@ -4258,6 +4258,64 @@
 },
 {
   "type": "Feature",
+  "id": "way/42303288",
+  "properties": {
+    "addr:city": "Rümlang",
+    "addr:housenumber": "20",
+    "addr:postcode": "8153",
+    "addr:street": "Chilestieg",
+    "amenity": "kindergarten",
+    "building": "school",
+    "name": "Kindergarten Zürichweg 1+2",
+    "source": "Yahoo aerial images",
+    "id": "way/42303288"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5269973,
+          47.448286
+        ],
+        [
+          8.5271339,
+          47.4481871
+        ],
+        [
+          8.5274113,
+          47.4483622
+        ],
+        [
+          8.5272883,
+          47.4484513
+        ],
+        [
+          8.5272352,
+          47.4484178
+        ],
+        [
+          8.5271932,
+          47.4484482
+        ],
+        [
+          8.527034,
+          47.4483477
+        ],
+        [
+          8.5270624,
+          47.4483271
+        ],
+        [
+          8.5269973,
+          47.448286
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/42308484",
   "properties": {
     "addr:housenumber": "2",
@@ -4349,9 +4407,13 @@
   "type": "Feature",
   "id": "way/42508651",
   "properties": {
+    "addr:city": "Rümlang",
+    "addr:housenumber": "17",
+    "addr:postcode": "8153",
+    "addr:street": "Kratzstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Kratz",
+    "building": "kindergarten",
+    "name": "Kindergarten Chratz 1+2",
     "source": "Yahoo aerial images",
     "id": "way/42508651"
   },
@@ -4436,6 +4498,64 @@
         [
           8.5293482,
           47.4105947
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/42707880",
+  "properties": {
+    "addr:city": "Rümlang",
+    "addr:housenumber": "14",
+    "addr:postcode": "8153",
+    "addr:street": "Tempelhofstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Obermatten",
+    "source": "Yahoo aerial images",
+    "id": "way/42707880"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5325745,
+          47.4466547
+        ],
+        [
+          8.532583,
+          47.446592
+        ],
+        [
+          8.5324726,
+          47.4465851
+        ],
+        [
+          8.532487,
+          47.4464785
+        ],
+        [
+          8.5326569,
+          47.4464893
+        ],
+        [
+          8.5326489,
+          47.4465521
+        ],
+        [
+          8.53276,
+          47.4465589
+        ],
+        [
+          8.5327454,
+          47.4466655
+        ],
+        [
+          8.5325745,
+          47.4466547
         ]
       ]
     ]
@@ -15859,6 +15979,83 @@
 },
 {
   "type": "Feature",
+  "id": "way/164210625",
+  "properties": {
+    "addr:city": "Rickenbach Sulz",
+    "addr:housenumber": "43",
+    "addr:postcode": "8545",
+    "addr:street": "Hofackerstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Hofacker",
+    "id": "way/164210625"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7899943,
+          47.54039
+        ],
+        [
+          8.7899993,
+          47.540304
+        ],
+        [
+          8.7901137,
+          47.540307
+        ],
+        [
+          8.7901151,
+          47.5402818
+        ],
+        [
+          8.7901724,
+          47.5402833
+        ],
+        [
+          8.7901736,
+          47.5402613
+        ],
+        [
+          8.7904103,
+          47.5402676
+        ],
+        [
+          8.790405,
+          47.5403583
+        ],
+        [
+          8.7903637,
+          47.5403572
+        ],
+        [
+          8.7903609,
+          47.5404067
+        ],
+        [
+          8.7903594,
+          47.5404326
+        ],
+        [
+          8.790147,
+          47.540427
+        ],
+        [
+          8.790149,
+          47.540394
+        ],
+        [
+          8.7899943,
+          47.54039
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/165255605",
   "properties": {
     "amenity": "kindergarten",
@@ -17255,6 +17452,56 @@
         [
           8.4522395,
           47.4772665
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/195812008",
+  "properties": {
+    "addr:city": "Rikon",
+    "addr:housenumber": "5",
+    "addr:postcode": "8486",
+    "addr:street": "Sunnemattstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "name": "Kindergarten Sunnematt",
+    "id": "way/195812008"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7976728,
+          47.4455159
+        ],
+        [
+          8.7975094,
+          47.4455351
+        ],
+        [
+          8.7972909,
+          47.4455747
+        ],
+        [
+          8.7972431,
+          47.4454501
+        ],
+        [
+          8.7974995,
+          47.4454003
+        ],
+        [
+          8.7976529,
+          47.4453878
+        ],
+        [
+          8.7976728,
+          47.4455159
         ]
       ]
     ]
@@ -33071,22 +33318,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1873146999",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Zürichweg",
-    "id": "node/1873146999"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5271904,
-      47.4483356
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1892268177",
   "properties": {
     "amenity": "kindergarten",
@@ -33116,8 +33347,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5286028,
-      47.4510642
+      8.5285856,
+      47.4511024
     ]
   }
 },
@@ -43065,6 +43296,86 @@
     "coordinates": [
       8.705867,
       47.2048266
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9941823610",
+  "properties": {
+    "addr:city": "Rorbas",
+    "addr:housenumber": "10",
+    "addr:postcode": "8427",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Rorbas 1+2",
+    "id": "node/9941823610"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5767455,
+      47.5313513
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9941842935",
+  "properties": {
+    "addr:city": "Rorbas",
+    "addr:housenumber": "19",
+    "addr:postcode": "8427",
+    "addr:street": "Zilacherstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Rorbas 3",
+    "id": "node/9941842935"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5775547,
+      47.532243
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9941932044",
+  "properties": {
+    "addr:city": "Rümlang",
+    "addr:housenumber": "18",
+    "addr:postcode": "8153",
+    "addr:street": "Kratzstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Chratz 3",
+    "id": "node/9941932044"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5316898,
+      47.4515443
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9941965137",
+  "properties": {
+    "addr:city": "Rümlang",
+    "addr:housenumber": "30",
+    "addr:postcode": "8153",
+    "addr:street": "Rümelbachstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Rümelbach 1, 2, 3",
+    "id": "node/9941965137"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5351035,
+      47.4462498
     ]
   }
 }

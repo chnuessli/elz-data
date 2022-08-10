@@ -13232,6 +13232,156 @@
 },
 {
   "type": "Feature",
+  "id": "way/34755084",
+  "properties": {
+    "addr:city": "Rikon",
+    "addr:housenumber": "13",
+    "addr:postcode": "8486",
+    "addr:street": "Schulstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Engelburg Sekundarstufe Zell",
+    "id": "way/34755084"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7961313,
+          47.4460603
+        ],
+        [
+          8.796169,
+          47.4461165
+        ],
+        [
+          8.7962405,
+          47.4460944
+        ],
+        [
+          8.7962775,
+          47.4461493
+        ],
+        [
+          8.7963177,
+          47.446209
+        ],
+        [
+          8.7962487,
+          47.4462303
+        ],
+        [
+          8.7962896,
+          47.446291
+        ],
+        [
+          8.7962397,
+          47.4463064
+        ],
+        [
+          8.7959092,
+          47.4464081
+        ],
+        [
+          8.7957534,
+          47.4461767
+        ],
+        [
+          8.7961313,
+          47.4460603
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/34755227",
+  "properties": {
+    "addr:city": "Rikon",
+    "addr:housenumber": "10",
+    "addr:postcode": "8486",
+    "addr:street": "Schulstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Hirsgarten",
+    "id": "way/34755227"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7963176,
+          47.446422
+        ],
+        [
+          8.7962397,
+          47.4463064
+        ],
+        [
+          8.7962896,
+          47.446291
+        ],
+        [
+          8.7963098,
+          47.4462848
+        ],
+        [
+          8.7963528,
+          47.4463486
+        ],
+        [
+          8.7964556,
+          47.446317
+        ],
+        [
+          8.796517,
+          47.4462981
+        ],
+        [
+          8.7963602,
+          47.4460651
+        ],
+        [
+          8.7965321,
+          47.4460122
+        ],
+        [
+          8.7966471,
+          47.4461831
+        ],
+        [
+          8.7966924,
+          47.4461702
+        ],
+        [
+          8.7970483,
+          47.4460596
+        ],
+        [
+          8.7971249,
+          47.4461734
+        ],
+        [
+          8.7964895,
+          47.4463691
+        ],
+        [
+          8.7963741,
+          47.4464046
+        ],
+        [
+          8.7963176,
+          47.446422
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/34931491",
   "properties": {
     "addr:city": "Winterthur",
@@ -16062,10 +16212,13 @@
   "type": "Feature",
   "id": "way/38612737",
   "properties": {
+    "addr:city": "Rikon",
     "addr:housenumber": "45",
+    "addr:postcode": "8486",
     "addr:street": "Tösstalstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
+    "name": "Schulhaus Tösstalstrasse",
     "id": "way/38612737"
   },
   "geometry": {
@@ -16324,9 +16477,13 @@
   "type": "Feature",
   "id": "way/38908356",
   "properties": {
+    "addr:city": "Rümlang",
+    "addr:housenumber": "30",
+    "addr:postcode": "8153",
+    "addr:street": "Rümelbachstrasse",
     "amenity": "school",
-    "building": "yes",
-    "name": "Schule Rümelbach",
+    "building": "school",
+    "name": "Schulhaus Rümelbach",
     "religion": "none",
     "website": "https://www.psruemlang.ch/p28007594.html",
     "id": "way/38908356"
@@ -18396,6 +18553,106 @@
         [
           8.5751241,
           47.4467817
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/44830564",
+  "properties": {
+    "addr:city": "Rorbas",
+    "addr:housenumber": "19/19a",
+    "addr:postcode": "8427",
+    "addr:street": "Zilacherstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Zilacher",
+    "source": "Yahoo aerial images",
+    "id": "way/44830564"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5772037,
+          47.5325329
+        ],
+        [
+          8.5775274,
+          47.5321198
+        ],
+        [
+          8.5777404,
+          47.5321959
+        ],
+        [
+          8.5774166,
+          47.532609
+        ],
+        [
+          8.577265,
+          47.5325552
+        ],
+        [
+          8.5772426,
+          47.532547
+        ],
+        [
+          8.5772037,
+          47.5325329
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/44830573",
+  "properties": {
+    "addr:city": "Rorbas",
+    "addr:housenumber": "10",
+    "addr:postcode": "8427",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Im Ifang",
+    "source": "Yahoo aerial images",
+    "id": "way/44830573"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.576668,
+          47.5313723
+        ],
+        [
+          8.5767384,
+          47.531271
+        ],
+        [
+          8.5770211,
+          47.5313606
+        ],
+        [
+          8.5769507,
+          47.5314619
+        ],
+        [
+          8.5769194,
+          47.531452
+        ],
+        [
+          8.5767849,
+          47.5314093
+        ],
+        [
+          8.576668,
+          47.5313723
         ]
       ]
     ]
@@ -27597,7 +27854,7 @@
     "addr:postcode": "8803",
     "addr:street": "Säumerstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Primarschule im Moos",
     "id": "way/95730457"
   },
@@ -43437,6 +43694,175 @@
 },
 {
   "type": "Feature",
+  "id": "way/164210585",
+  "properties": {
+    "addr:city": "Rickenbach Sulz",
+    "addr:housenumber": "5",
+    "addr:postcode": "8545",
+    "addr:street": "Breitestrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Primarschulhaus Hofacker",
+    "id": "way/164210585"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7894441,
+          47.5405507
+        ],
+        [
+          8.7894409,
+          47.5405793
+        ],
+        [
+          8.7894754,
+          47.5405811
+        ],
+        [
+          8.7894716,
+          47.5406143
+        ],
+        [
+          8.7894368,
+          47.5406125
+        ],
+        [
+          8.7894359,
+          47.5406205
+        ],
+        [
+          8.7892987,
+          47.5406135
+        ],
+        [
+          8.7893095,
+          47.5405181
+        ],
+        [
+          8.789432,
+          47.5405244
+        ],
+        [
+          8.7894431,
+          47.5404261
+        ],
+        [
+          8.7894026,
+          47.540424
+        ],
+        [
+          8.7894127,
+          47.5403348
+        ],
+        [
+          8.7895466,
+          47.5403417
+        ],
+        [
+          8.7895432,
+          47.5403717
+        ],
+        [
+          8.7896664,
+          47.540378
+        ],
+        [
+          8.7896633,
+          47.5404061
+        ],
+        [
+          8.7897867,
+          47.5404124
+        ],
+        [
+          8.7897683,
+          47.5405747
+        ],
+        [
+          8.7897238,
+          47.5405725
+        ],
+        [
+          8.7897208,
+          47.5405993
+        ],
+        [
+          8.7897529,
+          47.5406009
+        ],
+        [
+          8.7897516,
+          47.5406132
+        ],
+        [
+          8.7898739,
+          47.5406194
+        ],
+        [
+          8.7898649,
+          47.5406987
+        ],
+        [
+          8.7899173,
+          47.5407014
+        ],
+        [
+          8.7898971,
+          47.54088
+        ],
+        [
+          8.7897501,
+          47.5408725
+        ],
+        [
+          8.7897571,
+          47.5408099
+        ],
+        [
+          8.7896889,
+          47.5408064
+        ],
+        [
+          8.7896933,
+          47.540768
+        ],
+        [
+          8.7896444,
+          47.5407655
+        ],
+        [
+          8.7896526,
+          47.5406929
+        ],
+        [
+          8.789701,
+          47.5406953
+        ],
+        [
+          8.7897082,
+          47.5406322
+        ],
+        [
+          8.789581,
+          47.5406257
+        ],
+        [
+          8.7895886,
+          47.5405581
+        ],
+        [
+          8.7894441,
+          47.5405507
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/164210909",
   "properties": {
     "amenity": "school",
@@ -43679,7 +44105,7 @@
   "id": "way/165255607",
   "properties": {
     "amenity": "school",
-    "name": "Oberstufenschulhaus Mülihalde",
+    "name": "Oberstufenschule Mülihalde",
     "id": "way/165255607"
   },
   "geometry": {
@@ -43715,8 +44141,8 @@
           47.5528889
         ],
         [
-          8.7980178,
-          47.5526485
+          8.7979988,
+          47.5526413
         ],
         [
           8.7979598,
@@ -43739,7 +44165,7 @@
   "id": "way/165255608",
   "properties": {
     "amenity": "school",
-    "name": "Primarschulhaus",
+    "name": "Primarschule Rickenbach ZH",
     "id": "way/165255608"
   },
   "geometry": {
@@ -43797,6 +44223,172 @@
         [
           8.7924166,
           47.55197
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/165255661",
+  "properties": {
+    "addr:city": "Rickenbach",
+    "addr:housenumber": "6",
+    "addr:postcode": "8545",
+    "addr:street": "Austrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Primarschule und Kindergarten Dorf",
+    "id": "way/165255661"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7932473,
+          47.5517876
+        ],
+        [
+          8.7932603,
+          47.5517545
+        ],
+        [
+          8.7936001,
+          47.5518157
+        ],
+        [
+          8.7935391,
+          47.5519701
+        ],
+        [
+          8.7933175,
+          47.5519301
+        ],
+        [
+          8.7933333,
+          47.5518902
+        ],
+        [
+          8.7932876,
+          47.551882
+        ],
+        [
+          8.7932759,
+          47.5519134
+        ],
+        [
+          8.793079,
+          47.5518805
+        ],
+        [
+          8.7930675,
+          47.5519613
+        ],
+        [
+          8.7929765,
+          47.5519553
+        ],
+        [
+          8.792974,
+          47.5519729
+        ],
+        [
+          8.7927977,
+          47.5519614
+        ],
+        [
+          8.7928402,
+          47.5516654
+        ],
+        [
+          8.7930165,
+          47.551677
+        ],
+        [
+          8.7930049,
+          47.5517573
+        ],
+        [
+          8.7931085,
+          47.5517641
+        ],
+        [
+          8.7932473,
+          47.5517876
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/165255823",
+  "properties": {
+    "addr:city": "Rickenbach ZH",
+    "addr:housenumber": "16",
+    "addr:postcode": "8545",
+    "addr:street": "Mülihaldenstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Bungert",
+    "id": "way/165255823"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7980168,
+          47.5526525
+        ],
+        [
+          8.7982589,
+          47.5526972
+        ],
+        [
+          8.7982297,
+          47.5527717
+        ],
+        [
+          8.7983192,
+          47.5527884
+        ],
+        [
+          8.798325,
+          47.5527694
+        ],
+        [
+          8.7986987,
+          47.5528383
+        ],
+        [
+          8.798662,
+          47.5529318
+        ],
+        [
+          8.7983863,
+          47.5528805
+        ],
+        [
+          8.7983792,
+          47.5528982
+        ],
+        [
+          8.7981886,
+          47.5528624
+        ],
+        [
+          8.7981985,
+          47.5528334
+        ],
+        [
+          8.7979623,
+          47.5527892
+        ],
+        [
+          8.7980168,
+          47.5526525
         ]
       ]
     ]
@@ -77185,6 +77777,48 @@
 },
 {
   "type": "Feature",
+  "id": "way/511350839",
+  "properties": {
+    "addr:city": "Rorbas",
+    "addr:housenumber": "23",
+    "addr:postcode": "8427",
+    "addr:street": "Postgasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Weinlandschule",
+    "source": "Kanton Zürich Orthofotos 2015",
+    "id": "way/511350839"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5806567,
+          47.5285851
+        ],
+        [
+          8.580613,
+          47.5284565
+        ],
+        [
+          8.5807409,
+          47.5284367
+        ],
+        [
+          8.5807846,
+          47.5285653
+        ],
+        [
+          8.5806567,
+          47.5285851
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/511565703",
   "properties": {
     "amenity": "school",
@@ -77418,7 +78052,7 @@
   "properties": {
     "amenity": "school",
     "description": "Secondary school/high school, primary school & Preschool/Kindergarten",
-    "name": "Schulhaus Worbiger",
+    "name": "Schule Worbiger",
     "id": "way/527361780"
   },
   "geometry": {
@@ -91962,6 +92596,135 @@
 },
 {
   "type": "Feature",
+  "id": "way/1084993373",
+  "properties": {
+    "addr:city": "Rümlang",
+    "addr:housenumber": "6",
+    "addr:postcode": "8153",
+    "addr:street": "Katzenrütistrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Turnhalle und Gemeindesaal",
+    "id": "way/1084993373"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5277714,
+          47.4504798
+        ],
+        [
+          8.5276988,
+          47.4505716
+        ],
+        [
+          8.5276239,
+          47.4505441
+        ],
+        [
+          8.5276322,
+          47.4505337
+        ],
+        [
+          8.5275317,
+          47.4504968
+        ],
+        [
+          8.5275519,
+          47.4504717
+        ],
+        [
+          8.5274074,
+          47.4504186
+        ],
+        [
+          8.5273503,
+          47.4503976
+        ],
+        [
+          8.5273878,
+          47.4503509
+        ],
+        [
+          8.5274587,
+          47.4502627
+        ],
+        [
+          8.5278236,
+          47.4503968
+        ],
+        [
+          8.5278348,
+          47.4504009
+        ],
+        [
+          8.5277714,
+          47.4504798
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1084993374",
+  "properties": {
+    "addr:city": "Rümlang",
+    "addr:housenumber": "10",
+    "addr:postcode": "8153",
+    "addr:street": "Katzenrütistrasse",
+    "amenity": "school",
+    "name": "Turnhalle und Schwimmbad",
+    "id": "way/1084993374"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5279558,
+          47.4509004
+        ],
+        [
+          8.5278189,
+          47.4510709
+        ],
+        [
+          8.5280765,
+          47.4511655
+        ],
+        [
+          8.5279805,
+          47.451285
+        ],
+        [
+          8.5276803,
+          47.4511747
+        ],
+        [
+          8.5277114,
+          47.451136
+        ],
+        [
+          8.5276415,
+          47.4511104
+        ],
+        [
+          8.5278433,
+          47.450859
+        ],
+        [
+          8.5279558,
+          47.4509004
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/256335788",
   "properties": {
     "amenity": "school",
@@ -96456,6 +97219,46 @@
     "coordinates": [
       8.3980765,
       47.2835782
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9942010488",
+  "properties": {
+    "addr:city": "Rüschlikon",
+    "addr:housenumber": "78",
+    "addr:postcode": "8803",
+    "addr:street": "Seestrasse",
+    "amenity": "school",
+    "name": "KIDS at Lake",
+    "id": "node/9942010488"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5582416,
+      47.3069075
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9942017452",
+  "properties": {
+    "addr:city": "Rüschlikon",
+    "addr:housenumber": "17",
+    "addr:postcode": "8803",
+    "addr:street": "Loostrasse",
+    "amenity": "school",
+    "name": "Kids Residence",
+    "id": "node/9942017452"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5435305,
+      47.3057565
     ]
   }
 }
