@@ -326,6 +326,7 @@
     "amenity": "kindergarten",
     "building": "yes",
     "building:levels": "2",
+    "name": "ETH HKK",
     "id": "way/20457119"
   },
   "geometry": {
@@ -8072,12 +8073,13 @@
   "type": "Feature",
   "id": "way/87909115",
   "properties": {
+    "addr:city": "Samstagern",
     "addr:housenumber": "7",
     "addr:postcode": "8833",
     "addr:street": "Hügsam",
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Hügsam",
+    "building": "kindergarten",
+    "name": "Kindergarten Hügsam 1+2",
     "id": "way/87909115"
   },
   "geometry": {
@@ -8988,6 +8990,71 @@
         [
           8.53151,
           47.3899755
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/90857727",
+  "properties": {
+    "addr:city": "Russikon",
+    "addr:housenumber": "11",
+    "addr:postcode": "8332",
+    "addr:street": "Wilhofstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Neuwiese 1+2",
+    "id": "way/90857727"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7767421,
+          47.3918271
+        ],
+        [
+          8.7764772,
+          47.3916852
+        ],
+        [
+          8.7765284,
+          47.3916413
+        ],
+        [
+          8.7765978,
+          47.3916785
+        ],
+        [
+          8.7766548,
+          47.3916298
+        ],
+        [
+          8.7767259,
+          47.3916679
+        ],
+        [
+          8.7767768,
+          47.3916244
+        ],
+        [
+          8.7768368,
+          47.3916565
+        ],
+        [
+          8.7767228,
+          47.391754
+        ],
+        [
+          8.7767872,
+          47.3917885
+        ],
+        [
+          8.7767421,
+          47.3918271
         ]
       ]
     ]
@@ -11524,6 +11591,120 @@
 },
 {
   "type": "Feature",
+  "id": "way/113620846",
+  "properties": {
+    "addr:city": "Schlieren",
+    "addr:housenumber": "19",
+    "addr:postcode": "8952",
+    "addr:street": "Schulstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Schulhaus und Kindergarten Nähhüsli",
+    "id": "way/113620846"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4520381,
+          47.3971052
+        ],
+        [
+          8.4521856,
+          47.3971335
+        ],
+        [
+          8.4521299,
+          47.3972645
+        ],
+        [
+          8.4519836,
+          47.3972362
+        ],
+        [
+          8.4520381,
+          47.3971052
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/114025339",
+  "properties": {
+    "addr:city": "Schlieren",
+    "addr:housenumber": "1",
+    "addr:postcode": "8952",
+    "addr:street": "Kesslerweg",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Im Kessler 1+2",
+    "id": "way/114025339"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4364593,
+          47.3963166
+        ],
+        [
+          8.4364257,
+          47.3963148
+        ],
+        [
+          8.4364359,
+          47.396226
+        ],
+        [
+          8.4365954,
+          47.3962344
+        ],
+        [
+          8.4365852,
+          47.3963232
+        ],
+        [
+          8.4365349,
+          47.3963206
+        ],
+        [
+          8.4365349,
+          47.3963405
+        ],
+        [
+          8.4366304,
+          47.3963455
+        ],
+        [
+          8.4366174,
+          47.3964587
+        ],
+        [
+          8.43644,
+          47.3964494
+        ],
+        [
+          8.436453,
+          47.3963362
+        ],
+        [
+          8.4364593,
+          47.3963366
+        ],
+        [
+          8.4364593,
+          47.3963166
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/114160728",
   "properties": {
     "addr:city": "Zürich",
@@ -11655,8 +11836,8 @@
     "addr:postcode": "8952",
     "addr:street": "Zürcherstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten im Moos",
+    "building": "kindergarten",
+    "name": "Kindergarten im Moos 1+2",
     "id": "way/116472523"
   },
   "geometry": {
@@ -16393,8 +16574,8 @@
     "addr:postcode": "8952",
     "addr:street": "Schulstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Halde",
+    "building": "kindergarten",
+    "name": "Kindergarten Halde 1+2",
     "roof:shape": "flat",
     "id": "way/158712576"
   },
@@ -16519,6 +16700,64 @@
         [
           8.7238562,
           47.7065484
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/159358977",
+  "properties": {
+    "addr:city": "Schlieren",
+    "addr:housenumber": "4",
+    "addr:postcode": "8952",
+    "addr:street": "Rohrweg",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Zelgli 1+2",
+    "source": "bing",
+    "id": "way/159358977"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4466753,
+          47.4035867
+        ],
+        [
+          8.4466986,
+          47.4036848
+        ],
+        [
+          8.446523,
+          47.4037051
+        ],
+        [
+          8.4464523,
+          47.4034286
+        ],
+        [
+          8.4466329,
+          47.4034094
+        ],
+        [
+          8.4466574,
+          47.4035093
+        ],
+        [
+          8.4466488,
+          47.4035107
+        ],
+        [
+          8.4466668,
+          47.4035868
+        ],
+        [
+          8.4466753,
+          47.4035867
         ]
       ]
     ]
@@ -18713,6 +18952,87 @@
         [
           8.4522395,
           47.4772665
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/194185092",
+  "properties": {
+    "addr:city": "Rüti ZH",
+    "addr:housenumber": "27c",
+    "addr:postcode": "8630",
+    "addr:street": "Alpenblickstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Alpenblick 1+2",
+    "id": "way/194185092"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8446628,
+          47.2557057
+        ],
+        [
+          8.8446721,
+          47.2555847
+        ],
+        [
+          8.8447915,
+          47.255589
+        ],
+        [
+          8.8447932,
+          47.2555669
+        ],
+        [
+          8.8448588,
+          47.2555692
+        ],
+        [
+          8.8448574,
+          47.2555873
+        ],
+        [
+          8.8449641,
+          47.255591
+        ],
+        [
+          8.8449656,
+          47.2555724
+        ],
+        [
+          8.845028,
+          47.2555747
+        ],
+        [
+          8.8450195,
+          47.2556859
+        ],
+        [
+          8.8449695,
+          47.2556841
+        ],
+        [
+          8.844965,
+          47.2557423
+        ],
+        [
+          8.8447618,
+          47.2557351
+        ],
+        [
+          8.8447638,
+          47.2557093
+        ],
+        [
+          8.8446628,
+          47.2557057
         ]
       ]
     ]
@@ -23022,6 +23342,64 @@
 },
 {
   "type": "Feature",
+  "id": "way/253438946",
+  "properties": {
+    "addr:city": "Rüti (ZH)",
+    "addr:housenumber": "25",
+    "addr:postcode": "8630",
+    "addr:street": "Fägswilerstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Fägswil 2",
+    "source": "bing",
+    "id": "way/253438946"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8701384,
+          47.2652898
+        ],
+        [
+          8.870022,
+          47.2652764
+        ],
+        [
+          8.8700348,
+          47.2652251
+        ],
+        [
+          8.8701018,
+          47.2652328
+        ],
+        [
+          8.8701723,
+          47.2652409
+        ],
+        [
+          8.8702349,
+          47.2651519
+        ],
+        [
+          8.8703546,
+          47.2651907
+        ],
+        [
+          8.8702578,
+          47.2653284
+        ],
+        [
+          8.8701384,
+          47.2652898
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/255434379",
   "properties": {
     "amenity": "kindergarten",
@@ -25896,6 +26274,63 @@
         [
           8.4066649,
           47.5024263
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/311986089",
+  "properties": {
+    "addr:city": "Schöfflisdorf",
+    "addr:housenumber": "6",
+    "addr:postcode": "8165",
+    "addr:street": "Bergstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Im Rietli",
+    "id": "way/311986089"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4129052,
+          47.5017519
+        ],
+        [
+          8.4128784,
+          47.5016222
+        ],
+        [
+          8.413325,
+          47.5015801
+        ],
+        [
+          8.4133508,
+          47.5017052
+        ],
+        [
+          8.4132071,
+          47.5017188
+        ],
+        [
+          8.4132144,
+          47.5017544
+        ],
+        [
+          8.4130912,
+          47.501766
+        ],
+        [
+          8.4130848,
+          47.5017349
+        ],
+        [
+          8.4129052,
+          47.5017519
         ]
       ]
     ]
@@ -36914,6 +37349,10 @@
   "type": "Feature",
   "id": "node/1892268177",
   "properties": {
+    "addr:city": "Schleinikon",
+    "addr:housenumber": "4",
+    "addr:postcode": "8165",
+    "addr:street": "Bluemwis",
     "amenity": "kindergarten",
     "email": "info@schulewehntal.ch",
     "name": "Kindergarten Bluemwis",
@@ -37734,8 +38173,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7764612,
-      47.3962117
+      8.7762866,
+      47.3960481
     ]
   }
 },
@@ -47433,6 +47872,86 @@
     "coordinates": [
       8.5351035,
       47.4462498
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9944274275",
+  "properties": {
+    "addr:city": "Rüti",
+    "addr:housenumber": "32",
+    "addr:postcode": "8630",
+    "addr:street": "Weierstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Weier",
+    "id": "node/9944274275"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8695717,
+      47.254354
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9944745151",
+  "properties": {
+    "addr:city": "Schlieren",
+    "addr:housenumber": "2",
+    "addr:postcode": "8952",
+    "addr:street": "Hofackerstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Hofacker 1-4",
+    "id": "node/9944745151"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4444636,
+      47.3944987
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9944984681",
+  "properties": {
+    "addr:city": "Schlieren",
+    "addr:housenumber": "5",
+    "addr:postcode": "8952",
+    "addr:street": "Engstringerstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Rietpark 1+2",
+    "id": "node/9944984681"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.447722,
+      47.4003346
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9945016193",
+  "properties": {
+    "addr:city": "Schlieren",
+    "addr:housenumber": "10",
+    "addr:postcode": "8952",
+    "addr:street": "Engstringerstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Zelgli 3",
+    "id": "node/9945016193"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4482539,
+      47.4030961
     ]
   }
 }

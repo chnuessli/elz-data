@@ -4246,40 +4246,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3729250625",
-  "properties": {
-    "amenity": "childcare",
-    "kindergarten": "yes",
-    "name": "Nähhüsli",
-    "id": "node/3729250625"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.452048,
-      47.3971549
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/3737486827",
-  "properties": {
-    "amenity": "childcare",
-    "kindergarten": "yes",
-    "name": "Zelgli II",
-    "id": "node/3737486827"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4465813,
-      47.4035541
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3748984574",
   "properties": {
     "addr:city": "Fischenthal",
