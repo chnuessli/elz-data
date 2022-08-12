@@ -1580,6 +1580,7 @@
     "addr:street": "Schaffhauserstrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date": "2022-08-11",
     "level": "0",
     "name": "Gesundhaus Falken Apotheke",
     "opening_hours": "Mo-Sa 08:00-20:00",
@@ -1592,8 +1593,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5486158,
-      47.4196087
+      8.548453,
+      47.4196446
     ]
   }
 },

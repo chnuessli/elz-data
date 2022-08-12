@@ -690,8 +690,8 @@
     "addr:postcode": "8712",
     "addr:street": "Tödistrasse",
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kirdergarten",
+    "building": "kindergarten",
+    "name": "Kirdergarten Grund",
     "id": "way/23660510"
   },
   "geometry": {
@@ -741,7 +741,7 @@
     "addr:street": "Obere Lattenbergstrasse",
     "amenity": "kindergarten",
     "building": "yes",
-    "name": "Kindergarten",
+    "name": "Kindergarten Uelikon",
     "id": "way/23764266"
   },
   "geometry": {
@@ -6152,6 +6152,48 @@
         [
           8.673449,
           47.6252981
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/49895142",
+  "properties": {
+    "addr:city": "Schwerzenbach",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "8603",
+    "addr:street": "Hegger",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Hegger",
+    "id": "way/49895142"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6540917,
+          47.3827327
+        ],
+        [
+          8.6540161,
+          47.3825936
+        ],
+        [
+          8.6542506,
+          47.3825351
+        ],
+        [
+          8.6543262,
+          47.3826742
+        ],
+        [
+          8.6540917,
+          47.3827327
         ]
       ]
     ]
@@ -12874,6 +12916,97 @@
         [
           8.4364913,
           47.4583955
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/131647378",
+  "properties": {
+    "addr:city": "Seuzach",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "8472",
+    "addr:street": "Weidstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:roof": "flat",
+    "name": "Kindergarten Weid",
+    "id": "way/131647378"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7379722,
+          47.5331553
+        ],
+        [
+          8.7379396,
+          47.5331255
+        ],
+        [
+          8.737849,
+          47.5331684
+        ],
+        [
+          8.737765,
+          47.5330886
+        ],
+        [
+          8.7377889,
+          47.5330769
+        ],
+        [
+          8.737784,
+          47.5330725
+        ],
+        [
+          8.7377944,
+          47.5330678
+        ],
+        [
+          8.7377997,
+          47.5330724
+        ],
+        [
+          8.7378111,
+          47.5330668
+        ],
+        [
+          8.7377465,
+          47.5330056
+        ],
+        [
+          8.7378529,
+          47.5329546
+        ],
+        [
+          8.7379177,
+          47.5330154
+        ],
+        [
+          8.73794,
+          47.5330051
+        ],
+        [
+          8.7379881,
+          47.5330509
+        ],
+        [
+          8.7380115,
+          47.5330402
+        ],
+        [
+          8.7380779,
+          47.5331044
+        ],
+        [
+          8.7379722,
+          47.5331553
         ]
       ]
     ]
@@ -24034,6 +24167,47 @@
         [
           8.6921102,
           47.295534
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/345327820",
+  "properties": {
+    "addr:city": "Schwerzenbach",
+    "addr:housenumber": "7",
+    "addr:postcode": "8603",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "kindergarten",
+    "building": "school",
+    "name": "Schulhaus Platane",
+    "id": "way/345327820"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6548842,
+          47.382698
+        ],
+        [
+          8.6549387,
+          47.3825616
+        ],
+        [
+          8.6551232,
+          47.382596
+        ],
+        [
+          8.6550662,
+          47.3827323
+        ],
+        [
+          8.6548842,
+          47.382698
         ]
       ]
     ]
@@ -43895,6 +44069,82 @@
     "coordinates": [
       8.4482539,
       47.4030961
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9946613096",
+  "properties": {
+    "addr:city": "Schwerzenbach",
+    "addr:housenumber": "9",
+    "addr:postcode": "8603",
+    "addr:street": "Kornstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Kornstrasse",
+    "id": "node/9946613096"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6569148,
+      47.3847683
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9947071082",
+  "properties": {
+    "addr:city": "Seuzach",
+    "addr:housenumber": "17",
+    "addr:postcode": "8472",
+    "addr:street": "Bachtobelstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Bachtobel",
+    "id": "node/9947071082"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7380225,
+      47.5375438
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9947122278",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Zentral A+B",
+    "id": "node/9947122278"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.468338,
+      47.5349745
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9947196031",
+  "properties": {
+    "addr:city": "Stäfa",
+    "addr:housenumber": "24",
+    "addr:postcode": "8712",
+    "addr:street": "Rohrhaldenstrasse",
+    "amenity": "kindergarten",
+    "name": "Kinderkrippe Teddybär",
+    "id": "node/9947196031"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7403004,
+      47.2353293
     ]
   }
 }

@@ -3305,7 +3305,7 @@
     "addr:postcode": "8712",
     "addr:street": "Kirchbühlstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Kirchbühl Süd",
     "id": "way/23646036"
   },
@@ -3579,6 +3579,72 @@
         [
           8.7282008,
           47.2403495
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/23702238",
+  "properties": {
+    "addr:city": "Stäfa",
+    "addr:country": "CH",
+    "addr:housenumber": "35",
+    "addr:postcode": "8712",
+    "addr:street": "Etzelstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Beewies",
+    "id": "way/23702238"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7221687,
+          47.2446859
+        ],
+        [
+          8.7225272,
+          47.2446869
+        ],
+        [
+          8.7225269,
+          47.2447364
+        ],
+        [
+          8.7227987,
+          47.2447372
+        ],
+        [
+          8.7227982,
+          47.2448335
+        ],
+        [
+          8.7225253,
+          47.2448328
+        ],
+        [
+          8.722525,
+          47.244877
+        ],
+        [
+          8.7223573,
+          47.2448765
+        ],
+        [
+          8.7223578,
+          47.2447818
+        ],
+        [
+          8.7221681,
+          47.2447813
+        ],
+        [
+          8.7221687,
+          47.2446859
         ]
       ]
     ]
@@ -21636,6 +21702,63 @@
 },
 {
   "type": "Feature",
+  "id": "way/57725674",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "1",
+    "addr:postcode": "8482",
+    "addr:street": "Herrmann-Bühler-Strasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Privatschule Sennhof",
+    "id": "way/57725674"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7586038,
+          47.4659137
+        ],
+        [
+          8.7588633,
+          47.4660268
+        ],
+        [
+          8.7588408,
+          47.4660504
+        ],
+        [
+          8.7588676,
+          47.4660621
+        ],
+        [
+          8.7587758,
+          47.4661584
+        ],
+        [
+          8.7587488,
+          47.4661467
+        ],
+        [
+          8.7584749,
+          47.4664339
+        ],
+        [
+          8.7582155,
+          47.4663208
+        ],
+        [
+          8.7586038,
+          47.4659137
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/57853708",
   "properties": {
     "amenity": "school",
@@ -36557,7 +36680,7 @@
   "id": "way/128882898",
   "properties": {
     "amenity": "school",
-    "name": "Primarschulhaus Birch",
+    "name": "Primarschule Birch",
     "id": "way/128882898"
   },
   "geometry": {
@@ -36613,7 +36736,7 @@
   "id": "way/128882899",
   "properties": {
     "amenity": "school",
-    "name": "Primarschulhaus Rietacker",
+    "name": "Primarschule Rietacker",
     "toilets:wheelchair": "no",
     "website": "https://www.primarschule-seuzach.ch/",
     "wheelchair": "limited",
@@ -37319,6 +37442,7 @@
     "amenity": "school",
     "building": "school",
     "building:roof": "flat",
+    "name": "Primarschulhaus Birch",
     "id": "way/131661989"
   },
   "geometry": {
@@ -57811,6 +57935,329 @@
         [
           8.3778262,
           47.5056006
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/233918920",
+  "properties": {
+    "addr:city": "Stadel b. Niederglatt",
+    "addr:housenumber": "54",
+    "addr:postcode": "8174",
+    "addr:street": "Kaiserstuhlerstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Turnhalle Stadel Primar",
+    "id": "way/233918920"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4673548,
+          47.5348152
+        ],
+        [
+          8.4672945,
+          47.5347073
+        ],
+        [
+          8.4672858,
+          47.5347069
+        ],
+        [
+          8.467204,
+          47.5345238
+        ],
+        [
+          8.4671774,
+          47.5345283
+        ],
+        [
+          8.4671363,
+          47.534439
+        ],
+        [
+          8.4673151,
+          47.5344022
+        ],
+        [
+          8.4673427,
+          47.5344622
+        ],
+        [
+          8.4673556,
+          47.5344603
+        ],
+        [
+          8.4674467,
+          47.5346658
+        ],
+        [
+          8.4674807,
+          47.5347299
+        ],
+        [
+          8.4674495,
+          47.5347391
+        ],
+        [
+          8.4674741,
+          47.5347862
+        ],
+        [
+          8.4673548,
+          47.5348152
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/233918926",
+  "properties": {
+    "addr:city": "Stadel b. Niederglatt",
+    "addr:housenumber": "50",
+    "addr:postcode": "8174",
+    "addr:street": "Kaiserstuhlerstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Stadel Primar",
+    "id": "way/233918926"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4674142,
+          47.5349654
+        ],
+        [
+          8.4675217,
+          47.5349057
+        ],
+        [
+          8.4677648,
+          47.5351099
+        ],
+        [
+          8.4680004,
+          47.5349841
+        ],
+        [
+          8.4679554,
+          47.5349286
+        ],
+        [
+          8.4680582,
+          47.5348915
+        ],
+        [
+          8.4681341,
+          47.5349871
+        ],
+        [
+          8.4683902,
+          47.5348936
+        ],
+        [
+          8.4684991,
+          47.5349854
+        ],
+        [
+          8.4681446,
+          47.5351198
+        ],
+        [
+          8.4680302,
+          47.5350228
+        ],
+        [
+          8.4678757,
+          47.5351068
+        ],
+        [
+          8.4681289,
+          47.5353197
+        ],
+        [
+          8.4681216,
+          47.5353241
+        ],
+        [
+          8.4681495,
+          47.535349
+        ],
+        [
+          8.4680783,
+          47.5353995
+        ],
+        [
+          8.4680398,
+          47.5353689
+        ],
+        [
+          8.4680211,
+          47.5353791
+        ],
+        [
+          8.4678428,
+          47.5352296
+        ],
+        [
+          8.4678193,
+          47.53522
+        ],
+        [
+          8.4678052,
+          47.5352113
+        ],
+        [
+          8.4677938,
+          47.5352031
+        ],
+        [
+          8.4677623,
+          47.5351777
+        ],
+        [
+          8.4677226,
+          47.5351973
+        ],
+        [
+          8.4677412,
+          47.5352134
+        ],
+        [
+          8.4677182,
+          47.535225
+        ],
+        [
+          8.4676993,
+          47.5352094
+        ],
+        [
+          8.4676627,
+          47.535228
+        ],
+        [
+          8.4675956,
+          47.535171
+        ],
+        [
+          8.467632,
+          47.5351495
+        ],
+        [
+          8.4674142,
+          47.5349654
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/233918927",
+  "properties": {
+    "addr:city": "Stadel b. Niederglatt",
+    "addr:housenumber": "54",
+    "addr:postcode": "8174",
+    "addr:street": "Kaiserstuhlerstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Stadel Sekundar",
+    "id": "way/233918927"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4674676,
+          47.5363891
+        ],
+        [
+          8.4674751,
+          47.5363269
+        ],
+        [
+          8.4673382,
+          47.5363185
+        ],
+        [
+          8.4673631,
+          47.5361454
+        ],
+        [
+          8.4674502,
+          47.5361504
+        ],
+        [
+          8.4674851,
+          47.5360344
+        ],
+        [
+          8.4673954,
+          47.5360193
+        ],
+        [
+          8.4674452,
+          47.5359218
+        ],
+        [
+          8.4675174,
+          47.5358361
+        ],
+        [
+          8.4676195,
+          47.5357386
+        ],
+        [
+          8.4676793,
+          47.5357773
+        ],
+        [
+          8.467771,
+          47.5357233
+        ],
+        [
+          8.4678244,
+          47.5357687
+        ],
+        [
+          8.4679058,
+          47.5358411
+        ],
+        [
+          8.4678386,
+          47.5358832
+        ],
+        [
+          8.467749,
+          47.5359504
+        ],
+        [
+          8.4676992,
+          47.5360344
+        ],
+        [
+          8.4676544,
+          47.5361235
+        ],
+        [
+          8.4676071,
+          47.5364009
+        ],
+        [
+          8.4674676,
+          47.5363891
         ]
       ]
     ]
@@ -94146,23 +94593,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/295105170",
-  "properties": {
-    "amenity": "school",
-    "name": "Primarschule Stadel",
-    "wheelchair": "limited",
-    "id": "node/295105170"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4675914,
-      47.5345503
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/305720635",
   "properties": {
     "amenity": "school",
@@ -98560,6 +98990,66 @@
     "coordinates": [
       8.8497878,
       47.2603859
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9947163767",
+  "properties": {
+    "addr:city": "Stäfa",
+    "addr:housenumber": "28",
+    "addr:postcode": "8712",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "school",
+    "name": "clix -die Schule",
+    "id": "node/9947163767"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7216792,
+      47.2398248
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9947166265",
+  "properties": {
+    "addr:city": "Stäfa",
+    "addr:housenumber": "10",
+    "addr:postcode": "8712",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "school",
+    "name": "Pegol Schule",
+    "id": "node/9947166265"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7197071,
+      47.240297
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9947215117",
+  "properties": {
+    "addr:city": "Küsnacht",
+    "addr:housenumber": "26",
+    "addr:postcode": "8700",
+    "addr:street": "Erbstrasse",
+    "amenity": "school",
+    "name": "Schule DEDUCA",
+    "id": "node/9947215117"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5869106,
+      47.3255229
     ]
   }
 }
