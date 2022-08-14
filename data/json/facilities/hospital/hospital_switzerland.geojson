@@ -47560,6 +47560,27 @@
 },
 {
   "type": "Feature",
+  "id": "node/3297088011",
+  "properties": {
+    "addr:city": "Silvaplana",
+    "addr:housenumber": "8",
+    "addr:postcode": "7513",
+    "addr:street": "Via Munterots",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Xsunheitszentrum Silvaplana",
+    "id": "node/3297088011"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7968666,
+      46.4593965
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3600466682",
   "properties": {
     "addr:city": "Kilchberg",
