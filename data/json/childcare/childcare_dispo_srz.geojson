@@ -11297,6 +11297,22 @@
       47.3876822
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9952120135",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kita Beba",
+    "id": "node/9952120135"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.545335,
+      47.4143905
+    ]
+  }
 }
 ]
 }

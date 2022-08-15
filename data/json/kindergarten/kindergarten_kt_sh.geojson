@@ -2116,6 +2116,26 @@
       47.7550409
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9952658919",
+  "properties": {
+    "addr:housenumber": "5",
+    "addr:postcode": "8214",
+    "addr:street": "Gemeindehausplatz",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Gächlingen",
+    "phone": "+41 52 533 94 82",
+    "id": "node/9952658919"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4972626,
+      47.7019056
+    ]
+  }
 }
 ]
 }

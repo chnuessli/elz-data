@@ -6004,7 +6004,6 @@
   "type": "Feature",
   "id": "way/47997311",
   "properties": {
-    "Schaffhauserstrasse": "28",
     "addr:city": "Marthalen",
     "addr:housenumber": "28",
     "addr:postcode": "8460",
@@ -35702,6 +35701,10 @@
           47.4074431
         ],
         [
+          8.5628743,
+          47.4075227
+        ],
+        [
           8.5627857,
           47.407598
         ],
@@ -48202,6 +48205,26 @@
     "coordinates": [
       8.7403004,
       47.2353293
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9952658919",
+  "properties": {
+    "addr:housenumber": "5",
+    "addr:postcode": "8214",
+    "addr:street": "Gemeindehausplatz",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Gächlingen",
+    "phone": "+41 52 533 94 82",
+    "id": "node/9952658919"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4972626,
+      47.7019056
     ]
   }
 }

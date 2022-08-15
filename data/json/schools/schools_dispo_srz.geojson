@@ -32821,6 +32821,10 @@
           47.4082116
         ],
         [
+          8.5618197,
+          47.4078099
+        ],
+        [
           8.5620172,
           47.4076004
         ],
@@ -112831,6 +112835,7 @@
   "properties": {
     "amenity": "school",
     "name": "Pädagogische Hochschule",
+    "website": "https://www.phsh.ch/",
     "wikidata": "Q1524635",
     "id": "node/2432726483"
   },
@@ -112923,6 +112928,7 @@
   "properties": {
     "amenity": "school",
     "name": "Pädagogische Hochschule, Nebengebäude",
+    "website": "https://www.phsh.ch/",
     "id": "node/2509419140"
   },
   "geometry": {
@@ -117324,6 +117330,26 @@
     "coordinates": [
       8.5869106,
       47.3255229
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9952648818",
+  "properties": {
+    "addr:housenumber": "9",
+    "addr:postcode": "8214",
+    "addr:street": "Schulstrasse",
+    "amenity": "school",
+    "name": "Primarschule Gächlingen",
+    "phone": "+41 52 681 13 77",
+    "id": "node/9952648818"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.496403,
+      47.7029684
     ]
   }
 }
