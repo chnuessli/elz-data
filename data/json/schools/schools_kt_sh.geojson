@@ -5125,6 +5125,46 @@
 },
 {
   "type": "Feature",
+  "id": "way/1086352731",
+  "properties": {
+    "addr:housenumber": "9",
+    "addr:postcode": "8214",
+    "addr:street": "Schulstrasse",
+    "amenity": "school",
+    "name": "Primarschule Gächlingen",
+    "phone": "+41 52 681 13 77",
+    "id": "way/1086352731"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4960923,
+          47.7027681
+        ],
+        [
+          8.4965645,
+          47.7029716
+        ],
+        [
+          8.496318,
+          47.7032306
+        ],
+        [
+          8.4958458,
+          47.7030271
+        ],
+        [
+          8.4960923,
+          47.7027681
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/279591106",
   "properties": {
     "addr:city": "Schaffhausen",
@@ -5336,26 +5376,6 @@
     "coordinates": [
       8.7107187,
       47.7497307
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9952648818",
-  "properties": {
-    "addr:housenumber": "9",
-    "addr:postcode": "8214",
-    "addr:street": "Schulstrasse",
-    "amenity": "school",
-    "name": "Primarschule Gächlingen",
-    "phone": "+41 52 681 13 77",
-    "id": "node/9952648818"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.496403,
-      47.7029684
     ]
   }
 }

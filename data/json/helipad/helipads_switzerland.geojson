@@ -8800,6 +8800,7 @@
   "id": "way/766771259",
   "properties": {
     "aeroway": "helipad",
+    "name": "Helipad REGA",
     "id": "way/766771259"
   },
   "geometry": {

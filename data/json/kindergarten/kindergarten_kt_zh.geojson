@@ -1505,43 +1505,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/31109372",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Blatt",
-    "website": "https://www.schuleduernten.ch/",
-    "id": "way/31109372"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.856854,
-          47.27292
-        ],
-        [
-          8.8571819,
-          47.2731863
-        ],
-        [
-          8.856891,
-          47.2735169
-        ],
-        [
-          8.8564537,
-          47.2732692
-        ],
-        [
-          8.856854,
-          47.27292
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/31301609",
   "properties": {
     "addr:city": "Zürich",
@@ -3414,6 +3377,50 @@
 },
 {
   "type": "Feature",
+  "id": "way/39362256",
+  "properties": {
+    "addr:city": "Thalwil",
+    "addr:housenumber": "12",
+    "addr:postcode": "8800",
+    "addr:street": "Dorfstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "name": "Kindergarten Platte",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
+    "id": "way/39362256"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5676703,
+          47.2897396
+        ],
+        [
+          8.5674696,
+          47.2899114
+        ],
+        [
+          8.5673504,
+          47.2898472
+        ],
+        [
+          8.5675513,
+          47.2896752
+        ],
+        [
+          8.5676703,
+          47.2897396
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/40196190",
   "properties": {
     "addr:city": "Hettlingen",
@@ -4994,6 +5001,48 @@
         [
           8.564438,
           47.4378482
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/44371104",
+  "properties": {
+    "addr:city": "Teufen",
+    "addr:housenumber": "11",
+    "addr:postcode": "8428",
+    "addr:street": "Irchelstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Teufen",
+    "source": "Yahoo aerial images",
+    "id": "way/44371104"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.567382,
+          47.5469852
+        ],
+        [
+          8.5675319,
+          47.5468637
+        ],
+        [
+          8.567655,
+          47.5469329
+        ],
+        [
+          8.5675051,
+          47.5470544
+        ],
+        [
+          8.567382,
+          47.5469852
         ]
       ]
     ]
@@ -7844,6 +7893,116 @@
 },
 {
   "type": "Feature",
+  "id": "way/83119476",
+  "properties": {
+    "addr:city": "Thalwil",
+    "addr:housenumber": "5",
+    "addr:postcode": "8800",
+    "addr:street": "Berghaldenstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Kuppel",
+    "id": "way/83119476"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5597262,
+          47.2879913
+        ],
+        [
+          8.5595132,
+          47.2879117
+        ],
+        [
+          8.5596155,
+          47.287785
+        ],
+        [
+          8.5597149,
+          47.2878233
+        ],
+        [
+          8.5596735,
+          47.2878731
+        ],
+        [
+          8.559787,
+          47.2879166
+        ],
+        [
+          8.5597262,
+          47.2879913
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/83645465",
+  "properties": {
+    "addr:city": "Thalwil",
+    "addr:housenumber": "15",
+    "addr:postcode": "8800",
+    "addr:street": "Feldmoosstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Feldmoos",
+    "id": "way/83645465"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5587169,
+          47.2920252
+        ],
+        [
+          8.5587051,
+          47.2919289
+        ],
+        [
+          8.5586353,
+          47.291882
+        ],
+        [
+          8.5586665,
+          47.2918584
+        ],
+        [
+          8.5587458,
+          47.2919103
+        ],
+        [
+          8.5589381,
+          47.2918959
+        ],
+        [
+          8.5589513,
+          47.2919857
+        ],
+        [
+          8.5588546,
+          47.29199
+        ],
+        [
+          8.5588588,
+          47.2920157
+        ],
+        [
+          8.5587169,
+          47.2920252
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/84217383",
   "properties": {
     "addr:city": "Thalwil",
@@ -7882,6 +8041,120 @@
         [
           8.5641004,
           47.2932279
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84217390",
+  "properties": {
+    "addr:city": "Thalwil",
+    "addr:housenumber": "51b",
+    "addr:postcode": "8800",
+    "addr:street": "Mühlebachstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Jennischloss",
+    "id": "way/84217390"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5660259,
+          47.2918307
+        ],
+        [
+          8.5661217,
+          47.2917561
+        ],
+        [
+          8.5663077,
+          47.291866
+        ],
+        [
+          8.5662119,
+          47.2919406
+        ],
+        [
+          8.5660259,
+          47.2918307
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/85601781",
+  "properties": {
+    "addr:city": "Thalwil",
+    "addr:housenumber": "72",
+    "addr:postcode": "8800",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Freihof",
+    "id": "way/85601781"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5699387,
+          47.2880959
+        ],
+        [
+          8.5699844,
+          47.2880084
+        ],
+        [
+          8.5700446,
+          47.2880229
+        ],
+        [
+          8.5700539,
+          47.2880052
+        ],
+        [
+          8.570158,
+          47.2880302
+        ],
+        [
+          8.570183,
+          47.2879824
+        ],
+        [
+          8.5703339,
+          47.2880188
+        ],
+        [
+          8.5702754,
+          47.2881307
+        ],
+        [
+          8.5703037,
+          47.2881375
+        ],
+        [
+          8.5702706,
+          47.2882008
+        ],
+        [
+          8.5701729,
+          47.2881773
+        ],
+        [
+          8.5701845,
+          47.2881551
+        ],
+        [
+          8.5699387,
+          47.2880959
         ]
       ]
     ]
@@ -9108,32 +9381,32 @@
     "coordinates": [
       [
         [
-          8.7527591,
-          47.237741
+          8.7527426,
+          47.2377477
         ],
         [
-          8.7527723,
-          47.2375847
+          8.7527505,
+          47.2375982
         ],
         [
-          8.7531047,
-          47.2375977
+          8.7531018,
+          47.2376068
         ],
         [
-          8.7530965,
-          47.2376944
+          8.7530964,
+          47.2377073
         ],
         [
-          8.753038,
-          47.2376921
+          8.7530418,
+          47.237706
         ],
         [
-          8.7530329,
-          47.2377517
+          8.7530392,
+          47.237755
         ],
         [
-          8.7527591,
-          47.237741
+          8.7527426,
+          47.2377477
         ]
       ]
     ]
@@ -17388,7 +17661,8 @@
     "addr:postcode": "8162",
     "addr:street": "Im Buck",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
+    "name": "Kindergarten Im Buck",
     "id": "way/184876144"
   },
   "geometry": {
@@ -21497,6 +21771,53 @@
 },
 {
   "type": "Feature",
+  "id": "way/259524633",
+  "properties": {
+    "addr:city": "Tann",
+    "addr:housenumber": "44b",
+    "addr:postcode": "8632",
+    "addr:street": "Nauenstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Blatt",
+    "source": "bing",
+    "website": "https://www.schuleduernten.ch/",
+    "id": "way/259524633"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8565549,
+          47.273218
+        ],
+        [
+          8.856668,
+          47.2731233
+        ],
+        [
+          8.8569691,
+          47.2732891
+        ],
+        [
+          8.856856,
+          47.2733837
+        ],
+        [
+          8.8567239,
+          47.273311
+        ],
+        [
+          8.8565549,
+          47.273218
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/261471584",
   "properties": {
     "amenity": "kindergarten",
@@ -23112,6 +23433,162 @@
         [
           8.6630368,
           47.684125
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/297692094",
+  "properties": {
+    "addr:city": "Turbenthal",
+    "addr:housenumber": "15",
+    "addr:postcode": "8488",
+    "addr:street": "Gassacherstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Girenbad",
+    "id": "way/297692094"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8444511,
+          47.4433059
+        ],
+        [
+          8.8444045,
+          47.4431792
+        ],
+        [
+          8.8445419,
+          47.4431568
+        ],
+        [
+          8.8445956,
+          47.4433026
+        ],
+        [
+          8.8445499,
+          47.4433097
+        ],
+        [
+          8.8445426,
+          47.4432902
+        ],
+        [
+          8.8444511,
+          47.4433059
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/297692103",
+  "properties": {
+    "addr:city": "Turbenthal",
+    "addr:housenumber": "13",
+    "addr:postcode": "8488",
+    "addr:street": "Gassacherstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Gassacher",
+    "id": "way/297692103"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8443064,
+          47.4435278
+        ],
+        [
+          8.8442606,
+          47.4433992
+        ],
+        [
+          8.8444193,
+          47.4433729
+        ],
+        [
+          8.8444453,
+          47.4434483
+        ],
+        [
+          8.8444656,
+          47.4434458
+        ],
+        [
+          8.8444923,
+          47.443518
+        ],
+        [
+          8.8443831,
+          47.4435363
+        ],
+        [
+          8.8443769,
+          47.443516
+        ],
+        [
+          8.8443064,
+          47.4435278
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/297752976",
+  "properties": {
+    "addr:city": "Turbenthal",
+    "addr:housenumber": "23",
+    "addr:postcode": "8488",
+    "addr:street": "Hängetenstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:roof": "tile",
+    "name": "Kindergarten Feld",
+    "id": "way/297752976"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8516458,
+          47.4373096
+        ],
+        [
+          8.8514862,
+          47.4371719
+        ],
+        [
+          8.8516322,
+          47.4370944
+        ],
+        [
+          8.8516799,
+          47.4371356
+        ],
+        [
+          8.851775,
+          47.4370851
+        ],
+        [
+          8.8518869,
+          47.4371816
+        ],
+        [
+          8.8516458,
+          47.4373096
         ]
       ]
     ]
@@ -33342,24 +33819,12 @@
 },
 {
   "type": "Feature",
-  "id": "node/1069638534",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Sonnenberg",
-    "id": "node/1069638534"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5588386,
-      47.2919486
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1069638592",
   "properties": {
+    "addr:city": "Thalwil",
+    "addr:housenumber": "105",
+    "addr:postcode": "8800",
+    "addr:street": "Tödistrasse",
     "amenity": "kindergarten",
     "name": "Kindergarten Tödistrasse",
     "id": "node/1069638592"
@@ -33376,6 +33841,10 @@
   "type": "Feature",
   "id": "node/1069638625",
   "properties": {
+    "addr:city": "Thalwil",
+    "addr:housenumber": "14",
+    "addr:postcode": "8800",
+    "addr:street": "Rossistrasse",
     "amenity": "kindergarten",
     "name": "Kindergarten Rossi",
     "id": "node/1069638625"
@@ -33390,22 +33859,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1069638646",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Freihof",
-    "id": "node/1069638646"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5700655,
-      47.2880769
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1069638663",
   "properties": {
     "addr:city": "Thalwil",
@@ -33413,7 +33866,7 @@
     "addr:postcode": "8800",
     "addr:street": "Gotthardstrasse",
     "amenity": "kindergarten",
-    "name": "Gotthardstrasse",
+    "name": "Kindergarten Gotthard",
     "id": "node/1069638663"
   },
   "geometry": {
@@ -33421,38 +33874,6 @@
     "coordinates": [
       8.5627148,
       47.296485
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1069638711",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Jennischloss",
-    "id": "node/1069638711"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5662423,
-      47.2918805
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1069638748",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Platte",
-    "id": "node/1069638748"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5675922,
-      47.2897065
     ]
   }
 },
@@ -44148,6 +44569,66 @@
     "coordinates": [
       8.7403004,
       47.2353293
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9954433535",
+  "properties": {
+    "addr:city": "Tagelswangen",
+    "addr:housenumber": "1b",
+    "addr:postcode": "8317",
+    "addr:street": "Falkenstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Buck",
+    "id": "node/9954433535"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6699484,
+      47.4337551
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9954686057",
+  "properties": {
+    "addr:city": "Tann",
+    "addr:housenumber": "16",
+    "addr:postcode": "8632",
+    "addr:street": "Bogenackerstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Bogenacker",
+    "id": "node/9954686057"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8498206,
+      47.2668018
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9954777919",
+  "properties": {
+    "addr:city": "Thalheim an der Thur",
+    "addr:housenumber": "125",
+    "addr:postcode": "8478",
+    "addr:street": "Thurtalstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Thalheim",
+    "id": "node/9954777919"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7452249,
+      47.5817105
     ]
   }
 }

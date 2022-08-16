@@ -8716,6 +8716,14 @@
           46.7711819
         ],
         [
+          6.6470446,
+          46.7722999
+        ],
+        [
+          6.6468963,
+          46.7725598
+        ],
+        [
           6.6468638,
           46.7725837
         ],
@@ -51529,29 +51537,6 @@
     "coordinates": [
       9.0838964,
       47.2975781
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9742803398",
-  "properties": {
-    "addr:housenumber": "39",
-    "addr:street": "Liebrütistrasse",
-    "amenity": "clinic",
-    "email": "praxis.karadeniz@hin.ch",
-    "healthcare": "clinic",
-    "healthcare:speciality": "general",
-    "name": "Gemeinschaftspraxis Liebrüti \nDr. med. Adnan Karadeniz",
-    "phone": "+41 61 811 44 44",
-    "website": "https://arztpraxis-karadeniz.ch/",
-    "id": "node/9742803398"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.7303856,
-      47.5353622
     ]
   }
 },
