@@ -1195,6 +1195,145 @@
 },
 {
   "type": "Feature",
+  "id": "way/25965519",
+  "properties": {
+    "addr:city": "Uetikon am See",
+    "addr:housenumber": "13",
+    "addr:postcode": "8707",
+    "addr:street": "Schöneggstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "2",
+    "name": "Kindergarten Höbeli 1,2,3",
+    "roof:levels": "0",
+    "id": "way/25965519"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6769431,
+          47.2687841
+        ],
+        [
+          8.6769001,
+          47.2687324
+        ],
+        [
+          8.6768588,
+          47.2687481
+        ],
+        [
+          8.6768187,
+          47.2686998
+        ],
+        [
+          8.6768417,
+          47.2686912
+        ],
+        [
+          8.6767714,
+          47.2686074
+        ],
+        [
+          8.6769228,
+          47.2685489
+        ],
+        [
+          8.6769911,
+          47.2686309
+        ],
+        [
+          8.6770161,
+          47.2686231
+        ],
+        [
+          8.6770296,
+          47.2686386
+        ],
+        [
+          8.6771404,
+          47.2685973
+        ],
+        [
+          8.677271,
+          47.2686654
+        ],
+        [
+          8.6772157,
+          47.2686866
+        ],
+        [
+          8.6772319,
+          47.2687059
+        ],
+        [
+          8.6771782,
+          47.2687278
+        ],
+        [
+          8.677161,
+          47.2687078
+        ],
+        [
+          8.677063,
+          47.2687454
+        ],
+        [
+          8.6770564,
+          47.2687378
+        ],
+        [
+          8.6769907,
+          47.2687631
+        ],
+        [
+          8.6769929,
+          47.268768
+        ],
+        [
+          8.6769925,
+          47.2687737
+        ],
+        [
+          8.6769913,
+          47.2687771
+        ],
+        [
+          8.6769881,
+          47.2687814
+        ],
+        [
+          8.6769838,
+          47.2687841
+        ],
+        [
+          8.6769746,
+          47.2687874
+        ],
+        [
+          8.6769612,
+          47.2687871
+        ],
+        [
+          8.6769577,
+          47.2687863
+        ],
+        [
+          8.6769492,
+          47.2687822
+        ],
+        [
+          8.6769431,
+          47.2687841
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/30349421",
   "properties": {
     "addr:city": "Meilen",
@@ -2675,6 +2814,47 @@
         [
           8.5111999,
           47.4753069
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/35168675",
+  "properties": {
+    "addr:city": "Uetikon am See",
+    "addr:housenumber": "126",
+    "addr:postcode": "8707",
+    "addr:street": "Bergstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Riedwies 1,2,3",
+    "id": "way/35168675"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6791842,
+          47.2643774
+        ],
+        [
+          8.679059,
+          47.2644156
+        ],
+        [
+          8.6788553,
+          47.2641083
+        ],
+        [
+          8.6789806,
+          47.2640701
+        ],
+        [
+          8.6791842,
+          47.2643774
         ]
       ]
     ]
@@ -9372,7 +9552,7 @@
     "addr:postcode": "8713",
     "addr:street": "Moritzbergstrasse",
     "amenity": "kindergarten",
-    "building": "school",
+    "building": "kindergarten",
     "name": "Kindergarten Moritzberg",
     "id": "way/92088051"
   },
@@ -23546,6 +23726,47 @@
 },
 {
   "type": "Feature",
+  "id": "way/297752782",
+  "properties": {
+    "addr:city": "Turbenthal",
+    "addr:housenumber": "2c",
+    "addr:postcode": "8488",
+    "addr:street": "Feldstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Pavillon Breiti",
+    "id": "way/297752782"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8498742,
+          47.4360613
+        ],
+        [
+          8.8497844,
+          47.4358738
+        ],
+        [
+          8.8498923,
+          47.4358499
+        ],
+        [
+          8.8499796,
+          47.4360395
+        ],
+        [
+          8.8498742,
+          47.4360613
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/297752976",
   "properties": {
     "addr:city": "Turbenthal",
@@ -26668,6 +26889,79 @@
         [
           8.5341566,
           47.4252063
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/448746511",
+  "properties": {
+    "addr:city": "Uhwiesen",
+    "addr:housenumber": "5",
+    "addr:postcode": "8248",
+    "addr:street": "Mettliweg",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Mettliweg",
+    "id": "way/448746511"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6349277,
+          47.669382
+        ],
+        [
+          8.6349046,
+          47.6693331
+        ],
+        [
+          8.6349393,
+          47.6693257
+        ],
+        [
+          8.6349095,
+          47.6692625
+        ],
+        [
+          8.635233,
+          47.6691933
+        ],
+        [
+          8.6352641,
+          47.6692592
+        ],
+        [
+          8.6352951,
+          47.6692526
+        ],
+        [
+          8.6353159,
+          47.6692966
+        ],
+        [
+          8.6352549,
+          47.6693096
+        ],
+        [
+          8.6352654,
+          47.6693319
+        ],
+        [
+          8.635004,
+          47.6693879
+        ],
+        [
+          8.6349945,
+          47.6693677
+        ],
+        [
+          8.6349277,
+          47.669382
         ]
       ]
     ]
@@ -34253,7 +34547,7 @@
     "addr:postcode": "8103",
     "addr:street": "Grünauweg",
     "amenity": "kindergarten",
-    "name": "Erdbrust",
+    "name": "Kindergarten Erdbrust",
     "id": "node/1791863514"
   },
   "geometry": {
@@ -44629,6 +44923,26 @@
     "coordinates": [
       8.7452249,
       47.5817105
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9956258728",
+  "properties": {
+    "addr:city": "Uerzlikon",
+    "addr:housenumber": "5",
+    "addr:postcode": "8926",
+    "addr:street": "Hauptikonerstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Uerzlikon",
+    "id": "node/9956258728"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4971862,
+      47.2243255
     ]
   }
 }

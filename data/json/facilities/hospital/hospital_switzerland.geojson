@@ -39272,6 +39272,7 @@
     "addr:street": "Chemin Roc-Montès",
     "amenity": "hospital",
     "description": "Kardiovaskuläre, psychosomatische, muskuloskelettale Rehabilitation",
+    "healthcare": "hospital",
     "healthcare:speciality": "rehabilitation",
     "loc_name": "Roc-Montès",
     "name": "Clinique le Noirmont",
@@ -39285,16 +39286,16 @@
     "coordinates": [
       [
         [
-          6.9599367,
-          47.23114
+          6.9599679,
+          47.2311992
         ],
         [
-          6.9594429,
-          47.2310489
+          6.9594903,
+          47.2311253
         ],
         [
-          6.9592792,
-          47.2310034
+          6.9593056,
+          47.2310798
         ],
         [
           6.9591751,
@@ -39377,8 +39378,8 @@
           47.2309054
         ],
         [
-          6.9601974,
-          47.2309075
+          6.9601662,
+          47.2309012
         ],
         [
           6.9600924,
@@ -39389,8 +39390,12 @@
           47.2311018
         ],
         [
-          6.9599367,
-          47.23114
+          6.9599954,
+          47.2311628
+        ],
+        [
+          6.9599679,
+          47.2311992
         ]
       ]
     ]

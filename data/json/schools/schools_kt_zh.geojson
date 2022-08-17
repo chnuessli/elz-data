@@ -5771,7 +5771,7 @@
     "addr:postcode": "8707",
     "addr:street": "Kleindorfstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Schulhaus Weissenrain",
     "start_date": "1906",
     "id": "way/25925919"
@@ -5821,7 +5821,7 @@
     "addr:postcode": "8707",
     "addr:street": "Bergstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Schulhaus Kirchbüel",
     "id": "way/25925920"
   },
@@ -5878,7 +5878,7 @@
     "addr:postcode": "8707",
     "addr:street": "Bergstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Schulhaus Riedwies",
     "id": "way/25965311"
   },
@@ -13609,47 +13609,6 @@
         [
           8.6790407,
           47.2628131
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/35168675",
-  "properties": {
-    "addr:city": "Uetikon am See",
-    "addr:housenumber": "126",
-    "addr:postcode": "8707",
-    "addr:street": "Bergstrasse",
-    "amenity": "school",
-    "building": "yes",
-    "name": "Kindergarten",
-    "id": "way/35168675"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6791842,
-          47.2643774
-        ],
-        [
-          8.679059,
-          47.2644156
-        ],
-        [
-          8.6788553,
-          47.2641083
-        ],
-        [
-          8.6789806,
-          47.2640701
-        ],
-        [
-          8.6791842,
-          47.2643774
         ]
       ]
     ]
@@ -27876,6 +27835,7 @@
   "type": "Feature",
   "id": "way/92088030",
   "properties": {
+    "addr:city": "Uerikon",
     "addr:housenumber": "45",
     "addr:postcode": "8713",
     "addr:street": "Moritzbergstrasse",
@@ -53276,8 +53236,8 @@
     "addr:postcode": "8248",
     "addr:street": "Schulstrasse",
     "amenity": "school",
-    "building": "yes",
-    "name": "Primarschule",
+    "building": "school",
+    "name": "Primar Schulhaus",
     "id": "way/208689116"
   },
   "geometry": {
@@ -68581,6 +68541,64 @@
 },
 {
   "type": "Feature",
+  "id": "way/295842279",
+  "properties": {
+    "addr:city": "Uhwiesen",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "8248",
+    "addr:street": "Zöllistrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Hornsberg",
+    "id": "way/295842279"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6292017,
+          47.6737478
+        ],
+        [
+          8.6293433,
+          47.6736686
+        ],
+        [
+          8.6295759,
+          47.6738571
+        ],
+        [
+          8.629537,
+          47.6738789
+        ],
+        [
+          8.6296188,
+          47.6739452
+        ],
+        [
+          8.6294626,
+          47.6740325
+        ],
+        [
+          8.6292983,
+          47.6738994
+        ],
+        [
+          8.6293519,
+          47.6738695
+        ],
+        [
+          8.6292017,
+          47.6737478
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/296999797",
   "properties": {
     "addr:city": "Trüllikon",
@@ -68664,6 +68682,115 @@
 },
 {
   "type": "Feature",
+  "id": "way/297692072",
+  "properties": {
+    "addr:city": "Turbenthal",
+    "addr:housenumber": "2",
+    "addr:postcode": "8488",
+    "addr:street": "Gassacherstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Hohmatt",
+    "id": "way/297692072"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8435666,
+          47.4442529
+        ],
+        [
+          8.8435884,
+          47.4441339
+        ],
+        [
+          8.8437384,
+          47.4441465
+        ],
+        [
+          8.8437592,
+          47.4440329
+        ],
+        [
+          8.8437222,
+          47.4440236
+        ],
+        [
+          8.8436917,
+          47.4440058
+        ],
+        [
+          8.8436751,
+          47.443982
+        ],
+        [
+          8.8436714,
+          47.4439583
+        ],
+        [
+          8.8435202,
+          47.4439456
+        ],
+        [
+          8.8435413,
+          47.4438305
+        ],
+        [
+          8.8438881,
+          47.4438595
+        ],
+        [
+          8.8440776,
+          47.4438753
+        ],
+        [
+          8.844057,
+          47.4439879
+        ],
+        [
+          8.8440237,
+          47.4439851
+        ],
+        [
+          8.8440132,
+          47.4439977
+        ],
+        [
+          8.8439938,
+          47.4440092
+        ],
+        [
+          8.843976,
+          47.4440178
+        ],
+        [
+          8.8439526,
+          47.4440219
+        ],
+        [
+          8.8439276,
+          47.4441556
+        ],
+        [
+          8.844108,
+          47.4441707
+        ],
+        [
+          8.8440851,
+          47.4442963
+        ],
+        [
+          8.8435666,
+          47.4442529
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/297730670",
   "properties": {
     "addr:city": "Turbenthal",
@@ -68711,6 +68838,79 @@
         [
           8.847968,
           47.4383457
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/297849361",
+  "properties": {
+    "addr:city": "Turbenthal",
+    "addr:housenumber": "730",
+    "addr:postcode": "8488",
+    "addr:street": "Neubrunn",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Neubrunn",
+    "id": "way/297849361"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8949352,
+          47.4412051
+        ],
+        [
+          8.894907,
+          47.4411499
+        ],
+        [
+          8.8950292,
+          47.4411213
+        ],
+        [
+          8.8949221,
+          47.4409119
+        ],
+        [
+          8.8950457,
+          47.440883
+        ],
+        [
+          8.8949992,
+          47.440792
+        ],
+        [
+          8.8950852,
+          47.4407719
+        ],
+        [
+          8.8951368,
+          47.4408729
+        ],
+        [
+          8.8950861,
+          47.4408848
+        ],
+        [
+          8.8951972,
+          47.4411021
+        ],
+        [
+          8.8950926,
+          47.4411265
+        ],
+        [
+          8.8951116,
+          47.4411638
+        ],
+        [
+          8.8949352,
+          47.4412051
         ]
       ]
     ]
@@ -97774,21 +97974,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9556703310",
-  "properties": {
-    "amenity": "school",
-    "id": "node/9556703310"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4977362,
-      47.2230768
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9593857220",
   "properties": {
     "amenity": "school",
@@ -100014,6 +100199,21 @@
     "coordinates": [
       8.5637627,
       47.2993737
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9956258261",
+  "properties": {
+    "amenity": "school",
+    "id": "node/9956258261"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4976293,
+      47.2230276
     ]
   }
 }
