@@ -4453,6 +4453,26 @@
       47.4898315
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9959413833",
+  "properties": {
+    "addr:city": "Wallisellen",
+    "addr:housenumber": "18",
+    "addr:postcode": "8304",
+    "addr:street": "Herzogenmühle",
+    "amenity": "police",
+    "name": "Stadtpolizei Wallisellen",
+    "id": "node/9959413833"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5800132,
+      47.4111869
+    ]
+  }
 }
 ]
 }

@@ -12447,7 +12447,7 @@
     "addr:postcode": "8610",
     "addr:street": "Freiestrasse",
     "amenity": "school",
-    "name": "Freiestrasse",
+    "name": "Schule Freiestrasse",
     "operator": "Sekundarschule Uster",
     "operator:type": "public",
     "id": "way/32623126"
@@ -53968,7 +53968,11 @@
   "type": "Feature",
   "id": "way/170812385",
   "properties": {
+    "addr:city": "Zug",
     "addr:housename": "Tagesschule",
+    "addr:housenumber": "4",
+    "addr:postcode": "6300",
+    "addr:street": "Klosterstrasse",
     "amenity": "school",
     "building": "yes",
     "id": "way/170812385"
@@ -53978,32 +53982,48 @@
     "coordinates": [
       [
         [
-          8.5203122,
-          47.1634457
+          8.5203297,
+          47.1634432
         ],
         [
-          8.5202934,
-          47.1632669
+          8.5203096,
+          47.1632717
         ],
         [
-          8.5204677,
-          47.163256
+          8.5204492,
+          47.1632641
         ],
         [
-          8.5204758,
-          47.1633198
+          8.520457,
+          47.1633309
         ],
         [
-          8.5207279,
-          47.1633052
+          8.5207207,
+          47.1633166
         ],
         [
-          8.5207413,
-          47.1634311
+          8.5207329,
+          47.1634212
         ],
         [
-          8.5203122,
-          47.1634457
+          8.5205079,
+          47.1634333
+        ],
+        [
+          8.5205081,
+          47.1634351
+        ],
+        [
+          8.5204669,
+          47.1634373
+        ],
+        [
+          8.5204667,
+          47.1634358
+        ],
+        [
+          8.5203297,
+          47.1634432
         ]
       ]
     ]
@@ -56390,24 +56410,40 @@
     "coordinates": [
       [
         [
-          8.7204198,
-          47.3469188
+          8.7204323,
+          47.3469228
         ],
         [
-          8.7205511,
-          47.3471926
+          8.7205413,
+          47.3471664
         ],
         [
-          8.7203196,
-          47.3472436
+          8.7204886,
+          47.3471772
         ],
         [
-          8.7201883,
-          47.3469697
+          8.7205023,
+          47.3472077
         ],
         [
-          8.7204198,
-          47.3469188
+          8.7203389,
+          47.3472413
+        ],
+        [
+          8.7203256,
+          47.3472115
+        ],
+        [
+          8.7203181,
+          47.347213
+        ],
+        [
+          8.7202088,
+          47.3469687
+        ],
+        [
+          8.7204323,
+          47.3469228
         ]
       ]
     ]
@@ -72776,70 +72812,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/252014664",
-  "properties": {
-    "addr:city": "Hinwil",
-    "addr:housenumber": "7",
-    "addr:postcode": "8340",
-    "addr:street": "Felsenhofstrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Mätteli",
-    "phone": "+41 44 937 33 27",
-    "school": "primary",
-    "school:CH": "primarschule",
-    "id": "way/252014664"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.8466472,
-          47.3015858
-        ],
-        [
-          8.8467231,
-          47.3014267
-        ],
-        [
-          8.8468866,
-          47.3014626
-        ],
-        [
-          8.846868,
-          47.3015015
-        ],
-        [
-          8.8469318,
-          47.3015155
-        ],
-        [
-          8.8468849,
-          47.3016137
-        ],
-        [
-          8.8468353,
-          47.3016028
-        ],
-        [
-          8.8468249,
-          47.3016247
-        ],
-        [
-          8.846805,
-          47.3016203
-        ],
-        [
-          8.8466472,
-          47.3015858
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/252014666",
   "properties": {
     "addr:city": "Hinwil",
@@ -72916,179 +72888,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/252014694",
-  "properties": {
-    "addr:city": "Hinwil",
-    "addr:housenumber": "7",
-    "addr:postcode": "8340",
-    "addr:street": "Breitestrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Oberstufe Breite",
-    "operator": "Schule Hinwil",
-    "operator:type": "school",
-    "id": "way/252014694"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.8496157,
-          47.2994447
-        ],
-        [
-          8.8497434,
-          47.2992143
-        ],
-        [
-          8.8500574,
-          47.2992945
-        ],
-        [
-          8.849927,
-          47.2995243
-        ],
-        [
-          8.8496157,
-          47.2994447
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/252014696",
-  "properties": {
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Neue Breite",
-    "id": "way/252014696"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.8500878,
-          47.2988893
-        ],
-        [
-          8.850142,
-          47.2988223
-        ],
-        [
-          8.8503363,
-          47.2987962
-        ],
-        [
-          8.8503419,
-          47.2988156
-        ],
-        [
-          8.8505065,
-          47.298877
-        ],
-        [
-          8.850491,
-          47.298889
-        ],
-        [
-          8.8505091,
-          47.2989311
-        ],
-        [
-          8.8506007,
-          47.298913
-        ],
-        [
-          8.8506727,
-          47.2990807
-        ],
-        [
-          8.8505419,
-          47.2991065
-        ],
-        [
-          8.8505724,
-          47.2991775
-        ],
-        [
-          8.8504268,
-          47.2992063
-        ],
-        [
-          8.8503974,
-          47.2991376
-        ],
-        [
-          8.8503561,
-          47.2991458
-        ],
-        [
-          8.8503022,
-          47.2990201
-        ],
-        [
-          8.8501067,
-          47.2989473
-        ],
-        [
-          8.8501385,
-          47.2989081
-        ],
-        [
-          8.8500878,
-          47.2988893
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/252014697",
-  "properties": {
-    "amenity": "school",
-    "building": "school",
-    "name": "Oberstufenschulhaus Alte Breite",
-    "id": "way/252014697"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.8498802,
-          47.2991684
-        ],
-        [
-          8.8494904,
-          47.2990134
-        ],
-        [
-          8.8494077,
-          47.2989805
-        ],
-        [
-          8.8495201,
-          47.2988505
-        ],
-        [
-          8.8499926,
-          47.2990383
-        ],
-        [
-          8.8498802,
-          47.2991684
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/252124425",
   "properties": {
     "addr:city": "Beringen",
@@ -73150,92 +72949,6 @@
         [
           8.5761373,
           47.701205
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/252131856",
-  "properties": {
-    "addr:city": "Hinwil",
-    "addr:housenumber": "3",
-    "addr:postcode": "8340",
-    "addr:street": "Gemeindehausstrasse",
-    "amenity": "school",
-    "building": "school",
-    "email": "schulleitung.meiliwiese@schulehinwil.ch",
-    "name": "Schulhaus Meiliwiese",
-    "phone": "+41 43 843 18 18",
-    "school": "primary",
-    "school:CH": "primarschule",
-    "website": "http://www.schulehinwil.ch/de/schulen/meiliwiese/",
-    "id": "way/252131856"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.8411058,
-          47.3016169
-        ],
-        [
-          8.8403992,
-          47.3012754
-        ],
-        [
-          8.840496,
-          47.3011833
-        ],
-        [
-          8.8403946,
-          47.3011343
-        ],
-        [
-          8.8404615,
-          47.3010707
-        ],
-        [
-          8.8405607,
-          47.3011186
-        ],
-        [
-          8.840579,
-          47.3011012
-        ],
-        [
-          8.8407813,
-          47.301199
-        ],
-        [
-          8.8407613,
-          47.301218
-        ],
-        [
-          8.8409703,
-          47.301319
-        ],
-        [
-          8.84099,
-          47.3013003
-        ],
-        [
-          8.8411831,
-          47.3013936
-        ],
-        [
-          8.8411674,
-          47.3014086
-        ],
-        [
-          8.8412718,
-          47.301459
-        ],
-        [
-          8.8411058,
-          47.3016169
         ]
       ]
     ]
@@ -83082,6 +82795,103 @@
         [
           8.8661626,
           47.4927717
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314247032",
+  "properties": {
+    "addr:city": "Urdorf",
+    "addr:housenumber": "52",
+    "addr:postcode": "8902",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Bahnhofstrasse",
+    "id": "way/314247032"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4252793,
+          47.3859296
+        ],
+        [
+          8.4252379,
+          47.3858915
+        ],
+        [
+          8.4252426,
+          47.3858881
+        ],
+        [
+          8.425199,
+          47.3858587
+        ],
+        [
+          8.4252686,
+          47.38581
+        ],
+        [
+          8.4250508,
+          47.3856677
+        ],
+        [
+          8.425016,
+          47.3856924
+        ],
+        [
+          8.4249324,
+          47.3856383
+        ],
+        [
+          8.4250026,
+          47.385589
+        ],
+        [
+          8.4250073,
+          47.3855918
+        ],
+        [
+          8.4250697,
+          47.3855481
+        ],
+        [
+          8.4254665,
+          47.3858076
+        ],
+        [
+          8.4253973,
+          47.3858557
+        ],
+        [
+          8.4253913,
+          47.3858522
+        ],
+        [
+          8.4253152,
+          47.3859053
+        ],
+        [
+          8.425311,
+          47.3859061
+        ],
+        [
+          8.425282,
+          47.3859257
+        ],
+        [
+          8.4252806,
+          47.3859284
+        ],
+        [
+          8.4252793,
+          47.3859296
         ]
       ]
     ]
@@ -112700,6 +112510,185 @@
 },
 {
   "type": "Feature",
+  "id": "way/1087039115",
+  "properties": {
+    "amenity": "school",
+    "name": "Schulanlage Breite",
+    "phone": "+41 43 843 17 17",
+    "website": "https://www.schulehinwil.ch/de/schulen/breite/",
+    "id": "way/1087039115"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8504717,
+          47.2987196
+        ],
+        [
+          8.8508448,
+          47.2988727
+        ],
+        [
+          8.8509827,
+          47.2992837
+        ],
+        [
+          8.8509725,
+          47.2996619
+        ],
+        [
+          8.8501346,
+          47.2995011
+        ],
+        [
+          8.8499299,
+          47.2999444
+        ],
+        [
+          8.849191,
+          47.2997639
+        ],
+        [
+          8.8488075,
+          47.2996129
+        ],
+        [
+          8.8490006,
+          47.2990254
+        ],
+        [
+          8.8493045,
+          47.2988106
+        ],
+        [
+          8.8504717,
+          47.2987196
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1087050412",
+  "properties": {
+    "amenity": "school",
+    "name": "Mätteli",
+    "id": "way/1087050412"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8465808,
+          47.3016125
+        ],
+        [
+          8.8467095,
+          47.3013021
+        ],
+        [
+          8.8473981,
+          47.3014024
+        ],
+        [
+          8.8478638,
+          47.3016425
+        ],
+        [
+          8.8475476,
+          47.3020012
+        ],
+        [
+          8.8471241,
+          47.3020365
+        ],
+        [
+          8.8465808,
+          47.3016125
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1087077392",
+  "properties": {
+    "amenity": "school",
+    "name": "Meiliwiese",
+    "website": "http://www.schulehinwil.ch/de/schulen/meiliwiese/",
+    "id": "way/1087077392"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8390063,
+          47.3012956
+        ],
+        [
+          8.8394081,
+          47.3008767
+        ],
+        [
+          8.8400469,
+          47.3011671
+        ],
+        [
+          8.8403049,
+          47.300916
+        ],
+        [
+          8.8407928,
+          47.3008755
+        ],
+        [
+          8.8416036,
+          47.3013063
+        ],
+        [
+          8.8416517,
+          47.3015819
+        ],
+        [
+          8.8420629,
+          47.3017826
+        ],
+        [
+          8.8418353,
+          47.3019993
+        ],
+        [
+          8.8410929,
+          47.3016776
+        ],
+        [
+          8.8406015,
+          47.3021096
+        ],
+        [
+          8.8398802,
+          47.3018002
+        ],
+        [
+          8.8399416,
+          47.3017371
+        ],
+        [
+          8.8390063,
+          47.3012956
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/122507552",
   "properties": {
     "amenity": "school",
@@ -112915,22 +112904,6 @@
     "coordinates": [
       8.8657108,
       47.298295
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/320612404",
-  "properties": {
-    "amenity": "school",
-    "name": "Schulanlage Breite",
-    "id": "node/320612404"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8507768,
-      47.299274
     ]
   }
 },
@@ -114234,32 +114207,6 @@
     "coordinates": [
       8.8249419,
       47.3656668
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/3147403058",
-  "properties": {
-    "addr:city": "Hinwil",
-    "addr:housenumber": "6",
-    "addr:postcode": "8340",
-    "addr:street": "Breitestrasse",
-    "amenity": "school",
-    "email": "schulleitung.breite@schulehinwil.ch",
-    "government": "government",
-    "name": "Schulhaus/Schulleitung Breite",
-    "phone": "+41 43 843 17 17",
-    "school": "primary",
-    "school:CH": "primarschule",
-    "website": "http://www.schulehinwil.ch/de/schulen/breite/welcome.php?amt_id=524&page=0",
-    "id": "node/3147403058"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8493013,
-      47.2992369
     ]
   }
 },
@@ -117772,23 +117719,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9755582000",
-  "properties": {
-    "amenity": "school",
-    "name": "Lehrschwimmbad Breite",
-    "sport": "swimming",
-    "id": "node/9755582000"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8504426,
-      47.2994047
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9756929945",
   "properties": {
     "addr:city": "Winterthur",
@@ -118530,6 +118460,58 @@
     "coordinates": [
       8.4976293,
       47.2230276
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9958743901",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "18a",
+    "addr:postcode": "8610",
+    "addr:street": "Florastrasse",
+    "amenity": "school",
+    "name": "Japanische Schule",
+    "id": "node/9958743901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7203041,
+      47.3470279
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9960710277",
+  "properties": {
+    "amenity": "school",
+    "name": "Kobuki Privatschule",
+    "id": "node/9960710277"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7235041,
+      47.3482006
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9960732400",
+  "properties": {
+    "amenity": "school",
+    "name": "KuSS Kunst- und Sportschule",
+    "id": "node/9960732400"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7280247,
+      47.3570659
     ]
   }
 }
