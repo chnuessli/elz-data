@@ -5719,7 +5719,8 @@
     "addr:postcode": "8604",
     "addr:street": "Seewadelstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
+    "name": "Kindergarten Wallberg",
     "id": "way/45208885"
   },
   "geometry": {
@@ -5781,6 +5782,56 @@
         [
           8.6868016,
           47.3923273
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/45208977",
+  "properties": {
+    "addr:city": "Volketswil",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8604",
+    "addr:street": "Säntisweg",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Eichholz",
+    "id": "way/45208977"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6815236,
+          47.3949177
+        ],
+        [
+          8.6816135,
+          47.3949845
+        ],
+        [
+          8.6814083,
+          47.3951109
+        ],
+        [
+          8.6812522,
+          47.3949947
+        ],
+        [
+          8.6814228,
+          47.3948897
+        ],
+        [
+          8.681489,
+          47.394939
+        ],
+        [
+          8.6815236,
+          47.3949177
         ]
       ]
     ]
@@ -7324,7 +7375,7 @@
     "addr:street": "Lindenhof",
     "amenity": "kindergarten",
     "building": "yes",
-    "name": "Dammboden",
+    "name": "Kindergarten Dammboden",
     "source": "Bing",
     "id": "way/57722664"
   },
@@ -7430,7 +7481,7 @@
     "addr:postcode": "8604",
     "addr:street": "Grindelstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Steibrugg",
     "id": "way/59283588"
   },
@@ -11480,40 +11531,40 @@
     "coordinates": [
       [
         [
-          8.7316239,
-          47.3562832
+          8.7316229,
+          47.3562926
         ],
         [
-          8.7314939,
-          47.3562465
+          8.7315025,
+          47.3562494
         ],
         [
-          8.7315196,
-          47.3562046
+          8.7315387,
+          47.3562062
         ],
         [
-          8.7314566,
-          47.3561868
+          8.7314841,
+          47.3561862
         ],
         [
-          8.73152,
-          47.3560838
+          8.7315405,
+          47.3561126
         ],
         [
-          8.7316619,
-          47.3561238
+          8.7316492,
+          47.3561516
         ],
         [
-          8.7316264,
-          47.3561816
+          8.7316207,
+          47.3561876
         ],
         [
-          8.7316775,
-          47.3561961
+          8.7316861,
+          47.3562124
         ],
         [
-          8.7316239,
-          47.3562832
+          8.7316229,
+          47.3562926
         ]
       ]
     ]
@@ -12382,50 +12433,6 @@
         [
           8.5740686,
           47.3422015
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/121017210",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Nossikon",
-    "id": "way/121017210"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7260925,
-          47.3402879
-        ],
-        [
-          8.7263278,
-          47.3401593
-        ],
-        [
-          8.7265868,
-          47.340371
-        ],
-        [
-          8.7263733,
-          47.3405036
-        ],
-        [
-          8.7263001,
-          47.3404621
-        ],
-        [
-          8.7261558,
-          47.3403522
-        ],
-        [
-          8.7260925,
-          47.3402879
         ]
       ]
     ]
@@ -17620,35 +17627,163 @@
 },
 {
   "type": "Feature",
-  "id": "way/183204932",
+  "id": "way/183203917",
   "properties": {
+    "addr:city": "Uster",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8610",
+    "addr:street": "Blindenholzstrasse",
     "amenity": "kindergarten",
-    "name": "Kindergarten Pünt",
-    "id": "way/183204932"
+    "building": "kindergarten",
+    "name": "Kindergarten Nossikon",
+    "id": "way/183203917"
   },
   "geometry": {
     "type": "Polygon",
     "coordinates": [
       [
         [
-          8.711182,
-          47.3486715
+          8.7262999,
+          47.3404702
         ],
         [
-          8.7125018,
-          47.3486573
+          8.7261706,
+          47.3403645
         ],
         [
-          8.7125252,
-          47.3489697
+          8.7262572,
+          47.3403158
         ],
         [
-          8.7117135,
-          47.349191
+          8.7263678,
+          47.3404062
         ],
         [
-          8.711182,
-          47.3486715
+          8.7263902,
+          47.3403936
+        ],
+        [
+          8.7264225,
+          47.3404199
+        ],
+        [
+          8.72638,
+          47.3404438
+        ],
+        [
+          8.7263665,
+          47.3404328
+        ],
+        [
+          8.7262999,
+          47.3404702
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/183204933",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "30",
+    "addr:postcode": "8610",
+    "addr:street": "Wilstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "email": "ursula.pedrazzoli@primarschule-uster.ch",
+    "name": "Kindergarten Pünt",
+    "phone": "+41 44 941 11 50",
+    "school": "primary",
+    "school:CH": "primarschule",
+    "website": "http://www.primarschule-uster.ch/de/daten/schuleinheit/puent/",
+    "id": "way/183204933"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.712066,
+          47.3491364
+        ],
+        [
+          8.7119305,
+          47.3491965
+        ],
+        [
+          8.7118062,
+          47.3489724
+        ],
+        [
+          8.7116552,
+          47.3489711
+        ],
+        [
+          8.711657,
+          47.34896
+        ],
+        [
+          8.7115139,
+          47.3489612
+        ],
+        [
+          8.7115139,
+          47.3489536
+        ],
+        [
+          8.7114581,
+          47.3489539
+        ],
+        [
+          8.7114591,
+          47.348929
+        ],
+        [
+          8.7113972,
+          47.3489284
+        ],
+        [
+          8.7113949,
+          47.3488375
+        ],
+        [
+          8.7115395,
+          47.3488385
+        ],
+        [
+          8.7115395,
+          47.34883
+        ],
+        [
+          8.7116344,
+          47.3488313
+        ],
+        [
+          8.7116352,
+          47.3488391
+        ],
+        [
+          8.7117768,
+          47.3488419
+        ],
+        [
+          8.7118158,
+          47.3488341
+        ],
+        [
+          8.711836,
+          47.348846
+        ],
+        [
+          8.7119129,
+          47.3488282
+        ],
+        [
+          8.712066,
+          47.3491364
         ]
       ]
     ]
@@ -18108,6 +18243,10 @@
   "type": "Feature",
   "id": "way/189141925",
   "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "9",
+    "addr:postcode": "8610",
+    "addr:street": "Stöcklerstrasse",
     "amenity": "kindergarten",
     "building": "yes",
     "name": "Kindergarten Stöcklerstrasse",
@@ -32693,57 +32832,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1036761020",
-  "properties": {
-    "amenity": "kindergarten",
-    "id": "way/1036761020"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6660935,
-          47.3872949
-        ],
-        [
-          8.666072,
-          47.3870573
-        ],
-        [
-          8.6662179,
-          47.3870457
-        ],
-        [
-          8.6662909,
-          47.386991
-        ],
-        [
-          8.6663072,
-          47.3869293
-        ],
-        [
-          8.6662994,
-          47.3868336
-        ],
-        [
-          8.6668778,
-          47.3868039
-        ],
-        [
-          8.666915,
-          47.3872558
-        ],
-        [
-          8.6660935,
-          47.3872949
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1047709448",
   "properties": {
     "addr:city": "Oetwil am See",
@@ -33687,8 +33775,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7164463,
-      47.3404577
+      8.7166814,
+      47.340098
     ]
   }
 },
@@ -45096,6 +45184,22 @@
     "coordinates": [
       8.7079226,
       47.3522217
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9960754438",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Oberuster",
+    "id": "node/9960754438"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7311223,
+      47.3453554
     ]
   }
 }
