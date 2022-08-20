@@ -26158,47 +26158,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/284068743",
-  "properties": {
-    "addr:city": "Hinwil",
-    "addr:housenumber": "9",
-    "addr:postcode": "8340",
-    "addr:street": "Schulhausstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Hadlikon 1+2",
-    "id": "way/284068743"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.8524876,
-          47.2880634
-        ],
-        [
-          8.8525202,
-          47.2879584
-        ],
-        [
-          8.8528235,
-          47.2880018
-        ],
-        [
-          8.8527909,
-          47.2881068
-        ],
-        [
-          8.8524876,
-          47.2880634
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/289329278",
   "properties": {
     "addr:city": "Hinwil",
