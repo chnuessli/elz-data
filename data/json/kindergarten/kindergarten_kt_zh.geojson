@@ -19056,6 +19056,7 @@
     "building": "kindergarten",
     "building:levels": "1",
     "name": "Kindergarten Müselacher",
+    "roof:shape": "flat",
     "id": "way/200206712"
   },
   "geometry": {

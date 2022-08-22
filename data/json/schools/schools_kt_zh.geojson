@@ -95655,6 +95655,58 @@
 },
 {
   "type": "Feature",
+  "id": "way/1088005007",
+  "properties": {
+    "amenity": "school",
+    "name": "Schule Wernetshausen",
+    "id": "way/1088005007"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8658442,
+          47.2984516
+        ],
+        [
+          8.8660188,
+          47.2986652
+        ],
+        [
+          8.8650451,
+          47.2990231
+        ],
+        [
+          8.8645485,
+          47.2983254
+        ],
+        [
+          8.8658889,
+          47.2978559
+        ],
+        [
+          8.8662726,
+          47.2983654
+        ],
+        [
+          8.8660809,
+          47.2984306
+        ],
+        [
+          8.8660448,
+          47.2983829
+        ],
+        [
+          8.8658442,
+          47.2984516
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/256335788",
   "properties": {
     "amenity": "school",
@@ -95769,22 +95821,6 @@
     "coordinates": [
       8.6281061,
       47.4432794
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/320604595",
-  "properties": {
-    "amenity": "school",
-    "name": "Schule Wernetshausen",
-    "id": "node/320604595"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8657108,
-      47.298295
     ]
   }
 },
