@@ -676,6 +676,101 @@
 },
 {
   "type": "Feature",
+  "id": "way/95522534",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "214",
+    "addr:postcode": "8050",
+    "addr:street": "Tramstrasse",
+    "amenity": "childcare",
+    "building": "yes",
+    "building:colour": "#A3463F",
+    "building:levels": "1",
+    "name": "Hort Saatlen 1",
+    "id": "way/95522534"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5629566,
+          47.4087422
+        ],
+        [
+          8.5629703,
+          47.4087495
+        ],
+        [
+          8.5629344,
+          47.4087816
+        ],
+        [
+          8.5630743,
+          47.408856
+        ],
+        [
+          8.5630747,
+          47.4088462
+        ],
+        [
+          8.5631321,
+          47.4088314
+        ],
+        [
+          8.5631778,
+          47.4088561
+        ],
+        [
+          8.5632321,
+          47.408842
+        ],
+        [
+          8.5632795,
+          47.4088666
+        ],
+        [
+          8.5632719,
+          47.408907
+        ],
+        [
+          8.5632174,
+          47.4089217
+        ],
+        [
+          8.5632106,
+          47.4089606
+        ],
+        [
+          8.5631542,
+          47.4089769
+        ],
+        [
+          8.5631291,
+          47.4089638
+        ],
+        [
+          8.5631377,
+          47.4089556
+        ],
+        [
+          8.5630814,
+          47.4089259
+        ],
+        [
+          8.5628726,
+          47.4088156
+        ],
+        [
+          8.5629566,
+          47.4087422
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/96343677",
   "properties": {
     "addr:city": "Pfäffikon ZH",
@@ -9889,31 +9984,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9545137587",
-  "properties": {
-    "amenity": "childcare",
-    "contact:city": "Zürich",
-    "contact:housenumber": "214",
-    "contact:phone": "+41 44 413 18 83",
-    "contact:postcode": "8050",
-    "contact:street": "Tramstrasse",
-    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/saatlen/betreuung/standorte.html",
-    "isced:level": "0",
-    "name": "Kinderhort Schörli - Mittag-Abend",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Saatlen",
-    "operator:type": "public",
-    "id": "node/9545137587"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5631016,
-      47.4088819
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9545137588",
   "properties": {
     "amenity": "childcare",
@@ -9932,8 +10002,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5621625,
-      47.4084261
+      8.5618616,
+      47.4081851
     ]
   }
 },

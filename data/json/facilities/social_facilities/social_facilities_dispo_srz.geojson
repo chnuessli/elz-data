@@ -43889,6 +43889,151 @@
 },
 {
   "type": "Feature",
+  "id": "way/1088126760",
+  "properties": {
+    "amenity": "social_facility",
+    "capacity": "88+8",
+    "contact:city": "Zürich",
+    "contact:email": "asz-kluspark@zuerich.ch",
+    "contact:housenumber": "130",
+    "contact:phone": "+41 44 414 03 33",
+    "contact:postcode": "8032",
+    "contact:street": "Asylstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/az-kluspark",
+    "name": "Alterszentrum Klus Park",
+    "old_name": "Spital Theodosianum",
+    "operator": "Stadt Zürich, GUD",
+    "owner": "Immobilien Stadt Zürich (IMMO)",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
+    "id": "way/1088126760"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5632838,
+          47.3644738
+        ],
+        [
+          8.5643717,
+          47.3637478
+        ],
+        [
+          8.5648365,
+          47.3639582
+        ],
+        [
+          8.5654574,
+          47.3642385
+        ],
+        [
+          8.5656403,
+          47.3641119
+        ],
+        [
+          8.5657459,
+          47.3642275
+        ],
+        [
+          8.5657578,
+          47.3642405
+        ],
+        [
+          8.5657507,
+          47.3642433
+        ],
+        [
+          8.565928,
+          47.3643629
+        ],
+        [
+          8.5659523,
+          47.3643793
+        ],
+        [
+          8.5657779,
+          47.3644888
+        ],
+        [
+          8.5659145,
+          47.36467
+        ],
+        [
+          8.5647512,
+          47.3650899
+        ],
+        [
+          8.5647366,
+          47.365087
+        ],
+        [
+          8.5646198,
+          47.3651292
+        ],
+        [
+          8.5646022,
+          47.3650701
+        ],
+        [
+          8.5645821,
+          47.3650474
+        ],
+        [
+          8.5644476,
+          47.364942
+        ],
+        [
+          8.5644267,
+          47.3649331
+        ],
+        [
+          8.5643646,
+          47.3649098
+        ],
+        [
+          8.5642257,
+          47.364856
+        ],
+        [
+          8.5641956,
+          47.3648454
+        ],
+        [
+          8.5641944,
+          47.3648355
+        ],
+        [
+          8.5641698,
+          47.3648261
+        ],
+        [
+          8.5640363,
+          47.3647629
+        ],
+        [
+          8.5640238,
+          47.3647789
+        ],
+        [
+          8.5638547,
+          47.3647137
+        ],
+        [
+          8.563868,
+          47.3646987
+        ],
+        [
+          8.5632838,
+          47.3644738
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/80080369",
   "properties": {
     "addr:city": "Zürich",
@@ -44592,34 +44737,6 @@
     "coordinates": [
       8.5398046,
       47.3781622
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4937236839",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "130",
-    "addr:postcode": "8032",
-    "addr:street": "Asylstrasse",
-    "amenity": "social_facility",
-    "capacity": "88+8",
-    "email": "asz-kluspark@zuerich.ch",
-    "name": "Alterszentrum Klus Park",
-    "operator": "Stadt Zürich, GUD",
-    "phone": "+41 44 414 03 33",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "website": "https://www.stadt-zuerich.ch/az-kluspark",
-    "id": "node/4937236839"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5649772,
-      47.3648424
     ]
   }
 },
