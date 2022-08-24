@@ -52662,7 +52662,7 @@
     "highway": "motorway",
     "lanes": "2",
     "lit": "yes",
-    "maxspeed": "80",
+    "maxspeed": "100",
     "oneway": "yes",
     "ref": "A1H",
     "source:maxspeed": "sign",
