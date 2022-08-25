@@ -36266,6 +36266,7 @@
   "type": "Feature",
   "id": "way/1088126760",
   "properties": {
+    "alt_name": "Alterszentrum Klus Park",
     "amenity": "social_facility",
     "capacity": "88+8",
     "contact:city": "Zürich",
@@ -36275,7 +36276,7 @@
     "contact:postcode": "8032",
     "contact:street": "Asylstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/az-kluspark",
-    "name": "Alterszentrum Klus Park",
+    "name": "Gesundheitszentrum Klus Park",
     "old_name": "Spital Theodosianum",
     "operator": "Stadt Zürich, GUD",
     "owner": "Immobilien Stadt Zürich (IMMO)",
