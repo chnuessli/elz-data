@@ -52094,22 +52094,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7489896034",
-  "properties": {
-    "access": "private",
-    "barrier": "gate",
-    "id": "node/7489896034"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6261652,
-      47.4136522
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7489971345",
   "properties": {
     "access": "customers",
