@@ -30536,61 +30536,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/88015667",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "15",
-    "addr:postcode": "8050",
-    "addr:street": "Baumackerstrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Baumackerschule",
-    "old_name": "Evangelische Schule Baumacker",
-    "operator": "Verein Baumackerschule",
-    "phone": "+41 44 312 60 60",
-    "private": "yes",
-    "website": "https://www.baumackerschule.ch/",
-    "id": "way/88015667"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5457443,
-          47.4082018
-        ],
-        [
-          8.5453865,
-          47.4083491
-        ],
-        [
-          8.5453578,
-          47.4083172
-        ],
-        [
-          8.545322,
-          47.4082774
-        ],
-        [
-          8.5452891,
-          47.4082408
-        ],
-        [
-          8.5456469,
-          47.4080935
-        ],
-        [
-          8.5457443,
-          47.4082018
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/88143177",
   "properties": {
     "amenity": "school",

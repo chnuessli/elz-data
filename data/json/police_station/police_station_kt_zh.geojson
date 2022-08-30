@@ -107,51 +107,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/37147441",
-  "properties": {
-    "addr:housenumber": "19",
-    "addr:postcode": "8134",
-    "addr:street": "Zürichstrasse",
-    "alt_name": "KomPol Adliswil",
-    "amenity": "police",
-    "building": "yes",
-    "email": "polizei@adliswil.ch",
-    "name": "Polizeiposten Stadtpolizei Adliswil",
-    "opening_hours": "Mo 08:00-11:30, 13:30-18:30; Tu-Th 08:00-11:30, 13:30-16:00; Fr 07:00-15:00",
-    "operator": "Stadt Adliswil",
-    "phone": "+41 41 711 78 11",
-    "id": "way/37147441"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5276888,
-          47.3138501
-        ],
-        [
-          8.5275493,
-          47.3136492
-        ],
-        [
-          8.5277625,
-          47.3135811
-        ],
-        [
-          8.527902,
-          47.3137821
-        ],
-        [
-          8.5276888,
-          47.3138501
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/38484891",
   "properties": {
     "addr:city": "Bülach",
@@ -717,55 +672,6 @@
         [
           8.7890293,
           47.5222563
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/155439745",
-  "properties": {
-    "addr:city": "Adliswil",
-    "addr:housenumber": "26",
-    "addr:postcode": "8134",
-    "addr:street": "Sihlquai",
-    "alt_name": "Kantonspolizei Zürich",
-    "amenity": "police",
-    "building": "public",
-    "building:levels": "3",
-    "name": "Polizeiposten Adliswil",
-    "operator": "Kantonspolizei Zürich",
-    "operator:wikidata": "Q1728099",
-    "operator:wikipedia": "de:Kantonspolizei Zürich",
-    "phone": "+41 41 711 81 11",
-    "roof:levels": "1",
-    "roof:shape": "gabled",
-    "id": "way/155439745"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5284058,
-          47.3147209
-        ],
-        [
-          8.528516,
-          47.3146424
-        ],
-        [
-          8.5286283,
-          47.3147148
-        ],
-        [
-          8.528518,
-          47.3147933
-        ],
-        [
-          8.5284058,
-          47.3147209
         ]
       ]
     ]
@@ -4446,6 +4352,48 @@
     "coordinates": [
       8.5800132,
       47.4111869
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9985481012",
+  "properties": {
+    "alt_name": "KomPol Adliswil",
+    "amenity": "police",
+    "email": "polizei@adliswil.ch",
+    "name": "Polizeiposten Stadtpolizei Adliswil",
+    "opening_hours": "Mo 08:00-11:30, 13:30-18:30; Tu-Th 08:00-11:30, 13:30-16:00; Fr 07:00-15:00",
+    "operator": "Stadt Adliswil",
+    "phone": "+41 41 711 78 11",
+    "id": "node/9985481012"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5275788,
+      47.3125798
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9985481015",
+  "properties": {
+    "alt_name": "Kantonspolizei Zürich",
+    "amenity": "police",
+    "name": "Polizeiposten Adliswil",
+    "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
+    "phone": "+41 41 711 81 11",
+    "id": "node/9985481015"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5276312,
+      47.3126673
     ]
   }
 }
