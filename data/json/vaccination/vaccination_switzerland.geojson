@@ -948,24 +948,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9310144729",
-  "properties": {
-    "healthcare": "vaccination_centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impf Pop-Up IKEA Lyssach",
-    "vaccination": "covid19",
-    "id": "node/9310144729"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.5698306,
-      47.0747035
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9310146361",
   "properties": {
     "healthcare": "vaccination_centre",
