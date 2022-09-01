@@ -11398,6 +11398,28 @@
       47.3323461
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9990748725",
+  "properties": {
+    "addr:city": "Reichenburg",
+    "addr:housenumber": "60",
+    "addr:postcode": "8864",
+    "addr:street": "Kantonsstrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Ärztezentrum Reichenburg",
+    "operator": "Ärztezentrum Reichenburg AG",
+    "id": "node/9990748725"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9793726,
+      47.167642
+    ]
+  }
 }
 ]
 }

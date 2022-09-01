@@ -6540,6 +6540,26 @@
       47.0980801
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9990819118",
+  "properties": {
+    "addr:city": "Reichenburg",
+    "addr:housenumber": "2",
+    "addr:postcode": "8864",
+    "addr:street": "Kirchweg",
+    "amenity": "school",
+    "name": "Schulhaus Burg",
+    "id": "node/9990819118"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9753364,
+      47.1711405
+    ]
+  }
 }
 ]
 }

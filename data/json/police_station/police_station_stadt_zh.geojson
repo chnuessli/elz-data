@@ -3,6 +3,77 @@
 "features": [
 {
   "type": "Feature",
+  "id": "way/29709437",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "73",
+    "addr:postcode": "8002",
+    "addr:street": "Mythenquai",
+    "amenity": "police",
+    "building": "boathouse",
+    "description": "Städtische Seepolizei und Gewässerschutz",
+    "disused:amenity": "police",
+    "name": "Wache Wasserschutzpolizei",
+    "opening_hours": "24/7",
+    "operator": "Stadtpolizei Zürich",
+    "owner": "Immobilien Stadt Zürich (IMMO)",
+    "id": "way/29709437"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5361929,
+          47.3573596
+        ],
+        [
+          8.5362746,
+          47.3573549
+        ],
+        [
+          8.5362896,
+          47.357354
+        ],
+        [
+          8.5362879,
+          47.3573406
+        ],
+        [
+          8.5362969,
+          47.3573401
+        ],
+        [
+          8.5363148,
+          47.3574821
+        ],
+        [
+          8.5361574,
+          47.3574913
+        ],
+        [
+          8.535875,
+          47.3575076
+        ],
+        [
+          8.5358569,
+          47.3573643
+        ],
+        [
+          8.536191,
+          47.3573449
+        ],
+        [
+          8.5361929,
+          47.3573596
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/39652667",
   "properties": {
     "addr:city": "Zürich",
