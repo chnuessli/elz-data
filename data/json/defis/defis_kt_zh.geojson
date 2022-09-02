@@ -32658,6 +32658,7 @@
     "access": "customers",
     "defibrillator:location": "Beim WC/Duschen/Umziehhäuschen auf der Rheinseite aussen an der Wand im grünen Kasten.",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "no",
     "wheelchair": "yes",
     "id": "node/9924839092"
@@ -33101,6 +33102,7 @@
   "id": "node/9954854107",
   "properties": {
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "yes",
     "id": "node/9954854107"
   },
@@ -33750,6 +33752,28 @@
     "coordinates": [
       8.5901615,
       47.4122655
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9994146117",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "An Wand direkt im Eingangsbereich",
+    "description": "24h Verfügbar (nachts Öffnung des Zugangs nur über Nachtdienst-Klingel)",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Stiftung Emilienheim",
+    "phone": "0447154153",
+    "id": "node/9994146117"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5377655,
+      47.3288082
     ]
   }
 }

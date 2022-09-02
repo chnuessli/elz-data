@@ -1881,11 +1881,14 @@
     "addr:housenumber": "260",
     "addr:postcode": "8008",
     "addr:street": "Bellerivestrasse",
+    "alt_name": "Dienstgebäude Tiefenbrunnen Wasserschutzpolizei",
     "amenity": "police",
     "description": "Städtische Seepolizei und Gewässerschutz",
     "name": "Wache Wasserschutzpolizei",
-    "opening_hours": "24/7",
+    "opening_hours": "Tu,Th 07:30-13:00; We,Fr 13:00-16:30",
     "operator": "Stadtpolizei Zürich",
+    "phone": "+41 44 411 84 42",
+    "wheelchair": "yes",
     "id": "node/271215645"
   },
   "geometry": {

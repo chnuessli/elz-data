@@ -19000,6 +19000,83 @@
 },
 {
   "type": "Feature",
+  "id": "way/43936832",
+  "properties": {
+    "addr:city": "Winkel",
+    "addr:housenumber": "32",
+    "addr:postcode": "8185",
+    "addr:street": "Lufingerstrasse",
+    "amenity": "school",
+    "building": "yes",
+    "isced:level": "2",
+    "name": "Heilpädagogische Schule Winkel",
+    "social_facility": "ambulatory_care",
+    "social_facility:for": "juvenile",
+    "source": "Yahoo aerial images",
+    "id": "way/43936832"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5613933,
+          47.4795851
+        ],
+        [
+          8.5614348,
+          47.4794304
+        ],
+        [
+          8.5618422,
+          47.4794695
+        ],
+        [
+          8.5618779,
+          47.479469
+        ],
+        [
+          8.561925,
+          47.4794716
+        ],
+        [
+          8.5619797,
+          47.4794617
+        ],
+        [
+          8.5621531,
+          47.4794222
+        ],
+        [
+          8.5622303,
+          47.4795834
+        ],
+        [
+          8.5620078,
+          47.4796243
+        ],
+        [
+          8.5619541,
+          47.479632
+        ],
+        [
+          8.5619076,
+          47.4796467
+        ],
+        [
+          8.5618109,
+          47.4796556
+        ],
+        [
+          8.5613933,
+          47.4795851
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/44629796",
   "properties": {
     "addr:city": "Horgen",
@@ -97129,29 +97206,6 @@
     "coordinates": [
       8.5584671,
       47.487501
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5309118521",
-  "properties": {
-    "addr:city": "Winkel",
-    "addr:housenumber": "32",
-    "addr:postcode": "8185",
-    "addr:street": "Lufingerstrasse",
-    "amenity": "school",
-    "isced:level": "2",
-    "name": "Heilpädagogische Schule Winkel",
-    "social_facility": "ambulatory_care",
-    "social_facility:for": "juvenile",
-    "id": "node/5309118521"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5618008,
-      47.479572
     ]
   }
 },
