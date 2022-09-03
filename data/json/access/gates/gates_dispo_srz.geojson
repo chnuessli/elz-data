@@ -2495,6 +2495,32 @@
 },
 {
   "type": "Feature",
+  "id": "way/1091310379",
+  "properties": {
+    "barrier": "gate",
+    "opening_hours": "Mo-Su 06:00-22:00",
+    "id": "way/1091310379"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5550851,
+        47.3158309
+      ],
+      [
+        8.5550888,
+        47.3158166
+      ],
+      [
+        8.5550926,
+        47.315802
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/25427486",
   "properties": {
     "barrier": "gate",
@@ -31629,8 +31655,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.3971047,
-      47.4050093
+      8.3971126,
+      47.4049951
     ]
   }
 },
@@ -39043,23 +39069,6 @@
     "coordinates": [
       8.5754743,
       47.4528799
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4076288425",
-  "properties": {
-    "access": "no",
-    "barrier": "gate",
-    "emergency:access": "no",
-    "id": "node/4076288425"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5761441,
-      47.4547705
     ]
   }
 },
