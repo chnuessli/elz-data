@@ -15128,7 +15128,7 @@
   "type": "Feature",
   "id": "way/148742739",
   "properties": {
-    "addr:city": "Au (ZH)",
+    "addr:city": "Au ZH",
     "addr:housenumber": "32",
     "addr:postcode": "8804",
     "addr:street": "Alvierstrasse",
@@ -15144,6 +15144,10 @@
         [
           8.6519814,
           47.2411028
+        ],
+        [
+          8.651981,
+          47.241082
         ],
         [
           8.6519797,

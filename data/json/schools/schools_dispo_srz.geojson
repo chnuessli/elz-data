@@ -46058,7 +46058,8 @@
     "addr:street": "Johannes-Hirt-Strasse",
     "amenity": "school",
     "building": "school",
-    "name": "Schulhaus Steinacker Sekundar",
+    "name": "Schulhaus Steinacher 1 (Sekundar)",
+    "website": "https://www.oswaedenswil.ch/schulanlagen/schulhaus-steinacher",
     "id": "way/148733659"
   },
   "geometry": {
@@ -46371,7 +46372,8 @@
     "addr:street": "Alte Steinacherstrasse",
     "amenity": "school",
     "building": "school",
-    "name": "Schulhaus Steinacker Primar",
+    "name": "Schulhaus Steinacher 2 (Primar)",
+    "website": "https://www.pswaedenswil.ch/schulhaeuser/1636",
     "id": "way/148733705"
   },
   "geometry": {

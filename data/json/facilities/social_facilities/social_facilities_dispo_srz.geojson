@@ -40922,132 +40922,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/918815437",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "34",
-    "addr:postcode": "8047",
-    "addr:street": "Flüelastrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "social_facility": "shelter",
-    "social_facility:for": "refugee",
-    "id": "way/918815437"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4942814,
-          47.3822879
-        ],
-        [
-          8.4941088,
-          47.3821137
-        ],
-        [
-          8.4941817,
-          47.3820806
-        ],
-        [
-          8.4943543,
-          47.3822548
-        ],
-        [
-          8.4942814,
-          47.3822879
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/918815438",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "36",
-    "addr:postcode": "8047",
-    "addr:street": "Flüelastrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "social_facility": "shelter",
-    "social_facility:for": "refugee",
-    "id": "way/918815438"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4941492,
-          47.3823497
-        ],
-        [
-          8.4939758,
-          47.3821747
-        ],
-        [
-          8.4940448,
-          47.3821434
-        ],
-        [
-          8.4942182,
-          47.3823184
-        ],
-        [
-          8.4941492,
-          47.3823497
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/918815439",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "38",
-    "addr:postcode": "8047",
-    "addr:street": "Flüelastrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "social_facility": "shelter",
-    "social_facility:for": "refugee",
-    "id": "way/918815439"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4940162,
-          47.3824089
-        ],
-        [
-          8.4938491,
-          47.3822403
-        ],
-        [
-          8.4939175,
-          47.3822092
-        ],
-        [
-          8.4940846,
-          47.3823778
-        ],
-        [
-          8.4940162,
-          47.3824089
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/929856034",
   "properties": {
     "amenity": "social_facility",
@@ -44781,7 +44655,7 @@
     "amenity": "social_facility",
     "capacity": "74+5",
     "email": "asz-mathysweg@zuerich.ch",
-    "name": "Alterszentrum Mathysweg (temporär im Alterszentrum Triemli)",
+    "name": "Alterszentrum Mathysweg",
     "note": "Ersatzstandort ist an der Birmensdorferstrasse 489;Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Stadt Zürich, GUD",
     "phone": "+41 44 414 30 30",
