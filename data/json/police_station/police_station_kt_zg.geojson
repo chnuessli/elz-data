@@ -11,6 +11,7 @@
     "addr:street": "An der Aa",
     "amenity": "police",
     "building": "yes",
+    "check_date:opening_hours": "2022-09-04",
     "email": "info.polizei@zg.ch",
     "name": "Polizeidienststelle Zug",
     "office": "government",
