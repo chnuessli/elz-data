@@ -49251,6 +49251,38 @@
       47.3453554
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10003445508",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Baumgarten",
+    "id": "node/10003445508"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6715573,
+      47.2207717
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10003495636",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Gerberacher",
+    "id": "node/10003495636"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6735239,
+      47.2180281
+    ]
+  }
 }
 ]
 }
