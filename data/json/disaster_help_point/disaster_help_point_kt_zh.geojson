@@ -1222,10 +1222,6 @@
   "type": "Feature",
   "id": "node/9417237617",
   "properties": {
-    "addr:city": "Wetzikon",
-    "addr:housenumber": "63",
-    "addr:postcode": "8620",
-    "addr:street": "Rapperswilerstrasse",
     "description": "Kunsteisbahn",
     "emergency": "disaster_help_point",
     "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",

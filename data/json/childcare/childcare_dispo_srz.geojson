@@ -11331,6 +11331,22 @@
       47.4143905
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10004202636",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Tukan Spielinsel",
+    "id": "node/10004202636"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7226157,
+      47.1905341
+    ]
+  }
 }
 ]
 }
