@@ -20010,6 +20010,24 @@
 },
 {
   "type": "Feature",
+  "id": "node/2431413002",
+  "properties": {
+    "barrier": "gate",
+    "bicycle": "no",
+    "foot": "no",
+    "motor_vehicle": "no",
+    "id": "node/2431413002"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7421718,
+      47.4948677
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2431413266",
   "properties": {
     "barrier": "gate",

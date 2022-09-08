@@ -9958,6 +9958,59 @@
 },
 {
   "type": "Feature",
+  "id": "way/92710525",
+  "properties": {
+    "addr:city": "Weisslingen",
+    "addr:housenumber": "30",
+    "addr:postcode": "8484",
+    "addr:street": "Rennweg",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Theilingen",
+    "id": "way/92710525"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7688521,
+          47.4209256
+        ],
+        [
+          8.7687895,
+          47.4208121
+        ],
+        [
+          8.7689308,
+          47.4207764
+        ],
+        [
+          8.7689696,
+          47.4208465
+        ],
+        [
+          8.7689961,
+          47.4208398
+        ],
+        [
+          8.76902,
+          47.4208832
+        ],
+        [
+          8.7689941,
+          47.4208897
+        ],
+        [
+          8.7688521,
+          47.4209256
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/92752897",
   "properties": {
     "addr:city": "Langnau am Albis",
@@ -10309,6 +10362,67 @@
         [
           8.5343922,
           47.2851705
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/93119299",
+  "properties": {
+    "addr:city": "Weisslingen",
+    "addr:housenumber": "11",
+    "addr:postcode": "8484",
+    "addr:street": "Hintergasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Hintergasse",
+    "id": "way/93119299"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7624128,
+          47.4311156
+        ],
+        [
+          8.7623965,
+          47.4311475
+        ],
+        [
+          8.7624698,
+          47.4311803
+        ],
+        [
+          8.7624235,
+          47.4312358
+        ],
+        [
+          8.762367,
+          47.4312082
+        ],
+        [
+          8.7622505,
+          47.4311781
+        ],
+        [
+          8.7622387,
+          47.4311969
+        ],
+        [
+          8.7621731,
+          47.4311804
+        ],
+        [
+          8.7622288,
+          47.4310702
+        ],
+        [
+          8.7624128,
+          47.4311156
         ]
       ]
     ]
@@ -16710,6 +16824,50 @@
 },
 {
   "type": "Feature",
+  "id": "way/158223001",
+  "properties": {
+    "addr:city": "Wallisellen",
+    "addr:housenumber": "31a",
+    "addr:postcode": "8304",
+    "addr:street": "Melchrütistrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "name": "Kindergarten Chrummengraben",
+    "roof:shape": "flat",
+    "source": "bing",
+    "id": "way/158223001"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5778414,
+          47.4176031
+        ],
+        [
+          8.5780264,
+          47.4175743
+        ],
+        [
+          8.578066,
+          47.4176912
+        ],
+        [
+          8.5778816,
+          47.4177203
+        ],
+        [
+          8.5778414,
+          47.4176031
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/158656857",
   "properties": {
     "addr:city": "Kloten",
@@ -18038,6 +18196,51 @@
 },
 {
   "type": "Feature",
+  "id": "way/172581981",
+  "properties": {
+    "addr:city": "Wangen",
+    "addr:housenumber": "15",
+    "addr:postcode": "8602",
+    "addr:street": "Dübendorfstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Wangen 1+2",
+    "id": "way/172581981"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6442981,
+          47.4098166
+        ],
+        [
+          8.6442848,
+          47.4098094
+        ],
+        [
+          8.6444153,
+          47.4097
+        ],
+        [
+          8.6445323,
+          47.4097639
+        ],
+        [
+          8.6444019,
+          47.4098733
+        ],
+        [
+          8.6442981,
+          47.4098166
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/172711410",
   "properties": {
     "addr:city": "Neuhausen am Rheinfall",
@@ -18288,7 +18491,7 @@
     "addr:postcode": "8820",
     "addr:street": "Untermosenstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Untermosen 1+2",
     "id": "way/176223663"
   },
@@ -18297,40 +18500,40 @@
     "coordinates": [
       [
         [
-          8.6625954,
-          47.2290407
+          8.6625814,
+          47.2290401
         ],
         [
-          8.6625638,
-          47.2289853
+          8.6625482,
+          47.2289786
         ],
         [
-          8.6625172,
-          47.2289975
+          8.662509,
+          47.2289883
         ],
         [
-          8.6624525,
-          47.2288842
+          8.6624496,
+          47.2288817
         ],
         [
-          8.6625961,
-          47.2288464
+          8.662587,
+          47.2288458
         ],
         [
-          8.6626361,
-          47.2289165
+          8.6626345,
+          47.2289277
         ],
         [
-          8.6627027,
-          47.228899
+          8.6626924,
+          47.2289124
         ],
         [
-          8.662759,
-          47.2289976
+          8.6627413,
+          47.2289993
         ],
         [
-          8.6625954,
-          47.2290407
+          8.6625814,
+          47.2290401
         ]
       ]
     ]
@@ -19291,6 +19494,68 @@
         [
           8.7321882,
           47.2045395
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/189574783",
+  "properties": {
+    "addr:city": "Weiningen ZH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8104",
+    "addr:street": "Schlüechtistrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Schlüechti",
+    "source": "bing",
+    "id": "way/189574783"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4340114,
+          47.4182653
+        ],
+        [
+          8.4339697,
+          47.4181966
+        ],
+        [
+          8.4339613,
+          47.4181833
+        ],
+        [
+          8.4338602,
+          47.4182123
+        ],
+        [
+          8.4337893,
+          47.4180989
+        ],
+        [
+          8.4339662,
+          47.4180483
+        ],
+        [
+          8.4340173,
+          47.4181299
+        ],
+        [
+          8.4341031,
+          47.4181053
+        ],
+        [
+          8.434174,
+          47.4182187
+        ],
+        [
+          8.4340114,
+          47.4182653
         ]
       ]
     ]
@@ -26567,11 +26832,11 @@
     "addr:city": "Guntalingen",
     "addr:country": "CH",
     "addr:housenumber": "20",
-    "addr:postcode": "8464",
+    "addr:postcode": "8468",
     "addr:street": "Mülibachstrasse",
     "amenity": "kindergarten",
     "building": "yes",
-    "name": "Kindergarten",
+    "name": "Kindergarten Waltalingen",
     "id": "way/295507677"
   },
   "geometry": {
@@ -30406,6 +30671,87 @@
         [
           8.6349277,
           47.669382
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/448978717",
+  "properties": {
+    "addr:city": "Weiach",
+    "addr:housenumber": "8",
+    "addr:postcode": "8187",
+    "addr:street": "Schulweg",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Farbtupf",
+    "id": "way/448978717"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4363705,
+          47.556107
+        ],
+        [
+          8.4363324,
+          47.5560741
+        ],
+        [
+          8.4363151,
+          47.5560836
+        ],
+        [
+          8.4362575,
+          47.5560338
+        ],
+        [
+          8.4362964,
+          47.5560132
+        ],
+        [
+          8.4362407,
+          47.5559637
+        ],
+        [
+          8.4363211,
+          47.5559211
+        ],
+        [
+          8.4363634,
+          47.5559588
+        ],
+        [
+          8.4364153,
+          47.5559325
+        ],
+        [
+          8.43651,
+          47.5560153
+        ],
+        [
+          8.4364775,
+          47.5560314
+        ],
+        [
+          8.4365005,
+          47.556051
+        ],
+        [
+          8.4364356,
+          47.5560854
+        ],
+        [
+          8.436426,
+          47.5560768
+        ],
+        [
+          8.4363705,
+          47.556107
         ]
       ]
     ]
@@ -39416,10 +39762,12 @@
   "type": "Feature",
   "id": "node/3268664482",
   "properties": {
+    "addr:city": "Wallisellen",
     "addr:housenumber": "2",
+    "addr:postcode": "8304",
     "addr:street": "Richtiarkade",
     "amenity": "kindergarten",
-    "name": "Globegarden",
+    "name": "Kindergarten Globegarden",
     "preschool": "yes",
     "wheelchair": "yes",
     "id": "node/3268664482"
@@ -40348,7 +40696,7 @@
     "addr:postcode": "8304",
     "addr:street": "Hammerweg",
     "amenity": "kindergarten",
-    "name": "Kindergarten Hammerweg",
+    "name": "Kindergarten Hammerweg 1+2",
     "operator": "Schulgemeinde Wallisellen",
     "id": "node/4299449049"
   },
@@ -49244,6 +49592,60 @@
     "coordinates": [
       8.6544899,
       47.2315215
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10006356141",
+  "properties": {
+    "addr:city": "Wallisellen",
+    "addr:housenumber": "10",
+    "addr:postcode": "8304",
+    "addr:street": "Engenbüelstrasse",
+    "amenity": "kindergarten",
+    "name": "Kid's Paradise Montessori",
+    "preschool": "yes",
+    "id": "node/10006356141"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5974193,
+      47.4222968
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10006560165",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "abc-daycare GmbH",
+    "operator": "abc-daycare GmbH, Watt-Regensdorf",
+    "id": "node/10006560165"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4809214,
+      47.4432609
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10006677711",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Schmittenacher",
+    "id": "node/10006677711"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7665201,
+      47.4320814
     ]
   }
 }
