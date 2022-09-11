@@ -6609,6 +6609,28 @@
 },
 {
   "type": "Feature",
+  "id": "node/7875969265",
+  "properties": {
+    "after_school": "yes",
+    "amenity": "childcare",
+    "email": "info@kinderhort-bubikon.ch",
+    "isced:level": "0",
+    "name": "Kinderhort Bubikon",
+    "operator": "Verein Kinderhort Bubikon",
+    "phone": "+41 55 243 35 46",
+    "website": "https://www.kinderhort-bubikon.ch",
+    "id": "node/7875969265"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8181028,
+      47.2686301
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/7918372809",
   "properties": {
     "amenity": "childcare",
@@ -11345,6 +11367,22 @@
     "coordinates": [
       8.7226157,
       47.1905341
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10013035026",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kinderhort Bubikon",
+    "id": "node/10013035026"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8200441,
+      47.2695733
     ]
   }
 }

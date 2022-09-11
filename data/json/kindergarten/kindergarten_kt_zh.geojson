@@ -40619,28 +40619,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7875969265",
-  "properties": {
-    "after_school": "yes",
-    "amenity": "kindergarten",
-    "email": "info@kinderhort-bubikon.ch",
-    "isced:level": "0",
-    "name": "Kinderhort Bubikon",
-    "operator": "Verein Kinderhort Bubikon",
-    "phone": "+41 55 243 35 46",
-    "website": "https://www.kinderhort-bubikon.ch",
-    "id": "node/7875969265"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8181028,
-      47.2686301
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7921493638",
   "properties": {
     "amenity": "kindergarten",
