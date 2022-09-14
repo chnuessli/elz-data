@@ -40370,25 +40370,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6991033979",
-  "properties": {
-    "amenity": "kindergarten",
-    "email": "hello@kiddieland.ch",
-    "name": "KiddieLand",
-    "opening_hours": "Mo-Fr 07:00-18:30",
-    "website": "http://www.kiddieland.ch/",
-    "id": "node/6991033979"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5247195,
-      47.3927536
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7417408894",
   "properties": {
     "amenity": "kindergarten",

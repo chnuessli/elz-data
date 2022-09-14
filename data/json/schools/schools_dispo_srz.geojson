@@ -12341,8 +12341,9 @@
     "addr:postcode": "6340",
     "addr:street": "Deinikonerstrasse",
     "amenity": "school",
+    "building": "school",
     "email": "os-sennweid@schulen-baar.ch",
-    "name": "Oberstufen Schulhaus Sennweid - Baar",
+    "name": "Oberstufenschulhaus Sennweid",
     "operator": "Schulen Baar",
     "phone": "+41 41 769 08 50",
     "website": "http://www.schulen-baar.ch/de/schulorganisation/schule/schulhaeuser/welcome.php?action=showobject&object_id=863",
@@ -12353,40 +12354,122 @@
     "coordinates": [
       [
         [
-          8.5298412,
-          47.1993992
+          8.529885,
+          47.199389
         ],
         [
-          8.5301087,
-          47.1986615
+          8.530148,
+          47.1986633
         ],
         [
-          8.5303237,
-          47.1986975
+          8.5303433,
+          47.1986969
         ],
         [
-          8.530338,
-          47.1986579
+          8.530358,
+          47.1986572
         ],
         [
-          8.5304745,
-          47.1986808
+          8.5304832,
+          47.1986774
         ],
         [
-          8.5302061,
-          47.19942
+          8.5302186,
+          47.1994024
         ],
         [
-          8.5300121,
-          47.1993875
+          8.5300262,
+          47.1993704
         ],
         [
-          8.5299983,
-          47.1994255
+          8.5300116,
+          47.1994095
         ],
         [
-          8.5298412,
-          47.1993992
+          8.529885,
+          47.199389
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/32216356",
+  "properties": {
+    "addr:city": "Baar",
+    "addr:housenumber": "7",
+    "addr:postcode": "6340",
+    "addr:street": "Deinikonerstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Primarschulhaus Sennweid",
+    "operator": "Schulen Baar",
+    "id": "way/32216356"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5293534,
+          47.1991477
+        ],
+        [
+          8.5294498,
+          47.1988828
+        ],
+        [
+          8.5295301,
+          47.1988966
+        ],
+        [
+          8.5295539,
+          47.1988323
+        ],
+        [
+          8.5296537,
+          47.1985579
+        ],
+        [
+          8.5298491,
+          47.198591
+        ],
+        [
+          8.529749,
+          47.1988657
+        ],
+        [
+          8.5296699,
+          47.1988524
+        ],
+        [
+          8.5296463,
+          47.198917
+        ],
+        [
+          8.5295501,
+          47.199181
+        ],
+        [
+          8.5294683,
+          47.1991672
+        ],
+        [
+          8.529472,
+          47.1991563
+        ],
+        [
+          8.5294406,
+          47.1991513
+        ],
+        [
+          8.529437,
+          47.1991619
+        ],
+        [
+          8.5293534,
+          47.1991477
         ]
       ]
     ]
@@ -59052,6 +59135,10 @@
           47.4231192
         ],
         [
+          8.7017513,
+          47.4233696
+        ],
+        [
           8.7014979,
           47.4235408
         ],
@@ -59060,8 +59147,8 @@
           47.423882
         ],
         [
-          8.7006153,
-          47.4241034
+          8.7005974,
+          47.4240926
         ],
         [
           8.7004931,
@@ -110679,8 +110766,13 @@
   "type": "Feature",
   "id": "way/1046864458",
   "properties": {
+    "addr:city": "Baar",
+    "addr:housenumber": "7b",
+    "addr:postcode": "6340",
+    "addr:street": "Deinikonerstrasse",
     "amenity": "school",
-    "name": "Sennweid Schulhaus Temporär",
+    "building": "school",
+    "name": "Schulhausprovisorium Sennweid",
     "operator": "Schulen Baar",
     "operator:type": "public",
     "id": "way/1046864458"
@@ -110690,24 +110782,24 @@
     "coordinates": [
       [
         [
-          8.5291667,
-          47.1993336
+          8.5291971,
+          47.1993658
         ],
         [
-          8.5291807,
-          47.1992621
+          8.5292088,
+          47.1992746
         ],
         [
-          8.5294752,
-          47.1992835
+          8.5296487,
+          47.1993008
         ],
         [
-          8.5294682,
-          47.1993562
+          8.529637,
+          47.1993919
         ],
         [
-          8.5291667,
-          47.1993336
+          8.5291971,
+          47.1993658
         ]
       ]
     ]
@@ -113507,6 +113599,64 @@
 },
 {
   "type": "Feature",
+  "id": "way/1094126326",
+  "properties": {
+    "addr:postcode": "8197",
+    "addr:street": "Rietgass",
+    "amenity": "school",
+    "name": "Schulhaus Götze",
+    "id": "way/1094126326"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5389534,
+          47.6141237
+        ],
+        [
+          8.5388437,
+          47.6139034
+        ],
+        [
+          8.538853,
+          47.6137271
+        ],
+        [
+          8.5389955,
+          47.6134217
+        ],
+        [
+          8.5393154,
+          47.6130738
+        ],
+        [
+          8.5394671,
+          47.6129463
+        ],
+        [
+          8.5397543,
+          47.613066
+        ],
+        [
+          8.5393457,
+          47.6135476
+        ],
+        [
+          8.5391029,
+          47.6138813
+        ],
+        [
+          8.5389534,
+          47.6141237
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/122507552",
   "properties": {
     "amenity": "school",
@@ -114820,24 +114970,6 @@
     "coordinates": [
       8.6303133,
       47.6990488
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2463563975",
-  "properties": {
-    "addr:postcode": "8197",
-    "addr:street": "Rietgass",
-    "amenity": "school",
-    "name": "Schulhaus Götze",
-    "id": "node/2463563975"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5393573,
-      47.6134154
     ]
   }
 },

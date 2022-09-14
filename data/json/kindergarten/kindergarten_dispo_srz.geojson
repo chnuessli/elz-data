@@ -2076,6 +2076,59 @@
 },
 {
   "type": "Feature",
+  "id": "way/32216379",
+  "properties": {
+    "amenity": "kindergarten",
+    "building": "school",
+    "name": "Kindergarten Sennweid",
+    "id": "way/32216379"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5288992,
+          47.1992775
+        ],
+        [
+          8.5289765,
+          47.1991213
+        ],
+        [
+          8.5291371,
+          47.1991583
+        ],
+        [
+          8.5291078,
+          47.1992176
+        ],
+        [
+          8.5291547,
+          47.1992284
+        ],
+        [
+          8.529137,
+          47.199264
+        ],
+        [
+          8.5290901,
+          47.1992532
+        ],
+        [
+          8.5290598,
+          47.1993144
+        ],
+        [
+          8.5288992,
+          47.1992775
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/32450538",
   "properties": {
     "addr:city": "Horgen",
@@ -44263,25 +44316,6 @@
     "coordinates": [
       8.4963083,
       47.4028911
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6991033979",
-  "properties": {
-    "amenity": "kindergarten",
-    "email": "hello@kiddieland.ch",
-    "name": "KiddieLand",
-    "opening_hours": "Mo-Fr 07:00-18:30",
-    "website": "http://www.kiddieland.ch/",
-    "id": "node/6991033979"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5247195,
-      47.3927536
     ]
   }
 },

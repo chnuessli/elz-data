@@ -5926,31 +5926,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4825691570",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "40",
-    "addr:postcode": "8037",
-    "addr:street": "Hönggerstrasse",
-    "amenity": "pharmacy",
-    "name": "Apotheke Drogerie am Wipkingerplatz",
-    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00",
-    "phone": "+41 44 273 04 00",
-    "shop": "chemist",
-    "website": "https://www.apotheke-wipkingerplatz.ch/",
-    "id": "node/4825691570"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5245881,
-      47.3924243
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4827130154",
   "properties": {
     "addr:city": "Zürich",
@@ -6634,7 +6609,7 @@
     "brand": "Rotpunkt Apotheke",
     "drive_through": "no",
     "name": "Apotheke im Brühl",
-    "opening_hours": "Mo-Sa 08:00-19:00",
+    "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:00-19:00",
     "id": "node/4922030533"
   },
   "geometry": {
