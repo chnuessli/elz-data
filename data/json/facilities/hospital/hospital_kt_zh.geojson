@@ -7403,6 +7403,7 @@
     "addr:housenumber": "145",
     "addr:postcode": "8032",
     "addr:street": "Minervastrasse",
+    "alt_name": "Gerontopuk;Geronto PUK",
     "amenity": "clinic",
     "building": "yes",
     "name": "Alterspsychiatrie Gerontopsychiatrisches Zentrum Hegibach",
