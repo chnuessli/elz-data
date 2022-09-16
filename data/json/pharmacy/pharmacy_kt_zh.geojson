@@ -3845,22 +3845,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2288600722",
-  "properties": {
-    "amenity": "pharmacy",
-    "name": "Parkapotheke",
-    "id": "node/2288600722"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7616703,
-      47.4977071
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2289494989",
   "properties": {
     "addr:city": "Zumikon",

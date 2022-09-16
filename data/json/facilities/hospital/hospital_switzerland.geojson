@@ -50276,6 +50276,7 @@
     "addr:housenumber": "3",
     "addr:postcode": "8032",
     "addr:street": "Neumünsterallee",
+    "alt_name": "KJPD",
     "amenity": "clinic",
     "healthcare": "clinic",
     "healthcare:speciality": "psychiatry",
