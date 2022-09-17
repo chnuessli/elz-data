@@ -7441,54 +7441,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/59263487",
-  "properties": {
-    "addr:housenumber": "364",
-    "addr:street": "Tösstalstrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Sennhof",
-    "operator": "Schule Aussenwachten",
-    "id": "way/59263487"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.758149,
-          47.4669334
-        ],
-        [
-          8.7580843,
-          47.4670219
-        ],
-        [
-          8.757996,
-          47.4669924
-        ],
-        [
-          8.7580082,
-          47.4669757
-        ],
-        [
-          8.7578376,
-          47.4669187
-        ],
-        [
-          8.7578901,
-          47.4668469
-        ],
-        [
-          8.758149,
-          47.4669334
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/59283588",
   "properties": {
     "addr:city": "Volketswil",
@@ -34447,8 +34399,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.758233,
-      47.4664631
+      8.7583627,
+      47.4663173
     ]
   }
 },
@@ -45581,6 +45533,38 @@
     "coordinates": [
       8.7665201,
       47.4320814
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10029303214",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Diemand",
+    "id": "node/10029303214"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7468969,
+      47.3623104
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10029310685",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Gujer",
+    "id": "node/10029310685"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7469634,
+      47.3627967
     ]
   }
 }
