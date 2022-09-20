@@ -2300,6 +2300,93 @@
 },
 {
   "type": "Feature",
+  "id": "way/32803872",
+  "properties": {
+    "addr:city": "Zweidlen",
+    "addr:country": "CH",
+    "addr:housenumber": "8a",
+    "addr:postcode": "8192",
+    "addr:street": "Lettenstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Zweidlen",
+    "source": "yahoo aerial images",
+    "id": "way/32803872"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4722978,
+          47.5698397
+        ],
+        [
+          8.472219,
+          47.5698908
+        ],
+        [
+          8.47221,
+          47.5698961
+        ],
+        [
+          8.472078,
+          47.5698039
+        ],
+        [
+          8.4721091,
+          47.5697842
+        ],
+        [
+          8.4721038,
+          47.5697801
+        ],
+        [
+          8.4721842,
+          47.5697267
+        ],
+        [
+          8.4721879,
+          47.5697292
+        ],
+        [
+          8.4721832,
+          47.5697323
+        ],
+        [
+          8.4722541,
+          47.569782
+        ],
+        [
+          8.472259,
+          47.5697789
+        ],
+        [
+          8.4722628,
+          47.5697817
+        ],
+        [
+          8.4722264,
+          47.5698052
+        ],
+        [
+          8.4722818,
+          47.5698443
+        ],
+        [
+          8.4722947,
+          47.5698372
+        ],
+        [
+          8.4722978,
+          47.5698397
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/32820067",
   "properties": {
     "addr:city": "Niederhasli",
@@ -5032,6 +5119,49 @@
 },
 {
   "type": "Feature",
+  "id": "way/43795949",
+  "properties": {
+    "addr:housenumber": "4",
+    "addr:street": "Wisentalstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "2",
+    "name": "Kindergarten Meadows Montessori",
+    "roof:levels": "2",
+    "roof:shape": "gabled",
+    "source": "Yahoo aerial images",
+    "id": "way/43795949"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5549141,
+          47.4782295
+        ],
+        [
+          8.5550615,
+          47.4780691
+        ],
+        [
+          8.555208,
+          47.4781251
+        ],
+        [
+          8.5550561,
+          47.4782874
+        ],
+        [
+          8.5549141,
+          47.4782295
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/43858171",
   "properties": {
     "addr:city": "Winterthur",
@@ -6496,6 +6626,73 @@
 },
 {
   "type": "Feature",
+  "id": "way/49967918",
+  "properties": {
+    "addr:city": "Zollikon",
+    "addr:country": "CH",
+    "addr:housenumber": "24b",
+    "addr:postcode": "8702",
+    "addr:street": "Wieslerstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "name": "Kindergarten Breitacher",
+    "id": "way/49967918"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5798844,
+          47.3371829
+        ],
+        [
+          8.579719,
+          47.337184
+        ],
+        [
+          8.5797179,
+          47.3371092
+        ],
+        [
+          8.5796194,
+          47.3371099
+        ],
+        [
+          8.5796174,
+          47.33697
+        ],
+        [
+          8.5797635,
+          47.336969
+        ],
+        [
+          8.5797628,
+          47.3369195
+        ],
+        [
+          8.5799328,
+          47.3369184
+        ],
+        [
+          8.5799345,
+          47.3370313
+        ],
+        [
+          8.5798822,
+          47.3370317
+        ],
+        [
+          8.5798844,
+          47.3371829
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/50318650",
   "properties": {
     "addr:city": "Eglisau",
@@ -7476,6 +7673,50 @@
         [
           8.6667534,
           47.3869193
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/61637164",
+  "properties": {
+    "addr:city": "Zollikon",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "8702",
+    "addr:street": "Hinter Zünen",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "2",
+    "name": "Kindergarten Hinter Zünen",
+    "roof:shape": "flat",
+    "id": "way/61637164"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5744877,
+          47.3420024
+        ],
+        [
+          8.5744209,
+          47.3421765
+        ],
+        [
+          8.5741389,
+          47.3421269
+        ],
+        [
+          8.5742057,
+          47.3419528
+        ],
+        [
+          8.5744877,
+          47.3420024
         ]
       ]
     ]
@@ -12343,130 +12584,6 @@
         [
           8.7592093,
           47.2809269
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/117767795",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Breitacher",
-    "id": "way/117767795"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5795929,
-          47.3372568
-        ],
-        [
-          8.5795743,
-          47.3369754
-        ],
-        [
-          8.5796222,
-          47.3369705
-        ],
-        [
-          8.5796142,
-          47.3367688
-        ],
-        [
-          8.5797094,
-          47.336766
-        ],
-        [
-          8.5797121,
-          47.3367088
-        ],
-        [
-          8.5799249,
-          47.3366969
-        ],
-        [
-          8.5799389,
-          47.3368884
-        ],
-        [
-          8.5800835,
-          47.3368915
-        ],
-        [
-          8.5800849,
-          47.3369605
-        ],
-        [
-          8.5800446,
-          47.3369624
-        ],
-        [
-          8.5800406,
-          47.3370042
-        ],
-        [
-          8.5799964,
-          47.337006
-        ],
-        [
-          8.579995,
-          47.3370978
-        ],
-        [
-          8.5799709,
-          47.3370987
-        ],
-        [
-          8.5798955,
-          47.3371869
-        ],
-        [
-          8.5797335,
-          47.3372847
-        ],
-        [
-          8.5795929,
-          47.3372568
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/117768447",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Hinter Zünen",
-    "id": "way/117768447"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5740686,
-          47.3422015
-        ],
-        [
-          8.5741973,
-          47.3418562
-        ],
-        [
-          8.5746372,
-          47.3418889
-        ],
-        [
-          8.5744763,
-          47.342267
-        ],
-        [
-          8.5740686,
-          47.3422015
         ]
       ]
     ]
@@ -20000,7 +20117,8 @@
     "addr:postcode": "8633",
     "addr:street": "Aubrigstrasse",
     "amenity": "kindergarten",
-    "building": "school",
+    "building": "kindergarten",
+    "name": "Kindergarten Bühlhof 1",
     "id": "way/220676313"
   },
   "geometry": {
@@ -20008,40 +20126,40 @@
     "coordinates": [
       [
         [
-          8.7961536,
-          47.2589374
+          8.7961597,
+          47.2589442
         ],
         [
-          8.7961935,
-          47.2588409
+          8.7961946,
+          47.258856
         ],
         [
-          8.7963104,
-          47.2588632
+          8.7963096,
+          47.258878
         ],
         [
-          8.7963214,
-          47.2588367
+          8.7963193,
+          47.2588531
         ],
         [
-          8.7964314,
-          47.2588576
+          8.7964067,
+          47.2588695
         ],
         [
-          8.7964182,
-          47.2588894
+          8.7963943,
+          47.2589027
         ],
         [
-          8.7965252,
-          47.2589098
+          8.796509,
+          47.2589242
         ],
         [
-          8.7964875,
-          47.259001
+          8.7964761,
+          47.2590039
         ],
         [
-          8.7961536,
-          47.2589374
+          8.7961597,
+          47.2589442
         ]
       ]
     ]
@@ -45517,6 +45635,122 @@
     "coordinates": [
       8.7469634,
       47.3627967
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10035866525",
+  "properties": {
+    "addr:city": "Wil ZH",
+    "addr:housenumber": "37",
+    "addr:postcode": "8196",
+    "addr:street": "Dorfstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Wil",
+    "id": "node/10035866525"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5091242,
+      47.6047778
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10035876045",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Wildberg",
+    "id": "node/10035876045"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8162221,
+      47.4248859
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10035915685",
+  "properties": {
+    "addr:city": "Winkel",
+    "addr:housenumber": "9",
+    "addr:postcode": "8185",
+    "addr:street": "Spichergasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Tüfwis",
+    "id": "node/10035915685"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5546315,
+      47.4915032
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10035991019",
+  "properties": {
+    "addr:city": "Zell",
+    "addr:housenumber": "26",
+    "addr:postcode": "8487",
+    "addr:street": "Stationsstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Zell",
+    "id": "node/10035991019"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8212948,
+      47.4453715
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10036184315",
+  "properties": {
+    "addr:city": "Zollikon",
+    "addr:housenumber": "17",
+    "addr:postcode": "8702",
+    "addr:street": "Bergstrasse",
+    "amenity": "kindergarten",
+    "name": "Tageskindergarten Bienehuus",
+    "id": "node/10036184315"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5759747,
+      47.3410963
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10036212062",
+  "properties": {
+    "addr:city": "Zollikon",
+    "addr:housenumber": "23",
+    "addr:postcode": "8702",
+    "addr:street": "Fohrbachstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Witellikon",
+    "id": "node/10036212062"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5824192,
+      47.3458011
     ]
   }
 }

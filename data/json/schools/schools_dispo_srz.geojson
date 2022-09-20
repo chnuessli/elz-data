@@ -22245,6 +22245,67 @@
 },
 {
   "type": "Feature",
+  "id": "way/43936833",
+  "properties": {
+    "addr:city": "Winkel",
+    "addr:housenumber": "26",
+    "addr:postcode": "8185",
+    "addr:street": "Lufingerstrasse",
+    "amenity": "school",
+    "building": "school",
+    "isced:level": "1",
+    "name": "Primarschule Rüti",
+    "phone": "+41 44 860 37 09",
+    "source": "Yahoo aerial images",
+    "website": "http://www.schule-winkel.ch/de/m/",
+    "id": "way/43936833"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.560477,
+          47.4794087
+        ],
+        [
+          8.5605444,
+          47.4792889
+        ],
+        [
+          8.5607739,
+          47.4793418
+        ],
+        [
+          8.5607852,
+          47.4793133
+        ],
+        [
+          8.5612471,
+          47.4794274
+        ],
+        [
+          8.5611763,
+          47.4795433
+        ],
+        [
+          8.5607838,
+          47.4794444
+        ],
+        [
+          8.5607607,
+          47.4794819
+        ],
+        [
+          8.560477,
+          47.4794087
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/44629796",
   "properties": {
     "addr:city": "Horgen",
@@ -24571,8 +24632,13 @@
   "type": "Feature",
   "id": "way/50836759",
   "properties": {
+    "addr:city": "Wil (ZH)",
+    "addr:housenumber": "15",
+    "addr:postcode": "8196",
+    "addr:street": "Schulstrasse",
     "amenity": "school",
     "building": "yes",
+    "name": "Primarschulhaus Wil",
     "id": "way/50836759"
   },
   "geometry": {
@@ -50740,7 +50806,8 @@
     "addr:postcode": "8126",
     "addr:street": "Farlifangstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
+    "name": "Schulhaus Farlifang",
     "uzh_landmark": "true",
     "id": "way/161147150"
   },
@@ -71017,7 +71084,7 @@
     "amenity": "school",
     "building": "school",
     "email": "sekretariat@pswila.ch",
-    "name": "Primarschule Wila",
+    "name": "Primarschule Eichhalde",
     "phone": "+41 52 385 25 50",
     "school": "primary",
     "school:CH": "primarschule",
@@ -80037,53 +80104,6 @@
         [
           8.8049227,
           47.2575425
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/289661344",
-  "properties": {
-    "amenity": "school",
-    "id": "way/289661344"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7960053,
-          47.2589547
-        ],
-        [
-          8.7962716,
-          47.2586759
-        ],
-        [
-          8.7964736,
-          47.2587571
-        ],
-        [
-          8.7966719,
-          47.2588221
-        ],
-        [
-          8.7966,
-          47.258956
-        ],
-        [
-          8.7965349,
-          47.2590223
-        ],
-        [
-          8.7965158,
-          47.2590581
-        ],
-        [
-          8.7960053,
-          47.2589547
         ]
       ]
     ]
@@ -115731,28 +115751,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5308607026",
-  "properties": {
-    "addr:housenumber": "26",
-    "addr:postcode": "8185",
-    "addr:street": "Lufingerstrasse",
-    "amenity": "school",
-    "isced:level": "1",
-    "name": "Primarschule Rüti",
-    "phone": "+41 44 860 37 09",
-    "website": "http://www.schule-winkel.ch/de/m/",
-    "id": "node/5308607026"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5609059,
-      47.4794153
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5308771121",
   "properties": {
     "addr:city": "Niederweningen",
@@ -119364,6 +119362,26 @@
     "coordinates": [
       8.671999,
       47.22924
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10036043537",
+  "properties": {
+    "addr:city": "Zollikon",
+    "addr:housenumber": "45",
+    "addr:postcode": "8702",
+    "addr:street": "Seestrasse",
+    "amenity": "school",
+    "name": "Primarschule KIDS at LAKE Zollikon",
+    "id": "node/10036043537"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5679674,
+      47.3397874
     ]
   }
 }
