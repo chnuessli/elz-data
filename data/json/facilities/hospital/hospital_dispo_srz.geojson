@@ -10651,9 +10651,11 @@
     "addr:postcode": "8005",
     "addr:street": "Konradstrasse",
     "amenity": "clinic",
+    "check_date:opening_hours": "2022-09-20",
     "email": "info@swsieber.ch",
     "healthcare": "clinic",
     "name": "Fachspital Sune-Egge",
+    "opening_hours:signed": "no",
     "operator": "Sozialwerk Pfarrer Sieber",
     "website": "https://www.swsieber.ch/was-wir-tun/betreuen/fachspital/",
     "id": "node/6516560674"
@@ -11398,6 +11400,32 @@
     "coordinates": [
       8.8472584,
       47.3323461
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9789746388",
+  "properties": {
+    "addr:housenumber": "59",
+    "addr:postcode": "8058",
+    "addr:street": "The Circle",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "level": "0",
+    "name": "USZ / Balgrist",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
+    "operator": "Universitätsspital Zürich",
+    "phone": "+41 44 255 11 11",
+    "website": "https://www.usz.ch/standorte/usz-flughafen/",
+    "wheelchair": "yes",
+    "id": "node/9789746388"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5663944,
+      47.4492451
     ]
   }
 },

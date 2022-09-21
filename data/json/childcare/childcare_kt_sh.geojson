@@ -56,45 +56,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/246071144",
-  "properties": {
-    "addr:city": "Hemmental",
-    "addr:housenumber": "11",
-    "amenity": "childcare",
-    "building": "yes",
-    "name": "Kindergarten",
-    "id": "way/246071144"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5792109,
-          47.7350725
-        ],
-        [
-          8.5792788,
-          47.7349897
-        ],
-        [
-          8.579447,
-          47.7350521
-        ],
-        [
-          8.5793791,
-          47.7351349
-        ],
-        [
-          8.5792109,
-          47.7350725
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/251366035",
   "properties": {
     "addr:city": "Schaffhausen",

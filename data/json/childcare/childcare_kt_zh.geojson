@@ -10809,6 +10809,29 @@
       47.2695733
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10039394685",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "1",
+    "addr:postcode": "8405",
+    "addr:street": "Grünmattstrasse",
+    "amenity": "childcare",
+    "name": "Betreuung Grünmatt",
+    "opening_hours": "Mo-Fr 11:50-18:00",
+    "operator": "Schule Oberseen",
+    "operator:type": "public",
+    "id": "node/10039394685"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7670998,
+      47.4816409
+    ]
+  }
 }
 ]
 }

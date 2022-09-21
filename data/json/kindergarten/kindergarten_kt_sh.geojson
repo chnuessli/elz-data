@@ -270,7 +270,7 @@
     "addr:street": "Kesselstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
-    "name": "Kessel",
+    "name": "Kindergarten Kessel 1+2",
     "id": "way/167060532"
   },
   "geometry": {
@@ -278,24 +278,56 @@
     "coordinates": [
       [
         [
-          8.6503635,
-          47.7008311
+          8.6503522,
+          47.7008256
         ],
         [
           8.6502946,
           47.7006089
         ],
         [
-          8.6504943,
-          47.7005808
+          8.650401,
+          47.7005952
         ],
         [
-          8.6505632,
-          47.700803
+          8.6503991,
+          47.7005889
         ],
         [
-          8.6503635,
-          47.7008311
+          8.6504519,
+          47.7005825
+        ],
+        [
+          8.6504603,
+          47.7006145
+        ],
+        [
+          8.6504959,
+          47.7006107
+        ],
+        [
+          8.6505406,
+          47.7007747
+        ],
+        [
+          8.6505059,
+          47.700778
+        ],
+        [
+          8.650515,
+          47.700811
+        ],
+        [
+          8.6504635,
+          47.7008177
+        ],
+        [
+          8.6504621,
+          47.7008122
+        ],
+        [
+          8.6503522,
+          47.7008256
         ]
       ]
     ]
@@ -362,9 +394,13 @@
   "type": "Feature",
   "id": "way/172344943",
   "properties": {
+    "addr:city": "Schaffhausen",
     "addr:housenumber": "1",
+    "addr:postcode": "8200",
+    "addr:street": "Munothaldenweg",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
+    "name": "Kindergarten Munothalde",
     "id": "way/172344943"
   },
   "geometry": {
@@ -543,13 +579,89 @@
 },
 {
   "type": "Feature",
+  "id": "way/185904878",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8200",
+    "addr:street": "Goldschmiedstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Gruben 1+2",
+    "id": "way/185904878"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6442058,
+          47.7023726
+        ],
+        [
+          8.644496,
+          47.7024083
+        ],
+        [
+          8.6444657,
+          47.7025166
+        ],
+        [
+          8.6444097,
+          47.70251
+        ],
+        [
+          8.6444037,
+          47.7025318
+        ],
+        [
+          8.6444283,
+          47.7025346
+        ],
+        [
+          8.6444221,
+          47.7025589
+        ],
+        [
+          8.6441961,
+          47.702531
+        ],
+        [
+          8.6442017,
+          47.7025062
+        ],
+        [
+          8.644214,
+          47.7025073
+        ],
+        [
+          8.6442188,
+          47.7024858
+        ],
+        [
+          8.6441757,
+          47.7024801
+        ],
+        [
+          8.6442058,
+          47.7023726
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/189974879",
   "properties": {
     "addr:city": "Schaffhausen",
     "addr:housenumber": "3",
+    "addr:postcode": "8200",
     "addr:street": "Im Lahn",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
+    "name": "Kindergarten im Lahn 1+2",
     "id": "way/189974879"
   },
   "geometry": {
@@ -557,24 +669,121 @@
     "coordinates": [
       [
         [
-          8.6163998,
-          47.706011
+          8.6164022,
+          47.705931
         ],
         [
-          8.6166515,
-          47.7061535
+          8.6164901,
+          47.7059781
         ],
         [
-          8.6165551,
-          47.7062279
+          8.616427,
+          47.706032
         ],
         [
-          8.6163057,
-          47.7060854
+          8.6164828,
+          47.7060624
         ],
         [
-          8.6163998,
-          47.706011
+          8.616462,
+          47.7060787
+        ],
+        [
+          8.6165999,
+          47.7061508
+        ],
+        [
+          8.6165307,
+          47.7062106
+        ],
+        [
+          8.6162723,
+          47.7060746
+        ],
+        [
+          8.6162918,
+          47.7060585
+        ],
+        [
+          8.6162676,
+          47.7060456
+        ],
+        [
+          8.6164022,
+          47.705931
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/189974941",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "183",
+    "addr:postcode": "8200",
+    "addr:street": "Rietstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Riet",
+    "id": "way/189974941"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6151732,
+          47.7041852
+        ],
+        [
+          8.615157,
+          47.704168
+        ],
+        [
+          8.6151402,
+          47.704174
+        ],
+        [
+          8.6151231,
+          47.7041542
+        ],
+        [
+          8.6151397,
+          47.704148
+        ],
+        [
+          8.6151311,
+          47.7041387
+        ],
+        [
+          8.6151152,
+          47.7041453
+        ],
+        [
+          8.6150896,
+          47.7041166
+        ],
+        [
+          8.6151061,
+          47.7041101
+        ],
+        [
+          8.6151013,
+          47.7041044
+        ],
+        [
+          8.6152172,
+          47.7040581
+        ],
+        [
+          8.6152874,
+          47.7041382
+        ],
+        [
+          8.6151732,
+          47.7041852
         ]
       ]
     ]
@@ -918,10 +1127,66 @@
 },
 {
   "type": "Feature",
+  "id": "way/200330086",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "45",
+    "addr:postcode": "8200",
+    "addr:street": "Hochstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindegarten Krebsbach",
+    "id": "way/200330086"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6352667,
+          47.7037001
+        ],
+        [
+          8.6354069,
+          47.7036353
+        ],
+        [
+          8.6354969,
+          47.7037197
+        ],
+        [
+          8.6353926,
+          47.7037677
+        ],
+        [
+          8.6353332,
+          47.7037118
+        ],
+        [
+          8.6352943,
+          47.7037287
+        ],
+        [
+          8.6352667,
+          47.7037001
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/201286773",
   "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "44",
+    "addr:postcode": "8200",
+    "addr:street": "Bocksrietweg",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
+    "name": "Kindergarten Bocksriet 1+2",
     "id": "way/201286773"
   },
   "geometry": {
@@ -929,32 +1194,144 @@
     "coordinates": [
       [
         [
-          8.644583,
-          47.7138333
+          8.6446725,
+          47.7137508
         ],
         [
-          8.6447714,
-          47.7136854
+          8.6447892,
+          47.7138107
         ],
         [
-          8.6448864,
-          47.7137517
+          8.6446818,
+          47.7139073
         ],
         [
-          8.64484,
-          47.7137881
+          8.6445624,
+          47.713847
         ],
         [
-          8.644698,
-          47.7138996
+          8.6445652,
+          47.7138444
         ],
         [
-          8.6446586,
-          47.7138769
+          8.6445265,
+          47.7138237
         ],
         [
-          8.644583,
-          47.7138333
+          8.6444738,
+          47.7137992
+        ],
+        [
+          8.6445225,
+          47.7137504
+        ],
+        [
+          8.6446196,
+          47.7137972
+        ],
+        [
+          8.6446725,
+          47.7137508
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218003763",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "19",
+    "addr:postcode": "8200",
+    "addr:street": "Kasinogässchen",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Vordersteig",
+    "id": "way/218003763"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6295677,
+          47.696896
+        ],
+        [
+          8.6294868,
+          47.6967472
+        ],
+        [
+          8.6296252,
+          47.6967127
+        ],
+        [
+          8.6297066,
+          47.6968618
+        ],
+        [
+          8.6295677,
+          47.696896
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/220181149",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "28",
+    "addr:postcode": "8207",
+    "addr:street": "Neutrottenstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Sonnenberg",
+    "survey:date": "2014-10-10",
+    "id": "way/220181149"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6528158,
+          47.7196373
+        ],
+        [
+          8.6527478,
+          47.7195966
+        ],
+        [
+          8.6527212,
+          47.7196163
+        ],
+        [
+          8.6526032,
+          47.7195456
+        ],
+        [
+          8.6527006,
+          47.7194736
+        ],
+        [
+          8.6527771,
+          47.7195204
+        ],
+        [
+          8.6528135,
+          47.719494
+        ],
+        [
+          8.6529212,
+          47.7195592
+        ],
+        [
+          8.6528158,
+          47.7196373
         ]
       ]
     ]
@@ -966,10 +1343,11 @@
   "properties": {
     "addr:city": "Schaffhausen",
     "addr:housenumber": "18",
+    "addr:postcode": "8200",
     "addr:street": "Alleeweg",
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Eschengut",
+    "building": "kindergarten",
+    "name": "Kindergarten Eschengut 1+2",
     "id": "way/240115099"
   },
   "geometry": {
@@ -977,24 +1355,56 @@
     "coordinates": [
       [
         [
-          8.6509748,
-          47.7065388
+          8.6510029,
+          47.7065225
         ],
         [
-          8.6508175,
-          47.7064532
+          8.6509758,
+          47.7065078
         ],
         [
-          8.651042,
-          47.7062715
+          8.6509396,
+          47.706538
         ],
         [
-          8.6511956,
-          47.7063603
+          8.6508984,
+          47.7065156
         ],
         [
-          8.6509748,
-          47.7065388
+          8.6509035,
+          47.7065114
+        ],
+        [
+          8.6508168,
+          47.7064643
+        ],
+        [
+          8.6510228,
+          47.7062926
+        ],
+        [
+          8.6511085,
+          47.7063391
+        ],
+        [
+          8.6511147,
+          47.706334
+        ],
+        [
+          8.6511563,
+          47.7063566
+        ],
+        [
+          8.6510995,
+          47.7064039
+        ],
+        [
+          8.6511271,
+          47.7064189
+        ],
+        [
+          8.6510029,
+          47.7065225
         ]
       ]
     ]
@@ -1006,9 +1416,11 @@
   "properties": {
     "addr:city": "Schaffhausen",
     "addr:housenumber": "89",
+    "addr:postcode": "8200",
     "addr:street": "Hauentalstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
+    "name": "Kindergarten Hauental 1+2",
     "id": "way/243652881"
   },
   "geometry": {
@@ -1061,9 +1473,11 @@
   "properties": {
     "addr:city": "Schaffhausen",
     "addr:housenumber": "191",
+    "addr:postcode": "8200",
     "addr:street": "Hohlenbaumstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
+    "name": "Kindergarten Neubrunn 1+2",
     "id": "way/243659466"
   },
   "geometry": {
@@ -1071,24 +1485,113 @@
     "coordinates": [
       [
         [
-          8.6249911,
-          47.7086388
+          8.624981,
+          47.7086381
         ],
         [
-          8.6251722,
-          47.7084357
+          8.6251496,
+          47.7084496
         ],
         [
-          8.6253183,
-          47.7084971
+          8.6252441,
+          47.7084881
         ],
         [
-          8.6251319,
-          47.7086992
+          8.6252483,
+          47.7084826
         ],
         [
-          8.6249911,
-          47.7086388
+          8.6252941,
+          47.7085017
+        ],
+        [
+          8.6252689,
+          47.7085308
+        ],
+        [
+          8.6252984,
+          47.7085429
+        ],
+        [
+          8.6251892,
+          47.7086652
+        ],
+        [
+          8.6251591,
+          47.7086533
+        ],
+        [
+          8.6251172,
+          47.7087003
+        ],
+        [
+          8.6250718,
+          47.7086823
+        ],
+        [
+          8.6250761,
+          47.708677
+        ],
+        [
+          8.624981,
+          47.7086381
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/246071144",
+  "properties": {
+    "addr:city": "Hemmental",
+    "addr:housenumber": "11",
+    "addr:postcode": "8231",
+    "addr:street": "Schlattergarten",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Hemmental",
+    "id": "way/246071144"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5791864,
+          47.7350725
+        ],
+        [
+          8.5791885,
+          47.7350703
+        ],
+        [
+          8.5791613,
+          47.7350583
+        ],
+        [
+          8.5791752,
+          47.7350431
+        ],
+        [
+          8.5792019,
+          47.7350541
+        ],
+        [
+          8.5792486,
+          47.7350014
+        ],
+        [
+          8.5793871,
+          47.7350616
+        ],
+        [
+          8.579324,
+          47.7351298
+        ],
+        [
+          8.5791864,
+          47.7350725
         ]
       ]
     ]
@@ -1100,10 +1603,11 @@
   "properties": {
     "addr:city": "Schaffhausen",
     "addr:housenumber": "13",
+    "addr:postcode": "8200",
     "addr:street": "Kreuzgutweg",
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Kreuzgut",
+    "building": "kindergarten",
+    "name": "Kindergarten Kreuzgut 1, 2, 3, 4",
     "id": "way/251421265"
   },
   "geometry": {
@@ -1111,24 +1615,56 @@
     "coordinates": [
       [
         [
-          8.6583697,
-          47.723713
+          8.6583947,
+          47.7237162
         ],
         [
-          8.6585701,
-          47.7235247
+          8.6584775,
+          47.7236439
+        ],
+        [
+          8.6584501,
+          47.7236293
+        ],
+        [
+          8.6584916,
+          47.7235938
+        ],
+        [
+          8.6585172,
+          47.7236078
+        ],
+        [
+          8.6586012,
+          47.7235335
         ],
         [
           8.6587132,
-          47.7235921
+          47.7235912
+        ],
+        [
+          8.6586495,
+          47.7236471
+        ],
+        [
+          8.6586626,
+          47.7236539
+        ],
+        [
+          8.6585805,
+          47.723725
+        ],
+        [
+          8.6585694,
+          47.7237187
         ],
         [
           8.6585065,
-          47.7237804
+          47.7237747
         ],
         [
-          8.6583697,
-          47.723713
+          8.6583947,
+          47.7237162
         ]
       ]
     ]
@@ -1993,6 +2529,47 @@
 },
 {
   "type": "Feature",
+  "id": "way/1096228237",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "31",
+    "addr:postcode": "8200",
+    "addr:street": "Grünaustieg",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "id": "way/1096228237"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6447892,
+          47.7138107
+        ],
+        [
+          8.6446725,
+          47.7137508
+        ],
+        [
+          8.6447935,
+          47.7136441
+        ],
+        [
+          8.6449103,
+          47.713704
+        ],
+        [
+          8.6447892,
+          47.7138107
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",
@@ -2035,28 +2612,6 @@
     "coordinates": [
       8.6090728,
       47.7603429
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1727310822",
-  "properties": {
-    "addr:city": "Schaffhausen",
-    "addr:country": "CH",
-    "addr:housenumber": "1",
-    "addr:postcode": "8200",
-    "addr:street": "Goldschmiedstrasse",
-    "amenity": "kindergarten",
-    "designation": "Kindergarten",
-    "name": "Kindergarten Gruben",
-    "id": "node/1727310822"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6442595,
-      47.702465
     ]
   }
 },
@@ -2134,6 +2689,46 @@
     "coordinates": [
       8.4972626,
       47.7019056
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10039396903",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "11",
+    "addr:postcode": "8200",
+    "addr:street": "Nelkenstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Nelkenstrasse",
+    "id": "node/10039396903"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6280292,
+      47.7059113
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10039479356",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "21",
+    "addr:postcode": "8200",
+    "addr:street": "Promenadenstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Fäsenstaub",
+    "id": "node/10039479356"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6283568,
+      47.6950304
     ]
   }
 }
