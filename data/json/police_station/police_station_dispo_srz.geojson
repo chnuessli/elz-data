@@ -830,142 +830,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/158061729",
-  "properties": {
-    "addr:city": "Zürich-Flughafen",
-    "addr:housenumber": "490",
-    "addr:postcode": "8058",
-    "addr:street": "Rohrstrasse",
-    "amenity": "police",
-    "building": "transportation",
-    "building:levels": "1",
-    "height": "4.03",
-    "name": "Sicherheitskontrollen Tor 130",
-    "name:de": "Sicherheitskontrollen Tor 130",
-    "name:en": "Staff Security Check (Tor 130)",
-    "opening_hours": "24/7",
-    "short_name": "SIKO",
-    "wheelchair": "yes",
-    "id": "way/158061729"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.55142,
-          47.4444316
-        ],
-        [
-          8.5514369,
-          47.4444072
-        ],
-        [
-          8.5514067,
-          47.4443975
-        ],
-        [
-          8.5514319,
-          47.4443614
-        ],
-        [
-          8.5514471,
-          47.4443395
-        ],
-        [
-          8.5517302,
-          47.4444296
-        ],
-        [
-          8.5516728,
-          47.444512
-        ],
-        [
-          8.55142,
-          47.4444316
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/158061735",
-  "properties": {
-    "addr:city": "Zürich-Flughafen",
-    "addr:housenumber": "1",
-    "addr:postcode": "8058",
-    "addr:street": "Hangarstrasse",
-    "amenity": "police",
-    "building": "transportation",
-    "building:levels": "1",
-    "height": "4.14",
-    "name": "Sicherheitskontrollen Tor 140",
-    "name:de": "Sicherheitskontrollen Tor 140",
-    "name:en": "Staff Security Check (Tor 140)",
-    "opening_hours": "24/7",
-    "short_name": "SIKO",
-    "wheelchair": "yes",
-    "id": "way/158061735"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5611543,
-          47.4399775
-        ],
-        [
-          8.561156,
-          47.4399758
-        ],
-        [
-          8.5612221,
-          47.4399121
-        ],
-        [
-          8.5612239,
-          47.4399103
-        ],
-        [
-          8.561231,
-          47.4399137
-        ],
-        [
-          8.5612392,
-          47.4399058
-        ],
-        [
-          8.5612768,
-          47.4399236
-        ],
-        [
-          8.5612688,
-          47.4399314
-        ],
-        [
-          8.5615761,
-          47.4400771
-        ],
-        [
-          8.5616591,
-          47.4401165
-        ],
-        [
-          8.5615893,
-          47.4401839
-        ],
-        [
-          8.5611543,
-          47.4399775
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/169234018",
   "properties": {
     "addr:city": "Regensdorf",
@@ -1361,55 +1225,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/340272452",
-  "properties": {
-    "addr:city": "Zürich-Flughafen",
-    "addr:housenumber": "100",
-    "addr:postcode": "8058",
-    "addr:street": "Flughafenstrasse",
-    "amenity": "police",
-    "building": "transportation",
-    "building:levels": "1",
-    "height": "3.85",
-    "level": "0",
-    "name": "Sicherheitskontrollen Werft, Eingang Werft 141",
-    "name:de": "Sicherheitskontrollen Werft, Eingang Werft 141",
-    "name:en": "Staff Security Check (Entry Shipyard 141)",
-    "opening_hours": "24/7",
-    "short_name": "SIKO",
-    "wheelchair": "yes",
-    "id": "way/340272452"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5697462,
-          47.4436972
-        ],
-        [
-          8.5695537,
-          47.4437444
-        ],
-        [
-          8.5694718,
-          47.4435916
-        ],
-        [
-          8.5696643,
-          47.4435444
-        ],
-        [
-          8.5697462,
-          47.4436972
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/387790859",
   "properties": {
     "addr:city": "Brunnen",
@@ -1526,140 +1341,6 @@
         [
           8.548021,
           47.4767964
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/927813296",
-  "properties": {
-    "aeroway": "terminal",
-    "amenity": "police",
-    "building": "transportation",
-    "building:colour": "gray",
-    "building:levels": "4",
-    "height": "26.4",
-    "int_name": "Security",
-    "internet_access": "wlan",
-    "internet_access:fee": "no",
-    "level": "0;1;2;3",
-    "max_level": "3",
-    "min_level": "0",
-    "name": "Sicherheitskontrollgebäude",
-    "name:en": "Security Check Building",
-    "nat_name": "Sicherheitskontrolle",
-    "roof:colour": "gray",
-    "roof:material": "concrete",
-    "short_name": "SKG",
-    "wheelchair": "yes",
-    "id": "way/927813296"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5611388,
-          47.4521367
-        ],
-        [
-          8.5614427,
-          47.4520247
-        ],
-        [
-          8.561507,
-          47.4520016
-        ],
-        [
-          8.5615656,
-          47.4519805
-        ],
-        [
-          8.5615829,
-          47.4519743
-        ],
-        [
-          8.5618943,
-          47.4523714
-        ],
-        [
-          8.5614523,
-          47.4525334
-        ],
-        [
-          8.5611388,
-          47.4521367
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/1042657796",
-  "properties": {
-    "addr:city": "Zürich-Flughafen",
-    "addr:housenumber": "1",
-    "addr:postcode": "8058",
-    "addr:street": "Tor-101-Strasse",
-    "amenity": "police",
-    "building": "transportation",
-    "building:levels": "1",
-    "height": "3.85",
-    "layer": "0",
-    "name": "Sicherheitskontrollen Tor 101",
-    "name:de": "Sicherheitskontrollen Tor 101",
-    "name:en": "Staff Security Check (Tor 101)",
-    "opening_hours": "24/7",
-    "short_name": "SIKO",
-    "wheelchair": "yes",
-    "id": "way/1042657796"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5625839,
-          47.4483935
-        ],
-        [
-          8.5626052,
-          47.4484003
-        ],
-        [
-          8.562661,
-          47.4483209
-        ],
-        [
-          8.5628195,
-          47.4483718
-        ],
-        [
-          8.5628095,
-          47.448386
-        ],
-        [
-          8.5627639,
-          47.448451
-        ],
-        [
-          8.5627854,
-          47.4484579
-        ],
-        [
-          8.5627693,
-          47.4484809
-        ],
-        [
-          8.5625679,
-          47.4484162
-        ],
-        [
-          8.5625839,
-          47.4483935
         ]
       ]
     ]
@@ -4333,48 +4014,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8599713917",
-  "properties": {
-    "alt_name": "Sicherheitskontrolle Transfer D",
-    "amenity": "police",
-    "level": "0",
-    "name": "Security (Security Gates D)",
-    "name:de": "Sicherheitskontrolle (Gate D)",
-    "name:en": "Security (Security Gates D)",
-    "wheelchair": "yes",
-    "id": "node/8599713917"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5599545,
-      47.4510059
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8599761847",
-  "properties": {
-    "amenity": "police",
-    "level": "2",
-    "name": "Sicherheitskontrolle (Zuschauerterrasse Dock B)",
-    "name:de": "Sicherheitskontrolle (Zuschauerterrasse Dock B)",
-    "name:en": "Security (Observation Deck B)",
-    "opening_hours": "Mo-Su 10:00-17:00",
-    "wheelchair": "yes",
-    "id": "node/8599761847"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.559543,
-      47.4509659
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8621205825",
   "properties": {
     "amenity": "police",
@@ -4424,49 +4063,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8635545327",
-  "properties": {
-    "amenity": "police",
-    "level": "1",
-    "name": "Staff Sicherheitskontrollen (Ausreise 1)",
-    "name:de": "Staff Sicherheitskontrollen (Ausreise 1)",
-    "name:en": "Staff Security Check (Departure 1)",
-    "opening_hours": "24/7",
-    "short_name": "SIKO",
-    "wheelchair": "yes",
-    "id": "node/8635545327"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5616195,
-      47.4526653
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8635553317",
-  "properties": {
-    "amenity": "police",
-    "level": "2",
-    "name": "Sicherheitskontrolle (Swiss First Lounge A)",
-    "name:de": "Sicherheitskontrolle (Swiss First Lounge A)",
-    "name:en": "Security Check (Swiss First Lounge A)",
-    "short_name": "SIKO",
-    "wheelchair": "yes",
-    "id": "node/8635553317"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.561436,
-      47.4526912
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8635593760",
   "properties": {
     "alt_name": "Stafff SIKO (Grüezi Z)",
@@ -4485,28 +4081,6 @@
     "coordinates": [
       8.5610365,
       47.4519523
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8658958478",
-  "properties": {
-    "amenity": "police",
-    "level": "0",
-    "name": "Sicherheitskontrolle (Grüezi A)",
-    "name:de": "Sicherheitskontrolle (Grüezi A)",
-    "name:en": "Security Check (Grüezi A)",
-    "opening_hours": "Mo-Su 06:00-12:30,15:30-20:00",
-    "short_name": "SIKO",
-    "wheelchair": "yes",
-    "id": "node/8658958478"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5611178,
-      47.4534644
     ]
   }
 },
@@ -4619,10 +4193,12 @@
   "id": "node/9433086355",
   "properties": {
     "amenity": "police",
+    "government": "register_office",
     "level": "1",
     "name": "Notpassbüro",
     "name:de": "Notpassbüro",
     "name:en": "Emergency passport office",
+    "office": "government",
     "opening_hours": "Mo-Su 05:30-21:30",
     "operator": "Kantonspolizei Zürich",
     "phone": "+41 44 655 57 65",
@@ -4996,116 +4572,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9577401102",
-  "properties": {
-    "alt_name": "Sicherheitskontrolle Kern C",
-    "amenity": "police",
-    "level": "1",
-    "name": "Sicherheitskontrolle Transfer E (Linien 21 - 24)",
-    "name:de": "Sicherheitskontrolle Transfer E (Linien 21 - 24)",
-    "name:en": "Security Check Transfer E (Lanes 21 - 24)",
-    "short_name": "SIKO",
-    "wheelchair": "yes",
-    "id": "node/9577401102"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5560821,
-      47.461065
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9577413086",
-  "properties": {
-    "alt_name": "Sicherheitskontrolle Kern E",
-    "amenity": "police",
-    "level": "1",
-    "name": "Sicherheitskontrolle Transfer E (Linien 1 - 6)",
-    "name:de": "Sicherheitskontrolle Transfer E (Linien 1 - 6)",
-    "name:en": "Security Check Transfer E (Lanes 1 - 6)",
-    "short_name": "SIKO",
-    "wheelchair": "yes",
-    "id": "node/9577413086"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5530677,
-      47.461309
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9577429004",
-  "properties": {
-    "alt_name": "Sicherheitskontrolle Kern D",
-    "amenity": "police",
-    "level": "1",
-    "name": "Sicherheitskontrolle Transfer E (Linien 31 - 34)",
-    "name:de": "Sicherheitskontrolle Transfer E (Linien 31 - 34)",
-    "name:en": "Security Check Transfer E (Lanes 31 - 34)",
-    "short_name": "SIKO",
-    "wheelchair": "yes",
-    "id": "node/9577429004"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5545288,
-      47.4611933
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9594341081",
-  "properties": {
-    "amenity": "police",
-    "level": "-1",
-    "name": "Staff-Sicherheitskontrollen (Anlieferung Mitte)",
-    "name:de": "Staff-Sicherheitskontrollen (Anlieferung Mitte)",
-    "name:en": "Security Check (Delivery Mid)",
-    "opening_hours": "Mo-Su 04:00-18:00",
-    "short_name": "SIKO",
-    "wheelchair": "yes",
-    "id": "node/9594341081"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5613344,
-      47.4516817
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9597419147",
-  "properties": {
-    "amenity": "police",
-    "level": "0",
-    "name": "Passagier und Staff Sicherheitskontrollen (GAC Center)",
-    "name:de": "Passagier und Staff Sicherheitskontrollen (GAC Cente)",
-    "name:en": "Staff Security Check (GAC Center)",
-    "opening_hours": "Mo-Su 04:30-23:00",
-    "short_name": "SIKO",
-    "wheelchair": "yes",
-    "id": "node/9597419147"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5737662,
-      47.4534426
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9597456361",
   "properties": {
     "alt_name": "Stafff SIKO OPC",
@@ -5124,50 +4590,6 @@
     "coordinates": [
       8.5650481,
       47.4544374
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9597464243",
-  "properties": {
-    "amenity": "police",
-    "level": "0",
-    "name": "Staff Sicherheitskontrollen (Fracht West, Eingang 3)",
-    "name:de": "Staff Sicherheitskontrollen (Fracht West, Eingang 3)",
-    "name:en": "Staff Security Check (Fracht West, Eingang 3)",
-    "opening_hours": "Mo-Su 04:15-24:00",
-    "short_name": "SIKO",
-    "wheelchair": "yes",
-    "id": "node/9597464243"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5678812,
-      47.4538592
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9597501885",
-  "properties": {
-    "amenity": "police",
-    "level": "0",
-    "name": "Passagier und Staff Sicherheitskontrollen (BAC)",
-    "name:de": "Passagier und Staff Sicherheitskontrollen (BAC)",
-    "name:en": "Staff Security Check (BAC)",
-    "opening_hours": "Mo-Su 04:30-22:45",
-    "short_name": "SIKO",
-    "wheelchair": "yes",
-    "id": "node/9597501885"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5740695,
-      47.4580662
     ]
   }
 },
