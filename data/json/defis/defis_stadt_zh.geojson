@@ -6905,6 +6905,51 @@
       47.4138747
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10044930518",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Kulturzentrum, links an der Mauer der Eingangsschleuse",
+    "description": "während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: 09:00-12:30\nMo-Fr: 14:00-17:00",
+    "operator": "Paulus Akademie",
+    "phone": "+41433367030",
+    "id": "node/10044930518"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5172086,
+      47.3884878
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10046472817",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Wengi",
+    "description": "nur während den Schulzeiten erreichbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "FS Viventa",
+    "phone": "+41 44 413 52 02",
+    "id": "node/10046472817"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5231843,
+      47.3755811
+    ]
+  }
 }
 ]
 }
