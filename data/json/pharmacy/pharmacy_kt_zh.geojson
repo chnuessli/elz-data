@@ -4694,6 +4694,7 @@
     "amenity": "pharmacy",
     "branch": "Zürich Altstetten",
     "brand": "Amavita",
+    "check_date:opening_hours": "2022-09-25",
     "name": "Amavita Altstetten",
     "opening_hours": "Mo-Fr 07:00-20:00; Sa 09:00-14:00",
     "operator": "GaleniCare",
