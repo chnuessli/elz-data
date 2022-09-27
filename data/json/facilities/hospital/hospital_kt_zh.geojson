@@ -8577,16 +8577,16 @@
   "type": "Feature",
   "id": "node/9662210482",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "14",
+    "addr:postcode": "8952",
+    "addr:street": "Wagistrasse",
     "amenity": "clinic",
-    "contact:city": "Zürich",
-    "contact:email": "nuklearmedizin@usz.ch",
-    "contact:housenumber": "14",
-    "contact:phone": "+41 43 254 04 11",
-    "contact:postcode": "8952",
-    "contact:street": "Wagistrasse",
-    "contact:website": "https://www.usz.ch/",
+    "email": "nuklearmedizin@usz.ch",
     "healthcare": "clinic",
     "name": "PET/CT-MR Zentrum Schlieren USZ Klinik",
+    "phone": "+41 43 254 04 11",
+    "website": "https://www.usz.ch/",
     "id": "node/9662210482"
   },
   "geometry": {

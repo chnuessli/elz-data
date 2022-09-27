@@ -17977,7 +17977,8 @@
     "addr:postcode": "8203",
     "addr:street": "Unterer Schulweg",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
+    "name": "Kindergarten Buchhalten 1+2",
     "id": "way/167187991"
   },
   "geometry": {
@@ -17985,40 +17986,64 @@
     "coordinates": [
       [
         [
-          8.6534562,
-          47.6977231
+          8.653431,
+          47.6977315
         ],
         [
-          8.6535203,
-          47.6976554
+          8.6534904,
+          47.697665
         ],
         [
-          8.6537329,
-          47.6977297
+          8.6536785,
+          47.6977433
         ],
         [
-          8.6539434,
-          47.6977565
+          8.6537167,
+          47.6977478
+        ],
+        [
+          8.6537244,
+          47.6977195
+        ],
+        [
+          8.6537527,
+          47.6977232
+        ],
+        [
+          8.6537496,
+          47.697735
+        ],
+        [
+          8.6539285,
+          47.6977608
         ],
         [
           8.6539615,
-          47.6977032
+          47.6976553
         ],
         [
-          8.6540299,
-          47.6977121
+          8.6540234,
+          47.6976639
         ],
         [
-          8.6539753,
-          47.6978467
+          8.6539647,
+          47.6978457
         ],
         [
-          8.6536985,
-          47.697808
+          8.6536851,
+          47.6978061
         ],
         [
-          8.6534562,
-          47.6977231
+          8.65368,
+          47.6978219
+        ],
+        [
+          8.6536327,
+          47.697816
+        ],
+        [
+          8.653431,
+          47.6977315
         ]
       ]
     ]
@@ -21256,10 +21281,13 @@
   "type": "Feature",
   "id": "way/199664877",
   "properties": {
+    "addr:city": "Schaffhausen",
     "addr:housenumber": "106",
+    "addr:postcode": "8200",
     "addr:street": "Weinsteig",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
+    "name": "Kindergarten Geissberg 2",
     "id": "way/199664877"
   },
   "geometry": {
@@ -21267,24 +21295,24 @@
     "coordinates": [
       [
         [
-          8.6331318,
-          47.7052976
+          8.6331296,
+          47.7052838
         ],
         [
-          8.6329052,
-          47.7052523
+          8.6329177,
+          47.7052384
         ],
         [
-          8.6329532,
-          47.7051436
+          8.6329574,
+          47.7051504
         ],
         [
-          8.6331798,
-          47.7051889
+          8.6331689,
+          47.7051965
         ],
         [
-          8.6331318,
-          47.7052976
+          8.6331296,
+          47.7052838
         ]
       ]
     ]
@@ -21543,6 +21571,68 @@
 },
 {
   "type": "Feature",
+  "id": "way/201659993",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "13",
+    "addr:postcode": "8200",
+    "addr:street": "St. Peterstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten St. Peter 1+2",
+    "id": "way/201659993"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6503882,
+          47.7169063
+        ],
+        [
+          8.6504206,
+          47.716879
+        ],
+        [
+          8.6504282,
+          47.7168827
+        ],
+        [
+          8.6504967,
+          47.716825
+        ],
+        [
+          8.6507512,
+          47.7169638
+        ],
+        [
+          8.6506822,
+          47.7170215
+        ],
+        [
+          8.6506887,
+          47.7170255
+        ],
+        [
+          8.6506549,
+          47.7170532
+        ],
+        [
+          8.6505524,
+          47.7169964
+        ],
+        [
+          8.6503882,
+          47.7169063
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/201789940",
   "properties": {
     "addr:housenumber": "1",
@@ -21766,6 +21856,81 @@
         [
           8.8239372,
           47.3689396
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/202673886",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8200",
+    "addr:street": "Schlempengarten",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:colour": "tan",
+    "building:levels": "1",
+    "building:material": "wood",
+    "height": "5",
+    "name": "Kindergarten Spiegelgut 1+2",
+    "roof:colour": "dimgray",
+    "roof:direction": "224",
+    "roof:height": "2",
+    "roof:orientation": "along",
+    "roof:shape": "skillion",
+    "id": "way/202673886"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.645301,
+          47.7187526
+        ],
+        [
+          8.645543,
+          47.7185942
+        ],
+        [
+          8.6456231,
+          47.7186495
+        ],
+        [
+          8.6456342,
+          47.7186423
+        ],
+        [
+          8.6456788,
+          47.7186732
+        ],
+        [
+          8.6456443,
+          47.7186958
+        ],
+        [
+          8.6454564,
+          47.7188188
+        ],
+        [
+          8.6454206,
+          47.7188422
+        ],
+        [
+          8.6453754,
+          47.718811
+        ],
+        [
+          8.6453806,
+          47.7188076
+        ],
+        [
+          8.645301,
+          47.7187526
         ]
       ]
     ]
@@ -32032,45 +32197,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/589643073",
-  "properties": {
-    "addr:city": "Schaffhausen",
-    "addr:housenumber": "15",
-    "addr:street": "Schlossstrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "id": "way/589643073"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6624552,
-          47.7235608
-        ],
-        [
-          8.6626232,
-          47.7236452
-        ],
-        [
-          8.6624085,
-          47.7238386
-        ],
-        [
-          8.6622405,
-          47.7237542
-        ],
-        [
-          8.6624552,
-          47.7235608
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/598060526",
   "properties": {
     "amenity": "kindergarten",
@@ -39633,26 +39759,6 @@
     "coordinates": [
       8.7546809,
       47.513786
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2126383158",
-  "properties": {
-    "addr:city": "Schaffhausen",
-    "addr:country": "CH",
-    "addr:housenumber": "2",
-    "addr:postcode": "8200",
-    "addr:street": "Schlempengarten",
-    "amenity": "kindergarten",
-    "id": "node/2126383158"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6455517,
-      47.7187564
     ]
   }
 },
