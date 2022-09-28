@@ -97,62 +97,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/277279605",
-  "properties": {
-    "addr:city": "Beggingen",
-    "addr:housenumber": "4",
-    "addr:street": "Zollstrasse",
-    "amenity": "childcare",
-    "building": "yes",
-    "name": "Kindergarten",
-    "id": "way/277279605"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5374658,
-          47.7673104
-        ],
-        [
-          8.5375271,
-          47.7672214
-        ],
-        [
-          8.537786,
-          47.767302
-        ],
-        [
-          8.537746,
-          47.76736
-        ],
-        [
-          8.5376577,
-          47.7673324
-        ],
-        [
-          8.5376298,
-          47.7673729
-        ],
-        [
-          8.537554,
-          47.7673492
-        ],
-        [
-          8.5375604,
-          47.7673399
-        ],
-        [
-          8.5374658,
-          47.7673104
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3884226546",
   "properties": {
     "amenity": "childcare",

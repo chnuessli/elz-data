@@ -2523,7 +2523,7 @@
     "healthcare": "pharmacy",
     "level": "0",
     "name": "Coop Vitality",
-    "opening_hours": "Mo-Sa 09:00-20:00",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00",
     "operator": "Coop Vitality & GaleniCare",
     "website": "https://www.coopvitality.ch/de/coop-vitality-zurich",
     "wheelchair": "yes",
