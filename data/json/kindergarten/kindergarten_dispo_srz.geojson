@@ -157,7 +157,7 @@
   "id": "way/13066827",
   "properties": {
     "addr:city": "Buchberg",
-    "addr:housenumber": "13",
+    "addr:housenumber": "15",
     "addr:street": "Kindergartenstrasse",
     "amenity": "kindergarten",
     "building": "yes",
@@ -169,24 +169,32 @@
     "coordinates": [
       [
         [
-          8.5628455,
-          47.5749665
+          8.5628462,
+          47.5749579
         ],
         [
-          8.56269,
-          47.5748635
+          8.5626976,
+          47.5748582
         ],
         [
-          8.5628021,
-          47.5747865
+          8.5628013,
+          47.5747874
         ],
         [
-          8.5629576,
-          47.5748894
+          8.5628826,
+          47.5748419
         ],
         [
-          8.5628455,
-          47.5749665
+          8.5629013,
+          47.5748292
+        ],
+        [
+          8.5629686,
+          47.5748743
+        ],
+        [
+          8.5628462,
+          47.5749579
         ]
       ]
     ]
@@ -17589,7 +17597,7 @@
     "addr:postcode": "8239",
     "addr:street": "Schulstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten",
     "id": "way/159146539"
   },
@@ -17839,6 +17847,7 @@
   "properties": {
     "addr:city": "Neuhausen am Rheinfall",
     "addr:housenumber": "6",
+    "addr:postcode": "8212",
     "addr:street": "Einschlagstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
@@ -18488,9 +18497,10 @@
   "properties": {
     "addr:city": "Neuhausen am Rheinfall",
     "addr:housenumber": "5",
+    "addr:postcode": "8212",
     "addr:street": "Schweizerhofweg",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Rhenania",
     "id": "way/174010924"
   },
@@ -18499,24 +18509,108 @@
     "coordinates": [
       [
         [
-          8.6086235,
-          47.6796332
+          8.6085775,
+          47.6796271
         ],
         [
-          8.6088349,
-          47.6798063
+          8.6086065,
+          47.6796489
         ],
         [
-          8.6087352,
-          47.6798615
+          8.608646,
+          47.6796258
         ],
         [
-          8.6085238,
-          47.6796883
+          8.6087092,
+          47.6796741
         ],
         [
-          8.6086235,
-          47.6796332
+          8.608669,
+          47.6796974
+        ],
+        [
+          8.6087239,
+          47.6797405
+        ],
+        [
+          8.6087665,
+          47.6797752
+        ],
+        [
+          8.6088069,
+          47.6798095
+        ],
+        [
+          8.6088594,
+          47.6798543
+        ],
+        [
+          8.6089017,
+          47.6798335
+        ],
+        [
+          8.6089565,
+          47.6798833
+        ],
+        [
+          8.6089156,
+          47.6799049
+        ],
+        [
+          8.6089409,
+          47.679928
+        ],
+        [
+          8.6088823,
+          47.6799596
+        ],
+        [
+          8.6088552,
+          47.6799362
+        ],
+        [
+          8.6088477,
+          47.6799404
+        ],
+        [
+          8.6087886,
+          47.6798891
+        ],
+        [
+          8.6087974,
+          47.6798844
+        ],
+        [
+          8.6087482,
+          47.6798399
+        ],
+        [
+          8.6086675,
+          47.6797733
+        ],
+        [
+          8.6086122,
+          47.6797314
+        ],
+        [
+          8.6086041,
+          47.6797361
+        ],
+        [
+          8.6085418,
+          47.6796875
+        ],
+        [
+          8.6085506,
+          47.6796825
+        ],
+        [
+          8.6085218,
+          47.6796605
+        ],
+        [
+          8.6085775,
+          47.6796271
         ]
       ]
     ]
@@ -25406,8 +25500,12 @@
   "type": "Feature",
   "id": "way/255434379",
   "properties": {
+    "addr:city": "Löhningen",
+    "addr:housenumber": "35",
+    "addr:postcode": "8224",
+    "addr:street": "Schützengasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten",
     "id": "way/255434379"
   },
@@ -25507,8 +25605,8 @@
     "addr:housenumber": "4",
     "addr:street": "Breitiweg",
     "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Breitiweg 1",
     "id": "way/256046316"
   },
   "geometry": {
@@ -25516,24 +25614,73 @@
     "coordinates": [
       [
         [
-          8.5019799,
-          47.6896044
+          8.5019637,
+          47.6896028
         ],
         [
-          8.5020161,
-          47.6894912
+          8.5019942,
+          47.6895036
         ],
         [
-          8.5023673,
-          47.689542
+          8.5023367,
+          47.6895521
         ],
         [
-          8.5023311,
-          47.6896552
+          8.5023065,
+          47.689651
         ],
         [
-          8.5019799,
-          47.6896044
+          8.5019637,
+          47.6896028
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/256046319",
+  "properties": {
+    "addr:city": "Neunkirch",
+    "addr:housenumber": "2",
+    "addr:postcode": "8213",
+    "addr:street": "Breitiweg",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Breitiweg 2",
+    "id": "way/256046319"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5018352,
+          47.6895032
+        ],
+        [
+          8.5016654,
+          47.6894778
+        ],
+        [
+          8.5016752,
+          47.6894463
+        ],
+        [
+          8.5017207,
+          47.6894527
+        ],
+        [
+          8.5017563,
+          47.6893351
+        ],
+        [
+          8.5018821,
+          47.689352
+        ],
+        [
+          8.5018352,
+          47.6895032
         ]
       ]
     ]
@@ -25689,10 +25836,12 @@
   "type": "Feature",
   "id": "way/256851177",
   "properties": {
+    "addr:city": "Neuhausen am Rheinfall",
     "addr:housenumber": "42",
+    "addr:postcode": "8212",
     "addr:street": "Rheingoldstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Rheingold",
     "id": "way/256851177"
   },
@@ -25701,48 +25850,24 @@
     "coordinates": [
       [
         [
-          8.6225777,
-          47.681817
+          8.6226411,
+          47.6819103
         ],
         [
-          8.6225585,
-          47.6817182
+          8.6225526,
+          47.6816507
         ],
         [
-          8.6225782,
-          47.6817165
+          8.6226938,
+          47.6816281
         ],
         [
-          8.6225671,
-          47.6816592
+          8.6227816,
+          47.6818874
         ],
         [
-          8.6225411,
-          47.6816615
-        ],
-        [
-          8.6225262,
-          47.6815843
-        ],
-        [
-          8.6227316,
-          47.6815662
-        ],
-        [
-          8.6227459,
-          47.6816404
-        ],
-        [
-          8.6226896,
-          47.6816454
-        ],
-        [
-          8.6227204,
-          47.6818045
-        ],
-        [
-          8.6225777,
-          47.681817
+          8.6226411,
+          47.6819103
         ]
       ]
     ]
@@ -25850,7 +25975,7 @@
     "addr:housenumber": "4",
     "addr:street": "Baumgartenstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Selhof",
     "id": "way/259334905"
   },
@@ -25859,32 +25984,32 @@
     "coordinates": [
       [
         [
-          8.4533174,
-          47.6954848
+          8.4533257,
+          47.695492
         ],
         [
-          8.4533951,
-          47.695341
+          8.4534094,
+          47.6953466
         ],
         [
-          8.453519,
-          47.6953714
+          8.4535355,
+          47.6953794
         ],
         [
-          8.4534659,
-          47.6954696
+          8.4534948,
+          47.6954518
         ],
         [
-          8.4535171,
-          47.6954822
+          8.4535389,
+          47.6954637
         ],
         [
-          8.4534925,
-          47.6955277
+          8.4534971,
+          47.6955365
         ],
         [
-          8.4533174,
-          47.6954848
+          8.4533257,
+          47.695492
         ]
       ]
     ]
@@ -26897,7 +27022,7 @@
     "addr:postcode": "8215",
     "addr:street": "Schulgasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Laagass",
     "id": "way/274580465"
   },
@@ -26906,48 +27031,48 @@
     "coordinates": [
       [
         [
-          8.4576995,
-          47.6984632
+          8.4577314,
+          47.6984622
         ],
         [
-          8.4577274,
-          47.6983647
+          8.4577564,
+          47.6983724
         ],
         [
-          8.4578381,
-          47.6983789
+          8.457847,
+          47.6983834
         ],
         [
-          8.4578319,
-          47.698401
+          8.4578534,
+          47.6983627
         ],
         [
-          8.4579281,
-          47.6984134
+          8.457944,
+          47.6983748
         ],
         [
-          8.4579078,
-          47.6984848
+          8.4579145,
+          47.6984863
         ],
         [
-          8.4578723,
-          47.6984802
+          8.4578761,
+          47.6984813
         ],
         [
-          8.4578584,
-          47.6985293
+          8.4578611,
+          47.6985308
         ],
         [
-          8.4577323,
-          47.6985131
+          8.4577557,
+          47.6985172
         ],
         [
-          8.4577448,
-          47.698469
+          8.4577687,
+          47.6984678
         ],
         [
-          8.4576995,
-          47.6984632
+          8.4577314,
+          47.6984622
         ]
       ]
     ]
@@ -26957,6 +27082,10 @@
   "type": "Feature",
   "id": "way/276532732",
   "properties": {
+    "addr:city": "Oberhallau",
+    "addr:housenumber": "7",
+    "addr:postcode": "8216",
+    "addr:street": "Trottengasse",
     "amenity": "kindergarten",
     "building": "house",
     "building:colour": "white",
@@ -26965,7 +27094,7 @@
     "building:use": "education",
     "height": "7.5",
     "level": "0",
-    "name": "Kindergarten",
+    "name": "Kindergarten Oberhallau",
     "operator:type": "public",
     "roof:colour": "rosybrown",
     "roof:height": "2.5",
@@ -26981,24 +27110,24 @@
     "coordinates": [
       [
         [
-          8.4784067,
-          47.7043959
+          8.4784007,
+          47.7043906
         ],
         [
-          8.4782107,
-          47.7042627
+          8.4782186,
+          47.7042646
         ],
         [
-          8.4783138,
-          47.7041939
+          8.4783047,
+          47.7042067
         ],
         [
-          8.4785098,
-          47.7043271
+          8.4784892,
+          47.704333
         ],
         [
-          8.4784067,
-          47.7043959
+          8.4784007,
+          47.7043906
         ]
       ]
     ]
@@ -39351,16 +39480,22 @@
 },
 {
   "type": "Feature",
-  "id": "node/1452925500",
+  "id": "node/1453796485",
   "properties": {
+    "addr:city": "Guntmadingen",
+    "addr:housename": "Dorfschule",
+    "addr:housenumber": "1",
+    "addr:postcode": "8223",
+    "addr:street": "Neuengasse",
     "amenity": "kindergarten",
-    "id": "node/1452925500"
+    "name": "Kindergarten Guntmadingen",
+    "id": "node/1453796485"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6090728,
-      47.7603429
+      8.5569435,
+      47.6855415
     ]
   }
 },
@@ -39667,8 +39802,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5476398,
-      47.3863002
+      8.5477292,
+      47.3862833
     ]
   }
 },
@@ -46286,7 +46421,7 @@
     "amenity": "kindergarten",
     "contact:phone": "+41 44 413 00 90",
     "isced:level": "0",
-    "name": "Kindergärten Ilgen 1",
+    "name": "Kindergarten Ilgen 1",
     "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Ilgen",
     "operator:type": "public",
     "id": "node/9148909395"
@@ -46306,7 +46441,7 @@
     "amenity": "kindergarten",
     "contact:phone": "+41 44 413 00 97",
     "isced:level": "0",
-    "name": "Kindergärten Ilgen 2",
+    "name": "Kindergarten Ilgen 2",
     "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Ilgen",
     "operator:type": "public",
     "id": "node/9148909396"
@@ -50297,6 +50432,7 @@
   "type": "Feature",
   "id": "node/9952658919",
   "properties": {
+    "addr:city": "Gächlingen",
     "addr:housenumber": "5",
     "addr:postcode": "8214",
     "addr:street": "Gemeindehausplatz",
@@ -50752,6 +50888,38 @@
     "coordinates": [
       8.6283568,
       47.6950304
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10060958875",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Schönegg 1",
+    "id": "node/10060958875"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6170968,
+      47.6856917
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10060958876",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Schönegg 2",
+    "id": "node/10060958876"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6171568,
+      47.6863892
     ]
   }
 }

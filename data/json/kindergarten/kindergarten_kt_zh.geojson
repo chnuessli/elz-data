@@ -35169,8 +35169,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5476398,
-      47.3863002
+      8.5477292,
+      47.3862833
     ]
   }
 },
@@ -41362,7 +41362,7 @@
     "amenity": "kindergarten",
     "contact:phone": "+41 44 413 00 90",
     "isced:level": "0",
-    "name": "Kindergärten Ilgen 1",
+    "name": "Kindergarten Ilgen 1",
     "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Ilgen",
     "operator:type": "public",
     "id": "node/9148909395"
@@ -41382,7 +41382,7 @@
     "amenity": "kindergarten",
     "contact:phone": "+41 44 413 00 97",
     "isced:level": "0",
-    "name": "Kindergärten Ilgen 2",
+    "name": "Kindergarten Ilgen 2",
     "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Ilgen",
     "operator:type": "public",
     "id": "node/9148909396"
