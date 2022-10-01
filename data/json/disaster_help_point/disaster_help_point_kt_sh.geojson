@@ -183,8 +183,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8631439,
-      47.662666
+      8.863046,
+      47.6626935
     ]
   }
 },
@@ -423,7 +423,7 @@
   "id": "node/9435655854",
   "properties": {
     "addr:city": "Ramsen",
-    "addr:housenumber": "420a",
+    "addr:housenumber": "420",
     "addr:postcode": "8262",
     "addr:street": "Sonnenstrasse",
     "description": "Aula Schulhaus",
