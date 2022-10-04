@@ -241,7 +241,9 @@
   "type": "Feature",
   "id": "way/195276983",
   "properties": {
+    "addr:city": "Wilen",
     "addr:housenumber": "17",
+    "addr:postcode": "8832",
     "addr:street": "Schulhausstrasse",
     "amenity": "kindergarten",
     "building": "school",

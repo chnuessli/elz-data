@@ -46086,6 +46086,87 @@
 },
 {
   "type": "Feature",
+  "id": "way/147348304",
+  "properties": {
+    "addr:city": "Gersau",
+    "addr:housenumber": "10",
+    "addr:postcode": "6442",
+    "addr:street": "Schulhausplatz",
+    "amenity": "school",
+    "building": "school",
+    "name": "Bezirksschule Gersau",
+    "id": "way/147348304"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5281403,
+          46.9922404
+        ],
+        [
+          8.5277782,
+          46.992267
+        ],
+        [
+          8.5277679,
+          46.9922017
+        ],
+        [
+          8.5276102,
+          46.9922133
+        ],
+        [
+          8.5275983,
+          46.9921374
+        ],
+        [
+          8.5277443,
+          46.9921267
+        ],
+        [
+          8.5277351,
+          46.9920684
+        ],
+        [
+          8.5279031,
+          46.9920561
+        ],
+        [
+          8.527908,
+          46.9920872
+        ],
+        [
+          8.5280388,
+          46.9920776
+        ],
+        [
+          8.5280445,
+          46.9921138
+        ],
+        [
+          8.5281816,
+          46.9921037
+        ],
+        [
+          8.5281936,
+          46.99218
+        ],
+        [
+          8.5281315,
+          46.9921845
+        ],
+        [
+          8.5281403,
+          46.9922404
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/148646754",
   "properties": {
     "amenity": "school",
@@ -47887,6 +47968,50 @@
         [
           8.7877447,
           47.2004398
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/150269930",
+  "properties": {
+    "addr:city": "Pfäffikon (SZ)",
+    "addr:country": "CH",
+    "addr:housenumber": "21",
+    "addr:postcode": "8808",
+    "addr:street": "Stegstrasse",
+    "amenity": "school",
+    "building": "school",
+    "leisure": "sports_centre",
+    "name": "Turnhalle Schule Steg",
+    "source": "Bing",
+    "id": "way/150269930"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7866063,
+          47.1990509
+        ],
+        [
+          8.7866761,
+          47.1988098
+        ],
+        [
+          8.7870794,
+          47.1988637
+        ],
+        [
+          8.7870096,
+          47.1991048
+        ],
+        [
+          8.7866063,
+          47.1990509
         ]
       ]
     ]
@@ -57920,6 +58045,107 @@
 },
 {
   "type": "Feature",
+  "id": "way/191372765",
+  "properties": {
+    "addr:city": "Wollerau",
+    "addr:housenumber": "18",
+    "addr:postcode": "8832",
+    "addr:street": "Erlenstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Riedmatt",
+    "id": "way/191372765"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7134433,
+          47.1958925
+        ],
+        [
+          8.7134594,
+          47.1959328
+        ],
+        [
+          8.7136639,
+          47.195895
+        ],
+        [
+          8.7137498,
+          47.19611
+        ],
+        [
+          8.7135916,
+          47.1961392
+        ],
+        [
+          8.7136667,
+          47.1963269
+        ],
+        [
+          8.7138243,
+          47.1962979
+        ],
+        [
+          8.7138868,
+          47.1964543
+        ],
+        [
+          8.7139481,
+          47.196443
+        ],
+        [
+          8.7140708,
+          47.19675
+        ],
+        [
+          8.7135133,
+          47.1968528
+        ],
+        [
+          8.7134156,
+          47.1966083
+        ],
+        [
+          8.7130668,
+          47.1966727
+        ],
+        [
+          8.7129769,
+          47.1964477
+        ],
+        [
+          8.7131537,
+          47.1964151
+        ],
+        [
+          8.7133052,
+          47.1963872
+        ],
+        [
+          8.7132147,
+          47.1961606
+        ],
+        [
+          8.7132574,
+          47.1961528
+        ],
+        [
+          8.7131733,
+          47.1959424
+        ],
+        [
+          8.7134433,
+          47.1958925
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/191934540",
   "properties": {
     "amenity": "school",
@@ -59344,6 +59570,164 @@
         [
           8.6946611,
           47.4275275
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/195276985",
+  "properties": {
+    "addr:city": "Wilen",
+    "addr:housenumber": "19",
+    "addr:postcode": "8832",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Wilen",
+    "id": "way/195276985"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7329275,
+          47.1978107
+        ],
+        [
+          8.7330773,
+          47.1978184
+        ],
+        [
+          8.7330739,
+          47.1978486
+        ],
+        [
+          8.7332394,
+          47.1978571
+        ],
+        [
+          8.7332283,
+          47.1979569
+        ],
+        [
+          8.733175,
+          47.1979541
+        ],
+        [
+          8.7331704,
+          47.1979954
+        ],
+        [
+          8.733009,
+          47.1979871
+        ],
+        [
+          8.733005,
+          47.1980238
+        ],
+        [
+          8.732855,
+          47.1980161
+        ],
+        [
+          8.7328662,
+          47.1979157
+        ],
+        [
+          8.7329156,
+          47.1979182
+        ],
+        [
+          8.7329275,
+          47.1978107
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/195276986",
+  "properties": {
+    "addr:city": "Wilen",
+    "addr:housenumber": "21",
+    "addr:postcode": "8832",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Wilen 2",
+    "id": "way/195276986"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7336745,
+          47.1981548
+        ],
+        [
+          8.733703,
+          47.1981565
+        ],
+        [
+          8.7336975,
+          47.1981972
+        ],
+        [
+          8.733348,
+          47.1981756
+        ],
+        [
+          8.7333535,
+          47.198135
+        ],
+        [
+          8.7333755,
+          47.1981364
+        ],
+        [
+          8.733377,
+          47.1981256
+        ],
+        [
+          8.7333544,
+          47.1981242
+        ],
+        [
+          8.7332854,
+          47.1981199
+        ],
+        [
+          8.7332981,
+          47.1980253
+        ],
+        [
+          8.7337809,
+          47.1980552
+        ],
+        [
+          8.7337746,
+          47.198102
+        ],
+        [
+          8.7337682,
+          47.1981499
+        ],
+        [
+          8.7337049,
+          47.198146
+        ],
+        [
+          8.7336759,
+          47.1981442
+        ],
+        [
+          8.7336745,
+          47.1981548
         ]
       ]
     ]
@@ -66195,6 +66579,79 @@
 },
 {
   "type": "Feature",
+  "id": "way/220136501",
+  "properties": {
+    "addr:city": "Galgenen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8854",
+    "addr:street": "Martinstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Dorf I",
+    "id": "way/220136501"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8747342,
+          47.182136
+        ],
+        [
+          8.8746591,
+          47.1820326
+        ],
+        [
+          8.8747586,
+          47.1819992
+        ],
+        [
+          8.8747427,
+          47.1819774
+        ],
+        [
+          8.8748427,
+          47.1819439
+        ],
+        [
+          8.8748567,
+          47.1819632
+        ],
+        [
+          8.8749546,
+          47.1819304
+        ],
+        [
+          8.8750308,
+          47.1820354
+        ],
+        [
+          8.8749566,
+          47.1820603
+        ],
+        [
+          8.8749711,
+          47.1820803
+        ],
+        [
+          8.874837,
+          47.1821253
+        ],
+        [
+          8.8748231,
+          47.1821062
+        ],
+        [
+          8.8747342,
+          47.182136
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/220136515",
   "properties": {
     "amenity": "school",
@@ -66256,6 +66713,112 @@
         [
           8.8760025,
           47.1819249
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/220136516",
+  "properties": {
+    "addr:city": "Galgenen",
+    "addr:housenumber": "1a",
+    "addr:postcode": "8854",
+    "addr:street": "Martinstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Dorf II",
+    "id": "way/220136516"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8751696,
+          47.1820414
+        ],
+        [
+          8.875082,
+          47.1819255
+        ],
+        [
+          8.8753453,
+          47.1818337
+        ],
+        [
+          8.8754112,
+          47.181921
+        ],
+        [
+          8.8752879,
+          47.181964
+        ],
+        [
+          8.8753096,
+          47.1819926
+        ],
+        [
+          8.8751696,
+          47.1820414
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/220136519",
+  "properties": {
+    "addr:city": "Galgenen",
+    "addr:housenumber": "1b",
+    "addr:postcode": "8854",
+    "addr:street": "Martinstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Dorf III",
+    "id": "way/220136519"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8754763,
+          47.182045
+        ],
+        [
+          8.8754189,
+          47.1819614
+        ],
+        [
+          8.8757566,
+          47.1818543
+        ],
+        [
+          8.8758193,
+          47.1819457
+        ],
+        [
+          8.875754,
+          47.1819665
+        ],
+        [
+          8.8757834,
+          47.1820094
+        ],
+        [
+          8.8755782,
+          47.1820745
+        ],
+        [
+          8.8755433,
+          47.1820237
+        ],
+        [
+          8.8754763,
+          47.182045
         ]
       ]
     ]
@@ -66373,6 +66936,64 @@
         [
           8.5183068,
           47.1619228
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/220624757",
+  "properties": {
+    "addr:city": "Galgenen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8854",
+    "addr:street": "Schleipfenmühle",
+    "amenity": "school",
+    "building": "yes",
+    "name": "Villa Monte",
+    "website": "https://www.villamonte.ch/",
+    "id": "way/220624757"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8583055,
+          47.1777052
+        ],
+        [
+          8.8583097,
+          47.1776124
+        ],
+        [
+          8.8583808,
+          47.1776136
+        ],
+        [
+          8.8583804,
+          47.1775935
+        ],
+        [
+          8.8584484,
+          47.177595
+        ],
+        [
+          8.8584494,
+          47.177616
+        ],
+        [
+          8.8585177,
+          47.1776167
+        ],
+        [
+          8.8585142,
+          47.1777096
+        ],
+        [
+          8.8583055,
+          47.1777052
         ]
       ]
     ]
@@ -80553,6 +81174,70 @@
 },
 {
   "type": "Feature",
+  "id": "way/279666132",
+  "properties": {
+    "addr:city": "Illgau",
+    "addr:postcode": "6434",
+    "addr:street": "Schulhaus 1",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Illgau",
+    "id": "way/279666132"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7242735,
+          46.9881915
+        ],
+        [
+          8.7242884,
+          46.9881056
+        ],
+        [
+          8.724491,
+          46.988122
+        ],
+        [
+          8.7244919,
+          46.9881167
+        ],
+        [
+          8.7247643,
+          46.9881389
+        ],
+        [
+          8.7247647,
+          46.988137
+        ],
+        [
+          8.724908,
+          46.9881486
+        ],
+        [
+          8.7248962,
+          46.9882168
+        ],
+        [
+          8.7248414,
+          46.9882124
+        ],
+        [
+          8.724837,
+          46.9882373
+        ],
+        [
+          8.7242735,
+          46.9881915
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/280881484",
   "properties": {
     "addr:city": "Hemishofen",
@@ -82835,6 +83520,71 @@
 },
 {
   "type": "Feature",
+  "id": "way/296556482",
+  "properties": {
+    "addr:city": "Freienbach",
+    "addr:housenumber": "15",
+    "addr:postcode": "8807",
+    "addr:street": "Rebhaldenstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Leutschen",
+    "id": "way/296556482"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7547869,
+          47.2040904
+        ],
+        [
+          8.7548163,
+          47.2039073
+        ],
+        [
+          8.7549384,
+          47.2039164
+        ],
+        [
+          8.7549441,
+          47.2038809
+        ],
+        [
+          8.7552014,
+          47.2039
+        ],
+        [
+          8.7551889,
+          47.2039774
+        ],
+        [
+          8.7552499,
+          47.2039819
+        ],
+        [
+          8.7552197,
+          47.2041697
+        ],
+        [
+          8.7550953,
+          47.2041604
+        ],
+        [
+          8.7551028,
+          47.2041138
+        ],
+        [
+          8.7547869,
+          47.2040904
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/296867567",
   "properties": {
     "addr:city": "Freienbach",
@@ -84368,6 +85118,120 @@
 },
 {
   "type": "Feature",
+  "id": "way/308130391",
+  "properties": {
+    "addr:city": "Steinen",
+    "addr:housenumber": "1",
+    "addr:postcode": "6422",
+    "addr:street": "Weidlistrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schule im Park - Sprachheilschule",
+    "id": "way/308130391"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6037367,
+          47.0510628
+        ],
+        [
+          8.6038709,
+          47.0508971
+        ],
+        [
+          8.6042587,
+          47.0510437
+        ],
+        [
+          8.6041809,
+          47.0511399
+        ],
+        [
+          8.6039334,
+          47.0510463
+        ],
+        [
+          8.603877,
+          47.0511159
+        ],
+        [
+          8.6037367,
+          47.0510628
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308130392",
+  "properties": {
+    "addr:city": "Steinen",
+    "addr:housenumber": "2",
+    "addr:postcode": "6422",
+    "addr:street": "Weidlistrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schule im Park - Sprachheilschule",
+    "id": "way/308130392"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6043159,
+          47.0508237
+        ],
+        [
+          8.6044672,
+          47.0507092
+        ],
+        [
+          8.6048737,
+          47.0509586
+        ],
+        [
+          8.6047875,
+          47.0510239
+        ],
+        [
+          8.6046545,
+          47.0509423
+        ],
+        [
+          8.604592,
+          47.0509895
+        ],
+        [
+          8.6044792,
+          47.0509203
+        ],
+        [
+          8.6044282,
+          47.0509589
+        ],
+        [
+          8.6043804,
+          47.0509295
+        ],
+        [
+          8.6044288,
+          47.050893
+        ],
+        [
+          8.6043159,
+          47.0508237
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/308295226",
   "properties": {
     "addr:city": "Knonau",
@@ -84524,6 +85388,46 @@
         [
           8.4623018,
           47.2204902
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308444220",
+  "properties": {
+    "addr:city": "Pfäffikon SZ",
+    "addr:housenumber": "22",
+    "addr:postcode": "8808",
+    "addr:street": "Weidstrasse",
+    "amenity": "school",
+    "building": "school",
+    "id": "way/308444220"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7718121,
+          47.1961594
+        ],
+        [
+          8.7719036,
+          47.1959322
+        ],
+        [
+          8.7723189,
+          47.1960092
+        ],
+        [
+          8.7722288,
+          47.1962358
+        ],
+        [
+          8.7718121,
+          47.1961594
         ]
       ]
     ]
@@ -116071,18 +116975,42 @@
 },
 {
   "type": "Feature",
-  "id": "node/122507552",
+  "id": "way/1100792427",
   "properties": {
+    "addr:city": "Pfäffikon SZ",
+    "addr:housenumber": "20",
+    "addr:postcode": "8808",
+    "addr:street": "Weidstrasse",
     "amenity": "school",
-    "created_by": "JOSM",
+    "building": "school",
     "name": "Oberstufenschulhaus Weid",
-    "id": "node/122507552"
+    "id": "way/1100792427"
   },
   "geometry": {
-    "type": "Point",
+    "type": "Polygon",
     "coordinates": [
-      8.772047,
-      47.1961016
+      [
+        [
+          8.7710813,
+          47.1963663
+        ],
+        [
+          8.7712683,
+          47.1958993
+        ],
+        [
+          8.7715963,
+          47.1959604
+        ],
+        [
+          8.7714106,
+          47.1964265
+        ],
+        [
+          8.7710813,
+          47.1963663
+        ]
+      ]
     ]
   }
 },
@@ -117048,22 +117976,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1575815259",
-  "properties": {
-    "amenity": "school",
-    "name": "Bezirksschule Gersau",
-    "id": "node/1575815259"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5280527,
-      46.9925287
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1617870706",
   "properties": {
     "amenity": "school",
@@ -117725,24 +118637,6 @@
     "coordinates": [
       8.7547059,
       47.2035451
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4122645391",
-  "properties": {
-    "addr:housenumber": "15",
-    "addr:street": "Rebhaldenstrasse",
-    "amenity": "school",
-    "name": "Sek 1 Höfe Freienbach",
-    "id": "node/4122645391"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7549851,
-      47.2040945
     ]
   }
 },
