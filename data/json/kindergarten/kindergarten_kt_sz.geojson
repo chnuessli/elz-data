@@ -101,10 +101,12 @@
   "type": "Feature",
   "id": "way/189410242",
   "properties": {
+    "addr:city": "Bäch",
     "addr:housenumber": "7",
+    "addr:postcode": "8806",
     "addr:street": "Bächmatt",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "name": "Kindergarten Bäch",
     "id": "way/189410242"
   },
@@ -200,40 +202,36 @@
     "coordinates": [
       [
         [
-          8.7421153,
-          47.1310814
+          8.7420879,
+          47.1310905
         ],
         [
-          8.7421518,
-          47.131064
+          8.7421325,
+          47.1310695
         ],
         [
-          8.7422092,
-          47.1310919
+          8.7421994,
+          47.1311007
         ],
         [
-          8.7423562,
-          47.1311634
+          8.7423405,
+          47.1311684
         ],
         [
-          8.7422506,
-          47.1312129
+          8.74225,
+          47.1312116
         ],
         [
-          8.7421783,
-          47.1312463
+          8.7421775,
+          47.1312442
         ],
         [
-          8.7420464,
-          47.1311261
+          8.7420345,
+          47.1311157
         ],
         [
-          8.742124,
-          47.1310901
-        ],
-        [
-          8.7421153,
-          47.1310814
+          8.7420879,
+          47.1310905
         ]
       ]
     ]
@@ -1095,6 +1093,84 @@
     "coordinates": [
       8.5247972,
       47.0627678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10072682063",
+  "properties": {
+    "amenity": "kindergarten",
+    "isced:level": "0",
+    "name": "ABC Learning Tree",
+    "operator": "ABC Learning Tree GmbH",
+    "id": "node/10072682063"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7139424,
+      47.197311
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10072888438",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:housenumber": "3",
+    "addr:postcode": "8840",
+    "addr:street": "Paracelsuspark",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Einsiedlerhof",
+    "id": "node/10072888438"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7504438,
+      47.1282365
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10072901671",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:housenumber": "20",
+    "addr:postcode": "8840",
+    "addr:street": "Hauptstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Zwei Raben",
+    "id": "node/10072901671"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7450606,
+      47.1269685
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10072913317",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:housenumber": "20a",
+    "addr:postcode": "8840",
+    "addr:street": "In den Matten",
+    "amenity": "kindergarten",
+    "name": "Kindergarten In den Matten",
+    "id": "node/10072913317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7420158,
+      47.1311063
     ]
   }
 }

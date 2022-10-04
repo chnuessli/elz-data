@@ -1409,7 +1409,7 @@
     "dispensing": "yes",
     "level": "0",
     "name": "City Apotheke Ruckstuhl",
-    "opening_hours": "Mo-Th 08:00-18:30;Fr 08:00-19:00;Sa 08:00-16:00;PH closed",
+    "opening_hours": "Mo-Th 08:00-18:30; Fr 08:00-19:00; Sa 08:00-16:00; PH closed",
     "wheelchair": "yes",
     "id": "node/428887442"
   },
@@ -3102,6 +3102,7 @@
     "name": "Apotheke Schaffhauserplatz",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00; PH off",
     "website": "http://apothekeschaffhauserplatz.ch",
+    "wheelchair": "yes",
     "id": "node/1390807245"
   },
   "geometry": {
@@ -4307,7 +4308,7 @@
     "dispensing": "yes",
     "level": "0",
     "name": "Löwen-Apotheke",
-    "opening_hours": "Mo-Fr 08:30-19:00;Sa 08:00-18:00;PH closed",
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:00-18:00; PH closed",
     "id": "node/2902973304"
   },
   "geometry": {
@@ -6053,7 +6054,7 @@
     "brand": "Pill Apotheke",
     "level": "1",
     "name": "Pill Apotheke im Dorf",
-    "opening_hours": "Mo-Fr 08:00-12:15,13:45-18:30;Sa 08:00-12:15;PH closed",
+    "opening_hours": "Mo-Fr 08:00-12:15,13:45-18:30; Sa 08:00-16:00; PH off",
     "operator": "Pill Group",
     "website": "https://www.pill.ch/standorte/pill-apotheke-im-dorf.html",
     "wheelchair": "limited",

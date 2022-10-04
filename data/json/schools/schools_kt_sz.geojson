@@ -761,7 +761,7 @@
     "addr:postcode": "8847",
     "addr:street": "Eggerstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Schulhaus Egg",
     "id": "way/149316379"
   },
@@ -987,10 +987,72 @@
 },
 {
   "type": "Feature",
+  "id": "way/150273985",
+  "properties": {
+    "addr:city": "Pfäffikon SZ",
+    "addr:housenumber": "9",
+    "addr:postcode": "8808",
+    "addr:street": "Churerstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Brüel",
+    "id": "way/150273985"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7746852,
+          47.2019353
+        ],
+        [
+          8.7749478,
+          47.2019082
+        ],
+        [
+          8.7749791,
+          47.2020478
+        ],
+        [
+          8.774885,
+          47.2020575
+        ],
+        [
+          8.7748953,
+          47.2021033
+        ],
+        [
+          8.7748122,
+          47.2021119
+        ],
+        [
+          8.774802,
+          47.2020661
+        ],
+        [
+          8.7747165,
+          47.202075
+        ],
+        [
+          8.7746852,
+          47.2019353
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/150667368",
   "properties": {
+    "addr:city": "Bennau",
+    "addr:housenumber": "2",
+    "addr:postcode": "8836",
+    "addr:street": "Burgerenstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
+    "name": "Schulhaus Bennau",
     "id": "way/150667368"
   },
   "geometry": {
@@ -1333,8 +1395,85 @@
 },
 {
   "type": "Feature",
+  "id": "way/189410243",
+  "properties": {
+    "addr:city": "Bäch",
+    "addr:housenumber": "6",
+    "addr:postcode": "8806",
+    "addr:street": "Bächmatt",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Bächmatt",
+    "id": "way/189410243"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.73259,
+          47.2043131
+        ],
+        [
+          8.7328945,
+          47.2044799
+        ],
+        [
+          8.7330653,
+          47.2043359
+        ],
+        [
+          8.7331311,
+          47.204378
+        ],
+        [
+          8.7331246,
+          47.2044287
+        ],
+        [
+          8.7332368,
+          47.2044902
+        ],
+        [
+          8.7330118,
+          47.2046798
+        ],
+        [
+          8.7329869,
+          47.2046662
+        ],
+        [
+          8.7329255,
+          47.204718
+        ],
+        [
+          8.7327441,
+          47.2046187
+        ],
+        [
+          8.7328016,
+          47.2045702
+        ],
+        [
+          8.7324885,
+          47.2043987
+        ],
+        [
+          8.73259,
+          47.2043131
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/192931089",
   "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:housenumber": "20",
+    "addr:postcode": "8840",
+    "addr:street": "Nordstrasse",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Nordstrasse",
@@ -1552,8 +1691,101 @@
 },
 {
   "type": "Feature",
+  "id": "way/193024247",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:housenumber": "1",
+    "addr:postcode": "8840",
+    "addr:street": "Etzelstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Büel",
+    "id": "way/193024247"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7515097,
+          47.1297188
+        ],
+        [
+          8.751425,
+          47.1297274
+        ],
+        [
+          8.7513941,
+          47.1295805
+        ],
+        [
+          8.7514779,
+          47.1295726
+        ],
+        [
+          8.7514413,
+          47.1293997
+        ],
+        [
+          8.7516213,
+          47.1293818
+        ],
+        [
+          8.7516377,
+          47.1294636
+        ],
+        [
+          8.7516339,
+          47.1294644
+        ],
+        [
+          8.751655,
+          47.1295625
+        ],
+        [
+          8.7516706,
+          47.129561
+        ],
+        [
+          8.7516993,
+          47.1296905
+        ],
+        [
+          8.751683,
+          47.1296919
+        ],
+        [
+          8.7517042,
+          47.1297923
+        ],
+        [
+          8.7517098,
+          47.1297915
+        ],
+        [
+          8.7517257,
+          47.1298721
+        ],
+        [
+          8.7515468,
+          47.1298914
+        ],
+        [
+          8.7515097,
+          47.1297188
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/193024248",
   "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:housenumber": "8",
+    "addr:postcode": "8840",
+    "addr:street": "Furrenstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus Furren",
@@ -1564,48 +1796,64 @@
     "coordinates": [
       [
         [
-          8.7509924,
-          47.1300302
+          8.7509781,
+          47.130028
         ],
         [
-          8.7505812,
-          47.1300701
+          8.7507519,
+          47.1300509
         ],
         [
-          8.7505672,
-          47.1300034
+          8.750762,
+          47.1300926
         ],
         [
-          8.7505011,
-          47.1300098
+          8.750585,
+          47.1301109
         ],
         [
-          8.7504805,
-          47.1299122
+          8.7505637,
+          47.1300141
         ],
         [
-          8.7507304,
-          47.1298879
+          8.7505091,
+          47.1300192
         ],
         [
-          8.7507369,
-          47.1299189
+          8.7505067,
+          47.1300042
         ],
         [
-          8.7508505,
-          47.1299079
+          8.7505025,
+          47.1300043
         ],
         [
-          8.7508575,
-          47.1299412
+          8.750484,
+          47.1299215
         ],
         [
-          8.7509714,
-          47.1299302
+          8.7507182,
+          47.129898
         ],
         [
-          8.7509924,
-          47.1300302
+          8.7507256,
+          47.1299331
+        ],
+        [
+          8.7508392,
+          47.1299213
+        ],
+        [
+          8.7508465,
+          47.1299569
+        ],
+        [
+          8.7509596,
+          47.1299449
+        ],
+        [
+          8.7509781,
+          47.130028
         ]
       ]
     ]
@@ -1709,6 +1957,84 @@
         [
           8.7519883,
           47.1293397
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193075245",
+  "properties": {
+    "addr:city": "Willerzell",
+    "addr:housenumber": "6",
+    "addr:postcode": "8846",
+    "addr:street": "Seestrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Willerzell",
+    "source": "bing",
+    "id": "way/193075245"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7932299,
+          47.129764
+        ],
+        [
+          8.7933825,
+          47.1298033
+        ],
+        [
+          8.793465,
+          47.1298234
+        ],
+        [
+          8.7934056,
+          47.1299349
+        ],
+        [
+          8.7933792,
+          47.1299282
+        ],
+        [
+          8.7933653,
+          47.1299543
+        ],
+        [
+          8.7933057,
+          47.1299392
+        ],
+        [
+          8.7933019,
+          47.1299435
+        ],
+        [
+          8.793261,
+          47.1299338
+        ],
+        [
+          8.793257,
+          47.1299412
+        ],
+        [
+          8.7932303,
+          47.1299345
+        ],
+        [
+          8.7932416,
+          47.1299162
+        ],
+        [
+          8.7931579,
+          47.1298937
+        ],
+        [
+          8.7932299,
+          47.129764
         ]
       ]
     ]
@@ -2163,9 +2489,13 @@
   "type": "Feature",
   "id": "way/198157870",
   "properties": {
+    "addr:city": "Gross SZ",
+    "addr:housenumber": "10",
+    "addr:postcode": "8841",
+    "addr:street": "Neumattstrasse",
     "amenity": "school",
-    "building": "yes",
-    "name": "Primarschule",
+    "building": "school",
+    "name": "Schulhaus Gross",
     "id": "way/198157870"
   },
   "geometry": {
@@ -2200,8 +2530,12 @@
   "type": "Feature",
   "id": "way/198379083",
   "properties": {
+    "addr:city": "Alpthal",
+    "addr:housenumber": "17",
+    "addr:postcode": "8849",
+    "addr:street": "Dorfstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Schulhaus Alpthal",
     "source": "bing",
     "id": "way/198379083"
@@ -2211,24 +2545,56 @@
     "coordinates": [
       [
         [
-          8.7157667,
-          47.0704486
+          8.7157257,
+          47.0704545
         ],
         [
-          8.7156746,
-          47.0703369
+          8.7156805,
+          47.0704036
         ],
         [
-          8.7157919,
-          47.070292
+          8.7156471,
+          47.0704168
         ],
         [
-          8.715884,
-          47.0704037
+          8.7156241,
+          47.0703921
         ],
         [
-          8.7157667,
-          47.0704486
+          8.7156567,
+          47.0703787
+        ],
+        [
+          8.7156131,
+          47.0703303
+        ],
+        [
+          8.715727,
+          47.0702846
+        ],
+        [
+          8.7157619,
+          47.0703243
+        ],
+        [
+          8.7157947,
+          47.0703109
+        ],
+        [
+          8.7158376,
+          47.0703599
+        ],
+        [
+          8.7158063,
+          47.070373
+        ],
+        [
+          8.7158364,
+          47.0704075
+        ],
+        [
+          8.7157257,
+          47.0704545
         ]
       ]
     ]
@@ -2254,24 +2620,113 @@
     "coordinates": [
       [
         [
-          8.7427327,
-          47.125397
+          8.7427078,
+          47.1254143
         ],
         [
-          8.7425609,
-          47.1255541
+          8.7425484,
+          47.1255602
         ],
         [
-          8.7421559,
-          47.125349
+          8.7421516,
+          47.1253578
         ],
         [
-          8.7423277,
-          47.125192
+          8.7423127,
+          47.1252119
         ],
         [
-          8.7427327,
-          47.125397
+          8.7427078,
+          47.1254143
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/201789945",
+  "properties": {
+    "addr:city": "Altendorf",
+    "addr:housenumber": "8",
+    "addr:postcode": "8852",
+    "addr:street": "Churerstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Burggasse",
+    "id": "way/201789945"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8321456,
+          47.1911079
+        ],
+        [
+          8.8321854,
+          47.1911753
+        ],
+        [
+          8.8322024,
+          47.1912041
+        ],
+        [
+          8.8324165,
+          47.1915669
+        ],
+        [
+          8.8323757,
+          47.191578
+        ],
+        [
+          8.8324084,
+          47.1916334
+        ],
+        [
+          8.8322746,
+          47.1916699
+        ],
+        [
+          8.8322419,
+          47.1916145
+        ],
+        [
+          8.8322069,
+          47.191624
+        ],
+        [
+          8.8321772,
+          47.1915736
+        ],
+        [
+          8.8321335,
+          47.1915855
+        ],
+        [
+          8.8320052,
+          47.1913681
+        ],
+        [
+          8.831963,
+          47.1913796
+        ],
+        [
+          8.8319339,
+          47.1913303
+        ],
+        [
+          8.8318829,
+          47.1912438
+        ],
+        [
+          8.8318502,
+          47.1911884
+        ],
+        [
+          8.8321456,
+          47.1911079
         ]
       ]
     ]
@@ -4025,6 +4480,55 @@
 },
 {
   "type": "Feature",
+  "id": "way/293441171",
+  "properties": {
+    "addr:city": "Pfäffikon (SZ)",
+    "addr:housenumber": "4",
+    "addr:postcode": "8808",
+    "addr:street": "Summelenweg",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Felsenburgmatte",
+    "id": "way/293441171"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7763143,
+          47.1991008
+        ],
+        [
+          8.7768355,
+          47.1992482
+        ],
+        [
+          8.7767682,
+          47.1993581
+        ],
+        [
+          8.776725,
+          47.1993458
+        ],
+        [
+          8.7766715,
+          47.1994332
+        ],
+        [
+          8.7761935,
+          47.1992981
+        ],
+        [
+          8.7763143,
+          47.1991008
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/293441178",
   "properties": {
     "addr:city": "Pfäffikon (SZ)",
@@ -4032,7 +4536,7 @@
     "addr:postcode": "8808",
     "addr:street": "Summelenweg",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Schulhaus Felsenburgmatte",
     "id": "way/293441178"
   },
@@ -4098,62 +4602,168 @@
 },
 {
   "type": "Feature",
-  "id": "way/296868254",
+  "id": "way/296867567",
   "properties": {
+    "addr:city": "Freienbach",
+    "addr:housenumber": "1",
+    "addr:postcode": "8807",
+    "addr:street": "Schwerzistrasse",
     "amenity": "school",
-    "id": "way/296868254"
+    "building": "school",
+    "name": "Schulhaus Schwerzi",
+    "id": "way/296867567"
   },
   "geometry": {
     "type": "Polygon",
     "coordinates": [
       [
         [
-          8.7599182,
-          47.203994
+          8.7590886,
+          47.2037588
         ],
         [
-          8.7596486,
-          47.2039165
+          8.7592065,
+          47.2035781
         ],
         [
-          8.7597919,
-          47.2036915
+          8.7597008,
+          47.2037295
         ],
         [
-          8.7594699,
-          47.203591
+          8.7595819,
+          47.2039111
         ],
         [
-          8.7595839,
-          47.2034204
+          8.7590886,
+          47.2037588
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/296867716",
+  "properties": {
+    "addr:city": "Freienbach",
+    "addr:housenumber": "3",
+    "addr:postcode": "8807",
+    "addr:street": "Schwerzistrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Schwerzi",
+    "id": "way/296867716"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7595813,
+          47.2033916
         ],
         [
-          8.7597025,
-          47.2034529
+          8.759644,
+          47.2032962
         ],
         [
-          8.759684,
-          47.2034916
-        ],
-        [
-          8.7598335,
-          47.2035345
-        ],
-        [
-          8.759855,
+          8.7603009,
           47.2035021
         ],
         [
-          8.7603003,
-          47.2036339
+          8.7602373,
+          47.2035958
         ],
         [
-          8.7601169,
-          47.2039354
+          8.7598691,
+          47.2034816
         ],
         [
-          8.7599182,
-          47.203994
+          8.7598472,
+          47.2035153
+        ],
+        [
+          8.7597139,
+          47.2034755
+        ],
+        [
+          8.7597374,
+          47.2034412
+        ],
+        [
+          8.7595813,
+          47.2033916
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/296867841",
+  "properties": {
+    "addr:city": "Freienbach",
+    "addr:housenumber": "5",
+    "addr:postcode": "8807",
+    "addr:street": "Wolleraustrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Bollenweid",
+    "name:de": "Schulhaus Bollenweid",
+    "operator": "Gemeinde Freienbach",
+    "id": "way/296867841"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7601557,
+          47.2039425
+        ],
+        [
+          8.7602255,
+          47.2038316
+        ],
+        [
+          8.760675,
+          47.2039634
+        ],
+        [
+          8.7606249,
+          47.2040487
+        ],
+        [
+          8.7603444,
+          47.2039681
+        ],
+        [
+          8.76033,
+          47.2039945
+        ],
+        [
+          8.7602957,
+          47.2039839
+        ],
+        [
+          8.7603038,
+          47.2039716
+        ],
+        [
+          8.7603095,
+          47.203957
+        ],
+        [
+          8.7602735,
+          47.2039471
+        ],
+        [
+          8.7602567,
+          47.2039725
+        ],
+        [
+          8.7601557,
+          47.2039425
         ]
       ]
     ]
@@ -5093,6 +5703,48 @@
 },
 {
   "type": "Feature",
+  "id": "way/442555927",
+  "properties": {
+    "addr:city": "Euthal",
+    "addr:housenumber": "36",
+    "addr:postcode": "8844",
+    "addr:street": "Euthalerstrasse",
+    "amenity": "school",
+    "building": "school",
+    "building:levels": "2",
+    "name": "Schule Euthal",
+    "id": "way/442555927"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8157568,
+          47.0955457
+        ],
+        [
+          8.8153945,
+          47.0953795
+        ],
+        [
+          8.8156957,
+          47.0950753
+        ],
+        [
+          8.816058,
+          47.0952416
+        ],
+        [
+          8.8157568,
+          47.0955457
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/559756430",
   "properties": {
     "amenity": "school",
@@ -5429,8 +6081,14 @@
   "type": "Feature",
   "id": "way/851854537",
   "properties": {
+    "addr:city": "Trachslau",
+    "addr:country": "CH",
+    "addr:housenumber": "1b",
+    "addr:postcode": "8840",
+    "addr:street": "Trachslauerstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
+    "name": "Schulhaus Trachslau",
     "id": "way/851854537"
   },
   "geometry": {
@@ -5438,24 +6096,24 @@
     "coordinates": [
       [
         [
-          8.7253568,
-          47.0988373
+          8.7252646,
+          47.099006
         ],
         [
-          8.7251829,
-          47.0984214
+          8.725173,
+          47.0986228
         ],
         [
-          8.7254907,
-          47.0983618
+          8.7255161,
+          47.0985809
         ],
         [
-          8.7256646,
-          47.0987776
+          8.7256111,
+          47.0989655
         ],
         [
-          8.7253568,
-          47.0988373
+          8.7252646,
+          47.099006
         ]
       ]
     ]
@@ -6360,48 +7018,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4355543396",
-  "properties": {
-    "addr:housenumber": "1",
-    "addr:postcode": "8807",
-    "addr:street": "Schwerzistrasse",
-    "amenity": "school",
-    "name": "Turnhalle Schwerzi",
-    "name:de": "Turnhalle Schwerzi",
-    "operator": "Gemeinde Freienbach",
-    "id": "node/4355543396"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7593869,
-      47.2037516
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4355543397",
-  "properties": {
-    "addr:housenumber": "1",
-    "addr:postcode": "8807",
-    "addr:street": "Schwerzistrasse",
-    "amenity": "school",
-    "name": "Musikschule Freienbach",
-    "name:de": "Musikschule Freienbach",
-    "operator": "Gemeinde Freienbach",
-    "id": "node/4355543397"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7592222,
-      47.2036431
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4355607391",
   "properties": {
     "addr:postcode": "8807",
@@ -6416,27 +7032,6 @@
     "coordinates": [
       8.7548948,
       47.2037896
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4355639089",
-  "properties": {
-    "addr:housenumber": "5",
-    "addr:postcode": "8807",
-    "addr:street": "Wolleraustrasse",
-    "amenity": "school",
-    "name": "Schulhaus Bollenweid",
-    "name:de": "Schulhaus Bollenweid",
-    "operator": "Gemeinde Freienbach",
-    "id": "node/4355639089"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.760432,
-      47.2039402
     ]
   }
 },

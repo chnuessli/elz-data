@@ -4316,8 +4316,79 @@
 },
 {
   "type": "Feature",
+  "id": "way/274535405",
+  "properties": {
+    "addr:city": "Wilchingen",
+    "addr:housenumber": "5",
+    "addr:postcode": "8217",
+    "addr:street": "Schulgasse",
+    "amenity": "school",
+    "building": "yes",
+    "leisure": "pitch",
+    "name": "Schulhaus und Sporthalle Wilchingen",
+    "sport": "multi",
+    "id": "way/274535405"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4691574,
+          47.668596
+        ],
+        [
+          8.4690689,
+          47.6682932
+        ],
+        [
+          8.469237,
+          47.6682709
+        ],
+        [
+          8.4692665,
+          47.6683722
+        ],
+        [
+          8.4696389,
+          47.6683228
+        ],
+        [
+          8.4696757,
+          47.6684489
+        ],
+        [
+          8.4694082,
+          47.6684843
+        ],
+        [
+          8.4694211,
+          47.6685282
+        ],
+        [
+          8.4693135,
+          47.6685425
+        ],
+        [
+          8.4693227,
+          47.6685741
+        ],
+        [
+          8.4691574,
+          47.668596
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/274535407",
   "properties": {
+    "addr:city": "Wilchingen",
+    "addr:housenumber": "5",
+    "addr:postcode": "8217",
+    "addr:street": "Schulgasse",
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus",

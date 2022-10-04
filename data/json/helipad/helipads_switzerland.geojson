@@ -12777,21 +12777,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/35211724",
-  "properties": {
-    "aeroway": "helipad",
-    "id": "node/35211724"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.9939232,
-      47.2238508
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/281385797",
   "properties": {
     "aeroway": "helipad",

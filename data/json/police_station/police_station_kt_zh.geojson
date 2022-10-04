@@ -1602,32 +1602,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/474454473",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "11",
-    "addr:postcode": "8004",
-    "addr:street": "Zeughausstrasse",
-    "alt_name": "Kripo Zürich",
-    "amenity": "police",
-    "name": "Polizeiposten Kriminalpolizei",
-    "operator": "Kantonspolizei Zürich",
-    "operator:wikidata": "Q1728099",
-    "operator:wikipedia": "de:Kantonspolizei Zürich",
-    "phone": "+41 44 411 67 67",
-    "id": "node/474454473"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5311824,
-      47.3750137
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/483418095",
   "properties": {
     "addr:city": "Uster",

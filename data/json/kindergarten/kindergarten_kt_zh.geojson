@@ -6126,8 +6126,8 @@
     "addr:postcode": "8302",
     "addr:street": "Obstgartenstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
     "building:levels": "2",
+    "demolished:building": "yes",
     "name": "Kindergarten Looren",
     "operator": "Stadt Kloten",
     "id": "way/45897831"
