@@ -51265,6 +51265,38 @@
       47.1311063
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10076261858",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Seematt 2A, B, C, D",
+    "id": "node/10076261858"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4378453,
+      47.0765679
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10076281188",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Seefeld",
+    "id": "node/10076281188"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8547355,
+      47.1972799
+    ]
+  }
 }
 ]
 }
