@@ -6549,6 +6549,7 @@
     "opening_hours": "Mo-Fr 09:00-20:00; Sa 08:00-20:00; Su off",
     "phone": "+41 44 853 42 74",
     "website": "https://www.apothekedrkunz.ch/",
+    "wheelchair": "yes",
     "id": "node/4896763911"
   },
   "geometry": {
@@ -7216,6 +7217,7 @@
     "healthcare": "pharmacy",
     "level": "-1",
     "name": "Zur Rose",
+    "opening_hours": "Mo-Sa 07:30-20:00; PH off",
     "operator": "MBZR Apotheken",
     "website": "https://www.zurrose.ch/",
     "id": "node/7465666136"

@@ -6599,6 +6599,7 @@
   "properties": {
     "amenity": "school",
     "name": "Schule Seehalde",
+    "wheelchair": "no",
     "id": "way/27339595"
   },
   "geometry": {
@@ -7806,6 +7807,7 @@
   "properties": {
     "amenity": "school",
     "name": "Rossacker",
+    "wheelchair": "limited",
     "id": "way/28983254"
   },
   "geometry": {
@@ -97104,6 +97106,7 @@
   "properties": {
     "amenity": "school",
     "name": "Schulhaus Rossacker",
+    "wheelchair": "limited",
     "id": "node/1925680048"
   },
   "geometry": {

@@ -5372,22 +5372,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9983308604",
-  "properties": {
-    "barrier": "gate",
-    "gate:type": "kissing",
-    "id": "node/9983308604"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4734095,
-      47.0486286
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9983308909",
   "properties": {
     "access": "unknown",
