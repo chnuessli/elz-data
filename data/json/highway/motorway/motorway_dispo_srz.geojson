@@ -36713,6 +36713,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "lit": "yes",
+    "maxheight": "default",
     "maxspeed": "100",
     "oneway": "yes",
     "ref": "A3;A4",

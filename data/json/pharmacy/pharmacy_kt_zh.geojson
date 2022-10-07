@@ -4987,6 +4987,7 @@
     "opening_hours": "Mo-Fr 07:30-21:00; Sa-Su 09:00-20:00",
     "operator": "GaleniCare",
     "website": "https://www.amavita.ch/de/amavita-apotheke-shopville",
+    "wheelchair": "yes",
     "id": "node/4424939138"
   },
   "geometry": {
@@ -6484,6 +6485,7 @@
     "operator": "GaleniCare",
     "start_date": "2020-03-02",
     "website": "https://www.amavita.ch/de/amavita-bahnhof-apotheke",
+    "wheelchair": "yes",
     "id": "node/7481864953"
   },
   "geometry": {
