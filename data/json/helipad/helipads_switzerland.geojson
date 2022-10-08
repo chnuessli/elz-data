@@ -14676,6 +14676,7 @@
   "id": "node/9212005874",
   "properties": {
     "aeroway": "helipad",
+    "lit": "no",
     "id": "node/9212005874"
   },
   "geometry": {

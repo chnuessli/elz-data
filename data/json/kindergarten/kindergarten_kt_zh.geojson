@@ -24150,6 +24150,7 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Langwiesen",
+    "ref:gwrid": "9204",
     "toilets:wheelchair": "no",
     "wheelchair": "no",
     "id": "way/296173533"
