@@ -4618,23 +4618,28 @@
   "type": "Feature",
   "id": "node/4410323554",
   "properties": {
+    "addr:city": "Cham",
+    "addr:housenumber": "49",
+    "addr:postcode": "6330",
+    "addr:street": "Zugerstrasse",
     "age_group": "0-5",
     "amenity": "childcare",
     "level": "0",
     "name": "Kita Städtli",
     "nursery": "yes",
-    "opening_hours": "Mo-Fr 07:00-18:30; PH off",
+    "opening_hours": "Mo-Fr 07:00-18:30; PH off; Mo-Fr 09:00-12:00,13:00-18:30; Sa 09:00-17:00; PH closed",
     "operator": "Verein Kita Städtli und Schnäggehuus",
     "operator:type": "private",
     "phone": "+41 77 477 66 54",
-    "website": "http://www.kita-staedtli.ch",
+    "website": "https://www.amix-cham.ch",
+    "wheelchair": "yes",
     "id": "node/4410323554"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4655436,
-      47.1836571
+      8.4670536,
+      47.1821655
     ]
   }
 },
