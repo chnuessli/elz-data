@@ -4165,6 +4165,7 @@
   "type": "Feature",
   "id": "node/288532245",
   "properties": {
+    "access": "private",
     "barrier": "gate",
     "id": "node/288532245"
   },

@@ -45543,14 +45543,15 @@
   "id": "node/10003509812",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kindergarten Hangmoos 2",
+    "name": "Kindergarten Hangenmoos 2",
+    "preschool": "yes",
     "id": "node/10003509812"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6544899,
-      47.2315215
+      8.65508,
+      47.232485
     ]
   }
 },
@@ -45753,6 +45754,23 @@
     "coordinates": [
       8.5824192,
       47.3458011
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10087771460",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Hangenmoos 1",
+    "preschool": "yes",
+    "id": "node/10087771460"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6552097,
+      47.2323472
     ]
   }
 }

@@ -58121,7 +58121,7 @@
     "ssvz": "1002",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||slight_right",
+    "turn:lanes": "through|through|right",
     "width": "10.8",
     "id": "way/545825897"
   },
@@ -58135,6 +58135,10 @@
       [
         8.6669818,
         47.3965535
+      ],
+      [
+        8.6674979,
+        47.3965354
       ],
       [
         8.6677301,
