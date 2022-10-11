@@ -2544,7 +2544,7 @@
     "name": "Villa Alma",
     "social_facility": "group_home",
     "social_facility:for": "senior",
-    "wikidata": "Q29574126",
+    "wikidata": "Q13142966",
     "id": "way/25925993"
   },
   "geometry": {
@@ -44717,8 +44717,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5335019,
-      47.3848532
+      8.5334983,
+      47.3848545
     ]
   }
 },

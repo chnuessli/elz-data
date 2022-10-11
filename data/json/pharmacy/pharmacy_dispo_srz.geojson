@@ -1907,6 +1907,7 @@
     "branch": "Zürich Industrie",
     "brand": "Medbase",
     "brand:wikidata": "Q50038690",
+    "check_date:opening_hours": "2022-10-10",
     "name": "Medbase Apotheke Industrie",
     "old_name": "Industrie Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:30-17:00",
@@ -6371,10 +6372,11 @@
     "branch": "Zürich Schwamendingen",
     "brand": "Medbase",
     "brand:wikidata": "Q50038690",
+    "healthcare": "pharmacy",
     "name": "Medbase Apotheke Kreis 12",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
     "operator": "Medbase Apotheken",
-    "website": "https://www.topwell.ch/medbaseapothekezuerichkreis12/",
+    "website": "https://www.medbase-apotheken.ch/apotheken/detail/medbase-apotheke-zuerich-kreis-12",
     "id": "node/4838594396"
   },
   "geometry": {
