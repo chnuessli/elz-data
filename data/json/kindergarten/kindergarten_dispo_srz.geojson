@@ -51317,6 +51317,22 @@
       47.2323472
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10092186650",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Burg 1+2",
+    "id": "node/10092186650"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9754461,
+      47.1711871
+    ]
+  }
 }
 ]
 }

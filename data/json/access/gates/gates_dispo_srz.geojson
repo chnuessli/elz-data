@@ -6460,6 +6460,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/430385593",
+  "properties": {
+    "barrier": "gate",
+    "foot": "customers",
+    "locked": "yes",
+    "id": "node/430385593"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6775655,
+      47.2584874
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/430399703",
   "properties": {
     "barrier": "gate",
