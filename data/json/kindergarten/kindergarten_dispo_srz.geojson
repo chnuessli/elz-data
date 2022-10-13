@@ -30279,6 +30279,55 @@
 },
 {
   "type": "Feature",
+  "id": "way/397729693",
+  "properties": {
+    "addr:city": "Tuggen",
+    "addr:housenumber": "5a",
+    "addr:postcode": "8856",
+    "addr:street": "Tödistrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Eneda",
+    "id": "way/397729693"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9449975,
+          47.2022121
+        ],
+        [
+          8.9450585,
+          47.2021313
+        ],
+        [
+          8.9452294,
+          47.2021908
+        ],
+        [
+          8.945155,
+          47.2022894
+        ],
+        [
+          8.9451008,
+          47.2022705
+        ],
+        [
+          8.9451142,
+          47.2022527
+        ],
+        [
+          8.9449975,
+          47.2022121
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/397797230",
   "properties": {
     "amenity": "kindergarten",
@@ -33278,6 +33327,63 @@
         [
           8.6544598,
           47.2703892
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/695596343",
+  "properties": {
+    "addr:city": "Tuggen",
+    "addr:housenumber": "2",
+    "addr:postcode": "8856",
+    "addr:street": "Schulstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Riedland A+B",
+    "id": "way/695596343"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9462054,
+          47.2015843
+        ],
+        [
+          8.946192,
+          47.201673
+        ],
+        [
+          8.9460776,
+          47.2016656
+        ],
+        [
+          8.9460754,
+          47.2016816
+        ],
+        [
+          8.9460447,
+          47.2016795
+        ],
+        [
+          8.9460459,
+          47.2016625
+        ],
+        [
+          8.9458589,
+          47.2016512
+        ],
+        [
+          8.9458727,
+          47.201562
+        ],
+        [
+          8.9462054,
+          47.2015843
         ]
       ]
     ]
@@ -39730,6 +39836,7 @@
   "id": "node/1517012653",
   "properties": {
     "amenity": "kindergarten",
+    "name": "Kindergarten Kirchbühl",
     "id": "node/1517012653"
   },
   "geometry": {
@@ -51331,6 +51438,38 @@
     "coordinates": [
       8.9754461,
       47.1711871
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10094691201",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Tuggen",
+    "id": "node/10094691201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8977051,
+      47.1227246
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10095261923",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Chäsigass",
+    "id": "node/10095261923"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4258408,
+      47.1732705
     ]
   }
 }

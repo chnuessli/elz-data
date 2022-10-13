@@ -707,6 +707,7 @@
   "id": "node/1517012653",
   "properties": {
     "amenity": "kindergarten",
+    "name": "Kindergarten Kirchbühl",
     "id": "node/1517012653"
   },
   "geometry": {
@@ -842,6 +843,22 @@
     "coordinates": [
       8.5184634,
       47.1905446
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10095261923",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Chäsigass",
+    "id": "node/10095261923"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4258408,
+      47.1732705
     ]
   }
 }
