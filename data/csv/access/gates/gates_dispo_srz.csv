@@ -341,6 +341,7 @@ FeatureCollection,"{'type': 'Feature', 'id': 'node/429280331', 'properties': {'b
 FeatureCollection,"{'type': 'Feature', 'id': 'node/430261350', 'properties': {'barrier': 'gate', 'id': 'node/430261350'}, 'geometry': {'type': 'Point', 'coordinates': [8.5069046, 47.3767163]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/430270747', 'properties': {'barrier': 'gate', 'id': 'node/430270747'}, 'geometry': {'type': 'Point', 'coordinates': [8.5037747, 47.3754248]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/430273782', 'properties': {'barrier': 'gate', 'id': 'node/430273782'}, 'geometry': {'type': 'Point', 'coordinates': [8.5046374, 47.3747581]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/430385593', 'properties': {'barrier': 'gate', 'foot': 'customers', 'locked': 'yes', 'id': 'node/430385593'}, 'geometry': {'type': 'Point', 'coordinates': [8.6775655, 47.2584874]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/430399703', 'properties': {'barrier': 'gate', 'description': 'Haupttor Sihlfeld D', 'foot': 'yes', 'id': 'node/430399703'}, 'geometry': {'type': 'Point', 'coordinates': [8.5071405, 47.3774862]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/431299619', 'properties': {'barrier': 'lift_gate', 'bicycle': 'yes', 'foot': 'yes', 'id': 'node/431299619'}, 'geometry': {'type': 'Point', 'coordinates': [8.7162596, 47.1676845]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/432428036', 'properties': {'barrier': 'gate', 'id': 'node/432428036'}, 'geometry': {'type': 'Point', 'coordinates': [8.7713626, 47.4368128]}}"
