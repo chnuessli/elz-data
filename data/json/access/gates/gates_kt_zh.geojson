@@ -65366,6 +65366,39 @@
       47.457184
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10098489575",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "note": "wird abgebrochen für Neubau",
+    "id": "node/10098489575"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5525768,
+      47.3751501
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10098489576",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "id": "node/10098489576"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5530212,
+      47.3756945
+    ]
+  }
 }
 ]
 }
