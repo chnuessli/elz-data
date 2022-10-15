@@ -5579,6 +5579,7 @@
     "addr:street": "Löwenstrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date:opening_hours": "2022-10-12",
     "level": "0",
     "name": "City Apotheke zur Sihlporte",
     "opening_hours": "Mo-Fr 07:45-19:00; Sa 09:00-17:00",
