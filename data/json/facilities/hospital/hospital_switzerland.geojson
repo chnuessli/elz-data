@@ -51679,6 +51679,44 @@
       46.9365348
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10103304277",
+  "properties": {
+    "amenity": "clinic",
+    "check_date": "2022-10-15",
+    "healthcare": "clinic",
+    "name": "Centre Urgences Broye",
+    "short_name": "CUB",
+    "id": "node/10103304277"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9354023,
+      46.8191515
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10103304278",
+  "properties": {
+    "amenity": "clinic",
+    "check_date": "2022-10-15",
+    "healthcare": "clinic",
+    "name": "Centre Médico-Chirurgical de la Broye",
+    "short_name": "CM+CB",
+    "id": "node/10103304278"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9353695,
+      46.8191697
+    ]
+  }
 }
 ]
 }
