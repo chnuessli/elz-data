@@ -3311,6 +3311,7 @@
     "addr:street": "Kreuzplatz",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date:opening_hours": "2022-10-17",
     "drive_through": "no",
     "name": "Apotheke am Kreuzplatz",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:30-17:00",

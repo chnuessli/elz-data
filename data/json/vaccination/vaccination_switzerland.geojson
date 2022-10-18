@@ -484,6 +484,7 @@
     "addr:postcode": "8570",
     "addr:street": "Tannenwiesenstrasse",
     "alt_name": "Kantonales Impfzentrum",
+    "end_date": "2022-10-18",
     "fixme": "Genaue Position/Ausmasse und Organisation/Wege ergaenzen",
     "healthcare": "centre",
     "healthcare:speciality": "vaccination",

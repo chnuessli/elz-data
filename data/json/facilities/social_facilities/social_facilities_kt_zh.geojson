@@ -39657,7 +39657,7 @@
   "id": "node/7052781841",
   "properties": {
     "amenity": "social_facility",
-    "mapillary": "xhrycwI8E6cxzZxE6v9YAw",
+    "mapillary": "202463565049734",
     "name": "RestEssBar Winti Altstadt",
     "social_facility": "food_bank",
     "website": "http://restessbar.ch/de/standorte/winti_altstadt",
@@ -42375,6 +42375,29 @@
     "coordinates": [
       8.7171723,
       47.3496589
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10109869132",
+  "properties": {
+    "alt_name": "Ansbach Care;AnsbachCare;Zuhause für Menschen mit gerontopsychiatrischen und psychiatrischen Erkrankungen;Betreutes Wohnen;AnsbachCare - der Mensch im Fokus",
+    "amenity": "social_facility",
+    "email": "info@ansbach.care",
+    "name": "AnsbachCare AG",
+    "operator": "AnsbachCare AG",
+    "phone": "+41 55 256 00 30",
+    "social_facility": "assisted_living",
+    "social_facility:for": "mental_health",
+    "website": "https://www.ansbach.care/",
+    "id": "node/10109869132"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9090237,
+      47.2770172
     ]
   }
 }
