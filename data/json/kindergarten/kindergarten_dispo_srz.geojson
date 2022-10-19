@@ -8738,6 +8738,7 @@
     "min_age": "0",
     "name": "Kita Trauminsel",
     "preschool": "yes",
+    "roof:shape": "flat",
     "id": "way/84217383"
   },
   "geometry": {

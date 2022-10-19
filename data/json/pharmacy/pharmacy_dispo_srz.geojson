@@ -1553,24 +1553,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/394818570",
-  "properties": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "toilets:wheelchair": "no",
-    "wheelchair": "yes",
-    "id": "node/394818570"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5047911,
-      47.6903497
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/415400006",
   "properties": {
     "addr:city": "Zürich",
