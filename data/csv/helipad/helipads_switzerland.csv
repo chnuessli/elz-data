@@ -353,7 +353,7 @@ FeatureCollection,"{'type': 'Feature', 'id': 'node/7093561744', 'properties': {'
 FeatureCollection,"{'type': 'Feature', 'id': 'node/7222963946', 'properties': {'aeroway': 'helipad', 'id': 'node/7222963946'}, 'geometry': {'type': 'Point', 'coordinates': [8.7284548, 47.5073414]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/7342668156', 'properties': {'aeroway': 'helipad', 'ref': 'Helipad Chablais Heli Club', 'id': 'node/7342668156'}, 'geometry': {'type': 'Point', 'coordinates': [6.9852622, 46.2584274]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/7504796631', 'properties': {'aeroway': 'helipad', 'id': 'node/7504796631'}, 'geometry': {'type': 'Point', 'coordinates': [7.4114075, 46.0343198]}}"
-FeatureCollection,"{'type': 'Feature', 'id': 'node/7628254692', 'properties': {'aeroway': 'helipad', 'id': 'node/7628254692'}, 'geometry': {'type': 'Point', 'coordinates': [8.6355724, 47.711797]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/7628254692', 'properties': {'aeroway': 'helipad', 'emergency': 'landing_site', 'id': 'node/7628254692'}, 'geometry': {'type': 'Point', 'coordinates': [8.6355724, 47.711797]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/7628257790', 'properties': {'aeroway': 'helipad', 'id': 'node/7628257790'}, 'geometry': {'type': 'Point', 'coordinates': [7.6130885, 47.4865293]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/7628269535', 'properties': {'aeroway': 'helipad', 'id': 'node/7628269535'}, 'geometry': {'type': 'Point', 'coordinates': [8.0420418, 47.3906342]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/7628288043', 'properties': {'aeroway': 'helipad', 'id': 'node/7628288043'}, 'geometry': {'type': 'Point', 'coordinates': [7.8838618, 46.2877217]}}"
