@@ -461,55 +461,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/75027449",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "17",
-    "addr:postcode": "8400",
-    "addr:street": "Obertor",
-    "alt_name": "KomPol Winterthur",
-    "amenity": "police",
-    "building": "yes",
-    "name": "Polizeiposten Stadtpolizei Winterthur",
-    "operator": "Stadtpolizei Winterthur",
-    "phone": "+41 52 267 51 52",
-    "wikidata": "Q2327943",
-    "id": "way/75027449"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7320928,
-          47.4999541
-        ],
-        [
-          8.7321206,
-          47.4997883
-        ],
-        [
-          8.7323243,
-          47.4998039
-        ],
-        [
-          8.7323029,
-          47.4999694
-        ],
-        [
-          8.7321024,
-          47.4999548
-        ],
-        [
-          8.7320928,
-          47.4999541
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/87583480",
   "properties": {
     "addr:city": "Urdorf",
@@ -1125,9 +1076,14 @@
     "addr:housenumber": "5",
     "addr:postcode": "8400",
     "addr:street": "Obermühlestrasse",
+    "alt_name": "POM Polizeigebäude Obermühlestrasse",
     "amenity": "police",
-    "building": "construction",
-    "name": "POM Polizeigebäude Obermühlestrasse",
+    "building": "yes",
+    "name": "Stadtpolizei Winterthur",
+    "opening_hours": "24/7",
+    "phone": "+41 52 267 51 52",
+    "wikidata": "Q2327943",
+    "wikipedia": "de:Stadtpolizei Winterthur",
     "id": "way/1053034737"
   },
   "geometry": {
