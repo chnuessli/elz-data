@@ -21174,6 +21174,81 @@
 },
 {
   "type": "Feature",
+  "id": "way/204029557",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "130a",
+    "addr:postcode": "8002",
+    "addr:street": "Bederstrasse",
+    "amenity": "social_facility",
+    "building": "service",
+    "name": "Treffpunkt t-alk",
+    "opening_hours": "10:15-17:30",
+    "operator": "Stadt Zürich Soziale Einrichtungen und Betriebe",
+    "phone": "+41 44 415 36 00",
+    "social_facility": "outreach",
+    "social_facility:for": "drug_addicted",
+    "website": "https://www.stadt-zuerich.ch/sd/de/index/unterstuetzung/drogen/treffpunkte/talk.html",
+    "id": "way/204029557"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5238998,
+          47.3609069
+        ],
+        [
+          8.5239418,
+          47.3607112
+        ],
+        [
+          8.5239451,
+          47.3607116
+        ],
+        [
+          8.5239497,
+          47.3606901
+        ],
+        [
+          8.5239933,
+          47.3606944
+        ],
+        [
+          8.5239971,
+          47.3606948
+        ],
+        [
+          8.5239976,
+          47.3606927
+        ],
+        [
+          8.5240438,
+          47.3606972
+        ],
+        [
+          8.5240032,
+          47.3608857
+        ],
+        [
+          8.5239953,
+          47.3608849
+        ],
+        [
+          8.5239887,
+          47.3609157
+        ],
+        [
+          8.5238998,
+          47.3609069
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/204435556",
   "properties": {
     "addr:city": "Rüti ZH",
@@ -40084,28 +40159,6 @@
     "coordinates": [
       8.5030751,
       47.3652585
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8343622989",
-  "properties": {
-    "amenity": "social_facility",
-    "name": "Treffpunkt t-alk",
-    "opening_hours": "10:15-17:30",
-    "operator": "Stadt Zürich Soziale Einrichtungen und Betriebe",
-    "phone": "+41 44 415 36 00",
-    "social_facility": "outreach",
-    "social_facility:for": "drug_addicted",
-    "website": "https://www.stadt-zuerich.ch/sd/de/index/unterstuetzung/drogen/treffpunkte/talk.html",
-    "id": "node/8343622989"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5239979,
-      47.3608242
     ]
   }
 },

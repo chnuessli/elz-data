@@ -51911,6 +51911,23 @@
       46.8191697
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10118937717",
+  "properties": {
+    "amenity": "clinic",
+    "name": "Pflegeheim St.Otmar",
+    "website": "https://www.otmarsg.ch",
+    "id": "node/10118937717"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.346183,
+      47.4174985
+    ]
+  }
 }
 ]
 }
