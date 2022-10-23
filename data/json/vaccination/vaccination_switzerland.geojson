@@ -477,55 +477,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/923523615",
-  "properties": {
-    "addr:city": "Weinfelden",
-    "addr:housenumber": "5",
-    "addr:postcode": "8570",
-    "addr:street": "Tannenwiesenstrasse",
-    "alt_name": "Kantonales Impfzentrum",
-    "end_date": "2022-10-18",
-    "fixme": "Genaue Position/Ausmasse und Organisation/Wege ergaenzen",
-    "healthcare": "centre",
-    "healthcare:speciality": "vaccination",
-    "level": "0",
-    "name": "Covid-19 Impfzentrum Weinfelden",
-    "operator": "Amt für Gesundheit Kanton Thurgau",
-    "phone": "+41 58 345 34 40",
-    "room": "healthcare",
-    "start_date": "2021-04-06",
-    "vaccination": "covid19",
-    "website": "https://gesundheit.tg.ch/aktuelles/impfung-fuer-covid-19.html/11590",
-    "id": "way/923523615"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        9.0938247,
-        47.569615
-      ],
-      [
-        9.0945834,
-        47.5693318
-      ],
-      [
-        9.0946898,
-        47.5694615
-      ],
-      [
-        9.093931,
-        47.5697447
-      ],
-      [
-        9.0938247,
-        47.569615
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1853060089",
   "properties": {
     "amenity": "restaurant",

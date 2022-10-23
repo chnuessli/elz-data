@@ -2742,6 +2742,40 @@
       47.6932904
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10121779841",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "maxwidth": "5.0",
+    "id": "node/10121779841"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4539379,
+      47.6889853
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10121779852",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "maxwidth": "8.0",
+    "id": "node/10121779852"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4549391,
+      47.6890187
+    ]
+  }
 }
 ]
 }
