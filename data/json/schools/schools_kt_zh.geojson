@@ -22425,183 +22425,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/57853708",
-  "properties": {
-    "amenity": "school",
-    "building": "yes",
-    "source": "yahoo! Aerial imagery",
-    "id": "way/57853708"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6619355,
-          47.3890481
-        ],
-        [
-          8.6619962,
-          47.3891609
-        ],
-        [
-          8.6616909,
-          47.3892362
-        ],
-        [
-          8.6616301,
-          47.3891234
-        ],
-        [
-          8.6619355,
-          47.3890481
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/57853710",
-  "properties": {
-    "addr:housenumber": "4",
-    "addr:street": "Hellwiesstrasse",
-    "amenity": "school",
-    "building": "yes",
-    "source": "yahoo! Aerial imagery",
-    "website": "https://www.schule-volketswil.ch/",
-    "id": "way/57853710"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6626069,
-          47.388784
-        ],
-        [
-          8.6628046,
-          47.3891127
-        ],
-        [
-          8.6625319,
-          47.3891879
-        ],
-        [
-          8.6623341,
-          47.3888592
-        ],
-        [
-          8.662454,
-          47.3888274
-        ],
-        [
-          8.662513,
-          47.3888086
-        ],
-        [
-          8.6626069,
-          47.388784
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/57853722",
-  "properties": {
-    "amenity": "school",
-    "building": "yes",
-    "name:de": "Schule Hellwies",
-    "source": "yahoo! Aerial imagery",
-    "website": "https://www.schule-volketswil.ch/",
-    "id": "way/57853722"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6628459,
-          47.3885595
-        ],
-        [
-          8.6628879,
-          47.3886228
-        ],
-        [
-          8.6628401,
-          47.3886374
-        ],
-        [
-          8.6628547,
-          47.3886608
-        ],
-        [
-          8.6625726,
-          47.3887553
-        ],
-        [
-          8.6625478,
-          47.3887183
-        ],
-        [
-          8.6625157,
-          47.3887289
-        ],
-        [
-          8.6624742,
-          47.388667
-        ],
-        [
-          8.6628459,
-          47.3885595
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/57853734",
-  "properties": {
-    "amenity": "school",
-    "building": "yes",
-    "source": "yahoo! Aerial imagery",
-    "id": "way/57853734"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6615929,
-          47.389075
-        ],
-        [
-          8.6615261,
-          47.3889484
-        ],
-        [
-          8.6618401,
-          47.3888725
-        ],
-        [
-          8.6619068,
-          47.3889991
-        ],
-        [
-          8.6615929,
-          47.389075
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/58448806",
   "properties": {
     "amenity": "school",
@@ -60397,9 +60220,9 @@
     "addr:city": "Volketswil",
     "addr:housenumber": "4",
     "addr:postcode": "8604",
-    "addr:street": "Hellwiesstrasse",
+    "addr:street": "Hellwisstrasse",
     "amenity": "school",
-    "name": "Schule Hellwies",
+    "name": "Schule Hellwis",
     "phone": "+41 44 908 21 56",
     "website": "https://www.schule-volketswil.ch/schulen/hellwies/home",
     "id": "way/242366632"
@@ -60417,8 +60240,12 @@
           47.3890305
         ],
         [
-          8.6612153,
-          47.3889859
+          8.6611777,
+          47.3889117
+        ],
+        [
+          8.6628445,
+          47.3884704
         ],
         [
           8.6630303,
@@ -87365,12 +87192,12 @@
           47.2870342
         ],
         [
-          8.5300829,
-          47.2869857
+          8.530107,
+          47.2869671
         ],
         [
-          8.5301789,
-          47.2863409
+          8.5301843,
+          47.2863423
         ],
         [
           8.5306035,
