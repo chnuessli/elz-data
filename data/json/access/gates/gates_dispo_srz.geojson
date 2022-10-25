@@ -1179,12 +1179,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6189675,
-        47.2540755
+        8.6189808,
+        47.254077
       ],
       [
-        8.6189433,
-        47.2540874
+        8.6189533,
+        47.2540882
       ]
     ]
   }
@@ -51160,36 +51160,6 @@
     "coordinates": [
       8.6179068,
       47.2551893
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6194687077",
-  "properties": {
-    "barrier": "lift_gate",
-    "id": "node/6194687077"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6279153,
-      47.251292
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6194687078",
-  "properties": {
-    "barrier": "lift_gate",
-    "id": "node/6194687078"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.62787,
-      47.2512059
     ]
   }
 },

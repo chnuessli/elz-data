@@ -44805,6 +44805,56 @@
 },
 {
   "type": "Feature",
+  "id": "way/260349436",
+  "properties": {
+    "destination:lanes": "Gotthard;Altdorf;Morschach|Gotthard;Altdorf;Morschach|Weggis;Vitznau;Gersau;Brunnen",
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "3",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "placement": "right_of:1",
+    "ref": "A4",
+    "toll": "yes",
+    "turn:lanes": "||slight_right",
+    "id": "way/260349436"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6207879,
+        47.0072343
+      ],
+      [
+        8.620721,
+        47.0070784
+      ],
+      [
+        8.6206434,
+        47.0068763
+      ],
+      [
+        8.6205698,
+        47.006694
+      ],
+      [
+        8.6205054,
+        47.0065063
+      ],
+      [
+        8.6204523,
+        47.0062626
+      ],
+      [
+        8.6204407,
+        47.0061765
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/284193360",
   "properties": {
     "highway": "motorway",
@@ -52225,37 +52275,6 @@
       [
         8.4597188,
         47.3348287
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/360408261",
-  "properties": {
-    "highway": "motorway",
-    "int_ref": "E 41",
-    "lanes": "2",
-    "maxspeed": "120",
-    "oneway": "yes",
-    "ref": "A4",
-    "toll": "yes",
-    "id": "way/360408261"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.6213116,
-        47.0035099
-      ],
-      [
-        8.6211393,
-        47.0037776
-      ],
-      [
-        8.6210048,
-        47.0040152
       ]
     ]
   }
