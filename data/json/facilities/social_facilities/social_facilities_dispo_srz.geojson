@@ -47805,7 +47805,7 @@
   "properties": {
     "amenity": "social_facility",
     "contact:website": "https://www.swsieber.ch/was-wir-tun/auffangen/pfuusbus/",
-    "name": "Pfuusbus Notschlafstelle (nur von November bis April in Betrieb)",
+    "name": "Pfuusbus Notschlafstelle (von 15. November bis 15. April in Betrieb)",
     "opening_hours": "Nov 15-Apr 15 19:00-09:00",
     "phone": "+41 79 334 02 63",
     "seasonal": "yes",
@@ -49718,7 +49718,7 @@
     "amenity": "social_facility",
     "email": "iglu@swsieber.ch",
     "mobile": "+41 79 320 53 65",
-    "name": "Notschlafstelle Iglu (nur von November bis April in Betrieb)",
+    "name": "Iglu Notschlafstelle (von 15. November bis 15. April in Betrieb)",
     "operator": "SOZIALWERK PFARRER SIEBER",
     "social_facility": "shelter",
     "website": "https://www.swsieber.ch/iglu/",
