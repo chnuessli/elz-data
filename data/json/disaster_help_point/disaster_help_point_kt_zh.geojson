@@ -302,7 +302,7 @@
     "addr:city": "Zürich",
     "addr:housenumber": "23",
     "addr:postcode": "8049",
-    "addr:street": "Ferdinand Hodler-Strasse",
+    "addr:street": "Ferdinand-Hodler-Strasse",
     "description": "Turnhalle Schulhaus Vogtsrain",
     "emergency": "disaster_help_point",
     "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",

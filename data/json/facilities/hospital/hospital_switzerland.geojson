@@ -47382,6 +47382,7 @@
   "id": "node/869250043",
   "properties": {
     "amenity": "clinic",
+    "check_date": "2022-10-27",
     "contact:addr:full": "Länggassstrasse 18, 3012 Bern",
     "contact:email": "bern@pallas-kliniken.ch",
     "contact:fax": "+41 58 3356119",
@@ -47389,7 +47390,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "ophthalmology",
     "name": "Augenlaser Zentrum",
-    "opening_hours": "Mo-Th 08:00-12:15, 13:00-17:30; Fr 08:00-12:15, 13:00-17:00; Sa-Su off; PH off",
+    "opening_hours": "Mo-Th 08:00-12:00,13:00-17:30; Fr 08:00-12:15,13:00-17:00",
     "operator": "Pallas Kliniken AG",
     "website": "https://www.pallas-kliniken.ch/de/standorte/bern-3012.html",
     "id": "node/869250043"
@@ -51909,23 +51910,6 @@
     "coordinates": [
       6.9353695,
       46.8191697
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10118937717",
-  "properties": {
-    "amenity": "clinic",
-    "name": "Pflegeheim St.Otmar",
-    "website": "https://www.otmarsg.ch",
-    "id": "node/10118937717"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      9.346183,
-      47.4174985
     ]
   }
 }
