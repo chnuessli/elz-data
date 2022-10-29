@@ -392,50 +392,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/10000758",
-  "properties": {
-    "addr:city": "Stein am Rhein",
-    "addr:country": "CH",
-    "addr:housenumber": "1",
-    "addr:postcode": "8260",
-    "addr:street": "Oehningerstrasse",
-    "amenity": "school",
-    "building": "yes",
-    "name": "Primarschule Schanz",
-    "phone": "+41 52 741 21 30",
-    "url": "http://www.schuleschanz.ch/",
-    "id": "way/10000758"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.8612763,
-          47.6597091
-        ],
-        [
-          8.861321,
-          47.6595762
-        ],
-        [
-          8.8616342,
-          47.6596232
-        ],
-        [
-          8.8615892,
-          47.6597574
-        ],
-        [
-          8.8612763,
-          47.6597091
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/22952170",
   "properties": {
     "addr:city": "Stein am Rhein",

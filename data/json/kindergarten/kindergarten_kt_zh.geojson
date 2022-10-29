@@ -20385,6 +20385,7 @@
     "operator": "Familiaris Winterthur",
     "operator:type": "private",
     "preschool": "yes",
+    "roof:shape": "flat",
     "website": "https://www.familiaris.ch/schnaeggehuus/",
     "id": "way/223555028"
   },
