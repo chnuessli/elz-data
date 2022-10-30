@@ -5745,6 +5745,7 @@
     "int_ref": "E 41;E 60",
     "lanes": "3",
     "layer": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A1;A4",
@@ -10137,6 +10138,7 @@
     "int_ref": "E 41;E 60",
     "lanes": "3",
     "layer": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A1;A4",
@@ -10227,6 +10229,7 @@
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "4",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "placement": "middle_of:2",
@@ -10267,6 +10270,7 @@
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A1;A4",
@@ -13292,7 +13296,7 @@
     "destination:colour:lanes": "|||blue",
     "destination:int_ref:lanes": "E 41|E 41||",
     "destination:lanes": "Zürich;Affoltern am Albis|Zürich;Affoltern am Albis;Chur;Baar;Zug-Zentrum|Chur;Baar;Zug-Zentrum|Zug;Cham-Ost",
-    "destination:ref:lanes": "A 4|A 4;A 4a|A 4a||",
+    "destination:ref:lanes": "A 4|A 4;A 4a|A 4a|",
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "4",
@@ -28935,7 +28939,7 @@
   "properties": {
     "highway": "motorway",
     "int_ref": "E 41",
-    "lanes": "2",
+    "lanes": "3",
     "lit": "yes",
     "maxspeed": "80",
     "maxspeed:variable": "obstruction",
@@ -28944,6 +28948,7 @@
     "ref": "A4",
     "source:maxspeed": "sign",
     "toll": "yes",
+    "turn:lanes": "through|through|merge_to_left",
     "id": "way/77074934"
   },
   "geometry": {
@@ -28966,8 +28971,8 @@
         47.3414672
       ],
       [
-        8.4576454,
-        47.3415625
+        8.457622,
+        47.3415606
       ]
     ]
   }
@@ -29884,8 +29889,8 @@
         47.3423347
       ],
       [
-        8.4593451,
-        47.3427261
+        8.4593616,
+        47.3427149
       ],
       [
         8.4597524,
@@ -40828,8 +40833,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4576454,
-        47.3415625
+        8.457622,
+        47.3415606
       ],
       [
         8.4572119,
@@ -40939,6 +40944,7 @@
   "id": "way/210309216",
   "properties": {
     "destination:lanes": "Bern;Basel;St. Gallen;Westring Zürich|Chur;Zürich-City|Chur;Zürich-City",
+    "destination:ref:lanes": "A4|A3|A3",
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "3",
@@ -40948,6 +40954,7 @@
     "ref": "A4",
     "source:maxspeed": "sign",
     "toll": "yes",
+    "turn:lanes": "through|slight_right|slight_right",
     "id": "way/210309216"
   },
   "geometry": {
@@ -41037,7 +41044,7 @@
   "properties": {
     "destination:int_ref:lanes": "E 41||",
     "destination:lanes": "Bern;Basel;Sankt Gallen;Westring-Zürich|Chur;Zürich-City|Chur;Zürich-City",
-    "destination:ref:lanes": "A3;A4|A3|A3",
+    "destination:ref:lanes": "A4|A3|A3",
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "3",
@@ -41047,7 +41054,7 @@
     "ref": "A4",
     "source:maxspeed": "sign",
     "toll": "yes",
-    "turn:lanes": "slight_left|through|through",
+    "turn:lanes": "through|slight_right|slight_right",
     "id": "way/210309219"
   },
   "geometry": {
@@ -41327,60 +41334,64 @@
         47.3361575
       ],
       [
-        8.4600532,
-        47.3364889
+        8.4600309,
+        47.3364913
       ],
       [
-        8.4600526,
-        47.3367642
+        8.4600338,
+        47.3367634
       ],
       [
-        8.4600413,
-        47.3370759
+        8.4600305,
+        47.3369197
       ],
       [
-        8.4599903,
-        47.3374531
+        8.4600152,
+        47.3370787
       ],
       [
-        8.4599328,
-        47.3377356
+        8.4599642,
+        47.3374494
       ],
       [
-        8.4598659,
-        47.3380323
+        8.4599108,
+        47.3377393
       ],
       [
-        8.4596953,
-        47.3384973
+        8.4598288,
+        47.3380258
       ],
       [
-        8.4595026,
-        47.3389284
+        8.4596623,
+        47.3384917
       ],
       [
-        8.4592593,
-        47.3393866
+        8.4594751,
+        47.3389247
       ],
       [
-        8.4590449,
-        47.3397309
+        8.4592194,
+        47.3393754
       ],
       [
-        8.4587477,
-        47.3402616
+        8.4590243,
+        47.3397272
       ],
       [
-        8.4586211,
-        47.3404901
+        8.4587216,
+        47.3402579
       ],
       [
-        8.458494,
-        47.3406878
+        8.4585826,
+        47.3404957
       ],
       [
-        8.4583632,
-        47.3408727
+        8.4584693,
+        47.3406831
+      ],
+      [
+        8.4583385,
+        47.3408708
       ],
       [
         8.4581497,
@@ -41395,6 +41406,7 @@
   "properties": {
     "avz": "572",
     "cs_dir": "2",
+    "destination:lanes": "Zürich;Chur;Basel;St. Gallen|Zürich;Chur;Basel;St. Gallen|Wettswil",
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "3",
@@ -41924,6 +41936,7 @@
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A1;A4",
@@ -45933,6 +45946,7 @@
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "3",
+    "lit": "no",
     "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
@@ -46016,6 +46030,7 @@
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "4",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "placement": "middle_of:2",
@@ -46056,6 +46071,7 @@
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A1;A4",
@@ -46145,6 +46161,7 @@
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "signals",
     "oneway": "yes",
     "ref": "A1;A4",
@@ -50760,6 +50777,7 @@
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "3",
+    "lit": "no",
     "maxheight": "below_default",
     "maxspeed": "120",
     "oneway": "yes",
@@ -50879,6 +50897,7 @@
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "4",
+    "lit": "no",
     "maxspeed": "signals",
     "oneway": "yes",
     "placement": "middle_of:2",
@@ -56947,6 +56966,7 @@
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "4",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "placement": "middle_of:2",
@@ -56984,6 +57004,7 @@
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "4",
+    "lit": "no",
     "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
@@ -64515,7 +64536,7 @@
   "properties": {
     "destination:int_ref:lanes": "E 41||",
     "destination:lanes": "Bern;Basel;Sankt Gallen;Westring-Zürich|Chur;Zürich-City|Chur;Zürich-City",
-    "destination:ref:lanes": "A3;A4|A3|A3",
+    "destination:ref:lanes": "A4|A3|A3",
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "3",
@@ -64525,7 +64546,7 @@
     "ref": "A4",
     "source:maxspeed": "sign",
     "toll": "yes",
-    "turn:lanes": "slight_left|through|through",
+    "turn:lanes": "through|slight_right|slight_right",
     "id": "way/651603059"
   },
   "geometry": {
