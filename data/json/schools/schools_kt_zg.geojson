@@ -1680,7 +1680,9 @@
   "id": "way/46422521",
   "properties": {
     "amenity": "school",
-    "name": "Primarschule Wiesental",
+    "local_ref": "Primarschule Wiesental",
+    "name": "Schule Wiesental",
+    "place": "locality",
     "id": "way/46422521"
   },
   "geometry": {

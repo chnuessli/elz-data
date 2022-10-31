@@ -284,12 +284,12 @@
   "properties": {
     "addr:city": "Schübelbach",
     "addr:country": "CH",
-    "addr:full": "Gutenbrunnen 20",
     "addr:housenumber": "20",
     "addr:postcode": "8862",
     "addr:street": "Gutenbrunnen",
     "amenity": "pharmacy",
     "contact:phone": "+41 55 440 85 07",
+    "contact:website": "https://www.schwanen-apotheke.ch/",
     "dispensing": "yes",
     "drive_through": "no",
     "healthcare": "pharmacy",

@@ -7335,6 +7335,7 @@
     "alt_name": "Gerontopuk;Geronto PUK",
     "amenity": "clinic",
     "building": "yes",
+    "healthcare": "clinic",
     "name": "Alterspsychiatrie Gerontopsychiatrisches Zentrum Hegibach",
     "id": "way/1079925854"
   },
@@ -8532,6 +8533,7 @@
     "alt_name": "Medizinisch Radiologische Institut",
     "amenity": "clinic",
     "email": "stadelhofen@mri-roentgen.ch",
+    "healthcare": "clinic",
     "name": "MRI Stadelhofen",
     "phone": "+41 44 226 20 90",
     "website": "https://www.mri-roentgen.ch/de/standorte/mri-stadelhofen/",

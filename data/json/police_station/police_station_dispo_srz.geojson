@@ -17,6 +17,7 @@
     "name": "Wache Wasserschutzpolizei",
     "opening_hours": "24/7",
     "operator": "Stadtpolizei Zürich",
+    "operator:wikidata": "Q2327949",
     "owner": "Immobilien Stadt Zürich (IMMO)",
     "id": "way/29709437"
   },
@@ -1452,6 +1453,7 @@
     "name": "Quartierwache Enge",
     "opening_hours": "Mo-Fr 07:00-17:00; Tu 07:00-12:00",
     "operator": "Stadtpolizei Zürich",
+    "operator:wikidata": "Q2327949",
     "website": "https://www.stadt-zuerich.ch/pd/de/index/stadtpolizei_zuerich/ueber_uns/standorte/quartierwachen/enge.html",
     "id": "node/130113036"
   },
@@ -2288,6 +2290,7 @@
     "name": "Regionalwache Wiedikon",
     "opening_hours": "24/7",
     "operator": "Stadtpolizei Zürich",
+    "operator:wikidata": "Q2327949",
     "wheelchair": "yes",
     "id": "node/1152501760"
   },
