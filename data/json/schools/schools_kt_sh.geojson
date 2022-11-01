@@ -2298,6 +2298,7 @@
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus Randenblick",
+    "website": "https://www.schuleneunkirch.ch/",
     "id": "way/188087884"
   },
   "geometry": {
@@ -4951,6 +4952,7 @@
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus",
+    "website": "http://www.schulerandental.ch/",
     "id": "way/276599525"
   },
   "geometry": {

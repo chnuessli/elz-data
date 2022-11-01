@@ -55411,6 +55411,7 @@
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus Flurlingen",
+    "website": "https://www.schule-flurlingen.ch/",
     "id": "way/219932250"
   },
   "geometry": {

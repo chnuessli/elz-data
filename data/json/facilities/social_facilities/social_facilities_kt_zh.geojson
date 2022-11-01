@@ -21177,7 +21177,7 @@
   "id": "way/204029557",
   "properties": {
     "addr:city": "Zürich",
-    "addr:housenumber": "130a",
+    "addr:housenumber": "130",
     "addr:postcode": "8002",
     "addr:street": "Bederstrasse",
     "amenity": "social_facility",
