@@ -83023,48 +83023,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/280881484",
-  "properties": {
-    "addr:city": "Hemishofen",
-    "addr:country": "CH",
-    "addr:housenumber": "2",
-    "addr:postcode": "8261",
-    "addr:street": "Unterdorf",
-    "amenity": "school",
-    "building": "yes",
-    "name": "Schule, Kindergarten",
-    "id": "way/280881484"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.8293618,
-          47.6763659
-        ],
-        [
-          8.8292867,
-          47.6762449
-        ],
-        [
-          8.8294127,
-          47.6762115
-        ],
-        [
-          8.8294851,
-          47.6763334
-        ],
-        [
-          8.8293618,
-          47.6763659
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/281234255",
   "properties": {
     "amenity": "school",
@@ -121322,7 +121280,7 @@
     "addr:street": "Holunderweg",
     "amenity": "school",
     "building": "school",
-    "name": "Schulhaus Alpenblick Sekundar",
+    "name": "Schulhaus Alpenblick Primar",
     "id": "way/1096261709"
   },
   "geometry": {

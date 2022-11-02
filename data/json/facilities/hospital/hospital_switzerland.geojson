@@ -1205,6 +1205,10 @@
   "type": "Feature",
   "id": "relation/9056474",
   "properties": {
+    "addr:city": "Bern",
+    "addr:housenumber": "15",
+    "addr:postcode": "3010",
+    "addr:street": "Freiburgstrasse",
     "amenity": "hospital",
     "contact:phone": "+41 316322111",
     "contact:website": "http://www.kinderkliniken.insel.ch/",
@@ -6017,7 +6021,12 @@
   "type": "Feature",
   "id": "way/46162650",
   "properties": {
+    "addr:city": "Laupen",
+    "addr:housenumber": "12",
+    "addr:postcode": "3177",
+    "addr:street": "Krankenhausweg",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Betagtenzentrum Laupen",
     "id": "way/46162650"
   },
@@ -21199,6 +21208,10 @@
   "type": "Feature",
   "id": "way/317800156",
   "properties": {
+    "addr:city": "Bern",
+    "addr:housenumber": "18",
+    "addr:postcode": "3010",
+    "addr:street": "Freiburgstrasse",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
@@ -32593,6 +32606,10 @@
   "type": "Feature",
   "id": "way/675442483",
   "properties": {
+    "addr:city": "Belp",
+    "addr:housenumber": "89/91",
+    "addr:postcode": "3123",
+    "addr:street": "Seftigenstrasse",
     "amenity": "hospital",
     "emergency": "no",
     "name": "Spital und Altersheim Belp",
@@ -43422,6 +43439,61 @@
 },
 {
   "type": "Feature",
+  "id": "way/803306027",
+  "properties": {
+    "addr:city": "Avenches",
+    "addr:housenumber": "5b",
+    "addr:postcode": "1580",
+    "addr:street": "Route du Pré-Vert",
+    "amenity": "clinic",
+    "building": "healthcare",
+    "building:levels": "3",
+    "facebook": "PoleSanteAvenchois",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general;physiotherapy;osteopathy;radiology",
+    "name": "Pôle de Santé Avenchois",
+    "smoking": "no",
+    "wheelchair": "yes",
+    "id": "way/803306027"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.0448767,
+          46.8858767
+        ],
+        [
+          7.0447919,
+          46.8857998
+        ],
+        [
+          7.0447404,
+          46.8857608
+        ],
+        [
+          7.0450532,
+          46.8855889
+        ],
+        [
+          7.0451895,
+          46.8857048
+        ],
+        [
+          7.0450526,
+          46.8857801
+        ],
+        [
+          7.0448767,
+          46.8858767
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/807693030",
   "properties": {
     "amenity": "hospital",
@@ -50523,28 +50595,6 @@
     "coordinates": [
       8.5568696,
       47.362541
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8687983825",
-  "properties": {
-    "addr:city": "Avenches",
-    "addr:housenumber": "5b",
-    "addr:postcode": "1580",
-    "addr:street": "Route du Pré-Vert",
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "healthcare:speciality": "general;physiotherapy;osteopathy;radiology",
-    "name": "Pôle de Santé Avenchois",
-    "id": "node/8687983825"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.0450128,
-      46.8857228
     ]
   }
 },
