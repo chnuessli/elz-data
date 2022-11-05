@@ -28080,6 +28080,8 @@
     "operator": "Sozialdepartement Stadt Zürich",
     "owner": "Immobilien Stadt Zürich (IMMO)",
     "phone": "+41 44 412 89 89",
+    "social_facility": "day_care",
+    "social_facility:for": "child",
     "start_date": "1910..1911",
     "website": "https://www.stadt-zuerich.ch/sd/de/index/familien_kinder_jugendliche/kinderbetreuung/stadteigene_kitas/kinderhaus-entlisberg.html",
     "id": "way/378870043"
@@ -29384,7 +29386,9 @@
   "properties": {
     "amenity": "social_facility",
     "name": "SAW-Siedlung Neubühl",
-    "operator": "Stiftung Alterswohnungen der Stadt Zürich (SAW)",
+    "operator": "Stiftung Alterswohnungen der Stadt Zürich",
+    "operator:short": "SAW",
+    "operator:wikidata": "Q2348865",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "1966",
@@ -31061,10 +31065,9 @@
   "id": "way/556010513",
   "properties": {
     "amenity": "social_facility",
-    "fixme": "Das ist wahrscheinlich hauptsächlich eine Kita mit zusätzlichen Angeboten wie z.B. Betreuung in den Krisenfallen.",
     "name": "Kinderhaus Entlisberg",
     "operator": "Stadt Zürich, Sozialdepartement",
-    "social_facility": "group_home",
+    "social_facility": "day_care",
     "social_facility:for": "child",
     "survey:date": "2020-05-21",
     "website": "https://www.stadt-zuerich.ch/sd/de/index/familien_kinder_jugendliche/kinderbetreuung/stadteigene_kitas/kinderhaus-entlisberg.html",

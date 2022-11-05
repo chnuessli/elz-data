@@ -27486,6 +27486,146 @@
 },
 {
   "type": "Feature",
+  "id": "way/256046323",
+  "properties": {
+    "addr:city": "Neunkirch",
+    "addr:housenumber": "1",
+    "addr:postcode": "8213",
+    "addr:street": "Hintergasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Alters- und Pflegeheim Haus im Winkel",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.casavivachlaeggi.ch/casaviva-hausimwinkel-neunkirch",
+    "id": "way/256046323"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5007887,
+          47.6898495
+        ],
+        [
+          8.5008259,
+          47.6898515
+        ],
+        [
+          8.5008259,
+          47.6898457
+        ],
+        [
+          8.5008412,
+          47.6898397
+        ],
+        [
+          8.5009523,
+          47.6898463
+        ],
+        [
+          8.5009568,
+          47.689809
+        ],
+        [
+          8.5010723,
+          47.6898164
+        ],
+        [
+          8.5010551,
+          47.6900364
+        ],
+        [
+          8.5010518,
+          47.6900442
+        ],
+        [
+          8.5010134,
+          47.6900428
+        ],
+        [
+          8.5010117,
+          47.6900551
+        ],
+        [
+          8.5009777,
+          47.6900539
+        ],
+        [
+          8.5009534,
+          47.6903059
+        ],
+        [
+          8.5009395,
+          47.6903057
+        ],
+        [
+          8.5009387,
+          47.690324
+        ],
+        [
+          8.5009091,
+          47.690322
+        ],
+        [
+          8.50091,
+          47.6902984
+        ],
+        [
+          8.500858,
+          47.6902972
+        ],
+        [
+          8.5008657,
+          47.6902228
+        ],
+        [
+          8.5008054,
+          47.6902185
+        ],
+        [
+          8.5008127,
+          47.6901271
+        ],
+        [
+          8.5008074,
+          47.690127
+        ],
+        [
+          8.5008186,
+          47.6900203
+        ],
+        [
+          8.5008113,
+          47.6900203
+        ],
+        [
+          8.5008137,
+          47.6899964
+        ],
+        [
+          8.5008196,
+          47.6899969
+        ],
+        [
+          8.5008208,
+          47.6899812
+        ],
+        [
+          8.5007693,
+          47.6899781
+        ],
+        [
+          8.5007887,
+          47.6898495
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/256159062",
   "properties": {
     "addr:city": "Tann",
@@ -27545,6 +27685,7 @@
     "name": "Alters- und Pflegeheim am Buck",
     "social_facility": "group_home",
     "social_facility:for": "senior",
+    "website": "https://www.casavivachlaeggi.ch/casaviva-haus-am-buck-hallau",
     "wheelchair": "yes",
     "id": "way/256181775"
   },
@@ -33597,6 +33738,8 @@
     "operator": "Sozialdepartement Stadt Zürich",
     "owner": "Immobilien Stadt Zürich (IMMO)",
     "phone": "+41 44 412 89 89",
+    "social_facility": "day_care",
+    "social_facility:for": "child",
     "start_date": "1910..1911",
     "website": "https://www.stadt-zuerich.ch/sd/de/index/familien_kinder_jugendliche/kinderbetreuung/stadteigene_kitas/kinderhaus-entlisberg.html",
     "id": "way/378870043"
@@ -35379,7 +35522,9 @@
   "properties": {
     "amenity": "social_facility",
     "name": "SAW-Siedlung Neubühl",
-    "operator": "Stiftung Alterswohnungen der Stadt Zürich (SAW)",
+    "operator": "Stiftung Alterswohnungen der Stadt Zürich",
+    "operator:short": "SAW",
+    "operator:wikidata": "Q2348865",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "1966",
@@ -37056,10 +37201,9 @@
   "id": "way/556010513",
   "properties": {
     "amenity": "social_facility",
-    "fixme": "Das ist wahrscheinlich hauptsächlich eine Kita mit zusätzlichen Angeboten wie z.B. Betreuung in den Krisenfallen.",
     "name": "Kinderhaus Entlisberg",
     "operator": "Stadt Zürich, Sozialdepartement",
-    "social_facility": "group_home",
+    "social_facility": "day_care",
     "social_facility:for": "child",
     "survey:date": "2020-05-21",
     "website": "https://www.stadt-zuerich.ch/sd/de/index/familien_kinder_jugendliche/kinderbetreuung/stadteigene_kitas/kinderhaus-entlisberg.html",
@@ -44983,27 +45127,6 @@
     "coordinates": [
       8.5275498,
       47.3837572
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/3217160382",
-  "properties": {
-    "addr:city": "Neunkirch",
-    "addr:housenumber": "1",
-    "addr:street": "Hintergasse",
-    "amenity": "social_facility",
-    "name": "Alters- und Pflegeheim",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "id": "node/3217160382"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5008687,
-      47.6900044
     ]
   }
 },

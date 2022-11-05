@@ -33104,7 +33104,7 @@
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "through|through|right",
+    "turn:lanes": "through|through|slight_right",
     "id": "way/137477241"
   },
   "geometry": {
@@ -62442,6 +62442,8 @@
   "properties": {
     "avz": "565",
     "cs_dir": "1",
+    "destination:lanes": "San Bernardino;Chur;Zürich-City|San Bernardino;Chur;Zürich-City|Gotthard;Luzern;Zug;Wettswil",
+    "destination:ref:lanes": "A3|A3|A4",
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "3",
@@ -62461,6 +62463,7 @@
     "toll": "yes",
     "tunnel": "yes",
     "tunnel:name": "Aeschertunnel",
+    "turn:lanes": "through|through|slight_right",
     "id": "way/554343279"
   },
   "geometry": {
