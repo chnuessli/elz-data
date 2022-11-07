@@ -18316,7 +18316,9 @@
     "addr:street": "Tödistrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "building:levels": "1",
     "name": "Kindergarten Tödi 1+2",
+    "roof:levels": "0",
     "id": "way/183641274"
   },
   "geometry": {
