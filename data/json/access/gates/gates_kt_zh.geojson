@@ -2535,14 +2535,15 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "locked": "yes",
     "name": "Tor 121",
     "id": "node/94572553"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5277962,
-      47.4816722
+      8.5277915,
+      47.4816793
     ]
   }
 },
@@ -20772,14 +20773,15 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "locked": "yes",
     "name": "Tor 121",
     "id": "node/2458457109"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5276687,
-      47.4816086
+      8.5276677,
+      47.4816175
     ]
   }
 },

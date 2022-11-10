@@ -1697,7 +1697,10 @@
     "addr:street": "Kasinogässchen",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "building:levels": "1",
     "name": "Kindergarten Vordersteig",
+    "roof:levels": "2",
+    "roof:shape": "gambrel",
     "id": "way/218003763"
   },
   "geometry": {
@@ -3370,6 +3373,7 @@
     "addr:postcode": "8214",
     "addr:street": "Gemeindehausplatz",
     "amenity": "kindergarten",
+    "email": "schulbehoerde@schule-gaechlingen.ch",
     "name": "Kindergarten Gächlingen",
     "phone": "+41 52 533 94 82",
     "id": "node/9952658919"

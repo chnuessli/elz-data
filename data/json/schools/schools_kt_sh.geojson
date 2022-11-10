@@ -4625,7 +4625,9 @@
     "addr:street": "Schulstrasse",
     "amenity": "school",
     "building": "school",
+    "email": "schulbehoerde@schule-gaechlingen.ch",
     "name": "Schulhaus Gächlingen",
+    "phone": "+41 52 681 13 77",
     "id": "way/274871388"
   },
   "geometry": {
