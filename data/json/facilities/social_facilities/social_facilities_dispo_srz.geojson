@@ -45390,6 +45390,30 @@
 },
 {
   "type": "Feature",
+  "id": "node/4115297968",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "69",
+    "addr:postcode": "8400",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "social_facility",
+    "name": "Spitex-Zentrum Veltheim",
+    "operator": "Stadt Winterthur",
+    "operator:type": "government",
+    "social_facility": "ambulatory_care",
+    "social_facility:for": "senior;disabled",
+    "id": "node/4115297968"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7226586,
+      47.5092865
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4143671992",
   "properties": {
     "addr:city": "Winterthur",
@@ -51278,6 +51302,54 @@
     "coordinates": [
       8.9090237,
       47.2770172
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10173626304",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "2b",
+    "addr:postcode": "8400",
+    "addr:street": "Scheideggstrasse",
+    "amenity": "social_facility",
+    "name": "Spitex-Zentrum Mattenbach",
+    "operator": "Stadt Winterthur",
+    "operator:type": "government",
+    "social_facility": "ambulatory_care",
+    "social_facility:for": "senior;disabled;mental_health",
+    "id": "node/10173626304"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7495647,
+      47.4910153
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10173626305",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "16a",
+    "addr:postcode": "8400",
+    "addr:street": "Palmstrasse",
+    "amenity": "social_facility",
+    "name": "Spitex-Zentrum Altstadt",
+    "operator": "Stadt Winterthur",
+    "operator:type": "government",
+    "social_facility": "ambulatory_care",
+    "social_facility:for": "senior;disabled",
+    "id": "node/10173626305"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7381769,
+      47.4972665
     ]
   }
 }
