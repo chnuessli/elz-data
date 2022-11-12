@@ -630,27 +630,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9435655864",
-  "properties": {
-    "addr:city": "Hallau",
-    "addr:housenumber": "44",
-    "addr:postcode": "8215",
-    "addr:street": "Hauptstrasse",
-    "description": "Gemeindehaus",
-    "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
-    "id": "node/9435655864"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4597694,
-      47.6975288
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9435655865",
   "properties": {
     "addr:city": "Gächlingen",

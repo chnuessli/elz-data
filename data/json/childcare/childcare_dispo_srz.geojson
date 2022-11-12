@@ -11405,6 +11405,27 @@
       47.3779326
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10175174017",
+  "properties": {
+    "addr:postcode": "6330",
+    "amenity": "childcare",
+    "email": "info@sterndli.ch",
+    "name": "Kita Sterndli",
+    "opening_hours": "Mo-Fr 06:45-18:30",
+    "phone": "+41417803388",
+    "website": "https://www.sterndli.ch/",
+    "id": "node/10175174017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4536797,
+      47.1966836
+    ]
+  }
 }
 ]
 }
