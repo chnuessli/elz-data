@@ -10849,6 +10849,25 @@
       47.3779326
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10178154193",
+  "properties": {
+    "amenity": "childcare",
+    "level": "1",
+    "name": "Kinderkrippe Blüemli",
+    "opening_hours": "Mo-Fr 07:00-18:30",
+    "website": "https://kitabluemli.ch/",
+    "id": "node/10178154193"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5859386,
+      47.3585856
+    ]
+  }
 }
 ]
 }
