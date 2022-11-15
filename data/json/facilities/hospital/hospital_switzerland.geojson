@@ -5469,6 +5469,7 @@
     "addr:city": "Luzern 16",
     "addr:postcode": "6000",
     "addr:street": "Spitalstrasse",
+    "alt_name": "Kantonsspital Luzern",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
@@ -23584,10 +23585,11 @@
     "addr:housenumber": "34",
     "addr:postcode": "7500",
     "addr:street": "Via Arona",
-    "amenity": "clinic",
+    "alt_name": "Klinik Gut St. Moritz",
+    "amenity": "hospital",
     "building": "hospital",
-    "healthcare": "clinic",
-    "name": "Klinik Gut St. Moritz",
+    "healthcare": "hospital",
+    "name": "Klinik Gut",
     "website": "https://www.klinik-gut.ch/",
     "id": "way/441570578"
   },
@@ -48149,7 +48151,7 @@
   "properties": {
     "amenity": "clinic",
     "healthcare": "clinic",
-    "name": "Permanence PMU-Flon",
+    "name": "Permanence Unisanté du Flon",
     "opening_hours": "Mo-Sa 07:00-21:00; PH,Su 09:00-19:00",
     "operator": "Policlinique médicale et universitaire",
     "id": "node/4179099318"

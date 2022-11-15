@@ -2189,6 +2189,7 @@
   "id": "way/268146981",
   "properties": {
     "aeroway": "helipad",
+    "location": "roof",
     "id": "way/268146981"
   },
   "geometry": {
@@ -13461,22 +13462,6 @@
     "coordinates": [
       9.1221717,
       46.5777621
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2396211929",
-  "properties": {
-    "aeroway": "helipad",
-    "source": "bing",
-    "id": "node/2396211929"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      9.1850044,
-      46.6248838
     ]
   }
 },

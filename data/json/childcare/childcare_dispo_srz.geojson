@@ -6653,6 +6653,7 @@
   "id": "node/7984505741",
   "properties": {
     "amenity": "childcare",
+    "level": "0",
     "name": "Kita Spitzacker",
     "opening_hours": "Mo-Fr 07:00-18:30",
     "website": "https://www.huetiberg.ch/krippe-spitzacker-urdorf/",

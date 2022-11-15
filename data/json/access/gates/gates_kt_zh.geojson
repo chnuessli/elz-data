@@ -18452,13 +18452,14 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "name": "Tor 110",
     "id": "node/2320035362"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5645447,
-      47.4637006
+      8.5645489,
+      47.4637076
     ]
   }
 },
@@ -65495,6 +65496,21 @@
     "coordinates": [
       8.7394455,
       47.2752934
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10184018878",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/10184018878"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4254678,
+      47.3472284
     ]
   }
 }
