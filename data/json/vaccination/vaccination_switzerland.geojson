@@ -694,24 +694,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8440808929",
-  "properties": {
-    "healthcare": "centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum KSB",
-    "vaccination": "covid19",
-    "id": "node/8440808929"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.2211168,
-      47.4824844
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8477983050",
   "properties": {
     "addr:city": "Uster",

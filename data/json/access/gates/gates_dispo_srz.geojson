@@ -1631,28 +1631,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/676521332",
-  "properties": {
-    "barrier": "gate",
-    "height": "4",
-    "id": "way/676521332"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.5715779,
-        47.4582911
-      ],
-      [
-        8.5715262,
-        47.458263
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/678342743",
   "properties": {
     "barrier": "gate",
@@ -4210,7 +4188,7 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
-    "name": "124.1",
+    "name": "Tor 124.1",
     "id": "node/290670376"
   },
   "geometry": {
@@ -5809,7 +5787,7 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "name": "125",
+    "name": "Tor 125",
     "id": "node/388213380"
   },
   "geometry": {
@@ -18024,24 +18002,6 @@
     "coordinates": [
       8.7793327,
       47.5420187
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1750111396",
-  "properties": {
-    "access": "no",
-    "barrier": "gate",
-    "emergency:access": "no",
-    "name": "Tor 110",
-    "id": "node/1750111396"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5700681,
-      47.4588829
     ]
   }
 },
@@ -50790,6 +50750,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/5955236155",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "name": "Tor 109.3",
+    "id": "node/5955236155"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5715495,
+      47.4582795
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/5959747722",
   "properties": {
     "barrier": "gate",
@@ -51743,7 +51720,7 @@
     "barrier": "gate",
     "emergency": "no",
     "emergency:access": "no",
-    "name": "126",
+    "name": "Tor 126",
     "id": "node/6359065516"
   },
   "geometry": {
@@ -75830,7 +75807,7 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
-    "name": "124",
+    "name": "Tor 124",
     "id": "node/10128226627"
   },
   "geometry": {
@@ -76003,6 +75980,23 @@
     "coordinates": [
       8.4254678,
       47.3472284
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10188921896",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "name": "REGA (Bach)",
+    "id": "node/10188921896"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5725156,
+      47.4578212
     ]
   }
 }
