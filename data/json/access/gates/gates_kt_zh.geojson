@@ -2774,13 +2774,14 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "name": "Tor 109",
     "id": "node/118097934"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5754636,
-      47.4556877
+      8.5754664,
+      47.4556845
     ]
   }
 },
@@ -61331,7 +61332,7 @@
     "type": "Point",
     "coordinates": [
       8.5720227,
-      47.4538227
+      47.453822
     ]
   }
 },
