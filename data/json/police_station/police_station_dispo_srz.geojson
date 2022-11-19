@@ -2401,31 +2401,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1528087936",
-  "properties": {
-    "addr:city": "Seuzach",
-    "addr:housenumber": "50",
-    "addr:postcode": "8472",
-    "addr:street": "Stationsstrasse",
-    "alt_name": "Kapo",
-    "amenity": "police",
-    "name": "Polizeiposten Seuzach",
-    "operator": "Kantonspolizei Zürich",
-    "operator:wikidata": "Q1728099",
-    "operator:wikipedia": "de:Kantonspolizei Zürich",
-    "phone": "+41 52 320 04 04",
-    "id": "node/1528087936"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7387977,
-      47.5353769
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1683181161",
   "properties": {
     "addr:city": "Dietikon",
@@ -4611,6 +4586,31 @@
     "coordinates": [
       8.5276312,
       47.3126673
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10199636331",
+  "properties": {
+    "addr:city": "Seuzach",
+    "addr:housenumber": "11",
+    "addr:postcode": "8472",
+    "addr:street": "Stationsstrasse",
+    "alt_name": "Kapo Seuzach",
+    "amenity": "police",
+    "name": "Polizeiposten Seuzach",
+    "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
+    "phone": "+41 52 320 04 04",
+    "id": "node/10199636331"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7319757,
+      47.5366752
     ]
   }
 }

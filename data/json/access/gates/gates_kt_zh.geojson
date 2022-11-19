@@ -37232,8 +37232,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5000377,
-      47.3583639
+      8.5000447,
+      47.3583654
     ]
   }
 },
@@ -45626,13 +45626,14 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "name": "Tor 141.1",
     "id": "node/6542676481"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5633618,
-      47.4397612
+      8.5633623,
+      47.4397615
     ]
   }
 },

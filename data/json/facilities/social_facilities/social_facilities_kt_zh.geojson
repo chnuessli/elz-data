@@ -42724,6 +42724,31 @@
       47.3532157
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10199668772",
+  "properties": {
+    "addr:city": "Bülach",
+    "addr:housenumber": "4",
+    "addr:postcode": "8180",
+    "addr:street": "Glasistrasse",
+    "alt_name": "Altersheim Glasi;Pflegeheim Glasi",
+    "amenity": "social_facility",
+    "email": "glasi@tertianum.ch",
+    "name": "Tertianum Glasi",
+    "phone": "+41 44 572 30 30",
+    "social_facility": "assisted_living",
+    "website": "https://www.tertianum.ch/de/tertianum-glasi-buelach_url-correct",
+    "id": "node/10199668772"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5355181,
+      47.5264986
+    ]
+  }
 }
 ]
 }
