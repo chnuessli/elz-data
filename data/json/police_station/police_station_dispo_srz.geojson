@@ -438,56 +438,71 @@
 },
 {
   "type": "Feature",
-  "id": "way/45585838",
+  "id": "way/46138483",
   "properties": {
-    "addr:housenumber": "105",
-    "addr:street": "Stationsstrasse",
+    "addr:city": "Embrach",
+    "addr:housenumber": "3",
+    "addr:postcode": "8424",
+    "addr:street": "Lochackerstrasse",
     "amenity": "police",
     "building": "yes",
     "name": "Polizeiposten Embrach",
     "operator": "Kantonspolizei Zürich",
-    "source": "Yahoo aerial images",
-    "id": "way/45585838"
+    "operator:wikidata": "Q1728099",
+    "phone": "+41 44 866 40 60",
+    "id": "way/46138483"
   },
   "geometry": {
     "type": "Polygon",
     "coordinates": [
       [
         [
-          8.5875252,
-          47.5193097
+          8.593152,
+          47.5179895
         ],
         [
-          8.5875351,
-          47.5192158
+          8.5931154,
+          47.5176109
         ],
         [
-          8.587768,
-          47.5192264
+          8.5930404,
+          47.5168655
         ],
         [
-          8.587767,
-          47.5192369
+          8.5930993,
+          47.5167801
         ],
         [
-          8.5877745,
-          47.5192372
+          8.5936028,
+          47.5168834
         ],
         [
-          8.5877729,
-          47.5192532
+          8.5936142,
+          47.5170009
         ],
         [
-          8.5877655,
-          47.5192529
+          8.5936889,
+          47.5175095
         ],
         [
-          8.5877591,
-          47.5193196
+          8.5937074,
+          47.5176231
         ],
         [
-          8.5875252,
-          47.5193097
+          8.5936888,
+          47.5177709
+        ],
+        [
+          8.5937098,
+          47.5179378
+        ],
+        [
+          8.5934309,
+          47.5179636
+        ],
+        [
+          8.593152,
+          47.5179895
         ]
       ]
     ]
@@ -4190,30 +4205,6 @@
     "coordinates": [
       8.6208267,
       47.423453
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9512669523",
-  "properties": {
-    "addr:city": "Embrach",
-    "addr:housenumber": "105",
-    "addr:postcode": "8424",
-    "addr:street": "Stationsstrasse",
-    "amenity": "police",
-    "name": "Polizeiposten Embrach",
-    "operator": "Kantonspolizei Zürich",
-    "operator:wikidata": "Q1728099",
-    "operator:wikipedia": "de:Kantonspolizei Zürich",
-    "phone": "+41 44 866 40 60",
-    "id": "node/9512669523"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5876985,
-      47.5192643
     ]
   }
 },

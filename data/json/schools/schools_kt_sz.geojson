@@ -6862,8 +6862,8 @@
   "properties": {
     "addr:city": "Steinen",
     "addr:housenumber": "7",
+    "addr:place": "Schulanlage",
     "addr:postcode": "6422",
-    "addr:street": "Schulanlage",
     "amenity": "school",
     "building": "school",
     "name": "Aula Steinen",
