@@ -16754,7 +16754,15 @@
   "id": "way/549674260",
   "properties": {
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "120",
+    "contact:postcode": "8047",
+    "contact:street": "Flurstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/hbd/de/index/hochbau/bauten/bauten-realisiert/schulanlage-freilager.html",
+    "description": "Primarschule",
     "name": "Schule Freilager",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Bachtobel",
+    "operator:type": "public",
     "start_date": "2022-08-22",
     "id": "way/549674260"
   },
@@ -18727,6 +18735,48 @@
         [
           8.5266573,
           47.3689944
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/931857906",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "120",
+    "addr:postcode": "8047",
+    "addr:street": "Flurstrasse",
+    "amenity": "school",
+    "building": "school",
+    "isced:level": "1",
+    "name": "Schulhaus Freilager",
+    "id": "way/931857906"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4872255,
+          47.3795165
+        ],
+        [
+          8.4867159,
+          47.3791133
+        ],
+        [
+          8.4873131,
+          47.3787672
+        ],
+        [
+          8.4878227,
+          47.3791704
+        ],
+        [
+          8.4872255,
+          47.3795165
         ]
       ]
     ]

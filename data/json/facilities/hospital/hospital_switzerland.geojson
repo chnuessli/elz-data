@@ -6055,6 +6055,10 @@
           47.1202173
         ],
         [
+          9.3117962,
+          47.1207702
+        ],
+        [
           9.3119701,
           47.121041
         ],
@@ -6065,6 +6069,10 @@
         [
           9.3114734,
           47.1211909
+        ],
+        [
+          9.3111946,
+          47.1212753
         ],
         [
           9.3111684,
@@ -41529,20 +41537,19 @@
   "type": "Feature",
   "id": "way/681554155",
   "properties": {
-    "addr:city": "Bern",
-    "addr:country": "CH",
-    "addr:housenumber": "111",
-    "addr:postcode": "3060",
-    "addr:street": "Bolligenstrasse",
+    "alt_name": "Waldau",
     "amenity": "hospital",
-    "contact:email": "info.upd@gef.be.ch",
-    "contact:fax": "+41 31 930 94 04",
-    "contact:phone": "+41 31 930 91 11",
+    "email": "info@upd.ch",
     "healthcare": "hospital",
     "healthcare:speciality": "psychiatry",
-    "name": "UPD - Universitäre Psychiatrische Dienste Bern",
+    "image": "https://commons.wikimedia.org/wiki/Category:Heil-_und_Pflegeanstalt_Waldau_%28Bern%29",
+    "name": "Universitäre Psychiatrische Dienste Bern",
+    "phone": "+41 31 930 91 11",
+    "place": "locality",
     "short_name": "UPD",
-    "website": "https://www.upd.ch/de/",
+    "website": "https://www.upd.ch/",
+    "wikidata": "Q30254073",
+    "wikipedia": "de:Universitäre Psychiatrische Dienste Bern",
     "id": "way/681554155"
   },
   "geometry": {
@@ -51749,6 +51756,22 @@
     "coordinates": [
       6.9353695,
       46.8191697
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10212544712",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "id": "node/10212544712"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.256669,
+      47.4435301
     ]
   }
 }

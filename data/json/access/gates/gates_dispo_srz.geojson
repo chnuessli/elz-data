@@ -3106,6 +3106,7 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "locked": "yes",
     "name": "Tor 109",
     "id": "node/118097934"
   },
@@ -4141,8 +4142,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5512857,
-      47.4444966
+      8.5513376,
+      47.4444433
     ]
   }
 },
@@ -4171,6 +4172,7 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "locked": "yes",
     "name": "Tor 120",
     "id": "node/290658341"
   },
@@ -4189,6 +4191,7 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "locked": "yes",
     "name": "Tor 124.1",
     "id": "node/290670376"
   },
@@ -4923,6 +4926,7 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "locked": "yes",
     "name": "Tor 112",
     "id": "node/321475148"
   },
@@ -4972,6 +4976,7 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "locked": "yes",
     "name": "Tor 113",
     "id": "node/321594744"
   },
@@ -5788,6 +5793,7 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
+    "locked": "yes",
     "name": "Tor 125",
     "id": "node/388213380"
   },
@@ -8430,6 +8436,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/599447590",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "node/599447590"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6547568,
+      47.4670285
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/599726548",
   "properties": {
     "barrier": "gate",
@@ -8830,51 +8853,6 @@
     "coordinates": [
       8.5442583,
       47.3760114
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/656346831",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/656346831"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6496706,
-      47.466319
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/656346854",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/656346854"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.649691,
-      47.4665203
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/656346888",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/656346888"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6544592,
-      47.4670113
     ]
   }
 },
@@ -23178,6 +23156,7 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "locked": "yes",
     "name": "Tor 110",
     "id": "node/2320035362"
   },
@@ -23196,6 +23175,7 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "locked": "yes",
     "name": "Tor 111",
     "id": "node/2320035479"
   },
@@ -23214,6 +23194,7 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "locked": "yes",
     "name": "Tor 112.1",
     "id": "node/2320035523"
   },
@@ -23627,9 +23608,11 @@
   "id": "node/2372294565",
   "properties": {
     "access": "no",
-    "barrier": "gate",
+    "barrier": "lift_gate",
     "emergency": "no",
     "emergency:access": "no",
+    "locked": "yes",
+    "name": "Tor 105",
     "id": "node/2372294565"
   },
   "geometry": {
@@ -37730,8 +37713,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5513614,
-      47.4435446
+      8.5513125,
+      47.4435547
     ]
   }
 },
@@ -50750,6 +50733,7 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
+    "locked": "yes",
     "name": "Tor 109.3",
     "id": "node/5955236155"
   },
@@ -51712,10 +51696,10 @@
   "type": "Feature",
   "id": "node/6359065516",
   "properties": {
-    "access": "private",
+    "access": "no",
     "barrier": "gate",
-    "emergency": "no",
     "emergency:access": "no",
+    "locked": "yes",
     "name": "Tor 126",
     "id": "node/6359065516"
   },
@@ -56531,16 +56515,15 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
-    "foot": "yes",
+    "layer": "0",
     "level": "0",
     "name": "Tor 104",
-    "vehicle": "no",
     "id": "node/6951189845"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5646919,
+      8.564695,
       47.453803
     ]
   }
@@ -60754,6 +60737,24 @@
     "coordinates": [
       8.5176663,
       47.4237433
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7605529263",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "emergency": "yes",
+    "name": "Tor 130",
+    "id": "node/7605529263"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5512603,
+      47.4445545
     ]
   }
 },
@@ -70593,8 +70594,10 @@
   "id": "node/9196328081",
   "properties": {
     "access": "no",
-    "barrier": "gate",
+    "barrier": "lift_gate",
     "emergency:access": "no",
+    "locked": "yes",
+    "name": "Tor 105",
     "id": "node/9196328081"
   },
   "geometry": {
@@ -70612,6 +70615,7 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "locked": "yes",
     "name": "Tor 105",
     "opening_hours": "Mo-Fr 05:00-22:30; Sa 05:00-22:00",
     "vehicle": "no",
@@ -70632,6 +70636,7 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "locked": "yes",
     "name": "Tor 105",
     "opening_hours": "Mo-Fr 05:00-22:30; Sa 05:00-22:00",
     "vehicle": "no",
@@ -75804,6 +75809,7 @@
     "access": "no",
     "barrier": "gate",
     "emergency:access": "no",
+    "locked": "yes",
     "name": "Tor 124",
     "id": "node/10128226627"
   },
@@ -75986,6 +75992,7 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
+    "locked": "yes",
     "name": "REGA (Bach)",
     "id": "node/10188921896"
   },
@@ -76080,6 +76087,165 @@
     "coordinates": [
       8.5612427,
       47.4398591
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10211513473",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "emergency": "yes",
+    "name": "Tor 130",
+    "id": "node/10211513473"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5513043,
+      47.4444912
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10211513482",
+  "properties": {
+    "barrier": "lift_gate",
+    "id": "node/10211513482"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5513864,
+      47.4435411
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10211643875",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "name": "Tor 130.1",
+    "id": "node/10211643875"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5511101,
+      47.4445802
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10211873110",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/10211873110"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6496706,
+      47.466319
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10211873111",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/10211873111"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6496706,
+      47.466319
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10211873114",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/10211873114"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.649691,
+      47.4665203
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10211873115",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/10211873115"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.649691,
+      47.4665203
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10211873116",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/10211873116"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.649691,
+      47.4665203
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10211937937",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "id": "node/10211937937"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6509721,
+      47.466089
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10212087155",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "emergency:access": "no",
+    "name": "Tor 103",
+    "id": "node/10212087155"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5622209,
+      47.4533256
     ]
   }
 }
