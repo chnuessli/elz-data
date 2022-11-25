@@ -51774,6 +51774,58 @@
       47.4435301
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10215653415",
+  "properties": {
+    "addr:city": "Biel/Bienne",
+    "addr:city:de": "Biel",
+    "addr:city:fr": "Bienne",
+    "addr:postcode": "2501",
+    "addr:street": "Chante-Merle / Vogelsang",
+    "addr:street:de": "Vogelsang",
+    "addr:street:fr": "Chante-Merle",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "psychiatry",
+    "name": "Kriseninterventionsstation Biel KIB",
+    "name:de": "Kriseninterventionsstation Biel KIB",
+    "id": "node/10215653415"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2423892,
+      47.1477953
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10215653416",
+  "properties": {
+    "addr:city": "Biel/Bienne",
+    "addr:city:de": "Biel",
+    "addr:city:fr": "Bienne",
+    "addr:postcode": "2501",
+    "addr:street": "Chante-Merle / Vogelsang",
+    "addr:street:de": "Vogelsang",
+    "addr:street:fr": "Chante-Merle",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "psychiatry",
+    "name": "Psychiatrie Biel/Bienne Ambulatorium",
+    "name:de": "Psychiatrie Biel/Bienne Ambulatorium",
+    "id": "node/10215653416"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2424304,
+      47.147821
+    ]
+  }
 }
 ]
 }
