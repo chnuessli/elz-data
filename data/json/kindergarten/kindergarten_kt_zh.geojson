@@ -21432,49 +21432,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/241099674",
-  "properties": {
-    "addr:city": "Nänikon",
-    "addr:country": "CH",
-    "addr:housenumber": "7",
-    "addr:postcode": "8606",
-    "addr:street": "Mettmenriedstrasse",
-    "amenity": "kindergarten",
-    "building": "apartments",
-    "name": "Kindergarten Mettmenried",
-    "phone": "+41 44 942 18 58",
-    "id": "way/241099674"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6846896,
-          47.3691693
-        ],
-        [
-          8.6845433,
-          47.3692749
-        ],
-        [
-          8.6844014,
-          47.3691846
-        ],
-        [
-          8.6845477,
-          47.3690791
-        ],
-        [
-          8.6846896,
-          47.3691693
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/241657000",
   "properties": {
     "addr:city": "Greifensee",
@@ -34050,6 +34007,46 @@
         [
           8.7099157,
           47.2036416
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1117243200",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Mettmenried",
+    "id": "way/1117243200"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6844777,
+          47.3692726
+        ],
+        [
+          8.6842611,
+          47.3694233
+        ],
+        [
+          8.6840969,
+          47.3693152
+        ],
+        [
+          8.6840602,
+          47.3692909
+        ],
+        [
+          8.6842768,
+          47.3691402
+        ],
+        [
+          8.6844777,
+          47.3692726
         ]
       ]
     ]

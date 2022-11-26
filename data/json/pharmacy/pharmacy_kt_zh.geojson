@@ -4800,6 +4800,8 @@
     "amenity": "pharmacy",
     "branch": "Winterthur Grüze Markt",
     "brand": "Coop Vitality",
+    "brand:wikidata": "Q111725297",
+    "dispensing": "yes",
     "healthcare": "pharmacy",
     "name": "Coop Vitality",
     "opening_hours": "Mo-Sa 08:00-20:00; PH off",
@@ -4810,8 +4812,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7579491,
-      47.4948695
+      8.7580637,
+      47.4951245
     ]
   }
 },
