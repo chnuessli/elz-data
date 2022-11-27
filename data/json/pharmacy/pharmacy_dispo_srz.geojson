@@ -6231,8 +6231,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.499074,
-      47.3860816
+      8.4990872,
+      47.3860955
     ]
   }
 },
@@ -7689,22 +7689,27 @@
   "id": "node/7911928973",
   "properties": {
     "addr:city": "Neuhausen",
-    "addr:housenumber": "49",
+    "addr:housenumber": "55",
     "addr:postcode": "8212",
     "addr:street": "Zentralstrasse",
     "amenity": "pharmacy",
     "check_date:opening_hours": "2022-06-24",
+    "dispensing": "yes",
+    "email": "imdorf@volksapotheke.ch",
     "healthcare": "pharmacy",
-    "name": "Volksapotheke",
+    "name": "Volksapotheke im Dorf",
     "opening_hours": "Mo-Fr 08:00-18:30, Sa 08:00-16:00",
+    "operator": "Volksapotheke",
+    "phone": "+41 52 674 01 20",
+    "website": "https://volksapotheke.ch/im_dorf",
     "wheelchair": "yes",
     "id": "node/7911928973"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6199022,
-      47.6819475
+      8.6202107,
+      47.6821128
     ]
   }
 },
