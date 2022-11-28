@@ -459,6 +459,33 @@
       47.167642
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10221155923",
+  "properties": {
+    "addr:housenumber": "31",
+    "addr:street": "Sonneggstrasse",
+    "amenity": "clinic",
+    "check_date": "2022-11-27",
+    "email": "info@spitex-arth-goldau.ch",
+    "healthcare": "clinic",
+    "name": "Spitex Regio Arth-Goldau",
+    "operator:type": "private",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 41 859 14 00",
+    "website": "https://www.spitex-arth-goldau.ch/",
+    "wheelchair": "yes",
+    "id": "node/10221155923"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5489096,
+      47.0454326
+    ]
+  }
 }
 ]
 }
