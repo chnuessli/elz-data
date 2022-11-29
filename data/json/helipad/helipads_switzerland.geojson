@@ -14796,6 +14796,23 @@
       46.0227522
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10223287208",
+  "properties": {
+    "aeroway": "helipad",
+    "emergency": "landing_site",
+    "surface": "grass",
+    "id": "node/10223287208"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0279239,
+      46.2745304
+    ]
+  }
 }
 ]
 }
