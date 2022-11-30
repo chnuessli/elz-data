@@ -6710,8 +6710,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5350252,
-      47.3549127
+      8.5350231,
+      47.3549142
     ]
   }
 },
@@ -76421,6 +76421,109 @@
     "coordinates": [
       8.424268,
       47.1016055
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10225348481",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/10225348481"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7566618,
+      47.2768258
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10225461564",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/10225461564"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7568014,
+      47.2758536
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10225461565",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/10225461565"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.756736,
+      47.2762943
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10225663969",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "locked": "yes",
+    "name": "Tor 123",
+    "id": "node/10225663969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5329623,
+      47.4749767
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10225781497",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "locked": "yes",
+    "name": "Tor 123.1",
+    "id": "node/10225781497"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5339734,
+      47.4754618
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10225817501",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "locked": "yes",
+    "name": "Tor 142",
+    "id": "node/10225817501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5657054,
+      47.4480963
     ]
   }
 }
