@@ -70431,7 +70431,7 @@
   "id": "node/9192923140",
   "properties": {
     "access": "private",
-    "barrier": "lift_gate",
+    "barrier": "gate",
     "designation": "Gate 101",
     "emergency": "yes",
     "lift_gate:type": "single",
@@ -76524,6 +76524,51 @@
     "coordinates": [
       8.5657054,
       47.4480963
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10229412760",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/10229412760"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5500967,
+      47.3561182
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10229412775",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/10229412775"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5502188,
+      47.3561631
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10231801301",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/10231801301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5401518,
+      47.3661942
     ]
   }
 }
