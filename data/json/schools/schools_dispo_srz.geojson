@@ -83032,8 +83032,8 @@
   "properties": {
     "addr:city": "Muotathal",
     "addr:housenumber": "3",
+    "addr:place": "Stumpenmatt",
     "addr:postcode": "6436",
-    "addr:street": "Stumpenmatt",
     "amenity": "school",
     "building": "school",
     "name": "Stumpenmatt",
@@ -122200,8 +122200,8 @@
   "properties": {
     "addr:city": "Muotathal",
     "addr:housenumber": "1",
+    "addr:place": "Stumpenmatt",
     "addr:postcode": "6436",
-    "addr:street": "Stumpenmatt",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Muota",
