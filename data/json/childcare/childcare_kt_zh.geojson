@@ -10870,6 +10870,30 @@
       47.3585856
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10244957922",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "133/135",
+    "addr:postcode": "8406",
+    "addr:street": "Zürcherstrasse",
+    "amenity": "childcare",
+    "name": "Kinderkrippe Krümel",
+    "opening_hours": "Mo-Fr 07:00-18:30",
+    "operator": "Kinderkrippe Krümel AG",
+    "operator:type": "private",
+    "website": "https://www.kinderkrippe-kruemel.ch/",
+    "id": "node/10244957922"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7062057,
+      47.4909646
+    ]
+  }
 }
 ]
 }
