@@ -11138,6 +11138,102 @@
 },
 {
   "type": "Feature",
+  "id": "way/96293676",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "11",
+    "addr:postcode": "8810",
+    "addr:street": "Amalie Widmerstrasse",
+    "alt_name": "Stiftung Amalie Widmer",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "building:levels": "5",
+    "email": "info@sawh.ch",
+    "name": "Widmerheim Pflege und Betreuung",
+    "phone": "+41 43 336 44 44",
+    "social_facility": "assisted_living",
+    "source": "bing sat",
+    "website": "https://www.sawh.ch/home",
+    "id": "way/96293676"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5843272,
+          47.2682489
+        ],
+        [
+          8.5842409,
+          47.2681609
+        ],
+        [
+          8.5843016,
+          47.2680973
+        ],
+        [
+          8.5840908,
+          47.2679986
+        ],
+        [
+          8.58405,
+          47.2680013
+        ],
+        [
+          8.5840181,
+          47.2678881
+        ],
+        [
+          8.5840404,
+          47.2678847
+        ],
+        [
+          8.5841969,
+          47.2678613
+        ],
+        [
+          8.5844843,
+          47.2678182
+        ],
+        [
+          8.5844902,
+          47.2678469
+        ],
+        [
+          8.5845036,
+          47.2679127
+        ],
+        [
+          8.5845128,
+          47.2679576
+        ],
+        [
+          8.5845187,
+          47.2679864
+        ],
+        [
+          8.5846119,
+          47.2680363
+        ],
+        [
+          8.584426,
+          47.2682299
+        ],
+        [
+          8.5843929,
+          47.268245
+        ],
+        [
+          8.5843272,
+          47.2682489
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/96343736",
   "properties": {
     "addr:city": "Pfäffikon ZH",
@@ -11523,6 +11619,10 @@
         [
           8.5886338,
           47.2635501
+        ],
+        [
+          8.588617,
+          47.2635622
         ],
         [
           8.5886002,
@@ -14969,24 +15069,36 @@
     "coordinates": [
       [
         [
-          8.7611292,
-          47.2811713
+          8.7611378,
+          47.2811581
         ],
         [
-          8.7611308,
-          47.2812593
+          8.7611388,
+          47.2812622
         ],
         [
-          8.7610231,
-          47.2812602
+          8.7611389,
+          47.2812751
         ],
         [
-          8.7610215,
-          47.2811723
+          8.7610853,
+          47.2812753
         ],
         [
-          8.7611292,
-          47.2811713
+          8.7610852,
+          47.2812632
+        ],
+        [
+          8.7610221,
+          47.2812634
+        ],
+        [
+          8.7610211,
+          47.2811586
+        ],
+        [
+          8.7611378,
+          47.2811581
         ]
       ]
     ]
@@ -39123,7 +39235,7 @@
   "id": "way/662283284",
   "properties": {
     "amenity": "social_facility",
-    "name": "Widmerheim",
+    "name": "Stiftung Amalie Widmer",
     "operator": "Stiftung Amalie Widmer (SAWH)",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
