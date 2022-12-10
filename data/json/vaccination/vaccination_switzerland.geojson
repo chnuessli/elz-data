@@ -390,6 +390,7 @@
   "id": "way/935533767",
   "properties": {
     "building": "marquee",
+    "building:levels": "1",
     "healthcare": "vaccination_centre",
     "healthcare:speciality": "vaccination",
     "name": "Impfzentrum Bern Insel",

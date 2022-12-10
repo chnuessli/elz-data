@@ -2776,6 +2776,34 @@
 },
 {
   "type": "Feature",
+  "id": "node/936942686",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8004",
+    "addr:street": "Badenerstrasse",
+    "alt_name": "Coop Vitality Stauffacher",
+    "amenity": "pharmacy",
+    "branch": "Zürich Stauffacher",
+    "brand": "Coop Vitality",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Coop Vitality",
+    "opening_hours": "Mo-Sa 08:00-20:00; PH unknown",
+    "wheelchair": "yes",
+    "id": "node/936942686"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5304688,
+      47.3734534
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/943868646",
   "properties": {
     "addr:city": "Zürich",
@@ -4695,34 +4723,6 @@
     "coordinates": [
       8.848725,
       47.2585757
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/3806510697",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "12",
-    "addr:postcode": "8048",
-    "addr:street": "Altstetterplatz",
-    "amenity": "pharmacy",
-    "branch": "Zürich Altstetten",
-    "brand": "Amavita",
-    "check_date:opening_hours": "2022-09-25",
-    "name": "Amavita Altstetten",
-    "opening_hours": "Mo-Fr 07:00-20:00; Sa 09:00-14:00",
-    "operator": "GaleniCare",
-    "phone": "+41 58 851 32 71",
-    "website": "https://www.amavita.ch/de/amavita-apotheke-altstetten",
-    "id": "node/3806510697"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.489244,
-      47.3912927
     ]
   }
 },

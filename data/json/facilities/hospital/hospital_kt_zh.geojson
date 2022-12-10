@@ -5633,6 +5633,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "orthopaedics;rheumatology",
     "name": "Universitätsklinik Balgrist",
+    "opening_hours": "PH,Mo-Su 00:00-24:00",
     "operator": "Schweizerischer Verein Balgrist",
     "short_name": "Balgrist",
     "source:history": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
