@@ -51818,6 +51818,23 @@
       47.0454326
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10251141087",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Ärztehaus Gossau",
+    "id": "node/10251141087"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.263895,
+      47.4162565
+    ]
+  }
 }
 ]
 }
