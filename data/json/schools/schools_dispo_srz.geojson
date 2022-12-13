@@ -65458,7 +65458,9 @@
     "addr:postcode": "8610",
     "addr:street": "Krämerackerstrasse",
     "amenity": "school",
-    "name": "Kantonsschule Uster (Provisorium)",
+    "name": "Bildungszentrum Uster BZU",
+    "operator": "Kanton Zürich",
+    "website": "https://www.bzu.ch/",
     "id": "way/208975048"
   },
   "geometry": {
@@ -105584,12 +105586,12 @@
     "coordinates": [
       [
         [
-          8.565999,
-          47.381143
+          8.5666228,
+          47.3809311
         ],
         [
-          8.5663721,
-          47.3816501
+          8.56699,
+          47.3814497
         ],
         [
           8.566393,
@@ -105636,8 +105638,8 @@
           47.3811965
         ],
         [
-          8.565999,
-          47.381143
+          8.5666228,
+          47.3809311
         ]
       ]
     ]

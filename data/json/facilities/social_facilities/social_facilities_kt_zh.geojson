@@ -20259,6 +20259,7 @@
     "building": "yes",
     "name": "Flora Dora Beratungsstelle für Sexarbeitende",
     "operator": "Stadt Zürich",
+    "operator:type": "public",
     "social_facility": "outreach",
     "website": "https://www.stadt-zuerich.ch/floradora",
     "id": "way/192146173"
@@ -23019,6 +23020,70 @@
         [
           8.6388535,
           47.272675
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/235334903",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "3-5",
+    "addr:postcode": "8048",
+    "addr:street": "Depotweg",
+    "amenity": "social_facility",
+    "area": "yes",
+    "name": "Strichplatz",
+    "operator": "Stadt Zürich",
+    "operator:type": "public",
+    "website": "https://www.stadt-zuerich.ch/floradora",
+    "id": "way/235334903"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4955978,
+          47.3932413
+        ],
+        [
+          8.4955241,
+          47.392255
+        ],
+        [
+          8.4958469,
+          47.3922407
+        ],
+        [
+          8.496014,
+          47.3925999
+        ],
+        [
+          8.4960998,
+          47.3929637
+        ],
+        [
+          8.497671,
+          47.3929461
+        ],
+        [
+          8.4977924,
+          47.3932716
+        ],
+        [
+          8.497288,
+          47.3932616
+        ],
+        [
+          8.4968143,
+          47.3932518
+        ],
+        [
+          8.4955978,
+          47.3932413
         ]
       ]
     ]

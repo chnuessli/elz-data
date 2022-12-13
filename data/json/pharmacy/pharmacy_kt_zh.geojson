@@ -682,7 +682,7 @@
     "brand:wikidata": "Q50038690",
     "dispensing": "yes",
     "name": "Berg-Apotheke",
-    "opening_hours": "Mo-Sa 07:00-19:00; Su 10:00-18:00",
+    "opening_hours": "Mo-Sa 07:00-19:00; Su,PH closed",
     "operator": "Medbase Apotheken",
     "website": "https://www.topwell.ch/bergapotheke/",
     "wheelchair": "yes",
