@@ -50572,7 +50572,6 @@
   "id": "node/9124306475",
   "properties": {
     "addr:city": "Vercorin",
-    "addr:housenumber": "32",
     "addr:postcode": "3967",
     "addr:street": "Chemin de Tracuit",
     "amenity": "hospital",

@@ -42114,10 +42114,6 @@
   "type": "Feature",
   "id": "node/8695990810",
   "properties": {
-    "addr:city": "Fällanden",
-    "addr:housenumber": "2",
-    "addr:postcode": "8117",
-    "addr:street": "Oberdorfstrasse",
     "amenity": "social_facility",
     "capacity": "6-10",
     "name": "Ancora-Meilestei AWG Fällanden",
@@ -42131,8 +42127,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6380082,
-      47.3701282
+      8.6380187,
+      47.3701063
     ]
   }
 },
