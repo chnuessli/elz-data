@@ -36053,24 +36053,24 @@
     "coordinates": [
       [
         [
-          8.6135596,
-          47.4008214
+          8.6135638,
+          47.4008262
         ],
         [
-          8.6134647,
-          47.4006005
+          8.6134703,
+          47.4006101
         ],
         [
-          8.6145239,
-          47.4003922
+          8.6145118,
+          47.4004037
         ],
         [
-          8.6146187,
-          47.4006131
+          8.6146052,
+          47.4006198
         ],
         [
-          8.6135596,
-          47.4008214
+          8.6135638,
+          47.4008262
         ]
       ]
     ]
@@ -41679,8 +41679,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5477752,
-      47.4100204
+      8.5481164,
+      47.4101276
     ]
   }
 },
@@ -43430,6 +43430,29 @@
     "coordinates": [
       8.5355181,
       47.5264986
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10273136001",
+  "properties": {
+    "alt_name": "Asylunterkunft Transitzone Zürich-Flughafen",
+    "amenity": "social_facility",
+    "email": "info@aoz.ch",
+    "level": "1",
+    "name": "Asylunterkunft Zürich-Flughafen",
+    "operator": "AOZ",
+    "phone": "+41 43 816 74 18",
+    "social_facility": "shelter",
+    "website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/bundeszentren/asylregion-zuerich/transitzentrum-zuerich-kloten.html",
+    "id": "node/10273136001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5602061,
+      47.450087
     ]
   }
 }

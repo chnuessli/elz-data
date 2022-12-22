@@ -3151,6 +3151,7 @@
   "type": "Feature",
   "id": "node/8621205825",
   "properties": {
+    "alt_name": "Eidgenössische Zollverwaltung",
     "amenity": "police",
     "email": "zentrale.zuerich-flughafen-zi@ezv.admin.ch",
     "level": "1",
@@ -3159,6 +3160,7 @@
     "name:en": "Customs (Public Area)",
     "opening_hours": "06:00-23:30",
     "phone": "+41 58 480 64 00",
+    "short_name": "EZV",
     "website": "https://www.ezv.admin.ch/",
     "wheelchair": "yes",
     "id": "node/8621205825"

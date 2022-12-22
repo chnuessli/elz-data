@@ -681,10 +681,10 @@
     "brand": "Medbase",
     "brand:wikidata": "Q50038690",
     "dispensing": "yes",
-    "name": "Berg-Apotheke",
+    "name": "Berg-Apotheke by Medbase",
     "opening_hours": "Mo-Sa 07:00-19:00; Su,PH closed",
     "operator": "Medbase Apotheken",
-    "website": "https://www.topwell.ch/bergapotheke/",
+    "website": "https://www.medbase-apotheken.ch/apotheken/detail/berg-apotheke-by-medbase",
     "wheelchair": "yes",
     "id": "node/301815427"
   },
