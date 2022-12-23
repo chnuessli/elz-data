@@ -4583,8 +4583,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7063236,
-      47.4311591
+      8.7063265,
+      47.4311692
     ]
   }
 },
@@ -4729,6 +4729,22 @@
     "coordinates": [
       8.7208349,
       47.4164108
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/391214366",
+  "properties": {
+    "barrier": "lift_gate",
+    "lift_gate:type": "single",
+    "id": "node/391214366"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7206297,
+      47.4140278
     ]
   }
 },
@@ -6021,21 +6037,6 @@
     "coordinates": [
       8.5591451,
       47.4157647
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/536640837",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/536640837"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5593615,
-      47.4163234
     ]
   }
 },
@@ -12357,8 +12358,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7359617,
-      47.3920704
+      8.7359648,
+      47.3920768
     ]
   }
 },
@@ -16577,8 +16578,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6930782,
-      47.4255569
+      8.6930771,
+      47.4255592
     ]
   }
 },
@@ -49745,8 +49746,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6903907,
-      47.4268983
+      8.690389,
+      47.4268924
     ]
   }
 },
@@ -64124,8 +64125,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6785629,
-      47.2603938
+      8.678565,
+      47.2603944
     ]
   }
 },
@@ -66564,6 +66565,40 @@
     "coordinates": [
       8.5580027,
       47.4393191
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10277618318",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/10277618318"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5243478,
+      47.3848581
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10280218647",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/10280218647"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6846914,
+      47.2578259
     ]
   }
 }
