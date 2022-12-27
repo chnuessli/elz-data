@@ -1969,6 +1969,7 @@
     "addr:street": "Hinterdorfstrasse",
     "amenity": "pharmacy",
     "check_date:opening_hours": "2022-05-22",
+    "healthcare": "pharmacy",
     "name": "Insel Apotheke",
     "opening_hours": "Mo-Fr 08:00-12:10,13:30-18:30; Sa 08:00-16:00",
     "id": "node/651516566"
@@ -2145,9 +2146,10 @@
     "amenity": "pharmacy",
     "branch": "Schwerzenbach",
     "brand": "TopPharm",
+    "brand:wikidata": "Q110277794",
     "dispensing": "yes",
     "healthcare": "pharmacy",
-    "name": "TopPharm Bahnhof Apotheke Schwerzenbach",
+    "name": "TopPharm",
     "operator": "TopPharm Genossenschaft",
     "website": "https://www.apotheke.ch/schwerzenbach",
     "id": "node/686557302"
@@ -6443,6 +6445,7 @@
     "amenity": "pharmacy",
     "branch": "Uster",
     "brand": "Coop Vitality",
+    "brand:wikidata": "Q111725297",
     "healthcare": "pharmacy",
     "name": "Coop Vitality",
     "operator": "Coop Vitality & GaleniCare",
@@ -6758,6 +6761,7 @@
   "id": "node/8286494176",
   "properties": {
     "amenity": "pharmacy",
+    "check_date:opening_hours": "2022-11-30",
     "name": "Bahnhof Apotheke Stettbach",
     "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
     "phone": "+41 44 244 05 05",

@@ -315,9 +315,10 @@
     "amenity": "pharmacy",
     "branch": "Baar",
     "brand": "TopPharm",
+    "brand:wikidata": "Q110277794",
     "dispensing": "yes",
     "healthcare": "pharmacy",
-    "name": "TopPharm Rathaus Apotheke",
+    "name": "TopPharm",
     "operator": "TopPharm Genossenschaft",
     "website": "https://www.apotheke.ch/rathaus-baar",
     "id": "node/5926537691"

@@ -308,7 +308,7 @@
     "shoulder": "no",
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "turn:lanes": "through|slight_right",
     "id": "way/4578023"
   },
@@ -478,7 +478,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "id": "way/4578027"
   },
   "geometry": {
@@ -1933,7 +1933,7 @@
     "shoulder": "no",
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "turn:lanes": "through|slight_right",
     "id": "way/4733548"
   },
@@ -1999,7 +1999,7 @@
     "shoulder": "no",
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "turn:lanes": "through|slight_right",
     "id": "way/4733549"
   },
@@ -2032,7 +2032,7 @@
     "placement": "middle_of:1",
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign",
-    "toll": "yes",
+    "toll": "no",
     "turn:lanes": "none|merge_to_left",
     "id": "way/4733550"
   },
@@ -2064,7 +2064,7 @@
     "oneway": "yes",
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign",
-    "toll": "yes",
+    "toll": "no",
     "id": "way/4733551"
   },
   "geometry": {
@@ -2308,35 +2308,6 @@
       [
         8.6224262,
         47.0017862
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/4958897",
-  "properties": {
-    "alt_name": "Anschluss Reichenburg",
-    "highway": "trunk",
-    "lanes": "2",
-    "maxspeed": "80",
-    "nat_name": "N15",
-    "old_name": "A53",
-    "oneway": "yes",
-    "ref": "A15",
-    "toll": "yes",
-    "id": "way/4958897"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.9768051,
-        47.1819143
-      ],
-      [
-        8.9767352,
-        47.181361
       ]
     ]
   }
@@ -2642,50 +2613,6 @@
       [
         8.6905553,
         47.6027952
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/5009534",
-  "properties": {
-    "alt_name": "Anschluss Reichenburg",
-    "highway": "trunk",
-    "lanes": "2",
-    "maxspeed": "80",
-    "nat_name": "N15",
-    "old_name": "A53",
-    "oneway": "no",
-    "ref": "A15",
-    "id": "way/5009534"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.9767352,
-        47.181361
-      ],
-      [
-        8.9766509,
-        47.1810335
-      ],
-      [
-        8.9765049,
-        47.1805192
-      ],
-      [
-        8.9763175,
-        47.180017
-      ],
-      [
-        8.9760205,
-        47.1793367
-      ],
-      [
-        8.9758094,
-        47.1789503
       ]
     ]
   }
@@ -7097,7 +7024,7 @@
     "oneway": "yes",
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign",
-    "toll": "yes",
+    "toll": "no",
     "id": "way/51695771"
   },
   "geometry": {
@@ -7276,7 +7203,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "id": "way/64951971"
   },
   "geometry": {
@@ -7432,7 +7359,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "id": "way/64951984"
   },
   "geometry": {
@@ -9627,7 +9554,7 @@
     "oneway": "yes",
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign",
-    "toll": "yes",
+    "toll": "no",
     "id": "way/133433730"
   },
   "geometry": {
@@ -10419,7 +10346,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "id": "way/179146669"
   },
   "geometry": {
@@ -10457,7 +10384,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "turn:lanes:forward": "none|merge_to_left",
     "id": "way/179146672"
   },
@@ -10539,7 +10466,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "turn:lanes:backward": "none|right",
     "turn:lanes:forward": "none|merge_to_left",
     "id": "way/179146676"
@@ -11523,7 +11450,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "id": "way/197438441"
   },
   "geometry": {
@@ -11695,7 +11622,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "id": "way/197438443"
   },
   "geometry": {
@@ -11746,7 +11673,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "id": "way/197438444"
   },
   "geometry": {
@@ -11812,7 +11739,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "turn:lanes:forward": "left|through",
     "id": "way/197629245"
   },
@@ -11855,7 +11782,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "turn:lanes:forward": "left|through",
     "id": "way/197629249"
   },
@@ -12360,37 +12287,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/202337462",
-  "properties": {
-    "alt_name": "Anschluss Reichenburg",
-    "destination:lanes": "Hinwil;Rapperswil;Zürich;St. Gallen|Chur;St. Gallen;Sargans;Glarus",
-    "destination:ref:lanes": "A3;A15|A3;A13",
-    "highway": "trunk",
-    "lanes": "2",
-    "maxspeed": "80",
-    "nat_name": "N15",
-    "old_name": "A53",
-    "oneway": "yes",
-    "ref": "A15",
-    "toll": "yes",
-    "id": "way/202337462"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.9767352,
-        47.181361
-      ],
-      [
-        8.9768872,
-        47.181909
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/216656138",
   "properties": {
     "highway": "trunk",
@@ -12759,7 +12655,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "turn:lanes:forward": "none|right",
     "id": "way/254691684"
   },
@@ -13016,7 +12912,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "id": "way/254701830"
   },
   "geometry": {
@@ -15870,7 +15766,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "turn:lanes:backward": "|merge_to_left",
     "id": "way/304151598"
   },
@@ -15951,7 +15847,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "id": "way/304151600"
   },
   "geometry": {
@@ -20973,7 +20869,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "id": "way/659151288"
   },
   "geometry": {
@@ -23373,7 +23269,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "yes",
+    "toll": "no",
     "id": "way/953102321"
   },
   "geometry": {
@@ -23607,7 +23503,7 @@
     "placement": "transition",
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign",
-    "toll": "yes",
+    "toll": "no",
     "id": "way/1000333502"
   },
   "geometry": {

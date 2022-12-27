@@ -486,7 +486,7 @@
   "id": "way/4497143",
   "properties": {
     "highway": "motorway",
-    "lanes": "1",
+    "lanes": "2",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A7",
@@ -44968,7 +44968,7 @@
     "ref": "A1",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "slight_left|slight_left|slight_right",
+    "turn:lanes": "slight_left|slight_left;slight_right|slight_right",
     "id": "way/287340806"
   },
   "geometry": {

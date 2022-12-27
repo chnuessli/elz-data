@@ -3192,7 +3192,10 @@
     "addr:street": "Hermann Rorschach-Strasse",
     "amenity": "school",
     "building": "school",
+    "building:levels": "2",
     "name": "Schulhaus Sandacker",
+    "roof:levels": "1",
+    "roof:shape": "hipped",
     "id": "way/220915005"
   },
   "geometry": {

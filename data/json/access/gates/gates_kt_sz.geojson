@@ -5019,9 +5019,56 @@
 },
 {
   "type": "Feature",
-  "id": "node/9036346767",
+  "id": "node/9036346758",
   "properties": {
     "barrier": "lift_gate",
+    "bicycle": "no",
+    "description": "Einfahrtschranke zum Öffentlichen Parkhaus",
+    "foot": "no",
+    "horse": "no",
+    "locked": "no",
+    "motor_vehicle": "yes",
+    "opening_hours": "24/7",
+    "id": "node/9036346758"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6739104,
+      46.9923009
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9036346759",
+  "properties": {
+    "access": "no",
+    "barrier": "lift_gate",
+    "bicycle": "no",
+    "foot": "no",
+    "horse": "no",
+    "locked": "no",
+    "motor_vehicle": "yes",
+    "opening_hours": "24/7",
+    "parking": "multi-storey",
+    "id": "node/9036346759"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6739302,
+      46.9923316
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9036346767",
+  "properties": {
+    "access": "no",
+    "barrier": "lift_gate",
+    "locked": "yes",
     "id": "node/9036346767"
   },
   "geometry": {

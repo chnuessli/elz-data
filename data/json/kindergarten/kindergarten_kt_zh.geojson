@@ -11065,42 +11065,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/98413287",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Goldbach",
-    "id": "way/98413287"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5774549,
-          47.3279193
-        ],
-        [
-          8.577581,
-          47.3275103
-        ],
-        [
-          8.5779806,
-          47.3276376
-        ],
-        [
-          8.5778358,
-          47.327992
-        ],
-        [
-          8.5774549,
-          47.3279193
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/98440073",
   "properties": {
     "addr:housenumber": "2",

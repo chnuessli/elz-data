@@ -3107,6 +3107,25 @@
       47.7153734
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10285955761",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "RestEssBar",
+    "social_facility": "food_bank",
+    "social_facility:for": "all",
+    "website": "http://rebs.ch/",
+    "id": "node/10285955761"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6342908,
+      47.6938991
+    ]
+  }
 }
 ]
 }
