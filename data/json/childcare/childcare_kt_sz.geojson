@@ -114,6 +114,24 @@
       47.1905341
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10292045798",
+  "properties": {
+    "alt_name": "Waldspielgruppe Flügepilz",
+    "amenity": "childcare",
+    "name": "Spielgruppe Lachen",
+    "website": "http://spielgruppelachen.ch/",
+    "id": "node/10292045798"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8538472,
+      47.195514
+    ]
+  }
 }
 ]
 }

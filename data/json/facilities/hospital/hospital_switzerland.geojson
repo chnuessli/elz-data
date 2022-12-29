@@ -35839,6 +35839,7 @@
     "name": "Clinica Santa Croce",
     "phone": "+41 91 735 41 41",
     "website": "http://www.santacroce.ch/index.php?view=1000",
+    "wheelchair": "limited",
     "id": "way/677000057"
   },
   "geometry": {
