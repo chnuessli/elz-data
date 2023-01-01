@@ -1278,6 +1278,7 @@
     "addr:postcode": "6317",
     "addr:street": "Mülimatt",
     "amenity": "social_facility",
+    "building": "yes",
     "operator": "Bürgergemeinde Zug",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
