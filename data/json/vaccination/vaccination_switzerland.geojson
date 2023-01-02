@@ -786,26 +786,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8710380245",
-  "properties": {
-    "healthcare": "vaccination_centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum Glarus",
-    "operator": "Kanton Glarus",
-    "vaccination": "covid19",
-    "website": "https://www.gl.ch/coronavirus",
-    "id": "node/8710380245"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      9.0652784,
-      47.0456329
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8712147047",
   "properties": {
     "healthcare": "vaccination_centre",

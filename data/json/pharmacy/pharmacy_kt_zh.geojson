@@ -2397,7 +2397,7 @@
     "amenity": "pharmacy",
     "dispensing": "yes",
     "healthcare": "pharmacy",
-    "name": "Riedsteg Apotheke",
+    "name": "Riedsteg",
     "website": "https://riedsteg-apotheke.ch/",
     "wheelchair": "yes",
     "id": "node/738031621"
@@ -2405,8 +2405,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6774508,
-      47.2631974
+      8.6774473,
+      47.2631804
     ]
   }
 },
