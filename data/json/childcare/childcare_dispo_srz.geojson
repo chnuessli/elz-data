@@ -325,14 +325,12 @@
     "amenity": "childcare",
     "building": "yes",
     "building:levels": "2",
-    "contact:email": "chinderinsle@barabu.org",
-    "contact:phone": "+41 (0)43 536 75 77",
-    "contact:website": "http://www.barabu.org/chinderinsle.html",
-    "email": "info@barabu.org",
+    "email": "chinderinsle@barabu.org",
     "name": "Chinderinsle Barabu",
     "opening_hours": "Mo-Fr 07:15-18:15",
     "operator": "Verein Barabu",
     "operator:type": "business",
+    "phone": "+41 43 536 75 77",
     "website": "https://www.barabu.org",
     "id": "way/79271549"
   },
@@ -3233,6 +3231,75 @@
         [
           8.6057393,
           47.4139656
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/897487380",
+  "properties": {
+    "amenity": "childcare",
+    "building": "yes",
+    "name": "Mini Ranger",
+    "id": "way/897487380"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5568159,
+          47.0521598
+        ],
+        [
+          8.556795,
+          47.0521535
+        ],
+        [
+          8.5567813,
+          47.0521394
+        ],
+        [
+          8.5567822,
+          47.0521199
+        ],
+        [
+          8.5567962,
+          47.0521061
+        ],
+        [
+          8.5568177,
+          47.0521003
+        ],
+        [
+          8.5568467,
+          47.0521018
+        ],
+        [
+          8.5568652,
+          47.0521129
+        ],
+        [
+          8.5568689,
+          47.0521252
+        ],
+        [
+          8.55687,
+          47.0521377
+        ],
+        [
+          8.5568612,
+          47.0521502
+        ],
+        [
+          8.5568428,
+          47.0521595
+        ],
+        [
+          8.5568159,
+          47.0521598
         ]
       ]
     ]
