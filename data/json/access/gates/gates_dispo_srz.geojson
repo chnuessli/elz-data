@@ -54460,21 +54460,22 @@
   "id": "node/6727923334",
   "properties": {
     "access": "no",
+    "alt_name": "Rega Tor",
     "barrier": "gate",
+    "emergency": "yes",
     "material": "metal",
     "maxheight": "4",
     "maxwidth": "53.20",
-    "name": "Rega Tor",
+    "name": "Tor 109.2",
     "opening_hours": "Mo-Su 06:00-20:00",
-    "ref": "109.2",
     "vehicle": "no",
     "id": "node/6727923334"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5729707,
-      47.4578291
+      8.5729888,
+      47.4578339
     ]
   }
 },
@@ -60764,8 +60765,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7123535,
-      47.2646119
+      8.7123572,
+      47.2646224
     ]
   }
 },
@@ -77459,6 +77460,21 @@
     "coordinates": [
       8.557381,
       47.0534621
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10303379408",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/10303379408"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.691353,
+      47.2742336
     ]
   }
 }

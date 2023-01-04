@@ -13069,7 +13069,8 @@
     "addr:street": "Rietwiesenstrasse",
     "amenity": "school",
     "building": "school",
-    "name": "Privatschule Edelweiss",
+    "name": "Privatschule One School Global",
+    "website": "https://www.oneschoolglobal.com/",
     "id": "way/33058286"
   },
   "geometry": {
@@ -30136,12 +30137,20 @@
           47.7169689
         ],
         [
-          8.7788083,
-          47.7169628
+          8.7787041,
+          47.7169623
         ],
         [
-          8.7790848,
-          47.7169825
+          8.7788083,
+          47.7169576
+        ],
+        [
+          8.7790247,
+          47.7169659
+        ],
+        [
+          8.779276,
+          47.717006
         ],
         [
           8.7795594,
@@ -101128,12 +101137,13 @@
   "id": "way/446323915",
   "properties": {
     "addr:city": "Oberhasli",
-    "addr:housenumber": "15",
+    "addr:housenumber": "17",
     "addr:postcode": "8156",
     "addr:street": "Rietwiesenstrasse",
     "amenity": "school",
     "building": "school",
-    "name": "Privatschule Edelweiss",
+    "name": "Privatschule One School Global",
+    "website": "https://www.oneschoolglobal.com/",
     "id": "way/446323915"
   },
   "geometry": {

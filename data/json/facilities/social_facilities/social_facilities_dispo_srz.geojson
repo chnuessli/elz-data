@@ -32424,6 +32424,66 @@
 },
 {
   "type": "Feature",
+  "id": "way/297582176",
+  "properties": {
+    "addr:city": "Rämismühle",
+    "addr:housenumber": "8",
+    "addr:postcode": "8487",
+    "addr:street": "Mühlestrasse",
+    "alt_name": "Pflegeheim Zentrum Rämismühle",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "zentrum@raemismuehle.ch",
+    "name": "Zentrum Rämismühle",
+    "note": "Fraglich, ob das Restaurant einen eigenen Namen besitzt, und ob es nur für Gäste des Zentrums zugänglich ist.",
+    "old_name": "Heimstätte Rämismühle",
+    "phone": "+41 52 396 44 44",
+    "social_facility": "assisted_living",
+    "website": "https://zentrum-raemismuehle.ch/leben-im-zentrum#intro",
+    "id": "way/297582176"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8276141,
+          47.4404508
+        ],
+        [
+          8.8276285,
+          47.4404136
+        ],
+        [
+          8.827664,
+          47.440321
+        ],
+        [
+          8.8279726,
+          47.4403753
+        ],
+        [
+          8.8279554,
+          47.4404201
+        ],
+        [
+          8.8279946,
+          47.4404271
+        ],
+        [
+          8.827962,
+          47.440512
+        ],
+        [
+          8.8276141,
+          47.4404508
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/297730695",
   "properties": {
     "addr:city": "Turbenthal",
@@ -50113,30 +50173,6 @@
     "coordinates": [
       8.6922246,
       47.252136
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8570536469",
-  "properties": {
-    "addr:city": "Rämismühle",
-    "addr:housenumber": "8",
-    "addr:postcode": "8487",
-    "addr:street": "Mühlestrasse",
-    "alt_name": "Pflegeheim ZENTRUM RÄMISMÜHLE",
-    "amenity": "social_facility",
-    "email": "zentrum@raemismuehle.ch",
-    "name": "Altershim ZENTRUM RÄMISMÜHLE",
-    "phone": "+41 52 396 44 88",
-    "website": "https://zentrum-raemismuehle.ch/leben-im-zentrum#intro",
-    "id": "node/8570536469"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8278268,
-      47.440374
     ]
   }
 },
