@@ -5541,6 +5541,8 @@
   "id": "way/498401934",
   "properties": {
     "aeroway": "helipad",
+    "emergency": "landing_site",
+    "surface": "grass",
     "id": "way/498401934"
   },
   "geometry": {
@@ -9894,42 +9896,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1018739913",
-  "properties": {
-    "aeroway": "helipad",
-    "emergency": "landing_site",
-    "id": "way/1018739913"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5332196,
-          47.5219409
-        ],
-        [
-          8.5331898,
-          47.5218606
-        ],
-        [
-          8.5333077,
-          47.5218406
-        ],
-        [
-          8.5333376,
-          47.5219209
-        ],
-        [
-          8.5332196,
-          47.5219409
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1018745493",
   "properties": {
     "aeroway": "helipad",
@@ -12958,6 +12924,7 @@
   "id": "node/281385797",
   "properties": {
     "aeroway": "helipad",
+    "emergency": "landing_site",
     "ref": "RICHSP",
     "website": "https://www.helipad.org/app/default.asp?padId=33",
     "id": "node/281385797"
@@ -13398,6 +13365,7 @@
   "id": "node/1825140109",
   "properties": {
     "aeroway": "helipad",
+    "emergency": "landing_site",
     "id": "node/1825140109"
   },
   "geometry": {
@@ -14442,22 +14410,6 @@
     "coordinates": [
       7.4114075,
       46.0343198
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7628254692",
-  "properties": {
-    "aeroway": "helipad",
-    "emergency": "landing_site",
-    "id": "node/7628254692"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6355724,
-      47.711797
     ]
   }
 },
