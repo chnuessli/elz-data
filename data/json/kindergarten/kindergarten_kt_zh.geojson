@@ -28890,7 +28890,7 @@
     "amenity": "kindergarten",
     "contact:city": "Zürich",
     "contact:housenumber": "133",
-    "contact:phone": "044 413 77 59",
+    "contact:phone": "+41 44 413 77 59",
     "contact:postcode": "8051",
     "contact:street": "Luegislandstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/auhof/ueberuns/standorte/kindergaerten.html#kindergarten_luegislandstrasseiii",
@@ -42301,11 +42301,11 @@
     "amenity": "kindergarten",
     "contact:city": "Zürich",
     "contact:housenumber": "40a",
-    "contact:phone": "+ 41 44 413 12 16",
     "contact:postcode": "8046",
     "contact:street": "Lerchenhalde",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/schauenberg/ueberuns/standorte/kindergaerten.html#kindergarten_schauenberg",
     "name": "Kindergarten Schauenberg 1+2",
+    "phone": "+41 44 413 12 16",
     "id": "node/9415756800"
   },
   "geometry": {

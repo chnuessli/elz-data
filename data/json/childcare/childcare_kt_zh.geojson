@@ -5249,15 +5249,15 @@
   "type": "Feature",
   "id": "node/6623458953",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "15",
+    "addr:postcode": "8052",
+    "addr:street": "Schönauweg",
     "amenity": "childcare",
-    "contact:city": "Zürich",
-    "contact:housenumber": "15",
-    "contact:phone": "044 413 16 33",
-    "contact:postcode": "8052",
-    "contact:street": "Schönauweg",
-    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/buchwiesen/betreuung/standorte.html",
     "isced:level": "0",
     "name": "Kinderhort Buchwiesen 1 - 4",
+    "phone": "+41 44 413 16 33",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/buchwiesen/betreuung/standorte.html",
     "id": "node/6623458953"
   },
   "geometry": {
