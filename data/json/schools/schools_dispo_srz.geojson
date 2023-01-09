@@ -31967,77 +31967,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/91736229",
-  "properties": {
-    "addr:city": "Russikon",
-    "addr:housenumber": "4",
-    "addr:postcode": "8332",
-    "addr:street": "Kirchgasse",
-    "amenity": "school",
-    "building": "school",
-    "email": "schulsekretariat@russikon.ch",
-    "name": "Schule Russikon",
-    "opening_hours": "Mo 14:00-18:30, Tu-Th 08:30-11:30,14:00-16:30, Fr off",
-    "phone": "+41 43 355 61 15",
-    "school": "primary",
-    "school:CH": "primarschule",
-    "website": "http://www.schulerussikon.ch/de/",
-    "id": "way/91736229"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7765972,
-          47.3952034
-        ],
-        [
-          8.7764129,
-          47.3951825
-        ],
-        [
-          8.7764293,
-          47.3951162
-        ],
-        [
-          8.7763999,
-          47.3951129
-        ],
-        [
-          8.7764282,
-          47.394999
-        ],
-        [
-          8.7764032,
-          47.3949962
-        ],
-        [
-          8.776432,
-          47.3948801
-        ],
-        [
-          8.776655,
-          47.3949054
-        ],
-        [
-          8.7766004,
-          47.395126
-        ],
-        [
-          8.7766159,
-          47.3951278
-        ],
-        [
-          8.7765972,
-          47.3952034
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/91736267",
   "properties": {
     "addr:city": "Russikon",
@@ -116143,7 +116072,7 @@
         ],
         [
           8.9004211,
-          47.1734701
+          47.1734644
         ],
         [
           8.9019757,

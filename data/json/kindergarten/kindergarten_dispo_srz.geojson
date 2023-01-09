@@ -2420,47 +2420,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/32452595",
-  "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "127",
-    "addr:postcode": "8810",
-    "addr:street": "Einsiedlerstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Brunnenwiesli",
-    "id": "way/32452595"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5906422,
-          47.2602441
-        ],
-        [
-          8.5907536,
-          47.2601624
-        ],
-        [
-          8.5909092,
-          47.260258
-        ],
-        [
-          8.5907965,
-          47.2603408
-        ],
-        [
-          8.5906422,
-          47.2602441
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/32803872",
   "properties": {
     "addr:city": "Zweidlen",
@@ -38678,6 +38637,41 @@
         [
           8.6844777,
           47.3692726
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1128135495",
+  "properties": {
+    "amenity": "kindergarten",
+    "id": "way/1128135495"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5906152,
+          47.2602316
+        ],
+        [
+          8.5908903,
+          47.260019
+        ],
+        [
+          8.5911059,
+          47.2601659
+        ],
+        [
+          8.5908007,
+          47.2603556
+        ],
+        [
+          8.5906152,
+          47.2602316
         ]
       ]
     ]
