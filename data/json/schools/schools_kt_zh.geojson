@@ -68556,8 +68556,11 @@
     "addr:street": "Pfannenstiel",
     "amenity": "school",
     "building": "school",
+    "building:levels": "2",
     "name": "Zentralschulhaus",
     "operator": "Schule Trüllikon",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
     "id": "way/296999797"
   },
   "geometry": {
