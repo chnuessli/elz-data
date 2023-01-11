@@ -6706,6 +6706,7 @@
     "contact:website": "http://www.globegarden.org/",
     "isced:level": "0",
     "name": "Globegarden Kinderkrippe",
+    "opening_hours": "Mo-Fr 07:00-19:00",
     "id": "node/7967037972"
   },
   "geometry": {

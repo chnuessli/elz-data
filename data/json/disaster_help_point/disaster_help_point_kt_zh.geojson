@@ -1363,26 +1363,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9417237624",
-  "properties": {
-    "addr:city": "Weisslingen",
-    "addr:place": "Lendikon",
-    "addr:postcode": "8484",
-    "description": "Bushaltestelle",
-    "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
-    "id": "node/9417237624"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7788397,
-      47.4258854
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9417237625",
   "properties": {
     "addr:city": "Weisslingen",
@@ -4103,8 +4083,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8547619,
-      47.4740507
+      8.8547618,
+      47.4740409
     ]
   }
 },
