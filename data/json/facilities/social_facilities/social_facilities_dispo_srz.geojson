@@ -51173,16 +51173,18 @@
     "addr:street": "Rütistrasse",
     "amenity": "social_facility",
     "name": "Pflegewohngruppe im Haus zum Mauersegler",
+    "operator": "Sihlsana",
     "phone": "+41 44 711 84 50",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
+    "wheelchair": "yes",
     "id": "node/8671539084"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5287966,
-      47.3057552
+      8.5288435,
+      47.3056784
     ]
   }
 },
