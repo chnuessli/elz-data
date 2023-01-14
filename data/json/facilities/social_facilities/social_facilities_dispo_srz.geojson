@@ -8015,11 +8015,15 @@
           47.4535049
         ],
         [
+          8.7052547,
+          47.4535435
+        ],
+        [
           8.7053451,
           47.4536608
         ],
         [
-          8.7055436,
+          8.7055435,
           47.4535909
         ],
         [
@@ -19942,12 +19946,14 @@
     "addr:housenumber": "1",
     "addr:postcode": "8045",
     "addr:street": "Allmendstrasse",
+    "alt_name": "K&A Selnau",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Treffpunkt Winter-t-alk",
-    "opening_hours": "Oct-Mar Mo-Su,PH 10:15-17:30",
-    "operator": "Stadt Zürich Soziale Einrichtungen und Betriebe",
-    "phone": "+41 44 412 8920",
+    "name": "Kontakt- & Anlaufstellen für Drogenabhängige Brunau",
+    "old_name": "Treffpunkt Winter-t-alk",
+    "opening_hours": "Mo-Su 07:30-14:45; Th-Sa 12:15-19:30",
+    "operator": "Stadt Zürich",
+    "phone": "+41 44 412 89 20",
     "social_facility": "outreach",
     "social_facility:for": "drug_addicted",
     "website": "https://www.stadt-zuerich.ch/sd/de/index/unterstuetzung/drogen/treffpunkte/talk.html#kontakt_standortoeffnungszeitenwinter-t-alk",
@@ -50715,9 +50721,10 @@
     "addr:housenumber": "27",
     "addr:postcode": "8001",
     "addr:street": "Selnaustrasse",
-    "alt_name": "Kontakt- & Anlaufstellen für Drogenabhängige Selnau",
+    "alt_name": "K&A Selnau",
     "amenity": "social_facility",
-    "name": "K&A Selnau",
+    "name": "Kontakt- & Anlaufstellen für Drogenabhängige Selnau",
+    "opening_hours": "Mo-Su 12:15-19:30; Th-Sa 07:30-14:45",
     "operator": "Stadt Zürich",
     "phone": "+41 44 412 72 50",
     "social_facility": "outreach",
@@ -50740,9 +50747,10 @@
     "addr:housenumber": "10",
     "addr:postcode": "8050",
     "addr:street": "Wallisellenstrasse",
-    "alt_name": "Kontakt- & Anlaufstellen für Drogenabhängige Oerlikon",
+    "alt_name": "K&A Oerlikon",
     "amenity": "social_facility",
-    "name": "K&A Oerlikon",
+    "name": "Kontakt- & Anlaufstellen für Drogenabhängige Oerlikon",
+    "opening_hours": "Mo-Su 14:00-21:30",
     "operator": "Stadt Zürich",
     "phone": "+41 44 415 35 34",
     "social_facility": "outreach",

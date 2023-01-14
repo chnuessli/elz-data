@@ -82018,16 +82018,16 @@
   "type": "Feature",
   "id": "way/540682539",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "5",
+    "addr:postcode": "8041",
+    "addr:street": "Sihlweidstrasse",
     "amenity": "school",
-    "contact:city": "Zürich",
-    "contact:housenumber": "5",
-    "contact:phone": "044 413 08 88",
-    "contact:postcode": "8041",
-    "contact:street": "Sihlweidstrasse",
-    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/sihlweid/ueberuns.html",
     "name": "Schule Sihlweid",
     "operator": "Stadt Zürich, SSD, Schulkreis Uto",
     "operator:type": "public,",
+    "phone": "+41 44 413 08 88",
+    "website": "https://www.stadt-zuerich.ch/content/schulen/de/sihlweid/ueberuns.html",
     "id": "way/540682539"
   },
   "geometry": {
