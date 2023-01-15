@@ -946,6 +946,10 @@
   "type": "Feature",
   "id": "node/2339513598",
   "properties": {
+    "addr:city": "Merlischachen",
+    "addr:housenumber": "201",
+    "addr:postcode": "6402",
+    "addr:street": "Luzernerstrasse",
     "amenity": "kindergarten",
     "id": "node/2339513598"
   },

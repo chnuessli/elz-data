@@ -53129,6 +53129,40 @@
       47.4133257
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10554838988",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "261",
+    "addr:postcode": "8005",
+    "addr:street": "Hardturmstrasse",
+    "amenity": "social_facility",
+    "contact:email": "info@foodsharing.de",
+    "fee": "no",
+    "indoor": "no",
+    "level": "0",
+    "name": "Madame Frigo Kraftwerk",
+    "note": "Der Fair-Teiler ist Tag und Nacht zugänglich. Es gibt zwei Kühlschränke (mit Gefrierfach)",
+    "opening_hours": "24/7",
+    "operator": "foodsharing.de",
+    "social_facility": "food_bank",
+    "social_facility:for": "everyone",
+    "source": "www.foodsharing.de",
+    "website": "https://foodsharingschweiz.ch/?page=fairteiler&sub=ft&bid=108&id=417",
+    "wheelchair": "yes",
+    "wikidata": "Q15809935",
+    "wikipedia": "de:Foodsharing.de",
+    "id": "node/10554838988"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5082076,
+      47.3936414
+    ]
+  }
 }
 ]
 }
