@@ -999,6 +999,9 @@
     "addr:street": "Schweighofstrasse",
     "amenity": "pharmacy",
     "name": "West-Apotheke",
+    "opening_hours": "Mo-Sa 08:15–12:15, 13:30–18:30",
+    "phone": "+41 44 463 70 80",
+    "website": "https://website--836685969719036726410-pharmacy.business.site/",
     "id": "node/331314395"
   },
   "geometry": {
@@ -5881,11 +5884,13 @@
   "properties": {
     "addr:city": "Zürich",
     "addr:postcode": "8049",
+    "alt_name": "Apotheke im Brühl",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
     "drive_through": "no",
-    "name": "Apotheke im Brühl",
+    "name": "Zürigsund im Brühl",
     "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:00-19:00",
+    "website": "https://www.zuerigsund.ch/",
     "id": "node/4922030533"
   },
   "geometry": {
@@ -5956,12 +5961,20 @@
   "type": "Feature",
   "id": "node/5132850083",
   "properties": {
+    "addr:city": "Schlieren",
+    "addr:housenumber": "4",
+    "addr:postcode": "8925",
+    "addr:street": "Goldschlägiplatz",
+    "alt_name": "Apotheke Dr. Kunz",
     "amenity": "pharmacy",
     "dispensing": "yes",
+    "email": "schlieren@apothekedrkunz.ch",
     "healthcare": "pharmacy",
     "level": "0",
     "name": "Dr. Kunz",
     "opening_hours": "Mo-Sa 08:30-19:00",
+    "phone": "+41 43 543 80 20",
+    "website": "https://www.apothekedrkunz.ch/schlieren/",
     "wheelchair": "yes",
     "id": "node/5132850083"
   },
