@@ -59616,6 +59616,8 @@
     "amenity": "school",
     "name": "Wirtschaftsschule KV Winterthur",
     "short_name": "KV",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes",
     "id": "way/234190413"
   },
   "geometry": {
@@ -95071,6 +95073,10 @@
         [
           8.6385716,
           47.6912249
+        ],
+        [
+          8.6387112,
+          47.6912143
         ],
         [
           8.6404749,
