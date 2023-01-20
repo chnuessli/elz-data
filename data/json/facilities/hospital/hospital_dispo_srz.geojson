@@ -10997,29 +10997,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7772509443",
-  "properties": {
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "healthcare:speciality": "covid19",
-    "name": "Covid-19-Testzentrum",
-    "opening_hours": "Mo-Su 08:00-12:00, 13:00-16:00",
-    "opening_hours:covid19": "open",
-    "operator": "Kantonsspital Winterthur (KSW)",
-    "operator:type": "public",
-    "website": "https://www.ksw.ch/aufenthalt-besuch/coronavirus-covid-19/testzentrum-ksw/",
-    "id": "node/7772509443"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7266142,
-      47.5079658
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7772509445",
   "properties": {
     "addr:city": "Winterthur",
