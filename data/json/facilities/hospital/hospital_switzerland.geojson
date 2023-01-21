@@ -40211,20 +40211,12 @@
           46.1684179
         ],
         [
-          8.7909199,
-          46.1681635
+          8.7908694,
+          46.1683007
         ],
         [
-          8.7914161,
-          46.1682025
-        ],
-        [
-          8.7916428,
-          46.1682313
-        ],
-        [
-          8.7916282,
-          46.1683201
+          8.7916004,
+          46.1683691
         ],
         [
           8.7915382,
@@ -51970,6 +51962,29 @@
     "coordinates": [
       8.8500509,
       46.1723941
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10570514549",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "5",
+    "addr:postcode": "8004",
+    "addr:street": "Gustav-Gull-Platz",
+    "amenity": "hospital",
+    "name": "Stadtspital Zürich Europaallee",
+    "operator": "Stadtspital Zürich",
+    "phone": "+41 44 416 32 00",
+    "website": "https://www.stadt-zuerich.ch/site/europaallee/de/index.html",
+    "id": "node/10570514549"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5308675,
+      47.3796327
     ]
   }
 }

@@ -23962,60 +23962,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/249411582",
-  "properties": {
-    "addr:city": "Rüti (ZH)",
-    "addr:housenumber": "11",
-    "addr:postcode": "8630",
-    "addr:street": "Haldengutstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "email": "wohngruppen@vivazzo.ch",
-    "name": "Vivazzo Wohngruppe Linde",
-    "phone": "+41 55 240 86 80",
-    "social_facility": "assisted_living",
-    "source": "bing",
-    "website": "https://vivazzo.ch/vivazzo-wohngruppe-linde/",
-    "id": "way/249411582"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.8589651,
-          47.2585004
-        ],
-        [
-          8.8588483,
-          47.2584514
-        ],
-        [
-          8.8589278,
-          47.258364
-        ],
-        [
-          8.8589448,
-          47.2583711
-        ],
-        [
-          8.8589961,
-          47.2583203
-        ],
-        [
-          8.8590901,
-          47.2583625
-        ],
-        [
-          8.8589651,
-          47.2585004
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/250226267",
   "properties": {
     "addr:city": "Rüti (ZH)",
@@ -24775,61 +24721,6 @@
         [
           8.8431135,
           47.2787149
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/252002382",
-  "properties": {
-    "addr:city": "Hinwil",
-    "addr:housenumber": "2b",
-    "addr:postcode": "8340",
-    "addr:street": "Sonnenhofstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Vivazzo Wohngruppe Magnolie",
-    "phone": "+41 43 843 70 88",
-    "social_facility": "assisted_living",
-    "id": "way/252002382"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.840182,
-          47.2978967
-        ],
-        [
-          8.8402095,
-          47.2977896
-        ],
-        [
-          8.8403963,
-          47.2978116
-        ],
-        [
-          8.8403782,
-          47.2978823
-        ],
-        [
-          8.8403729,
-          47.297903
-        ],
-        [
-          8.8403466,
-          47.2978999
-        ],
-        [
-          8.8403426,
-          47.2979156
-        ],
-        [
-          8.840182,
-          47.2978967
         ]
       ]
     ]
@@ -44119,6 +44010,106 @@
     "coordinates": [
       8.7797694,
       47.2537848
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10570878121",
+  "properties": {
+    "amenity": "social_facility",
+    "email": "wohngruppen@vivazzo.ch",
+    "name": "Vivazzo Wohngruppe Erle",
+    "phone": "+41 55 251 04 53",
+    "social_facility": "assisted_living",
+    "website": "https://vivazzo.ch/vivazzo-wohngruppe-erle/",
+    "id": "node/10570878121"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7838909,
+      47.3670965
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10570878663",
+  "properties": {
+    "amenity": "social_facility",
+    "email": "wohngruppen@vivazzo.ch",
+    "name": "Vivazzo Wohngruppe Akazie",
+    "phone": "+41 77 513 50 79",
+    "social_facility": "assisted_living",
+    "website": "https://vivazzo.ch/vivazzo-wohngruppe-akazie/",
+    "id": "node/10570878663"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8402578,
+      47.2978173
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10570878664",
+  "properties": {
+    "amenity": "social_facility",
+    "email": "wohngruppen@vivazzo.ch",
+    "name": "Vivazzo Wohngruppe Magnolie",
+    "phone": "+41 77 513 50 79",
+    "social_facility": "assisted_living",
+    "website": "https://vivazzo.ch/vivazzo-wohngruppe-magnolie/",
+    "id": "node/10570878664"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8402361,
+      47.2978752
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10570896566",
+  "properties": {
+    "amenity": "social_facility",
+    "email": "wohngruppen@vivazzo.ch",
+    "name": "Vivazzo Wohngruppe Weide",
+    "phone": "+41 55 251 04 50",
+    "social_facility": "assisted_living",
+    "website": "https://vivazzo.ch/wohngruppe-weide/",
+    "id": "node/10570896566"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8528087,
+      47.2649252
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10570899225",
+  "properties": {
+    "amenity": "social_facility",
+    "email": "wohngruppen@vivazzo.ch",
+    "name": "Vivazzo Wohngruppe Linde",
+    "phone": "+41 55 240 86 80",
+    "social_facility": "assisted_living",
+    "website": "https://vivazzo.ch/vivazzo-wohngruppe-linde/",
+    "id": "node/10570899225"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8589678,
+      47.2584186
     ]
   }
 }

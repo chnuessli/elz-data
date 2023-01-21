@@ -7786,6 +7786,7 @@
     "addr:street": "Im Zwinggarten",
     "amenity": "kindergarten",
     "building": "yes",
+    "name": "Hort und Krippe Zwinggarten",
     "id": "way/56042959"
   },
   "geometry": {
