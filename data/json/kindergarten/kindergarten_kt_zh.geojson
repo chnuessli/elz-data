@@ -11244,6 +11244,7 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Lindenbuck West",
+    "ref:gwrid": "9133",
     "id": "way/99494677"
   },
   "geometry": {
@@ -33270,6 +33271,7 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Lindenbuck Ost",
+    "ref:gwrid": "9133",
     "id": "way/1074113428"
   },
   "geometry": {
@@ -33870,6 +33872,70 @@
         [
           8.5906152,
           47.2602316
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1134027312",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kiga Unterwegli",
+    "id": "way/1134027312"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7531219,
+          47.5039712
+        ],
+        [
+          8.7533641,
+          47.5040789
+        ],
+        [
+          8.7532838,
+          47.5041973
+        ],
+        [
+          8.7531207,
+          47.5044258
+        ],
+        [
+          8.7528444,
+          47.5043296
+        ],
+        [
+          8.7528651,
+          47.5042959
+        ],
+        [
+          8.752696,
+          47.5042375
+        ],
+        [
+          8.7526631,
+          47.5042745
+        ],
+        [
+          8.7525317,
+          47.5042351
+        ],
+        [
+          8.7526801,
+          47.5040106
+        ],
+        [
+          8.752982,
+          47.5041109
+        ],
+        [
+          8.7531219,
+          47.5039712
         ]
       ]
     ]
