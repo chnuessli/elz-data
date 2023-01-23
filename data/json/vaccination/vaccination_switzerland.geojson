@@ -996,29 +996,6 @@
       47.2299032
     ]
   }
-},
-{
-  "type": "Feature",
-  "id": "node/10219494858",
-  "properties": {
-    "healthcare": "centre",
-    "healthcare:speciality": "vaccination",
-    "level": "1",
-    "name": "Impfzentrum Frauenfeld",
-    "opening_hours": "We,Sa 08:00–12:00,13:00–18:00; open \"nach Bedarf\"",
-    "operator": "Amt für Gesundheit Kanton Thurgau",
-    "phone": "+41 58 345 34 40",
-    "vaccination": "covid19",
-    "website": "https://gesundheit.tg.ch/aktuelles/impfung-fuer-covid-19.html/11590",
-    "id": "node/10219494858"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8928228,
-      47.5482427
-    ]
-  }
 }
 ]
 }
