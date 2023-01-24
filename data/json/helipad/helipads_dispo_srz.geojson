@@ -2028,6 +2028,45 @@
 },
 {
   "type": "Feature",
+  "id": "way/1134452885",
+  "properties": {
+    "aeroway": "helipad",
+    "emergency": "landing_site",
+    "name": "Hubschrauberlandeplatz PJZ",
+    "ref": "PJZ 12.0",
+    "surface": "concrete",
+    "id": "way/1134452885"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.519781,
+          47.381785
+        ],
+        [
+          8.5196196,
+          47.3816722
+        ],
+        [
+          8.5197903,
+          47.3815603
+        ],
+        [
+          8.5199516,
+          47.3816731
+        ],
+        [
+          8.519781,
+          47.381785
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/281385797",
   "properties": {
     "aeroway": "helipad",
