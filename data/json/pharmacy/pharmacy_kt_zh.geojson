@@ -2098,6 +2098,7 @@
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
     "healthcare": "pharmacy",
+    "level": "0",
     "name": "Oberland Apotheke",
     "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-18:00",
     "shop": "chemist",

@@ -19296,128 +19296,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/152025009",
-  "properties": {
-    "addr:housenumber": "15",
-    "addr:postcode": "8805",
-    "addr:street": "Gartenstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Tertianum Etzelblick",
-    "social_facility": "assisted_living",
-    "social_facility:for": "senior",
-    "id": "way/152025009"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7085403,
-          47.2057467
-        ],
-        [
-          8.7085698,
-          47.2057517
-        ],
-        [
-          8.7086272,
-          47.2057943
-        ],
-        [
-          8.7086273,
-          47.2058045
-        ],
-        [
-          8.7086237,
-          47.2058068
-        ],
-        [
-          8.7086532,
-          47.2058281
-        ],
-        [
-          8.708549,
-          47.2058946
-        ],
-        [
-          8.7085287,
-          47.20588
-        ],
-        [
-          8.7084397,
-          47.2059368
-        ],
-        [
-          8.7084489,
-          47.2059434
-        ],
-        [
-          8.708412,
-          47.2059669
-        ],
-        [
-          8.7084149,
-          47.205969
-        ],
-        [
-          8.7084032,
-          47.2059765
-        ],
-        [
-          8.7083998,
-          47.2059887
-        ],
-        [
-          8.708386,
-          47.2059972
-        ],
-        [
-          8.7083659,
-          47.2060003
-        ],
-        [
-          8.7083562,
-          47.2060065
-        ],
-        [
-          8.7083534,
-          47.2060044
-        ],
-        [
-          8.7083103,
-          47.2060319
-        ],
-        [
-          8.7082203,
-          47.2059668
-        ],
-        [
-          8.7082232,
-          47.2059649
-        ],
-        [
-          8.7081931,
-          47.2059432
-        ],
-        [
-          8.7083185,
-          47.2058631
-        ],
-        [
-          8.7083358,
-          47.2058756
-        ],
-        [
-          8.7085403,
-          47.2057467
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/152514383",
   "properties": {
     "addr:city": "Glattbrugg",
@@ -40862,6 +40740,48 @@
 },
 {
   "type": "Feature",
+  "id": "way/703984395",
+  "properties": {
+    "addr:housenumber": "7",
+    "addr:postcode": "8805",
+    "addr:street": "Gartenstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Tertianum Etzelblick",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
+    "id": "way/703984395"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7090123,
+          47.2061038
+        ],
+        [
+          8.7088733,
+          47.2060002
+        ],
+        [
+          8.7090899,
+          47.2058662
+        ],
+        [
+          8.7092288,
+          47.2059698
+        ],
+        [
+          8.7090123,
+          47.2061038
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/704026930",
   "properties": {
     "amenity": "social_facility",
@@ -46444,6 +46364,126 @@
         [
           8.5646532,
           47.4285819
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1135058033",
+  "properties": {
+    "addr:housenumber": "9",
+    "addr:postcode": "8805",
+    "addr:street": "Gartenstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Tertianum Etzelblick",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
+    "id": "way/1135058033"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7093101,
+          47.205919
+        ],
+        [
+          8.7091718,
+          47.2058162
+        ],
+        [
+          8.7093579,
+          47.2057007
+        ],
+        [
+          8.7094962,
+          47.2058034
+        ],
+        [
+          8.7093101,
+          47.205919
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1135058034",
+  "properties": {
+    "addr:city": "Richterswil",
+    "addr:housenumber": "17",
+    "addr:postcode": "8805",
+    "addr:street": "Gartenstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "etzelblick@tertianum.ch",
+    "name": "Tertianum Etzelblick",
+    "phone": "+41 43 544 01 01",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
+    "website": "https://www.tertianum.ch/de/tertianum-etzelblick-richterswil_url-correct",
+    "id": "way/1135058034"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7085512,
+          47.2058754
+        ],
+        [
+          8.7084059,
+          47.205767
+        ],
+        [
+          8.7085861,
+          47.2056555
+        ],
+        [
+          8.7084501,
+          47.2055541
+        ],
+        [
+          8.7086095,
+          47.2054555
+        ],
+        [
+          8.7088047,
+          47.2056011
+        ],
+        [
+          8.708889,
+          47.205549
+        ],
+        [
+          8.7091318,
+          47.2057302
+        ],
+        [
+          8.7089723,
+          47.2058288
+        ],
+        [
+          8.7088289,
+          47.2057218
+        ],
+        [
+          8.7087438,
+          47.2057744
+        ],
+        [
+          8.7087305,
+          47.2057645
+        ],
+        [
+          8.7085512,
+          47.2058754
         ]
       ]
     ]
