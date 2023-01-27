@@ -3745,6 +3745,7 @@
     "opening_hours": "Mo-Sa 08:00-20:00",
     "operator": "Coop Vitality & GaleniCare",
     "website": "https://www.coopvitality.ch/de/coop-vitality-wiedikon",
+    "wheelchair": "yes",
     "id": "node/1925758935"
   },
   "geometry": {
@@ -3880,6 +3881,7 @@
     "shop": "chemist",
     "source": "survey",
     "website": "https://achillea.ch/standorte/drogama-apotheke-drogerie",
+    "wheelchair": "yes",
     "id": "node/2107009158"
   },
   "geometry": {
@@ -4785,6 +4787,7 @@
     "opening_hours": "Mo-Fr 07:30-19:30; Sa 10:00-17:00; PH off",
     "operator": "ApoDoc Hardbrücke",
     "website": "http://www.apodoc.ch/",
+    "wheelchair": "yes",
     "id": "node/4008942095"
   },
   "geometry": {

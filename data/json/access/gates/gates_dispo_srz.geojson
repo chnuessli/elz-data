@@ -78194,6 +78194,22 @@
       47.398901
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10585237876",
+  "properties": {
+    "barrier": "gate",
+    "material": "wood",
+    "id": "node/10585237876"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.70319,
+      47.3728066
+    ]
+  }
 }
 ]
 }

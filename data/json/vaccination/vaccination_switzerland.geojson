@@ -138,99 +138,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/55586065",
-  "properties": {
-    "addr:housenumber": "12",
-    "addr:street": "Grienackerweg",
-    "building": "yes",
-    "healthcare": "centre",
-    "healthcare:speciality": "vaccination",
-    "source": "SO!GIS Import",
-    "vaccination": "covid19",
-    "id": "way/55586065"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.5392595,
-          47.4087661
-        ],
-        [
-          7.5389806,
-          47.4087792
-        ],
-        [
-          7.5389764,
-          47.4087384
-        ],
-        [
-          7.5388345,
-          47.4087451
-        ],
-        [
-          7.5388062,
-          47.4084715
-        ],
-        [
-          7.5389479,
-          47.4084647
-        ],
-        [
-          7.5389438,
-          47.4084245
-        ],
-        [
-          7.5392227,
-          47.4084112
-        ],
-        [
-          7.5392269,
-          47.4084514
-        ],
-        [
-          7.5395719,
-          47.408435
-        ],
-        [
-          7.5395775,
-          47.4084884
-        ],
-        [
-          7.5395965,
-          47.4085289
-        ],
-        [
-          7.5396059,
-          47.4085709
-        ],
-        [
-          7.5396053,
-          47.4086135
-        ],
-        [
-          7.5395947,
-          47.4086554
-        ],
-        [
-          7.5396,
-          47.4087088
-        ],
-        [
-          7.5392553,
-          47.408725
-        ],
-        [
-          7.5392595,
-          47.4087661
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/184594087",
   "properties": {
     "addr:housenumber": "68",
@@ -994,6 +901,23 @@
     "coordinates": [
       8.8486525,
       47.2299032
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10584145609",
+  "properties": {
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "vaccination": "covid19",
+    "id": "node/10584145609"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5389139,
+      47.4085389
     ]
   }
 }
