@@ -8006,6 +8006,21 @@
 },
 {
   "type": "Feature",
+  "id": "node/752798984",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/752798984"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.603305,
+      47.3596562
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/752799463",
   "properties": {
     "barrier": "gate",
@@ -10563,8 +10578,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.497944,
-      47.3919125
+      8.4979559,
+      47.3919123
     ]
   }
 },
@@ -67622,6 +67637,91 @@
     "coordinates": [
       8.5051634,
       47.3875272
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10588809211",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/10588809211"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4984837,
+      47.3920111
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10588809215",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/10588809215"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4980139,
+      47.3919889
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10588812783",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/10588812783"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4927108,
+      47.3920184
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10589772657",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/10589772657"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5212077,
+      47.3847295
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10589805922",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/10589805922"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.523491,
+      47.3848633
     ]
   }
 }
