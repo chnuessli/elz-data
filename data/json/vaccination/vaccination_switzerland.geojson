@@ -438,6 +438,7 @@
     "addr:street": "Hirschengraben",
     "alt_name": "COVID-19 Impfzentrum Zürich",
     "amenity": "doctors",
+    "check_date:opening_hours": "2023-01-30",
     "healthcare": "centre",
     "healthcare:speciality": "vaccination",
     "name": "Referenz-Impfzentrum RIZ der Universität Zürich",
@@ -446,6 +447,7 @@
     "phone": "+41 800 33 66 55",
     "vaccination": "covid19",
     "website": "https://coronazentrum.uzh.ch/",
+    "wheelchair": "yes",
     "id": "node/8320771141"
   },
   "geometry": {
