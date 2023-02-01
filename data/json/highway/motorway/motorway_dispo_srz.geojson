@@ -633,6 +633,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "maxspeed": "120",
     "maxspeed:type": "CH:motorway",
     "oneway": "yes",
     "ref": "A3",
@@ -7562,6 +7563,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "2",
+    "maxspeed": "120",
     "maxspeed:type": "CH:motorway",
     "oneway": "yes",
     "ref": "A3",
@@ -34427,6 +34429,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "maxspeed": "100",
     "oneway": "yes",
     "ref": "A3",
     "toll": "yes",
@@ -50419,7 +50422,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
-    "maxspeed": "80",
+    "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
     "surface": "asphalt",

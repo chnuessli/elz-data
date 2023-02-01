@@ -978,6 +978,7 @@
     "addr:street": "Schützenstrasse",
     "amenity": "school",
     "building": "school",
+    "building:levels": "5",
     "name": "Berufsbildungszentrum Pfäffikon",
     "wikidata": "Q828843",
     "id": "way/150269903"

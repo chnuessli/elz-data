@@ -52553,6 +52553,33 @@
 },
 {
   "type": "Feature",
+  "id": "node/9651038217",
+  "properties": {
+    "access": "yes",
+    "amenity": "social_facility",
+    "covered": "yes",
+    "fridge": "yes",
+    "location": "outdoor",
+    "name": "food sharing fridge from Madame Frigo",
+    "network": "Madame Frigo",
+    "opening_hours": "24/7",
+    "operator": "foodsharing.de",
+    "social_facility": "food_bank",
+    "social_facility:for": "everyone",
+    "website": "https://foodsharing.network/",
+    "wikipedia": "de:Foodsharing.de",
+    "id": "node/9651038217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5585677,
+      47.4387412
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9697120450",
   "properties": {
     "amenity": "social_facility",
@@ -53095,12 +53122,12 @@
     "indoor": "no",
     "level": "0",
     "name": "Madame Frigo Kraftwerk",
+    "network": "Madame Frigo",
     "note": "Der Fair-Teiler ist Tag und Nacht zugänglich. Es gibt zwei Kühlschränke (mit Gefrierfach)",
     "opening_hours": "24/7",
     "operator": "foodsharing.de",
     "social_facility": "food_bank",
     "social_facility:for": "everyone",
-    "source": "www.foodsharing.de",
     "website": "https://foodsharingschweiz.ch/?page=fairteiler&sub=ft&bid=108&id=417",
     "wheelchair": "yes",
     "wikidata": "Q15809935",
