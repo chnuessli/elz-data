@@ -46520,6 +46520,27 @@
 },
 {
   "type": "Feature",
+  "id": "node/473379001",
+  "properties": {
+    "amenity": "social_facility",
+    "denomination": "catholic",
+    "name": "Katholische Hochschulseelsorge",
+    "operator": "Katholische Hochschulgemeinde",
+    "religion": "christian",
+    "social_facility": "outreach",
+    "wheelchair": "limited",
+    "id": "node/473379001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.545423,
+      47.3763749
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/765813879",
   "properties": {
     "addr:country": "CH",
