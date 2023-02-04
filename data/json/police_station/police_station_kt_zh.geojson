@@ -2602,6 +2602,7 @@
     "amenity": "police",
     "name": "Polizeiposten Affoltern",
     "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
     "phone": "+41 44 762 16 30",
     "source": "WWW;local_knowledge",
     "website": "https://www.kapo.zh.ch/internet/sicherheitsdirektion/kapo/de/ueber_uns/standorte/affoltern/station.html",
