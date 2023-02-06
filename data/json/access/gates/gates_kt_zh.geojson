@@ -39330,21 +39330,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5242251649",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/5242251649"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5155922,
-      47.3832106
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5244413991",
   "properties": {
     "barrier": "gate",
@@ -67939,8 +67924,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5208988,
-      47.3815581
+      8.5208541,
+      47.3815217
     ]
   }
 },
