@@ -7856,6 +7856,7 @@
     "contact:email": "augenheilkunde@insel.ch",
     "contact:fax": "+41 31 3824779",
     "contact:phone": "+41 31 6322501",
+    "healthcare": "clinic",
     "internet_access": "wlan",
     "internet_access:fee": "no",
     "name": "Augenklinik Inselspital",
@@ -27028,26 +27029,6 @@
         [
           8.5525245,
           47.3781413
-        ],
-        [
-          8.5524541,
-          47.3781851
-        ],
-        [
-          8.5524192,
-          47.3781888
-        ],
-        [
-          8.5523763,
-          47.3781997
-        ],
-        [
-          8.5523576,
-          47.3782342
-        ],
-        [
-          8.5523522,
-          47.3782596
         ],
         [
           8.551923,
@@ -47927,6 +47908,7 @@
     "contact:email": "krisenambulanz@upd.ch",
     "contact:fax": "+41 31 6328950",
     "contact:phone": "+41 31 6328811",
+    "healthcare": "clinic",
     "name": "UPD Kriseninterventionszentrum KIZ",
     "note": "Kriseninterventionszentrum KIZ",
     "operator": "Universitäre Psychiatrische Dienste Bern (UPD) AG",
@@ -48962,6 +48944,7 @@
     "contact:email": "MemoryClinic@upd.ch",
     "contact:fax": "+41 31 6328950",
     "contact:phone": "+41 31 6324633",
+    "healthcare": "clinic",
     "name": "UPD Interdisziplinäre Memory Clinic IDMC",
     "note": "Interdisziplinäre Memory Clinic IDMC",
     "operator": "Universitäre Psychiatrische Dienste Bern (UPD) AG",
