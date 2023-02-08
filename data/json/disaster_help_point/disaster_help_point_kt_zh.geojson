@@ -555,9 +555,9 @@
     "addr:housenumber": "118",
     "addr:postcode": "8044",
     "addr:street": "Hochstrasse",
-    "description": "Turnhalle Schulhaus Fluntern",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "name": "Turnhalle Schulhaus Fluntern",
+    "operator": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
     "id": "node/9417226684"
   },
   "geometry": {
@@ -576,9 +576,9 @@
     "addr:housenumber": "54",
     "addr:postcode": "8006",
     "addr:street": "Stapferstrasse",
-    "description": "Turnhalle Schulhaus Scherr/Stapfer",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "name": "Turnhalle Schulhaus Scherr/Stapfer",
+    "operator": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
     "id": "node/9417226685"
   },
   "geometry": {
@@ -597,9 +597,9 @@
     "addr:housenumber": "14",
     "addr:postcode": "8006",
     "addr:street": "Röslistrasse",
-    "description": "Turnhalle Schulhaus Rösli",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
+    "name": "Turnhalle Schulhaus Rösli",
+    "operator": "Notfalltreffpunkt RFO/GFO Kanton Zürich",
     "id": "node/9417226686"
   },
   "geometry": {

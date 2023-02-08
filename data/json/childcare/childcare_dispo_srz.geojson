@@ -1020,7 +1020,8 @@
     "addr:street": "Nägelistrasse",
     "amenity": "childcare",
     "building": "yes",
-    "name": "Globegarten",
+    "name": "Globegarden",
+    "operator": "Globegarden",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
     "id": "way/104474405"
   },
@@ -4072,7 +4073,8 @@
     "addr:postcode": "8152",
     "addr:street": "Europastrasse",
     "amenity": "childcare",
-    "name": "Fugu",
+    "name": "Kita Melodie",
+    "website": "https://www.kita-melodie.ch/",
     "id": "node/2735805858"
   },
   "geometry": {
@@ -5221,15 +5223,20 @@
   "type": "Feature",
   "id": "node/5784735973",
   "properties": {
+    "addr:city": "Opfikon",
+    "addr:housenumber": "1",
+    "addr:postcode": "8152",
+    "addr:street": "Boulevard Lilienthal",
     "amenity": "childcare",
-    "name": "Globegarden",
+    "name": "globegarden Lilienthal",
+    "website": "https://www.globegarden.ch/",
     "id": "node/5784735973"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5630068,
-      47.4245664
+      8.5633904,
+      47.4247415
     ]
   }
 },
@@ -6876,7 +6883,7 @@
     "addr:street": "Wright-Strasse",
     "amenity": "childcare",
     "description": "Wald- und Theater-Kindertagesstätte",
-    "name": "Hazo Hort",
+    "name": "Hazo-Kita",
     "opening_hours": "Mo-Fr 07:00-19:00",
     "opening_hours:covid19": "open",
     "operator": "Hazo-Kita Glattpark",
@@ -7015,6 +7022,27 @@
     "coordinates": [
       8.5593245,
       47.4179868
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8718842522",
+  "properties": {
+    "addr:city": "Glattpark (Opfikon)",
+    "addr:housenumber": "40",
+    "addr:postcode": "8152",
+    "addr:street": "Boulevard Lilienthal",
+    "amenity": "childcare",
+    "name": "KitaS Creativa",
+    "website": "https://www.kitascreativa.ch/",
+    "id": "node/8718842522"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5600071,
+      47.4217198
     ]
   }
 },
@@ -11562,9 +11590,14 @@
   "type": "Feature",
   "id": "node/10293281792",
   "properties": {
+    "addr:city": "Glattpark (Opfikon)",
+    "addr:housenumber": "19",
+    "addr:postcode": "8152",
+    "addr:street": "Boulevard Lilienthal",
     "amenity": "childcare",
     "level": "1",
-    "name": "Pop e Poppa",
+    "name": "Kita Pop e Poppa Bäretatze",
+    "website": "https://www.popepoppa.ch",
     "id": "node/10293281792"
   },
   "geometry": {
@@ -11572,6 +11605,156 @@
     "coordinates": [
       8.562058,
       47.4233164
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10614472103",
+  "properties": {
+    "addr:city": "Opfikon",
+    "addr:housenumber": "104",
+    "addr:postcode": "8152",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "childcare",
+    "description": "Kinderkrippe",
+    "name": "Kinderkrippe Fugu",
+    "source": "local knowledge",
+    "website": "https://www.kitafugu.ch/fugu-kinderkrippe-glattbrugg/",
+    "id": "node/10614472103"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5652003,
+      47.4328092
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10614578873",
+  "properties": {
+    "addr:city": "Glattbrugg",
+    "addr:housenumber": "1",
+    "addr:postcode": "8152",
+    "addr:street": "Riethofstrasse",
+    "amenity": "childcare",
+    "name": "Kita Purzelschloss",
+    "website": "https://www.purzel.ch/inhalte/standort-purzelschloss",
+    "id": "node/10614578873"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5679785,
+      47.4359716
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10614582272",
+  "properties": {
+    "addr:city": "Glattbrugg",
+    "addr:housenumber": "72",
+    "addr:postcode": "8152",
+    "addr:street": "Giebeleichstrasse",
+    "amenity": "childcare",
+    "name": "Kinderkrippe Popcorn",
+    "source": "local knowledge",
+    "website": "https://kita-popcorn.ch/",
+    "id": "node/10614582272"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5672026,
+      47.4276686
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10614597934",
+  "properties": {
+    "addr:city": "Opfikon",
+    "addr:housenumber": "29",
+    "addr:postcode": "8152",
+    "addr:street": "Oberhauserstrasse",
+    "amenity": "childcare",
+    "name": "Kinderkrippe Purzelhuus",
+    "website": "https://www.purzel.ch/",
+    "id": "node/10614597934"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5671774,
+      47.4319188
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10614620822",
+  "properties": {
+    "addr:city": "Opfikon",
+    "addr:housenumber": "13",
+    "addr:postcode": "8152",
+    "addr:street": "Earhart-Strasse",
+    "amenity": "childcare",
+    "name": "Kinderkrippe Bambi",
+    "website": "https://www.kinderkrippe-bambi.ch/de/kinderkrippen/standorte/kinderkrippe-opfikon",
+    "id": "node/10614620822"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5652346,
+      47.4232452
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10614665077",
+  "properties": {
+    "addr:city": "Glattpark (Opfikon)",
+    "addr:housenumber": "105",
+    "addr:postcode": "8152",
+    "addr:street": "Thurgauerstrasse",
+    "amenity": "childcare",
+    "name": "globegarden Glattpark",
+    "website": "https://www.globegarden.ch/",
+    "id": "node/10614665077"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5576361,
+      47.422302
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10614738235",
+  "properties": {
+    "addr:city": "Glattpark (Opfikon)",
+    "addr:housenumber": "55/57",
+    "addr:postcode": "8152",
+    "addr:street": "Dufaux-Strasse",
+    "amenity": "childcare",
+    "name": "KiTa Zwerglinge",
+    "website": "https://www.kitazwerglinge.ch/",
+    "id": "node/10614738235"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5620099,
+      47.421403
     ]
   }
 }
