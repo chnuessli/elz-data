@@ -92,9 +92,9 @@
     "addr:city": "Thayngen",
     "addr:postcode": "8240",
     "addr:street": "Schulstrasse",
-    "description": "Reckenhalle",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "name": "Reckenhalle",
+    "operator": "Notfalltreffpunkt Kanton Schaffhausen",
     "id": "node/9435655838"
   },
   "geometry": {
@@ -112,9 +112,9 @@
     "addr:city": "Hofen",
     "addr:postcode": "8242",
     "addr:street": "Hauptstrasse",
-    "description": "Zentralschulhaus",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "name": "Zentralschulhaus",
+    "operator": "Notfalltreffpunkt Kanton Schaffhausen",
     "id": "node/9435655839"
   },
   "geometry": {
@@ -133,9 +133,12 @@
     "addr:housenumber": "2",
     "addr:postcode": "8234",
     "addr:street": "Brämlenstrasse",
-    "description": "Hartplatz bei der Mehrzweckhalle",
+    "description": "Notfalltreffpunkt in Stetten",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "fixme": "add additional information about activation",
+    "location": "Hartplatz (Rietwisen)",
+    "name": "Hartplatz bei der Mehrzweckhalle",
+    "operator": "Kanton Schaffhausen",
     "id": "node/9435655840"
   },
   "geometry": {
@@ -217,9 +220,11 @@
     "addr:housenumber": "7",
     "addr:postcode": "8226",
     "addr:street": "Schuelgässli",
-    "description": "Randenhalle",
+    "description": "Notfalltreffpunkt in Schleitheim",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "location": "Randenhalle",
+    "name": "Randenhalle",
+    "operator": "Kanton Schaffhausen",
     "id": "node/9435655844"
   },
   "geometry": {
@@ -238,9 +243,13 @@
     "addr:housenumber": "19",
     "addr:postcode": "8231",
     "addr:street": "Schlattergarten",
-    "description": "Schulhaus / Turnhalle",
+    "description": "Notfalltreffpunkt in Hemmental",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "fixme": "add additional information about activation",
+    "location": "Schulhaus Hemmental",
+    "name": "Schulhaus Hemmental",
+    "operator": "Kanton Schaffhausen",
+    "room": "Turnhalle",
     "id": "node/9435655845"
   },
   "geometry": {
@@ -276,13 +285,16 @@
   "type": "Feature",
   "id": "node/9435655847",
   "properties": {
-    "addr:city": "Schaffhausen",
-    "addr:housenumber": "12",
-    "addr:postcode": "8200",
-    "addr:street": "J.J. Wepfer-Strasse",
-    "description": "Pflegeheim Geissberg",
+    "contact:city": "Schaffhausen",
+    "contact:housenumber": "12",
+    "contact:postcode": "8200",
+    "contact:street": "J.J. Wepfer-Strasse",
+    "description": "Notfalltreffpunkt in Schaffhausen",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "fixme": "add additional information about activation, room",
+    "location": "Pflegezentrum-Spitäler Schaffhausen",
+    "name": "Pflegeheim Geissberg",
+    "operator": "Kanton Schaffhausen",
     "id": "node/9435655847"
   },
   "geometry": {
@@ -301,9 +313,12 @@
     "addr:housenumber": "1",
     "addr:postcode": "8207",
     "addr:street": "Trüllenbuck",
-    "description": "Schulhaus Hohberg / Turnhalle",
+    "description": "Notfalltreffpunkt in Schaffhausen",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "location": "Schulhaus Hohberg",
+    "name": "Schulhaus Hohberg / Turnhalle",
+    "operator": "Kanton Schaffhausen",
+    "room": "Turnhalle",
     "id": "node/9435655848"
   },
   "geometry": {
@@ -322,9 +337,12 @@
     "addr:housenumber": "280",
     "addr:postcode": "8200",
     "addr:street": "Mühlentalstrasse",
-    "description": "International School Schaffhausen / Turnhalle",
+    "description": "Notfalltreffpunkt in Schaffhausen",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "location": "International School Schaffhausen",
+    "name": "International School Schaffhausen / Turnhalle",
+    "operator": "Kanton Schaffhausen",
+    "room": "Turnhalle",
     "id": "node/9435655849"
   },
   "geometry": {
@@ -339,12 +357,14 @@
   "type": "Feature",
   "id": "node/9435655850",
   "properties": {
-    "addr:city": "Schaffhausen",
-    "addr:postcode": "8200",
-    "addr:street": "Sommerwies",
-    "description": "Judoclub Sommerwies",
+    "contact:city": "Schaffhausen",
+    "contact:postcode": "8200",
+    "contact:street": "Sommerwies",
+    "description": "Notfalltreffpunkt in Schaffhausen",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "location": "Judoclub",
+    "name": "Judoclub Sommerwies",
+    "operator": "Kanton Schaffhausen",
     "id": "node/9435655850"
   },
   "geometry": {
@@ -552,9 +572,9 @@
     "addr:housenumber": "24",
     "addr:postcode": "8232",
     "addr:street": "Hohlgasse",
-    "description": "Werkhof Plus",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "name": "Werkhof Plus",
+    "operator": "Notfalltreffpunkt Kanton Schaffhausen",
     "id": "node/9435655860"
   },
   "geometry": {
@@ -594,9 +614,9 @@
     "addr:housenumber": "5",
     "addr:postcode": "8235",
     "addr:street": "Herti",
-    "description": "Turnhalle",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "name": "Turnhalle",
+    "operator": "Notfalltreffpunkt Kanton Schaffhausen",
     "id": "node/9435655862"
   },
   "geometry": {
@@ -677,9 +697,9 @@
     "addr:housenumber": "3",
     "addr:postcode": "8236",
     "addr:street": "Hogeracker",
-    "description": "Schulhaus",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "name": "Schulhaus",
+    "operator": "Notfalltreffpunkt Kanton Schaffhausen",
     "id": "node/9435655867"
   },
   "geometry": {
@@ -781,9 +801,9 @@
     "addr:housenumber": "6",
     "addr:postcode": "8228",
     "addr:street": "Dorfstrasse",
-    "description": "Gemeindehaussaal",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "name": "Gemeindehaussaal",
+    "operator": "Notfalltreffpunkt Kanton Schaffhausen",
     "id": "node/9435655872"
   },
   "geometry": {
@@ -802,9 +822,9 @@
     "addr:housenumber": "6",
     "addr:postcode": "8233",
     "addr:street": "Steigstrasse",
-    "description": "Gemeindehauskeller",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "name": "Gemeindehauskeller",
+    "operator": "Notfalltreffpunkt Kanton Schaffhausen",
     "id": "node/9435655873"
   },
   "geometry": {

@@ -9,9 +9,10 @@
     "addr:housenumber": "41",
     "addr:postcode": "6300",
     "addr:street": "Riedmatt",
-    "description": "Schulhaus Riedmatt",
+    "description": "Notfalltreffpunkt Stadt Zug",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Stadt Zug",
+    "location": "Schulhaus Riedmatt",
+    "name": "Schulhaus Riedmatt",
     "id": "node/9418104500"
   },
   "geometry": {
@@ -30,9 +31,10 @@
     "addr:housenumber": "36",
     "addr:postcode": "6300",
     "addr:street": "St.Johannesstrasse",
-    "description": "Schulhaus Herti",
+    "description": "Notfalltreffpunkt Stadt Zug",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Stadt Zug",
+    "location": "Schulhaus Herti",
+    "name": "Schulhaus Herti",
     "id": "node/9418104501"
   },
   "geometry": {
@@ -51,9 +53,10 @@
     "addr:housenumber": "2",
     "addr:postcode": "6300",
     "addr:street": "Bundesstrasse",
-    "description": "Musikschule",
+    "description": "Notfalltreffpunkt Stadt Zug",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Stadt Zug",
+    "location": "Musikschule",
+    "name": "Musikschule",
     "id": "node/9418104502"
   },
   "geometry": {
@@ -72,9 +75,10 @@
     "addr:housenumber": "2",
     "addr:postcode": "6300",
     "addr:street": "Mattenstrasse",
-    "description": "Schulhaus Guthirt",
+    "description": "Notfalltreffpunkt Stadt Zug",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Stadt Zug",
+    "location": "Schulhaus Guthirt",
+    "name": "Schulhaus Guthirt",
     "id": "node/9418104503"
   },
   "geometry": {
@@ -93,9 +97,10 @@
     "addr:housenumber": "40",
     "addr:postcode": "6300",
     "addr:street": "Löberenstrasse",
-    "description": "Schulhaus Loreto - Turnhalle",
+    "description": "Notfalltreffpunkt Stadt Zug",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Stadt Zug",
+    "location": "Turnhalle",
+    "name": "Schulhaus Loreto",
     "id": "node/9418104504"
   },
   "geometry": {
@@ -114,9 +119,10 @@
     "addr:housenumber": "3",
     "addr:postcode": "6300",
     "addr:street": "Sankt Oswaldsgasse",
-    "description": "Schulhaus Burgbach",
+    "description": "Notfalltreffpunkt Stadt Zug",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Stadt Zug",
+    "location": "Schulhaus Burgbach",
+    "name": "Schulhaus Burgbach",
     "id": "node/9418104505"
   },
   "geometry": {
@@ -134,9 +140,10 @@
     "addr:city": "Zugerberg",
     "addr:postcode": "6300",
     "addr:street": "Artherstrasse",
-    "description": "Feuerwehrdepot",
+    "description": "Notfalltreffpunkt Stadt Zugerberg",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Stadt Zug",
+    "location": "Feuerwehrdepot",
+    "name": "Feuerwehrdepot",
     "id": "node/9418104506"
   },
   "geometry": {
@@ -155,9 +162,10 @@
     "addr:housenumber": "101",
     "addr:postcode": "6317",
     "addr:street": "Artherstrasse",
-    "description": "Schulhaus",
+    "description": "Notfalltreffpunkt Stadt Oberwil",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Stadt Zug",
+    "location": "Schulhaus",
+    "name": "Schulhaus",
     "id": "node/9418104507"
   },
   "geometry": {
