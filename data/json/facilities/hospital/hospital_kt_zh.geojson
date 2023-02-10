@@ -8852,9 +8852,11 @@
     "addr:housenumber": "5",
     "addr:postcode": "8004",
     "addr:street": "Gustav-Gull-Platz",
-    "amenity": "clinic",
+    "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Stadtspital Zürich Europaallee",
     "operator": "Stadtspital Zürich",
+    "operator:type": "public",
     "phone": "+41 44 416 32 00",
     "website": "https://www.stadt-zuerich.ch/site/europaallee/de/index.html",
     "id": "node/10570514549"
