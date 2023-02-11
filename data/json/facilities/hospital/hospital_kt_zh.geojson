@@ -8868,6 +8868,28 @@
       47.3796327
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10632936305",
+  "properties": {
+    "addr:housenumber": "51",
+    "addr:postcode": "8152",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Medstation51",
+    "phone": "+41 44 811 27 27",
+    "website": "https://www.medstation51.ch/",
+    "id": "node/10632936305"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5601915,
+      47.4300968
+    ]
+  }
 }
 ]
 }
