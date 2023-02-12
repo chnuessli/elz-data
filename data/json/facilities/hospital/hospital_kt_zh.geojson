@@ -7688,6 +7688,64 @@
 },
 {
   "type": "Feature",
+  "id": "way/1144217909",
+  "properties": {
+    "addr:city": "Glattbrugg",
+    "addr:housenumber": "83",
+    "addr:postcode": "8152",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "clinic",
+    "building": "yes",
+    "healthcare": "clinic",
+    "name": "Aerztehaus",
+    "id": "way/1144217909"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5628062,
+          47.4318924
+        ],
+        [
+          8.5626005,
+          47.4317573
+        ],
+        [
+          8.5626064,
+          47.4317532
+        ],
+        [
+          8.5625978,
+          47.4317476
+        ],
+        [
+          8.5626843,
+          47.4316873
+        ],
+        [
+          8.5626955,
+          47.4316946
+        ],
+        [
+          8.5627011,
+          47.4316907
+        ],
+        [
+          8.5629042,
+          47.4318241
+        ],
+        [
+          8.5628062,
+          47.4318924
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3600466682",
   "properties": {
     "addr:city": "Kilchberg",
