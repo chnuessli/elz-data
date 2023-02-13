@@ -4322,6 +4322,7 @@
     "addr:street": "Via Capelli",
     "amenity": "hospital",
     "emergency": "yes",
+    "healthcare": "hospital",
     "name": "Ospedale Regionale di Lugano",
     "opening_hours": "07:00-23:00",
     "phone": "+41 91 811 61 11",
