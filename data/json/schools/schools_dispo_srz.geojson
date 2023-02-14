@@ -47968,6 +47968,7 @@
   "type": "Feature",
   "id": "way/149868990",
   "properties": {
+    "addr:city": "Urdorf",
     "addr:housenumber": "34",
     "addr:postcode": "8902",
     "addr:street": "In der Luberzen",
