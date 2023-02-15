@@ -49435,24 +49435,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7207641262",
-  "properties": {
-    "amenity": "clinic",
-    "name": "Zürcher Lighthouse",
-    "operator": "Stiftung Zürcher Lighthouse",
-    "website": "https://www.zuercher-lighthouse.ch",
-    "id": "node/7207641262"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5636559,
-      47.367141
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7218263338",
   "properties": {
     "addr:city": "Basel",
@@ -51939,11 +51921,9 @@
     "addr:housenumber": "5",
     "addr:postcode": "8004",
     "addr:street": "Gustav-Gull-Platz",
-    "amenity": "hospital",
-    "healthcare": "hospital",
+    "amenity": "clinic",
     "name": "Stadtspital Zürich Europaallee",
     "operator": "Stadtspital Zürich",
-    "operator:type": "public",
     "phone": "+41 44 416 32 00",
     "website": "https://www.stadt-zuerich.ch/site/europaallee/de/index.html",
     "id": "node/10570514549"
@@ -51975,6 +51955,30 @@
     "coordinates": [
       8.5601915,
       47.4300968
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10656841169",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "1",
+    "addr:postcode": "8004",
+    "addr:street": "Eglistrasse",
+    "amenity": "clinic",
+    "mai": "info@zuercher-lighthouse.ch",
+    "name": "Zürcher Lighthouse",
+    "operator": "Stiftung Zürcher Lighthouse",
+    "phone": "+ 41 44 265 38 11",
+    "website": "https://www.zuercher-lighthouse.ch/",
+    "id": "node/10656841169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.511215,
+      47.3839866
     ]
   }
 }
