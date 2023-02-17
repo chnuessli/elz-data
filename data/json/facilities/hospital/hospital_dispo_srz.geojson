@@ -10903,6 +10903,8 @@
     "amenity": "clinic",
     "healthcare": "clinic",
     "name": "ARUD Zentrum für Suchtmedizin",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "wheelchair": "yes",
     "id": "node/7044143562"
   },
   "geometry": {

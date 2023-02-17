@@ -1895,6 +1895,7 @@
     "amenity": "pharmacy",
     "branch": "Zürich Lindenplatz",
     "brand": "Achillea Apotheke",
+    "check_date:opening_hours": "2023-02-16",
     "name": "Apotheke Schafroth",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
     "operator": "Dr. Bähler Dropa",
@@ -5682,33 +5683,6 @@
     "coordinates": [
       8.5725439,
       47.4039056
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4838594397",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "37",
-    "addr:place": "Solidapark",
-    "addr:postcode": "8048",
-    "addr:street": "Saumackerstrasse",
-    "amenity": "pharmacy",
-    "brand": "Rotpunkt Apotheke",
-    "level": "0",
-    "name": "Apotheke Altstetten AA2",
-    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
-    "operator": "Rotpunkt Pharma",
-    "website": "http://www.aa2.ch/",
-    "id": "node/4838594397"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4885242,
-      47.3874478
     ]
   }
 },
