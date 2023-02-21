@@ -78,6 +78,7 @@
   "id": "way/39652667",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "18",
     "addr:postcode": "8045",
     "addr:street": "Gänzilooweg",

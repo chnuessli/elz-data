@@ -5412,6 +5412,7 @@
   "id": "way/44846770",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "39",
     "addr:postcode": "8045",
     "addr:street": "Frauentalweg",
@@ -5512,6 +5513,7 @@
   "id": "way/45012658",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "16",
     "addr:postcode": "8047",
     "addr:street": "Rossackerstrasse",
@@ -5602,6 +5604,7 @@
   "id": "way/45114661",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "6",
     "addr:postcode": "8055",
     "addr:street": "Meiliweg",
@@ -7170,6 +7173,7 @@
   "id": "way/54175091",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "135",
     "addr:postcode": "8055",
     "addr:street": "Döltschiweg",
@@ -7249,6 +7253,7 @@
   "id": "way/55796221",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "7",
     "addr:postcode": "8003",
     "addr:street": "Schwendenweg",
@@ -25230,7 +25235,10 @@
   "type": "Feature",
   "id": "way/367619188",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "100",
+    "addr:postcode": "8045",
     "addr:street": "Frauentalweg",
     "amenity": "kindergarten",
     "building": "yes",
@@ -29776,7 +29784,7 @@
     "contact:postcode": "8048",
     "contact:street": "Rautistrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/loogarten/ueberuns/standorte/kindergaerten.html",
-    "name": "Kindergarten Im Talbächli",
+    "name": "Kindergarten im Talbächli",
     "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Loogarten",
     "operator:type": "public",
     "id": "way/705778695"
@@ -43323,6 +43331,7 @@
   "id": "node/9717559587",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "33",
     "addr:postcode": "8002",
     "addr:street": "Lavaterstrasse",

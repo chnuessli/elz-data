@@ -5051,6 +5051,7 @@
   "id": "way/34572244",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "82",
     "addr:postcode": "8002",
     "addr:street": "Brandschenkestrasse",
@@ -6070,6 +6071,7 @@
   "id": "way/45114674",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "18",
     "addr:postcode": "8003",
     "addr:street": "Schrennengasse",
@@ -11200,6 +11202,7 @@
   "id": "way/97003718",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "21",
     "addr:postcode": "8002",
     "addr:street": "Bellariastrasse",
@@ -19024,6 +19027,7 @@
   "id": "way/160146483",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "1",
     "addr:postcode": "8045",
     "addr:street": "Allmendstrasse",
@@ -21450,6 +21454,7 @@
   "id": "way/204029557",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "130",
     "addr:postcode": "8002",
     "addr:street": "Bederstrasse",
@@ -28716,6 +28721,7 @@
   "id": "way/369066205",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "5",
     "addr:postcode": "8001",
     "addr:street": "Gerechtigkeitsgasse",
@@ -39953,6 +39959,7 @@
   "id": "node/5280368588",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "230",
     "addr:postcode": "8045",
     "addr:street": "Schweighofstrasse",
@@ -40045,8 +40052,9 @@
   "id": "node/5280368593",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "425",
-    "addr:postcode": "8055",
+    "addr:postcode": "8045",
     "addr:street": "Schweighofstrasse",
     "amenity": "social_facility",
     "capacity": "8",
@@ -40069,6 +40077,7 @@
   "id": "node/5280368594",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "437",
     "addr:postcode": "8055",
     "addr:street": "Birmensdorferstrasse",
@@ -40092,7 +40101,10 @@
   "type": "Feature",
   "id": "node/5280368595",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "4",
+    "addr:postcode": "8055",
     "addr:street": "Grünmattstrasse",
     "amenity": "social_facility",
     "capacity": "8",
@@ -40396,6 +40408,7 @@
   "id": "node/5400748564",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "17",
     "addr:postcode": "8001",
     "addr:street": "Selnaustrasse",
@@ -41516,7 +41529,10 @@
   "type": "Feature",
   "id": "node/7160009758",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "323",
+    "addr:postcode": "8045",
     "addr:street": "Arbentalstrasse",
     "amenity": "social_facility",
     "email": "altersbetreuung@fgzzh.ch",
@@ -41540,7 +41556,10 @@
   "type": "Feature",
   "id": "node/7160009759",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "193",
+    "addr:postcode": "8045",
     "addr:street": "Schweighofstrasse",
     "amenity": "social_facility",
     "email": "kreis3@nachbarschaftshilfe.ch",
@@ -41657,6 +41676,7 @@
   "id": "node/7626619767",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "8",
     "addr:postcode": "8003",
     "addr:street": "Schimmelstrasse",
@@ -41764,6 +41784,7 @@
   "id": "node/8325331936",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "177",
     "addr:postcode": "8055",
     "addr:street": "Döltschiweg",
@@ -43211,6 +43232,7 @@
   "id": "node/8819617601",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "538",
     "addr:postcode": "8055",
     "addr:street": "Birmensdorferstrasse",

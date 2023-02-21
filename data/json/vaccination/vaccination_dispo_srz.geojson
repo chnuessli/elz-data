@@ -156,6 +156,7 @@
   "id": "node/8382900798",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "491",
     "addr:postcode": "8063",
     "addr:street": "Birmensdorferstrasse",

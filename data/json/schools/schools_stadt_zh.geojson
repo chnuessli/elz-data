@@ -1068,6 +1068,7 @@
   "id": "way/29103032",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "66",
     "addr:postcode": "8055",
     "addr:street": "Küngenmatt",
@@ -1957,6 +1958,7 @@
   "id": "way/31969810",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "15",
     "addr:postcode": "8002",
     "addr:street": "Gutenbergstrasse",
@@ -2022,6 +2024,7 @@
   "id": "way/31969818",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "10",
     "addr:postcode": "8002",
     "addr:street": "Steinentischstrasse",
@@ -2079,6 +2082,7 @@
   "id": "way/32649990",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "30",
     "addr:postcode": "8027",
     "addr:street": "Parkring",
@@ -3930,6 +3934,7 @@
   "id": "way/42833982",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "12",
     "addr:postcode": "8045",
     "addr:street": "Edenstrasse",
@@ -12448,6 +12453,7 @@
   "id": "way/338896038",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "6",
     "addr:postcode": "8004",
     "addr:street": "Schöntalstrasse",
@@ -19455,6 +19461,59 @@
 },
 {
   "type": "Feature",
+  "id": "way/1148035871",
+  "properties": {
+    "amenity": "school",
+    "layer": "-1",
+    "name": "Naturschule Dunkelhölzli",
+    "id": "way/1148035871"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4658444,
+          47.3888613
+        ],
+        [
+          8.4661005,
+          47.3885937
+        ],
+        [
+          8.4661999,
+          47.3885728
+        ],
+        [
+          8.4662647,
+          47.3884992
+        ],
+        [
+          8.4663145,
+          47.3885129
+        ],
+        [
+          8.4664491,
+          47.3885538
+        ],
+        [
+          8.466331,
+          47.3886649
+        ],
+        [
+          8.4660675,
+          47.3889526
+        ],
+        [
+          8.4658444,
+          47.3888613
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/256335788",
   "properties": {
     "amenity": "school",
@@ -19936,6 +19995,7 @@
   "id": "node/5331387438",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "68",
     "addr:postcode": "8002",
     "addr:street": "Grütlistrasse",
@@ -20130,6 +20190,7 @@
   "id": "node/6731685775",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "39",
     "addr:postcode": "8045",
     "addr:street": "Binzstrasse",
@@ -20569,6 +20630,7 @@
   "id": "node/9642310076",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "8",
     "addr:postcode": "8055",
     "addr:street": "Gutstrasse",
@@ -20780,6 +20842,7 @@
   "id": "node/9682031261",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "1",
     "addr:postcode": "8002",
     "addr:street": "Bederstrasse",

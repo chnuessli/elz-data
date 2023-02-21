@@ -1589,6 +1589,7 @@
   "id": "way/107615187",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "315",
     "addr:postcode": "8038",
     "addr:street": "Seestrasse",
@@ -2977,6 +2978,7 @@
   "id": "way/276591443",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "38",
     "addr:postcode": "8038",
     "addr:street": "Bellariastrasse",
@@ -8334,6 +8336,7 @@
   "id": "node/8343640021",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "29",
     "addr:postcode": "8002",
     "addr:street": "Bürglistrasse",

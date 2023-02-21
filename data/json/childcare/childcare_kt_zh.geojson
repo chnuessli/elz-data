@@ -3804,6 +3804,7 @@
   "id": "node/2700020274",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "11",
     "addr:postcode": "8002",
     "addr:street": "Waffenplatzstrasse",
@@ -4353,6 +4354,7 @@
   "id": "node/4212303697",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "37",
     "addr:postcode": "8003",
     "addr:street": "Zelgstrasse",
@@ -6531,6 +6533,7 @@
   "id": "node/8378829332",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "5",
     "addr:postcode": "8002",
     "addr:street": "Waffenplatzstrasse",

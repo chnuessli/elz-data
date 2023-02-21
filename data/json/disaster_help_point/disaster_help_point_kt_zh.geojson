@@ -741,6 +741,7 @@
   "id": "node/9417226693",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "201",
     "addr:postcode": "8045",
     "addr:street": "Schweighofstrasse",
@@ -762,6 +763,7 @@
   "id": "node/9417226694",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "29",
     "addr:postcode": "8003",
     "addr:street": "Aegertenstrasse",
@@ -783,6 +785,7 @@
   "id": "node/9417226695",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "111",
     "addr:postcode": "8045",
     "addr:street": "Bachtobelstrasse",
@@ -804,6 +807,7 @@
   "id": "node/9417226696",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "66",
     "addr:postcode": "8055",
     "addr:street": "Küngenmatt",
@@ -846,6 +850,7 @@
   "id": "node/9417226699",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "10",
     "addr:postcode": "8038",
     "addr:street": "Tannenrauchstrasse",
@@ -867,6 +872,7 @@
   "id": "node/9417226700",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "21",
     "addr:postcode": "8002",
     "addr:street": "Schulhausstrasse",
