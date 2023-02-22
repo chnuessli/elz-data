@@ -3217,6 +3217,7 @@
   "id": "way/37061957",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "5",
     "addr:postcode": "8004",
     "addr:street": "Bullingerstrasse",
@@ -34196,6 +34197,7 @@
   "id": "node/795241899",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "40",
     "addr:postcode": "8047",
     "addr:street": "Anemonenstrasse",
@@ -34595,6 +34597,7 @@
   "id": "node/1365303135",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "3",
     "addr:postcode": "8003",
     "addr:street": "Friedaustrasse",

@@ -1890,6 +1890,7 @@
   "id": "way/210135903",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "233a",
     "addr:postcode": "8003",
     "addr:street": "Zurlindenstrasse",
@@ -4975,7 +4976,10 @@
   "type": "Feature",
   "id": "node/5928381332",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "111b",
+    "addr:postcode": "8045",
     "addr:street": "Uetlibergstrasse",
     "amenity": "childcare",
     "name": "Kita Füessli",
@@ -6588,6 +6592,7 @@
   "id": "node/8568706769",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "52",
     "addr:postcode": "8004",
     "addr:street": "Hohlstrasse",

@@ -650,6 +650,7 @@
   "id": "way/28399828",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "55",
     "addr:postcode": "8047",
     "addr:street": "Dennlerstrasse",
@@ -19973,6 +19974,7 @@
   "id": "node/5331387435",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "6",
     "addr:postcode": "8004",
     "addr:street": "Erismannstrasse",

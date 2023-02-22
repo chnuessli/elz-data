@@ -41462,6 +41462,7 @@
   "id": "node/7066476587",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "101",
     "addr:postcode": "8003",
     "addr:street": "Letzigraben",
@@ -43009,6 +43010,7 @@
   "id": "node/8704527465",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "76",
     "addr:postcode": "8004",
     "addr:street": "Dienerstrasse",
@@ -43034,6 +43036,7 @@
   "id": "node/8704527466",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "14",
     "addr:postcode": "8004",
     "addr:street": "Magnusstrasse",
@@ -43160,6 +43163,7 @@
   "id": "node/8708854070",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "192",
     "addr:postcode": "8004",
     "addr:street": "Hohlstrasse",
@@ -43257,6 +43261,7 @@
   "id": "node/8831002072",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "220",
     "addr:postcode": "8004",
     "addr:street": "Stauffacherstrasse",
@@ -43311,6 +43316,7 @@
   "id": "node/8831265926",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "25",
     "addr:postcode": "8047",
     "addr:street": "Albert-Schneider-Weg",
