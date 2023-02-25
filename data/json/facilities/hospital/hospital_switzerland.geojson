@@ -7688,106 +7688,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/53647159",
-  "properties": {
-    "addr:city": "Lausanne",
-    "addr:country": "CH",
-    "addr:housenumber": "55",
-    "addr:postcode": "1003",
-    "addr:street": "Avenue Louis-Ruchonnet",
-    "amenity": "clinic",
-    "building": "yes",
-    "copyright": "OpenAddresses",
-    "healthcare": "clinic",
-    "oa:imported_by": "sbrunner",
-    "oa:lat": "46.52066040",
-    "oa:lon": "6.62222385",
-    "oa:version": "oa2osm - 0.2 - sax",
-    "source": "Orthophoto Ville de Lausanne 2008",
-    "id": "way/53647159"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          6.6223859,
-          46.5207416
-        ],
-        [
-          6.6223233,
-          46.5207414
-        ],
-        [
-          6.6221878,
-          46.5207411
-        ],
-        [
-          6.6221873,
-          46.5206536
-        ],
-        [
-          6.6221791,
-          46.5206438
-        ],
-        [
-          6.6221792,
-          46.5206319
-        ],
-        [
-          6.6221872,
-          46.5206222
-        ],
-        [
-          6.6221871,
-          46.5205258
-        ],
-        [
-          6.6223758,
-          46.5205256
-        ],
-        [
-          6.6223848,
-          46.5205173
-        ],
-        [
-          6.6224025,
-          46.5205171
-        ],
-        [
-          6.6224129,
-          46.5205232
-        ],
-        [
-          6.6224127,
-          46.520538
-        ],
-        [
-          6.6224031,
-          46.5205442
-        ],
-        [
-          6.6224,
-          46.5206604
-        ],
-        [
-          6.6223914,
-          46.5206643
-        ],
-        [
-          6.6223832,
-          46.5206649
-        ],
-        [
-          6.6223859,
-          46.5207416
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/55568780",
   "properties": {
     "addr:housenumber": "44",
@@ -24353,6 +24253,7 @@
     "addr:housenumber": "34",
     "addr:postcode": "8374",
     "addr:street": "Kurhausstrasse",
+    "alt_name": "Kneipp Kurhotel Dusnang",
     "amenity": "clinic",
     "building": "yes",
     "health_facility:type": "rehabilitation",
@@ -29007,8 +28908,8 @@
           47.5492337
         ],
         [
-          8.9127333,
-          47.5497513
+          8.9127686,
+          47.5496475
         ],
         [
           8.9124908,
@@ -48385,9 +48286,10 @@
     "addr:housenumber": "31",
     "addr:street": "Laubgasse",
     "amenity": "clinic",
+    "brand": "Psychiatriezentrum Frauenfeld",
     "healthcare": "psychotherapist",
-    "name": "Clienia Psychiatriezentrum Frauenfeld",
-    "website": "https://www.clienia.ch/de/standorte/standorte-ambulant/thurgau/frauenfeld",
+    "name": "Clienia",
+    "website": "https://www.clienia.ch/de/standorte/clienia-frauenfeld-psychiatriezentrum/",
     "id": "node/4834869922"
   },
   "geometry": {
@@ -48697,6 +48599,7 @@
   "type": "Feature",
   "id": "node/5461883401",
   "properties": {
+    "add:country": "CH",
     "addr:city": "Montreux",
     "addr:housenumber": "74",
     "addr:postcode": "1820",
@@ -48704,6 +48607,9 @@
     "amenity": "clinic",
     "healthcare": "clinic",
     "name": "Centre Imagerie Médicale Montreux",
+    "opening_hours": "Mo-Fr 08:00-18:00 \"Sur rendez-vous\"; Sa,Su,PH off",
+    "phone": "+41 21 966 53 00",
+    "website": "https://www.cimm.ch/fr",
     "id": "node/5461883401"
   },
   "geometry": {

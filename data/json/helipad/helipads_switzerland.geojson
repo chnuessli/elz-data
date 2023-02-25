@@ -319,43 +319,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/51383200",
-  "properties": {
-    "aeroway": "helipad",
-    "name": "Nid du Crô",
-    "source": "Orthophotos2006sitn50cm",
-    "id": "way/51383200"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          6.951708,
-          46.9965438
-        ],
-        [
-          6.9518193,
-          46.9965431
-        ],
-        [
-          6.9518203,
-          46.9966201
-        ],
-        [
-          6.9517089,
-          46.9966208
-        ],
-        [
-          6.951708,
-          46.9965438
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/51383260",
   "properties": {
     "aeroway": "helipad",

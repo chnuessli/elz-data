@@ -1835,20 +1835,16 @@
     "coordinates": [
       [
         [
-          8.7333665,
-          47.3459209
+          8.7334301,
+          47.3459238
         ],
         [
-          8.7314013,
-          47.3460792
+          8.731402,
+          47.3460829
         ],
         [
           8.7304915,
           47.3462094
-        ],
-        [
-          8.7304572,
-          47.3461457
         ],
         [
           8.7301605,
@@ -1891,24 +1887,24 @@
           47.3455586
         ],
         [
-          8.7319277,
-          47.3456501
+          8.7319406,
+          47.3456538
         ],
         [
           8.7320815,
-          47.3459276
+          47.3459305
         ],
         [
           8.7323172,
           47.3459075
         ],
         [
-          8.7333173,
+          8.7333324,
           47.3458446
         ],
         [
-          8.7333665,
-          47.3459209
+          8.7334301,
+          47.3459238
         ]
       ]
     ]
@@ -15111,8 +15107,8 @@
           47.3029815
         ],
         [
-          8.5263206,
-          47.3027537
+          8.5262791,
+          47.3027625
         ],
         [
           8.5269141,
@@ -19164,6 +19160,157 @@
         [
           8.6087219,
           47.2552749
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/44646469",
+  "properties": {
+    "addr:housenumber": "38",
+    "addr:postcode": "8058",
+    "addr:street": "Balz-Zimmermann-Strasse",
+    "alt_name": "Schulhaus",
+    "amenity": "school",
+    "building": "office",
+    "building:levels": "3",
+    "email": "empfang_zrh@lat.dlh.de",
+    "name": "Lufthansa Aviation Training Switzerland",
+    "old_name": "SWISS Aviation Training",
+    "operator": "Lufthansa Aviation Training Switzerland AG",
+    "phone": "+41 44 564 59 00",
+    "ref": "S1",
+    "id": "way/44646469"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5715704,
+          47.4441917
+        ],
+        [
+          8.5712809,
+          47.4442053
+        ],
+        [
+          8.5712606,
+          47.4442063
+        ],
+        [
+          8.5712501,
+          47.4441047
+        ],
+        [
+          8.5712401,
+          47.4440075
+        ],
+        [
+          8.5712191,
+          47.4438035
+        ],
+        [
+          8.5713209,
+          47.4437987
+        ],
+        [
+          8.5712942,
+          47.4435389
+        ],
+        [
+          8.5712843,
+          47.4434428
+        ],
+        [
+          8.5714323,
+          47.4434358
+        ],
+        [
+          8.5714374,
+          47.4434856
+        ],
+        [
+          8.5714413,
+          47.443523
+        ],
+        [
+          8.5716765,
+          47.4435119
+        ],
+        [
+          8.5716767,
+          47.4435119
+        ],
+        [
+          8.5717018,
+          47.4437562
+        ],
+        [
+          8.5717251,
+          47.4439824
+        ],
+        [
+          8.5717277,
+          47.4440077
+        ],
+        [
+          8.5717257,
+          47.4440077
+        ],
+        [
+          8.5717296,
+          47.4440458
+        ],
+        [
+          8.571654,
+          47.4440493
+        ],
+        [
+          8.5716514,
+          47.4440241
+        ],
+        [
+          8.5716501,
+          47.4440113
+        ],
+        [
+          8.5716487,
+          47.4440114
+        ],
+        [
+          8.5716461,
+          47.443986
+        ],
+        [
+          8.5715917,
+          47.4439886
+        ],
+        [
+          8.571488,
+          47.4439935
+        ],
+        [
+          8.5714934,
+          47.4440457
+        ],
+        [
+          8.5715264,
+          47.4440441
+        ],
+        [
+          8.5715368,
+          47.4441444
+        ],
+        [
+          8.5715654,
+          47.4441431
+        ],
+        [
+          8.5715704,
+          47.4441917
         ]
       ]
     ]
@@ -31924,6 +32071,7 @@
   "id": "way/106390808",
   "properties": {
     "amenity": "school",
+    "name": "Oberes Schulhaus Ottikon",
     "id": "way/106390808"
   },
   "geometry": {
@@ -46991,7 +47139,7 @@
     "addr:street": "Adlikerstrasse",
     "amenity": "school",
     "building": "school",
-    "name": "Schulhaus Ruggenacher 3",
+    "name": "Schulhaus / Turnhalle Ruggenacher 3",
     "id": "way/169315602"
   },
   "geometry": {
@@ -47188,7 +47336,7 @@
   "id": "way/169315610",
   "properties": {
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "id": "way/169315610"
   },
   "geometry": {
@@ -47320,9 +47468,14 @@
   "type": "Feature",
   "id": "way/169315620",
   "properties": {
+    "addr:city": "Regensdorf",
     "addr:housename": "Trakt A",
+    "addr:housenumber": "73.2",
+    "addr:postcode": "8105",
+    "addr:street": "Schulstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
+    "name": "Turnhalle Ruggenacher 1",
     "id": "way/169315620"
   },
   "geometry": {
@@ -50594,7 +50747,7 @@
     "addr:street": "Aathalstrasse",
     "amenity": "school",
     "building": "school",
-    "name": "Primarschule Oberuster (Neubau)",
+    "name": "Primarschule / Turnhalle Oberuster",
     "id": "way/190555442"
   },
   "geometry": {
@@ -50602,24 +50755,24 @@
     "coordinates": [
       [
         [
-          8.7308187,
-          47.3455117
+          8.7308395,
+          47.3455017
         ],
         [
-          8.731068,
-          47.3460037
+          8.7310888,
+          47.3459949
         ],
         [
-          8.7304572,
-          47.3461457
+          8.7304773,
+          47.3461381
         ],
         [
-          8.730208,
-          47.3456538
+          8.7302285,
+          47.3456445
         ],
         [
-          8.7308187,
-          47.3455117
+          8.7308395,
+          47.3455017
         ]
       ]
     ]
@@ -97154,38 +97307,6 @@
     "coordinates": [
       8.4877497,
       47.4812197
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/341946744",
-  "properties": {
-    "amenity": "school",
-    "name": "Ruggenacher 1",
-    "id": "node/341946744"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4655753,
-      47.4342772
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/341947280",
-  "properties": {
-    "amenity": "school",
-    "name": "Ruggenacher 3",
-    "id": "node/341947280"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.464336,
-      47.4355206
     ]
   }
 },
