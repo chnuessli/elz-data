@@ -24898,9 +24898,10 @@
 },
 {
   "type": "Feature",
-  "id": "way/256159062",
+  "id": "way/255716321",
   "properties": {
     "addr:city": "Tann",
+    "addr:country": "CH",
     "addr:housenumber": "15",
     "addr:postcode": "8632",
     "addr:street": "Zelgackerstrassse",
@@ -24911,33 +24912,32 @@
     "operator": "Neuthal Suchttherapie",
     "phone": "+41 52 386 18 21",
     "social_facility": "assisted_living",
-    "source": "bing",
     "website": "https://www.neuthal.ch/a3.php",
-    "id": "way/256159062"
+    "id": "way/255716321"
   },
   "geometry": {
     "type": "Polygon",
     "coordinates": [
       [
         [
-          8.8512439,
-          47.2634442
+          8.8496422,
+          47.2645844
         ],
         [
-          8.8512208,
-          47.2633699
+          8.8495623,
+          47.2645098
         ],
         [
-          8.8513521,
-          47.263351
+          8.8496588,
+          47.2644621
         ],
         [
-          8.8513753,
-          47.2634254
+          8.8497388,
+          47.2645367
         ],
         [
-          8.8512439,
-          47.2634442
+          8.8496422,
+          47.2645844
         ]
       ]
     ]

@@ -8947,7 +8947,7 @@
     "addr:postcode": "8004",
     "addr:street": "Eglistrasse",
     "amenity": "clinic",
-    "mai": "info@zuercher-lighthouse.ch",
+    "email": "info@zuercher-lighthouse.ch",
     "name": "Zürcher Lighthouse",
     "operator": "Stiftung Zürcher Lighthouse",
     "phone": "+ 41 44 265 38 11",
