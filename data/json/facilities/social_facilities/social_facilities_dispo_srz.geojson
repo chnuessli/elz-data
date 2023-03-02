@@ -11990,6 +11990,10 @@
           47.3773006
         ],
         [
+          8.556648,
+          47.3773084
+        ],
+        [
           8.5566745,
           47.3773291
         ],
@@ -27959,7 +27963,7 @@
     "addr:country": "CH",
     "addr:housenumber": "15",
     "addr:postcode": "8632",
-    "addr:street": "Zelgackerstrassse",
+    "addr:street": "Zelgackerstrasse",
     "amenity": "social_facility",
     "building": "yes",
     "email": "info@neuthal.ch",
@@ -46807,6 +46811,125 @@
         [
           8.5455126,
           47.378391
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1150198138",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "48",
+    "addr:postcode": "8006",
+    "addr:street": "Turnerstrasse",
+    "amenity": "social_facility",
+    "capacity": "120",
+    "layer": "-1",
+    "level": "-1",
+    "name": "Temporäres Durchgangszentrum Turnerstrasse",
+    "operator": "AOZ",
+    "social_facility": "shelter",
+    "website": "https://www.stadt-zuerich.ch/aoz/de/index/aoz/aktuell/news/eroeffnung-temporaeres-durchgangszentrum-turnerstrasse0.html",
+    "id": "way/1150198138"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5422319,
+          47.387678
+        ],
+        [
+          8.5425428,
+          47.3872356
+        ],
+        [
+          8.5425894,
+          47.3872506
+        ],
+        [
+          8.5424939,
+          47.3873881
+        ],
+        [
+          8.5426324,
+          47.3874323
+        ],
+        [
+          8.542605,
+          47.3874709
+        ],
+        [
+          8.542631,
+          47.3874797
+        ],
+        [
+          8.542645,
+          47.387461
+        ],
+        [
+          8.5426659,
+          47.3874682
+        ],
+        [
+          8.5426522,
+          47.3874865
+        ],
+        [
+          8.5430909,
+          47.3876283
+        ],
+        [
+          8.5431647,
+          47.3875253
+        ],
+        [
+          8.5432131,
+          47.3875401
+        ],
+        [
+          8.5432175,
+          47.3875342
+        ],
+        [
+          8.5432264,
+          47.3875372
+        ],
+        [
+          8.5432708,
+          47.3874733
+        ],
+        [
+          8.5432243,
+          47.3874479
+        ],
+        [
+          8.5432408,
+          47.3874319
+        ],
+        [
+          8.5433237,
+          47.3874773
+        ],
+        [
+          8.5430062,
+          47.3879301
+        ],
+        [
+          8.54228,
+          47.3876953
+        ],
+        [
+          8.5422794,
+          47.3876932
+        ],
+        [
+          8.5422319,
+          47.387678
         ]
       ]
     ]

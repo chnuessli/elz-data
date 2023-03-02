@@ -3745,46 +3745,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/363104910",
-  "properties": {
-    "aeroway": "helipad",
-    "lit": "yes",
-    "name": "Kantonspital Frauenfeld",
-    "note": "Not sure this is still in use, there appears to be another helipad on the new hospital building",
-    "operator": "Kantonspital Frauenfeld",
-    "surface": "paved",
-    "id": "way/363104910"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.9111504,
-          47.5492835
-        ],
-        [
-          8.9111656,
-          47.5491765
-        ],
-        [
-          8.9113259,
-          47.5491868
-        ],
-        [
-          8.9113098,
-          47.5492944
-        ],
-        [
-          8.9111504,
-          47.5492835
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/368757722",
   "properties": {
     "aeroway": "helipad",

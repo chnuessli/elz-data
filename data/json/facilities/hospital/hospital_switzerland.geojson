@@ -19949,22 +19949,16 @@
   "type": "Feature",
   "id": "way/299349027",
   "properties": {
-    "addr:city": "Frauenfeld",
-    "addr:housenumber": "4",
-    "addr:postcode": "8500",
-    "addr:street": "Pfaffenholzstrasse",
-    "amenity": "hospital",
     "building:colour": "#DCE1D8",
     "building:levels": "15",
     "building:material": "concrete",
-    "emergency": "yes",
+    "building:part": "yes",
     "healthcare": "hospital",
     "height": "60",
-    "name": "Kantonsspital Frauenfeld",
-    "operator": "Spital Thurgau AG",
-    "operator:type": "public",
     "roof:colour": "#6E7472",
     "roof:shape": "flat",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
     "id": "way/299349027"
   },
   "geometry": {
@@ -28846,9 +28840,12 @@
     "addr:postcode": "8501",
     "addr:street": "Pfaffenholzstrasse",
     "amenity": "hospital",
+    "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "Kantonsspital Frauenfeld",
+    "operator": "Spital Thurgau AG",
+    "operator:type": "public",
     "phone": "+41 52 723 77 11",
     "short_name": "KSF",
     "website": "https://www.stgag.ch/",
@@ -28868,28 +28865,20 @@
           47.5477121
         ],
         [
-          8.9101508,
-          47.5473649
+          8.9100744,
+          47.5474148
+        ],
+        [
+          8.9101665,
+          47.547421
         ],
         [
           8.9105037,
           47.5476593
         ],
         [
-          8.9106558,
-          47.547817
-        ],
-        [
-          8.9106725,
-          47.5478343
-        ],
-        [
-          8.9111687,
-          47.5481547
-        ],
-        [
-          8.9115657,
-          47.5484118
+          8.9115458,
+          47.5484264
         ],
         [
           8.9114074,
@@ -43947,77 +43936,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/843048696",
-  "properties": {
-    "addr:city": "Frauenfeld",
-    "addr:housenumber": "4",
-    "addr:postcode": "8500",
-    "addr:street": "Pfaffenholzstrasse",
-    "amenity": "hospital",
-    "building": "yes",
-    "building:levels": "9",
-    "building:levels:underground": "2",
-    "building:material": "concrete",
-    "healthcare": "hospital",
-    "name": "Horizont",
-    "operator": "Spital Thurgau AG",
-    "operator:type": "public",
-    "id": "way/843048696"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.9100367,
-          47.5494194
-        ],
-        [
-          8.9101924,
-          47.5494449
-        ],
-        [
-          8.9102188,
-          47.5493708
-        ],
-        [
-          8.9113041,
-          47.5495491
-        ],
-        [
-          8.911184,
-          47.5498752
-        ],
-        [
-          8.9103563,
-          47.5497394
-        ],
-        [
-          8.9101842,
-          47.5497108
-        ],
-        [
-          8.9101012,
-          47.5496975
-        ],
-        [
-          8.9101093,
-          47.5496752
-        ],
-        [
-          8.9099541,
-          47.5496502
-        ],
-        [
-          8.9100367,
-          47.5494194
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/856698475",
   "properties": {
     "addr:city": "Zürich-Flughafen",
@@ -51926,6 +51844,32 @@
     "coordinates": [
       8.511215,
       47.3839866
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10698817361",
+  "properties": {
+    "addr:city": "Luzern",
+    "addr:housenumber": "40",
+    "addr:postcode": "6004",
+    "addr:street": "Spitalstrasse",
+    "amenity": "clinic",
+    "email": "adipositaszentrum@luks.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "adipositas",
+    "name": "Adipositaszentrum Zentralschweiz",
+    "operator": "Luzerner Kantonsspital",
+    "phone": "+41 41 205 38 50",
+    "website": "https://www.luks.ch/standorte/standort-luzern/adipositaszentrum-zentralschweiz",
+    "id": "node/10698817361"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2994708,
+      47.0586672
     ]
   }
 }

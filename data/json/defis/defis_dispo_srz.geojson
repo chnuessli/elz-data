@@ -41954,7 +41954,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Th 09:00-11:30, 13:30-16:00, Fr 09:00-11:30, 13:30-15:00",
-    "operator": "Mühlemann Alex",
+    "operator": "Simon Schraner",
     "phone": "+41 76 357 23 56",
     "id": "node/9737582466"
   },
@@ -53587,6 +53587,166 @@
     "coordinates": [
       8.8880534,
       47.3390108
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10699506105",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Sekretariat",
+    "description": "Zu Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "MO-FR 8.00-12.00 und 13.30-17.00",
+    "operator": "Geschäft",
+    "phone": "+41 44 851 50 71",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10699506105"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4945667,
+      47.4847217
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10702067766",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "An der Aussenwand des Vereinshauses",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Lindau",
+    "id": "node/10702067766"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7007025,
+      47.4398261
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10702067767",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "An der Aussenwand des Basketballplatz",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Lindau",
+    "id": "node/10702067767"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6980847,
+      47.4427994
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10702067768",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "An der Aussenwand des Turnhalle",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Lindau",
+    "id": "node/10702067768"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6940271,
+      47.4517524
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10702067769",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "An der Aussenwand des Gemeindehauses",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Lindau",
+    "id": "node/10702067769"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6712357,
+      47.4416307
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10702067770",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "An der Aussenwand des Bucksaal",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Lindau",
+    "id": "node/10702067770"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6698651,
+      47.4336223
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10702285505",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Feuerwehrgebäude",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Feuerwehr Zumikon-Küsnachterberg",
+    "id": "node/10702285505"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6205108,
+      47.3387891
     ]
   }
 }
