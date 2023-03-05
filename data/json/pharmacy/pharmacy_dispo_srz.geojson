@@ -2076,6 +2076,7 @@
     "addr:postcode": "8400",
     "addr:street": "Marktgasse",
     "amenity": "pharmacy",
+    "check_date:opening_hours": "2023-03-03",
     "dispensing": "yes",
     "drive_through": "no",
     "healthcare": "pharmacy",
@@ -3755,6 +3756,7 @@
     "amenity": "pharmacy",
     "brand": "Achillea Apotheke",
     "name": "Rathaus Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
     "operator": "Dr. Bähler Dropa",
     "website": "https://achillea.ch/standorte/rathaus-apotheke",
     "id": "node/1581271937"
