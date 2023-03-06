@@ -47633,22 +47633,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9419229689",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Spielgruppe Summervogel",
-    "id": "node/9419229689"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7301958,
-      47.3449291
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9485400653",
   "properties": {
     "amenity": "kindergarten",
@@ -51221,6 +51205,22 @@
     "coordinates": [
       8.4258408,
       47.1732705
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10712571236",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Am Stadtrand",
+    "id": "node/10712571236"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5978029,
+      47.3977909
     ]
   }
 }

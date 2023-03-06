@@ -1723,6 +1723,8 @@
     "amenity": "childcare",
     "building": "yes",
     "email": "info@spielchischte-uster.ch",
+    "max_age": "Kindergarteneintritt",
+    "min_age": "2",
     "name": "Spielgruppe Spielchischte",
     "phone": "+41 43 399 00 78",
     "website": "http://www.spielchischte-uster.ch",
@@ -3512,6 +3514,32 @@
 },
 {
   "type": "Feature",
+  "id": "node/269549760",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "26",
+    "addr:postcode": "8610",
+    "addr:street": "Florastrasse",
+    "amenity": "childcare",
+    "contact:phone": "+41 44 940 11 62",
+    "contact:website": "https://www.kinderkrippeheusserstaub.ch/",
+    "max_age": "Kindergarteneintritt",
+    "min_age": "3 months",
+    "name": "Kinderkrippe Heusser-Staub",
+    "opening_hours": "Mo-Fr 06:30-18:00",
+    "operator": "Maria Dastoor",
+    "id": "node/269549760"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7219861,
+      47.3470098
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/299616478",
   "properties": {
     "amenity": "childcare",
@@ -3689,17 +3717,20 @@
     "addr:postcode": "8610",
     "addr:street": "Weiherallee",
     "amenity": "childcare",
-    "email": "info@ramba-zamba.ch",
+    "contact:email": "info@ramba-zamba.ch",
+    "contact:phone": "+41 44 542 43 08",
+    "contact:website": "https://www.ramba-zamba.ch/",
+    "max_age": "12",
+    "min_age": "3 months",
     "name": "Verein Ramba-Zamba Kinderbetreuung",
-    "phone": "+41 44 994 57 07",
-    "website": "https://www.ramba-zamba.ch/",
+    "opening_hours": "Mo-Fr 07:00-18:00",
     "id": "node/2295261771"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7081085,
-      47.3466793
+      8.7081002,
+      47.3466634
     ]
   }
 },
@@ -4227,19 +4258,23 @@
   "id": "node/3970363222",
   "properties": {
     "addr:city": "Uster",
+    "addr:housenumber": "8",
     "addr:postcode": "8610",
     "addr:street": "Im Werk",
     "amenity": "childcare",
+    "contact:phone": "+41 44 212 14 41",
+    "contact:website": "https://www.gluehwuermli.ch",
+    "max_age": "Kindergarteneintritt",
+    "min_age": "3",
     "name": "Spielgruppe Glüehwürmli",
-    "phone": "+41 44 212 14 41",
-    "website": "https://www.spielgruppe.ch/p473.html?action=detail&id=30023751&dportal=1&src_plz=8610",
+    "opening_hours": "Tu,Fr 08:30-11:30",
     "id": "node/3970363222"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7240631,
-      47.3500371
+      8.723634,
+      47.350063
     ]
   }
 },
@@ -9155,6 +9190,29 @@
 },
 {
   "type": "Feature",
+  "id": "node/9419229689",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "38a",
+    "addr:postcode": "8610",
+    "addr:street": "Aathalstrasse",
+    "amenity": "childcare",
+    "contact:website": "https://www.spielgruppesummervogel.ch",
+    "name": "Spielgruppe Summervogel",
+    "opening_hours": "Mo-Fr 07:45-12:15",
+    "operator": "Verbena Fanti",
+    "id": "node/9419229689"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7301958,
+      47.3449291
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9423477439",
   "properties": {
     "addr:city": "Bäretswil",
@@ -11099,6 +11157,159 @@
     "coordinates": [
       8.5620099,
       47.421403
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10712387448",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "47",
+    "addr:postcode": "8610",
+    "addr:street": "Wagerenstrasse",
+    "amenity": "childcare",
+    "contact:phone": "+41 44 911 10 67",
+    "contact:website": "https://www.spitaluster.ch/Karriere/Das-bieten-wir-Ihnen/Kinderkrippe.304.html",
+    "max_age": "Kindergarteneintritt",
+    "min_age": "6 months",
+    "name": "Krippe Rösligarten",
+    "opening_hours": "Mo-Fr 06:30-18:30",
+    "operator": "Mirjam Schuler",
+    "id": "node/10712387448"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.728366,
+      47.351129
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10712401012",
+  "properties": {
+    "addr:city": "Nänikon",
+    "addr:housenumber": "49",
+    "addr:postcode": "8606",
+    "addr:street": "Stationsstrasse",
+    "amenity": "childcare",
+    "contact:phone": "+41 79 427 23 37",
+    "contact:website": "http://www.pumuckl-greifensee.net",
+    "max_age": "Kindergarteneintritt",
+    "min_age": "2",
+    "name": "Spielgruppe Pumuckl",
+    "operator": "Margret Muff",
+    "id": "node/10712401012"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.688104,
+      47.369717
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10712435012",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "4a",
+    "addr:postcode": "8610",
+    "addr:street": "Seefeldstrasse",
+    "amenity": "childcare",
+    "contact:phone": "+41 44 545 30 53",
+    "contact:website": "https://www.kitaseegarten.ch/",
+    "max_age": "Kindergarteneintritt",
+    "min_age": "3 months",
+    "name": "KiTa Seegarten",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator": "Verein KiTa Seegarten",
+    "id": "node/10712435012"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.701207,
+      47.3438525
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10712526642",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "1",
+    "addr:postcode": "8610",
+    "addr:street": "Tännbergstrasse",
+    "amenity": "childcare",
+    "contact:website": "https://www.ameisinaescht.ch",
+    "min_age": "2",
+    "name": "Spielgruppe Ameisinäscht",
+    "opening_hours": "Mo-Fr 08:00-12:00",
+    "operator": "Sylvia Seeholzer",
+    "id": "node/10712526642"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.734382,
+      47.34101
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10712975270",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "3",
+    "addr:postcode": "8610",
+    "addr:street": "Im Werk",
+    "amenity": "childcare",
+    "contact:phone": "+41 43 305 90 06",
+    "contact:website": "https://www.chinderhuusimwerk.ch",
+    "max_age": "Schuleintritt",
+    "min_age": "4 months",
+    "name": "Chinderhuus im Werk",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator": "Annika Frey",
+    "id": "node/10712975270"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.723279,
+      47.350105
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10712978334",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "18",
+    "addr:postcode": "8610",
+    "addr:street": "Winterthurerstrasse",
+    "amenity": "childcare",
+    "contact:phone": "+41 43 305 92 50",
+    "contact:website": "http://www.wac.ch/spielgruppe",
+    "max_age": "5",
+    "min_age": "2",
+    "name": "Spielgruppe WACkelöhrli",
+    "opening_hours": "Th 11:45-17:00",
+    "operator": "Andrea Schümperli-Werren",
+    "id": "node/10712978334"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.71322,
+      47.35447
     ]
   }
 }

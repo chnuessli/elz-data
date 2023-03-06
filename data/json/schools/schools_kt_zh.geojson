@@ -97242,24 +97242,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/269549760",
-  "properties": {
-    "amenity": "school",
-    "name": "Kinderkrippe",
-    "phone": "+41 44 940 11 62",
-    "website": "https://www.kinderkrippeheusserstaub.ch/",
-    "id": "node/269549760"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7219416,
-      47.3470273
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/295104978",
   "properties": {
     "amenity": "school",
