@@ -47503,6 +47503,34 @@
 },
 {
   "type": "Feature",
+  "id": "node/1916287474",
+  "properties": {
+    "addr:city": "Bremgarten",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "5620",
+    "addr:street": "Bärenmattstrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general;internal;dermatology;orthopaedics;gastroenterology",
+    "name": "Ärzte an der Reuss",
+    "operator": "Ärzte an der Reuss GmbH",
+    "operator:type": "private",
+    "phone": "+41566499949",
+    "source": "survey",
+    "website": "http://aadr.ch/",
+    "id": "node/1916287474"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3461211,
+      47.3504852
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2431011784",
   "properties": {
     "amenity": "clinic",

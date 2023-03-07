@@ -20418,64 +20418,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/194007458",
-  "properties": {
-    "addr:city": "Dielsdorf",
-    "addr:housenumber": "28",
-    "addr:postcode": "8157",
-    "addr:street": "Buchserstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Bürgli",
-    "source": "bing",
-    "id": "way/194007458"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4522395,
-          47.4772665
-        ],
-        [
-          8.4522597,
-          47.4771183
-        ],
-        [
-          8.4525966,
-          47.4771394
-        ],
-        [
-          8.4525832,
-          47.4772369
-        ],
-        [
-          8.4526527,
-          47.4772413
-        ],
-        [
-          8.4526487,
-          47.47727
-        ],
-        [
-          8.4525787,
-          47.4772656
-        ],
-        [
-          8.4525757,
-          47.4772875
-        ],
-        [
-          8.4522395,
-          47.4772665
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/194185092",
   "properties": {
     "addr:city": "Rüti ZH",
@@ -38609,6 +38551,50 @@
         [
           8.7531219,
           47.5039712
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1152009967",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Bürgli",
+    "id": "way/1152009967"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4520684,
+          47.4772063
+        ],
+        [
+          8.4520949,
+          47.4769448
+        ],
+        [
+          8.4527539,
+          47.4769758
+        ],
+        [
+          8.4526724,
+          47.4774531
+        ],
+        [
+          8.4525897,
+          47.4774787
+        ],
+        [
+          8.4522613,
+          47.4773677
+        ],
+        [
+          8.4520684,
+          47.4772063
         ]
       ]
     ]

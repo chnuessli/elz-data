@@ -11976,6 +11976,28 @@
       47.35447
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10713662345",
+  "properties": {
+    "amenity": "childcare",
+    "contact:phone": "+41 44 940 61 82",
+    "contact:website": "https://www.waldspielgruppe-wurzeln.ch",
+    "max_age": "6",
+    "min_age": "2 years 10 months",
+    "name": "Waldspielgruppe Wurzeln",
+    "opening_hours": "Mo 14:00-17:00; We 08:30-11:30; Th 10:00-14:00",
+    "operator": "Hanne Grimm",
+    "id": "node/10713662345"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7000351,
+      47.351897
+    ]
+  }
 }
 ]
 }
