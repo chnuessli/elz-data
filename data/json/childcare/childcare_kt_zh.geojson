@@ -4003,10 +4003,17 @@
   "type": "Feature",
   "id": "node/3715345051",
   "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "36",
+    "addr:postcode": "8610",
+    "addr:street": "Zentralstrasse",
     "amenity": "childcare",
     "email": "info@kinderkrippe-uster.ch",
-    "name": "Mary Poppins",
+    "max_age": "Kindergarteneintritt",
+    "min_age": "6 months",
+    "name": "Kinderkrippe Mary Poppins",
     "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator": "Denise L’Eplattenier Rian",
     "phone": "+41 44 949 40 45",
     "website": "https://kinderkrippe-uster.ch/",
     "id": "node/3715345051"
@@ -4014,8 +4021,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7164736,
-      47.3465651
+      8.7165949,
+      47.3465184
     ]
   }
 },
