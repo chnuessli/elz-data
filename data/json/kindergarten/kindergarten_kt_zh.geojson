@@ -34509,23 +34509,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1263163861",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kinderkrippe Schatzkiste",
-    "website": "https://www.krippeschatzkiste.ch/",
-    "id": "node/1263163861"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7108583,
-      47.3595586
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1305706569",
   "properties": {
     "addr:city": "Buchs ZH",

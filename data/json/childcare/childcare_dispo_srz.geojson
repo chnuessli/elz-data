@@ -3886,6 +3886,32 @@
 },
 {
   "type": "Feature",
+  "id": "node/1263163861",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "1",
+    "addr:postcode": "8610",
+    "addr:street": "Lorenweg",
+    "amenity": "childcare",
+    "contact:phone": "+41 43 366 53 29",
+    "contact:website": "https://www.krippeschatzkiste.ch/",
+    "max_age": "Kindergarteneintritt",
+    "min_age": "3 months",
+    "name": "Kinderkrippe Schatzkiste",
+    "opening_hours": "Mo-Fr 06:30-18:15",
+    "operator": "Stephanie",
+    "id": "node/1263163861"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7108583,
+      47.3595586
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1617870584",
   "properties": {
     "amenity": "childcare",
@@ -12003,6 +12029,58 @@
     "coordinates": [
       8.7000351,
       47.351897
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10723234622",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "8",
+    "addr:postcode": "8610",
+    "addr:street": "Braschlergasse",
+    "amenity": "childcare",
+    "contact:phone": "+41 43 311 66 16",
+    "contact:website": "https://www.kitafugu.ch/fugu-kinderkrippe-uster/",
+    "level": "1",
+    "max_age": "Schuleintritt",
+    "min_age": "3 months",
+    "name": "Fugu Kinderkrippe Uster",
+    "opening_hours": "Mo-Fr 07:00-18:15",
+    "opening_hours:office": "Mo-Fr 08:00-12:00,13:00-17:00",
+    "id": "node/10723234622"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7199404,
+      47.3485578
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10723254489",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "81",
+    "addr:postcode": "8610",
+    "addr:street": "Sulzbacherstrasse",
+    "amenity": "childcare",
+    "contact:phone": "+41 79 472 42 44",
+    "contact:website": "https://spielgruppe-wakiti.ch/",
+    "min_age": "3",
+    "name": "Naturspielgruppe Wakiti",
+    "opening_hours": "Tu 08:30-11:30",
+    "operator": "Jill Zimmermann",
+    "id": "node/10723254489"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.740902,
+      47.3342442
     ]
   }
 }
