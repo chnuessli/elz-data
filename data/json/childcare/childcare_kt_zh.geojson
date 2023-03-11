@@ -11419,6 +11419,26 @@
       47.3342442
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10725028895",
+  "properties": {
+    "amenity": "childcare",
+    "contact:phone": "+41 79 535 59 54",
+    "contact:website": "http://www.waldkinderuster.ch",
+    "min_age": "2 years 6 months",
+    "name": "Waldkinder Uster",
+    "opening_hours": "Mo-Th 08:30-11:30; We 08:30-11:30,13:45-16:15",
+    "id": "node/10725028895"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7176651,
+      47.3590783
+    ]
+  }
 }
 ]
 }

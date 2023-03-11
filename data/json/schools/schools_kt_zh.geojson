@@ -38964,12 +38964,16 @@
           47.5031737
         ],
         [
-          8.7259529,
-          47.5029782
+          8.7260467,
+          47.5030604
         ],
         [
-          8.7258858,
-          47.5028541
+          8.7259716,
+          47.5029694
+        ],
+        [
+          8.7259273,
+          47.5028655
         ],
         [
           8.7258939,
@@ -98275,13 +98279,6 @@
     "addr:postcode": "8002",
     "addr:street": "Grütlistrasse",
     "amenity": "school",
-    "contact:city": "Zürich",
-    "contact:email": "info@noam.ch",
-    "contact:housenumber": "68",
-    "contact:phone": "+41 44 289 66 66",
-    "contact:postcode": "8002",
-    "contact:street": "Grütlistrasse",
-    "contact:website": "https://www.noam.ch/de/startseite/",
     "denomination": "jewish",
     "description": "Primar- und Sekundarschule, modern-orthodoxe (weltoffen orthodoxe) jüdische Tagesschule",
     "email": "info@noam.ch",
@@ -98290,8 +98287,9 @@
     "name": "Jüdische Schule NOAM",
     "operator": "Verein Jüdische Schule NOAM",
     "operator:type": "private",
+    "phone": "+41 44 289 66 66",
     "religion": "jewish",
-    "website": "www.noam.ch",
+    "website": "https://www.noam.ch/de/startseite/",
     "id": "node/5331387438"
   },
   "geometry": {
@@ -98306,20 +98304,19 @@
   "type": "Feature",
   "id": "node/5331387440",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "53",
+    "addr:postcode": "8003",
+    "addr:street": "Gotthelfstrasse",
     "alt_name": "HPS Gotthelf",
     "amenity": "school",
-    "contact:city": "Zürich",
-    "contact:housenumber": "*",
-    "contact:phone": "+41 44 413 43 00",
-    "contact:postcode": "8003",
-    "contact:street": "Gotthelfstrasse",
-    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/hps/ueberuns/standorte/schulhaus.html#schulhaus_gotthelf",
     "isced:level": "2",
     "name": "Heilpädagogische Schule Gotthelf",
     "operator": "Stadt Zürich, SSD, Sonderschulen",
     "operator:type": "public",
+    "phone": "+41 44 413 43 00",
     "short_name": "HPS",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/hps.html",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/hps/ueberuns/standorte/schulhaus.html#schulhaus_gotthelf",
     "id": "node/5331387440"
   },
   "geometry": {
