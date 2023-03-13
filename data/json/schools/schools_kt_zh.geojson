@@ -78043,6 +78043,7 @@
   "id": "way/430108656",
   "properties": {
     "amenity": "school",
+    "name": "Feldhofschule",
     "id": "way/430108656"
   },
   "geometry": {
