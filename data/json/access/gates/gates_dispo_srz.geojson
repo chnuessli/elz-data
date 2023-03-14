@@ -2534,27 +2534,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1116885859",
-  "properties": {
-    "barrier": "gate",
-    "id": "way/1116885859"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.6228263,
-        47.3961651
-      ],
-      [
-        8.6228735,
-        47.3961251
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1121055074",
   "properties": {
     "barrier": "gate",
@@ -19844,8 +19823,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8318205,
-      47.2996648
+      8.8318213,
+      47.2996652
     ]
   }
 },
@@ -71296,6 +71275,7 @@
   "type": "Feature",
   "id": "node/9320382948",
   "properties": {
+    "access": "no",
     "barrier": "lift_gate",
     "lift_gate:type": "single",
     "id": "node/9320382948"
@@ -71303,8 +71283,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8128434,
-      47.3001541
+      8.8128195,
+      47.3001325
     ]
   }
 },
@@ -76541,6 +76521,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/10214632993",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "node/10214632993"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6228447,
+      47.3961517
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/10217123828",
   "properties": {
     "access": "no",
@@ -80138,6 +80135,40 @@
     "coordinates": [
       8.8121349,
       47.4757445
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10733851599",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/10733851599"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8211866,
+      47.3013879
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10733946441",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/10733946441"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8302578,
+      47.2990893
     ]
   }
 }
