@@ -15630,6 +15630,78 @@
 },
 {
   "type": "Feature",
+  "id": "way/122075984",
+  "properties": {
+    "addr:housenumber": "477",
+    "addr:postcode": "8051",
+    "addr:street": "Ueberlandstrasse",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "building:levels": "11",
+    "description": "Wohnsiedlung Ueberland",
+    "height": "30",
+    "name": "Begleitetes Wohnen Überlandstrasse",
+    "old_name": "SAW-Siedlung Überland",
+    "owner": "Stadt Zürich, FD, Liegenschaftenverwaltung",
+    "roof:shape": "flat",
+    "social_facility": "assisted_living",
+    "start_date": "1971",
+    "id": "way/122075984"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5944647,
+          47.4058716
+        ],
+        [
+          8.5946866,
+          47.4059854
+        ],
+        [
+          8.5946233,
+          47.4060419
+        ],
+        [
+          8.5945985,
+          47.4060292
+        ],
+        [
+          8.5945577,
+          47.4060657
+        ],
+        [
+          8.5945238,
+          47.4060483
+        ],
+        [
+          8.5944701,
+          47.4060963
+        ],
+        [
+          8.5943255,
+          47.4060221
+        ],
+        [
+          8.5944222,
+          47.4059357
+        ],
+        [
+          8.5944036,
+          47.4059262
+        ],
+        [
+          8.5944647,
+          47.4058716
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/122667524",
   "properties": {
     "addr:city": "Zürich",

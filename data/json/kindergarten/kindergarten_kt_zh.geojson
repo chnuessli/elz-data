@@ -30569,6 +30569,7 @@
     "contact:postcode": "8008",
     "contact:street": "Im Walder",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/balgrist/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
     "name": "Kindergarten Im Walder",
     "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Balgrist-Kartaus",
     "operator:type": "public",
