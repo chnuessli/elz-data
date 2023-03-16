@@ -12810,65 +12810,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/121064437",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "217",
-    "addr:postcode": "8032",
-    "addr:street": "Forchstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Hirslanden 1 + 2",
-    "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
-    "id": "way/121064437"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5694872,
-          47.3598075
-        ],
-        [
-          8.569368,
-          47.359726
-        ],
-        [
-          8.5695385,
-          47.3596116
-        ],
-        [
-          8.5696571,
-          47.3596916
-        ],
-        [
-          8.5696015,
-          47.3597285
-        ],
-        [
-          8.5696301,
-          47.3597485
-        ],
-        [
-          8.5695702,
-          47.3597893
-        ],
-        [
-          8.5695424,
-          47.35977
-        ],
-        [
-          8.5694872,
-          47.3598075
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/122235264",
   "properties": {
     "addr:city": "Illnau",

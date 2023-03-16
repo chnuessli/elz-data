@@ -25807,113 +25807,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/274635075",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "45",
-    "addr:postcode": "8008",
-    "addr:street": "Witellikerstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "email": "sekretariat@stiftung-hirslanden.ch",
-    "name": "Sozialpädagogisches Zentrum für junge Frauen",
-    "operator": "Stiftung Hirslanden",
-    "phone": "+41 44 389 20 20",
-    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
-    "website": "https://www.stiftung-hirslanden.ch/",
-    "id": "way/274635075"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5774578,
-          47.3510122
-        ],
-        [
-          8.5774781,
-          47.3509705
-        ],
-        [
-          8.5774727,
-          47.3509693
-        ],
-        [
-          8.5775019,
-          47.3509091
-        ],
-        [
-          8.5774923,
-          47.3509069
-        ],
-        [
-          8.5775416,
-          47.3508055
-        ],
-        [
-          8.5776063,
-          47.3508199
-        ],
-        [
-          8.5776044,
-          47.3508239
-        ],
-        [
-          8.5777027,
-          47.3508458
-        ],
-        [
-          8.5776994,
-          47.3508528
-        ],
-        [
-          8.5777666,
-          47.3508678
-        ],
-        [
-          8.5777339,
-          47.3509352
-        ],
-        [
-          8.5777004,
-          47.3509277
-        ],
-        [
-          8.5776648,
-          47.3510013
-        ],
-        [
-          8.5777623,
-          47.3510232
-        ],
-        [
-          8.5776899,
-          47.3511709
-        ],
-        [
-          8.5775756,
-          47.3511452
-        ],
-        [
-          8.5776228,
-          47.3510489
-        ],
-        [
-          8.5775135,
-          47.3510246
-        ],
-        [
-          8.5774578,
-          47.3510122
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/275126089",
   "properties": {
     "addr:city": "Wald (ZH)",
@@ -44703,6 +44596,59 @@
     "coordinates": [
       8.8589678,
       47.2584186
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10736523294",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "45",
+    "addr:postcode": "8008",
+    "addr:street": "Witellikerstrasse",
+    "amenity": "social_facility",
+    "email": "sekretariat@stiftung-hirslanden.ch",
+    "name": "Sozialpädagogisches Zentrum für junge Frauen",
+    "operator": "Stiftung Hirslanden",
+    "phone": "+41 44 389 20 20",
+    "social_facility": "group_home",
+    "social_facility:for": "juvenile",
+    "website": "https://www.stiftung-hirslanden.ch/",
+    "id": "node/10736523294"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5775618,
+      47.3510221
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10736711635",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "14",
+    "addr:postcode": "8004",
+    "addr:street": "Langstrasse",
+    "amenity": "social_facility",
+    "level": "0",
+    "name": "Flora Dora",
+    "opening_hours": "Mo-Tu,Th-Fr 15:00-18:00",
+    "operator": "Stadt Zürich, Sozialdepartement",
+    "social_facility": "outreach",
+    "website": "https://www.stadt-zuerich.ch/floradora",
+    "id": "node/10736711635"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5248704,
+      47.3749378
     ]
   }
 }

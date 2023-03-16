@@ -781,12 +781,12 @@
           47.3512548
         ],
         [
-          8.5765092,
-          47.3512754
+          8.5765233,
+          47.3512718
         ],
         [
-          8.5764513,
-          47.3513972
+          8.5764609,
+          47.3514032
         ],
         [
           8.5763535,
@@ -21088,6 +21088,115 @@
 },
 {
   "type": "Feature",
+  "id": "way/309554079",
+  "properties": {
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "311",
+    "addr:postcode": "9016",
+    "addr:street": "Rorschacher Strasse",
+    "amenity": "hospital",
+    "building": "yes",
+    "email": "info@oberweid.ch",
+    "emergency": "no",
+    "internet_access": "yes",
+    "name": "Oberwaid Hotel & Klink",
+    "operator": "Oberweid AG",
+    "operator:type": "private",
+    "phone": "+41 71 282 00 00",
+    "tourism": "hotel",
+    "website": "https://oberwaid.ch/",
+    "id": "way/309554079"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.4193243,
+          47.4517349
+        ],
+        [
+          9.4191543,
+          47.4515504
+        ],
+        [
+          9.4196347,
+          47.4513218
+        ],
+        [
+          9.419694,
+          47.4512777
+        ],
+        [
+          9.4197494,
+          47.4512162
+        ],
+        [
+          9.4197691,
+          47.451144
+        ],
+        [
+          9.4197612,
+          47.4510745
+        ],
+        [
+          9.4196901,
+          47.4508111
+        ],
+        [
+          9.4199629,
+          47.450771
+        ],
+        [
+          9.4200657,
+          47.451132
+        ],
+        [
+          9.4200835,
+          47.4511707
+        ],
+        [
+          9.420131,
+          47.4512068
+        ],
+        [
+          9.4201844,
+          47.4512296
+        ],
+        [
+          9.4205165,
+          47.4512402
+        ],
+        [
+          9.4205027,
+          47.4514435
+        ],
+        [
+          9.4201488,
+          47.4514301
+        ],
+        [
+          9.4200005,
+          47.4514435
+        ],
+        [
+          9.4198265,
+          47.4514849
+        ],
+        [
+          9.4196485,
+          47.4515598
+        ],
+        [
+          9.4193243,
+          47.4517349
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/316353864",
   "properties": {
     "addr:city": "Köniz",
@@ -28763,8 +28872,8 @@
           47.3526578
         ],
         [
-          8.5761675,
-          47.3530019
+          8.576151,
+          47.3529551
         ],
         [
           8.5760347,
@@ -50433,28 +50542,6 @@
     "coordinates": [
       6.8514771,
       46.4573897
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7587836147",
-  "properties": {
-    "addr:city": "Leukerbad",
-    "addr:housenumber": "14",
-    "addr:postcode": "3954",
-    "addr:street": "Grunibodenstrasse",
-    "amenity": "hospital",
-    "healthcare": "hospital",
-    "name": "Leukerbad Holiday Home",
-    "website": "https://www.leukerbad-holiday.com/de",
-    "id": "node/7587836147"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.6267888,
-      46.3823532
     ]
   }
 },

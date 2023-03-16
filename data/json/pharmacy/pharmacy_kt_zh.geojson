@@ -4748,6 +4748,35 @@
 },
 {
   "type": "Feature",
+  "id": "node/3806510697",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "8048",
+    "addr:street": "Altstetterplatz",
+    "alt_name": "BENU Apotheke Altstetten",
+    "amenity": "pharmacy",
+    "branch": "Zürich Altstetten",
+    "brand": "BENU",
+    "brand:wikidata": "Q62562792",
+    "name": "BENU Apotheke",
+    "old_name": "Amavita Altstetten",
+    "opening_hours": "Mo-Fr 07:00-18:30, Sa 09:00-14:00; PH off",
+    "operator": "BENU Pharmacies",
+    "website": "https://www.benu.ch/de/unsere-apotheken/benu-z%C3%BCrich-altstetten/",
+    "id": "node/3806510697"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.489244,
+      47.3912927
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3815185876",
   "properties": {
     "addr:city": "Thalwil",
