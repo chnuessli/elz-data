@@ -19373,15 +19373,17 @@
   "type": "Feature",
   "id": "way/1041902371",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "39",
-    "addr:postcode": "8048",
-    "addr:street": "Mürtschenstrasse",
     "amenity": "school",
-    "name": "Schule Kappeli Sekundar, Gebäude Mürtschenpark",
-    "operator": "Stadt Zürich",
+    "contact:city": "Zürich",
+    "contact:housenumber": "39",
+    "contact:phone": "+41 44 413 35 80",
+    "contact:postcode": "8048",
+    "contact:street": "Mürtschenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kappeli_sek/ueberuns/standorte/schulhaus.html",
+    "isced:level": "2",
+    "name": "Schulhaus Kappeli Sekundar",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Kappeli Sekundar",
     "operator:type": "public",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/kappeli_sek.html",
     "id": "way/1041902371"
   },
   "geometry": {
@@ -19389,72 +19391,64 @@
     "coordinates": [
       [
         [
-          8.4943547,
-          47.3871729
+          8.4943742,
+          47.3871496
         ],
         [
-          8.4949295,
-          47.3870045
+          8.4949518,
+          47.3869818
         ],
         [
-          8.4950938,
-          47.3869585
+          8.4950374,
+          47.3871158
         ],
         [
-          8.4952193,
-          47.3872014
+          8.4950281,
+          47.3872775
         ],
         [
-          8.495219,
-          47.3873156
+          8.4950243,
+          47.3873214
         ],
         [
-          8.4950665,
-          47.3873156
+          8.4950587,
+          47.3873725
         ],
         [
-          8.4950575,
-          47.3873851
+          8.4951716,
+          47.3875885
         ],
         [
-          8.4951674,
-          47.3875694
+          8.4948942,
+          47.387681
         ],
         [
-          8.4948863,
-          47.3876572
+          8.4947694,
+          47.3873628
         ],
         [
-          8.4948178,
-          47.3875132
+          8.4947694,
+          47.3872695
         ],
         [
-          8.4947854,
-          47.3873729
+          8.4944117,
+          47.3872602
         ],
         [
-          8.49478,
-          47.3873022
+          8.494376,
+          47.387253
         ],
         [
-          8.4943853,
-          47.3872827
+          8.4943368,
+          47.3872152
         ],
         [
-          8.4943331,
-          47.3872656
+          8.4943332,
+          47.3871773
         ],
         [
-          8.4943024,
-          47.3872253
-        ],
-        [
-          8.4943116,
-          47.387183
-        ],
-        [
-          8.4943547,
-          47.3871729
+          8.4943742,
+          47.3871496
         ]
       ]
     ]
@@ -20422,31 +20416,6 @@
     "coordinates": [
       8.5609497,
       47.4141766
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9360344757",
-  "properties": {
-    "amenity": "school",
-    "contact:city": "Zürich",
-    "contact:housenumber": "39",
-    "contact:phone": "+41 44 413 35 80",
-    "contact:postcode": "8048",
-    "contact:street": "Mürtschenstrasse",
-    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kappeli_sek/ueberuns/standorte/schulhaus.html",
-    "isced:level": "2",
-    "name": "Schulhaus Kappeli Sekundar",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Kappeli Sekundar",
-    "operator:type": "public",
-    "id": "node/9360344757"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.494666,
-      47.3871702
     ]
   }
 },
