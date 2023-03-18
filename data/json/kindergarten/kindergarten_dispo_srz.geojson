@@ -51154,6 +51154,22 @@
       47.331457
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10741192260",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kita Stockerstrasse",
+    "id": "node/10741192260"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5938535,
+      47.2607019
+    ]
+  }
 }
 ]
 }

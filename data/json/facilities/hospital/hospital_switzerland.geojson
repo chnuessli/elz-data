@@ -21534,6 +21534,10 @@
           47.2618217
         ],
         [
+          8.5898975,
+          47.2620245
+        ],
+        [
           8.59026,
           47.2622662
         ],
@@ -52483,6 +52487,24 @@
     "coordinates": [
       6.626981,
       46.5159272
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10741192251",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Policlinic",
+    "website": "https://policlinic.ch",
+    "id": "node/10741192251"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5887583,
+      47.2627587
     ]
   }
 }
