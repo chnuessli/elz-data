@@ -11666,6 +11666,24 @@
       47.351615
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10745410907",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Waldspielgruppe Schlieren \"Schnäggähüsli\"",
+    "pedagogy": "outdoor",
+    "website": "https://www.waldspielgruppe-schlieren.ch/",
+    "id": "node/10745410907"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4535267,
+      47.3899671
+    ]
+  }
 }
 ]
 }

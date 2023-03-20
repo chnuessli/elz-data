@@ -11675,10 +11675,18 @@
   "type": "Feature",
   "id": "node/10292045798",
   "properties": {
+    "addr:city": "Lachen",
+    "addr:housenumber": "20",
+    "addr:postcode": "8853",
+    "addr:street": "Seestrasse",
     "alt_name": "Waldspielgruppe Flügepilz",
     "amenity": "childcare",
+    "contact:phone": "+41 79 386 13 58",
+    "contact:website": "http://spielgruppelachen.ch/",
+    "min_age": "2 years 9 months",
     "name": "Spielgruppe Lachen",
-    "website": "http://spielgruppelachen.ch/",
+    "opening_hours": "Mo-Fr 09:00-11:00; Mo-Tu 14:00-16:00; PH,SH closed",
+    "operator": "Verein Spielgruppe Lachen",
     "id": "node/10292045798"
   },
   "geometry": {
@@ -12328,6 +12336,45 @@
     "coordinates": [
       8.726239,
       47.351615
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10744606195",
+  "properties": {
+    "amenity": "childcare",
+    "contact:phone": "+41 79 386 13 58",
+    "contact:website": "http://www.spielgruppelachen.ch/Waldspielgruppe/",
+    "min_age": "2 years 9 months",
+    "name": "Waldspielgruppe Flügepilz",
+    "opening_hours": "We 08:30-11:00; PH,SH closed",
+    "operator": "Verein Spielgruppe Lachen",
+    "id": "node/10744606195"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.856792,
+      47.1779723
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10745410907",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Waldspielgruppe Schlieren \"Schnäggähüsli\"",
+    "pedagogy": "outdoor",
+    "website": "https://www.waldspielgruppe-schlieren.ch/",
+    "id": "node/10745410907"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4535267,
+      47.3899671
     ]
   }
 }
