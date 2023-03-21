@@ -3510,6 +3510,7 @@
     "amenity": "pharmacy",
     "dispensing": "yes",
     "name": "Pfauen-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-16:00",
     "id": "node/1740538020"
   },
   "geometry": {

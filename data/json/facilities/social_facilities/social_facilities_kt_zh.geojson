@@ -4804,6 +4804,7 @@
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "source": "Stadt Zürich OGD WMS",
+    "start_date": "1979",
     "website": "https://www.stadt-zuerich.ch/az-bullinger-hardau",
     "id": "way/34129757"
   },
@@ -4812,40 +4813,60 @@
     "coordinates": [
       [
         [
-          8.5106591,
-          47.3810108
+          8.5106625,
+          47.3810096
         ],
         [
-          8.5105107,
-          47.3810766
+          8.5106009,
+          47.3810374
         ],
         [
-          8.5102942,
-          47.3808527
+          8.5105106,
+          47.3810781
         ],
         [
-          8.5105901,
-          47.3807215
+          8.5102944,
+          47.3808584
         ],
         [
-          8.5106888,
-          47.3808236
+          8.5105911,
+          47.3807246
         ],
         [
-          8.5107912,
-          47.3807782
+          8.510693,
+          47.3808281
         ],
         [
-          8.5109608,
-          47.3809536
+          8.5108028,
+          47.3807786
         ],
         [
-          8.5107109,
-          47.3810644
+          8.5109712,
+          47.3809498
         ],
         [
-          8.5106591,
-          47.3810108
+          8.5107952,
+          47.3810292
+        ],
+        [
+          8.5107751,
+          47.3810087
+        ],
+        [
+          8.5107555,
+          47.3810175
+        ],
+        [
+          8.5107756,
+          47.381038
+        ],
+        [
+          8.5107167,
+          47.3810646
+        ],
+        [
+          8.5106625,
+          47.3810096
         ]
       ]
     ]
@@ -44454,6 +44475,88 @@
     "coordinates": [
       8.5248704,
       47.3749378
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10749320692",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "17",
+    "addr:postcode": "8610",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "social_facility",
+    "contact:website": "https://www.uster.ch/unterinstanzen/8141",
+    "name": "Sozialberatung",
+    "social_facility": "outreach",
+    "id": "node/10749320692"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7189109,
+      47.3485323
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10749633600",
+  "properties": {
+    "alt_name": "Betreutes Wohnen Wohnheim",
+    "amenity": "social_facility",
+    "name": "Haus Sunshine",
+    "operator": "Charriere Group",
+    "phone": "055 264 11 81",
+    "social_facility": "assisted_living",
+    "id": "node/10749633600"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7573807,
+      47.246914
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10749640583",
+  "properties": {
+    "alt_name": "Betreutes Wohnen Wohnheim",
+    "amenity": "social_facility",
+    "name": "Haus Patria",
+    "operator": "Charriere Group",
+    "phone": "055 264 11 80",
+    "social_facility": "assisted_living",
+    "id": "node/10749640583"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7689317,
+      47.2490986
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10749642391",
+  "properties": {
+    "alt_name": "Betreutes Wohnen Wohnheim",
+    "amenity": "social_facility",
+    "name": "Haus Luna",
+    "operator": "Charriere Group",
+    "phone": "055 264 11 90",
+    "social_facility": "assisted_living",
+    "id": "node/10749642391"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7706254,
+      47.2484714
     ]
   }
 }
