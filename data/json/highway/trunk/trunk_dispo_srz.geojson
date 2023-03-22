@@ -12572,6 +12572,7 @@
     "lanes": "2",
     "layer": "1",
     "maxspeed": "100",
+    "maxweight:signed": "no",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",

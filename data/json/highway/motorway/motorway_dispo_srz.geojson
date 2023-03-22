@@ -40718,7 +40718,7 @@
     "source:maxspeed": "CH:motorway",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||right",
+    "turn:lanes": "none|none|slight_right",
     "id": "way/210309206"
   },
   "geometry": {
@@ -63408,7 +63408,7 @@
     "source:maxspeed": "CH:motorway",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||right",
+    "turn:lanes": "none|none|slight_right",
     "id": "way/554472769"
   },
   "geometry": {
@@ -63440,7 +63440,7 @@
     "source:maxspeed": "CH:motorway",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||right",
+    "turn:lanes": "none|none|slight_right",
     "id": "way/554472770"
   },
   "geometry": {
