@@ -5706,6 +5706,23 @@
       47.0236524
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10755781589",
+  "properties": {
+    "access": "yes",
+    "barrier": "lift_gate",
+    "opening_hours": "24/7",
+    "id": "node/10755781589"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4663316,
+      47.0691133
+    ]
+  }
 }
 ]
 }

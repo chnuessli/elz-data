@@ -12317,10 +12317,6 @@
   "type": "Feature",
   "id": "node/10733643932",
   "properties": {
-    "addr:city": "Uster",
-    "addr:housenumber": "24",
-    "addr:postcode": "8610",
-    "addr:street": "Asylstrasse",
     "amenity": "childcare",
     "contact:phone": "+41 44 905 17 02",
     "contact:website": "https://www.wagerenhof.ch/angebot-fuer-menschen-mit-beeintraechtigung/wohnen-mitwirken-arbeiten/integrative-kinderkrippe",

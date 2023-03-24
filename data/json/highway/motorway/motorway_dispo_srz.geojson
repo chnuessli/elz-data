@@ -1513,7 +1513,8 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "4",
-    "maxspeed": "signals",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "middle_of:2",
     "ref": "A4",
@@ -8450,6 +8451,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "maxspeed": "100",
     "nat_name": "N14",
     "old_name": "A4a",
     "oneway": "yes",
@@ -11633,7 +11635,7 @@
     "alt_name": "Zugerautobahn",
     "highway": "motorway",
     "lanes": "2",
-    "maxspeed": "120",
+    "maxspeed": "100",
     "nat_name": "N14",
     "old_name": "A4a",
     "oneway": "yes",
@@ -11686,20 +11688,12 @@
         47.2104461
       ],
       [
-        8.5377928,
-        47.2101598
+        8.5378089,
+        47.2101461
       ],
       [
-        8.5366538,
-        47.2097416
-      ],
-      [
-        8.5355332,
-        47.2093315
-      ],
-      [
-        8.5344288,
-        47.2089203
+        8.5374753,
+        47.2100305
       ]
     ]
   }
@@ -13126,6 +13120,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "oneway": "yes",
     "ref": "A4",
     "shoulder:right": "yes",
@@ -13162,6 +13157,7 @@
     "lanes": "3",
     "layer": "1",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "oneway": "yes",
     "ref": "A4",
     "shoulder:right": "yes",
@@ -13254,7 +13250,8 @@
     "int_ref": "E 41",
     "lanes": "4",
     "layer": "1",
-    "maxspeed": "signals",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "middle_of:2",
     "ref": "A4",
@@ -13358,7 +13355,8 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "4",
-    "maxspeed": "signals",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "middle_of:2",
     "ref": "A4",
@@ -13425,7 +13423,8 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "4",
-    "maxspeed": "signals",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "middle_of:2",
     "ref": "A4",
@@ -13459,7 +13458,8 @@
     "int_ref": "E 41",
     "lanes": "4",
     "layer": "1",
-    "maxspeed": "signals",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "middle_of:2",
     "ref": "A4",
@@ -38752,6 +38752,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "oneway": "yes",
     "ref": "A4",
     "shoulder:right": "yes",
@@ -43038,7 +43039,8 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "4",
-    "maxspeed": "signals",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "middle_of:2",
     "ref": "A4",
@@ -53480,8 +53482,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5374728,
-        47.2099122
+        8.5374929,
+        47.2099327
       ],
       [
         8.5378837,
@@ -55196,8 +55198,8 @@
         47.209772
       ],
       [
-        8.5374728,
-        47.2099122
+        8.5374929,
+        47.2099327
       ]
     ]
   }
@@ -63497,7 +63499,8 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "4",
-    "maxspeed": "signals",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "middle_of:2",
     "ref": "A4",
@@ -63530,7 +63533,8 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "4",
-    "maxspeed": "signals",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "middle_of:2",
     "ref": "A4",
@@ -63695,7 +63699,8 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "3",
-    "maxspeed": "signals",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "oneway": "yes",
     "ref": "A4",
     "shoulder:right": "yes",
@@ -63726,7 +63731,8 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "4",
-    "maxspeed": "signals",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "middle_of:2",
     "ref": "A4",
@@ -63758,7 +63764,8 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "4",
-    "maxspeed": "signals",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "middle_of:2",
     "ref": "A4",
@@ -70311,6 +70318,44 @@
       [
         8.4283747,
         47.2961425
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1156784199",
+  "properties": {
+    "alt_name": "Zugerautobahn",
+    "highway": "motorway",
+    "lanes": "2",
+    "maxspeed": "120",
+    "nat_name": "N14",
+    "old_name": "A4a",
+    "oneway": "yes",
+    "ref": "A14",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1156784199"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5374753,
+        47.2100305
+      ],
+      [
+        8.5366538,
+        47.2097416
+      ],
+      [
+        8.5355332,
+        47.2093315
+      ],
+      [
+        8.5344288,
+        47.2089203
       ]
     ]
   }
