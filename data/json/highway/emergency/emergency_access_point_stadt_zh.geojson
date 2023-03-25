@@ -6,7 +6,7 @@
   "id": "node/295710316",
   "properties": {
     "alt_name": "Biketrail Höckler",
-    "emergency:access:description": "Höcklerstrasse",
+    "description:emergency": "Höcklerstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Höcklerstrasse / Maneggweg",
@@ -26,7 +26,7 @@
   "type": "Feature",
   "id": "node/295902028",
   "properties": {
-    "emergency:access:description": "Hohensteinweg",
+    "description:emergency": "Hohensteinweg",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Biketrail Triemli Rettungspunkt J Hohensteinweg",
@@ -46,7 +46,7 @@
   "type": "Feature",
   "id": "node/307970903",
   "properties": {
-    "emergency:access:description": "Uetlibergstrasse / Gratstrasse",
+    "description:emergency": "Uetlibergstrasse / Gratstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Biketrail Triemli Rettungspunkt B Gratweg 8",
@@ -66,7 +66,7 @@
   "type": "Feature",
   "id": "node/307971495",
   "properties": {
-    "emergency:access:description": "Schwendenholzweg",
+    "description:emergency": "Schwendenholzweg",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Biketrail Triemli Rettungspunkt E Spielplatz Hohenstein",
@@ -86,7 +86,7 @@
   "type": "Feature",
   "id": "node/307971510",
   "properties": {
-    "emergency:access:description": "Hohensteinstrasse",
+    "description:emergency": "Hohensteinstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Biketrail Triemli Rettungspunkt F",
@@ -106,7 +106,7 @@
   "type": "Feature",
   "id": "node/307971736",
   "properties": {
-    "emergency:access:description": "Hohensteinstrasse / Sädleneggweg",
+    "description:emergency": "Hohensteinstrasse / Sädleneggweg",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Biketrail Triemli Rettungspunkt G Sädleneggweg",
@@ -127,7 +127,7 @@
   "id": "node/311975349",
   "properties": {
     "alt_name": "Biketrail Höckler",
-    "emergency:access:description": "Höcklerstrasse",
+    "description:emergency": "Höcklerstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Höcklerstrasse",
@@ -195,7 +195,7 @@
   "type": "Feature",
   "id": "node/507672259",
   "properties": {
-    "emergency:access:description": "Uetlibergstrasse / Gratstrasse",
+    "description:emergency": "Uetlibergstrasse / Gratstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Biketrail Triemli Rettungspunkt A Gratstrasse/Sendeturm",
@@ -215,7 +215,7 @@
   "type": "Feature",
   "id": "node/1827597292",
   "properties": {
-    "emergency:access:description": "Schwendenholzweg / Hohensteinstrasse",
+    "description:emergency": "Schwendenholzweg / Hohensteinstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Biketrail Triemli Rettungspunkt C Hohensteinstr.",
@@ -235,7 +235,7 @@
   "type": "Feature",
   "id": "node/1923823662",
   "properties": {
-    "emergency:access:description": "Banzwiesenstrasse",
+    "description:emergency": "Banzwiesenstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Biketrail Triemli Rettungspunkt I Banzwiesenstr/Hohensteinweg",
@@ -319,7 +319,7 @@
   "type": "Feature",
   "id": "node/6615840593",
   "properties": {
-    "emergency:access:description": "Hohensteinstrasse / Sädleneggweg",
+    "description:emergency": "Hohensteinstrasse / Sädleneggweg",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Biketrail Triemli Rettungspunkt H",
@@ -340,7 +340,7 @@
   "id": "node/6716849238",
   "properties": {
     "alt_name": "Biketrail Höckler",
-    "emergency:access:description": "Höcklerstrasse",
+    "description:emergency": "Höcklerstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Höcklerstrasse / Maneggweg",
@@ -360,7 +360,7 @@
   "type": "Feature",
   "id": "node/7517101866",
   "properties": {
-    "emergency:access:description": "Schwendenholzweg / Hohensteinstrasse",
+    "description:emergency": "Schwendenholzweg / Hohensteinstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Biketrail Triemli Rettungspunkt D Gratweg",
@@ -381,7 +381,7 @@
   "id": "node/8593073998",
   "properties": {
     "alt_name": "Biketrail Höckler",
-    "emergency:access:description": "Gänzilooweg / Höcklerstrasse",
+    "description:emergency": "Gänzilooweg / Höcklerstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Höcklerstrasse",
@@ -402,7 +402,7 @@
   "id": "node/8662821054",
   "properties": {
     "alt_name": "Biketrail Höckler",
-    "emergency:access:description": "Gänzilooweg / Meierholzstrasse",
+    "description:emergency": "Gänzilooweg / Meierholzstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Gänzilooweg / Meierholzstrasse",
@@ -422,7 +422,7 @@
   "type": "Feature",
   "id": "node/9392378400",
   "properties": {
-    "emergency:access:description": "Triemlihalde / Läufeweg",
+    "description:emergency": "Triemlihalde / Läufeweg",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "SW3",
@@ -442,7 +442,7 @@
   "type": "Feature",
   "id": "node/9392388084",
   "properties": {
-    "emergency:access:description": "Triemlihalde / Läufeweg",
+    "description:emergency": "Triemlihalde / Läufeweg",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "SW3A",
@@ -462,7 +462,7 @@
   "type": "Feature",
   "id": "node/9392388091",
   "properties": {
-    "emergency:access:description": "Hohensteinstrasse",
+    "description:emergency": "Hohensteinstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "SW6",
@@ -482,7 +482,7 @@
   "type": "Feature",
   "id": "node/9392416374",
   "properties": {
-    "emergency:access:description": "Schwendenholzweg",
+    "description:emergency": "Schwendenholzweg",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "SW9",
@@ -502,7 +502,7 @@
   "type": "Feature",
   "id": "node/9392416375",
   "properties": {
-    "emergency:access:description": "Uetlibergstrasse",
+    "description:emergency": "Uetlibergstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "SW13",
@@ -522,7 +522,7 @@
   "type": "Feature",
   "id": "node/9392441271",
   "properties": {
-    "emergency:access:description": "Uetlibergstrasse",
+    "description:emergency": "Uetlibergstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "SW11",
@@ -542,7 +542,7 @@
   "type": "Feature",
   "id": "node/9392444185",
   "properties": {
-    "emergency:access:description": "Hohensteinweg",
+    "description:emergency": "Hohensteinweg",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "SW1",
@@ -562,7 +562,7 @@
   "type": "Feature",
   "id": "node/9392444446",
   "properties": {
-    "emergency:access:description": "Banzwiesenstrasse",
+    "description:emergency": "Banzwiesenstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "SW2",
@@ -582,7 +582,7 @@
   "type": "Feature",
   "id": "node/9392444448",
   "properties": {
-    "emergency:access:description": "Hohensteinstrasse",
+    "description:emergency": "Hohensteinstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "SW5",
@@ -602,7 +602,7 @@
   "type": "Feature",
   "id": "node/9392447122",
   "properties": {
-    "emergency:access:description": "Aegertenweg",
+    "description:emergency": "Aegertenweg",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "SW10",
@@ -622,7 +622,7 @@
   "type": "Feature",
   "id": "node/9392447244",
   "properties": {
-    "emergency:access:description": "Schwendenholzweg",
+    "description:emergency": "Schwendenholzweg",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "SW8",
@@ -642,7 +642,7 @@
   "type": "Feature",
   "id": "node/9392448358",
   "properties": {
-    "emergency:access:description": "Polenweg",
+    "description:emergency": "Polenweg",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "SW7",
@@ -662,7 +662,7 @@
   "type": "Feature",
   "id": "node/9392450654",
   "properties": {
-    "emergency:access:description": "Sädleneggwegg",
+    "description:emergency": "Sädleneggwegg",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "SW4",
@@ -682,7 +682,7 @@
   "type": "Feature",
   "id": "node/9392457518",
   "properties": {
-    "emergency:access:description": "Uetlibergstrasse",
+    "description:emergency": "Uetlibergstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "SW12",
@@ -702,7 +702,7 @@
   "type": "Feature",
   "id": "node/9399507475",
   "properties": {
-    "emergency:access:description": "Waidmattweg / Gänziloobrücke",
+    "description:emergency": "Waidmattweg / Gänziloobrücke",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Waidmattweg / Gänziloobr. / Blindschleichenweg",
@@ -722,7 +722,7 @@
   "type": "Feature",
   "id": "node/9399514354",
   "properties": {
-    "emergency:access:description": "Meierholzstrasse / Schäferweg / Gänzilooweg",
+    "description:emergency": "Meierholzstrasse / Schäferweg / Gänzilooweg",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Meierholzstrasse / Schäferweg",
@@ -742,7 +742,7 @@
   "type": "Feature",
   "id": "node/9399533695",
   "properties": {
-    "emergency:access:description": "Gänzilooweg / Meierholzstrasse",
+    "description:emergency": "Gänzilooweg / Meierholzstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
     "name": "Gänzilooweg / Meierholzstrasse",

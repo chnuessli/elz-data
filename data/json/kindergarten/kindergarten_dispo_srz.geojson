@@ -18799,6 +18799,84 @@
 },
 {
   "type": "Feature",
+  "id": "way/179174984",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8610",
+    "addr:street": "Peierackerweg",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "2",
+    "contact:phone": "+41 44 940 16 55",
+    "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/804",
+    "name": "Kindergarten Wanne",
+    "roof:levels": "0",
+    "id": "way/179174984"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6998538,
+          47.3490972
+        ],
+        [
+          8.6999405,
+          47.3491537
+        ],
+        [
+          8.6999002,
+          47.3491839
+        ],
+        [
+          8.6999515,
+          47.3492167
+        ],
+        [
+          8.7000227,
+          47.3491685
+        ],
+        [
+          8.7000753,
+          47.3492047
+        ],
+        [
+          8.7000119,
+          47.3492482
+        ],
+        [
+          8.6999614,
+          47.3492148
+        ],
+        [
+          8.699859,
+          47.3492848
+        ],
+        [
+          8.6997631,
+          47.3492191
+        ],
+        [
+          8.6998119,
+          47.3491838
+        ],
+        [
+          8.6997696,
+          47.3491554
+        ],
+        [
+          8.6998538,
+          47.3490972
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/179303449",
   "properties": {
     "amenity": "kindergarten",
@@ -38601,7 +38679,13 @@
   "type": "Feature",
   "id": "node/355585947",
   "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "8",
+    "addr:postcode": "8610",
+    "addr:street": "Im Werk",
     "amenity": "kindergarten",
+    "contact:phone": "+41 44 940 61 53",
+    "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/797",
     "name": "Kindergarten Im Werk",
     "id": "node/355585947"
   },
@@ -50536,15 +50620,20 @@
   "type": "Feature",
   "id": "node/9960754438",
   "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "35",
+    "addr:postcode": "8610",
+    "addr:street": "Aathalstrasse",
     "amenity": "kindergarten",
+    "contact:website": "https://www.primarschule-uster.ch/oberustersulzbach/211",
     "name": "Kindergarten Oberuster",
     "id": "node/9960754438"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7311223,
-      47.3453554
+      8.7311447,
+      47.3453591
     ]
   }
 },
