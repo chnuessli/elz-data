@@ -11637,6 +11637,8 @@
     "addr:street": "Gschwaderstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "contact:phone": "+41 44 940 59 03",
+    "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/790",
     "name": "Kindergarten Ackerstrasse",
     "id": "way/108341501"
   },
@@ -11645,24 +11647,24 @@
     "coordinates": [
       [
         [
-          8.7077436,
-          47.3548502
+          8.7077492,
+          47.3548464
         ],
         [
-          8.7077016,
-          47.3546757
+          8.7077072,
+          47.3546719
         ],
         [
-          8.7078494,
-          47.3546594
+          8.707855,
+          47.3546556
         ],
         [
-          8.7078914,
-          47.3548338
+          8.707897,
+          47.35483
         ],
         [
-          8.7077436,
-          47.3548502
+          8.7077492,
+          47.3548464
         ]
       ]
     ]
@@ -11730,6 +11732,8 @@
     "addr:street": "Brunnenwiesenstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "contact:phone": "+41 44 940 61 00",
+    "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/791",
     "name": "Kindergarten Brunnenwiese",
     "id": "way/110887668"
   },
@@ -11795,6 +11799,8 @@
     "addr:street": "Gotthardweg",
     "amenity": "kindergarten",
     "building": "yes",
+    "contact:phone": "+41 44 940 57 57",
+    "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/963",
     "name": "Sprachheilkindergarten Gotthardweg",
     "id": "way/111437541"
   },
@@ -12365,6 +12371,74 @@
         [
           8.7592093,
           47.2809269
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/118082966",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8610",
+    "addr:street": "Heusser-Staub-Strasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "contact:phone": "+41 44 940 32 42",
+    "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/795",
+    "name": "Kindergarten und Krippe Heusser-Staub",
+    "id": "way/118082966"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7200048,
+          47.3425752
+        ],
+        [
+          8.7198757,
+          47.3424558
+        ],
+        [
+          8.719981,
+          47.3424025
+        ],
+        [
+          8.7200995,
+          47.3425115
+        ],
+        [
+          8.7201148,
+          47.3425039
+        ],
+        [
+          8.7201388,
+          47.3425253
+        ],
+        [
+          8.7200971,
+          47.3425463
+        ],
+        [
+          8.7200909,
+          47.342541
+        ],
+        [
+          8.7200893,
+          47.3425421
+        ],
+        [
+          8.7200825,
+          47.3425362
+        ],
+        [
+          8.7200048,
+          47.3425752
         ]
       ]
     ]
@@ -18303,6 +18377,8 @@
     "addr:street": "Stöcklerstrasse",
     "amenity": "kindergarten",
     "building": "yes",
+    "contact:phone": "+41 44 941 24 36;+41 44 905 85 07",
+    "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/821",
     "name": "Kindergarten Stöcklerstrasse",
     "id": "way/189141925"
   },
@@ -33611,7 +33687,12 @@
   "type": "Feature",
   "id": "way/1117243200",
   "properties": {
+    "addr:city": "Nänikon",
+    "addr:housenumber": "7",
+    "addr:postcode": "8606",
+    "addr:street": "Mettmenriedstrasse",
     "amenity": "kindergarten",
+    "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/798",
     "name": "Kindergarten Mettmenried",
     "id": "way/1117243200"
   },
@@ -35043,10 +35124,14 @@
   "type": "Feature",
   "id": "node/1956041076",
   "properties": {
+    "addr:city": "Uster",
     "addr:housename": "Im Lot",
+    "addr:housenumber": "11",
     "addr:postcode": "8610",
-    "addr:street": "Quellenstrasse",
+    "addr:street": "Im Lot",
     "amenity": "kindergarten",
+    "contact:phone": "+41 44 941 91 87",
+    "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/796",
     "name": "Kindergarten Im Lot 1+2",
     "id": "node/1956041076"
   },
@@ -45307,8 +45392,14 @@
   "type": "Feature",
   "id": "node/10029303214",
   "properties": {
+    "addr:city": "Wermatswil",
+    "addr:housenumber": "2",
+    "addr:postcode": "8615",
+    "addr:street": "Kleinjoggstrasse",
     "amenity": "kindergarten",
-    "name": "Kindergarten Diemand",
+    "contact:phone": "+41 44 941 46 47",
+    "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/807",
+    "name": "Kindergarten Wermatswil",
     "id": "node/10029303214"
   },
   "geometry": {
