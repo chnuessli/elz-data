@@ -53,7 +53,7 @@ Dennoch hier ein paar Beispiele:
 ### Dispogebiet SRZ
 
 ```
-[out:json][timeout:25];
+[out:json][timeout:300];
 (
 //Kanton Zürich
 area["ISO3166-2"="CH-ZH"];
@@ -106,7 +106,7 @@ out skel qt;
 ### Dispogebiet SRZ
 
 ```
-[out:json][timeout:25];
+[out:json][timeout:300];
 (
 //Kanton Zürich
 area["ISO3166-2"="CH-ZH"];
@@ -130,7 +130,7 @@ out skel qt;
 ### Kanton ZH
 
 ```
-[out:json][timeout:25];
+[out:json][timeout:300];
 // fetch area “CH-ZH” to search in
 area["ISO3166-2"="CH-ZH"]->.searchArea;
 // gather results
@@ -149,7 +149,7 @@ out skel qt;
 ### Stadt ZH
 
 ```
-[out:json][timeout:25];
+[out:json][timeout:300];
 area[name="Zürich"]["wikipedia"="de:Zürich"]->.zurich;
 // gather results
 (
@@ -168,7 +168,7 @@ out skel qt;
 ### Dispogebiet SRZ
 
 ```
-[out:json][timeout:25];
+[out:json][timeout:300];
 (
 //Kanton Zürich
 area["ISO3166-2"="CH-ZH"];
@@ -194,7 +194,7 @@ out skel qt;
 ### Kanton ZH
 
 ```
-[out:json][timeout:25];
+[out:json][timeout:300];
 (
 //Kanton Zürich
 area["ISO3166-2"="CH-ZH"];
@@ -217,7 +217,7 @@ out skel qt;
 ### Dispogebiet SRZ
 
 ```
-[out:json][timeout:25];
+[out:json][timeout:300];
 (
 //Kanton Zürich
 area["ISO3166-2"="CH-ZH"];
