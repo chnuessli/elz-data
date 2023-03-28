@@ -39803,27 +39803,27 @@
     "coordinates": [
       [
         [
-          8.8137769,
-          47.2664341
+          8.8137776,
+          47.2664331
         ],
         [
           8.8138625,
           47.2662568
         ],
         [
-          8.8139537,
+          8.8139535,
           47.266068
         ],
         [
-          8.8140322,
+          8.8140323,
           47.2660854
         ],
         [
-          8.8141683,
+          8.8141681,
           47.2658037
         ],
         [
-          8.8143252,
+          8.8143253,
           47.2658386
         ],
         [
@@ -39831,11 +39831,11 @@
           47.2658502
         ],
         [
-          8.8144386,
+          8.8144385,
           47.2658766
         ],
         [
-          8.814371,
+          8.8143711,
           47.2660166
         ],
         [
@@ -39844,18 +39844,18 @@
         ],
         [
           8.814272,
-          47.2660958
+          47.2660959
         ],
         [
           8.8146756,
-          47.2661856
+          47.2661855
         ],
         [
           8.8146417,
           47.2662557
         ],
         [
-          8.8146362,
+          8.8146363,
           47.266267
         ],
         [
@@ -39863,44 +39863,44 @@
           47.2662714
         ],
         [
-          8.8146053,
+          8.8146054,
           47.2663762
         ],
         [
           8.8143932,
-          47.266329
+          47.2663291
         ],
         [
           8.8144099,
-          47.2662945
+          47.2662944
         ],
         [
           8.814208,
           47.2662496
         ],
         [
-          8.8141866,
-          47.2662448
+          8.8141848,
+          47.2662445
         ],
         [
-          8.8141617,
-          47.2662965
+          8.8141675,
+          47.2662802
         ],
         [
-          8.8140285,
-          47.2662669
+          8.8140409,
+          47.2665428
         ],
         [
-          8.81402,
-          47.2662844
+          8.8138998,
+          47.2665115
         ],
         [
-          8.8139311,
-          47.2664684
+          8.8139222,
+          47.2664652
         ],
         [
-          8.8137769,
-          47.2664341
+          8.8137776,
+          47.2664331
         ]
       ]
     ]
@@ -40612,48 +40612,6 @@
         [
           8.5426521,
           47.2879921
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/703984395",
-  "properties": {
-    "addr:housenumber": "7",
-    "addr:postcode": "8805",
-    "addr:street": "Gartenstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Tertianum Etzelblick",
-    "social_facility": "assisted_living",
-    "social_facility:for": "senior",
-    "id": "way/703984395"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7090123,
-          47.2061038
-        ],
-        [
-          8.7088733,
-          47.2060002
-        ],
-        [
-          8.7090899,
-          47.2058662
-        ],
-        [
-          8.7092288,
-          47.2059698
-        ],
-        [
-          8.7090123,
-          47.2061038
         ]
       ]
     ]
@@ -45905,11 +45863,7 @@
     "addr:street": "Untere Bahnhofstrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "email": "kollbrunn@casa-solaris.ch",
-    "name": "Casa Solaris",
-    "phone": "+41 71 523 22 00",
-    "social_facility": "nursing_home",
-    "website": "https://casa-solaris.ch/de/kollbrunn/",
+    "social_facility": "shelter",
     "id": "way/1070674110"
   },
   "geometry": {
@@ -45950,11 +45904,7 @@
     "addr:street": "Dorfstrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "email": "kollbrunn@casa-solaris.ch",
-    "name": "Casa Solaris",
-    "phone": "+41 71 523 22 00",
-    "social_facility": "nursing_home",
-    "website": "https://casa-solaris.ch/de/kollbrunn/",
+    "social_facility": "shelter",
     "id": "way/1070674111"
   },
   "geometry": {
@@ -47678,8 +47628,10 @@
     "addr:street": "Zürcherstrasse",
     "amenity": "social_facility",
     "name": "Caritas-Markt",
+    "opening_hours": "Mo-Fr 10:00-13:00, 14:00-18:30; Sa 10:00-17:00",
     "social_facility": "food_bank",
     "social_facility:for": "underprivileged",
+    "website": "https://www.caritas-zuerich.ch/markt",
     "id": "node/4143671992"
   },
   "geometry": {
