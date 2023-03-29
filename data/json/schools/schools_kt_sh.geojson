@@ -1578,6 +1578,7 @@
     "addr:street": "Schulstrasse",
     "amenity": "school",
     "building": "school",
+    "grades": "7-12",
     "name": "Alte Schulhaus",
     "id": "way/159146557"
   },

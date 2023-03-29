@@ -11331,13 +11331,9 @@
     "amenity": "social_facility",
     "building": "yes",
     "building:levels": "3",
-    "email": "info@palme.ch",
-    "name": "Betreutes Wohnen Zur Palme",
     "operator": "Stiftung zur palme",
-    "phone": "+41 44 953 31 31",
     "roof:shape": "gabled",
     "social_facility": "assisted_living",
-    "website": "https://www.palme.ch/palme/die-stiftung",
     "id": "way/96343736"
   },
   "geometry": {
@@ -11402,13 +11398,9 @@
     "addr:street": "Hochstrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "email": "info@palme.ch",
-    "name": "Betreutes Wohnen Zur Palme",
     "operator": "Stiftung zur palme",
-    "phone": "+41 44 953 31 31",
     "roof:shape": "gabled",
     "social_facility": "assisted_living",
-    "website": "https://www.palme.ch/palme/die-stiftung",
     "id": "way/96343737"
   },
   "geometry": {
@@ -18867,12 +18859,14 @@
   "properties": {
     "addr:city": "Dietikon",
     "addr:country": "CH",
-    "addr:housenumber": "39",
+    "addr:housenumber": "2",
     "addr:postcode": "8953",
-    "addr:street": "Bremgartnerstrasse",
+    "addr:street": "Ruggackerstrasse",
+    "alt_name": "Alters- und Gesundheitszentrum Ruggacker",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Alters- und Gesundheitszentrum Ruggacker",
+    "name": "Senioren Residenz Ruggacker",
+    "short_name": "AGZ Dietikon",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "id": "way/148799181"
@@ -18882,42 +18876,6 @@
     "coordinates": [
       [
         [
-          8.4012031,
-          47.4013342
-        ],
-        [
-          8.4012113,
-          47.401345
-        ],
-        [
-          8.4009663,
-          47.4014294
-        ],
-        [
-          8.4007343,
-          47.4011209
-        ],
-        [
-          8.4008056,
-          47.4010964
-        ],
-        [
-          8.4007256,
-          47.4009901
-        ],
-        [
-          8.4009467,
-          47.4009139
-        ],
-        [
-          8.4011005,
-          47.4011185
-        ],
-        [
-          8.4010485,
-          47.4011364
-        ],
-        [
           8.4011263,
           47.4012399
         ],
@@ -18926,44 +18884,36 @@
           47.4012302
         ],
         [
-          8.4013168,
-          47.4011886
+          8.4016442,
+          47.4010298
         ],
         [
-          8.4016265,
-          47.4010448
+          8.4017634,
+          47.4010154
         ],
         [
-          8.4017577,
-          47.4010274
+          8.4018453,
+          47.401121
         ],
         [
-          8.4018371,
-          47.4011296
+          8.4018626,
+          47.4011858
         ],
         [
-          8.4018544,
-          47.4011978
+          8.4015692,
+          47.4012659
         ],
         [
-          8.4015566,
-          47.4012805
+          8.4013655,
+          47.4012912
         ],
         [
-          8.4013699,
-          47.401304
+          8.4012113,
+          47.401345
         ],
         [
-          8.4012651,
-          47.4013264
-        ],
-        [
-          8.4012519,
-          47.4013176
-        ],
-        [
-          8.4012031,
-          47.4013342
+          8.4011263,
+          47.4012399
         ]
       ]
     ]
@@ -46271,12 +46221,13 @@
   "type": "Feature",
   "id": "way/1135058033",
   "properties": {
+    "addr:city": "Richterswil",
     "addr:housenumber": "9",
     "addr:postcode": "8805",
     "addr:street": "Gartenstrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Tertianum Etzelblick",
+    "operator": "Tertianum Etzelblick",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "id": "way/1135058033"
@@ -46320,7 +46271,7 @@
     "amenity": "social_facility",
     "building": "yes",
     "email": "etzelblick@tertianum.ch",
-    "name": "Tertianum Etzelblick",
+    "operator": "Tertianum Etzelblick",
     "phone": "+41 43 544 01 01",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
@@ -47047,6 +46998,314 @@
         [
           8.7242854,
           47.3510744
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1157845426",
+  "properties": {
+    "amenity": "social_facility",
+    "contact:email": "info@palme.ch",
+    "contact:phone": "+41 44 953 31 31",
+    "contact:website": "https://www.palme.ch/palme/die-stiftung",
+    "name": "Betreutes Wohnen Zur Palme",
+    "operator": "Stiftung zur palme",
+    "social_facility": "nursing_home",
+    "id": "way/1157845426"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7849942,
+          47.3662321
+        ],
+        [
+          8.7849209,
+          47.3662893
+        ],
+        [
+          8.7848907,
+          47.3663212
+        ],
+        [
+          8.7849048,
+          47.3663362
+        ],
+        [
+          8.7848626,
+          47.3663797
+        ],
+        [
+          8.7848365,
+          47.3663859
+        ],
+        [
+          8.7848064,
+          47.3663811
+        ],
+        [
+          8.7847602,
+          47.3663382
+        ],
+        [
+          8.7846718,
+          47.3662512
+        ],
+        [
+          8.7845985,
+          47.3661777
+        ],
+        [
+          8.7846065,
+          47.3661417
+        ],
+        [
+          8.7846296,
+          47.3661165
+        ],
+        [
+          8.7847994,
+          47.3660192
+        ],
+        [
+          8.7849932,
+          47.3659145
+        ],
+        [
+          8.7852603,
+          47.3657594
+        ],
+        [
+          8.7852904,
+          47.3657778
+        ],
+        [
+          8.7853959,
+          47.3657159
+        ],
+        [
+          8.785659,
+          47.3659301
+        ],
+        [
+          8.7855516,
+          47.3659961
+        ],
+        [
+          8.7855676,
+          47.3660322
+        ],
+        [
+          8.7854541,
+          47.36609
+        ],
+        [
+          8.7853196,
+          47.3661519
+        ],
+        [
+          8.7853065,
+          47.3661532
+        ],
+        [
+          8.7852352,
+          47.3661505
+        ],
+        [
+          8.7850966,
+          47.3661804
+        ],
+        [
+          8.7849942,
+          47.3662321
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1157849229",
+  "properties": {
+    "amenity": "social_facility",
+    "contact:email": "etzelblick@tertianum.ch",
+    "contact:phone": "+41 43 544 01 01",
+    "contact:website": "https://www.tertianum.ch/de/tertianum-etzelblick-richterswil_url-correct",
+    "name": "Tertianum Etzelblick",
+    "operator": "Tertianum Etzelblick",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
+    "id": "way/1157849229"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7085753,
+          47.2054087
+        ],
+        [
+          8.7087223,
+          47.2054114
+        ],
+        [
+          8.7088655,
+          47.2054468
+        ],
+        [
+          8.709701,
+          47.205728
+        ],
+        [
+          8.7089544,
+          47.2061919
+        ],
+        [
+          8.7086488,
+          47.2059672
+        ],
+        [
+          8.708584,
+          47.2059836
+        ],
+        [
+          8.708322,
+          47.2057964
+        ],
+        [
+          8.7084225,
+          47.2056847
+        ],
+        [
+          8.7083123,
+          47.2055743
+        ],
+        [
+          8.7085753,
+          47.2054087
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1157849230",
+  "properties": {
+    "addr:city": "Richterswil",
+    "addr:housenumber": "7",
+    "addr:postcode": "8805",
+    "addr:street": "Gartenstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "operator": "Tertianum Etzelblick",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
+    "id": "way/1157849230"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7088761,
+          47.206002
+        ],
+        [
+          8.7090898,
+          47.205866
+        ],
+        [
+          8.7092272,
+          47.2059711
+        ],
+        [
+          8.7090134,
+          47.2061039
+        ],
+        [
+          8.7088761,
+          47.206002
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1158085154",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:country": "CH",
+    "addr:housenumber": "39",
+    "addr:postcode": "8953",
+    "addr:street": "Bremgartnerstrasse",
+    "alt_name": "Alters- und Gesundheitszentrum Ruggacker",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Haus Ruggacker",
+    "short_name": "AGZ Dietikon",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "way/1158085154"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4012113,
+          47.401345
+        ],
+        [
+          8.4009676,
+          47.401432
+        ],
+        [
+          8.4008208,
+          47.4012763
+        ],
+        [
+          8.4007743,
+          47.4011661
+        ],
+        [
+          8.400734,
+          47.4011166
+        ],
+        [
+          8.4008255,
+          47.4010857
+        ],
+        [
+          8.4007411,
+          47.4009743
+        ],
+        [
+          8.4009616,
+          47.4008968
+        ],
+        [
+          8.4011157,
+          47.4011039
+        ],
+        [
+          8.401046,
+          47.4011308
+        ],
+        [
+          8.4011263,
+          47.4012399
+        ],
+        [
+          8.4012113,
+          47.401345
         ]
       ]
     ]
