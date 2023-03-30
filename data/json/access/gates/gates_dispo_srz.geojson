@@ -2922,7 +2922,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 121",
     "id": "node/94572553"
@@ -3202,7 +3201,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 109",
     "id": "node/118097934"
@@ -4235,7 +4233,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "name": "Tor 131.2",
     "id": "node/290486872"
   },
@@ -4253,7 +4250,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 120",
     "id": "node/290658341"
@@ -4272,7 +4268,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 124.1",
     "id": "node/290670376"
@@ -5022,7 +5017,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 112",
     "id": "node/321475148"
@@ -5072,7 +5066,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 113",
     "id": "node/321594744"
@@ -17853,7 +17846,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 140",
     "id": "node/1703096282"
@@ -23241,7 +23233,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 110",
     "id": "node/2320035362"
@@ -23260,7 +23251,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 111",
     "id": "node/2320035479"
@@ -23279,7 +23269,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 112.1",
     "id": "node/2320035523"
@@ -23407,7 +23396,6 @@
   "properties": {
     "barrier": "gate",
     "emergency": "yes",
-    "emergency:access": "yes",
     "id": "node/2330179505"
   },
   "geometry": {
@@ -23695,7 +23683,6 @@
   "properties": {
     "access": "no",
     "barrier": "lift_gate",
-    "emergency:access": "no",
     "lift_gate:type": "single",
     "locked": "yes",
     "name": "Tor 105",
@@ -23716,7 +23703,6 @@
   "properties": {
     "barrier": "gate",
     "emergency": "yes",
-    "emergency:access": "yes",
     "id": "node/2373177370"
   },
   "geometry": {
@@ -25740,7 +25726,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 121",
     "id": "node/2458457109"
@@ -40452,7 +40437,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "material": "metal",
     "maxheight": "4",
@@ -45649,7 +45633,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "id": "node/5132916576"
   },
   "geometry": {
@@ -52078,7 +52061,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "id": "node/6334938048"
   },
   "geometry": {
@@ -52155,7 +52137,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 126",
     "id": "node/6359065516"
@@ -53431,7 +53412,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 140.1",
     "id": "node/6542676481"
@@ -56957,7 +56937,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "layer": "0",
     "level": "0",
     "locked": "yes",
@@ -71073,7 +71052,6 @@
   "properties": {
     "access": "no",
     "barrier": "lift_gate",
-    "emergency:access": "no",
     "lift_gate:type": "single",
     "locked": "yes",
     "name": "Tor 105",
@@ -71094,7 +71072,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 105",
     "opening_hours": "Mo-Fr 05:00-22:30; Sa 05:00-22:00",
@@ -71115,7 +71092,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 105",
     "opening_hours": "Mo-Fr 05:00-22:30; Sa 05:00-22:00",
@@ -76365,7 +76341,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 124",
     "id": "node/10128226627"
@@ -76635,7 +76610,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 140",
     "id": "node/10209588522"
@@ -76796,7 +76770,6 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
-    "emergency:access": "no",
     "locked": "yes",
     "name": "Tor 103",
     "id": "node/10212087155"
@@ -81052,6 +81025,23 @@
     "coordinates": [
       8.7340409,
       47.5385111
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10771683916",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/10771683916"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7756426,
+      47.2632315
     ]
   }
 }

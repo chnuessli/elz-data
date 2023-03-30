@@ -51318,31 +51318,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9220892453",
-  "properties": {
-    "addr:city": "Bulle",
-    "addr:housenumber": "42",
-    "addr:postcode": "1630",
-    "addr:street": "Chemin de Pré-Vert",
-    "amenity": "hospital",
-    "emergency": "no",
-    "healthcare": "hospital",
-    "healthcare:speciality": "cardiology",
-    "name": "Cardiologue",
-    "operator": "Yves Allaman",
-    "operator:type": "private",
-    "id": "node/9220892453"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.06561,
-      46.6204357
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9263946618",
   "properties": {
     "addr:city": "Fleurier",
@@ -52536,28 +52511,6 @@
     "coordinates": [
       8.2994708,
       47.0586672
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10734767500",
-  "properties": {
-    "addr:city": "Lausanne",
-    "addr:housenumber": "6",
-    "addr:postcode": "1003",
-    "addr:street": "Rue de bourg",
-    "amenity": "hospital",
-    "healthcare": "hospital",
-    "healthcare:speciality": "podiatry;podologie",
-    "name": "Cabinet de podologie Swiss Podology",
-    "id": "node/10734767500"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      6.6343149,
-      46.5199927
     ]
   }
 },
