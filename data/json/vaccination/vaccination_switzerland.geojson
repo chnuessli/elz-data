@@ -294,56 +294,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/935533767",
-  "properties": {
-    "building": "marquee",
-    "building:levels": "1",
-    "healthcare": "vaccination_centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum Bern Insel",
-    "phone": "+41 316368800",
-    "vaccination": "covid19",
-    "website": "https://www.gef.be.ch/gef/de/index/Corona/Corona/corona_impfung_bern.html",
-    "id": "way/935533767"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.4234485,
-          46.9493135
-        ],
-        [
-          7.4235743,
-          46.9491007
-        ],
-        [
-          7.4239434,
-          46.9492014
-        ],
-        [
-          7.4238174,
-          46.9494172
-        ],
-        [
-          7.423771,
-          46.9494041
-        ],
-        [
-          7.4236389,
-          46.949367
-        ],
-        [
-          7.4234485,
-          46.9493135
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1013498240",
   "properties": {
     "building": "yes",

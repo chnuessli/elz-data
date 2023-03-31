@@ -331,6 +331,7 @@
     "operator": "Verein Barabu",
     "operator:type": "business",
     "phone": "+41 43 536 75 77",
+    "roof:shape": "flat",
     "website": "https://www.barabu.org",
     "id": "way/79271549"
   },

@@ -928,22 +928,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2128290108",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Montessori Kinderhaus",
-    "id": "node/2128290108"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.9001349,
-      47.1731643
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2339513598",
   "properties": {
     "addr:city": "Merlischachen",

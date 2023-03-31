@@ -8223,7 +8223,9 @@
   "type": "Feature",
   "id": "way/59272809",
   "properties": {
+    "addr:city": "Bern",
     "addr:housenumber": "8",
+    "addr:postcode": "3010",
     "addr:street": "Freiburgstrasse",
     "amenity": "clinic",
     "building": "hospital",
@@ -19485,6 +19487,10 @@
         [
           7.4225583,
           46.9463822
+        ],
+        [
+          7.422615,
+          46.9463394
         ],
         [
           7.422689,
