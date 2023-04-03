@@ -9039,6 +9039,23 @@
       47.2627587
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10779364248",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Gemeinschaftspraxis Aathal",
+    "id": "node/10779364248"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7672896,
+      47.3357416
+    ]
+  }
 }
 ]
 }

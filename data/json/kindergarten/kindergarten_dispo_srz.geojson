@@ -12032,6 +12032,7 @@
     "addr:street": "Wermatswilerstrasse",
     "amenity": "kindergarten",
     "building": "detached",
+    "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/805",
     "name": "Kindergarten Weidli",
     "phone": "+41 44 940 42 79",
     "id": "way/107958065"
@@ -12041,40 +12042,40 @@
     "coordinates": [
       [
         [
-          8.7316229,
-          47.3562926
+          8.7316226,
+          47.3562928
         ],
         [
-          8.7315025,
-          47.3562494
+          8.7315034,
+          47.3562495
         ],
         [
-          8.7315387,
-          47.3562062
+          8.731538,
+          47.3562059
         ],
         [
-          8.7314841,
-          47.3561862
+          8.7314833,
+          47.356186
         ],
         [
-          8.7315405,
-          47.3561126
+          8.7315414,
+          47.3561127
         ],
         [
-          8.7316492,
-          47.3561516
+          8.731649,
+          47.3561518
         ],
         [
-          8.7316207,
-          47.3561876
+          8.7316204,
+          47.356188
         ],
         [
-          8.7316861,
-          47.3562124
+          8.7316865,
+          47.356212
         ],
         [
-          8.7316229,
-          47.3562926
+          8.7316226,
+          47.3562928
         ]
       ]
     ]
@@ -19009,6 +19010,8 @@
     "addr:street": "Blindenholzstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "contact:phone": "+41 44 940 80 60",
+    "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/802",
     "name": "Kindergarten Nossikon",
     "id": "way/183203917"
   },
@@ -22431,6 +22434,7 @@
     "contact:postcode": "8003",
     "contact:street": "Zentralstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/zurlinden/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
     "name": "Kindergarten Wiedikon",
     "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Zurlinden",
     "operator:type": "public",
@@ -22465,10 +22469,6 @@
           47.3741079
         ],
         [
-          8.5162996,
-          47.3740096
-        ],
-        [
           8.5159434,
           47.3738101
         ],
@@ -22501,12 +22501,12 @@
           47.3737439
         ],
         [
-          8.5167851,
-          47.3731863
+          8.5167897,
+          47.3731831
         ],
         [
-          8.5171552,
-          47.3733941
+          8.5171554,
+          47.3733933
         ],
         [
           8.5171288,
@@ -50474,8 +50474,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6569148,
-      47.3847683
+      8.6569247,
+      47.3847758
     ]
   }
 },
