@@ -7890,6 +7890,21 @@
 },
 {
   "type": "Feature",
+  "id": "node/747550528",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/747550528"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5174023,
+      47.3489294
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/747550602",
   "properties": {
     "barrier": "gate",
@@ -7898,8 +7913,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5216652,
-      47.3513445
+      8.5216825,
+      47.3513437
     ]
   }
 },

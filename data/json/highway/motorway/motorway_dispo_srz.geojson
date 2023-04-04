@@ -3737,6 +3737,7 @@
     "layer": "-1",
     "lit": "yes",
     "maxspeed": "100",
+    "name": "Stelzentunnel",
     "oneway": "yes",
     "ref": "A1;A4",
     "source:maxspeed": "sign",
@@ -3808,6 +3809,7 @@
     "layer": "-1",
     "lit": "yes",
     "maxspeed": "100",
+    "name": "Stelzentunnel",
     "oneway": "yes",
     "ref": "A1;A4",
     "source:maxspeed": "sign",
@@ -8032,7 +8034,6 @@
     "ref": "A3",
     "toll": "yes",
     "tunnel": "yes",
-    "tunnel:alt_name": "Blatt-Wollerau",
     "tunnel:name": "Blatttunnel",
     "id": "way/17125903"
   },
@@ -8113,7 +8114,6 @@
     "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes",
-    "tunnel:alt_name": "Blatt-Wollerau",
     "tunnel:name": "Blatttunnel",
     "id": "way/17125914"
   },
@@ -17804,13 +17804,12 @@
     "lit": "yes",
     "maxspeed": "100",
     "maxspeed:variable": "obstruction",
-    "name": "Aeschertunnel",
     "oneway": "yes",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
     "toll": "yes",
     "tunnel": "yes",
-    "tunnel:name": "Äschertunnel",
+    "tunnel:name": "Aeschertunnel",
     "id": "way/29903791"
   },
   "geometry": {
@@ -24365,7 +24364,7 @@
     "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes",
-    "tunnel:name": "Bubenholz",
+    "tunnel:name": "Bubenholztunnel",
     "id": "way/43169923"
   },
   "geometry": {
@@ -32581,7 +32580,6 @@
     "ref": "A3",
     "toll": "yes",
     "tunnel": "yes",
-    "tunnel:alt_name": "Üetlibergtunnel",
     "tunnel:name": "Uetlibergtunnel",
     "id": "way/137477230"
   },
@@ -32813,7 +32811,6 @@
     "ref": "A3",
     "toll": "yes",
     "tunnel": "yes",
-    "tunnel:alt_name": "Üetlibergtunnel",
     "tunnel:name": "Uetlibergtunnel",
     "id": "way/137477232"
   },
@@ -35833,7 +35830,7 @@
     "source:maxspeed": "sign",
     "toll": "yes",
     "tunnel": "yes",
-    "tunnel:name": "Äschertunnel",
+    "tunnel:name": "Aeschertunnel",
     "id": "way/183717181"
   },
   "geometry": {
@@ -62578,7 +62575,6 @@
     "maxheight": "default",
     "maxspeed": "100",
     "maxspeed:variable": "obstruction",
-    "name": "Aeschertunnel",
     "oneway": "yes",
     "overtaking:hgv": "no",
     "placement": "right_of:1",
@@ -64123,7 +64119,6 @@
     "ref": "A3",
     "toll": "yes",
     "tunnel": "yes",
-    "tunnel:alt_name": "Üetlibergtunnel",
     "tunnel:name": "Uetlibergtunnel",
     "id": "way/624393068"
   },
@@ -64212,7 +64207,6 @@
     "ref": "A3",
     "toll": "yes",
     "tunnel": "yes",
-    "tunnel:alt_name": "Üetlibergtunnel",
     "tunnel:name": "Uetlibergtunnel",
     "turn:lanes": "none|none|merge_to_left",
     "id": "way/624393071"
@@ -64280,7 +64274,6 @@
     "ref": "A3",
     "toll": "yes",
     "tunnel": "yes",
-    "tunnel:alt_name": "Üetlibergtunnel",
     "tunnel:name": "Uetlibergtunnel",
     "id": "way/624393072"
   },
@@ -64318,7 +64311,6 @@
     "ref": "A3",
     "toll": "yes",
     "tunnel": "yes",
-    "tunnel:alt_name": "Üetlibergtunnel",
     "tunnel:name": "Uetlibergtunnel",
     "turn:lanes": "none|none|merge_to_left",
     "id": "way/624393073"
@@ -64374,7 +64366,6 @@
     "ref": "A3",
     "toll": "yes",
     "tunnel": "yes",
-    "tunnel:alt_name": "Üetlibergtunnel",
     "tunnel:name": "Uetlibergtunnel",
     "wikidata": "Q1291276",
     "wikipedia": "de:Uetlibergtunnel",
@@ -66738,6 +66729,7 @@
     "lit": "no",
     "maxheight": "default",
     "maxspeed": "120",
+    "name": "Katzenseetunnel",
     "oneway": "yes",
     "overtaking:hgv": "no",
     "ref": "A1;A4",
@@ -66745,8 +66737,7 @@
     "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes",
-    "tunnel:alt_name": "Überdeckung Katzensee",
-    "tunnel:name": "Katzensee",
+    "tunnel:name": "Katzenseetunnel",
     "id": "way/667693746"
   },
   "geometry": {
@@ -66830,14 +66821,14 @@
     "lit": "no",
     "maxheight": "default",
     "maxspeed": "120",
+    "name": "Katzenseetunnel",
     "oneway": "yes",
     "ref": "A1;A4",
     "source:maxspeed": "CH:motorway",
     "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes",
-    "tunnel:alt_name": "Überdeckung Katzensee",
-    "tunnel:name": "Katzensee",
+    "tunnel:name": "Katzenseetunnel",
     "id": "way/667693748"
   },
   "geometry": {

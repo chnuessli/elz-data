@@ -48118,11 +48118,12 @@
   "id": "node/10081628189",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Freibadund eE",
+    "defibrillator:location": "Freibad vor der Kasse",
     "description": "vor der Kasse ( Eingang)",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Gemeinde Urdorf",
     "phone": "+41 44 734 18 68",
     "id": "node/10081628189"
@@ -62516,6 +62517,79 @@
     "coordinates": [
       8.7567151,
       47.5009057
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10781858405",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Clubhaus FCU, Chlösterli",
+    "description": "Jederzeit öffentlich verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Urdorf",
+    "phone": "+41 44 736 51 20",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10781858405"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4193468,
+      47.3826094
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10781888605",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Turnhalle Weihermatt, Eingangsbereich",
+    "description": "Jederzeit öffentlich verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Urdorf",
+    "phone": "+41 44 736 51 20",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10781888605"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4270233,
+      47.3798852
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10781939828",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "8021 Zürich, Stauffacherstrasse 41",
+    "description": "während Banköffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "MO-FR 08:15 - 16:30 Uhr",
+    "operator": "St.Galler Kantonalbank AG",
+    "phone": "+41 44 214 36 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10781939828"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5281318,
+      47.3741165
     ]
   }
 }
