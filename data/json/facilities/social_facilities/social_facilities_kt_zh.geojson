@@ -43346,30 +43346,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8704158729",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "30",
-    "addr:postcode": "8052",
-    "addr:street": "Käshaldenstrasse",
-    "amenity": "social_facility",
-    "name": "Forelhaus Zürich-Seebach",
-    "operator": "Kantonales Sozialamt Soziale Einrichtungen",
-    "social_facility": "assisted_living",
-    "social_facility:for": "Betreutes und begleitetes Wohnen für Suchtmittelabhänge Personen",
-    "website": "https://www.forelhaus.ch/ersatzbau",
-    "id": "node/8704158729"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5371358,
-      47.4304417
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8704210379",
   "properties": {
     "addr:city": "Zürich",
