@@ -5383,7 +5383,7 @@
     "brand": "Amavita",
     "level": "0",
     "name": "Amavita Neumarkt Oerlikon",
-    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-18:00",
+    "opening_hours": "Mo-Fr 09:00-20:00, Sa 09:00-18:00; PH off",
     "operator": "GaleniCare",
     "website": "https://www.amavita.ch/de/amavita-apotheke-neumarkt-oerlikon",
     "id": "node/4833061653"
@@ -5391,8 +5391,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.542782,
-      47.4103526
+      8.5426915,
+      47.4103326
     ]
   }
 },

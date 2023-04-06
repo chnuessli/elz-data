@@ -43973,8 +43973,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5426627,
-      47.410403
+      8.5428632,
+      47.4103355
     ]
   }
 },
@@ -62614,6 +62614,54 @@
     "coordinates": [
       8.5169229,
       47.187326
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10786679605",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Wohnhaus, Stutzstrasse 11f",
+    "description": "bei Garageneinfahrt",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Feusisberg",
+    "phone": "+41554169476",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10786679605"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7187121,
+      47.1745997
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10786681605",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Wohnhaus, Aeschstrasse 1",
+    "description": "bei 1. Garage",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Feusisberg",
+    "phone": "+41554169476",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10786681605"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7063637,
+      47.1821657
     ]
   }
 }

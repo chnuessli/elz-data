@@ -66328,8 +66328,16 @@
           47.3719847
         ],
         [
-          8.4615157,
-          47.3722
+          8.4615215,
+          47.3720861
+        ],
+        [
+          8.4614842,
+          47.3722186
+        ],
+        [
+          8.4614035,
+          47.3724556
         ],
         [
           8.4612371,
@@ -97419,8 +97427,9 @@
     "addr:housenumber": "350",
     "addr:postcode": "8050",
     "addr:street": "Hofwiesenstrasse",
+    "alt_name": "Klubschule Migros Oerlikon",
     "amenity": "school",
-    "name": "Klubschule Migros Oerlikon",
+    "name": "Klubschule Migros",
     "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-11:30",
     "operator": "Migros-Kulturprozent",
     "website": "http://www.klubschule.ch/Standorte/Zuerich/Zuerich/Zuerich-Oerlikon",
