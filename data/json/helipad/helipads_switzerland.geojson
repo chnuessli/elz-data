@@ -979,8 +979,10 @@
   "id": "way/117438991",
   "properties": {
     "aeroway": "helipad",
+    "lit": "yes",
     "name": "Dachlandeplatz USZ",
     "ref": "LSHZ",
+    "surface": "paved",
     "id": "way/117438991"
   },
   "geometry": {
