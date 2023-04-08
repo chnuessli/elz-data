@@ -73077,6 +73077,7 @@
     "operator": "Kanton Zürich, Bildungsdirektion",
     "short_name": "KZN",
     "website": "http://www.kzn.ch/",
+    "wheelchair": "yes",
     "wikidata": "Q1728139",
     "id": "way/351497728"
   },
@@ -99294,7 +99295,7 @@
     "contact:street": "Kreuzstrasse",
     "contact:website": "https://www.modeco.ch/de/kontakt",
     "isced:level": "3",
-    "name": "MODECO - Facschule für Mode & Gestaltung",
+    "name": "MODECO - Fachschule für Mode & Gestaltung",
     "operator": "SCHWEIZERISCHE FACHSCHULE FÜR MODE UND GESTALTUNG",
     "operator:type": "private",
     "wikidata": "Q28000684",

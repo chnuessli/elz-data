@@ -1584,11 +1584,13 @@
     "branch": "Zürich Industrie",
     "brand": "TopPharm",
     "brand:wikidata": "Q110277794",
+    "check_date": "2023-04-07",
     "healthcare": "pharmacy",
     "name": "TopPharm",
     "opening_hours": "Mo-Fr 07:30-19:00; Sa 07:30-17:00",
     "operator": "TopPharm Genossenschaft",
     "website": "https://www.apotheke.ch/limmatplatz",
+    "wheelchair": "no",
     "id": "node/446784541"
   },
   "geometry": {

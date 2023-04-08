@@ -20932,7 +20932,9 @@
   "type": "Feature",
   "id": "way/305875553",
   "properties": {
+    "addr:city": "Poschiavo",
     "addr:housenumber": "1",
+    "addr:postcode": "7742",
     "addr:street": "Via da li Clüsüri",
     "amenity": "hospital",
     "building": "yes",
@@ -47870,6 +47872,7 @@
   "id": "node/2431011784",
   "properties": {
     "amenity": "clinic",
+    "healthcare": "clinic",
     "name": "ProAdicta Escape Ambulatorium",
     "phone": "+41 62 721 61 61",
     "website": "https://proadicta.ch/",
