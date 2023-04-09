@@ -3760,6 +3760,7 @@
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
     "operator": "Dr. Bähler Dropa",
     "website": "https://achillea.ch/standorte/rathaus-apotheke",
+    "wheelchair": "yes",
     "id": "node/1581271937"
   },
   "geometry": {
