@@ -47905,6 +47905,7 @@
   "id": "way/169315636",
   "properties": {
     "addr:housename": "Trakt D",
+    "addr:street": "Feldblumenstrasse",
     "amenity": "school",
     "building": "yes",
     "id": "way/169315636"
@@ -49149,6 +49150,7 @@
   "properties": {
     "amenity": "school",
     "building": "yes",
+    "name": "Schülerhort Ruggenacher 1",
     "id": "way/175713214"
   },
   "geometry": {
@@ -49456,6 +49458,10 @@
         [
           8.6844466,
           47.4309973
+        ],
+        [
+          8.6844369,
+          47.4309866
         ],
         [
           8.6844034,
