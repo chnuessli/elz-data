@@ -12238,6 +12238,7 @@
     "amenity": "kindergarten",
     "building": "yes",
     "name": "Turnhalle im Moos",
+    "website": "https://www.schlieren.ch/sehenswuerdigkeiten/24457",
     "id": "way/116472521"
   },
   "geometry": {
@@ -34121,6 +34122,7 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindertagesstätte Regenbogen",
+    "website": "https://www.kita-regenbogen.ch/",
     "id": "node/465614398"
   },
   "geometry": {
@@ -37153,7 +37155,7 @@
     "addr:city": "Bülach",
     "addr:housenumber": "5",
     "addr:postcode": "8180",
-    "addr:street": "Im Stumpe",
+    "addr:street": "Im Stumpen",
     "amenity": "kindergarten",
     "name": "Kindergarten Soligänter",
     "phone": "+41 44 860 48 00",

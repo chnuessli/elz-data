@@ -2605,11 +2605,13 @@
     "amenity": "pharmacy",
     "branch": "Zürich Central",
     "brand": "TopPharm",
+    "check_date": "2023-04-10",
     "healthcare": "pharmacy",
     "name": "TopPharm Leonhards Apotheke",
     "opening_hours": "Mo-Fr 07:45-18:45; Sa 09:00-16:00",
     "operator": "TopPharm Genossenschaft",
     "website": "https://www.apotheke.ch/leonhards",
+    "wheelchair": "no",
     "id": "node/703216769"
   },
   "geometry": {
