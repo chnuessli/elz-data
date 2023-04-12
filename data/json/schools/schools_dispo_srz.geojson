@@ -6806,8 +6806,8 @@
           47.5580317
         ],
         [
-          8.502163,
-          47.5582524
+          8.5021613,
+          47.5582359
         ],
         [
           8.5026611,
@@ -7062,10 +7062,6 @@
           47.5537277
         ],
         [
-          8.5065377,
-          47.5539155
-        ],
-        [
           8.5070052,
           47.5542658
         ],
@@ -7082,12 +7078,20 @@
           47.5548157
         ],
         [
-          8.5049799,
-          47.5543679
+          8.5051019,
+          47.5544528
         ],
         [
-          8.5057871,
-          47.5539989
+          8.5049778,
+          47.5543709
+        ],
+        [
+          8.5051917,
+          47.5542472
+        ],
+        [
+          8.5057675,
+          47.5539741
         ],
         [
           8.506293,
@@ -51896,9 +51900,18 @@
   "type": "Feature",
   "id": "way/159146505",
   "properties": {
+    "addr:city": "Dörflingen",
+    "addr:housenumber": "6",
+    "addr:postcode": "8293",
+    "addr:street": "Schulstrasse",
     "amenity": "school",
     "building": "school",
+    "email": "psdoerflingen@schulensh.ch",
+    "grades": "7-12",
     "name": "Neues Schulhaus",
+    "phone": "052 654 17 48",
+    "source": "local knowledge",
+    "website": "https://www.schuledoerflingen.ch",
     "id": "way/159146505"
   },
   "geometry": {
@@ -51968,8 +51981,12 @@
     "addr:street": "Schulstrasse",
     "amenity": "school",
     "building": "school",
+    "email": "psdoerflingen@schulensh.ch",
     "grades": "7-12",
     "name": "Alte Schulhaus",
+    "phone": "052 657 28 15",
+    "source": "local knowledge",
+    "website": "https://www.schuledoerflingen.ch/",
     "id": "way/159146557"
   },
   "geometry": {
