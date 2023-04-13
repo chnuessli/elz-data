@@ -16431,6 +16431,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "opening_hours": "Mo-Su 09:00-17:00",
     "operator": "Zoo Zürich AG",
     "phone": "+41 44 254 25 00",
@@ -16476,7 +16477,7 @@
     "description": "Verwendung durch Betriebssanität Zoo Zürich AG",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
     "opening_hours": "Mo-Su 09:00-17:00",
     "operator": "Zoo Zürich AG",
     "phone": "+41 44 254 25 00",
@@ -16485,8 +16486,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5741518,
-      47.3843379
+      8.5746508,
+      47.3845409
     ]
   }
 },
@@ -62756,6 +62757,100 @@
     "coordinates": [
       8.6529186,
       47.0195942
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10803733605",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Landgasthof Ried",
+    "description": "Beim Restaurant Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Feusisberg",
+    "phone": "+41554169476",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10803733605"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7608291,
+      47.1886006
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10803733606",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Berggasthaus Rossberg",
+    "description": "bei Autounterstand",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Feusisberg",
+    "phone": "+41554169476",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10803733606"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6932063,
+      47.1712411
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10804021506",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Mehrzweckgebäude Leepünt",
+    "description": "Während Schulbetrieb verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeinde Dällikon",
+    "phone": "+41 44 8471919",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10804021506"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.439281,
+      47.4384945
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10804134407",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Swisscom Shop",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "Mo-Fr 09:00 - 18:30, Samstag 09:00 - 16:00",
+    "operator": "Swisscom",
+    "id": "node/10804134407"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5550869,
+      47.3643179
     ]
   }
 }

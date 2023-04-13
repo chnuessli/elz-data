@@ -46453,6 +46453,82 @@
 },
 {
   "type": "Feature",
+  "id": "way/1161606654",
+  "properties": {
+    "addr:city": "Luzern 16",
+    "addr:housename": "Haus 33",
+    "addr:housenumber": "33",
+    "addr:postcode": "6000",
+    "addr:street": "Spitalstrasse",
+    "alt_name": "Kinderspital Luzern",
+    "amenity": "hospital",
+    "building": "hospital",
+    "building:levels": "5",
+    "emergency": "yes",
+    "internet_access": "wlan",
+    "name": "Haus 33 Kinderspital",
+    "name:en": "Children's Hospital",
+    "note": "Die offiziellen Gebäudenamen am Luzerner Kantonsspital sind \"Haus NN\" und werden so in allen Konversationen verwendet.",
+    "phone": "+41 41 205 31 66",
+    "roof:shape": "flat",
+    "website": "https://www.luks.ch/standorte/standort-luzern/kinderspital",
+    "wheelchair": "yes",
+    "id": "way/1161606654"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.2976033,
+          47.0586966
+        ],
+        [
+          8.2976493,
+          47.0586393
+        ],
+        [
+          8.2978102,
+          47.0584391
+        ],
+        [
+          8.2984141,
+          47.0586644
+        ],
+        [
+          8.2982057,
+          47.0589236
+        ],
+        [
+          8.298102,
+          47.0588849
+        ],
+        [
+          8.29809,
+          47.0588998
+        ],
+        [
+          8.2978779,
+          47.0588207
+        ],
+        [
+          8.2977065,
+          47.0587568
+        ],
+        [
+          8.2977199,
+          47.0587401
+        ],
+        [
+          8.2976033,
+          47.0586966
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/199578656",
   "properties": {
     "id": "way/199578656"
@@ -48492,6 +48568,7 @@
     "addr:street": "Kriegackerstrasse",
     "amenity": "clinic",
     "email": "info@rennbahnklinik.ch",
+    "healthcare": "clinic",
     "name": "Praxisklinik Rennbahn AG",
     "phone": "+41614656464",
     "website": "https://www.rennbahnklinik.ch/",
@@ -48500,8 +48577,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      7.6336823,
-      47.5355036
+      7.633952,
+      47.5354867
     ]
   }
 },
