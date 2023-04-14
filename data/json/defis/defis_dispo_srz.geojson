@@ -62853,6 +62853,76 @@
       47.3643179
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10806763607",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Berggasthaus Etzel Kulm",
+    "description": "Beim Restaurant Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Feusisberg",
+    "phone": "+41554169476",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10806763607"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7679035,
+      47.177608
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10807857007",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Logistikzentrum WEBSTAR",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "07:00 - 17:00 ",
+    "operator": "Juristische Person",
+    "phone": "+41523547777",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10807857007"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6872298,
+      47.4395141
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10809122606",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Pavillon Wand aussen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Alterssiedlung",
+    "phone": "0795623680",
+    "id": "node/10809122606"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8544599,
+      47.2721716
+    ]
+  }
 }
 ]
 }

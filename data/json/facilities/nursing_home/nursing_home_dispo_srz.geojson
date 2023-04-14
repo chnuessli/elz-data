@@ -21157,7 +21157,7 @@
     "addr:street": "Regensbergstrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Senioviva AG",
+    "name": "Senevita",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
@@ -29202,7 +29202,7 @@
   "id": "node/5053656686",
   "properties": {
     "amenity": "social_facility",
-    "name": "senevita",
+    "name": "Senevita",
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "id": "node/5053656686"
