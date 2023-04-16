@@ -4391,6 +4391,32 @@
 },
 {
   "type": "Feature",
+  "id": "node/2258851970",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "31",
+    "addr:postcode": "8200",
+    "addr:street": "Vordergasse",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Zum Zitronenbaum",
+    "opening_hours": "Mo 13:30-18:30; Tu-Fr 08:30-12:00,13:00-18:30; Sa 08:30-16:00",
+    "phone": "+41 52 634 04 04",
+    "website": "https://sauterag.ch/index.php",
+    "id": "node/2258851970"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6368107,
+      47.6959795
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2289494989",
   "properties": {
     "addr:city": "Zumikon",

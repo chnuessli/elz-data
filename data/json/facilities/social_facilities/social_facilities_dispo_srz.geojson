@@ -19997,10 +19997,13 @@
     "alt_name": "Alterszentrum Herti",
     "amenity": "social_facility",
     "building": "yes",
+    "email": "herti@alterszentrenzug.ch",
     "name": "Zentrum Herti",
     "operator": "Stiftung Alterszentren Zug",
+    "phone": "+41 41 729 64 64",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
+    "website": "https://www.alterszentrenzug.ch/zentren/herti/",
     "id": "way/171659304"
   },
   "geometry": {

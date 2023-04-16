@@ -4865,6 +4865,7 @@
   "id": "node/5043175515",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2023-04-15",
     "level": "0",
     "name": "HelenDoron",
     "operator:type": "private",
@@ -12389,6 +12390,23 @@
     "coordinates": [
       8.4535267,
       47.3899671
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10814817325",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kita Fugu",
+    "website": "https://www.kitafugu.ch/fugu-kinderkrippe-waedenswil/",
+    "id": "node/10814817325"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6539655,
+      47.2331754
     ]
   }
 }
