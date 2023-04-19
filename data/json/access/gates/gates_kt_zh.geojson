@@ -31604,6 +31604,7 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
+    "gate:type": "rolling",
     "locked": "yes",
     "id": "node/3780766895"
   },
@@ -31621,6 +31622,8 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
+    "gate:type": "rolling",
+    "locked": "yes",
     "id": "node/3780766896"
   },
   "geometry": {
@@ -31637,6 +31640,7 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
+    "gate:type": "rolling",
     "locked": "yes",
     "id": "node/3780766901"
   },
@@ -39011,6 +39015,8 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
+    "gate:type": "rolling",
+    "locked": "yes",
     "id": "node/5132881745"
   },
   "geometry": {
@@ -54245,8 +54251,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5156246,
-      47.3715112
+      8.5156303,
+      47.3715076
     ]
   }
 },
@@ -54261,8 +54267,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.515588,
-      47.3717487
+      8.515568,
+      47.3717655
     ]
   }
 },
@@ -70581,6 +70587,75 @@
     "coordinates": [
       8.5861545,
       47.3981133
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10819310814",
+  "properties": {
+    "access": "customers",
+    "barrier": "lift_gate",
+    "fixme": "maxheight überprüfen (unter 3,5 m der Gebäude-Durchfahrt)",
+    "id": "node/10819310814"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5156584,
+      47.3711677
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10822741981",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "gate:type": "rolling",
+    "locked": "no",
+    "id": "node/10822741981"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5536732,
+      47.4434532
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10822741993",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "gate:type": "rolling",
+    "locked": "no",
+    "id": "node/10822741993"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5539084,
+      47.4431088
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10822741999",
+  "properties": {
+    "barrier": "gate",
+    "vehicle": "customer",
+    "id": "node/10822741999"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5576636,
+      47.439627
     ]
   }
 }

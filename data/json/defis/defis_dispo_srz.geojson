@@ -29126,8 +29126,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5413147,
-      47.0527431
+      8.5413266,
+      47.0527512
     ]
   }
 },
@@ -32384,29 +32384,6 @@
     "coordinates": [
       8.4752388,
       47.1050818
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9001411605",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Treppenhaus im EG an der Wand, neben Aufzug",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-Fr 07:30-17:00",
-    "operator": "Schoch Vögtli AG, Alexandra Fey",
-    "phone": "+41 52 320 20 21",
-    "id": "node/9001411605"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.705101,
-      47.5272806
     ]
   }
 },
@@ -62995,6 +62972,74 @@
     "coordinates": [
       8.5571512,
       47.1859928
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10820480905",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Heulediweg",
+    "description": "immer Verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "Strasse",
+    "opening_hours": "24/7",
+    "id": "node/10820480905"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5425554,
+      47.0559226
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10822167843",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Empfang ConSol - Berufliche Perspektiven",
+    "description": "während Öffnungszeiten am Empfang erhältlich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "MO-FR: 8:00-12:00 13:00-17:00",
+    "operator": "ConSol - Berufliche Perspektiven",
+    "phone": "+41 41 766 48 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10822167843"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5272467,
+      47.182286
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10822534705",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Trafag AG, ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "Werkstatt",
+    "operator": "Firma",
+    "phone": "+41 44 922 3383",
+    "id": "node/10822534705"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8182094,
+      47.2781324
     ]
   }
 }

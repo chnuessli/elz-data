@@ -3229,7 +3229,7 @@
     "dispensing": "yes",
     "name": "Fontana Apotheke",
     "old_name": "Apotheke am Bullingerplatz",
-    "opening_hours": "Mo-Fr 08:00-12:30, 13:30-18:30; Sa 09:00-16:00",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-16:00",
     "website": "http://www.fontanaapotheke.ch/",
     "wheelchair": "yes",
     "id": "node/1413703407"

@@ -1338,8 +1338,24 @@
           47.4955968
         ],
         [
+          8.7352237,
+          47.4957452
+        ],
+        [
+          8.7352238,
+          47.4957453
+        ],
+        [
           8.7352273,
           47.4957495
+        ],
+        [
+          8.7349628,
+          47.4958668
+        ],
+        [
+          8.7349623,
+          47.495867
         ],
         [
           8.7347114,
@@ -4580,6 +4596,27 @@
     "coordinates": [
       8.7319757,
       47.5366752
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10821412442",
+  "properties": {
+    "amenity": "police",
+    "email": "rampsafety@zurich-airport.com",
+    "level": "0",
+    "name": "Airport Authority",
+    "opening_hours": "24/7",
+    "phone": "+41 43 816 21 11",
+    "wheelchair": "no",
+    "id": "node/10821412442"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5621036,
+      47.4487117
     ]
   }
 }

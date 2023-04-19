@@ -14054,6 +14054,7 @@
   "id": "way/136073128",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2023-04-17",
     "name": "Kinderhaus Chrüsimüsi",
     "wheelchair": "no",
     "id": "way/136073128"

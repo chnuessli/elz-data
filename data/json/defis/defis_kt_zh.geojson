@@ -22494,29 +22494,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9001411605",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Treppenhaus im EG an der Wand, neben Aufzug",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-Fr 07:30-17:00",
-    "operator": "Schoch Vögtli AG, Alexandra Fey",
-    "phone": "+41 52 320 20 21",
-    "id": "node/9001411605"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.705101,
-      47.5272806
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9001439783",
   "properties": {
     "access": "yes",
@@ -47721,6 +47698,28 @@
     "coordinates": [
       8.9107845,
       47.2722055
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10822534705",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Trafag AG, ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "Werkstatt",
+    "operator": "Firma",
+    "phone": "+41 44 922 3383",
+    "id": "node/10822534705"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8182094,
+      47.2781324
     ]
   }
 }
