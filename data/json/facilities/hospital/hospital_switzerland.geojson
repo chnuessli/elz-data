@@ -34040,6 +34040,7 @@
     "addr:postcode": "4310",
     "addr:street": "Salinenstrasse",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Rehaklinik Rheinfelden",
     "phone": "+41 61 836 51 51",
     "website": "https://www.reha-rheinfelden.ch/",
@@ -35087,6 +35088,7 @@
     "addr:street": "Riburger Strasse",
     "amenity": "hospital",
     "emergency": "yes",
+    "healthcare": "hospital",
     "name": "Gesundheitszentrum Fricktal - Spital Rheinfelden",
     "phone": "+41 61 835 66 66",
     "short_name": "GZF Rheinfelden",
@@ -42757,16 +42759,20 @@
           47.197915
         ],
         [
-          7.5411966,
-          47.1981292
+          7.5408381,
+          47.1980454
         ],
         [
-          7.54135,
-          47.1981852
+          7.5409883,
+          47.1977132
         ],
         [
-          7.5414698,
-          47.198264
+          7.541383,
+          47.1980116
+        ],
+        [
+          7.5420552,
+          47.1985612
         ],
         [
           7.5419973,

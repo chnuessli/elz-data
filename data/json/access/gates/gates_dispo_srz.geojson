@@ -2944,8 +2944,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5744241,
-      47.4029772
+      8.5743134,
+      47.4029663
     ]
   }
 },
@@ -36282,21 +36282,6 @@
     "coordinates": [
       8.792247,
       47.3186655
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/3606943378",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/3606943378"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5708513,
-      47.3574096
     ]
   }
 },
@@ -81584,7 +81569,7 @@
   "properties": {
     "access": "customers",
     "barrier": "lift_gate",
-    "fixme": "maxheight überprüfen (unter 3,5 m der Gebäude-Durchfahrt)",
+    "maxheight": "1.90",
     "id": "node/10819310814"
   },
   "geometry": {
@@ -81644,6 +81629,22 @@
     "coordinates": [
       8.5576636,
       47.439627
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10824043813",
+  "properties": {
+    "barrier": "gate",
+    "gate:type": "rolling",
+    "id": "node/10824043813"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5222432,
+      47.4616827
     ]
   }
 }
