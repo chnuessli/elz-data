@@ -3594,108 +3594,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/23173344",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "145",
-    "addr:postcode": "8048",
-    "addr:street": "Eugen-Huber-Strasse",
-    "amenity": "school",
-    "building": "school",
-    "isced:level": "1",
-    "name": "Loogarten",
-    "id": "way/23173344"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4733091,
-          47.3880073
-        ],
-        [
-          8.4733272,
-          47.3880705
-        ],
-        [
-          8.4732596,
-          47.3880982
-        ],
-        [
-          8.4732279,
-          47.3881113
-        ],
-        [
-          8.473154,
-          47.3881411
-        ],
-        [
-          8.4731805,
-          47.3881711
-        ],
-        [
-          8.4731322,
-          47.3881908
-        ],
-        [
-          8.4731144,
-          47.3881704
-        ],
-        [
-          8.4730843,
-          47.3881828
-        ],
-        [
-          8.4730129,
-          47.3881303
-        ],
-        [
-          8.4730331,
-          47.3881218
-        ],
-        [
-          8.4729356,
-          47.3880128
-        ],
-        [
-          8.4729267,
-          47.3880028
-        ],
-        [
-          8.4729873,
-          47.3879525
-        ],
-        [
-          8.4730691,
-          47.387972
-        ],
-        [
-          8.4730778,
-          47.3879718
-        ],
-        [
-          8.4731586,
-          47.3879505
-        ],
-        [
-          8.4732165,
-          47.3879961
-        ],
-        [
-          8.473224,
-          47.3879984
-        ],
-        [
-          8.4733091,
-          47.3880073
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/23646036",
   "properties": {
     "addr:city": "Stäfa",
@@ -8289,103 +8187,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/28399828",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "55",
-    "addr:postcode": "8047",
-    "addr:street": "Dennlerstrasse",
-    "amenity": "school",
-    "building": "school",
-    "description": "Primarschule",
-    "isced:level": "1",
-    "name": "Schulhaus Utogrund",
-    "phone": "+41 44 413 30 00",
-    "id": "way/28399828"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4958604,
-          47.3794987
-        ],
-        [
-          8.4958664,
-          47.3795026
-        ],
-        [
-          8.4958586,
-          47.3795071
-        ],
-        [
-          8.4959174,
-          47.3795548
-        ],
-        [
-          8.4959254,
-          47.3795498
-        ],
-        [
-          8.4962462,
-          47.3797983
-        ],
-        [
-          8.4962983,
-          47.3798378
-        ],
-        [
-          8.4962539,
-          47.3798638
-        ],
-        [
-          8.4961867,
-          47.3799046
-        ],
-        [
-          8.4958736,
-          47.3796626
-        ],
-        [
-          8.4958323,
-          47.3796874
-        ],
-        [
-          8.4957712,
-          47.3796422
-        ],
-        [
-          8.495814,
-          47.3796157
-        ],
-        [
-          8.4957497,
-          47.3795656
-        ],
-        [
-          8.4957525,
-          47.3795639
-        ],
-        [
-          8.4958068,
-          47.3795311
-        ],
-        [
-          8.495823,
-          47.379521
-        ],
-        [
-          8.4958604,
-          47.3794987
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/28682622",
   "properties": {
     "amenity": "school",
@@ -9092,89 +8893,6 @@
         [
           8.7084633,
           47.3520087
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/29103032",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "66",
-    "addr:postcode": "8055",
-    "addr:street": "Küngenmatt",
-    "amenity": "school",
-    "building": "school",
-    "isced:level": "1",
-    "name": "Schulhaus Küngenmatt",
-    "id": "way/29103032"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.502931,
-          47.3684154
-        ],
-        [
-          8.503091,
-          47.3684588
-        ],
-        [
-          8.5030372,
-          47.3685496
-        ],
-        [
-          8.5029133,
-          47.3685159
-        ],
-        [
-          8.5028838,
-          47.3685588
-        ],
-        [
-          8.5028866,
-          47.3685595
-        ],
-        [
-          8.5028853,
-          47.3685625
-        ],
-        [
-          8.5027407,
-          47.3685247
-        ],
-        [
-          8.5027428,
-          47.3685199
-        ],
-        [
-          8.5027469,
-          47.3685208
-        ],
-        [
-          8.5027687,
-          47.3684764
-        ],
-        [
-          8.5022589,
-          47.3683379
-        ],
-        [
-          8.5023125,
-          47.3682474
-        ],
-        [
-          8.5028563,
-          47.3683951
-        ],
-        [
-          8.502931,
-          47.3684154
         ]
       ]
     ]
@@ -15009,8 +14727,9 @@
     "contact:postcode": "8048",
     "contact:street": "Altstetterstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/altstetterstrasse.html",
+    "description": "Primarschule",
     "name": "Schule Altstetterstrasse",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Altstetterstrasse",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
     "operator:type": "public",
     "id": "way/34621153"
   },
@@ -25537,88 +25256,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/52395119",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "248",
-    "addr:postcode": "8048",
-    "addr:street": "Altstetterstrasse",
-    "amenity": "school",
-    "building": "school",
-    "isced:level": "1",
-    "name": "Schulhaus Untermoos",
-    "id": "way/52395119"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4822362,
-          47.38048
-        ],
-        [
-          8.4823954,
-          47.3805694
-        ],
-        [
-          8.4823671,
-          47.380593
-        ],
-        [
-          8.482365,
-          47.3805918
-        ],
-        [
-          8.4823603,
-          47.3805956
-        ],
-        [
-          8.4824027,
-          47.380619
-        ],
-        [
-          8.4823627,
-          47.380651
-        ],
-        [
-          8.482217,
-          47.3805686
-        ],
-        [
-          8.4822178,
-          47.3805679
-        ],
-        [
-          8.4822038,
-          47.38056
-        ],
-        [
-          8.4821681,
-          47.38054
-        ],
-        [
-          8.4822096,
-          47.3805065
-        ],
-        [
-          8.4822052,
-          47.380504
-        ],
-        [
-          8.4822346,
-          47.3804792
-        ],
-        [
-          8.4822362,
-          47.38048
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/52562296",
   "properties": {
     "amenity": "school",
@@ -26352,71 +25989,6 @@
         [
           8.4889824,
           47.1976673
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/53557537",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "204",
-    "addr:postcode": "8047",
-    "addr:street": "Letzigraben",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Altweg",
-    "id": "way/53557537"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4919475,
-          47.3724502
-        ],
-        [
-          8.4920925,
-          47.3723832
-        ],
-        [
-          8.4921005,
-          47.3723911
-        ],
-        [
-          8.4922189,
-          47.3723363
-        ],
-        [
-          8.4924023,
-          47.3725183
-        ],
-        [
-          8.4924506,
-          47.3725656
-        ],
-        [
-          8.4924547,
-          47.3725699
-        ],
-        [
-          8.492372,
-          47.3726082
-        ],
-        [
-          8.49238,
-          47.3726161
-        ],
-        [
-          8.4921992,
-          47.3726997
-        ],
-        [
-          8.4919475,
-          47.3724502
         ]
       ]
     ]
@@ -41136,6 +40708,14 @@
           47.403632
         ],
         [
+          8.5824072,
+          47.4036295
+        ],
+        [
+          8.5825395,
+          47.4036196
+        ],
+        [
           8.5831464,
           47.4035741
         ],
@@ -41176,12 +40756,40 @@
           47.4038683
         ],
         [
-          8.5822779,
-          47.4037666
+          8.5822416,
+          47.4038362
         ],
         [
-          8.5823317,
-          47.4036531
+          8.5822677,
+          47.4037756
+        ],
+        [
+          8.5822784,
+          47.4037412
+        ],
+        [
+          8.5822838,
+          47.4037142
+        ],
+        [
+          8.5822887,
+          47.4036878
+        ],
+        [
+          8.5822984,
+          47.4036696
+        ],
+        [
+          8.5823087,
+          47.4036558
+        ],
+        [
+          8.5823243,
+          47.4036442
+        ],
+        [
+          8.5823433,
+          47.4036353
         ],
         [
           8.5823741,
@@ -68968,7 +68576,7 @@
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/untermoos.html",
     "description": "Primarschule",
     "name": "Schule Untermoos",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Untermoos",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
     "operator:type": "public",
     "id": "way/221508623"
   },
@@ -69589,8 +69197,8 @@
           47.372259
         ],
         [
-          8.4963675,
-          47.3713953
+          8.4959095,
+          47.3714963
         ],
         [
           8.4955503,
@@ -69659,68 +69267,6 @@
         [
           8.4970095,
           47.372259
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/224275083",
-  "properties": {
-    "addr:housenumber": "80",
-    "addr:street": "Ausstellungsstrasse",
-    "alt_name": "Zentrale Aufnahmeprüfung",
-    "amenity": "school",
-    "building": "yes",
-    "contact:phone": "+41 43 259 77 00",
-    "contact:website": "https://www.zh.ch/de/bildungsdirektion/mittelschul-berufsbildungsamt.html",
-    "name": "Mittelschul- und Berufsbildung",
-    "id": "way/224275083"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5348063,
-          47.3838929
-        ],
-        [
-          8.5346431,
-          47.383792
-        ],
-        [
-          8.53445,
-          47.38367
-        ],
-        [
-          8.5347111,
-          47.3834765
-        ],
-        [
-          8.5348299,
-          47.3835508
-        ],
-        [
-          8.5346907,
-          47.3836536
-        ],
-        [
-          8.5348102,
-          47.3837284
-        ],
-        [
-          8.5349492,
-          47.3836244
-        ],
-        [
-          8.5350665,
-          47.383698
-        ],
-        [
-          8.5348063,
-          47.3838929
         ]
       ]
     ]
@@ -74421,7 +73967,7 @@
     "contact:street": "Döltschiweg",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/doeltschi.html",
     "description": "Primar- und Sekundarschule",
-    "name": "Schul- und Sportanlage Döltschi",
+    "name": "Schule Döltschi",
     "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit am Uetliberg",
     "operator:type": "public",
     "website": "https://www.stadt-zuerich.ch/schulen/de/doeltschi/ueberuns/standorte/schulhaus.html",
@@ -116209,52 +115755,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/931857906",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "120",
-    "addr:postcode": "8047",
-    "addr:street": "Flurstrasse",
-    "amenity": "school",
-    "building": "school",
-    "isced:level": "1",
-    "name": "Schulhaus Freilager",
-    "id": "way/931857906"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4872255,
-          47.3795165
-        ],
-        [
-          8.4867159,
-          47.3791133
-        ],
-        [
-          8.4873131,
-          47.3787672
-        ],
-        [
-          8.4876737,
-          47.3790525
-        ],
-        [
-          8.4878227,
-          47.3791704
-        ],
-        [
-          8.4872255,
-          47.3795165
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/934764648",
   "properties": {
     "amenity": "school",
@@ -118309,7 +117809,7 @@
     "contact:street": "Dennlerstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/utogrund.html",
     "name": "Schule Utogrund",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Utogrund",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
     "operator:type": "public",
     "id": "way/1031682788"
   },
@@ -123320,6 +122820,50 @@
 },
 {
   "type": "Feature",
+  "id": "way/1164298985",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housename": "Schulhaus Allmend",
+    "contact:housenumber": "51",
+    "contact:postcode": "8041",
+    "isced:level": "1",
+    "name": "Schule Allmend",
+    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
+    "operator:type": "public",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/allmend.html",
+    "id": "way/1164298985"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5199506,
+          47.3411503
+        ],
+        [
+          8.5198942,
+          47.3402075
+        ],
+        [
+          8.5205058,
+          47.3402008
+        ],
+        [
+          8.5204785,
+          47.3411452
+        ],
+        [
+          8.5199506,
+          47.3411503
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/256335788",
   "properties": {
     "amenity": "school",
@@ -125306,12 +124850,11 @@
   "type": "Feature",
   "id": "node/5331387438",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "68",
-    "addr:postcode": "8002",
-    "addr:street": "Grütlistrasse",
     "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "68",
+    "contact:postcode": "8002",
+    "contact:street": "Grütlistrasse",
     "denomination": "jewish",
     "description": "Primar- und Sekundarschule, modern-orthodoxe (weltoffen orthodoxe) jüdische Tagesschule",
     "email": "info@noam.ch",
@@ -126531,8 +126074,12 @@
     "addr:postcode": "8055",
     "addr:street": "Gutstrasse",
     "amenity": "school",
-    "name": "FSV Schulhaus Gutstrasse",
+    "isced:level": "3",
+    "name": "Fachschule Viventa, Schulhaus Gutstrasse",
+    "operator": "Stadt Zürich, SSD, Fachschule Viventa",
+    "operator:type": "public",
     "phone": "+41 44 413 43 30",
+    "short_name": "FSV Gutstrasse",
     "website": "https://www.stadt-zuerich.ch/ssd/de/index/jugend-_und_erwachsenenbildung/ueber_die_viventa/unsere_schulhaeuser/schulhausgutstrasse.html",
     "id": "node/9642310076"
   },
@@ -128774,6 +128321,27 @@
     "coordinates": [
       8.7106503,
       47.287836
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10828170606",
+  "properties": {
+    "amenity": "school",
+    "name": "Schule für Sehbehinderte",
+    "operator": "Stadt Zürich, SSD, Sonderschulen",
+    "operator:type": "public",
+    "phone": "+41 44 413 43 80",
+    "short_name": "SfS",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/sfs/ueberuns.html",
+    "id": "node/10828170606"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4861808,
+      47.3850777
     ]
   }
 }

@@ -259,75 +259,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/15733695",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "27",
-    "addr:postcode": "8048",
-    "addr:street": "Luggwegstrasse",
-    "amenity": "kindergarten",
-    "building": "school",
-    "building:levels": "3",
-    "isced:level": "0",
-    "name": "Kindergarten Kappeli 1 + 2",
-    "phone": "+41 44 413 75 24",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/kappeli_primar/ueberuns/standorte/kindergaerten.html",
-    "id": "way/15733695"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4911133,
-          47.3877691
-        ],
-        [
-          8.4910857,
-          47.3877341
-        ],
-        [
-          8.4911516,
-          47.3877103
-        ],
-        [
-          8.4910962,
-          47.3876401
-        ],
-        [
-          8.4911499,
-          47.3876206
-        ],
-        [
-          8.4911625,
-          47.3876366
-        ],
-        [
-          8.4913976,
-          47.3875514
-        ],
-        [
-          8.4913852,
-          47.3875356
-        ],
-        [
-          8.4914396,
-          47.3875159
-        ],
-        [
-          8.4915225,
-          47.3876209
-        ],
-        [
-          8.4911133,
-          47.3877691
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/20457119",
   "properties": {
     "addr:housename": "ETH HKK",
@@ -3894,147 +3825,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/41215731",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "720",
-    "addr:postcode": "8048",
-    "addr:street": "Badenerstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "contact:city": "Zürich",
-    "contact:housenumber": "724",
-    "contact:phone": "+41 44 413 05 30",
-    "contact:postcode": "8048",
-    "contact:street": "Badenerstrasse",
-    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/imherrlig/ueberuns/standorte/schulhaus.html",
-    "isced:level": "0",
-    "name": "Kindergarten im Herlig 1+2",
-    "owner": "Immobilien Stadt Zürich (IMMO)",
-    "id": "way/41215731"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4824024,
-          47.3902008
-        ],
-        [
-          8.4824381,
-          47.390229
-        ],
-        [
-          8.482445,
-          47.390224
-        ],
-        [
-          8.4824507,
-          47.3902254
-        ],
-        [
-          8.4824495,
-          47.3902274
-        ],
-        [
-          8.4825649,
-          47.3902553
-        ],
-        [
-          8.4825662,
-          47.3902531
-        ],
-        [
-          8.4825708,
-          47.3902541
-        ],
-        [
-          8.4825273,
-          47.3903384
-        ],
-        [
-          8.4824026,
-          47.390309
-        ],
-        [
-          8.4824057,
-          47.3903032
-        ],
-        [
-          8.4823696,
-          47.3902948
-        ],
-        [
-          8.4823397,
-          47.3903132
-        ],
-        [
-          8.4823234,
-          47.3903232
-        ],
-        [
-          8.482321,
-          47.3903214
-        ],
-        [
-          8.4822792,
-          47.3902881
-        ],
-        [
-          8.482249,
-          47.3902648
-        ],
-        [
-          8.4822965,
-          47.3902367
-        ],
-        [
-          8.4822894,
-          47.3902114
-        ],
-        [
-          8.4822801,
-          47.3902126
-        ],
-        [
-          8.482255,
-          47.3901241
-        ],
-        [
-          8.4822607,
-          47.3901233
-        ],
-        [
-          8.4822612,
-          47.3901254
-        ],
-        [
-          8.48238,
-          47.3901103
-        ],
-        [
-          8.4823796,
-          47.3901083
-        ],
-        [
-          8.4823854,
-          47.3901077
-        ],
-        [
-          8.4824104,
-          47.390196
-        ],
-        [
-          8.4824024,
-          47.3902008
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/41729640",
   "properties": {
     "addr:city": "Langnau a.A.",
@@ -5653,58 +5443,6 @@
         [
           8.5763363,
           47.4463824
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/44846770",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "39",
-    "addr:postcode": "8045",
-    "addr:street": "Frauentalweg",
-    "alt_name": "Sprachheilkindergarten",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "isced:level": "0",
-    "name": "Kindergarten Frauentalweg 1–2",
-    "id": "way/44846770"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.509562,
-          47.3542039
-        ],
-        [
-          8.5096073,
-          47.3541175
-        ],
-        [
-          8.5097983,
-          47.3541634
-        ],
-        [
-          8.50982,
-          47.3541221
-        ],
-        [
-          8.5099479,
-          47.3541529
-        ],
-        [
-          8.509881,
-          47.3542806
-        ],
-        [
-          8.509562,
-          47.3542039
         ]
       ]
     ]
@@ -7401,64 +7139,6 @@
         [
           8.4905231,
           47.2697543
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/53557528",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "200",
-    "addr:postcode": "8047",
-    "addr:street": "Letzigraben",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "isced:level": "0",
-    "name": "Kindergarten Altweg 1 - 2",
-    "id": "way/53557528"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4919654,
-          47.372879
-        ],
-        [
-          8.4922775,
-          47.3727339
-        ],
-        [
-          8.4924209,
-          47.3728754
-        ],
-        [
-          8.4922964,
-          47.3729333
-        ],
-        [
-          8.4922727,
-          47.37291
-        ],
-        [
-          8.4921941,
-          47.3729465
-        ],
-        [
-          8.4921976,
-          47.37295
-        ],
-        [
-          8.4920888,
-          47.3730007
-        ],
-        [
-          8.4919654,
-          47.372879
         ]
       ]
     ]
@@ -10309,79 +9989,6 @@
         [
           8.5332996,
           47.2869373
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/93079082",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "76",
-    "addr:postcode": "8002",
-    "addr:street": "Grütlistrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "building:levels": "2",
-    "isced:level": "0",
-    "name": "Kindergarten Grütli 1 - 3",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "way/93079082"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5307493,
-          47.3600538
-        ],
-        [
-          8.5307945,
-          47.3599423
-        ],
-        [
-          8.531178,
-          47.3600137
-        ],
-        [
-          8.5311518,
-          47.3600772
-        ],
-        [
-          8.5311822,
-          47.3600911
-        ],
-        [
-          8.5311649,
-          47.3601245
-        ],
-        [
-          8.5311334,
-          47.3601238
-        ],
-        [
-          8.5309583,
-          47.3600912
-        ],
-        [
-          8.530954,
-          47.3601019
-        ],
-        [
-          8.5309206,
-          47.3600956
-        ],
-        [
-          8.5309244,
-          47.3600864
-        ],
-        [
-          8.5307493,
-          47.3600538
         ]
       ]
     ]
@@ -15301,55 +14908,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/145480120",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "9",
-    "addr:postcode": "8041",
-    "addr:street": "Farenweg",
-    "amenity": "kindergarten",
-    "building": "school",
-    "building:levels": "1",
-    "isced:level": "0",
-    "name": "Kindergarten Farenweg 1+2 und Kinderhort 1",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Entlisberg",
-    "operator:type": "public",
-    "phone": "+41 44 413 31 71",
-    "roof:levels": "1",
-    "start_date": "1928",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/entlisberg/ueberuns/standorte/kindergaerten.html",
-    "id": "way/145480120"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5269454,
-          47.3400825
-        ],
-        [
-          8.5269133,
-          47.3402066
-        ],
-        [
-          8.5265982,
-          47.3401682
-        ],
-        [
-          8.5266307,
-          47.340044
-        ],
-        [
-          8.5269454,
-          47.3400825
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/146983028",
   "properties": {
     "amenity": "kindergarten",
@@ -15403,132 +14961,6 @@
         [
           8.7243073,
           47.5072327
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/147052354",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "387",
-    "addr:postcode": "8048",
-    "addr:street": "Rautistrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "description": "GBL-Siedlung 14: Altstetten",
-    "isced:level": "0",
-    "name": "Kindergarten Im Talbächli 1+2",
-    "owner": "Gemeinnützige Baugenossenschaft Limmattal (GBL)",
-    "source": "bing",
-    "start_date": "1964..1965",
-    "id": "way/147052354"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4695955,
-          47.3881187
-        ],
-        [
-          8.4696563,
-          47.3881155
-        ],
-        [
-          8.4696531,
-          47.388087
-        ],
-        [
-          8.4696507,
-          47.3880871
-        ],
-        [
-          8.4696501,
-          47.3880824
-        ],
-        [
-          8.4697713,
-          47.3880762
-        ],
-        [
-          8.4697817,
-          47.3881689
-        ],
-        [
-          8.4697838,
-          47.3881688
-        ],
-        [
-          8.4697844,
-          47.3881741
-        ],
-        [
-          8.4697085,
-          47.388178
-        ],
-        [
-          8.4697124,
-          47.3882133
-        ],
-        [
-          8.4697142,
-          47.3882132
-        ],
-        [
-          8.4697148,
-          47.3882184
-        ],
-        [
-          8.4695141,
-          47.3882287
-        ],
-        [
-          8.4695135,
-          47.3882235
-        ],
-        [
-          8.4695157,
-          47.3882234
-        ],
-        [
-          8.4695118,
-          47.3881886
-        ],
-        [
-          8.4694616,
-          47.3881912
-        ],
-        [
-          8.4694524,
-          47.3881093
-        ],
-        [
-          8.4694598,
-          47.3881089
-        ],
-        [
-          8.46946,
-          47.3881107
-        ],
-        [
-          8.4695873,
-          47.3881041
-        ],
-        [
-          8.4695871,
-          47.3881022
-        ],
-        [
-          8.4695936,
-          47.3881019
-        ],
-        [
-          8.4695955,
-          47.3881187
         ]
       ]
     ]
@@ -16930,478 +16362,6 @@
         [
           8.5914891,
           47.4443461
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/158712553",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "30",
-    "addr:postcode": "8064",
-    "addr:street": "Grünauring",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "building:levels": "2",
-    "isced:level": "0",
-    "name": "Kindergarten Grünau 1 + 2",
-    "owner": "Immobilien Stadt Zürich (IMMO)",
-    "phone": "+41 44 413 05 63",
-    "roof:shape": "flat",
-    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/gruenau/ueberuns/standorte/kindergaerten.html",
-    "id": "way/158712553"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4882507,
-          47.3965484
-        ],
-        [
-          8.4883058,
-          47.3965338
-        ],
-        [
-          8.488348,
-          47.3965226
-        ],
-        [
-          8.4883358,
-          47.396501
-        ],
-        [
-          8.4883322,
-          47.3964947
-        ],
-        [
-          8.4883322,
-          47.3964933
-        ],
-        [
-          8.4883324,
-          47.396492
-        ],
-        [
-          8.4883326,
-          47.3964907
-        ],
-        [
-          8.4883329,
-          47.3964894
-        ],
-        [
-          8.4883334,
-          47.3964881
-        ],
-        [
-          8.4883338,
-          47.3964869
-        ],
-        [
-          8.4883344,
-          47.3964857
-        ],
-        [
-          8.4883351,
-          47.3964845
-        ],
-        [
-          8.4883358,
-          47.3964834
-        ],
-        [
-          8.4883366,
-          47.3964824
-        ],
-        [
-          8.4883375,
-          47.3964814
-        ],
-        [
-          8.4883385,
-          47.3964804
-        ],
-        [
-          8.4883395,
-          47.3964796
-        ],
-        [
-          8.4883406,
-          47.3964788
-        ],
-        [
-          8.4883417,
-          47.3964781
-        ],
-        [
-          8.4883428,
-          47.3964774
-        ],
-        [
-          8.4883441,
-          47.3964768
-        ],
-        [
-          8.4883453,
-          47.3964764
-        ],
-        [
-          8.4883466,
-          47.396476
-        ],
-        [
-          8.4883479,
-          47.3964757
-        ],
-        [
-          8.4883492,
-          47.3964754
-        ],
-        [
-          8.4883505,
-          47.3964753
-        ],
-        [
-          8.4883519,
-          47.3964753
-        ],
-        [
-          8.4883532,
-          47.3964753
-        ],
-        [
-          8.4883545,
-          47.3964755
-        ],
-        [
-          8.4883558,
-          47.3964757
-        ],
-        [
-          8.4883571,
-          47.396476
-        ],
-        [
-          8.4883584,
-          47.3964764
-        ],
-        [
-          8.4883596,
-          47.3964769
-        ],
-        [
-          8.4883608,
-          47.3964775
-        ],
-        [
-          8.488362,
-          47.3964782
-        ],
-        [
-          8.4883631,
-          47.3964789
-        ],
-        [
-          8.4883642,
-          47.3964797
-        ],
-        [
-          8.4883652,
-          47.3964806
-        ],
-        [
-          8.4883661,
-          47.3964815
-        ],
-        [
-          8.488367,
-          47.3964826
-        ],
-        [
-          8.4883678,
-          47.3964836
-        ],
-        [
-          8.4883737,
-          47.396494
-        ],
-        [
-          8.4883769,
-          47.3964997
-        ],
-        [
-          8.4883631,
-          47.3965209
-        ],
-        [
-          8.4883648,
-          47.3965275
-        ],
-        [
-          8.4883661,
-          47.3965306
-        ],
-        [
-          8.4883713,
-          47.3965326
-        ],
-        [
-          8.4883785,
-          47.3965326
-        ],
-        [
-          8.4884964,
-          47.3965005
-        ],
-        [
-          8.4884996,
-          47.3964969
-        ],
-        [
-          8.4884976,
-          47.3964939
-        ],
-        [
-          8.488493,
-          47.3964865
-        ],
-        [
-          8.4884621,
-          47.3964772
-        ],
-        [
-          8.4884591,
-          47.3964718
-        ],
-        [
-          8.4884538,
-          47.3964626
-        ],
-        [
-          8.4884535,
-          47.3964618
-        ],
-        [
-          8.4884533,
-          47.396461
-        ],
-        [
-          8.4884531,
-          47.3964601
-        ],
-        [
-          8.488453,
-          47.3964593
-        ],
-        [
-          8.488453,
-          47.3964584
-        ],
-        [
-          8.488453,
-          47.3964576
-        ],
-        [
-          8.488453,
-          47.3964567
-        ],
-        [
-          8.4884531,
-          47.3964559
-        ],
-        [
-          8.4884533,
-          47.396455
-        ],
-        [
-          8.4884535,
-          47.3964542
-        ],
-        [
-          8.4884538,
-          47.3964534
-        ],
-        [
-          8.4884541,
-          47.3964526
-        ],
-        [
-          8.4884545,
-          47.3964519
-        ],
-        [
-          8.4884549,
-          47.3964511
-        ],
-        [
-          8.4884554,
-          47.3964504
-        ],
-        [
-          8.4884559,
-          47.3964498
-        ],
-        [
-          8.4884565,
-          47.3964491
-        ],
-        [
-          8.4884571,
-          47.3964485
-        ],
-        [
-          8.4884577,
-          47.396448
-        ],
-        [
-          8.4884584,
-          47.3964475
-        ],
-        [
-          8.4884591,
-          47.396447
-        ],
-        [
-          8.4884599,
-          47.3964466
-        ],
-        [
-          8.4884606,
-          47.3964462
-        ],
-        [
-          8.4884614,
-          47.3964459
-        ],
-        [
-          8.4884622,
-          47.3964456
-        ],
-        [
-          8.4884631,
-          47.3964454
-        ],
-        [
-          8.4884639,
-          47.3964453
-        ],
-        [
-          8.4884648,
-          47.3964452
-        ],
-        [
-          8.4884656,
-          47.3964452
-        ],
-        [
-          8.4884671,
-          47.3964448
-        ],
-        [
-          8.4884685,
-          47.3964445
-        ],
-        [
-          8.48847,
-          47.3964442
-        ],
-        [
-          8.4884715,
-          47.3964441
-        ],
-        [
-          8.488473,
-          47.3964441
-        ],
-        [
-          8.4884745,
-          47.3964442
-        ],
-        [
-          8.488476,
-          47.3964444
-        ],
-        [
-          8.4884775,
-          47.3964447
-        ],
-        [
-          8.4884789,
-          47.396445
-        ],
-        [
-          8.4884804,
-          47.3964455
-        ],
-        [
-          8.4884818,
-          47.3964461
-        ],
-        [
-          8.4884831,
-          47.3964467
-        ],
-        [
-          8.4884844,
-          47.3964475
-        ],
-        [
-          8.4884857,
-          47.3964483
-        ],
-        [
-          8.4884869,
-          47.3964492
-        ],
-        [
-          8.488488,
-          47.3964502
-        ],
-        [
-          8.4884891,
-          47.3964512
-        ],
-        [
-          8.4884901,
-          47.3964524
-        ],
-        [
-          8.488491,
-          47.3964535
-        ],
-        [
-          8.4885068,
-          47.3964813
-        ],
-        [
-          8.4886136,
-          47.3964535
-        ],
-        [
-          8.4886457,
-          47.3965097
-        ],
-        [
-          8.488394,
-          47.3965749
-        ],
-        [
-          8.4883358,
-          47.39659
-        ],
-        [
-          8.4882835,
-          47.3966036
-        ],
-        [
-          8.4882507,
-          47.3965484
         ]
       ]
     ]
@@ -30344,8 +29304,8 @@
           47.5086703
         ],
         [
-          8.6893545,
-          47.5086575
+          8.6893857,
+          47.5086505
         ],
         [
           8.6896109,
@@ -34531,8 +33491,9 @@
     "contact:postcode": "8003",
     "contact:street": "Brahmsstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/aemtler_a/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
     "name": "Kindergarten Brahms",
-    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Aemtler A",
+    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
     "operator:type": "public",
     "id": "way/705913434"
   },
@@ -46737,23 +45698,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9189798031",
-  "properties": {
-    "amenity": "kindergarten",
-    "isced:level": "0",
-    "name": "Kindergarten Altweg 4",
-    "id": "node/9189798031"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4926404,
-      47.3723403
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9190560366",
   "properties": {
     "amenity": "kindergarten",
@@ -46922,7 +45866,7 @@
     "contact:street": "Gutstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/imgut/ueberuns/standorte/kindergaerten.html",
     "isced:level": "0",
-    "name": "Kindergarten Im Gut 1+2",
+    "name": "Kindergarten Im Gut",
     "operator:type": "public",
     "id": "node/9242815680"
   },
@@ -51306,6 +50250,120 @@
     "coordinates": [
       8.8530445,
       47.260615
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10828128396",
+  "properties": {
+    "amenity": "kindergarten",
+    "isced:level": "0",
+    "name": "Kindergarten Altweg",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "id": "node/10828128396"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4930581,
+      47.3725354
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10828128397",
+  "properties": {
+    "amenity": "kindergarten",
+    "isced:level": "0",
+    "name": "Kindergarten Altweg",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "id": "node/10828128397"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4922417,
+      47.3728154
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10828205583",
+  "properties": {
+    "amenity": "kindergarten",
+    "isced:level": "0",
+    "name": "Kindergarten Grünau 1 + 2",
+    "phone": "+41 44 413 05 63",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/gruenau/ueberuns/standorte/kindergaerten.html",
+    "id": "node/10828205583"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4885651,
+      47.3964975
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10828209887",
+  "properties": {
+    "amenity": "kindergarten",
+    "isced:level": "0",
+    "name": "Kindergarten Kappeli 1 + 2",
+    "phone": "+41 44 413 75 24",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/kappeli_primar/ueberuns/standorte/kindergaerten.html",
+    "id": "node/10828209887"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4911982,
+      47.3876726
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10828214194",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "724",
+    "contact:phone": "+41 44 413 05 30",
+    "contact:postcode": "8048",
+    "contact:street": "Badenerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/imherrlig/ueberuns/standorte/schulhaus.html",
+    "isced:level": "0",
+    "name": "Kindergarten im Herlig 1+2",
+    "id": "node/10828214194"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4823311,
+      47.390267
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10828214801",
+  "properties": {
+    "amenity": "kindergarten",
+    "isced:level": "0",
+    "name": "Kindergarten und Hort Brauer 1+2",
+    "id": "node/10828214801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.525479,
+      47.3790048
     ]
   }
 }

@@ -5615,7 +5615,7 @@
   "id": "node/6631567471",
   "properties": {
     "amenity": "childcare",
-    "name": "Hort Altweg 1, 2, 5, 7 und 8",
+    "name": "Hort Altweg",
     "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
     "id": "node/6631567471"
   },
@@ -7232,8 +7232,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5309498,
-      47.360075
+      8.5310841,
+      47.3600637
     ]
   }
 },
@@ -7388,7 +7388,7 @@
     "contact:street": "Gutstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/imgut/ueberuns/standorte/kindergaerten.html",
     "isced:level": "0",
-    "name": "Kinderhort Im Gut A-B-C-D-E",
+    "name": "Kinderhort Im Gut",
     "operator:type": "public",
     "id": "node/9242815679"
   },

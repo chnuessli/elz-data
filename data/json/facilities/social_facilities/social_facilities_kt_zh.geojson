@@ -14124,6 +14124,69 @@
 },
 {
   "type": "Feature",
+  "id": "way/114025487",
+  "properties": {
+    "addr:city": "Schlieren",
+    "addr:housenumber": "7a",
+    "addr:postcode": "8952",
+    "addr:street": "Obere Bachstrasse",
+    "alt_name": "Pflegeheim Smaily",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@smaily.ch",
+    "name": "Pflege-Wohn-Heim Smaily",
+    "operator": "Pflege-Wohn-Heim Smaily GmbH",
+    "phone": "+41 44 731 21 11",
+    "social_facility": "nursing_home",
+    "website": "https://www.demenz-pflegewohnheim.ch/",
+    "id": "way/114025487"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4434221,
+          47.3962107
+        ],
+        [
+          8.4435514,
+          47.3962208
+        ],
+        [
+          8.4435288,
+          47.3963523
+        ],
+        [
+          8.4433998,
+          47.3963422
+        ],
+        [
+          8.4434063,
+          47.396304
+        ],
+        [
+          8.4433599,
+          47.3963004
+        ],
+        [
+          8.4433672,
+          47.3962581
+        ],
+        [
+          8.4434134,
+          47.3962617
+        ],
+        [
+          8.4434221,
+          47.3962107
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/114160763",
   "properties": {
     "addr:city": "Zürich",
@@ -28674,110 +28737,6 @@
         [
           8.5323437,
           47.3697198
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/378870043",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "49",
-    "addr:postcode": "8038",
-    "addr:street": "Butzenstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Kinderhaus Entlisberg",
-    "operator": "Sozialdepartement Stadt Zürich",
-    "owner": "Immobilien Stadt Zürich (IMMO)",
-    "phone": "+41 44 412 89 89",
-    "social_facility": "day_care",
-    "social_facility:for": "child",
-    "start_date": "1910..1911",
-    "website": "https://www.stadt-zuerich.ch/sd/de/index/familien_kinder_jugendliche/kinderbetreuung/stadteigene_kitas/kinderhaus-entlisberg.html",
-    "id": "way/378870043"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5240737,
-          47.3407025
-        ],
-        [
-          8.5240765,
-          47.3406402
-        ],
-        [
-          8.5240776,
-          47.3406154
-        ],
-        [
-          8.5240909,
-          47.3406157
-        ],
-        [
-          8.5243594,
-          47.3406212
-        ],
-        [
-          8.524376,
-          47.3406286
-        ],
-        [
-          8.524375,
-          47.3406516
-        ],
-        [
-          8.5243573,
-          47.3406612
-        ],
-        [
-          8.5243565,
-          47.3406798
-        ],
-        [
-          8.524605,
-          47.340685
-        ],
-        [
-          8.5246004,
-          47.3407863
-        ],
-        [
-          8.5245112,
-          47.3407845
-        ],
-        [
-          8.5245102,
-          47.3408074
-        ],
-        [
-          8.5243425,
-          47.3408039
-        ],
-        [
-          8.5243435,
-          47.3407811
-        ],
-        [
-          8.5241996,
-          47.3407781
-        ],
-        [
-          8.5242028,
-          47.3407075
-        ],
-        [
-          8.5240736,
-          47.3407049
-        ],
-        [
-          8.5240737,
-          47.3407025
         ]
       ]
     ]

@@ -8596,6 +8596,69 @@
 },
 {
   "type": "Feature",
+  "id": "way/114025487",
+  "properties": {
+    "addr:city": "Schlieren",
+    "addr:housenumber": "7a",
+    "addr:postcode": "8952",
+    "addr:street": "Obere Bachstrasse",
+    "alt_name": "Pflegeheim Smaily",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@smaily.ch",
+    "name": "Pflege-Wohn-Heim Smaily",
+    "operator": "Pflege-Wohn-Heim Smaily GmbH",
+    "phone": "+41 44 731 21 11",
+    "social_facility": "nursing_home",
+    "website": "https://www.demenz-pflegewohnheim.ch/",
+    "id": "way/114025487"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4434221,
+          47.3962107
+        ],
+        [
+          8.4435514,
+          47.3962208
+        ],
+        [
+          8.4435288,
+          47.3963523
+        ],
+        [
+          8.4433998,
+          47.3963422
+        ],
+        [
+          8.4434063,
+          47.396304
+        ],
+        [
+          8.4433599,
+          47.3963004
+        ],
+        [
+          8.4433672,
+          47.3962581
+        ],
+        [
+          8.4434134,
+          47.3962617
+        ],
+        [
+          8.4434221,
+          47.3962107
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/122942384",
   "properties": {
     "addr:city": "Zürich",
