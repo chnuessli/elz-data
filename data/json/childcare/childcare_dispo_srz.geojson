@@ -12399,7 +12399,10 @@
   "properties": {
     "amenity": "childcare",
     "name": "Kita Fugu",
+    "nursery": "yes",
+    "operator:type": "private",
     "website": "https://www.kitafugu.ch/fugu-kinderkrippe-waedenswil/",
+    "wheelchair": "yes",
     "id": "node/10814817325"
   },
   "geometry": {

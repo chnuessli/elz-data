@@ -2713,6 +2713,7 @@
   "id": "way/34213637",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2023-04-21",
     "name": "Kindergarten Heiget",
     "id": "way/34213637"
   },
@@ -17925,6 +17926,7 @@
   "id": "way/179303449",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2023-04-21",
     "name": "Kinderwerkstatt",
     "wheelchair": "limited",
     "id": "way/179303449"
@@ -49674,6 +49676,7 @@
     "amenity": "kindergarten",
     "name": "Kindergarten Hangenmoos 2",
     "preschool": "yes",
+    "wheelchair": "yes",
     "id": "node/10003509812"
   },
   "geometry": {
@@ -50121,6 +50124,7 @@
     "amenity": "kindergarten",
     "name": "Kindergarten Hangenmoos 1",
     "preschool": "yes",
+    "wheelchair": "yes",
     "id": "node/10087771460"
   },
   "geometry": {

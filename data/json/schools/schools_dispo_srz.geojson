@@ -65487,12 +65487,12 @@
           47.3686547
         ],
         [
-          8.522082,
-          47.3686208
+          8.5220787,
+          47.3686192
         ],
         [
-          8.5231314,
-          47.3677303
+          8.5231305,
+          47.3677252
         ],
         [
           8.5236951,
@@ -121226,6 +121226,9 @@
     "addr:street": "Gulmenstrasse",
     "amenity": "school",
     "building": "school",
+    "building:levels": "1",
+    "name": "Schulhaus Untermosen - Schülerclub",
+    "roof:levels": "0",
     "id": "way/1092546845"
   },
   "geometry": {
@@ -121274,6 +121277,7 @@
     "addr:street": "Gulmenstrasse",
     "amenity": "school",
     "building": "school",
+    "name": "Schulhaus Untermosen",
     "id": "way/1092546846"
   },
   "geometry": {
