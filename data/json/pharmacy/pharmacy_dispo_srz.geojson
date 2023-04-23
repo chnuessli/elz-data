@@ -755,34 +755,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/297711771",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "1",
-    "addr:postcode": "8002",
-    "addr:street": "Tessinerplatz",
-    "amenity": "pharmacy",
-    "branch": "Zürich Enge",
-    "brand": "Amavita",
-    "brand:wikidata": "Q93733901",
-    "healthcare": "pharmacy",
-    "name": "Amavita",
-    "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-14:00",
-    "operator": "GaleniCare",
-    "website": "https://www.amavita.ch/de/amavita-apotheke-enge",
-    "id": "node/297711771"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5321661,
-      47.3645106
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/301815427",
   "properties": {
     "addr:city": "Zürich",

@@ -27738,100 +27738,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/639812110",
-  "properties": {
-    "addr:city": "Ibach",
-    "addr:housenumber": "62",
-    "addr:postcode": "6438",
-    "addr:street": "Gotthardstrasse",
-    "amenity": "hospital",
-    "healthcare": "hospital",
-    "name": "TellKlinik",
-    "operator": "Tell-Klinik AG",
-    "id": "way/639812110"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6433518,
-          47.0106933
-        ],
-        [
-          8.6433407,
-          47.0105932
-        ],
-        [
-          8.6433495,
-          47.0105681
-        ],
-        [
-          8.6433965,
-          47.0105688
-        ],
-        [
-          8.6434024,
-          47.0105586
-        ],
-        [
-          8.6434412,
-          47.0105553
-        ],
-        [
-          8.6434268,
-          47.0104142
-        ],
-        [
-          8.6435636,
-          47.0103913
-        ],
-        [
-          8.6437584,
-          47.0106092
-        ],
-        [
-          8.6437274,
-          47.0106125
-        ],
-        [
-          8.6437243,
-          47.0106287
-        ],
-        [
-          8.6437111,
-          47.0106448
-        ],
-        [
-          8.6436922,
-          47.0106565
-        ],
-        [
-          8.643669,
-          47.0106633
-        ],
-        [
-          8.6436694,
-          47.0106788
-        ],
-        [
-          8.6434,
-          47.0106945
-        ],
-        [
-          8.6433995,
-          47.0106903
-        ],
-        [
-          8.6433518,
-          47.0106933
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/650674013",
   "properties": {
     "amenity": "hospital",
@@ -52780,17 +52686,22 @@
     "addr:postcode": "6438",
     "addr:street": "Gotthardstrasse",
     "amenity": "hospital",
+    "email": "tellklinik@hin.ch",
+    "fax": "+41 41 818 68 69",
     "healthcare": "hospital",
     "healthcare:speciality": "orthopädische_chirurgie;orthopaedics;trauma;paediatric_surgery;kinder-orthopädie;schmerztherapie;rückentherapie",
     "name": "TellKlinik",
     "operator": "Tell-Klinik AG",
+    "operator:type": "private",
+    "phone": "+41 41 818 68 68",
+    "website": "https://www.tellklinik.ch",
     "id": "node/10767977785"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6436916,
-      47.0106247
+      8.6435199,
+      47.0106466
     ]
   }
 },

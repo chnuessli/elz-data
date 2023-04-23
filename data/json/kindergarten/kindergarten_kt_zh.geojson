@@ -12198,88 +12198,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/122456077",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "133",
-    "addr:postcode": "8051",
-    "addr:street": "Luegislandstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "isced:level": "0",
-    "name": "Kindergarten Luegislandstrasse 1+2",
-    "id": "way/122456077"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5689256,
-          47.4086934
-        ],
-        [
-          8.5689917,
-          47.4087588
-        ],
-        [
-          8.568863,
-          47.4088184
-        ],
-        [
-          8.5688834,
-          47.4088385
-        ],
-        [
-          8.5689351,
-          47.4088146
-        ],
-        [
-          8.5689504,
-          47.4088298
-        ],
-        [
-          8.5689741,
-          47.4088189
-        ],
-        [
-          8.5690403,
-          47.4088828
-        ],
-        [
-          8.5689083,
-          47.4089441
-        ],
-        [
-          8.5688471,
-          47.4088838
-        ],
-        [
-          8.5688361,
-          47.4088885
-        ],
-        [
-          8.5687383,
-          47.4087918
-        ],
-        [
-          8.5688012,
-          47.4087624
-        ],
-        [
-          8.5687933,
-          47.4087546
-        ],
-        [
-          8.5689256,
-          47.4086934
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/122892521",
   "properties": {
     "addr:city": "Dänikon",
@@ -27730,6 +27648,7 @@
     "contact:postcode": "8051",
     "contact:street": "Luegislandstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/auhof/ueberuns/standorte/kindergaerten.html#kindergarten_luegislandstrasseiii",
+    "isced:level": "0",
     "name": "Kindergarten Luegislandstrasse",
     "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Auhof",
     "operator:type": "public",
@@ -36715,12 +36634,14 @@
   "id": "node/5295851955",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2023-04-22",
     "contact:city": "Zürich",
     "contact:housenumber": "8",
     "contact:phone": "+41 44 413 75 94",
     "contact:postcode": "8001",
     "contact:street": "Neumarkt",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/hirschengraben/ueberuns/standorte/kindergaerten.html#neumarkt",
+    "fixme": "not found during survey",
     "name": "Kindergarten Neumarkt",
     "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Hirschengraben-Schanzengraben",
     "operator:type": "public",
