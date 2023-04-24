@@ -16955,9 +16955,11 @@
   "properties": {
     "highway": "motorway",
     "int_ref": "E 41",
+    "lanes": "2",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A4",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/28562156"
   },
@@ -17061,6 +17063,7 @@
   "properties": {
     "highway": "motorway",
     "int_ref": "E 41",
+    "lanes": "2",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A4",
@@ -20039,6 +20042,7 @@
   "properties": {
     "highway": "motorway",
     "int_ref": "E 41",
+    "lanes": "2",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A4",
