@@ -12615,6 +12615,7 @@
     "addr:postcode": "1245",
     "addr:street": "Chemin de la Savonnière",
     "amenity": "hospital",
+    "check_date": "2023-04-24",
     "healthcare": "rehabilitation",
     "name": "Hôpital de Bellerive (HUG)",
     "operator": "HUG Hopitaux Universitaires Genève",
@@ -46554,6 +46555,61 @@
         [
           8.2976033,
           47.0586966
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1165234785",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "paediatrics;child_psychiatry",
+    "name": "Centre médico-psychologique: enfants et adolescents",
+    "id": "way/1165234785"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.0755314,
+          47.4133225
+        ],
+        [
+          7.0755659,
+          47.4129741
+        ],
+        [
+          7.0760047,
+          47.4129896
+        ],
+        [
+          7.0760153,
+          47.4132848
+        ],
+        [
+          7.075941,
+          47.4133231
+        ],
+        [
+          7.0758402,
+          47.413323
+        ],
+        [
+          7.075795,
+          47.4133229
+        ],
+        [
+          7.075772,
+          47.4133229
+        ],
+        [
+          7.0755314,
+          47.4133225
         ]
       ]
     ]

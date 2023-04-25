@@ -19102,7 +19102,8 @@
   "type": "Feature",
   "id": "way/671786976",
   "properties": {
-    "amenity": "nursing_home",
+    "amenity": "social_facility",
+    "capacity": "151",
     "name": "Gesundheitszentrum für das Alter Witikon",
     "old_name": "Krankenheim Witikon",
     "operator": "Stadt Zürich, GUD",
