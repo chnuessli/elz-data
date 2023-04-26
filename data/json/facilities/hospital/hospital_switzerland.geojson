@@ -28087,12 +28087,8 @@
     "coordinates": [
       [
         [
-          9.5391825,
-          46.8648236
-        ],
-        [
-          9.5389588,
-          46.8645782
+          9.5388891,
+          46.8645846
         ],
         [
           9.538587,
@@ -28251,32 +28247,24 @@
           46.8648676
         ],
         [
-          9.540073,
-          46.8647448
+          9.540181,
+          46.8648576
         ],
         [
-          9.5397699,
-          46.8648896
+          9.5393381,
+          46.8652151
         ],
         [
-          9.5396009,
-          46.8649226
+          9.5392603,
+          46.8650987
         ],
         [
-          9.5394587,
-          46.8649281
+          9.5392401,
+          46.8651023
         ],
         [
-          9.5393434,
-          46.8649061
-        ],
-        [
-          9.5392469,
-          46.8648731
-        ],
-        [
-          9.5391825,
-          46.8648236
+          9.5388891,
+          46.8645846
         ]
       ]
     ]
@@ -48258,7 +48246,7 @@
     "email": "Service.Addictologie@hcuge.ch",
     "fax": "+41 22 305 55 99",
     "name": "CAAP Arve - Service addictologie - Hôpitaux Universitaires de Genève",
-    "opening_hours": "07:00-19:00",
+    "opening_hours": "Mo-Fr 08:30-12:00,13:00-17:30",
     "phone": "+41 22 305 55 11",
     "website": "https://addictohug.ch/caap-arve/",
     "wheelchair": "yes",
@@ -51042,10 +51030,10 @@
     "email": "tagesklinik@forel-klinik.ch",
     "healthcare": "clinic",
     "name": "Forel-Klinik - Tagesklinik und Ambulatorium",
-    "opening_hours": "Mo-Fr 08:00–12:00, 12:45–17:00",
+    "opening_hours": "Mo-Fr 08:00-12:00,12:45-17:00",
     "operator": "Forel Klinik AG",
     "phone": "+41 44 277 56 00",
-    "website": "www.forel-klinik.ch/tagesklinik",
+    "website": "https://www.forel-klinik.ch/tagesklinik",
     "id": "node/8404199410"
   },
   "geometry": {

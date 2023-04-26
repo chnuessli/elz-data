@@ -43794,7 +43794,8 @@
     "addr:street": "Bachwiesenstrasse",
     "amenity": "school",
     "building": "school",
-    "building:roof": "flat",
+    "name": "Turnhalle",
+    "roof:shape": "flat",
     "id": "way/131661984"
   },
   "geometry": {
@@ -45888,10 +45889,12 @@
     "addr:street": "Norastrasse",
     "amenity": "school",
     "building": "school",
+    "building:levels": "4",
     "description": "Sekundarschule",
     "isced:level": "1,2",
     "name": "Schule Albisriederplatz",
     "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
+    "roof:levels": "0",
     "start_date": "2009",
     "website": "https://www.stadt-zuerich.ch/schulen/de/albisriederplatz.html",
     "id": "way/144161904"
@@ -77298,6 +77301,97 @@
 },
 {
   "type": "Feature",
+  "id": "way/255012813",
+  "properties": {
+    "amenity": "school",
+    "id": "way/255012813"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8757322,
+          47.327046
+        ],
+        [
+          8.8759439,
+          47.3268988
+        ],
+        [
+          8.8759632,
+          47.3268891
+        ],
+        [
+          8.8761012,
+          47.3269824
+        ],
+        [
+          8.8760798,
+          47.326997
+        ],
+        [
+          8.8761863,
+          47.327069
+        ],
+        [
+          8.8762046,
+          47.3270565
+        ],
+        [
+          8.876291,
+          47.327115
+        ],
+        [
+          8.8763674,
+          47.3271656
+        ],
+        [
+          8.8763812,
+          47.327176
+        ],
+        [
+          8.8763163,
+          47.3272201
+        ],
+        [
+          8.8762315,
+          47.3271627
+        ],
+        [
+          8.8761191,
+          47.327239
+        ],
+        [
+          8.8760684,
+          47.3272734
+        ],
+        [
+          8.8760419,
+          47.3272556
+        ],
+        [
+          8.8761615,
+          47.32717
+        ],
+        [
+          8.875925,
+          47.3270106
+        ],
+        [
+          8.8758064,
+          47.3270962
+        ],
+        [
+          8.8757322,
+          47.327046
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/255020187",
   "properties": {
     "addr:city": "Wetzikon",
@@ -94660,7 +94754,7 @@
     "description": "Primarschule",
     "name": "Schule Bühl",
     "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Bühl",
-    "operator:type": "public,",
+    "operator:type": "public",
     "id": "way/378567919"
   },
   "geometry": {

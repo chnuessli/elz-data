@@ -4945,6 +4945,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/5526233919",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "55",
+    "addr:postcode": "8047",
+    "addr:street": "Freilagerstrasse",
+    "amenity": "childcare",
+    "name": "Hort Untermoos 7",
+    "id": "node/5526233919"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4892159,
+      47.3795587
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/5556899413",
   "properties": {
     "amenity": "childcare",

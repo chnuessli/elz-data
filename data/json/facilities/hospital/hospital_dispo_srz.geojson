@@ -11146,10 +11146,10 @@
     "email": "tagesklinik@forel-klinik.ch",
     "healthcare": "clinic",
     "name": "Forel-Klinik - Tagesklinik und Ambulatorium",
-    "opening_hours": "Mo-Fr 08:00–12:00, 12:45–17:00",
+    "opening_hours": "Mo-Fr 08:00-12:00,12:45-17:00",
     "operator": "Forel Klinik AG",
     "phone": "+41 44 277 56 00",
-    "website": "www.forel-klinik.ch/tagesklinik",
+    "website": "https://www.forel-klinik.ch/tagesklinik",
     "id": "node/8404199410"
   },
   "geometry": {

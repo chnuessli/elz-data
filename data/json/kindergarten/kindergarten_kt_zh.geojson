@@ -29179,7 +29179,7 @@
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/amuetliberg/ueberuns/standorte/kindergaerten.html",
     "name": "Kindergarten Friesenberghalde",
     "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit am Uetliberg",
-    "operator:type": "public,",
+    "operator:type": "public",
     "id": "way/705953261"
   },
   "geometry": {

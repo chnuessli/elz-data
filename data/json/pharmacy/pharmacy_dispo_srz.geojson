@@ -979,7 +979,7 @@
     "drive_through": "no",
     "healthcare": "pharmacy",
     "name": "Apotheke Utogrund",
-    "opening_hours": "Mo-We, Fr 07:30-12:30, 14:00-18:30; Th 07:30-13:00; Sa 08:00-12:00",
+    "opening_hours": "Mo-We,Fr 07:30-12:30,14:00-18:30; Th 07:30-13:00; Sa 08:00-12:00",
     "website": "https://www.apotheke-utogrund.ch/",
     "id": "node/313053471"
   },
@@ -1061,6 +1061,7 @@
     "addr:street": "Kirchgasse",
     "amenity": "pharmacy",
     "dispensing": "yes",
+    "healthcare": "pharmacy",
     "name": "Apotheke am Hechtplatz",
     "opening_hours": "Mo-Fr 08:00-12:30,13:30-18:30; Sa 08:00-16:00",
     "phone": "+41 44 995 61 01",

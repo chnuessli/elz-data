@@ -11944,7 +11944,7 @@
     "operator": "Stiftung Zürcher Kinder- und Jugendheime",
     "phone": "+41 44 422 10 00",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
-    "website": "www.altenhof.ch",
+    "website": "https://www.altenhof.ch",
     "id": "way/97808679"
   },
   "geometry": {
@@ -16971,7 +16971,7 @@
     "operator": "Zürcher Hoch- schule der Künste",
     "phone": "+41 43 446 50 33",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
-    "website": "www.zhdk.ch",
+    "website": "https://www.zhdk.ch",
     "id": "way/125550538"
   },
   "geometry": {
@@ -40525,20 +40525,45 @@
 },
 {
   "type": "Feature",
-  "id": "node/5277869461",
+  "id": "node/5277869460",
   "properties": {
     "amenity": "social_facility",
-    "name": "streetchurch",
-    "opening_hours": "Mo-Fr 08:30-12:00, Mo,Tu,Th,Fr 13:00-17:00; PH off",
+    "level": "0",
+    "name": "Streetchurch",
     "social_facility": "outreach",
+    "wheelchair": "no",
+    "id": "node/5277869460"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5268819,
+      47.3737318
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5277869461",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "69",
+    "addr:postcode": "8004",
+    "addr:street": "Badenerstrasse",
+    "amenity": "social_facility",
+    "name": "Streetchurch",
+    "opening_hours": "Mo-Fr 08:30-12:00,13:30-17:00; PH off",
+    "social_facility": "outreach",
+    "website": "https://streetchurch.ch/",
     "wheelchair": "limited",
     "id": "node/5277869461"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5268885,
-      47.3734897
+      8.5269049,
+      47.3734959
     ]
   }
 },
@@ -43058,7 +43083,7 @@
     "name": "Contetto, Sozialpädagogische Familien Zürich",
     "operator": "Stiftung Contetto",
     "phone": "+41 52 203 25 86",
-    "website": "www.contetto.ch",
+    "website": "https://www.contetto.ch",
     "id": "node/8610022251"
   },
   "geometry": {
@@ -43153,7 +43178,7 @@
     "name": "Familientraining Heizenholz",
     "operator": "Stiftung Zürcher Kinder- und Jugendheime",
     "phone": "+41 44 365 24 00",
-    "website": "www.mutterkindwoh- nen.ch",
+    "website": "http://www.mutterkindwohnen.ch",
     "id": "node/8610803531"
   },
   "geometry": {
@@ -43177,7 +43202,7 @@
     "name": "Heizenholz Wohn- und Tageszentrum",
     "operator": "Stiftung Zürcher Kinder- und Jugendheime",
     "phone": "+41 44 344 36 36",
-    "website": "www.heizenholz.ch",
+    "website": "https://www.heizenholz.ch",
     "id": "node/8610858890"
   },
   "geometry": {
@@ -44721,7 +44746,7 @@
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "start_date": "08.10.2012",
-    "website": "www.alterszentrumambach.ch",
+    "website": "https://www.alterszentrumambach.ch",
     "wheelchair": "yes",
     "id": "node/10175606579"
   },
@@ -45161,6 +45186,52 @@
     "coordinates": [
       8.4572924,
       47.4816604
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10839356050",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "87",
+    "addr:postcode": "8004",
+    "addr:street": "Badenerstrasse",
+    "amenity": "social_facility",
+    "name": "Trimons Werk-Stadt",
+    "social_facility": "outreach",
+    "website": "https://www.trimons.ch/werk-stadt/",
+    "id": "node/10839356050"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5258984,
+      47.3738536
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10839657685",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "19",
+    "addr:postcode": "8004",
+    "addr:street": "Kanzleistrasse",
+    "amenity": "social_facility",
+    "name": "Haus zur Stauffacherin",
+    "social_facility": "assisted_living",
+    "social_facility:for": "woman",
+    "website": "https://www.stauffacherin-zuerich.ch/",
+    "id": "node/10839657685"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.527095,
+      47.3740624
     ]
   }
 }
