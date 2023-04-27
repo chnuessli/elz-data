@@ -43928,10 +43928,11 @@
     "addr:postcode": "4142",
     "addr:street": "Reinacherstrasse",
     "amenity": "clinic",
+    "contact:phone": "+41 61 3352222",
+    "contact:website": "https://www.hirslanden.ch/de/klinik-birshof/home.html",
     "healthcare": "clinic",
     "name": "Hirslanden Klinik Birshof",
     "operator": "Hirslanden Gruppe",
-    "phone": "+41 61 335 22 22",
     "id": "way/775997956"
   },
   "geometry": {
@@ -43959,16 +43960,28 @@
           47.5281277
         ],
         [
-          7.6046351,
-          47.5279018
+          7.6047254,
+          47.528009
         ],
         [
-          7.6044763,
-          47.5279388
+          7.6046543,
+          47.5278679
         ],
         [
-          7.6042904,
-          47.527982
+          7.6044822,
+          47.5279082
+        ],
+        [
+          7.6043624,
+          47.5279353
+        ],
+        [
+          7.6043807,
+          47.5279715
+        ],
+        [
+          7.6042896,
+          47.5279908
         ],
         [
           7.6042545,

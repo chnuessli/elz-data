@@ -60714,7 +60714,7 @@
   "id": "node/9026201248",
   "properties": {
     "barrier": "gate",
-    "opening_hours": "Daily 06:00 - 21:30",
+    "opening_hours": "Mo-Su 06:00-21:30",
     "id": "node/9026201248"
   },
   "geometry": {
@@ -60730,7 +60730,7 @@
   "id": "node/9026201255",
   "properties": {
     "barrier": "gate",
-    "opening_hours": "Daily 06:00 - 21:30",
+    "opening_hours": "06:00-21:30",
     "id": "node/9026201255"
   },
   "geometry": {
@@ -70900,6 +70900,22 @@
     "coordinates": [
       8.5281201,
       47.3737817
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10844468954",
+  "properties": {
+    "barrier": "lift_gate",
+    "lift_gate:type": "single",
+    "id": "node/10844468954"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5764376,
+      47.4553661
     ]
   }
 }

@@ -15973,6 +15973,7 @@
     "addr:housenumber": "16",
     "addr:postcode": "8008",
     "addr:street": "Neumünsterallee",
+    "alt_name": "Haus Neumünsterallee",
     "amenity": "social_facility",
     "building": "yes",
     "email": "info.riesbach@zkj.ch",
@@ -54622,6 +54623,33 @@
     "coordinates": [
       8.527095,
       47.3740624
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10841360891",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "2",
+    "addr:postcode": "8008",
+    "addr:street": "Neumünsterstrasse",
+    "alt_name": "Krisenintervention für Kinder und Jugendliche",
+    "amenity": "social_facility",
+    "email": "nms.riesbach@zkj.ch",
+    "name": "Krisenintervention Haus Neumünster",
+    "operator": "Riesbach - Krisenintervention für Kinder und Jugendliche",
+    "phone": "+41 44 383 64 14",
+    "social_facility": "assisted_living",
+    "social_facility:for": "Jugendliche",
+    "website": "https://www.riesbach.com/",
+    "id": "node/10841360891"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5574306,
+      47.3604832
     ]
   }
 }

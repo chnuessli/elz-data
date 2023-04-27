@@ -44180,62 +44180,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/133928785",
-  "properties": {
-    "addr:housenumber": "49",
-    "addr:postcode": "8232",
-    "addr:street": "Hauptstrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Merishausen",
-    "id": "way/133928785"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6092041,
-          47.7605
-        ],
-        [
-          8.6092126,
-          47.7604671
-        ],
-        [
-          8.6091179,
-          47.7604559
-        ],
-        [
-          8.6091475,
-          47.7603427
-        ],
-        [
-          8.6092423,
-          47.7603539
-        ],
-        [
-          8.609246,
-          47.7603397
-        ],
-        [
-          8.6093956,
-          47.7603573
-        ],
-        [
-          8.6093537,
-          47.7605176
-        ],
-        [
-          8.6092041,
-          47.7605
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/134365725",
   "properties": {
     "addr:city": "Uitikon Waldegg",
@@ -51602,7 +51546,7 @@
     "building": "school",
     "email": "psdoerflingen@schulensh.ch",
     "grades": "7-12",
-    "name": "Alte Schulhaus",
+    "name": "Altes Schulhaus",
     "phone": "052 657 28 15",
     "source": "local knowledge",
     "website": "https://www.schuledoerflingen.ch/",
@@ -77562,55 +77506,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/255794325",
-  "properties": {
-    "addr:city": "Siblingen",
-    "addr:housenumber": "62",
-    "addr:postcode": "8225",
-    "addr:street": "Hauptstrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Siblingen",
-    "id": "way/255794325"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5188756,
-          47.714757
-        ],
-        [
-          8.5188616,
-          47.7147254
-        ],
-        [
-          8.5189028,
-          47.7147181
-        ],
-        [
-          8.5188631,
-          47.7146185
-        ],
-        [
-          8.5191189,
-          47.7145712
-        ],
-        [
-          8.5191708,
-          47.7147024
-        ],
-        [
-          8.5188756,
-          47.714757
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/255898537",
   "properties": {
     "addr:city": "Zug",
@@ -81000,47 +80895,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/274295214",
-  "properties": {
-    "addr:city": "Osterfingen",
-    "addr:housenumber": "57",
-    "addr:postcode": "8218",
-    "addr:street": "Dorfstrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Osterfingen",
-    "id": "way/274295214"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4887219,
-          47.6632591
-        ],
-        [
-          8.4887433,
-          47.6631493
-        ],
-        [
-          8.4889844,
-          47.6631704
-        ],
-        [
-          8.4889643,
-          47.6632802
-        ],
-        [
-          8.4887219,
-          47.6632591
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/274535405",
   "properties": {
     "addr:city": "Wilchingen",
@@ -81049,9 +80903,11 @@
     "addr:street": "Schulgasse",
     "amenity": "school",
     "building": "yes",
+    "email": "slwt@schulensh.ch",
     "leisure": "pitch",
     "name": "Schulhaus und Sporthalle Wilchingen",
     "sport": "multi",
+    "website": "https://wilchingen.ch/schule",
     "id": "way/274535405"
   },
   "geometry": {
@@ -81101,64 +80957,6 @@
         [
           8.4691574,
           47.668596
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/274535407",
-  "properties": {
-    "addr:city": "Wilchingen",
-    "addr:housenumber": "5",
-    "addr:postcode": "8217",
-    "addr:street": "Schulgasse",
-    "amenity": "school",
-    "building": "yes",
-    "name": "Schulhaus",
-    "start_date": "1845",
-    "id": "way/274535407"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4692722,
-          47.6681147
-        ],
-        [
-          8.4692458,
-          47.667946
-        ],
-        [
-          8.4695884,
-          47.6679217
-        ],
-        [
-          8.4696145,
-          47.668089
-        ],
-        [
-          8.469496,
-          47.6680974
-        ],
-        [
-          8.4695038,
-          47.6681469
-        ],
-        [
-          8.469418,
-          47.668153
-        ],
-        [
-          8.4694104,
-          47.6681049
-        ],
-        [
-          8.4692722,
-          47.6681147
         ]
       ]
     ]
@@ -81378,65 +81176,6 @@
         [
           8.4580858,
           47.6989844
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/274871388",
-  "properties": {
-    "addr:city": "Gächlingen",
-    "addr:housenumber": "9",
-    "addr:postcode": "8214",
-    "addr:street": "Schulstrasse",
-    "amenity": "school",
-    "building": "school",
-    "email": "schulbehoerde@schule-gaechlingen.ch",
-    "name": "Schulhaus Gächlingen",
-    "phone": "+41 52 681 13 77",
-    "id": "way/274871388"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4962053,
-          47.7029837
-        ],
-        [
-          8.4963147,
-          47.7028735
-        ],
-        [
-          8.4965293,
-          47.7029742
-        ],
-        [
-          8.4964196,
-          47.7030831
-        ],
-        [
-          8.4963674,
-          47.7030587
-        ],
-        [
-          8.4963261,
-          47.7030979
-        ],
-        [
-          8.496272,
-          47.7030723
-        ],
-        [
-          8.4963111,
-          47.7030328
-        ],
-        [
-          8.4962053,
-          47.7029837
         ]
       ]
     ]
@@ -83384,68 +83123,6 @@
         [
           8.8270047,
           47.5635393
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/282454782",
-  "properties": {
-    "addr:city": "Trasadingen",
-    "addr:housenumber": "1",
-    "addr:postcode": "8219",
-    "addr:street": "Gässli",
-    "amenity": "school",
-    "building": "school",
-    "name": "Primarschule Trasadingen",
-    "note": "alte Hausnummer: 65 (bis 2013)",
-    "id": "way/282454782"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4294205,
-          47.6681514
-        ],
-        [
-          8.4293668,
-          47.6680124
-        ],
-        [
-          8.4294418,
-          47.6679999
-        ],
-        [
-          8.4294368,
-          47.6679875
-        ],
-        [
-          8.4296108,
-          47.6679578
-        ],
-        [
-          8.4296376,
-          47.6680266
-        ],
-        [
-          8.4296689,
-          47.6681121
-        ],
-        [
-          8.429496,
-          47.6681428
-        ],
-        [
-          8.4294948,
-          47.6681386
-        ],
-        [
-          8.4294205,
-          47.6681514
         ]
       ]
     ]
@@ -88367,8 +88044,8 @@
     "coordinates": [
       [
         [
-          8.6672555,
-          46.979963
+          8.6672702,
+          46.979968
         ],
         [
           8.6671862,
@@ -88383,8 +88060,8 @@
           46.9799269
         ],
         [
-          8.6672555,
-          46.979963
+          8.6672702,
+          46.979968
         ]
       ]
     ]
@@ -121825,46 +121502,6 @@
         [
           8.5615365,
           47.5716702
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/1098794439",
-  "properties": {
-    "addr:housenumber": "49",
-    "addr:postcode": "8232",
-    "addr:street": "Hauptstrasse",
-    "amenity": "school",
-    "building": "kindergarten",
-    "name": "Kindergarten Merishausen",
-    "id": "way/1098794439"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6089202,
-          47.7603948
-        ],
-        [
-          8.6089484,
-          47.760287
-        ],
-        [
-          8.6091117,
-          47.7603057
-        ],
-        [
-          8.6090831,
-          47.7604149
-        ],
-        [
-          8.6089202,
-          47.7603948
         ]
       ]
     ]

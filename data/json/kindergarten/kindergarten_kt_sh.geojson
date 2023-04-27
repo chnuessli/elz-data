@@ -2210,79 +2210,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/255806213",
-  "properties": {
-    "addr:city": "Siblingen",
-    "addr:housenumber": "2",
-    "addr:postcode": "8225",
-    "addr:street": "Schulstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Siblingen",
-    "id": "way/255806213"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5189371,
-          47.7150955
-        ],
-        [
-          8.518885,
-          47.7149648
-        ],
-        [
-          8.5189521,
-          47.7149532
-        ],
-        [
-          8.5189592,
-          47.7149715
-        ],
-        [
-          8.5190536,
-          47.7149552
-        ],
-        [
-          8.5190848,
-          47.7150338
-        ],
-        [
-          8.5190534,
-          47.715039
-        ],
-        [
-          8.5190608,
-          47.715059
-        ],
-        [
-          8.519061,
-          47.7150678
-        ],
-        [
-          8.5190573,
-          47.7150722
-        ],
-        [
-          8.5190519,
-          47.7150742
-        ],
-        [
-          8.5189728,
-          47.7150885
-        ],
-        [
-          8.5189371,
-          47.7150955
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/256046316",
   "properties": {
     "addr:city": "Neunkirch",
@@ -2494,79 +2421,6 @@
         [
           8.4896201,
           47.6634424
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/274550386",
-  "properties": {
-    "addr:city": "Wilchingen",
-    "addr:housenumber": "22",
-    "addr:postcode": "8217",
-    "addr:street": "Hofackerstrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Wilchingen",
-    "id": "way/274550386"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4663331,
-          47.6691864
-        ],
-        [
-          8.4663073,
-          47.6690995
-        ],
-        [
-          8.4665155,
-          47.6690719
-        ],
-        [
-          8.4665413,
-          47.6691591
-        ],
-        [
-          8.4665307,
-          47.6691604
-        ],
-        [
-          8.4665374,
-          47.6691856
-        ],
-        [
-          8.4666339,
-          47.6691736
-        ],
-        [
-          8.4666546,
-          47.6692433
-        ],
-        [
-          8.4663623,
-          47.6692826
-        ],
-        [
-          8.4663422,
-          47.669212
-        ],
-        [
-          8.4664118,
-          47.6692034
-        ],
-        [
-          8.4664043,
-          47.6691771
-        ],
-        [
-          8.4663331,
-          47.6691864
         ]
       ]
     ]
@@ -2842,63 +2696,6 @@
         [
           8.5374873,
           47.767311
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/282454780",
-  "properties": {
-    "addr:city": "Trasadingen",
-    "addr:housenumber": "3",
-    "addr:postcode": "8219",
-    "addr:street": "Gässli",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Trasadingen",
-    "id": "way/282454780"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4291255,
-          47.6681361
-        ],
-        [
-          8.4290017,
-          47.6681669
-        ],
-        [
-          8.4289457,
-          47.6680687
-        ],
-        [
-          8.4289204,
-          47.6680743
-        ],
-        [
-          8.4288706,
-          47.6679864
-        ],
-        [
-          8.4289709,
-          47.6679612
-        ],
-        [
-          8.4290385,
-          47.6680814
-        ],
-        [
-          8.4290903,
-          47.6680674
-        ],
-        [
-          8.4291255,
-          47.6681361
         ]
       ]
     ]
@@ -3344,9 +3141,10 @@
     "addr:postcode": "8214",
     "addr:street": "Gemeindehausplatz",
     "amenity": "kindergarten",
-    "email": "schulbehoerde@schule-gaechlingen.ch",
+    "email": "psgaechlingen@schulensh.ch",
     "name": "Kindergarten Gächlingen",
     "phone": "+41 52 533 94 82",
+    "website": "https://gaechlingen.ch/schule",
     "id": "node/9952658919"
   },
   "geometry": {
