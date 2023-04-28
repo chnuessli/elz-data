@@ -33338,6 +33338,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/4136989601",
+  "properties": {
+    "barrier": "lift_gate",
+    "lift_gate:type": "single",
+    "id": "node/4136989601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5331159,
+      47.5278753
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4146407320",
   "properties": {
     "access": "private",
@@ -70916,6 +70932,100 @@
     "coordinates": [
       8.5764376,
       47.4553661
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10845520943",
+  "properties": {
+    "barrier": "lift_gate",
+    "lift_gate:type": "single",
+    "id": "node/10845520943"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5328088,
+      47.5282273
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10845520956",
+  "properties": {
+    "barrier": "lift_gate",
+    "lift_gate:type": "single",
+    "id": "node/10845520956"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5324152,
+      47.5283067
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10845520959",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/10845520959"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5338707,
+      47.5292271
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10845520963",
+  "properties": {
+    "barrier": "gate",
+    "gate:type": "rolling",
+    "id": "node/10845520963"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5321537,
+      47.528244
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10845520973",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "id": "node/10845520973"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.531726,
+      47.5285847
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10845925976",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/10845925976"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5523193,
+      47.4262651
     ]
   }
 }

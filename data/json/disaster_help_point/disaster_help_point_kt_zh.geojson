@@ -199,34 +199,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9417226665",
-  "properties": {
-    "activation": "blackout;phone_breakdown;evacuation",
-    "contact:city": "Zürich",
-    "contact:country": "CH",
-    "contact:housenumber": "71",
-    "contact:postcode": "8052",
-    "contact:street": "Sperletweg",
-    "disaster_help_point:alert": "yes",
-    "disaster_help_point:healthcare": "yes",
-    "disaster_help_point:information": "yes",
-    "emergency": "disaster_help_point",
-    "name": "Turnhalle Schulhaus Kolbenacker",
-    "operator": "RFO/GFO Kanton Zürich",
-    "source": "https://www.zh.ch/de/sicherheit-justiz/bevoelkerungsschutz/notfalltreffpunkte.html",
-    "temporary": "yes",
-    "id": "node/9417226665"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5514455,
-      47.4262559
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9417226666",
   "properties": {
     "activation": "blackout;phone_breakdown;evacuation",
