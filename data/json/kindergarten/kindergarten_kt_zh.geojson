@@ -34062,6 +34062,7 @@
     "addr:postcode": "8134",
     "addr:street": "Schönauweg",
     "amenity": "kindergarten",
+    "check_date": "2023-04-28",
     "name": "Kinderhaus Werd",
     "id": "node/1986100849"
   },
@@ -36756,6 +36757,7 @@
     "addr:postcode": "8907",
     "addr:street": "Stationsstrasse",
     "amenity": "kindergarten",
+    "check_date": "2023-04-28",
     "name": "Kinderzentrum Wettswil",
     "id": "node/5328590180"
   },

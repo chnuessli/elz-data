@@ -426,15 +426,16 @@
   "id": "way/46138483",
   "properties": {
     "addr:city": "Embrach",
-    "addr:housenumber": "3",
+    "addr:housenumber": "3a",
     "addr:postcode": "8424",
-    "addr:street": "Lochackerstrasse",
+    "addr:street": "Embraport",
+    "alt_name": "Kapo",
     "amenity": "police",
     "building": "yes",
     "name": "Polizeiposten Embrach",
     "operator": "Kantonspolizei Zürich",
-    "operator:wikidata": "Q1728099",
     "phone": "+41 44 866 40 60",
+    "website": "https://www.zh.ch/de/sicherheitsdirektion/kantonspolizei-zuerich.html",
     "id": "way/46138483"
   },
   "geometry": {
@@ -442,52 +443,24 @@
     "coordinates": [
       [
         [
-          8.593152,
-          47.5179895
+          8.5932713,
+          47.5167903
         ],
         [
-          8.5931154,
-          47.5176109
+          8.5932217,
+          47.5162954
         ],
         [
-          8.5930404,
-          47.5168655
+          8.5935221,
+          47.5162831
         ],
         [
-          8.5930993,
-          47.5167801
+          8.5935697,
+          47.5167773
         ],
         [
-          8.5936028,
-          47.5168834
-        ],
-        [
-          8.5936142,
-          47.5170009
-        ],
-        [
-          8.5936889,
-          47.5175095
-        ],
-        [
-          8.5937074,
-          47.5176231
-        ],
-        [
-          8.5936888,
-          47.5177709
-        ],
-        [
-          8.5937098,
-          47.5179378
-        ],
-        [
-          8.5934309,
-          47.5179636
-        ],
-        [
-          8.593152,
-          47.5179895
+          8.5932713,
+          47.5167903
         ]
       ]
     ]
