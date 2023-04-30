@@ -41145,6 +41145,7 @@
     "addr:postcode": "8004",
     "addr:street": "Feldstrasse",
     "amenity": "social_facility",
+    "check_date": "2023-04-29",
     "name": "Spitex Zürich SAW",
     "operator": "Stiftung Alterswohnungen der Stadt Zürich (SAW)",
     "social_facility": "ambulatory_care",

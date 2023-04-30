@@ -2899,7 +2899,7 @@
     "addr:postcode": "8003",
     "addr:street": "Albisriederplatz",
     "amenity": "pharmacy",
-    "check_date:opening_hours": "2021-06-14",
+    "check_date:opening_hours": "2023-04-26",
     "name": "Nature First Apotheke",
     "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00",
     "website": "https://www.naturefirst.ch/",
@@ -3836,7 +3836,7 @@
     "brand:wikidata": "Q1260273",
     "healthcare": "pharmacy",
     "name": "Dropa Limmatplatz",
-    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-18:00",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00",
     "operator": "Dr. Bähler Dropa",
     "shop": "chemist",
     "website": "https://dropa.ch/standorte/dropa-drogerie-apotheke-limmatplatz",
@@ -6242,7 +6242,9 @@
     "healthcare": "pharmacy",
     "level": "1",
     "name": "Hirsig",
-    "opening_hours": "Mo-Fr 08:00, Sa 08:00-18:00",
+    "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-18:00",
+    "phone": "+41 44 720 06 18",
+    "website": "https://www.drogeriehirsig.ch/",
     "id": "node/6721663777"
   },
   "geometry": {
