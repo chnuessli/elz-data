@@ -18322,6 +18322,7 @@
     "building:levels": "3",
     "name": "Haus Margrit",
     "operator": "Stiftung Altersheim St. Urban",
+    "roof:shape": "flat",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "id": "way/605082321"
