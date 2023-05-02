@@ -621,64 +621,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/172711410",
-  "properties": {
-    "addr:city": "Neuhausen am Rheinfall",
-    "addr:housenumber": "46",
-    "addr:postcode": "8212",
-    "addr:street": "Charlottenweg",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "description": "Ehemaliger Kindergarten Charlottenfels (bis 2020).",
-    "name": "Kindergarten Charlottenfels",
-    "id": "way/172711410"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6185558,
-          47.6897491
-        ],
-        [
-          8.6184294,
-          47.6897568
-        ],
-        [
-          8.6184231,
-          47.6897096
-        ],
-        [
-          8.6183426,
-          47.6897145
-        ],
-        [
-          8.6183266,
-          47.6895948
-        ],
-        [
-          8.6184021,
-          47.6895902
-        ],
-        [
-          8.6183964,
-          47.6895478
-        ],
-        [
-          8.6185277,
-          47.6895398
-        ],
-        [
-          8.6185558,
-          47.6897491
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/174010924",
   "properties": {
     "addr:city": "Neuhausen am Rheinfall",

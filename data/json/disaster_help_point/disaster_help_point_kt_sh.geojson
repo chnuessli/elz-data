@@ -236,6 +236,7 @@
     "contact:street": "Schuelgässli",
     "description": "Notfalltreffpunkt in Schleitheim",
     "emergency": "disaster_help_point",
+    "highway": "emergency_access_point",
     "location": "Randenhalle",
     "name": "Randenhalle",
     "operator": "Kanton Schaffhausen",
@@ -244,8 +245,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4848633,
-      47.7478336
+      8.4845858,
+      47.7477934
     ]
   }
 },

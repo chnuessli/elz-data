@@ -37765,6 +37765,7 @@
   "id": "node/6631526623",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2023-05-01",
     "name": "Mittag-/AbendhortAltstetter 4",
     "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
     "id": "node/6631526623"
