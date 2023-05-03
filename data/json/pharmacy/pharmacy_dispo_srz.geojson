@@ -7976,6 +7976,7 @@
     "healthcare": "pharmacy",
     "level": "-1",
     "name": "Bahnhof",
+    "opening_hours": "Mo-Su 07:00-22:00",
     "id": "node/9655661530"
   },
   "geometry": {

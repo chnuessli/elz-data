@@ -4188,6 +4188,68 @@
 },
 {
   "type": "Feature",
+  "id": "way/381444923",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "5",
+    "addr:postcode": "8400",
+    "addr:street": "Bahnhofplatz",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "indoor": "yes",
+    "level": "2",
+    "id": "way/381444923"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.723316,
+          47.4996977
+        ],
+        [
+          8.7232823,
+          47.4996563
+        ],
+        [
+          8.723312,
+          47.4996443
+        ],
+        [
+          8.7235316,
+          47.4995614
+        ],
+        [
+          8.7235393,
+          47.4995719
+        ],
+        [
+          8.7235868,
+          47.4996318
+        ],
+        [
+          8.7235233,
+          47.4996554
+        ],
+        [
+          8.7234152,
+          47.4996956
+        ],
+        [
+          8.7233387,
+          47.499724
+        ],
+        [
+          8.723316,
+          47.4996977
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/381445138",
   "properties": {
     "addr:city": "Winterthur",
@@ -4195,6 +4257,7 @@
     "addr:postcode": "8400",
     "addr:street": "Bahnhofplatz",
     "amenity": "doctors",
+    "check_date:opening_hours": "2023-05-03",
     "contact:email": "permanence-winterthur@hin.ch",
     "contact:fax": "+41 52 267 01 00",
     "contact:phone": "+41 52 267 01 01",

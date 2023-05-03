@@ -15644,6 +15644,7 @@
     "shoulder:left": "yes",
     "shoulder:right": "yes",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes:forward": "|merge_to_left",
     "id": "way/303693184"
@@ -20632,6 +20633,7 @@
     "shoulder:left": "yes",
     "shoulder:right": "yes",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/545568106"
   },

@@ -20836,82 +20836,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/204029557",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "130",
-    "addr:postcode": "8002",
-    "addr:street": "Bederstrasse",
-    "amenity": "social_facility",
-    "building": "service",
-    "name": "Treffpunkt t-alk",
-    "opening_hours": "10:15-17:30",
-    "operator": "Stadt Zürich Soziale Einrichtungen und Betriebe",
-    "phone": "+41 44 415 36 00",
-    "social_facility": "outreach",
-    "social_facility:for": "drug_addicted",
-    "website": "https://www.stadt-zuerich.ch/sd/de/index/unterstuetzung/drogen/treffpunkte/talk.html",
-    "id": "way/204029557"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5238998,
-          47.3609069
-        ],
-        [
-          8.5239418,
-          47.3607112
-        ],
-        [
-          8.5239451,
-          47.3607116
-        ],
-        [
-          8.5239497,
-          47.3606901
-        ],
-        [
-          8.5239933,
-          47.3606944
-        ],
-        [
-          8.5239971,
-          47.3606948
-        ],
-        [
-          8.5239976,
-          47.3606927
-        ],
-        [
-          8.5240438,
-          47.3606972
-        ],
-        [
-          8.5240032,
-          47.3608857
-        ],
-        [
-          8.5239953,
-          47.3608849
-        ],
-        [
-          8.5239887,
-          47.3609157
-        ],
-        [
-          8.5238998,
-          47.3609069
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/204435556",
   "properties": {
     "addr:city": "Rüti ZH",
@@ -27018,24 +26942,40 @@
     "coordinates": [
       [
         [
-          8.931405,
-          47.266265
+          8.9314102,
+          47.2662656
         ],
         [
-          8.9314005,
-          47.2661478
+          8.9314124,
+          47.2661507
         ],
         [
-          8.9315879,
-          47.2661445
+          8.9315174,
+          47.2661517
         ],
         [
-          8.9315924,
-          47.2662617
+          8.931517,
+          47.2661701
         ],
         [
-          8.931405,
-          47.266265
+          8.9315741,
+          47.2661706
+        ],
+        [
+          8.9315726,
+          47.2662478
+        ],
+        [
+          8.9315167,
+          47.2662472
+        ],
+        [
+          8.9315163,
+          47.2662665
+        ],
+        [
+          8.9314102,
+          47.2662656
         ]
       ]
     ]
@@ -41642,7 +41582,7 @@
   "properties": {
     "amenity": "social_facility",
     "contact:website": "https://www.swsieber.ch/was-wir-tun/auffangen/pfuusbus/",
-    "name": "Pfuusbus Notschlafstelle (von 15. November bis 15. April in Betrieb)",
+    "name": "Pfuusbus Notschlafstelle",
     "opening_hours": "Nov 15-Apr 15 19:00-09:00",
     "phone": "+41 79 334 02 63",
     "seasonal": "yes",
@@ -44652,6 +44592,33 @@
     "coordinates": [
       8.5574306,
       47.3604832
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10862733151",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "130",
+    "addr:postcode": "8002",
+    "addr:street": "Bederstrasse",
+    "amenity": "social_facility",
+    "name": "Treffpunkt t-alk",
+    "opening_hours": "10:15-17:30",
+    "operator": "Stadt Zürich Soziale Einrichtungen und Betriebe",
+    "phone": "+41 44 415 36 00",
+    "social_facility": "outreach",
+    "social_facility:for": "drug_addicted",
+    "website": "https://www.stadt-zuerich.ch/sd/de/index/unterstuetzung/drogen/treffpunkte/talk.html",
+    "id": "node/10862733151"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.523984,
+      47.3607407
     ]
   }
 }
