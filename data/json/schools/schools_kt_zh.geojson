@@ -75559,6 +75559,10 @@
           47.3983183
         ],
         [
+          8.6118232,
+          47.3982386
+        ],
+        [
           8.6118903,
           47.3981506
         ],
@@ -98460,10 +98464,10 @@
   "type": "Feature",
   "id": "node/7156079485",
   "properties": {
-    "addr:city": "Zurich",
+    "addr:city": "Zürich",
     "addr:housenumber": "42",
     "addr:postcode": "8032",
-    "addr:street": "Juchstrasse",
+    "addr:street": "Jupiterstrasse",
     "amenity": "school",
     "email": "info@raum-allegra.ch",
     "name": "LernRaum Allegra",

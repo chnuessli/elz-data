@@ -33261,6 +33261,7 @@
     "addr:housenumber": "43",
     "addr:street": "Müllerstrasse",
     "amenity": "kindergarten",
+    "check_date": "2023-05-05",
     "name": "Kinderkrippe Schneeflocke",
     "website": "http://kinderkrippeschneeflocke.ch/",
     "wheelchair": "yes",
