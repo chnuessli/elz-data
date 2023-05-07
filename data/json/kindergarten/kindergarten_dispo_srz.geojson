@@ -33534,6 +33534,10 @@
           47.3542587
         ],
         [
+          8.5094401,
+          47.3542131
+        ],
+        [
           8.5094428,
           47.3542017
         ],
@@ -33556,6 +33560,10 @@
         [
           8.5098704,
           47.3543263
+        ],
+        [
+          8.5098218,
+          47.3543654
         ],
         [
           8.5097858,
@@ -38863,30 +38871,6 @@
     "coordinates": [
       8.7546809,
       47.513786
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2161722630",
-  "properties": {
-    "addr:city": "Uster",
-    "addr:housenumber": "30",
-    "addr:postcode": "8610",
-    "addr:street": "Uster West",
-    "amenity": "kindergarten",
-    "email": "spillmann@kita-zipfelchappe.ch",
-    "name": "KiTa Zipfelchappe",
-    "opening_hours": "Mo-Th 07:00-18:00; Fr 07:00-17:00",
-    "phone": "+41 44 940 70 71",
-    "website": "http://www.kita-zipfelchappe.ch/",
-    "id": "node/2161722630"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7087784,
-      47.3594344
     ]
   }
 },

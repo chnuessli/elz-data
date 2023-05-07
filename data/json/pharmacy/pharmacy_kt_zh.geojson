@@ -1029,6 +1029,7 @@
     "addr:street": "Uetlibergstrasse",
     "amenity": "pharmacy",
     "brand": "Fortis",
+    "fixme": "I think it has moved or does not exist anymore",
     "healthcare": "pharmacy",
     "name": "Laubegg Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-12:30",

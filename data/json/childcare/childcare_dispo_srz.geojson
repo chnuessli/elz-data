@@ -3898,7 +3898,7 @@
     "contact:website": "https://www.krippeschatzkiste.ch/",
     "max_age": "Kindergarteneintritt",
     "min_age": "3 months",
-    "name": "Kinderkrippe Schatzkiste",
+    "name": "Schatzkiste",
     "opening_hours": "Mo-Fr 06:30-18:15",
     "operator": "Stephanie",
     "id": "node/1263163861"
@@ -3991,6 +3991,30 @@
     "coordinates": [
       8.4217299,
       47.3802614
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2161722630",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "30",
+    "addr:postcode": "8610",
+    "addr:street": "Uster West",
+    "amenity": "childcare",
+    "email": "spillmann@kita-zipfelchappe.ch",
+    "name": "Unsere Champions",
+    "opening_hours": "Mo-Th 07:00-18:00; Fr 07:00-17:00",
+    "phone": "+41 44 940 70 71",
+    "website": "http://www.kita-zipfelchappe.ch/",
+    "id": "node/2161722630"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7087784,
+      47.3594344
     ]
   }
 },
