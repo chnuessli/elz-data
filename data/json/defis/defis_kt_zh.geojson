@@ -22526,7 +22526,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "opening_hours": "May 8-Jun 13: 9:30-18:00; Jun 14-Aug 22: Mo,Mi,Fr,Sa,Su 9:00 - 20:00; Jun 14-Aug 22: Di,Do 8:00 - 20:00; Aug 23-Sep 19: 9:30-18:00",
+    "opening_hours": "May 8-Jun 13: 09:30-18:00; Jun 14-Aug 22: Mo,We,Fr,Sa,Su 9:00-20:00; Jun 14-Aug 22: Tu, Th 08:00 - 20:00; Aug 23-Sep 19: 09:30-18:00",
     "operator": "Badi Elgg",
     "phone": "+41 79 364 14 98",
     "id": "node/9001602611"
@@ -38117,7 +38117,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "1",
-    "opening_hours": "Mo-Fr: 07:00-19:00",
+    "opening_hours": "Mo-Fr 07:00-19:00",
     "operator": "ZHAW",
     "phone": "+41589345000",
     "id": "node/10555091109"
@@ -40653,7 +40653,7 @@
     "latitude": "47.19008",
     "longitude": "8.68084",
     "name": "Macrocast GmbH",
-    "opening_hours": "mo- fr 08:00–12:00,13:00–17:00",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763276778"
@@ -41396,7 +41396,7 @@
     "latitude": "47.26446",
     "longitude": "8.66148",
     "name": "Auto-Graf AG",
-    "opening_hours": "mo - fr 08:00–18:30; sa 09:00–16:00",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-16:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763309907"
@@ -41422,7 +41422,7 @@
     "latitude": "47.264",
     "longitude": "8.66431",
     "name": "Auto-Graf AG",
-    "opening_hours": "Mo-Fr 07:15–12:00, 13:00–17:00",
+    "opening_hours": "Mo-Fr 07:15-12:00,13:00-17:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763309908"
@@ -46747,7 +46747,7 @@
   "type": "Feature",
   "id": "node/10763310116",
   "properties": {
-    "access": "no;yes",
+    "access:conditional": "yes @ opening_hours",
     "defibrillator:location": "Liftvorplatz, 4.OG;Empfangsbereich 1. OG",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
@@ -47036,7 +47036,7 @@
     "latitude": "47.69113",
     "longitude": "8.64508",
     "name": "Garage Nordstern AG",
-    "opening_hours": "Mo-Th 07:00-12:00; 13:00-17:30; Fr 07:00-12:00; 13:00-16:00",
+    "opening_hours": "Mo-Th 07:00-12:00,13:00-17:30; Fr 07:00-12:00,13:00-16:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763310289"
@@ -47994,7 +47994,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "-1",
-    "opening_hours": "Mo-Fr. 8 bis 18 Uhr",
+    "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "SPGI Zurich AG",
     "phone": "+41 44 388 58 48",
     "source": "local_knowledge, defikarte.ch",

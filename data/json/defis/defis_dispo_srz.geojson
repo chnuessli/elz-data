@@ -1646,6 +1646,7 @@
     "defibrillator:location": "Ufenau, Restaurant, WC Herren",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "opening_hours": "24/7",
     "operator": "Siko Höfe",
     "phone": "+41 79 478 55 99",
@@ -4186,15 +4187,15 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "website": "defibrillator.ch",
+    "website": "https://www.aed.ch/",
     "wheelchair": "yes",
     "id": "node/7085949166"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6407045,
-      47.695442
+      8.6407101,
+      47.6954437
     ]
   }
 },
@@ -12500,8 +12501,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5908821,
-      47.1790337
+      8.5899124,
+      47.1787945
     ]
   }
 },
@@ -13822,7 +13823,6 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "opening_hours": "Unbekannt",
     "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
     "phone": "+41 58 728 90 63",
     "id": "node/7930677688"
@@ -30459,7 +30459,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr: 08:00-17:00",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "Shell (Switzerland) AG",
     "phone": "+41417694444",
     "id": "node/8875294118"
@@ -32421,7 +32421,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "opening_hours": "May 8-Jun 13: 9:30-18:00; Jun 14-Aug 22: Mo,Mi,Fr,Sa,Su 9:00 - 20:00; Jun 14-Aug 22: Di,Do 8:00 - 20:00; Aug 23-Sep 19: 9:30-18:00",
+    "opening_hours": "May 8-Jun 13: 09:30-18:00; Jun 14-Aug 22: Mo,We,Fr,Sa,Su 9:00-20:00; Jun 14-Aug 22: Tu, Th 08:00 - 20:00; Aug 23-Sep 19: 09:30-18:00",
     "operator": "Badi Elgg",
     "phone": "+41 79 364 14 98",
     "id": "node/9001602611"
@@ -32870,7 +32870,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr: 08:30-12:00, 14:00-16:30",
+    "opening_hours": "Mo-Fr 08:30-12:00,14:00-16:30",
     "operator": "Schaffhauser Kantonalbank",
     "phone": "+41527423512",
     "id": "node/9045639317"
@@ -36073,7 +36073,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr: 08:00 - 17:00",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "EZV",
     "id": "node/9309393119"
   },
@@ -37456,7 +37456,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr: 08:00-12:00",
+    "opening_hours": "Mo-Fr 08:00-12:00",
     "operator": "Kantonale verwaltung",
     "id": "node/9455787317"
   },
@@ -41633,7 +41633,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr: 07:30-18:00",
+    "opening_hours": "Mo-Fr 07:30-18:00",
     "operator": "Gymnasium Immensee",
     "phone": "+41418548181",
     "id": "node/9731780817"
@@ -43623,7 +43623,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "opening_hours": "May 1-May 31,Aug 21-Sep 31 Mo-Su 09:00-19:00; Jun 1-Aug 20 Mo-Fr 09:00-20:30; Jun 1-Aug 20 Sa 09:00-20:00; Su 09:00-18:00; PH open",
+    "opening_hours": "May 01-31,Aug 21-Sep 31 Mo-Su 09:00-19:00; Jun 01-Aug 20 Mo-Fr 09:00-20:30; Jun 01-Aug 20 Sa 09:00-20:00; Su 09:00-18:00; PH open",
     "wheelchair": "yes",
     "id": "node/9863810523"
   },
@@ -47552,7 +47552,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr: 8:00-16:00",
+    "opening_hours": "Mo-Fr 08:00-16:00",
     "operator": "Besi Switzerland",
     "phone": "+41417495111",
     "id": "node/10029620317"
@@ -48472,7 +48472,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr: 8:00 - 17:00",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "AOC AG",
     "id": "node/10116404417"
   },
@@ -51530,7 +51530,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "1",
-    "opening_hours": "Mo-Fr: 07:00-19:00",
+    "opening_hours": "Mo-Fr 07:00-19:00",
     "operator": "ZHAW",
     "phone": "+41589345000",
     "id": "node/10555091109"
@@ -55047,7 +55047,7 @@
     "latitude": "47.19008",
     "longitude": "8.68084",
     "name": "Macrocast GmbH",
-    "opening_hours": "mo- fr 08:00–12:00,13:00–17:00",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763276778"
@@ -55790,7 +55790,7 @@
     "latitude": "47.26446",
     "longitude": "8.66148",
     "name": "Auto-Graf AG",
-    "opening_hours": "mo - fr 08:00–18:30; sa 09:00–16:00",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-16:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763309907"
@@ -55816,7 +55816,7 @@
     "latitude": "47.264",
     "longitude": "8.66431",
     "name": "Auto-Graf AG",
-    "opening_hours": "Mo-Fr 07:15–12:00, 13:00–17:00",
+    "opening_hours": "Mo-Fr 07:15-12:00,13:00-17:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763309908"
@@ -61141,7 +61141,7 @@
   "type": "Feature",
   "id": "node/10763310116",
   "properties": {
-    "access": "no;yes",
+    "access:conditional": "yes @ opening_hours",
     "defibrillator:location": "Liftvorplatz, 4.OG;Empfangsbereich 1. OG",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
@@ -61430,7 +61430,7 @@
     "latitude": "47.16087",
     "longitude": "8.43389",
     "name": "Allergopharma AG",
-    "opening_hours": "Mo - Th 08:00–16:00; Fr 08:00-15:00",
+    "opening_hours": "Mo-Th 08:00-16:00; Fr 08:00-15:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763310127"
@@ -61481,7 +61481,7 @@
     "latitude": "47.17584",
     "longitude": "8.51834",
     "name": "QCAM AG",
-    "opening_hours": "Mo - Fr 08:00–17:30",
+    "opening_hours": "Mo-Fr 08:00-17:30",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763310129"
@@ -61507,7 +61507,7 @@
     "latitude": "47.18779",
     "longitude": "8.51501",
     "name": "Mövenpick Holding AG",
-    "opening_hours": "Mo-Fr 08:00–12:00, 13:00–17:00",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763310130"
@@ -61712,7 +61712,7 @@
     "latitude": "47.18051",
     "longitude": "8.51816",
     "name": "Auto Wild AG",
-    "opening_hours": "Mo-Fr 07:00-12:00; 13:00-17:30; Sa 09:00-12:00",
+    "opening_hours": "Mo-Fr 07:00-12:00,13:00-17:30; Sa 09:00-12:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763310138"
@@ -61968,7 +61968,7 @@
     "latitude": "47.69113",
     "longitude": "8.64508",
     "name": "Garage Nordstern AG",
-    "opening_hours": "Mo-Th 07:00-12:00; 13:00-17:30; Fr 07:00-12:00; 13:00-16:00",
+    "opening_hours": "Mo-Th 07:00-12:00,13:00-17:30; Fr 07:00-12:00,13:00-16:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763310289"
@@ -63403,7 +63403,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "-1",
-    "opening_hours": "Mo-Fr. 8 bis 18 Uhr",
+    "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "SPGI Zurich AG",
     "phone": "+41 44 388 58 48",
     "source": "local_knowledge, defikarte.ch",

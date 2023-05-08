@@ -7846,7 +7846,7 @@
     "email": "rueden@volksapotheke.ch",
     "healthcare": "pharmacy",
     "name": "Volksapotheke - Zum Rüden",
-    "opening_hours": "Mo-Fr 07:30–18:30; Sa 07:30-17:00",
+    "opening_hours": "Mo-Fr 07:30-18:30; Sa 07:30-17:00",
     "website": "https://www.volksapotheke.ch/",
     "id": "node/8393568468"
   },
@@ -7870,7 +7870,7 @@
     "dispensing": "yes",
     "healthcare": "pharmacy",
     "name": "Volksapotheke zum Zitronenbaum",
-    "opening_hours": "Mo-Fr 08:00–18:30; Sa 08:00-16:00",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
     "phone": "+41526254045",
     "website": "http://www.volksapotheke.ch",
     "id": "node/8393572202"
