@@ -5889,98 +5889,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/45670582",
-  "properties": {
-    "addr:city": "Kloten",
-    "addr:housenumber": "20",
-    "addr:postcode": "8302",
-    "addr:street": "Geissbergstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Geissberg 1",
-    "source": "Yahoo aerial images",
-    "id": "way/45670582"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5919876,
-          47.4551593
-        ],
-        [
-          8.5921533,
-          47.4550419
-        ],
-        [
-          8.5922596,
-          47.4551104
-        ],
-        [
-          8.5921216,
-          47.4552082
-        ],
-        [
-          8.5921414,
-          47.455221
-        ],
-        [
-          8.5921137,
-          47.4552406
-        ],
-        [
-          8.5919876,
-          47.4551593
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/45671832",
-  "properties": {
-    "addr:city": "Kloten",
-    "addr:housenumber": "45",
-    "addr:postcode": "8302",
-    "addr:street": "Auenstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Geissberg 2+3",
-    "source": "Yahoo aerial images",
-    "id": "way/45671832"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5918779,
-          47.4554132
-        ],
-        [
-          8.5919898,
-          47.4553333
-        ],
-        [
-          8.5921154,
-          47.4554136
-        ],
-        [
-          8.5920015,
-          47.4554937
-        ],
-        [
-          8.5918779,
-          47.4554132
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/45897831",
   "properties": {
     "addr:city": "Kloten",
@@ -6033,56 +5941,6 @@
         [
           8.5779231,
           47.450398
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/46159792",
-  "properties": {
-    "addr:city": "Kloten",
-    "addr:housenumber": "24",
-    "addr:postcode": "8302",
-    "addr:street": "Graswinkelstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "building:levels": "3",
-    "name": "Kindergarten Graswinkel",
-    "id": "way/46159792"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5948393,
-          47.4533446
-        ],
-        [
-          8.5948748,
-          47.453448
-        ],
-        [
-          8.5952804,
-          47.4533843
-        ],
-        [
-          8.5953099,
-          47.4534705
-        ],
-        [
-          8.5947856,
-          47.4535527
-        ],
-        [
-          8.5947206,
-          47.4533632
-        ],
-        [
-          8.5948393,
-          47.4533446
         ]
       ]
     ]
@@ -37272,6 +37130,66 @@
         [
           8.4520684,
           47.4772063
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1170376287",
+  "properties": {
+    "addr:city": "Kloten",
+    "addr:housenumber": "24",
+    "addr:postcode": "8302",
+    "addr:street": "Graswinkelstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Graswinkel",
+    "id": "way/1170376287"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5948393,
+          47.4533446
+        ],
+        [
+          8.5948201,
+          47.4532921
+        ],
+        [
+          8.5953079,
+          47.4532174
+        ],
+        [
+          8.5953516,
+          47.4533487
+        ],
+        [
+          8.5953369,
+          47.453373
+        ],
+        [
+          8.5952804,
+          47.4533843
+        ],
+        [
+          8.5953099,
+          47.4534705
+        ],
+        [
+          8.5947856,
+          47.4535527
+        ],
+        [
+          8.5947206,
+          47.4533632
+        ],
+        [
+          8.5948393,
+          47.4533446
         ]
       ]
     ]

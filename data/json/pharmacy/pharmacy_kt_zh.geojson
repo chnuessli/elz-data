@@ -2224,7 +2224,7 @@
     "healthcare": "pharmacy",
     "name": "Amavita",
     "old_name": "Apotheke Sammet",
-    "opening_hours": "Mo-Fr 06:30-21:00; PH,Sa,Su 08:00-20:00",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 11:00-18:00",
     "operator": "GaleniCare",
     "website": "https://www.amavita.ch/de/amavita-apotheke-bahnhofplatz-zurich",
     "wheelchair": "yes",

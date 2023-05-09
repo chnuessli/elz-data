@@ -1793,6 +1793,7 @@
     "building": "yes",
     "name": "Durchgangszentrum Ober Halden",
     "operator": "ORS",
+    "phone": "+41 44 984 42 17",
     "social_facility": "group_home",
     "social_facility:for": "migrant",
     "id": "way/24418369"
@@ -6824,8 +6825,11 @@
     "amenity": "social_facility",
     "building": "yes",
     "name": "Durchgangszentrum Sonnenbühl",
+    "operator": "ORS Service AG",
+    "phone": "+41 44 576 16 13",
     "social_facility": "group_home",
     "social_facility:for": "migrant",
+    "website": "https://www.schule-oberembrach.ch/cms/sonnenbuehl-dz",
     "id": "way/47033490"
   },
   "geometry": {
@@ -6833,24 +6837,24 @@
     "coordinates": [
       [
         [
-          8.6586398,
-          47.4909049
+          8.6586403,
+          47.4909256
         ],
         [
-          8.6590575,
-          47.4907634
+          8.6590488,
+          47.4907842
         ],
         [
-          8.6591366,
-          47.4908699
+          8.6591196,
+          47.4908777
         ],
         [
-          8.6587188,
-          47.4910114
+          8.6587111,
+          47.491019
         ],
         [
-          8.6586398,
-          47.4909049
+          8.6586403,
+          47.4909256
         ]
       ]
     ]
@@ -7939,10 +7943,12 @@
     "addr:housenumber": "21",
     "addr:postcode": "8310",
     "addr:street": "Winterthurerstrasse",
+    "alt_name": "Notunterkunft Hammermühle",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Notunterkunft Hammermühle",
-    "operator": "ORS",
+    "name": "Durchgangszentrum Hammermühle",
+    "operator": "ORS Service AG",
+    "phone": "+41 52 345 07 35",
     "social_facility": "shelter",
     "social_facility:for": "migrant",
     "id": "way/54447593"
@@ -7952,48 +7958,56 @@
     "coordinates": [
       [
         [
-          8.705225,
-          47.4535049
+          8.705209,
+          47.4535172
         ],
         [
-          8.7052547,
-          47.4535435
+          8.7052387,
+          47.4535558
         ],
         [
-          8.7053451,
-          47.4536608
+          8.7053294,
+          47.4536716
         ],
         [
-          8.7055435,
-          47.4535909
+          8.7055253,
+          47.4535994
         ],
         [
-          8.7056404,
-          47.4537165
+          8.7056187,
+          47.4537207
         ],
         [
-          8.7055001,
-          47.4537659
+          8.7054993,
+          47.4537644
         ],
         [
-          8.7054478,
-          47.4536981
+          8.7054893,
+          47.4537501
         ],
         [
-          8.7053926,
-          47.4537175
+          8.7054065,
+          47.4537806
         ],
         [
-          8.7052201,
-          47.4537783
+          8.7053699,
+          47.4537476
         ],
         [
-          8.7050555,
-          47.4535646
+          8.7052886,
+          47.4537767
         ],
         [
-          8.705225,
-          47.4535049
+          8.7052155,
+          47.453803
+        ],
+        [
+          8.7050395,
+          47.4535769
+        ],
+        [
+          8.705209,
+          47.4535172
         ]
       ]
     ]
@@ -12038,6 +12052,56 @@
         [
           8.7937572,
           47.2943452
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/99840710",
+  "properties": {
+    "addr:city": "Ottikon",
+    "addr:housenumber": "3",
+    "addr:postcode": "8626",
+    "addr:street": "Rössliwiese",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Asylunterkunft Rössliwiese",
+    "social_facility": "shelter",
+    "id": "way/99840710"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7761303,
+          47.2915914
+        ],
+        [
+          8.7761781,
+          47.2918178
+        ],
+        [
+          8.7757981,
+          47.2918547
+        ],
+        [
+          8.775771,
+          47.2917261
+        ],
+        [
+          8.7759604,
+          47.2917078
+        ],
+        [
+          8.7759398,
+          47.2916099
+        ],
+        [
+          8.7761303,
+          47.2915914
         ]
       ]
     ]
@@ -18501,72 +18565,44 @@
 },
 {
   "type": "Feature",
-  "id": "way/169310041",
+  "id": "way/169310040",
   "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "166",
+    "addr:postcode": "8105",
+    "addr:street": "Althardstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "email": "asylwesen@regensdorf.ch",
     "name": "Asylunterkunft Hardhölzli",
-    "id": "way/169310041"
+    "phone": "+41 44 842 38 62",
+    "social_facility": "shelter",
+    "website": "https://www.regensdorf.ch/aemter/5481",
+    "id": "way/169310040"
   },
   "geometry": {
     "type": "Polygon",
     "coordinates": [
       [
         [
-          8.4673478,
-          47.4421107
+          8.4669968,
+          47.4420503
         ],
         [
-          8.4673669,
-          47.4418205
+          8.4668809,
+          47.4419839
         ],
         [
-          8.4674513,
-          47.441823
+          8.4672271,
+          47.4417073
         ],
         [
-          8.4674323,
-          47.4421133
+          8.467343,
+          47.4417737
         ],
         [
-          8.4673478,
-          47.4421107
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/169310044",
-  "properties": {
-    "amenity": "social_facility",
-    "building": "yes",
-    "id": "way/169310044"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4675165,
-          47.4421534
-        ],
-        [
-          8.4675371,
-          47.441923
-        ],
-        [
-          8.4676289,
-          47.4419267
-        ],
-        [
-          8.4676083,
-          47.4421571
-        ],
-        [
-          8.4675165,
-          47.4421534
+          8.4669968,
+          47.4420503
         ]
       ]
     ]
@@ -27662,7 +27698,9 @@
   "id": "way/333130802",
   "properties": {
     "access": "private",
+    "addr:city": "Zürich",
     "addr:housenumber": "183",
+    "addr:postcode": "8057",
     "addr:street": "Winterthurerstrasse",
     "alt_name": "Durchgangszentrum Irchel",
     "amenity": "social_facility",
@@ -35276,7 +35314,7 @@
     "building": "yes",
     "email": "seewadel@stadtaffoltern.ch",
     "name": "Seewadel - Zentrum für Gesundheit und Alter",
-    "note": "Temporärer Standort bis 2022/2023 (Ersatzneubau am Hauptstandort)",
+    "note": "Temporärer Standort bis 23.05.2023",
     "operator": "Gemeinde Affoltern",
     "phone": "+41 43 322 74 74",
     "social_facility": "assisted_living",
@@ -35730,7 +35768,7 @@
     "name": "Asylunterkunft Luberzen",
     "operator": "Stadt Dietikon / Asylorganisation Zürich (AOZ)",
     "phone": "+41 44 415 65 00",
-    "social_facility": "outreach",
+    "social_facility": "shelter",
     "website": "https://www.dietikon.ch/verwaltungpolitik/verwaltung/aemterbereiche/9226",
     "id": "way/943712510"
   },
@@ -37681,20 +37719,70 @@
 },
 {
   "type": "Feature",
+  "id": "way/1148855733",
+  "properties": {
+    "addr:city": "Adliswil",
+    "addr:housenumber": "25",
+    "addr:postcode": "8134",
+    "addr:street": "Sihlstrasse",
+    "alt_name": "Durchgangszentrum Adliswil",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Asylzentrum Adliswil",
+    "phone": "+41 44 709 08 90",
+    "social_facility": "group_home",
+    "social_facility:for": "migrant",
+    "id": "way/1148855733"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5267923,
+          47.3027285
+        ],
+        [
+          8.5266749,
+          47.3026461
+        ],
+        [
+          8.5270585,
+          47.3023925
+        ],
+        [
+          8.5271764,
+          47.3024765
+        ],
+        [
+          8.5267923,
+          47.3027285
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1150198138",
   "properties": {
+    "access": "private",
     "addr:city": "Zürich",
     "addr:country": "CH",
     "addr:housenumber": "48",
     "addr:postcode": "8006",
     "addr:street": "Turnerstrasse",
     "amenity": "social_facility",
+    "building": "bunker",
     "capacity": "120",
     "layer": "-1",
     "level": "-1",
+    "location": "underground",
+    "military": "bunker",
     "name": "Temporäres Durchgangszentrum Turnerstrasse",
     "operator": "AOZ",
-    "social_facility": "shelter",
+    "social_facility": "group_home",
+    "social_facility:for": "migrant",
     "website": "https://www.stadt-zuerich.ch/aoz/de/index/aoz/aktuell/news/eroeffnung-temporaeres-durchgangszentrum-turnerstrasse0.html",
     "id": "way/1150198138"
   },
