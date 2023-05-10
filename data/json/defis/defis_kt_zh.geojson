@@ -4787,7 +4787,6 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "während Schulbetrieb",
     "operator": "Gemeinde Richterswil",
     "id": "node/7819540968"
   },
@@ -17579,13 +17578,13 @@
   "id": "node/8638161317",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Migros 1. Stock beim Kunendienst",
+    "defibrillator:location": "Migros 1. Stock beim Kundendienst",
     "description": "nur während Öffnungszeit",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "1",
-    "opening_hours": "Mo-Sa: 09:00-20:00",
+    "opening_hours": "Mo-Sa 09:00-20:00",
     "operator": "Migros",
     "wheelchair": "yes",
     "id": "node/8638161317"
@@ -19720,7 +19719,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr:08:00-17:00",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "Schutz und Rettung Zürich",
     "id": "node/8841121217"
   },
@@ -26174,7 +26173,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr: 08:00-18:00",
+    "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Privatperson",
     "phone": "+41792385157",
     "id": "node/9391504727"
@@ -36552,7 +36551,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "4",
-    "opening_hours": "Mo-Fr: 08:00-12:00, 13:00-17:00",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
     "operator": "LOBOS Informatik AG",
     "id": "node/10212765417"
   },
@@ -38892,7 +38891,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-Fr: 07:00-17:00",
+    "opening_hours": "Mo-Fr 07:00-17:00",
     "operator": "Gross Generalunternehmung AG",
     "phone": "0448773060",
     "id": "node/10610860661"
@@ -39290,7 +39289,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-Fr: 07:30-18:00",
+    "opening_hours": "Mo-Fr 07:30-18:00",
     "operator": "Firma Bruker",
     "phone": "+41448259111",
     "id": "node/10685407405"
@@ -40627,7 +40626,7 @@
     "latitude": "47.38271",
     "longitude": "8.66356",
     "name": "Drück-Top GmbH",
-    "opening_hours": "Mo-Th 07:30–12:00, 13:00–17:30; Fr 07:30–12:00,13:00–16:00",
+    "opening_hours": "Mo-Th 07:30-12:00,13:00-17:30; Fr 07:30-12:00,13:00-16:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763276777"
@@ -41370,7 +41369,7 @@
     "latitude": "47.45048",
     "longitude": "8.59451",
     "name": "Quooker Schweiz AG",
-    "opening_hours": "mo-fr 08:00–12:00, 13:00–17:00",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763309906"
@@ -41577,7 +41576,7 @@
     "latitude": "47.45156",
     "longitude": "8.70427",
     "name": "Axept Business Software AG",
-    "opening_hours": "Mo-Fr 07:00–17:00",
+    "opening_hours": "Mo-Fr 07:00-17:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763309914"
@@ -41655,7 +41654,7 @@
     "latitude": "47.41445",
     "longitude": "8.57437",
     "name": "Guyer Wärme und Wasser AG",
-    "opening_hours": "Mo-Th 07:00-12:00; 13:00-17:00; Fr 07:00-12:00; 13:00-16:00",
+    "opening_hours": "Mo-Th 07:00-12:00,13:00-17:00; Fr 07:00-12:00,13:00-16:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763309917"
@@ -41783,7 +41782,7 @@
     "latitude": "47.37224",
     "longitude": "8.68204",
     "name": "EFCO Befestigungstechnik AG",
-    "opening_hours": "Mo-Th 07:30-12:00; 13:00-17:00; Fr 07:30-12:00; 13:00-16:00",
+    "opening_hours": "Mo-Th 07:30-12:00,13:00-17:00; Fr 07:30-12:00,13:00-16:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763309922"
@@ -48092,7 +48091,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "2",
-    "opening_hours": "Mo. - Fr. 08:00 - 17:00 ",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "Corporation",
     "phone": "+41 44 824 84 84",
     "source": "local_knowledge, defikarte.ch",
@@ -48103,6 +48102,76 @@
     "coordinates": [
       8.6047465,
       47.3990319
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10880895805",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Axpo Biomasse AG, Länggenstr. 42, 8184 Bachenbülach",
+    "description": "nur während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "EG",
+    "opening_hours": "Mo-Fr 07:00-17:00",
+    "operator": "Axpo Biomasse AG",
+    "phone": "+41448621170",
+    "id": "node/10880895805"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5354807,
+      47.5014282
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10880895806",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Axpo Biomasse AG, Libernstrasse 16, 8112 Otelfingen",
+    "description": "Nur während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "EG",
+    "opening_hours": "Mo-Fr 07:00-17:00",
+    "operator": "Axpo Biomasse AG",
+    "phone": "+41448440802",
+    "id": "node/10880895806"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4023574,
+      47.4587419
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10882040005",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Primarschule Wil",
+    "description": "Stets zugänglich ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "EG, beim Eingang, direkt an der Unteren Geerenstrasse",
+    "opening_hours": "24/7",
+    "id": "node/10882040005"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6159673,
+      47.3888838
     ]
   }
 }

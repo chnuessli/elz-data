@@ -5967,6 +5967,7 @@
     "branch": "Winterthur Wülflingen",
     "brand": "TopPharm",
     "name": "TopPharm Apotheke Wülflingen",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
     "operator": "TopPharm Genossenschaft",
     "website": "https://www.apotheke.ch/wuelflingen",
     "id": "node/4816412576"

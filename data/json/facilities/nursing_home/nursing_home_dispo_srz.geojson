@@ -690,6 +690,106 @@
 },
 {
   "type": "Feature",
+  "id": "relation/12925844",
+  "properties": {
+    "addr:city": "Volketswil",
+    "addr:housenumber": "9",
+    "addr:postcode": "8604",
+    "addr:street": "Tolackerstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "capacity": "134",
+    "name": "Durchgangszentrum Volketswil",
+    "operator": "AOZ",
+    "phone": "+41 43 204 30 20",
+    "social_facility": "group_home",
+    "social_facility:for": "migrant",
+    "type": "multipolygon",
+    "website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/dz/dz-volketswil.html",
+    "id": "relation/12925844"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6731484,
+          47.3911439
+        ],
+        [
+          8.6735984,
+          47.3908686
+        ],
+        [
+          8.6738611,
+          47.3910654
+        ],
+        [
+          8.6734111,
+          47.3913407
+        ],
+        [
+          8.6731484,
+          47.3911439
+        ]
+      ],
+      [
+        [
+          8.6735133,
+          47.3910561
+        ],
+        [
+          8.6735742,
+          47.391103
+        ],
+        [
+          8.6736599,
+          47.391052
+        ],
+        [
+          8.673599,
+          47.3910051
+        ],
+        [
+          8.6735133,
+          47.3910561
+        ]
+      ],
+      [
+        [
+          8.6733488,
+          47.3911581
+        ],
+        [
+          8.6734098,
+          47.3912054
+        ],
+        [
+          8.6734972,
+          47.3911537
+        ],
+        [
+          8.673477,
+          47.391138
+        ],
+        [
+          8.6734988,
+          47.3911251
+        ],
+        [
+          8.673458,
+          47.3910935
+        ],
+        [
+          8.6733488,
+          47.3911581
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "relation/13468273",
   "properties": {
     "addr:city": "Winterthur",
@@ -28878,6 +28978,162 @@
 },
 {
   "type": "Feature",
+  "id": "way/1170860312",
+  "properties": {
+    "amenity": "social_facility",
+    "capacity": "128",
+    "contact:city": "Kollbrunn",
+    "contact:email": "dz.kollbrunn@aoz.ch",
+    "contact:housenumber": "16",
+    "contact:phone": "+41 52 394 00 38",
+    "contact:postcode": "8483",
+    "contact:street": "Untere Bahnhofstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/dz/dz-kollbrunn.html",
+    "name": "Durchgangszentrum Kollbrunn",
+    "operator": "AOZ",
+    "social_facility": "group_home",
+    "social_facility:for": "migrant",
+    "id": "way/1170860312"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7721341,
+          47.4579405
+        ],
+        [
+          8.7720382,
+          47.4580233
+        ],
+        [
+          8.7718653,
+          47.458176
+        ],
+        [
+          8.7718125,
+          47.4582226
+        ],
+        [
+          8.7717736,
+          47.4582558
+        ],
+        [
+          8.771829,
+          47.4582844
+        ],
+        [
+          8.7716626,
+          47.4584322
+        ],
+        [
+          8.7716334,
+          47.4584596
+        ],
+        [
+          8.7714197,
+          47.4583472
+        ],
+        [
+          8.77117,
+          47.4582498
+        ],
+        [
+          8.771146,
+          47.4582723
+        ],
+        [
+          8.7711188,
+          47.4582603
+        ],
+        [
+          8.7713685,
+          47.4580412
+        ],
+        [
+          8.7713799,
+          47.4580452
+        ],
+        [
+          8.7716738,
+          47.4577916
+        ],
+        [
+          8.7717581,
+          47.4577192
+        ],
+        [
+          8.771883,
+          47.4578106
+        ],
+        [
+          8.7719524,
+          47.4578617
+        ],
+        [
+          8.7719721,
+          47.457849
+        ],
+        [
+          8.7721341,
+          47.4579405
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1170869696",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "243",
+    "addr:postcode": "8050",
+    "addr:street": "Regensbergstrasse",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "building:levels": "3",
+    "capacity": "100",
+    "name": "Durchgangszentrum Regensbergstrasse",
+    "operator": "AOZ",
+    "phone": "+41 44 312 72 11",
+    "roof:levels": "0",
+    "social_facility": "group_home",
+    "social_facility:for": "migrant",
+    "website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/dz/regensbergstrasse.html",
+    "id": "way/1170869696"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5302321,
+          47.4108063
+        ],
+        [
+          8.5301992,
+          47.4107239
+        ],
+        [
+          8.530441,
+          47.4106802
+        ],
+        [
+          8.5304734,
+          47.4107629
+        ],
+        [
+          8.5302321,
+          47.4108063
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1052631331",
   "properties": {
     "construction:amenity": "social_facility",
@@ -31109,6 +31365,28 @@
     "coordinates": [
       8.4572924,
       47.4816604
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10881103027",
+  "properties": {
+    "amenity": "social_facility",
+    "capacity": "200",
+    "name": "Kurzzeitunterkunft St. Peter & Paul",
+    "operator": "AOZ",
+    "phone": "+41 79 967 51 94",
+    "social_facility": "group_home",
+    "social_facility:for": "migrant",
+    "website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/dz/Kurzzeitunterkunft_Peter_und_Paul.html",
+    "id": "node/10881103027"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5283638,
+      47.3718636
     ]
   }
 }
