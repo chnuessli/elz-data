@@ -43629,7 +43629,12 @@
     "addr:postcode": "8105",
     "addr:street": "Hönggerstrasse",
     "amenity": "kindergarten",
+    "check_date": "2023-05-10",
     "name": "Kindergarten Leimatt",
+    "name:de": "Kindergarten Leimatt",
+    "opening_hours": "08:30-12:00",
+    "phone": "+41 43 343 85 00",
+    "website": "https://ps-regensdorf.ch",
     "id": "node/9939346499"
   },
   "geometry": {

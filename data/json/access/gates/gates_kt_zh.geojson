@@ -2063,11 +2063,12 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
+    "description": "ausserhalb der Badesaison geöffnet",
     "foot": "yes",
     "height": "2",
     "locked": "yes",
     "material": "metal",
-    "opening_hours": "Mitte September - Mitte Mai (ausserhalb Badesaison)",
+    "opening_hours": "Sept 15-May 15",
     "wheelchair": "limited",
     "id": "way/1079030714"
   },
@@ -4472,11 +4473,12 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
+    "description": "ausserhalb der Badesaison geöffnet",
     "foot": "yes",
     "height": "2",
     "locked": "yes",
     "material": "metal",
-    "opening_hours": "Mitte September - Mitte Mai (ausserhalb Badesaison)",
+    "opening_hours": "opening_hours=Sep 15-May 15",
     "wheelchair": "limited",
     "id": "node/370787075"
   },
@@ -4494,11 +4496,12 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
+    "description": "ausserhalb der Badesaison geöffnet",
     "foot": "yes",
     "height": "2",
     "locked": "yes",
     "material": "metal",
-    "opening_hours": "Mitte September - Mitte Mai (ausserhalb Badesaison)",
+    "opening_hours": "Sep 15-May 15",
     "operator": "Camping - Strandbad - Restaurant Türlersee",
     "wheelchair": "limited",
     "id": "node/371209382"
@@ -7027,8 +7030,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5339511,
-      47.3630667
+      8.5339625,
+      47.3630733
     ]
   }
 },
@@ -35112,8 +35115,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5141794,
-      47.36352
+      8.5141846,
+      47.3634929
     ]
   }
 },
@@ -35127,8 +35130,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5169352,
-      47.3631007
+      8.5169342,
+      47.3631034
     ]
   }
 },
@@ -64053,8 +64056,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5382716,
-      47.366287
+      8.5382739,
+      47.3662841
     ]
   }
 },

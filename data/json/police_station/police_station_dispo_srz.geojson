@@ -764,8 +764,10 @@
     "alt_name": "KomPol Regensdorf",
     "amenity": "police",
     "building": "yes",
+    "check_date": "2023-05-10",
     "loc_name": "Gemeindepolizei Regensdorf",
     "name": "Polizeiposten Gemeindepolizei Regensdorf",
+    "opening_hours": "Mo 08:00-11:30,13:30-18:30; Tu-Th 08:00-11:30,13:30-16:00; Fr 07:00-15:00; Sa-Su off",
     "operator": "Stadt Regensdorf",
     "phone": "+41 44 842 36 00",
     "id": "way/169234018"
