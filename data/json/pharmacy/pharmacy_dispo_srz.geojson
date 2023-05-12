@@ -8008,6 +8008,22 @@
       47.506884
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10887032582",
+  "properties": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "id": "node/10887032582"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5892499,
+      47.263121
+    ]
+  }
 }
 ]
 }

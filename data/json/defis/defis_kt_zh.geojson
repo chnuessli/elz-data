@@ -29097,13 +29097,14 @@
     "opening_hours": "24/7",
     "operator": "Hornbach Affoltern am Albis",
     "phone": "+41442044970",
+    "wheelchair": "limited",
     "id": "node/9711337117"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4402592,
-      47.272415
+      8.4405365,
+      47.272512
     ]
   }
 },
@@ -48196,6 +48197,31 @@
     "coordinates": [
       8.4059059,
       47.2714683
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10888900505",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haupteingang innen rechts",
+    "description": "Während Öffnungszeiten verfügbar ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "MO-DO 07:00-17:00  FR 07:00-15:00",
+    "operator": "Firma",
+    "phone": "+41 43 204 30 50",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10888900505"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6567545,
+      47.3938645
     ]
   }
 }

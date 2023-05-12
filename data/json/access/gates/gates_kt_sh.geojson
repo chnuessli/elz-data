@@ -1382,14 +1382,19 @@
   "type": "Feature",
   "id": "node/5827444051",
   "properties": {
+    "access": "permissive",
     "barrier": "gate",
+    "foot": "yes",
+    "locked": "no",
+    "maxwidth": "1",
+    "vehicle": "no",
     "id": "node/5827444051"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.631143,
-      47.6934099
+      8.6311609,
+      47.6934082
     ]
   }
 },

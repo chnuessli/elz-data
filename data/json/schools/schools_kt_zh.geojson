@@ -53010,11 +53010,9 @@
     "addr:postcode": "8630",
     "addr:street": "Neuhusstrasse",
     "amenity": "school",
-    "amenity_1": "kindergarten",
     "building": "school",
+    "isced:level": "0;1",
     "name": "Schulhaus Lindenberg",
-    "school": "primary",
-    "school:CH": "primarschule",
     "toilets:wheelchair": "no",
     "wheelchair": "no",
     "id": "way/204444055"
@@ -72327,11 +72325,9 @@
     "addr:postcode": "8630",
     "addr:street": "Neuhusstrasse",
     "amenity": "school",
-    "amenity_1": "kindergarten",
     "building": "school",
+    "isced:level": "0;1",
     "name": "Schulhaus Lindenberg",
-    "school": "primary",
-    "school:CH": "primarschule",
     "toilets:wheelchair": "no",
     "wheelchair": "no",
     "id": "way/341868705"
@@ -80254,24 +80250,24 @@
     "coordinates": [
       [
         [
-          8.5806567,
-          47.5285851
+          8.5806574,
+          47.5285916
         ],
         [
-          8.580613,
-          47.5284565
+          8.5806137,
+          47.528463
         ],
         [
-          8.5807409,
-          47.5284367
+          8.580733,
+          47.5284446
         ],
         [
-          8.5807846,
-          47.5285653
+          8.5807766,
+          47.5285732
         ],
         [
-          8.5806567,
-          47.5285851
+          8.5806574,
+          47.5285916
         ]
       ]
     ]
