@@ -9218,7 +9218,7 @@
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "2",
-    "layer": "0",
+    "layer": "-1",
     "length": "3250",
     "lit": "24/7",
     "maxspeed": "100",

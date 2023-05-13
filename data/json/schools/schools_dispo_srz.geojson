@@ -109330,12 +109330,12 @@
           47.2736169
         ],
         [
-          8.9204913,
-          47.2734764
+          8.9204892,
+          47.2734524
         ],
         [
-          8.922761,
-          47.2739731
+          8.9227755,
+          47.2739569
         ],
         [
           8.9226961,
@@ -109378,8 +109378,8 @@
           47.2750462
         ],
         [
-          8.9207075,
-          47.2749082
+          8.9207245,
+          47.274915
         ],
         [
           8.9203687,
@@ -128108,6 +128108,30 @@
     "coordinates": [
       8.4861808,
       47.3850777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10889413946",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "102",
+    "addr:postcode": "8008",
+    "addr:street": "Balgriststrasse",
+    "amenity": "school",
+    "contact:phone": "+41 44 380 09 89",
+    "contact:website": "http://www.logartis.ch/",
+    "name": "Logartis",
+    "operator:type": "private",
+    "id": "node/10889413946"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5791482,
+      47.3534556
     ]
   }
 }

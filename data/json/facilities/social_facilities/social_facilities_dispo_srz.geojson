@@ -50636,6 +50636,7 @@
   "id": "node/7062967440",
   "properties": {
     "amenity": "social_facility",
+    "fixme": "resurvey: Gebäude im Umbau",
     "name": "Permed",
     "social_facility": "ambulatory_care",
     "website": "https://permed.ch",

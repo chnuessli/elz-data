@@ -5461,7 +5461,6 @@
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
-    "healthcare:speciality": "intensive;general;vaccination;maternity;physiatry;internal;community;radiology;paediatrics;dentistry;ophthalmology;orthopaedics;gynaecology;emergency;dialysis;biology;surgery;orthodontics;oncology;psychiatry;chiropractic;cardiology;dermatology;osteopathy",
     "name": "Luzerner Kantonsspital",
     "operator": "Luzerner Kantonsspital",
     "operator:type": "government",
@@ -51492,9 +51491,10 @@
     "addr:postcode": "1400",
     "amenity": "clinic",
     "email": "info@permanence-lac.ch",
+    "healthcare": "clinic",
     "name": "Permanence rue du Lac",
     "opening_hours": "Mo-Fr 06:00-18:00; Sa 08:00-14:00",
-    "phone": "024 566 70 60",
+    "phone": "+41 24 566 70 60",
     "website": "https://www.permanence-lac.ch/",
     "id": "node/9549563917"
   },
@@ -52513,6 +52513,27 @@
     "coordinates": [
       8.7672896,
       47.3357416
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10889189145",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general;dermatology;gynaecology",
+    "name": "allcare Zentrum Altstetten",
+    "opening_hours": "Mo-Fr 08:00-17:30",
+    "operator": "allcare group",
+    "phone": "+41 43 311 20 20",
+    "id": "node/10889189145"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4966929,
+      47.3876118
     ]
   }
 }

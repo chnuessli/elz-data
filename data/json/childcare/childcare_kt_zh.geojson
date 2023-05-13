@@ -1236,54 +1236,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/121065623",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "155",
-    "addr:postcode": "8032",
-    "addr:street": "Forchstrasse",
-    "amenity": "childcare",
-    "building": "yes",
-    "name": "Rachel's Kinderkrippe",
-    "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
-    "website": "http://www.rachelskinderkrippe.ch/",
-    "id": "way/121065623"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5645716,
-          47.3605864
-        ],
-        [
-          8.5645656,
-          47.3605547
-        ],
-        [
-          8.56455,
-          47.3604727
-        ],
-        [
-          8.5646552,
-          47.3604635
-        ],
-        [
-          8.5646768,
-          47.3605772
-        ],
-        [
-          8.5645716,
-          47.3605864
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/122455986",
   "properties": {
     "addr:housenumber": "28",
@@ -11746,6 +11698,28 @@
     "coordinates": [
       8.6539655,
       47.2331754
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10889076247",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "155",
+    "addr:postcode": "8032",
+    "addr:street": "Forchstrasse",
+    "amenity": "childcare",
+    "name": "Rachel's Kinderkrippe",
+    "website": "https://www.rachelskinderkrippe.ch/",
+    "id": "node/10889076247"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5646056,
+      47.360493
     ]
   }
 }

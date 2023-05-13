@@ -11519,6 +11519,27 @@
       47.3357416
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10889189145",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general;dermatology;gynaecology",
+    "name": "allcare Zentrum Altstetten",
+    "opening_hours": "Mo-Fr 08:00-17:30",
+    "operator": "allcare group",
+    "phone": "+41 43 311 20 20",
+    "id": "node/10889189145"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4966929,
+      47.3876118
+    ]
+  }
 }
 ]
 }
