@@ -23135,11 +23135,16 @@
   "type": "Feature",
   "id": "way/243668226",
   "properties": {
+    "addr:city": "Zürich",
     "addr:housenumber": "52",
+    "addr:postcode": "8047",
     "addr:street": "Wydäckerring",
+    "alt_name": "Krippe Bambi",
     "amenity": "kindergarten",
     "building": "yes",
-    "name": "Krippe Bambi",
+    "name": "Kinderkrippe Bambi",
+    "phone": "+41 44 431 13 65",
+    "website": "https://www.kinderkrippe-bambi.ch",
     "id": "way/243668226"
   },
   "geometry": {
@@ -41758,7 +41763,9 @@
   "id": "node/5775184590",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2023-05-13",
     "name": "Krippe Krümel",
+    "wheelchair": "no",
     "id": "node/5775184590"
   },
   "geometry": {

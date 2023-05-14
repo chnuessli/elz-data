@@ -49382,6 +49382,7 @@
     "addr:postcode": "8050",
     "addr:street": "Birchstrasse",
     "amenity": "social_facility",
+    "check_date": "2023-05-13",
     "email": "nordlicht@senevita.ch",
     "name": "Senevita Residenz Nordlicht",
     "operator": "Senevita",
@@ -49389,6 +49390,7 @@
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "website": "https://www.senevita.ch/de/standorte/nordlicht/",
+    "wheelchair": "yes",
     "id": "node/5380840504"
   },
   "geometry": {

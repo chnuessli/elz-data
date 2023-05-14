@@ -3541,7 +3541,9 @@
     "addr:postcode": "8050",
     "addr:street": "Max-Bill-Platz",
     "amenity": "childcare",
-    "name": "Allegra",
+    "check_date": "2023-05-13",
+    "name": "Allegra Kinderhäuser",
+    "wheelchair": "yes",
     "id": "node/482762658"
   },
   "geometry": {
