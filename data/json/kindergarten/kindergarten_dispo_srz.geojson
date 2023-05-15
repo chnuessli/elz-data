@@ -15438,7 +15438,8 @@
   "id": "way/155992440",
   "properties": {
     "amenity": "kindergarten",
-    "building": "kindergarten Staffelacker",
+    "building": "kindergarten",
+    "name": "Staffelacker",
     "id": "way/155992440"
   },
   "geometry": {
