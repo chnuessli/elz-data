@@ -128,6 +128,7 @@
     "dispensing": "yes",
     "drive_through": "no",
     "name": "Apotheke Altorfer",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00",
     "source": "bing",
     "website": "https://www.apotheke-altorfer.ch/",
     "id": "way/245897689"
@@ -3337,6 +3338,24 @@
     "coordinates": [
       8.7308307,
       47.4999809
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1584012924",
+  "properties": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "APODRO Drogerie",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
+    "id": "node/1584012924"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8497374,
+      47.25774
     ]
   }
 },

@@ -19240,6 +19240,7 @@
     "addr:street": "Im Spilhöfler",
     "amenity": "social_facility",
     "building": "yes",
+    "name": "Pflegezentrum Spilhöfler",
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "id": "way/155871695"
@@ -25376,7 +25377,7 @@
     "addr:housenumber": "16",
     "addr:postcode": "8636",
     "addr:street": "Sanatoriumstrasse",
-    "alt_name": "Stiftung Wabe Wald; Behindertenzentrum Wald",
+    "alt_name": "Stiftung Wabe Wald;Behindertenzentrum Wald",
     "amenity": "social_facility",
     "building": "yes",
     "email": "info@wabe.ch",
@@ -25393,32 +25394,76 @@
     "coordinates": [
       [
         [
-          8.9172251,
-          47.2771575
+          8.9172157,
+          47.2771655
         ],
         [
-          8.9170585,
-          47.2771559
+          8.9170665,
+          47.2771661
         ],
         [
-          8.917064,
-          47.2768917
+          8.9170668,
+          47.2768802
         ],
         [
-          8.9175701,
-          47.2768966
+          8.9172177,
+          47.2768821
         ],
         [
-          8.9175681,
-          47.2769928
+          8.917217,
+          47.2768995
         ],
         [
-          8.9172287,
+          8.9172978,
+          47.2769
+        ],
+        [
+          8.9172977,
+          47.2768831
+        ],
+        [
+          8.9175814,
+          47.2768868
+        ],
+        [
+          8.9175641,
           47.2769895
         ],
         [
-          8.9172251,
-          47.2771575
+          8.9174844,
+          47.2769907
+        ],
+        [
+          8.9174022,
+          47.2769902
+        ],
+        [
+          8.9172975,
+          47.2769896
+        ],
+        [
+          8.9172972,
+          47.2769711
+        ],
+        [
+          8.9172169,
+          47.2769703
+        ],
+        [
+          8.9172168,
+          47.2769851
+        ],
+        [
+          8.9172353,
+          47.2769962
+        ],
+        [
+          8.9172167,
+          47.2770086
+        ],
+        [
+          8.9172157,
+          47.2771655
         ]
       ]
     ]
@@ -35044,6 +35089,67 @@
 },
 {
   "type": "Feature",
+  "id": "way/436942468",
+  "properties": {
+    "addr:city": "Elsau",
+    "addr:housenumber": "3",
+    "addr:postcode": "8352",
+    "addr:street": "Im Halbiacker",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@eulachtal.ch",
+    "name": "Pflege Eulachtal - Staub Kaiser Haus",
+    "phone": "+41 52 368 51 11",
+    "social_facility": "nursing_home",
+    "website": "https://www.eulachtal.ch/angebote/lebensraeume-im-alter/staubkaiserhaus/",
+    "id": "way/436942468"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7835243,
+          47.5023118
+        ],
+        [
+          8.7834239,
+          47.5021846
+        ],
+        [
+          8.7837103,
+          47.5020817
+        ],
+        [
+          8.7836621,
+          47.50202
+        ],
+        [
+          8.7838335,
+          47.5019595
+        ],
+        [
+          8.7839874,
+          47.502159
+        ],
+        [
+          8.783818,
+          47.5022191
+        ],
+        [
+          8.7838103,
+          47.5022097
+        ],
+        [
+          8.7835243,
+          47.5023118
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/444377023",
   "properties": {
     "amenity": "social_facility",
@@ -38408,62 +38514,6 @@
         [
           8.4629302,
           47.0994581
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/639659597",
-  "properties": {
-    "addr:housenumber": "6",
-    "addr:street": "Molkenstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "email": "whz.info@heilsarmee.ch",
-    "name": "Heilsarmee Wohnen und Begleiten",
-    "operator": "Heilsarmee Wohnen und Begleiten Zürich",
-    "phone": "+41 44 298 90 00",
-    "social_facility": "assisted_living",
-    "website": "https://meinplatz.ch/de/standorte/wohnheim-molkenstrasse-6",
-    "id": "way/639659597"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5277475,
-          47.3764717
-        ],
-        [
-          8.5276362,
-          47.3765434
-        ],
-        [
-          8.5276287,
-          47.3765485
-        ],
-        [
-          8.527615,
-          47.3765374
-        ],
-        [
-          8.5275038,
-          47.376597
-        ],
-        [
-          8.5274211,
-          47.3765216
-        ],
-        [
-          8.5276547,
-          47.3764098
-        ],
-        [
-          8.5277475,
-          47.3764717
         ]
       ]
     ]
@@ -54535,6 +54585,29 @@
     "coordinates": [
       8.5283638,
       47.3718636
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10900421299",
+  "properties": {
+    "addr:housenumber": "6",
+    "addr:street": "Molkenstrasse",
+    "amenity": "social_facility",
+    "email": "whz.info@heilsarmee.ch",
+    "name": "Heilsarmee Wohnen und Begleiten",
+    "operator": "Heilsarmee Wohnen und Begleiten Zürich",
+    "phone": "+41 44 298 90 00",
+    "social_facility": "assisted_living",
+    "website": "https://meinplatz.ch/de/standorte/wohnheim-molkenstrasse-6",
+    "id": "node/10900421299"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5275811,
+      47.3765071
     ]
   }
 }

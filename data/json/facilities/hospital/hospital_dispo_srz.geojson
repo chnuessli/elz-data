@@ -11232,12 +11232,9 @@
   "id": "node/9767828227",
   "properties": {
     "amenity": "clinic",
-    "email": "info@handclinic.ch",
     "healthcare": "clinic",
-    "healthcare:speciality": "hand_surgery",
-    "name": "handclinic AG Rüti",
-    "phone": "+41 55 251 23 23",
-    "website": "http://www.handclinic.ch/",
+    "name": "Praxis am Bahnhof",
+    "opening_hours": "PH,Mo-Su 08:00-20:00",
     "id": "node/9767828227"
   },
   "geometry": {

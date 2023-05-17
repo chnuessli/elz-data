@@ -11495,6 +11495,7 @@
     "addr:street": "Im Spilhöfler",
     "amenity": "social_facility",
     "building": "yes",
+    "name": "Pflegezentrum Spilhöfler",
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "id": "way/155871695"
@@ -17454,6 +17455,67 @@
         [
           8.7208488,
           47.2706262
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/436942468",
+  "properties": {
+    "addr:city": "Elsau",
+    "addr:housenumber": "3",
+    "addr:postcode": "8352",
+    "addr:street": "Im Halbiacker",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@eulachtal.ch",
+    "name": "Pflege Eulachtal - Staub Kaiser Haus",
+    "phone": "+41 52 368 51 11",
+    "social_facility": "nursing_home",
+    "website": "https://www.eulachtal.ch/angebote/lebensraeume-im-alter/staubkaiserhaus/",
+    "id": "way/436942468"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7835243,
+          47.5023118
+        ],
+        [
+          8.7834239,
+          47.5021846
+        ],
+        [
+          8.7837103,
+          47.5020817
+        ],
+        [
+          8.7836621,
+          47.50202
+        ],
+        [
+          8.7838335,
+          47.5019595
+        ],
+        [
+          8.7839874,
+          47.502159
+        ],
+        [
+          8.783818,
+          47.5022191
+        ],
+        [
+          8.7838103,
+          47.5022097
+        ],
+        [
+          8.7835243,
+          47.5023118
         ]
       ]
     ]

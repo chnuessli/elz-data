@@ -13,7 +13,6 @@
     "amenity": "police",
     "building": "boathouse",
     "description": "Städtische Seepolizei und Gewässerschutz",
-    "disused:amenity": "police",
     "name": "Wache Wasserschutzpolizei",
     "opening_hours": "24/7",
     "operator": "Stadtpolizei Zürich",
