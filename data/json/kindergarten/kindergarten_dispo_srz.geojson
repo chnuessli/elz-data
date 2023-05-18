@@ -37206,6 +37206,52 @@
 },
 {
   "type": "Feature",
+  "id": "way/1173795294",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Trasadingen",
+    "preschool": "yes",
+    "website": "https://wilchingen.ch/schule",
+    "id": "way/1173795294"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4287625,
+          47.6678193
+        ],
+        [
+          8.4290162,
+          47.6677613
+        ],
+        [
+          8.4292275,
+          47.6681874
+        ],
+        [
+          8.4290312,
+          47.6682477
+        ],
+        [
+          8.4289611,
+          47.6681309
+        ],
+        [
+          8.4289072,
+          47.6681433
+        ],
+        [
+          8.4287625,
+          47.6678193
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",

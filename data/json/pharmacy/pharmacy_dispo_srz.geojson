@@ -3908,12 +3908,15 @@
     "addr:street": "Wehntalerstrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date": "2023-05-17",
     "dispensing": "yes",
     "drive_through": "no",
     "name": "Apotheke Affoltern",
-    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-14:30",
+    "name:de": "Apotheke Affoltern",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
     "phone": "+41 44 371 25 33",
     "website": "http://www.apothekeaffoltern.ch/",
+    "wheelchair": "yes",
     "id": "node/1687796033"
   },
   "geometry": {

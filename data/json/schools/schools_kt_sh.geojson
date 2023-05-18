@@ -5478,6 +5478,7 @@
   "properties": {
     "addr:city": "Schaffhausen",
     "addr:housenumber": "280",
+    "addr:postcode": "8200",
     "addr:street": "Mühlentalstrasse",
     "amenity": "school",
     "building": "school",
