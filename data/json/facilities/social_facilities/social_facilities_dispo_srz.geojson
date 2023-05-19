@@ -50704,36 +50704,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7066476587",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "101",
-    "addr:postcode": "8003",
-    "addr:street": "Letzigraben",
-    "amenity": "social_facility",
-    "brand": "Madame Frigo",
-    "contact:email": "Hubertus@buchmannbeck.ch",
-    "mapillary": "169325731686959",
-    "name": "Öffentlicher Kühlschrank Hubertus",
-    "opening_hours": "24/7",
-    "operator": "André",
-    "social_facility": "food_bank",
-    "source": "local knowledge;website",
-    "website": "https://www.madamefrigo.ch/de/standorte/",
-    "wheelchair": "yes",
-    "id": "node/7066476587"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4988884,
-      47.3777199
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7080686562",
   "properties": {
     "addr:city": "Zürich",
