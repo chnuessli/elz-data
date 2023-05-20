@@ -21823,6 +21823,7 @@
   "id": "way/1144645873",
   "properties": {
     "amenity": "social_facility",
+    "name": "Alterszentrum Bürgerasyl-Pfrundhaus",
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "id": "way/1144645873"
