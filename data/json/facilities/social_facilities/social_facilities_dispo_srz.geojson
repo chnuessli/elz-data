@@ -50609,6 +50609,7 @@
   "id": "node/6942909323",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2023-05-20",
     "name": "Jugendtreff Hirtschür",
     "social_facility": "outreach",
     "social_facility:for": "juvenile",

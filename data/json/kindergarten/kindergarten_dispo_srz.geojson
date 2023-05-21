@@ -31060,6 +31060,7 @@
   "id": "way/598060526",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2023-05-20",
     "name": "Kindergarten Haupel",
     "id": "way/598060526"
   },
@@ -31306,6 +31307,7 @@
   "id": "way/650756549",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2023-05-20",
     "name": "Kindergarten Tägerstein",
     "id": "way/650756549"
   },
@@ -31441,6 +31443,7 @@
   "id": "way/650757969",
   "properties": {
     "amenity": "kindergarten",
+    "name": "Kindergarten Breiten",
     "id": "way/650757969"
   },
   "geometry": {
@@ -38265,6 +38268,7 @@
   "id": "node/1558016251",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2023-05-20",
     "name": "Kindergarten Gottfried Semper",
     "id": "node/1558016251"
   },
