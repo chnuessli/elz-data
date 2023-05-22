@@ -1127,6 +1127,7 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Merzenbrunnen",
+    "roof:shape": "pyramidal",
     "id": "way/195651048"
   },
   "geometry": {

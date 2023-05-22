@@ -36915,6 +36915,7 @@
   "id": "node/6061461130",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2023-05-22",
     "name": "Kindergarten Mettlen",
     "wheelchair": "no",
     "id": "node/6061461130"

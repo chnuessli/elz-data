@@ -7461,8 +7461,9 @@
   "id": "node/685462944",
   "properties": {
     "barrier": "lift_gate",
-    "bicycle": "no",
-    "foot": "no",
+    "bicycle": "unknown",
+    "foot": "unknown",
+    "horse": "unknown",
     "id": "node/685462944"
   },
   "geometry": {
@@ -7606,8 +7607,9 @@
   "id": "node/702479602",
   "properties": {
     "barrier": "lift_gate",
-    "bicycle": "no",
-    "foot": "no",
+    "bicycle": "unknown",
+    "foot": "unknown",
+    "horse": "unknown",
     "id": "node/702479602"
   },
   "geometry": {

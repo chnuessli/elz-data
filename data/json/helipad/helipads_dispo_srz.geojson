@@ -7,6 +7,7 @@
   "properties": {
     "aeroway": "helipad",
     "lit": "yes",
+    "maxweight": "5",
     "name": "Dachlandeplatz Triemli",
     "start_date": "2017-07-12",
     "id": "way/23454704"
@@ -1927,7 +1928,6 @@
   "id": "way/1018745493",
   "properties": {
     "aeroway": "helipad",
-    "emergency": "landing_site",
     "name": "Spital Schwyz",
     "id": "way/1018745493"
   },
@@ -1936,24 +1936,24 @@
     "coordinates": [
       [
         [
-          8.6595184,
-          47.0154696
+          8.6595089,
+          47.0154686
         ],
         [
-          8.6595224,
-          47.0153663
+          8.6595113,
+          47.0153552
         ],
         [
-          8.6596713,
-          47.015369
+          8.6596756,
+          47.0153585
         ],
         [
-          8.6596672,
-          47.0154723
+          8.6596718,
+          47.0154713
         ],
         [
-          8.6595184,
-          47.0154696
+          8.6595089,
+          47.0154686
         ]
       ]
     ]
@@ -2079,6 +2079,8 @@
   "id": "way/1142051093",
   "properties": {
     "aeroway": "helipad",
+    "maxweight": "5",
+    "name": "WINTERTHUR",
     "operator": "Kantonsspital Winterthur",
     "website": "http://www.ksw.ch",
     "id": "way/1142051093"
@@ -2152,7 +2154,8 @@
   "id": "way/1142380660",
   "properties": {
     "aeroway": "helipad",
-    "name": "Limmattalspital",
+    "maxweight": "5",
+    "name": "LIMMAT",
     "id": "way/1142380660"
   },
   "geometry": {
