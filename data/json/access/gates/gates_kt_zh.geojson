@@ -4478,7 +4478,7 @@
     "height": "2",
     "locked": "yes",
     "material": "metal",
-    "opening_hours": "opening_hours=Sep 15-May 15",
+    "opening_hours": "Sep 15-May 15",
     "wheelchair": "limited",
     "id": "node/370787075"
   },
@@ -16630,21 +16630,6 @@
     "coordinates": [
       8.7227465,
       47.4761568
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2055471171",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/2055471171"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7258748,
-      47.4776504
     ]
   }
 },
@@ -34031,8 +34016,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.726171,
-      47.4777191
+      8.7262316,
+      47.4776746
     ]
   }
 },
@@ -39493,8 +39478,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5267527,
-      47.3429645
+      8.5267624,
+      47.342968
     ]
   }
 },

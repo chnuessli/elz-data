@@ -36695,6 +36695,70 @@
 },
 {
   "type": "Feature",
+  "id": "way/1009276105",
+  "properties": {
+    "addr:city": "Affoltern am Albis",
+    "addr:housenumber": "12",
+    "addr:postcode": "8910",
+    "addr:street": "Obere Seewadelstrasse",
+    "alt_name": "Alterszentrum Seewadel",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "seewadel@stadtaffoltern.ch",
+    "name": "Seewadel - Zentrum für Gesundheit und Alter",
+    "operator": "Gemeinde Affoltern",
+    "phone": "+41 43 322 74 74",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
+    "website": "https://www.seewadel.info",
+    "id": "way/1009276105"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4461215,
+          47.2778738
+        ],
+        [
+          8.4462966,
+          47.277833
+        ],
+        [
+          8.446473,
+          47.2778162
+        ],
+        [
+          8.4465099,
+          47.2779967
+        ],
+        [
+          8.4465986,
+          47.278177
+        ],
+        [
+          8.4464254,
+          47.2782175
+        ],
+        [
+          8.4462466,
+          47.2782337
+        ],
+        [
+          8.4462111,
+          47.2780525
+        ],
+        [
+          8.4461215,
+          47.2778738
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1042920958",
   "properties": {
     "addr:city": "Grüningen",
@@ -44981,6 +45045,7 @@
     "addr:postcode": "8004",
     "addr:street": "Langstrasse",
     "amenity": "social_facility",
+    "check_date": "2023-05-23",
     "level": "0",
     "name": "Flora Dora",
     "opening_hours": "Mo-Tu,Th-Fr 15:00-18:00",
