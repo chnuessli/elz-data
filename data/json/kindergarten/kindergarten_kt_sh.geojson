@@ -753,6 +753,7 @@
     "addr:street": "Brunnenwiesenstrasse",
     "amenity": "kindergarten",
     "building": "residential",
+    "check_date": "2023-05-24",
     "name": "Kindergarten Rhenania",
     "id": "way/174010997"
   },

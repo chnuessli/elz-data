@@ -71227,6 +71227,32 @@
 },
 {
   "type": "Feature",
+  "id": "node/9213980206",
+  "properties": {
+    "access": "permit",
+    "barrier": "lift_gate",
+    "bicycle": "yes",
+    "bollard": "rising",
+    "foot": "yes",
+    "horse": "yes",
+    "lift_gate:type": "single",
+    "locked": "yes",
+    "maxwidth": "1.0",
+    "motor_vehicle": "permit",
+    "vehicle": "permit",
+    "wheelchair": "yes",
+    "id": "node/9213980206"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6297477,
+      47.7025374
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9227688480",
   "properties": {
     "barrier": "gate",

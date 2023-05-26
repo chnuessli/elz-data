@@ -9601,6 +9601,7 @@
     "oneway": "no",
     "ref": "A4;E41",
     "source:maxspeed": "sign",
+    "start_date": "1992",
     "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes",
