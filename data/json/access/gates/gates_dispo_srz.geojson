@@ -215,6 +215,10 @@
           47.7458073
         ],
         [
+          8.6971738,
+          47.7457881
+        ],
+        [
           8.6971903,
           47.7456503
         ],
@@ -34777,7 +34781,7 @@
   "properties": {
     "barrier": "gate",
     "name": "KBA Hard",
-    "opening_hours": "Mo-Fr 07:15-11:45,13:15-16:45; Sa 09:00-12:00",
+    "opening_hours": "Mo-Fr 07:15-11:45,13:00-17:00; Sa 09:00-12:00; PH,Su off",
     "id": "node/3287957294"
   },
   "geometry": {
@@ -44265,8 +44269,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5027884,
-      47.3570335
+      8.5027958,
+      47.357032
     ]
   }
 },
@@ -44541,8 +44545,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5028617,
-      47.3575124
+      8.5028715,
+      47.3575126
     ]
   }
 },
@@ -82517,6 +82521,37 @@
     "coordinates": [
       8.6164576,
       47.3440779
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10929276211",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/10929276211"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5058981,
+      47.3605203
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10929338297",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "id": "node/10929338297"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5099389,
+      47.3636052
     ]
   }
 }
