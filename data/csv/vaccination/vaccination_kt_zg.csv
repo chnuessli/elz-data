@@ -1,2 +1,1 @@
 type,features
-FeatureCollection,"{'type': 'Feature', 'id': 'node/8310439885', 'properties': {'alt_name': 'COVID-19 Impfzentrum Zug', 'healthcare': 'centre', 'healthcare:speciality': 'vaccination', 'name': 'Impfzentrum Baar', 'operator': 'Kantonsspital Zug, Hirslanden Cham', 'vaccination': 'covid19', 'website': 'https://www.corona-impfung-zug.ch/', 'id': 'node/8310439885'}, 'geometry': {'type': 'Point', 'coordinates': [8.5372757, 47.196268]}}"
