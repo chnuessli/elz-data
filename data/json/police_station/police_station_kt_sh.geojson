@@ -10,6 +10,7 @@
     "addr:postcode": "8200",
     "addr:street": "Beckenstube",
     "amenity": "police",
+    "building": "yes",
     "email": "info@shpol.ch",
     "fax": "+41 52 624 50 70",
     "name": "Polizeistation Schaffhausen",

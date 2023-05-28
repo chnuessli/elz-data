@@ -5056,6 +5056,7 @@
     "overtaking": "no",
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/25365626"
   },
@@ -6131,8 +6132,10 @@
     "lanes": "2",
     "layer": "1",
     "maxspeed": "100",
+    "maxweight:signed": "no",
     "motorroad": "yes",
     "ref": "H4",
+    "surface": "asphalt",
     "toll": "no",
     "id": "way/40716886"
   },
@@ -6159,6 +6162,7 @@
     "maxspeed": "100",
     "motorroad": "yes",
     "ref": "H4",
+    "surface": "asphalt",
     "toll": "no",
     "id": "way/40716887"
   },
@@ -8918,8 +8922,10 @@
     "lanes": "2",
     "layer": "1",
     "maxspeed": "100",
+    "maxweight:signed": "no",
     "motorroad": "yes",
     "ref": "H4",
+    "surface": "asphalt",
     "toll": "no",
     "id": "way/113689457"
   },
@@ -8946,6 +8952,7 @@
     "maxspeed": "100",
     "motorroad": "yes",
     "ref": "H4",
+    "surface": "asphalt",
     "toll": "no",
     "id": "way/113689484"
   },
@@ -9496,6 +9503,7 @@
     "layer": "1",
     "lit": "yes",
     "maxspeed": "80",
+    "maxweight:signed": "no",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
@@ -10483,6 +10491,7 @@
     "overtaking": "no",
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "|merge_to_left",
     "id": "way/179146675"
@@ -10601,7 +10610,7 @@
     "maxspeed:forward": "100",
     "motorroad": "yes",
     "ref": "H4",
-    "surface": "paved",
+    "surface": "asphalt",
     "toll": "no",
     "id": "way/179146684"
   },
@@ -10662,6 +10671,7 @@
     "maxspeed": "100",
     "motorroad": "yes",
     "ref": "H4",
+    "surface": "asphalt",
     "toll": "no",
     "turn:lanes:backward": "none|slight_right",
     "id": "way/179146687"
@@ -10689,6 +10699,7 @@
     "maxspeed": "100",
     "motorroad": "yes",
     "ref": "H4",
+    "surface": "asphalt",
     "toll": "no",
     "id": "way/179146688"
   },
@@ -10994,6 +11005,7 @@
     "maxspeed": "100",
     "motorroad": "yes",
     "ref": "H4",
+    "surface": "asphalt",
     "toll": "no",
     "id": "way/179146693"
   },
@@ -11034,6 +11046,7 @@
     "maxspeed": "100",
     "motorroad": "yes",
     "ref": "H4",
+    "surface": "asphalt",
     "toll": "no",
     "id": "way/179146696"
   },
@@ -12224,6 +12237,7 @@
     "oneway": "yes",
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/201750651"
   },
@@ -12362,7 +12376,7 @@
     "maxspeed": "100",
     "motorroad": "yes",
     "ref": "H4",
-    "surface": "paved",
+    "surface": "asphalt",
     "toll": "no",
     "id": "way/216656138"
   },
@@ -18131,7 +18145,7 @@
     "maxspeed": "100",
     "motorroad": "yes",
     "ref": "H4",
-    "surface": "paved",
+    "surface": "asphalt",
     "toll": "no",
     "id": "way/426671174"
   },
@@ -20839,6 +20853,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign",
     "start_date": "1996",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes",
     "tunnel:name": "Fäsenstaubtunnel",
@@ -21938,6 +21953,7 @@
     "layer": "1",
     "lit": "yes",
     "maxspeed": "60",
+    "maxweight:signed": "no",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
@@ -22214,6 +22230,7 @@
     "overtaking": "no",
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "|slight_right",
     "id": "way/884095853"
@@ -22254,6 +22271,7 @@
     "overtaking": "no",
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/884095854"
   },
@@ -22343,6 +22361,7 @@
     "layer": "1",
     "lit": "yes",
     "maxspeed": "60",
+    "maxweight:signed": "no",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
@@ -23646,6 +23665,7 @@
     "motorroad": "yes",
     "placement": "right_of:1",
     "ref": "H4",
+    "surface": "asphalt",
     "toll": "no",
     "turn:lanes:forward": "none|slight_right",
     "id": "way/1000333532"
@@ -23675,6 +23695,7 @@
     "maxspeed": "100",
     "motorroad": "yes",
     "ref": "H4",
+    "surface": "asphalt",
     "toll": "no",
     "turn:lanes:forward": "none|merge_to_left",
     "id": "way/1000333534"
@@ -23705,6 +23726,7 @@
     "maxspeed": "100",
     "motorroad": "yes",
     "ref": "H4",
+    "surface": "asphalt",
     "toll": "no",
     "turn:lanes:backward": "none|slight_right",
     "turn:lanes:forward": "none|merge_to_left",
@@ -23736,7 +23758,7 @@
     "motorroad": "yes",
     "placement": "right_of:2",
     "ref": "H4",
-    "surface": "paved",
+    "surface": "asphalt",
     "toll": "no",
     "turn:lanes:backward": "none|merge_to_left",
     "id": "way/1000333541"
