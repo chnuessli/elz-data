@@ -44106,6 +44106,7 @@
   "id": "node/10029310685",
   "properties": {
     "amenity": "kindergarten",
+    "level": "1",
     "name": "Kindergarten Gujer",
     "id": "node/10029310685"
   },

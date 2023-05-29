@@ -6788,8 +6788,9 @@
   "type": "Feature",
   "id": "way/17050905",
   "properties": {
+    "destination:lanes": "Zürich City|Zürich City;Brunau;Basel;Bern;Luzern;Westring Zürich;Flughafen|Basel;Bern;Luzern;Westring Zürich;Flughafen",
     "highway": "motorway",
-    "lanes": "2",
+    "lanes": "3",
     "lit": "yes",
     "maxheight": "default",
     "maxspeed": "100",
@@ -6802,28 +6803,16 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5228919,
-        47.3373127
+        8.5229218,
+        47.3373214
       ],
       [
-        8.5227909,
-        47.3376485
+        8.5228358,
+        47.3376601
       ],
       [
-        8.5227178,
-        47.3379831
-      ],
-      [
-        8.5226205,
-        47.33865
-      ],
-      [
-        8.5224635,
-        47.3398112
-      ],
-      [
-        8.5223942,
-        47.3401764
+        8.5227221,
+        47.3382567
       ]
     ]
   }
@@ -18393,6 +18382,8 @@
   "type": "Feature",
   "id": "way/30155954",
   "properties": {
+    "destination": "Basel;Bern;Luzern;Westring Zürich;Flughafen",
+    "destination:symbol": "airport",
     "highway": "motorway",
     "lanes": "2",
     "lit": "yes",
@@ -18407,8 +18398,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5227362,
-        47.3384231
+        8.5226415,
+        47.3392078
       ],
       [
         8.5226371,
@@ -22475,9 +22466,9 @@
   "type": "Feature",
   "id": "way/38698218",
   "properties": {
-    "destination": "Zürich City",
+    "destination:lanes": "Zürich City|Zürich City;Brunau;Basel;Bern;Luzern;Westring Zürich;Flughafen|Basel;Bern;Luzern;Westring Zürich;Flughafen",
     "highway": "motorway",
-    "lanes": "2",
+    "lanes": "3",
     "layer": "-1",
     "lit": "yes",
     "maxheight": "default",
@@ -22513,8 +22504,8 @@
         47.3367323
       ],
       [
-        8.5228919,
-        47.3373127
+        8.5229218,
+        47.3373214
       ]
     ]
   }
@@ -32971,7 +32962,7 @@
     "lanes": "3",
     "layer": "1",
     "lit": "yes",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3",
     "smoothness": "excellent",
@@ -32990,10 +32981,6 @@
       [
         8.516587,
         47.3442634
-      ],
-      [
-        8.5159654,
-        47.3442841
       ]
     ]
   }
@@ -33125,55 +33112,6 @@
       [
         8.461023,
         47.344493
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/137477240",
-  "properties": {
-    "destination": "Basel;Bern;Luzern;Westring Zürich;Flughafen",
-    "destination:symbol": "airport",
-    "highway": "motorway",
-    "lanes": "1",
-    "layer": "-1",
-    "lit": "yes",
-    "maxheight": "default",
-    "maxspeed": "100",
-    "oneway": "yes",
-    "ref": "A3",
-    "toll": "yes",
-    "tunnel": "yes",
-    "tunnel:name": "Entlisbergtunnel",
-    "id": "way/137477240"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.5240181,
-        47.3351288
-      ],
-      [
-        8.5237359,
-        47.3356468
-      ],
-      [
-        8.5234539,
-        47.3361732
-      ],
-      [
-        8.5232985,
-        47.3364615
-      ],
-      [
-        8.523171,
-        47.3367436
-      ],
-      [
-        8.5229647,
-        47.3373243
       ]
     ]
   }
@@ -56781,41 +56719,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/537948556",
-  "properties": {
-    "highway": "motorway",
-    "lanes": "1",
-    "lit": "yes",
-    "maxspeed": "80",
-    "oneway": "yes",
-    "ref": "A3",
-    "toll": "yes",
-    "id": "way/537948556"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.5229647,
-        47.3373243
-      ],
-      [
-        8.5228693,
-        47.3376653
-      ],
-      [
-        8.5227939,
-        47.3379873
-      ],
-      [
-        8.5227362,
-        47.3384231
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/537948557",
   "properties": {
     "highway": "motorway",
@@ -70545,6 +70448,159 @@
       [
         8.5704642,
         47.4504177
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1177023264",
+  "properties": {
+    "destination:lanes": "Zürich City|Zürich City;Brunau;Basel;Bern;Luzern;Westring Zürich;Flughafen|Basel;Bern;Luzern;Westring Zürich;Flughafen",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A3W",
+    "toll": "yes",
+    "id": "way/1177023264"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5227221,
+        47.3382567
+      ],
+      [
+        8.522629,
+        47.3388556
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1177023265",
+  "properties": {
+    "destination": "Zürich City",
+    "highway": "motorway",
+    "lanes": "2",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "80",
+    "oneway": "yes",
+    "ref": "A3W",
+    "toll": "yes",
+    "id": "way/1177023265"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5225625,
+        47.3392006
+      ],
+      [
+        8.5224635,
+        47.3398112
+      ],
+      [
+        8.5223942,
+        47.3401764
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1177023504",
+  "properties": {
+    "destination": "Zürich City",
+    "highway": "motorway",
+    "lanes": "2",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A3W",
+    "toll": "yes",
+    "id": "way/1177023504"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.522629,
+        47.3388556
+      ],
+      [
+        8.5225625,
+        47.3392006
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1177023505",
+  "properties": {
+    "destination": "Basel;Bern;Luzern;Westring Zürich;Flughafen",
+    "destination:symbol": "airport",
+    "highway": "motorway",
+    "lanes": "2",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A3",
+    "toll": "yes",
+    "id": "way/1177023505"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.522629,
+        47.3388556
+      ],
+      [
+        8.5226415,
+        47.3392078
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1177026548",
+  "properties": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "lanes": "3",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A3",
+    "smoothness": "excellent",
+    "source": "Kanton Zürich Orthophotos 2014/2015 10cm",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1177026548"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.516587,
+        47.3442634
+      ],
+      [
+        8.5159654,
+        47.3442841
       ]
     ]
   }

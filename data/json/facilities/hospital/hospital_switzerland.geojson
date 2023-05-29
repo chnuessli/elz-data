@@ -41236,6 +41236,7 @@
     "addr:street": "Spitalstrasse",
     "amenity": "hospital",
     "emergency": "yes",
+    "healthcare": "hospital",
     "name": "Spital Laufenburg",
     "operator": "Gesundheitszentrum Fricktal",
     "phone": "+41 62 874 50 00",
@@ -41350,8 +41351,12 @@
           47.5618754
         ],
         [
-          8.0657606,
-          47.5623614
+          8.0657991,
+          47.5621523
+        ],
+        [
+          8.0658311,
+          47.5623326
         ],
         [
           8.0651101,
