@@ -5344,6 +5344,7 @@
     "oneway": "no",
     "ref": "A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/26253022"
   },
@@ -6459,6 +6460,7 @@
     "ref": "A4",
     "source:maxspeed": "sign",
     "ssvz": "51N",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/43153634"
   },
@@ -24318,6 +24320,7 @@
     "oneway": "no",
     "ref": "A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/1148965914"
   },

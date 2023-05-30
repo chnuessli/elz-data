@@ -12155,7 +12155,6 @@
   "properties": {
     "barrier": "gate",
     "foot": "yes",
-    "opening_hours:covid19": "24/7",
     "id": "node/1390813384"
   },
   "geometry": {
@@ -29274,8 +29273,11 @@
   "id": "node/3361555671",
   "properties": {
     "barrier": "gate",
+    "bicycle": "yes",
     "foot": "yes",
     "horse": "no",
+    "locked": "no",
+    "motor_vehicle": "no",
     "id": "node/3361555671"
   },
   "geometry": {
@@ -29291,7 +29293,10 @@
   "id": "node/3361555678",
   "properties": {
     "barrier": "gate",
+    "bicycle": "yes",
     "foot": "yes",
+    "locked": "no",
+    "motor_vehicle": "no",
     "id": "node/3361555678"
   },
   "geometry": {
@@ -71433,6 +71438,43 @@
     "coordinates": [
       8.5099389,
       47.3636052
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10938078937",
+  "properties": {
+    "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "locked": "no",
+    "motor_vehicle": "no",
+    "id": "node/10938078937"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5297985,
+      47.376213
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10938078938",
+  "properties": {
+    "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "motor_vehicle": "no",
+    "id": "node/10938078938"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5310695,
+      47.3753774
     ]
   }
 }
