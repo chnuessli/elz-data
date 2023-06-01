@@ -6468,6 +6468,7 @@
     "branch": "Feuerthalen Rhymarkt",
     "brand": "Coop Vitality",
     "name": "Coop Vitality",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 08:00-20:00",
     "operator": "Coop Vitality & GaleniCare",
     "website": "https://www.coopvitality.ch/de/coop-vitality-feuerthalen",
     "id": "node/7473358094"

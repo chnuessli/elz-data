@@ -16143,6 +16143,7 @@
     "operator": "Stadt Zürich, GUD",
     "owner": "Immobilien Stadt Zürich (IMMO)",
     "phone": "+41 44 414 24 24",
+    "roof:shape": "flat",
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "start_date": "1977",

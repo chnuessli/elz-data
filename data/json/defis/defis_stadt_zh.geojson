@@ -10999,12 +10999,12 @@
   "properties": {
     "access": "no",
     "defibrillator:location": "Räffelstrasse 26",
-    "description": "während Arbeitszeiten berfügbar",
+    "description": "während Arbeitszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "10. OG",
-    "opening_hours": "Mo-Fr 8-17",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "Husqvarna Schweiz AG",
     "phone": "044 533 35 11",
     "id": "node/10926286805"
@@ -11028,7 +11028,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "10. OG",
-    "opening_hours": "8-17 Uhr",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "Husqvarna Schweiz AG",
     "phone": "044 533 35 11",
     "id": "node/10926292305"
@@ -11038,6 +11038,31 @@
     "coordinates": [
       8.5127254,
       47.3636696
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10942057905",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schaffhauserstrasse 239",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2",
+    "opening_hours": "Mo - Fr 7:30 bis 18:30",
+    "operator": "Interkantonale Hochschule für Heilpädagogik (HfH)",
+    "phone": "+41 44 317 11 11",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10942057905"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5471487,
+      47.4033454
     ]
   }
 }
