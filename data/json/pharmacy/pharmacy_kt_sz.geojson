@@ -267,6 +267,7 @@
   "properties": {
     "amenity": "pharmacy",
     "dispensing": "yes",
+    "healthcare": "pharmacy",
     "level": "1",
     "name": "Löwenapotheke",
     "id": "node/3201294391"

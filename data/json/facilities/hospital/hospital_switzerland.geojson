@@ -1783,12 +1783,20 @@
             46.5271621
           ],
           [
-            6.6415119,
-            46.5270175
+            6.6414976,
+            46.5269353
           ],
           [
-            6.6407724,
-            46.5270785
+            6.6413023,
+            46.5269592
+          ],
+          [
+            6.6412882,
+            46.5269602
+          ],
+          [
+            6.6408704,
+            46.5270102
           ],
           [
             6.6407175,
@@ -3775,7 +3783,7 @@
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
-    "name": "Spitalzentrum Biel",
+    "name": "Centre hospitalier Bienne / Spitalzentrum Biel",
     "name:de": "Spitalzentrum Biel",
     "name:fr": "Centre hospitalier de Bienne",
     "type": "multipolygon",
