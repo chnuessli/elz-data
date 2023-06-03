@@ -19311,9 +19311,11 @@
     "addr:postcode": "8005",
     "addr:street": "Limmatstrasse",
     "amenity": "school",
+    "check_date": "2023-06-02",
     "name": "Klubschule Migros Limmatplatz",
     "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-11:30",
     "operator": "Migros-Kulturprozent",
+    "phone": "+41 44 278 62 62",
     "website": "http://www.klubschule.ch/Standorte/Zuerich/Zuerich/Zuerich-Limmatplatz",
     "id": "node/4841545849"
   },

@@ -16846,6 +16846,7 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Munothalde",
+    "roof:shape": "flat",
     "id": "way/172344943"
   },
   "geometry": {
@@ -37802,22 +37803,6 @@
     "coordinates": [
       8.7099849,
       47.4839812
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/936942664",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kita Tandem",
-    "id": "node/936942664"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5315592,
-      47.3740902
     ]
   }
 },

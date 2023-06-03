@@ -589,6 +589,7 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Munothalde",
+    "roof:shape": "flat",
     "id": "way/172344943"
   },
   "geometry": {

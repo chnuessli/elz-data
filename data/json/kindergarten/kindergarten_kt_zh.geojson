@@ -33187,22 +33187,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/936942664",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kita Tandem",
-    "id": "node/936942664"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5315592,
-      47.3740902
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/954788978",
   "properties": {
     "amenity": "kindergarten",
