@@ -9739,7 +9739,7 @@
     "building": "yes",
     "building:levels": "2",
     "healthcare": "clinic",
-    "name": "Röngeninstitut Thun",
+    "name": "Röntgeninstitut Thun",
     "operator": "Dr. med. Christian Kurz",
     "roof:levels": "1",
     "roof:shape": "hipped",
@@ -22037,9 +22037,8 @@
     "amenity": "hospital",
     "contact:phone": "+41 71 858 31 11",
     "contact:website": "https://www.kssg.ch/standorte/ambi-rorschach",
-    "emergency": "yes",
-    "healthcare": "hospital",
-    "healthcare:speciality": "general",
+    "disused:amenity": "hospital",
+    "healthcare": "clinic",
     "landuse": "industrial",
     "name": "Ambi Rorschach",
     "id": "way/325022525"
@@ -23961,84 +23960,6 @@
         [
           7.6311375,
           46.7613556
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/447734344",
-  "properties": {
-    "addr:city": "Flawil",
-    "addr:housenumber": "23",
-    "addr:postcode": "9230",
-    "addr:street": "Krankenhausstrasse",
-    "amenity": "hospital",
-    "email": "flawil.aufnahme@kssg.ch",
-    "emergency": "yes",
-    "healthcare": "hospital",
-    "name": "Kantonsspital Flawil",
-    "operator": "Kantonsspital St. Gallen",
-    "phone": "+41 71 394 71 11",
-    "website": "https://www.kssg.ch/standorte/standort-flawil",
-    "id": "way/447734344"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          9.1835658,
-          47.4184697
-        ],
-        [
-          9.1835055,
-          47.4176131
-        ],
-        [
-          9.1843759,
-          47.4175486
-        ],
-        [
-          9.1843946,
-          47.4176485
-        ],
-        [
-          9.1845663,
-          47.4176448
-        ],
-        [
-          9.1845743,
-          47.4177347
-        ],
-        [
-          9.1850478,
-          47.4177047
-        ],
-        [
-          9.1850947,
-          47.4177928
-        ],
-        [
-          9.1851993,
-          47.4179525
-        ],
-        [
-          9.1853026,
-          47.4180977
-        ],
-        [
-          9.1848251,
-          47.4184379
-        ],
-        [
-          9.184574,
-          47.4184442
-        ],
-        [
-          9.1835658,
-          47.4184697
         ]
       ]
     ]

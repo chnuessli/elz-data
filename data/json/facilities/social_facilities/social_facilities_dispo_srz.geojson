@@ -54428,6 +54428,27 @@
       47.3765071
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10948845416",
+  "properties": {
+    "addr:housenumber": "19a",
+    "addr:street": "Breitensteinstrasse",
+    "amenity": "social_facility",
+    "name": "Café Surprise",
+    "operator": "Gemeinschaftszentrum Wipkingen",
+    "social_facility": "food_bank",
+    "social_facility:for": "underprivileged",
+    "id": "node/10948845416"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5197658,
+      47.3930347
+    ]
+  }
 }
 ]
 }
