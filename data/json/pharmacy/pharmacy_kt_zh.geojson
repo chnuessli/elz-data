@@ -5433,31 +5433,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4838594378",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "104",
-    "addr:postcode": "8006",
-    "addr:street": "Stampfenbachstrasse",
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Apotheke Unterstrass",
-    "opening_hours": "Mo-Fr 08:00-12:30, 13:30-18:30",
-    "website": "https://apotheke-unterstrass.ch/",
-    "wheelchair": "no",
-    "id": "node/4838594378"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5412128,
-      47.3832829
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4838594381",
   "properties": {
     "addr:city": "Zürich",

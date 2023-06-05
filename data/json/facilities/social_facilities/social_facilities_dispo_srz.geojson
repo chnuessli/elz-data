@@ -18328,8 +18328,8 @@
     "addr:street": "Böschenwiesenstrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "building:roof:shape": "pitched",
     "name": "Wohngruppe Böschenmatte",
+    "roof:shape": "pitched",
     "social_facility": "group_home",
     "source": "bing",
     "id": "way/148506568"

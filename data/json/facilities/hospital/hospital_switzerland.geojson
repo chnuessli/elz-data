@@ -10904,16 +10904,16 @@
           47.0168067
         ],
         [
-          7.4486641,
-          47.0168145
+          7.4486315,
+          47.016813
         ],
         [
-          7.449275,
-          47.016749
+          7.449303,
+          47.0167216
         ],
         [
-          7.4496798,
-          47.0165471
+          7.4496239,
+          47.0165035
         ],
         [
           7.4501356,
@@ -10928,8 +10928,8 @@
           47.0160348
         ],
         [
-          7.4509976,
-          47.0160959
+          7.4509892,
+          47.0161087
         ],
         [
           7.4511333,
@@ -52680,6 +52680,34 @@
     "coordinates": [
       6.1393047,
       46.1962192
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10955946335",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "230",
+    "addr:postcode": "8045",
+    "addr:street": "Schweighofstrasse",
+    "amenity": "clinic",
+    "email": "info@medix-praxis-friesenberg.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general;gynaecology;dermatology;dermatovenereology;paediatrics;psychiatry;physiatry",
+    "level": "1",
+    "name": "mediX praxis friesenberg",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+    "operator": "mediX",
+    "phone": "044 512 75 75",
+    "website": "https://www.medix-praxis-friesenberg.ch/",
+    "id": "node/10955946335"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5065814,
+      47.3609951
     ]
   }
 }

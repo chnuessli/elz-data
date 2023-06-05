@@ -10951,8 +10951,8 @@
     "addr:street": "Böschenwiesenstrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "building:roof:shape": "pitched",
     "name": "Wohngruppe Böschenmatte",
+    "roof:shape": "pitched",
     "social_facility": "group_home",
     "source": "bing",
     "id": "way/148506568"
@@ -11407,8 +11407,8 @@
     "amenity": "nursing_home",
     "building": "yes",
     "building:levels": "4",
-    "building:roof:shape": "flat",
     "name": "Wiesliacher Oekas Oekumenisches Alterswohnheim",
+    "roof:shape": "flat",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
     "id": "way/153869675"
   },

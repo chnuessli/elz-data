@@ -50820,8 +50820,8 @@
     "addr:street": "Lerchenweg",
     "amenity": "school",
     "building": "school",
-    "building:roof:shape": "flat",
     "name": "Schulhaus Spitz Oberstufe",
+    "roof:shape": "flat",
     "source": "bing",
     "id": "way/158555561"
   },
@@ -100897,6 +100897,14 @@
         [
           8.5112794,
           47.3582827
+        ],
+        [
+          8.5114987,
+          47.3583999
+        ],
+        [
+          8.5119731,
+          47.3586512
         ],
         [
           8.5120772,
