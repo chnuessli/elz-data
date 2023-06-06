@@ -8731,6 +8731,22 @@
       47.1477751
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10957009223",
+  "properties": {
+    "amenity": "school",
+    "name": "Schulhaus Finstersee",
+    "id": "node/10957009223"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6304161,
+      47.1673172
+    ]
+  }
 }
 ]
 }

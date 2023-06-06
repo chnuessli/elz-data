@@ -2599,6 +2599,7 @@
     "addr:street": "Nordstrasse",
     "alt_name": "Alterszentrum Trotte",
     "amenity": "social_facility",
+    "architect": "Enzmann Fischer",
     "building": "residential",
     "building:levels": "9",
     "ele": "443",

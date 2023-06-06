@@ -6101,11 +6101,6 @@
   "type": "Feature",
   "id": "node/8919435288",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "42",
-    "addr:postcode": "8050",
-    "addr:street": "Neunbrunnenstrasse",
-    "alt_name": "Wache Nord",
     "amenity": "fire_station",
     "name": "Milizfeuerwehr Kompanie Nord - Depot Neunbrunnen",
     "operator": "Schutz & Rettung Zürich",
@@ -6115,8 +6110,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5368685,
-      47.4173342
+      8.5368387,
+      47.4174301
     ]
   }
 },
@@ -6234,6 +6229,26 @@
     "coordinates": [
       8.5384205,
       47.6091911
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10956820388",
+  "properties": {
+    "alt_name": "Wache Nord",
+    "amenity": "fire_station",
+    "name": "Interimsstandort Neunbrunnen",
+    "opening_hours": "24/7",
+    "operator": "Schutz & Rettung Zürich",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/feuerwehr.html",
+    "id": "node/10956820388"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5368558,
+      47.4173272
     ]
   }
 }

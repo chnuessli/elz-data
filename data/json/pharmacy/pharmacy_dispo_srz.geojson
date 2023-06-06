@@ -1129,7 +1129,7 @@
     "addr:street": "Schweighofstrasse",
     "amenity": "pharmacy",
     "name": "West-Apotheke",
-    "opening_hours": "Mo-Sa 08:15–12:15, 13:30–18:30",
+    "opening_hours": "Mo-Sa 08:15-12:15,13:30-18:30",
     "phone": "+41 44 463 70 80",
     "website": "https://website--836685969719036726410-pharmacy.business.site/",
     "id": "node/331314395"

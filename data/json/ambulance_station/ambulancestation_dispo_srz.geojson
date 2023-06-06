@@ -769,18 +769,19 @@
   "type": "Feature",
   "id": "node/8227050914",
   "properties": {
+    "alt_name": "Wache Nord",
     "emergency": "ambulance_station",
-    "name": "Schutz & Rettung Zürich - Wache Neunbrunnen",
+    "name": "Interimsstandort Neunbrunnen",
     "opening_hours": "24/7",
     "operator": "Schutz & Rettung Zürich",
-    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet/so_arbeiten_wir/rettungsdienstwachen.html",
     "id": "node/8227050914"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5369077,
-      47.4171694
+      8.5368464,
+      47.4173813
     ]
   }
 },
