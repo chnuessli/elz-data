@@ -11392,6 +11392,101 @@
 },
 {
   "type": "Feature",
+  "id": "way/124363627",
+  "properties": {
+    "addr:city": "Horn",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "9326",
+    "addr:street": "Tübacherstrasse",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "seniorenzentrum;seniorenzentrum_/_pflegeheim",
+    "name": "Seniorenzentrum Horn",
+    "id": "way/124363627"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.4632486,
+          47.4950009
+        ],
+        [
+          9.4632182,
+          47.4950691
+        ],
+        [
+          9.463239,
+          47.4951003
+        ],
+        [
+          9.4630785,
+          47.4951492
+        ],
+        [
+          9.4629913,
+          47.4950187
+        ],
+        [
+          9.4630127,
+          47.4950121
+        ],
+        [
+          9.4629442,
+          47.4949098
+        ],
+        [
+          9.4629624,
+          47.4949042
+        ],
+        [
+          9.4629221,
+          47.494844
+        ],
+        [
+          9.4631162,
+          47.4947848
+        ],
+        [
+          9.4631244,
+          47.4947971
+        ],
+        [
+          9.4632233,
+          47.4947669
+        ],
+        [
+          9.4632331,
+          47.4947815
+        ],
+        [
+          9.4633622,
+          47.4947421
+        ],
+        [
+          9.4634519,
+          47.4948762
+        ],
+        [
+          9.4631696,
+          47.4949624
+        ],
+        [
+          9.463187,
+          47.4949884
+        ],
+        [
+          9.4632486,
+          47.4950009
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/125232364",
   "properties": {
     "addr:city": "St. Gallen",
@@ -48427,7 +48522,10 @@
   "type": "Feature",
   "id": "node/4176302391",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "369",
+    "addr:postcode": "8050",
     "addr:street": "Schaffhauserstrasse",
     "amenity": "clinic",
     "email": "kontakt@gesundwohl-rundum.ch",

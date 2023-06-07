@@ -7603,7 +7603,10 @@
   "type": "Feature",
   "id": "node/4176302391",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "369",
+    "addr:postcode": "8050",
     "addr:street": "Schaffhauserstrasse",
     "amenity": "clinic",
     "email": "kontakt@gesundwohl-rundum.ch",
