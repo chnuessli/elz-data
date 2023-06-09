@@ -42532,6 +42532,7 @@
     "int_ref": "E 41;E 60",
     "lanes": "3",
     "lit": "no",
+    "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
     "overtaking:hgv": "no",

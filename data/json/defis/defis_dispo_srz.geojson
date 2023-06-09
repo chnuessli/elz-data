@@ -10265,11 +10265,12 @@
   "id": "node/7819540972",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Turnhalle Boden",
-    "description": "24/7",
+    "defibrillator:location": "Aussenwand beim Eingang zur \"alten\" Turnhalle",
+    "description": "Öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Gemeinde Richterswil",
     "id": "node/7819540972"
   },
@@ -10308,7 +10309,7 @@
   "id": "node/7819540975",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "in der Kirche beim Haupteingang",
+    "defibrillator:location": "in der Kirche neben Haupteingang",
     "description": "Öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -64543,29 +64544,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10939798905",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Pfarreiheim, Erlenstrasse 34",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "Gemeinde Richterswil",
-    "phone": "+41 44 784 01 57",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/10939798905"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7008554,
-      47.212022
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10941529708",
   "properties": {
     "access": "yes",
@@ -64947,6 +64925,29 @@
     "coordinates": [
       8.4926677,
       47.5956226
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10963359805",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingang Betriebsgebäude",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "operator": "ARA Bachwis",
+    "phone": "+41433553333",
+    "id": "node/10963359805"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6430628,
+      47.3799644
     ]
   }
 }

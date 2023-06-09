@@ -2405,7 +2405,7 @@
     "type": "Point",
     "coordinates": [
       8.5613957,
-      47.0413021
+      47.0413249
     ]
   }
 },
@@ -5781,6 +5781,24 @@
     "coordinates": [
       8.6112479,
       46.9721062
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10964457421",
+  "properties": {
+    "barrier": "gate",
+    "foot": "yes",
+    "material": "metal",
+    "vehicle": "private",
+    "id": "node/10964457421"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5609708,
+      47.0454042
     ]
   }
 }
