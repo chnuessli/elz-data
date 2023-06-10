@@ -2244,7 +2244,10 @@
     "addr:street": "Rheingoldstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "building:levels": "2",
     "name": "Kindergarten Rheingold",
+    "roof:levels": "0",
+    "roof:shape": "flat",
     "id": "way/256851177"
   },
   "geometry": {

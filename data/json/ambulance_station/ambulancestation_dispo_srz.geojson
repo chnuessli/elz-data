@@ -97,6 +97,84 @@
 },
 {
   "type": "Feature",
+  "id": "way/130399122",
+  "properties": {
+    "addr:city": "Zollikerberg",
+    "addr:country": "CH",
+    "addr:housenumber": "50",
+    "addr:postcode": "8125",
+    "addr:street": "Trichtenhauserstrasse",
+    "building": "yes",
+    "emergency": "ambulance_station",
+    "emergency:phone": "144",
+    "name": "Wache Zollikerberg",
+    "opening_hours": "24/7",
+    "operator": "Schutz & Rettung Zürich",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
+    "id": "way/130399122"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5991339,
+          47.3501404
+        ],
+        [
+          8.5991832,
+          47.3499639
+        ],
+        [
+          8.5992213,
+          47.3499694
+        ],
+        [
+          8.59947,
+          47.3500052
+        ],
+        [
+          8.5994475,
+          47.3500803
+        ],
+        [
+          8.5994256,
+          47.350078
+        ],
+        [
+          8.5994036,
+          47.3500792
+        ],
+        [
+          8.5993921,
+          47.3500848
+        ],
+        [
+          8.5993849,
+          47.3500983
+        ],
+        [
+          8.5993623,
+          47.3501698
+        ],
+        [
+          8.5992007,
+          47.3501474
+        ],
+        [
+          8.5991999,
+          47.3501504
+        ],
+        [
+          8.5991339,
+          47.3501404
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/199578656",
   "properties": {
     "building:part": "yes",
@@ -233,10 +311,17 @@
   "type": "Feature",
   "id": "way/251502068",
   "properties": {
+    "addr:city": "Affoltern am Albis",
+    "addr:housenumber": "31.1",
+    "addr:postcode": "8910",
+    "addr:street": "Sonnenbergstrasse",
     "building": "yes",
     "emergency": "ambulance_station",
-    "name": "Schutz & Rettung Zürich - Wache Affoltern am Albis",
+    "emergency:phone": "144",
+    "name": "Wache Affoltern am Albis",
+    "opening_hours": "24/7",
     "operator": "Schutz & Rettung Zürich",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet/so_arbeiten_wir/rettungsdienstwachen.html",
     "id": "way/251502068"
   },
   "geometry": {
@@ -270,6 +355,10 @@
         [
           8.4563367,
           47.2853578
+        ],
+        [
+          8.4563267,
+          47.2853949
         ],
         [
           8.4563173,
@@ -630,22 +719,20 @@
   "type": "Feature",
   "id": "node/7274104579",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "40",
-    "addr:postcode": "8006",
-    "addr:street": "Neumühlequai",
+    "alt_name": "Hauptwache Neumühlequai",
     "emergency": "ambulance_station",
     "emergency:phone": "144",
-    "name": "Schutz & Rettung Zürich - Hauptwache Neumühlequai",
+    "name": "Wache Zentrum",
+    "opening_hours": "24/7",
     "operator": "Schutz & Rettung Zürich",
-    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet/so_arbeiten_wir/rettungsdienstwachen.html",
     "id": "node/7274104579"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5407314,
-      47.3818766
+      8.5406851,
+      47.3819317
     ]
   }
 },
@@ -767,6 +854,7 @@
   "properties": {
     "alt_name": "Wache Nord",
     "emergency": "ambulance_station",
+    "emergency:phone": "144",
     "name": "Interimsstandort Neunbrunnen",
     "opening_hours": "24/7",
     "operator": "Schutz & Rettung Zürich",
@@ -786,34 +874,18 @@
   "id": "node/8227050915",
   "properties": {
     "emergency": "ambulance_station",
-    "name": "Schutz & Rettung Zürich - Wache Flughafen",
+    "emergency:phone": "144",
+    "name": "Wache Flughafen",
+    "opening_hours": "24/7",
     "operator": "Schutz & Rettung Zürich",
-    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet/so_arbeiten_wir/rettungsdienstwachen.html",
     "id": "node/8227050915"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5526642,
-      47.4454122
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8227050916",
-  "properties": {
-    "emergency": "ambulance_station",
-    "name": "Schutz & Rettung Zürich - Wache Zollikerberg",
-    "operator": "Schutz & Rettung Zürich",
-    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
-    "id": "node/8227050916"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5993202,
-      47.3499927
+      8.5527173,
+      47.4453358
     ]
   }
 },
@@ -822,16 +894,18 @@
   "id": "node/8227059017",
   "properties": {
     "emergency": "ambulance_station",
-    "name": "Schutz & Rettung Zürich - Wache Triemli",
+    "emergency:phone": "144",
+    "name": "Wache Triemli",
+    "opening_hours": "24/7",
     "operator": "Schutz & Rettung Zürich",
-    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet/so_arbeiten_wir/rettungsdienstwachen.html",
     "id": "node/8227059017"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4970815,
-      47.3677057
+      8.4969469,
+      47.3676829
     ]
   }
 },

@@ -106,6 +106,7 @@
     "opening_hours": "Mo 07:00-11:30,13:45-17:00; Tu,We,Fr 13:45-17:00; Th 13:45-18:00",
     "operator": "Schaffhauser Polizei",
     "phone": "+41 52 632 89 20",
+    "wheelchair": "no",
     "id": "node/29885122"
   },
   "geometry": {

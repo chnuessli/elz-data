@@ -6238,6 +6238,7 @@
   "properties": {
     "alt_name": "Wache Nord",
     "amenity": "fire_station",
+    "emergency:phone": "118",
     "name": "Interimsstandort Neunbrunnen",
     "opening_hours": "24/7",
     "operator": "Schutz & Rettung Zürich",
