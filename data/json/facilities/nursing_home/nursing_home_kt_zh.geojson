@@ -23456,11 +23456,13 @@
     "addr:street": "Zweierstrasse",
     "amenity": "social_facility",
     "capacity": "84+10",
+    "check_date": "2023-06-10",
     "name": "Schmiedhof",
     "operator": "Wenger Betriebs AG",
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "website": "https://www.schmiedhof.ch/",
+    "wheelchair": "yes",
     "id": "node/4958238482"
   },
   "geometry": {
