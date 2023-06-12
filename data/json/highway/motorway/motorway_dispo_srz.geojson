@@ -4250,6 +4250,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A50",
@@ -4369,6 +4370,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A50",
@@ -66964,6 +66966,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A50",
@@ -67027,6 +67030,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A50",

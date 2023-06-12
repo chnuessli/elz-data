@@ -37837,9 +37837,12 @@
     "addr:postcode": "8853",
     "addr:street": "Landsgemeindeweg",
     "amenity": "kindergarten",
+    "isced:level": "0",
     "name": "Kindergarten Oberdorf",
     "name:en": "kindergarten upper village",
     "operator": "Gemeinde Lachen",
+    "operator:type": "public",
+    "website": "https://www.schule-lachen.ch/kindergartengebaeude/384",
     "id": "node/972518468"
   },
   "geometry": {

@@ -4112,6 +4112,8 @@
   "id": "node/5864103350",
   "properties": {
     "barrier": "lift_gate",
+    "lift_gate:type": "single",
+    "motor_vehicle": "no",
     "id": "node/5864103350"
   },
   "geometry": {
