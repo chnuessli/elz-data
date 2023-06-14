@@ -25261,28 +25261,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8598378717",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Gemeindehaus Hallau",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "operator": "Gemeinde",
-    "phone": "+41526870840",
-    "id": "node/8598378717"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4598085,
-      47.6975913
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8599184511",
   "properties": {
     "access": "yes",
@@ -49411,31 +49389,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10176336962",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Beim Notfalltreffpunkt hinter dem Gemeindehaus an der Aussenwand im weissen Kasten (mit AED und CPR beschriftet).",
-    "description": "Geschenk der Hallauer Vereine+Gönner anlässlich 100 Jahr Jubiläum Samariterverein Hallau 2010.",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "level": "0",
-    "opening_hours": "24/7",
-    "operator": "Gemeinde Hallau",
-    "start_date": "2010",
-    "wheelchair": "yes",
-    "id": "node/10176336962"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4598913,
-      47.6974548
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10177774017",
   "properties": {
     "access": "no",
@@ -53140,29 +53093,6 @@
     "coordinates": [
       8.4294134,
       47.2640071
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10676384505",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Kiosk / Minigolf Unterägeri",
-    "description": "Aussen an Gebäudehülle",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "level": "0",
-    "opening_hours": "24/7",
-    "operator": "Einwohnergemeinde Unterägeri",
-    "id": "node/10676384505"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.589609,
-      47.1333536
     ]
   }
 },
@@ -64978,6 +64908,74 @@
     "coordinates": [
       8.5879612,
       47.1363336
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10973218010",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Aussenwand am Schulhaus Untermosen",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "operator": "Stadt Wädenswil",
+    "id": "node/10973218010"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6597666,
+      47.2282204
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10973228906",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Spirax Sarco AG, Gustav Maurer Strasse 9",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr: 08.00-17.00 Uhr",
+    "operator": "Firma",
+    "phone": "+41443968000",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10973228906"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5747647,
+      47.3421125
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10973830105",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Aussenfassade an der Bushaltestelle",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Hallau",
+    "phone": "+41526870850",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10973830105"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4596872,
+      47.6975992
     ]
   }
 }

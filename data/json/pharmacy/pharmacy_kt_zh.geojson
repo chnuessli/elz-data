@@ -5273,6 +5273,7 @@
     "opening_hours": "Mo-Fr 07:00-20:00; Sa,Su 09:00-19:00",
     "operator": "Medbase Apotheken",
     "website": "https://www.topwell.ch/medbaseapothekezuerichenge/",
+    "wheelchair": "yes",
     "id": "node/4827130161"
   },
   "geometry": {
@@ -5382,6 +5383,7 @@
     "branch": "Zürich Stadelhofen",
     "brand": "Amavita",
     "brand:wikidata": "Q93733901",
+    "check_date:opening_hours": "2023-06-12",
     "healthcare": "pharmacy",
     "level": "-1",
     "name": "Amavita",
