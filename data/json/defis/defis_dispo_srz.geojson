@@ -6955,6 +6955,7 @@
   "properties": {
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "id": "node/7622149324"
   },
   "geometry": {
@@ -64682,30 +64683,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10956868905",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Cafeteria",
-    "description": "Während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-Fr: 08.00-17.00",
-    "operator": "Heilpädagogisches Zentrum Hagendorn",
-    "phone": "+41 41 500 70 00",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/10956868905"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4394312,
-      47.1974841
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10958986005",
   "properties": {
     "access": "yes",
@@ -64715,7 +64692,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "2",
-    "opening_hours": "Mo. - Fr. 07:00 - 22:00 und Samstag 07:00 - 17:00",
+    "opening_hours": "Mo-Fr 07:00-22:00, Sa 07:00-17:00",
     "operator": "Kanton Zürich",
     "phone": "+41798625027",
     "source": "local_knowledge, defikarte.ch",
@@ -64869,13 +64846,13 @@
   "type": "Feature",
   "id": "node/10970275205",
   "properties": {
-    "access": "yes",
-    "defibrillator:location": "Gemeindehaus Otelfingen ",
+    "access": "public",
+    "defibrillator:location": "Gemeindehaus Otelfingen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "level": "0",
-    "operator": "Politische Gemeinde Otelfingen ",
+    "operator": "Politische Gemeinde Otelfingen",
     "phone": "+4144 847 20 47",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/10970275205"
@@ -64941,7 +64918,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "1",
-    "opening_hours": "Mo-Fr: 08.00-17.00 Uhr",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "Firma",
     "phone": "+41443968000",
     "source": "local_knowledge, defikarte.ch",
@@ -64976,6 +64953,103 @@
     "coordinates": [
       8.4596872,
       47.6975992
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10976364705",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "beim Empfang, Gemeindehaus, Zentralstrasse 21, 8604 Volketswil",
+    "description": "nur während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr",
+    "operator": "Gemeinde Volketswil, Abteilung Liegenschaften",
+    "phone": "+41449102420",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10976364705"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6836731,
+      47.3888776
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10976936005",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Reservatstrasse 1 ,8953 Dietikon,Dispo Transport",
+    "description": "während Arbeitszeit verfügbar ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "Mo-Fr 05:00-18:00",
+    "operator": "Coop Verteilzentrale",
+    "id": "node/10976936005"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3996216,
+      47.4145574
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10977176305",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Erdgeschoss / Sanitätsraum",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Montag bis Freitag: 08:00 - 17:00 Uhr",
+    "operator": "AOZ - Asylorganisation Zürich",
+    "phone": "+41 44 415 65 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10977176305"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5435599,
+      47.4160989
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10977188005",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Sanitätsschrank / Erdgeschoss",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Montag bis Freitag: 08:00 - 17:00 Uhr",
+    "operator": "AOZ - Asylorganisation Zürich",
+    "phone": "+41 44 415 68 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10977188005"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4651804,
+      47.2784174
     ]
   }
 }

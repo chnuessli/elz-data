@@ -89,6 +89,32 @@
 },
 {
   "type": "Feature",
+  "id": "way/1182096605",
+  "properties": {
+    "barrier": "gate",
+    "bicycle": "no",
+    "height": "1.5",
+    "horse": "no",
+    "material": "wood",
+    "motor_vehicle": "no",
+    "id": "way/1182096605"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5720577,
+        47.6995964
+      ],
+      [
+        8.5720176,
+        47.6995725
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/29681059",
   "properties": {
     "barrier": "gate",

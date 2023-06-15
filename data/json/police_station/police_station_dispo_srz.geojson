@@ -2810,6 +2810,7 @@
     "addr:street": "Forchstrasse",
     "alt_name": "KomPol Egg",
     "amenity": "police",
+    "check_date": "2023-06-14",
     "name": "Polizeiposten Stadtpolizei Egg",
     "operator": "Stadt Egg",
     "phone": "+41 43 277 11 80",
