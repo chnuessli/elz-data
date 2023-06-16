@@ -60,6 +60,7 @@
     "addr:postcode": "8202",
     "addr:street": "Unterstadt",
     "amenity": "pharmacy",
+    "check_date:opening_hours": "2023-06-15",
     "dispensing": "yes",
     "email": "info@unterstadtapotheke.ch",
     "healthcare": "pharmacy",

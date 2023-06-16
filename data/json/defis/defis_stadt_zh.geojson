@@ -11150,6 +11150,104 @@
       47.4160989
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10978201805",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Freilager Eingang bei Sporthalle und Lernschwimmbecken",
+    "description": "Während den Schulzeiten exkl. Schulferien und Feiertage",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo. - Fr. 08.00 bis 22.00 Uhr ",
+    "operator": "Volksschule der Stadt Zürich",
+    "phone": "+41 44 413 88 67",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10978201805"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4871423,
+      47.3790352
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10978391106",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Eingang rechts",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Montag bis Freitag: 08:00 - 17:00 Uhr",
+    "operator": "AOZ - Asylorganisation Zürich",
+    "phone": "+41 44 415 65 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10978391106"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5007411,
+      47.3775967
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10978424705",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Restaurant Paprika",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Montag bis Freitag: 09:00 - 15:00 Uhr",
+    "operator": "AOZ - Asylorganisation Zürich",
+    "phone": "+41 44 415 60 60",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10978424705"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5066366,
+      47.378661
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10978855607",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "OCT: S 10.001 ETH Meeting Center",
+    "description": "über Alarmzentrale 24h verfügbar, ansonsten während Betriebszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "14",
+    "operator": "ETH Zürich",
+    "phone": "+41 44 342 11 88",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10978855607"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5472828,
+      47.4130062
+    ]
+  }
 }
 ]
 }

@@ -4751,6 +4751,7 @@
   "id": "node/4237507889",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2023-06-16",
     "level": "0",
     "name": "Joey Kinderkrippe",
     "id": "node/4237507889"
