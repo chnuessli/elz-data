@@ -2607,12 +2607,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5720577,
-        47.6995964
+        8.5720564,
+        47.6995987
       ],
       [
-        8.5720176,
-        47.6995725
+        8.572015,
+        47.6995766
       ]
     ]
   }
@@ -67812,6 +67812,21 @@
 },
 {
   "type": "Feature",
+  "id": "node/8707452332",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/8707452332"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5858738,
+      47.4061998
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/8707452337",
   "properties": {
     "barrier": "gate",
@@ -82965,6 +82980,21 @@
     "coordinates": [
       8.5772961,
       47.0461613
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10980206329",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/10980206329"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5857725,
+      47.4061823
     ]
   }
 }

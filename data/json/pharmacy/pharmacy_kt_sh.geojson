@@ -148,27 +148,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3300805733",
-  "properties": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "fax": "+41 (0)52 625 33 92",
-    "name": "Ritter",
-    "opening_hours": "Mo-Fr 8:30-18:30; Sa 8:00-16:00",
-    "phone": "+41 (0)52 625 33 79",
-    "website": "http://www.ritterapotheke.ch/",
-    "id": "node/3300805733"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6348509,
-      47.696249
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7276399060",
   "properties": {
     "addr:city": "Neuhausen am Rheinfall",
