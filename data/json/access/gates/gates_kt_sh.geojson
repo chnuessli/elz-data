@@ -115,6 +115,29 @@
 },
 {
   "type": "Feature",
+  "id": "way/1182690537",
+  "properties": {
+    "barrier": "gate",
+    "height": "1.5",
+    "material": "wood",
+    "id": "way/1182690537"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5718132,
+        47.6998017
+      ],
+      [
+        8.5718184,
+        47.6997819
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/29681059",
   "properties": {
     "barrier": "gate",

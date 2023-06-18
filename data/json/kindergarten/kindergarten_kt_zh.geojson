@@ -34148,6 +34148,7 @@
     "addr:street": "Langacherstrasse",
     "amenity": "kindergarten",
     "name": "Langacher",
+    "wheelchair": "no",
     "id": "node/2428938677"
   },
   "geometry": {

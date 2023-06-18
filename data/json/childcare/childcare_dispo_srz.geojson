@@ -4542,22 +4542,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3881641468",
-  "properties": {
-    "amenity": "childcare",
-    "kindergarten": "yes",
-    "id": "node/3881641468"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4538772,
-      47.4128168
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3884226546",
   "properties": {
     "amenity": "childcare",
