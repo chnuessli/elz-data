@@ -2234,12 +2234,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4883161,
-        47.3992959
+        8.4883184,
+        47.3992929
       ],
       [
-        8.4883645,
-        47.3992831
+        8.4883436,
+        47.3992866
       ]
     ]
   }
@@ -83018,6 +83018,39 @@
     "coordinates": [
       8.5857725,
       47.4061823
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10983806438",
+  "properties": {
+    "barrier": "lift_gate",
+    "lift_gate:type": "single",
+    "id": "node/10983806438"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5916928,
+      47.0471078
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10983907060",
+  "properties": {
+    "barrier": "lift_gate",
+    "lift_gate:type": "single",
+    "motor_vehicle": "private",
+    "id": "node/10983907060"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3868959,
+      47.4067226
     ]
   }
 }

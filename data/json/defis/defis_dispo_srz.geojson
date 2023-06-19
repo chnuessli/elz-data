@@ -65226,6 +65226,50 @@
       47.432226
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10984543689",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Klinik Hirslanden Foyer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Klinik Hirslanden Zürich",
+    "phone": "+41443872111",
+    "id": "node/10984543689"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5757558,
+      47.3507235
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10984907605",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Seerettungsschiff",
+    "description": "Verfügbar nur wenn das Schiff auf Patroullie ist",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Seerettungsdienst Sihlsee",
+    "phone": "055 418 41 20",
+    "id": "node/10984907605"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7917165,
+      47.1392044
+    ]
+  }
 }
 ]
 }

@@ -3426,6 +3426,7 @@
   "id": "way/332437171",
   "properties": {
     "aeroway": "helipad",
+    "fixme": "Existence doubtful from satellite image.",
     "id": "way/332437171"
   },
   "geometry": {
