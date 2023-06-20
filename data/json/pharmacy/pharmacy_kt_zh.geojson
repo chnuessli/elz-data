@@ -1142,11 +1142,13 @@
     "addr:street": "Limmattalstrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date": "2023-06-19",
     "check_date:opening_hours": "2021-04-28",
     "name": "Apotheke zum Meierhof",
-    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:30-17:00",
     "operator": "Rotpunkt Pharma",
     "website": "https://www.haut-und-ernaehrung.ch/apotheke-zum-meierhof/",
+    "wheelchair": "yes",
     "id": "node/362690129"
   },
   "geometry": {

@@ -138,6 +138,30 @@
 },
 {
   "type": "Feature",
+  "id": "way/1183492969",
+  "properties": {
+    "barrier": "gate",
+    "colour": "black",
+    "height": "1.5",
+    "material": "metal",
+    "id": "way/1183492969"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5688913,
+        47.6999086
+      ],
+      [
+        8.5688252,
+        47.6999482
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/29681059",
   "properties": {
     "barrier": "gate",

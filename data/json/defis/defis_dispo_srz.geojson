@@ -16328,15 +16328,18 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
     "operator": "ETH Zürich",
     "phone": "+41 44 342 11 88",
+    "wheelchair": "yes",
     "id": "node/8173672423"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5094073,
-      47.4094639
+      8.509378,
+      47.4094524
     ]
   }
 },
@@ -39626,7 +39629,8 @@
     "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
     "phone": "+41 58 728 90 63",
     "id": "node/9605130362"
@@ -39634,8 +39638,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5085209,
-      47.149137
+      8.5084841,
+      47.149193
     ]
   }
 },
@@ -65268,6 +65272,52 @@
     "coordinates": [
       8.7917165,
       47.1392044
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10989527105",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Gubelstrasse 22",
+    "description": "nur während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "6",
+    "opening_hours": "Mo-Fr: 08:00 bis 17:00 Uhr",
+    "operator": "Eingemietete Firma im Stadthaus Zug",
+    "phone": "+41 417269966",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10989527105"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5139966,
+      47.1756535
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10990264517",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "An Kandelaber / On lamp post",
+    "description": "Öffentlich zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/10990264517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6363728,
+      47.6961179
     ]
   }
 }
