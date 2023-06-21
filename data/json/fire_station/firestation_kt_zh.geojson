@@ -5887,6 +5887,7 @@
   "id": "node/7462551852",
   "properties": {
     "addr:city": "Oberstammheim",
+    "addr:country": "CH",
     "addr:housenumber": "39",
     "addr:postcode": "8477",
     "addr:street": "Hauptstrasse",

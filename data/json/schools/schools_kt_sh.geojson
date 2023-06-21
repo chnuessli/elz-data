@@ -2068,6 +2068,7 @@
   "id": "way/179314879",
   "properties": {
     "addr:city": "Ramsen",
+    "addr:country": "CH",
     "addr:housenumber": "420",
     "addr:postcode": "8262",
     "addr:street": "Sonnenstrasse",

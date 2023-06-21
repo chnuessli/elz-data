@@ -5408,6 +5408,9 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
+    "bicycle": "yes",
+    "description": "The gate is relatively heavy and closes by itself, but it is not locked and can be opened, if one wants to pass (June 2023, kk)",
+    "foot": "yes",
     "id": "node/351931154"
   },
   "geometry": {
@@ -18251,8 +18254,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5615402,
-      47.0424449
+      8.5615397,
+      47.042444
     ]
   }
 },
@@ -39350,8 +39353,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6030736,
-      47.401891
+      8.6030838,
+      47.4018881
     ]
   }
 },
@@ -64414,6 +64417,21 @@
 },
 {
   "type": "Feature",
+  "id": "node/8465031631",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/8465031631"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3938568,
+      47.4029813
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/8467805220",
   "properties": {
     "barrier": "gate",
@@ -83092,6 +83110,23 @@
     "coordinates": [
       8.5730665,
       47.0380956
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10993418979",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/10993418979"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5545462,
+      47.0469408
     ]
   }
 }

@@ -56344,6 +56344,7 @@
   "id": "way/179314879",
   "properties": {
     "addr:city": "Ramsen",
+    "addr:country": "CH",
     "addr:housenumber": "420",
     "addr:postcode": "8262",
     "addr:street": "Sonnenstrasse",
@@ -84909,6 +84910,7 @@
   "id": "way/295654458",
   "properties": {
     "addr:city": "Oberstammheim",
+    "addr:country": "CH",
     "addr:housenumber": "15",
     "addr:postcode": "8477",
     "addr:street": "Hauptstrasse",

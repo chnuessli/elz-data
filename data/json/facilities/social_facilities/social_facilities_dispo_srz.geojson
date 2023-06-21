@@ -51891,6 +51891,7 @@
   "id": "node/8646537320",
   "properties": {
     "addr:city": "Oberstammheim",
+    "addr:country": "CH",
     "addr:housenumber": "6",
     "addr:postcode": "8477",
     "addr:street": "Im Höfli",
