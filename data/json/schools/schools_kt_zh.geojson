@@ -39984,7 +39984,8 @@
   "id": "way/143991300",
   "properties": {
     "amenity": "school",
-    "name": "Johannesschule",
+    "name": "Johannes-Schule",
+    "website": "https://www.johannesschule.ch/",
     "id": "way/143991300"
   },
   "geometry": {
