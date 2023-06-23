@@ -46073,6 +46073,96 @@
 },
 {
   "type": "Feature",
+  "id": "way/1093098133",
+  "properties": {
+    "addr:city": "Pfungen",
+    "addr:housenumber": "7",
+    "addr:postcode": "8422",
+    "addr:street": "Bahnhofstrasse",
+    "alt_name": "Altersheim Almacasa",
+    "amenity": "social_facility",
+    "building": "yes",
+    "contact:email": "pfungen@almacasa.ch",
+    "contact:phone": "+41 52 544 99 98",
+    "contact:website": "https://almacasa.ch/pfungen/",
+    "name": "Pflegewohnheim Almacasa",
+    "social_facility": "nursing_home",
+    "id": "way/1093098133"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6435661,
+          47.5164008
+        ],
+        [
+          8.6437636,
+          47.516396
+        ],
+        [
+          8.6437683,
+          47.5164595
+        ],
+        [
+          8.6439408,
+          47.5164566
+        ],
+        [
+          8.6439514,
+          47.5166329
+        ],
+        [
+          8.643914,
+          47.516706
+        ],
+        [
+          8.6436087,
+          47.5166349
+        ],
+        [
+          8.6436349,
+          47.5165926
+        ],
+        [
+          8.6435837,
+          47.5165827
+        ],
+        [
+          8.6435793,
+          47.5165315
+        ],
+        [
+          8.6437653,
+          47.516527
+        ],
+        [
+          8.6437586,
+          47.5164586
+        ],
+        [
+          8.6436266,
+          47.5164628
+        ],
+        [
+          8.6436287,
+          47.5165139
+        ],
+        [
+          8.6435785,
+          47.5165151
+        ],
+        [
+          8.6435661,
+          47.5164008
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1100832765",
   "properties": {
     "addr:city": "Glattbrugg",
