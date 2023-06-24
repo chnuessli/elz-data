@@ -812,7 +812,6 @@
     "contact:street": "Schulstrasse",
     "description": "Notfalltreffpunkt in Beringen",
     "emergency": "disaster_help_point",
-    "location": "Sporthalle",
     "name": "Sporthalle Beringen",
     "operator": "Kanton Schaffhausen",
     "id": "node/9435655870"
