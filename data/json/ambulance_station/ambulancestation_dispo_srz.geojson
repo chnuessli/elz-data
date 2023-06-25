@@ -374,44 +374,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/318817393",
-  "properties": {
-    "building": "yes",
-    "emergency": "ambulance_station",
-    "name": "Rettungsdienst Lachen",
-    "operator": "Spital Lachen",
-    "id": "way/318817393"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.8605295,
-          47.1896947
-        ],
-        [
-          8.860424,
-          47.1895476
-        ],
-        [
-          8.8605617,
-          47.1895019
-        ],
-        [
-          8.8606672,
-          47.1896491
-        ],
-        [
-          8.8605295,
-          47.1896947
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/357486503",
   "properties": {
     "addr:city": "Rüti (ZH)",
@@ -477,6 +439,7 @@
     "emergency:phone": "144",
     "name": "Rettungsdienst Spital Lachen",
     "operator": "Spital Lachen",
+    "phone": "+41554513640",
     "website": "https://rettungsdienst-lachen.ch/",
     "id": "way/843565567"
   },

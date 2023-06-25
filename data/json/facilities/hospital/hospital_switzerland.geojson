@@ -22697,6 +22697,14 @@
           47.1899393
         ],
         [
+          8.8587318,
+          47.1898516
+        ],
+        [
+          8.8586204,
+          47.1896844
+        ],
+        [
           8.8585586,
           47.1895916
         ],
@@ -52838,6 +52846,25 @@
     "coordinates": [
       8.5065814,
       47.3609951
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11004383974",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Centre Médical de la Charrière",
+    "short_name": "CMDLC",
+    "website": "https://cmdlc.ch/",
+    "id": "node/11004383974"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8340181,
+      47.1117377
     ]
   }
 }
