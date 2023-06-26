@@ -30446,6 +30446,7 @@
     "addr:postcode": "8400",
     "addr:street": "Haldenstrasse",
     "amenity": "kindergarten",
+    "check_date": "2023-06-25",
     "name": "Kita La Luna",
     "operator": "Verein \"Kindertagesstätte La Luna\"",
     "operator:type": "private",
