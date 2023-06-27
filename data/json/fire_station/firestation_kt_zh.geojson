@@ -6253,6 +6253,27 @@
       47.4173272
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11007183828",
+  "properties": {
+    "addr:city": "Kilchberg ZH",
+    "addr:housenumber": "166",
+    "addr:postcode": "8802",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "fire_station",
+    "name": "Feuerwehr Kilchberg - Rüschlikon",
+    "operator": "Sicherheitszweckverband Kilchberg - Rüschlikon",
+    "id": "node/11007183828"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5453977,
+      47.3194304
+    ]
+  }
 }
 ]
 }
