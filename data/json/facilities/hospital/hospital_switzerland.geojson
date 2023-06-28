@@ -37679,12 +37679,20 @@
           47.057209
         ],
         [
-          6.7420663,
-          47.0570285
+          6.7421077,
+          47.0570342
         ],
         [
-          6.7422916,
-          47.0567603
+          6.7422707,
+          47.0568388
+        ],
+        [
+          6.7422802,
+          47.0568154
+        ],
+        [
+          6.7423255,
+          47.0567579
         ],
         [
           6.7427368,
@@ -49419,6 +49427,7 @@
     "addr:housenumber": "19",
     "addr:street": "Rudolfstrasse",
     "amenity": "clinic",
+    "check_date": "2023-06-27",
     "healthcare": "clinic",
     "healthcare:speciality": "psychiatry",
     "name": "IPW Akut-Tagesklinik",

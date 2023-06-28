@@ -60152,7 +60152,7 @@
     "source:maxspeed": "sign",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||merge_to_left",
+    "turn:lanes": "none|none|merge_to_left",
     "id": "way/546291992"
   },
   "geometry": {

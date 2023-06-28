@@ -39168,10 +39168,13 @@
     "addr:street": "Sihlquai",
     "amenity": "social_facility",
     "contact:email": "info@foodsharing.de",
+    "covered": "no",
     "fee": "no",
+    "fridge": "yes",
     "indoor": "no",
-    "level": "0",
+    "location": "outdoor",
     "name": "Fair-Teiler Sihlquai",
+    "network": "Madame Frigo",
     "note": "Der Fair-Teiler ist Tag und Nacht zugänglich. Es gibt zwei Kühlschränke (mit Gefrierfach)",
     "opening_hours": "24/7",
     "operator": "foodsharing.de",
@@ -40917,13 +40920,21 @@
     "addr:postcode": "8004",
     "addr:street": "Kernstrasse",
     "amenity": "social_facility",
+    "contact:email": "info@foodsharing.de",
+    "covered": "no",
+    "fee": "no",
+    "fridge": "yes",
+    "indoor": "no",
+    "location": "outdoor",
     "name": "Fair-Teiler Kernstrasse",
+    "network": "Madame Frigo",
     "opening_hours": "24/7",
     "operator": "foodsharing.de",
     "social_facility": "food_bank",
     "social_facility:for": "everyone",
     "website": "https://foodsharing.de/?page=fairteiler&sub=ft&bid=108&id=940",
     "wheelchair": "yes",
+    "wikipedia": "de:Foodsharing.de",
     "id": "node/5426456791"
   },
   "geometry": {
@@ -41456,6 +41467,7 @@
   "id": "node/5507116093",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2023-06-27",
     "name": "we-care",
     "operator": "Stiftung Wisli",
     "social_facility": "workshop",
@@ -44140,6 +44152,75 @@
 },
 {
   "type": "Feature",
+  "id": "node/9650994310",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Zürich",
+    "addr:housenumber": "2",
+    "addr:postcode": "8003",
+    "addr:street": "Kalkbreitestrasse",
+    "amenity": "social_facility",
+    "contact:email": "info@foodsharing.de",
+    "covered": "no",
+    "fee": "no",
+    "fridge": "yes",
+    "indoorre": "no",
+    "location": "outdoor",
+    "name": "Madame Frigo - Kalkbreite",
+    "network": "Madame Frigo",
+    "opening_hours": "24/7",
+    "operator": "foodsharing.de",
+    "social_facility": "food_bank",
+    "social_facility:for": "everyone",
+    "website": "https://foodsharing.de/?page=fairteiler&sub=ft&bid=108&id=1798",
+    "wheelchair": "yes",
+    "wikipedia": "de:Foodsharing.de",
+    "id": "node/9650994310"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5211236,
+      47.3743496
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9651015584",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Zürich",
+    "addr:housenumber": "70",
+    "addr:postcode": "8057",
+    "addr:street": "Stüssistrasse",
+    "amenity": "social_facility",
+    "contact:email": "info@foodsharing.de",
+    "covered": "no",
+    "fee": "no",
+    "fridge": "yes",
+    "indoor": "no",
+    "location": "outdoor",
+    "name": "Madame Frigo - Stüssistrasse",
+    "network": "Madame Frigo",
+    "opening_hours": "24/7",
+    "operator": "foodsharing.de",
+    "social_facility": "food_bank",
+    "social_facility:for": "everyone",
+    "website": "https://foodsharing.de/?page=fairteiler&sub=ft&bid=108&id=2275",
+    "wikipedia": "de:Foodsharing.de",
+    "id": "node/9651015584"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5406307,
+      47.3937679
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9651038217",
   "properties": {
     "access": "yes",
@@ -44686,9 +44767,11 @@
     "addr:street": "Hardturmstrasse",
     "amenity": "social_facility",
     "contact:email": "info@foodsharing.de",
+    "covered": "no",
     "fee": "no",
+    "fridge": "yes",
     "indoor": "no",
-    "level": "0",
+    "location": "outdoor",
     "name": "Madame Frigo Kraftwerk",
     "network": "Madame Frigo",
     "note": "Der Fair-Teiler ist Tag und Nacht zugänglich. Es gibt zwei Kühlschränke (mit Gefrierfach)",
@@ -45203,6 +45286,70 @@
     "coordinates": [
       8.6892678,
       47.3903845
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11009572337",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "76",
+    "addr:postcode": "8037",
+    "addr:street": "Hönggerstrasse",
+    "amenity": "social_facility",
+    "contact:email": "info@foodsharing.de",
+    "covered": "no",
+    "fee": "no",
+    "fridge": "yes",
+    "indoor": "no",
+    "location": "outdoor",
+    "name": "Madame Frigo - WipWest",
+    "network": "Madame Frigo",
+    "opening_hours": "24/7",
+    "operator": "foodsharing.de",
+    "social_facility": "food_bank",
+    "social_facility:for": "everyone",
+    "website": "https://foodsharing.de/?page=fairteiler&sub=ft&bid=108&id=2274",
+    "wikipedia": "de:Foodsharing.de",
+    "id": "node/11009572337"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5219637,
+      47.3938155
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11009572338",
+  "properties": {
+    "addr:housenumber": "6",
+    "addr:postcode": "8001",
+    "addr:street": "Werdmühleplatz",
+    "amenity": "social_facility",
+    "contact:email": "info@foodsharing.de",
+    "covered": "no",
+    "fee": "no",
+    "fridge": "yes",
+    "indoor": "no",
+    "location": "outdoor",
+    "name": "Madame Frigo - Klimapavillon",
+    "network": "Madame Frigo",
+    "opening_hours": "24/7",
+    "operator": "foodsharing.de",
+    "social_facility": "food_bank",
+    "social_facility:for": "everyone",
+    "wikipedia": "de:Foodsharing.de",
+    "id": "node/11009572338"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5398266,
+      47.3747006
     ]
   }
 }

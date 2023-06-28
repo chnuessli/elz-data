@@ -7821,6 +7821,7 @@
     "addr:housenumber": "19",
     "addr:street": "Rudolfstrasse",
     "amenity": "clinic",
+    "check_date": "2023-06-27",
     "healthcare": "clinic",
     "healthcare:speciality": "psychiatry",
     "name": "IPW Akut-Tagesklinik",
