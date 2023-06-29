@@ -23570,6 +23570,7 @@
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "website": "http://www.perlapark.ch/",
+    "wheelchair": "yes",
     "id": "node/4942450549"
   },
   "geometry": {

@@ -48696,6 +48696,7 @@
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "website": "http://www.perlapark.ch/",
+    "wheelchair": "yes",
     "id": "node/4942450549"
   },
   "geometry": {
@@ -55042,8 +55043,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5219637,
-      47.3938155
+      8.521983,
+      47.3938872
     ]
   }
 },
@@ -55075,6 +55076,40 @@
     "coordinates": [
       8.5398266,
       47.3747006
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11013062285",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Zürich",
+    "addr:housenumber": "55",
+    "addr:postcode": "8057",
+    "addr:street": "Hofwiesenstrasse",
+    "amenity": "social_facility",
+    "contact:email": "info@foodsharing.de",
+    "covered": "no",
+    "fee": "no",
+    "fridge": "yes",
+    "indoor": "no",
+    "location": "outdoor",
+    "name": "Madame Frigo - Baugenossenschaft Vrenelisgärtli",
+    "network": "Madame Frigo",
+    "opening_hours": "24/7",
+    "operator": "foodsharing.de",
+    "social_facility": "food_bank",
+    "social_facility:for": "everyone",
+    "website": "https://foodsharing.de/?page=fairteiler&sub=ft&bid=108&id=2653",
+    "wikipedia": "de:Foodsharing.de",
+    "id": "node/11013062285"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5361556,
+      47.3947917
     ]
   }
 }

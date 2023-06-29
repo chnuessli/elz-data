@@ -40468,7 +40468,10 @@
     "addr:street": "Narzissenstrasse",
     "amenity": "kindergarten",
     "name": "Russischer Kindergarten",
+    "note": "Telefonnummer auf Schild mit +49 angeschrieben.",
     "operator": "Verein Matrjoschka",
+    "phone": "+41 43 268 90 03",
+    "website": "https://matrjoschka.ch/",
     "id": "node/4419399221"
   },
   "geometry": {

@@ -3815,6 +3815,7 @@
     "healthcare": "clinic",
     "indoor": "yes",
     "level": "2",
+    "name": "Permanence",
     "id": "way/381444923"
   },
   "geometry": {
