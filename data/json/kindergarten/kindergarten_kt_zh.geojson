@@ -32589,6 +32589,42 @@
 },
 {
   "type": "Feature",
+  "id": "way/1185674730",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Schooren",
+    "id": "way/1185674730"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5505124,
+          47.3194256
+        ],
+        [
+          8.5506803,
+          47.3191868
+        ],
+        [
+          8.5511035,
+          47.3193505
+        ],
+        [
+          8.5509607,
+          47.3195687
+        ],
+        [
+          8.5505124,
+          47.3194256
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
@@ -39610,6 +39646,7 @@
     "addr:postcode": "8400",
     "addr:street": "Lagerhausstrasse",
     "amenity": "kindergarten",
+    "level": "3",
     "name": "Kita Globegarden Archhöfe",
     "operator": "Globegarden gmbh",
     "operator:type": "private",
@@ -39634,6 +39671,7 @@
     "addr:postcode": "8400",
     "addr:street": "Marktgasse",
     "amenity": "kindergarten",
+    "check_date": "2023-06-29",
     "name": "Child Care Corner",
     "operator": "Verein Child Care Concept",
     "operator:type": "private",
@@ -43050,26 +43088,6 @@
     "coordinates": [
       8.5455781,
       47.3200311
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9899330509",
-  "properties": {
-    "addr:city": "Kilchberg",
-    "addr:housenumber": "33",
-    "addr:postcode": "8802",
-    "addr:street": "Pilgerweg",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Schooren 1",
-    "id": "node/9899330509"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.550675,
-      47.3193739
     ]
   }
 },

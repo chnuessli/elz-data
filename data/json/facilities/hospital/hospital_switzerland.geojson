@@ -52877,6 +52877,31 @@
       47.1117377
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11014936815",
+  "properties": {
+    "addr:city": "Burgdorf",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "3400",
+    "addr:street": "Poststrasse",
+    "amenity": "clinic",
+    "email": "hausarzt@kurwerk.ch",
+    "healthcare:speciality": "general;surgery;physiatry;paediatrics;psychiatry;orthopaedics;neurosurgery",
+    "name": "KurWerk",
+    "phone": "+41 34 427 05 05",
+    "website": "https://www.kurwerk.ch",
+    "id": "node/11014936815"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6235854,
+      47.0603519
+    ]
+  }
 }
 ]
 }
