@@ -14,6 +14,7 @@
     "building": "yes",
     "name": "Hammenschulhaus",
     "type": "multipolygon",
+    "wikidata": "Q120111290",
     "id": "relation/11067217"
   },
   "geometry": {
@@ -3855,7 +3856,7 @@
     "addr:street": "Schulstrasse",
     "amenity": "school",
     "building": "school",
-    "name": "Schulhaus Zimmerberg",
+    "name": "Schulhaus Zimmerberg I",
     "id": "way/252124425"
   },
   "geometry": {
@@ -6021,6 +6022,7 @@
   "properties": {
     "amenity": "school",
     "building": "yes",
+    "wikidata": "Q120111290",
     "id": "way/799763002"
   },
   "geometry": {

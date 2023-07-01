@@ -19864,7 +19864,6 @@
     "building": "yes",
     "healthcare": "clinic",
     "name": "Klinik Gut Chur",
-    "source": "bing",
     "website": "https://www.klinik-gut.ch/",
     "id": "way/294325094"
   },
@@ -19873,24 +19872,24 @@
     "coordinates": [
       [
         [
-          9.5371734,
-          46.8532021
+          9.5373063,
+          46.8531737
         ],
         [
-          9.5372612,
-          46.8531187
+          9.5374206,
+          46.8530786
         ],
         [
-          9.537357,
-          46.8531659
+          9.5375075,
+          46.8531274
         ],
         [
-          9.5372692,
-          46.8532492
+          9.5373931,
+          46.8532226
         ],
         [
-          9.5371734,
-          46.8532021
+          9.5373063,
+          46.8531737
         ]
       ]
     ]
@@ -52888,9 +52887,11 @@
     "addr:postcode": "3400",
     "addr:street": "Poststrasse",
     "amenity": "clinic",
+    "check_date:opening_hours": "2023-06-30",
     "email": "hausarzt@kurwerk.ch",
     "healthcare:speciality": "general;surgery;physiatry;paediatrics;psychiatry;orthopaedics;neurosurgery",
     "name": "KurWerk",
+    "opening_hours:signed": "no",
     "phone": "+41 34 427 05 05",
     "website": "https://www.kurwerk.ch",
     "id": "node/11014936815"
