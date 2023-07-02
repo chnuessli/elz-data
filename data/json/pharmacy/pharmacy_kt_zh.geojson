@@ -6558,6 +6558,7 @@
     "branch": "Volketswil Zentrum",
     "brand": "Medbase",
     "brand:wikidata": "Q50038690",
+    "level": "1",
     "name": "Medbase Apotheke Volketswil",
     "operator": "Medbase Apotheken",
     "website": "https://www.topwell.ch/medbaseapothekevolketswil/",
@@ -6566,8 +6567,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.680331,
-      47.3887373
+      8.681112,
+      47.388053
     ]
   }
 },
