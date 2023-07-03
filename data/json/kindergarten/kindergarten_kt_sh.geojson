@@ -2246,6 +2246,7 @@
     "building": "kindergarten",
     "building:levels": "2",
     "name": "Kindergarten Rheingold",
+    "roof:colour": "darkgray",
     "roof:levels": "0",
     "roof:shape": "flat",
     "id": "way/256851177"
