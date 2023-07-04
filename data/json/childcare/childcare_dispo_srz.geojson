@@ -12519,6 +12519,24 @@
       47.3888422
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11022623436",
+  "properties": {
+    "addr:housenumber": "147",
+    "addr:street": "Baarerstrasse",
+    "amenity": "childcare",
+    "name": "Little Star Day School",
+    "id": "node/11022623436"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5193937,
+      47.1824481
+    ]
+  }
 }
 ]
 }

@@ -20791,6 +20791,84 @@
 },
 {
   "type": "Feature",
+  "id": "way/305755688",
+  "properties": {
+    "addr:city": "Sarnen",
+    "addr:housenumber": "8",
+    "addr:postcode": "6060",
+    "addr:street": "Militärstrasse",
+    "amenity": "hospital",
+    "building": "yes",
+    "email": "klinik-sarnen@lups.ch",
+    "healthcare": "hospital",
+    "name": "Luzerner Psychiatrie Klinik Sarnen",
+    "operator": "Luzerner Psychiatrie",
+    "phone": "+41 58 856 59 59",
+    "website": "https://www.lups.ch/erwachsenen-psychiatrie/allgemeinpsychiatrie/kliniken/",
+    "id": "way/305755688"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.2475474,
+          46.8873453
+        ],
+        [
+          8.247247,
+          46.8870516
+        ],
+        [
+          8.2473432,
+          46.8870057
+        ],
+        [
+          8.2472473,
+          46.8869119
+        ],
+        [
+          8.2472338,
+          46.8869184
+        ],
+        [
+          8.2472132,
+          46.8868983
+        ],
+        [
+          8.2472794,
+          46.8868667
+        ],
+        [
+          8.2472993,
+          46.8868861
+        ],
+        [
+          8.2473723,
+          46.8868512
+        ],
+        [
+          8.2474684,
+          46.8869451
+        ],
+        [
+          8.2474247,
+          46.886966
+        ],
+        [
+          8.2477255,
+          46.8872603
+        ],
+        [
+          8.2475474,
+          46.8873453
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/305875553",
   "properties": {
     "addr:city": "Poschiavo",
@@ -35973,83 +36051,6 @@
         [
           8.6359587,
           46.88241
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/676987376",
-  "properties": {
-    "addr:city": "Sarnen",
-    "addr:country": "CH",
-    "addr:housenumber": "183",
-    "addr:postcode": "6060",
-    "addr:street": "Brünigstrasse",
-    "amenity": "hospital",
-    "healthcare": "hospital",
-    "name": "Luzerner Psychiatrie Klinik Sarnen",
-    "operator": "Luzerner Psychiatrie",
-    "phone": "+41 58 856 59 59",
-    "website": "https://www.lups.ch/erwachsenen-psychiatrie/allgemeinpsychiatrie/kliniken/",
-    "id": "way/676987376"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.2451132,
-          46.8900001
-        ],
-        [
-          8.2450877,
-          46.8894883
-        ],
-        [
-          8.2456912,
-          46.8894305
-        ],
-        [
-          8.2457006,
-          46.8892811
-        ],
-        [
-          8.2459111,
-          46.8892069
-        ],
-        [
-          8.245938,
-          46.8892335
-        ],
-        [
-          8.2466125,
-          46.8890034
-        ],
-        [
-          8.2466876,
-          46.8890667
-        ],
-        [
-          8.2468781,
-          46.8896267
-        ],
-        [
-          8.2466348,
-          46.8896279
-        ],
-        [
-          8.2457958,
-          46.8896615
-        ],
-        [
-          8.2458093,
-          46.8899924
-        ],
-        [
-          8.2451132,
-          46.8900001
         ]
       ]
     ]
