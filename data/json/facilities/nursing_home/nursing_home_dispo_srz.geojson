@@ -11476,6 +11476,69 @@
 },
 {
   "type": "Feature",
+  "id": "way/139932127",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "47",
+    "addr:postcode": "8053",
+    "addr:street": "Buchzelgstrasse",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "building:levels": "5",
+    "name": "Alterswohnungen Stöckli",
+    "roof:shape": "flat",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "id": "way/139932127"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5872288,
+          47.3601348
+        ],
+        [
+          8.5873189,
+          47.3598446
+        ],
+        [
+          8.5877413,
+          47.3599048
+        ],
+        [
+          8.5877708,
+          47.3598096
+        ],
+        [
+          8.5879921,
+          47.3598412
+        ],
+        [
+          8.5879316,
+          47.3600359
+        ],
+        [
+          8.5875111,
+          47.359976
+        ],
+        [
+          8.5874519,
+          47.3601666
+        ],
+        [
+          8.5872288,
+          47.3601348
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/145458777",
   "properties": {
     "addr:city": "Zürich",

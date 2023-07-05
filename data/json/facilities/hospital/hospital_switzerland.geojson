@@ -14904,6 +14904,7 @@
     "amenity": "clinic",
     "building": "yes",
     "healthcare": "clinic",
+    "name": "CMCB",
     "id": "way/199683744"
   },
   "geometry": {
@@ -48136,21 +48137,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2946346767",
-  "properties": {
-    "amenity": "clinic",
-    "id": "node/2946346767"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      6.1953564,
-      46.1960489
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3157462905",
   "properties": {
     "amenity": "clinic",
@@ -50978,22 +50964,6 @@
     "coordinates": [
       7.2233021,
       46.0968038
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8264333258",
-  "properties": {
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "id": "node/8264333258"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.0668349,
-      47.0559965
     ]
   }
 },
