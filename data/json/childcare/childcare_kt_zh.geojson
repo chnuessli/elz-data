@@ -5256,6 +5256,7 @@
   "id": "node/6399153075",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2023-07-05",
     "name": "Sternenstaub",
     "id": "node/6399153075"
   },

@@ -11628,6 +11628,30 @@
       47.3609951
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11027195157",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "319",
+    "addr:postcode": "8008",
+    "addr:street": "Forchstrasse",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "sports_medicine",
+    "name": "Universitäres Zentrum für Prävention und Sportmedizin",
+    "operator": "Universitätsklinik Balgrist",
+    "operator:type": "university",
+    "id": "node/11027195157"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5746791,
+      47.3552798
+    ]
+  }
 }
 ]
 }

@@ -22174,6 +22174,7 @@
     "highway": "motorway",
     "lanes": "3",
     "lit": "no",
+    "maxheight": "default",
     "maxspeed": "100",
     "oneway": "yes",
     "ref": "A1H",
@@ -28129,8 +28130,8 @@
         47.2821851
       ],
       [
-        8.8232831,
-        47.2818967
+        8.8232932,
+        47.281899
       ],
       [
         8.8238438,
@@ -39554,6 +39555,7 @@
     "highway": "motorway",
     "lanes": "4",
     "lit": "no",
+    "maxheight": "default",
     "maxspeed": "100",
     "oneway": "yes",
     "placement": "middle_of:2",
@@ -45365,6 +45367,7 @@
     "old_name": "A53",
     "oneway": "yes",
     "ref": "A15",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/288229662"
   },
@@ -45376,8 +45379,8 @@
         47.2813036
       ],
       [
-        8.8234395,
-        47.2819576
+        8.8233928,
+        47.2820058
       ]
     ]
   }

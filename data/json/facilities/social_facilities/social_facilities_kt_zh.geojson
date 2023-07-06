@@ -26904,28 +26904,28 @@
           47.4411727
         ],
         [
-          8.8369819,
-          47.441169
+          8.8369866,
+          47.4411897
         ],
         [
-          8.8370419,
-          47.4411656
+          8.8370575,
+          47.4411807
         ],
         [
-          8.8371538,
-          47.4411584
+          8.8371351,
+          47.4411774
         ],
         [
-          8.8371753,
-          47.4413906
+          8.837162,
+          47.4414131
         ],
         [
-          8.837119,
-          47.441396
+          8.8371079,
+          47.4414197
         ],
         [
-          8.8371217,
-          47.4414359
+          8.8371115,
+          47.4414536
         ],
         [
           8.8369098,
@@ -37422,7 +37422,9 @@
     "addr:street": "Untere Bahnhofstrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "social_facility": "shelter",
+    "roof:shape": "gabled",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
     "id": "way/1070674110"
   },
   "geometry": {
@@ -37463,7 +37465,9 @@
     "addr:street": "Dorfstrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "social_facility": "shelter",
+    "roof:shape": "gabled",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
     "id": "way/1070674111"
   },
   "geometry": {
