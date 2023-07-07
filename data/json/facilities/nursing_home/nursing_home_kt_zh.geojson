@@ -742,6 +742,194 @@
 },
 {
   "type": "Feature",
+  "id": "relation/15021789",
+  "properties": {
+    "addr:city": "Volketswil",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "8604",
+    "addr:street": "In der Au",
+    "alt_name": "Pflegezentrum VitaFutura; Altersheim VitraFutura",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@vitafutura.ch",
+    "name": "Leben & Wohnen VitaFutura",
+    "operator": "Volketswil",
+    "phone": "+41 43 399 36 00",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "type": "multipolygon",
+    "website": "https://www.vitafutura.ch/",
+    "id": "relation/15021789"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6891271,
+          47.3908199
+        ],
+        [
+          8.6891327,
+          47.3907191
+        ],
+        [
+          8.6891069,
+          47.3907178
+        ],
+        [
+          8.6891454,
+          47.3905608
+        ],
+        [
+          8.6891504,
+          47.3905618
+        ],
+        [
+          8.689171,
+          47.3904492
+        ],
+        [
+          8.6891553,
+          47.3904521
+        ],
+        [
+          8.6891422,
+          47.3903
+        ],
+        [
+          8.6890831,
+          47.3903039
+        ],
+        [
+          8.6890824,
+          47.3901473
+        ],
+        [
+          8.6891899,
+          47.3901464
+        ],
+        [
+          8.6891906,
+          47.3901272
+        ],
+        [
+          8.6894958,
+          47.3901331
+        ],
+        [
+          8.689537,
+          47.390256
+        ],
+        [
+          8.6895624,
+          47.3902588
+        ],
+        [
+          8.6895208,
+          47.3905281
+        ],
+        [
+          8.68946,
+          47.3905382
+        ],
+        [
+          8.689513,
+          47.3906796
+        ],
+        [
+          8.6895454,
+          47.3906732
+        ],
+        [
+          8.6895737,
+          47.3907752
+        ],
+        [
+          8.6893058,
+          47.3908088
+        ],
+        [
+          8.6893047,
+          47.3908281
+        ],
+        [
+          8.6891271,
+          47.3908199
+        ]
+      ],
+      [
+        [
+          8.6892577,
+          47.3907422
+        ],
+        [
+          8.6893727,
+          47.3907216
+        ],
+        [
+          8.6893636,
+          47.390686
+        ],
+        [
+          8.6892661,
+          47.3906798
+        ],
+        [
+          8.6892577,
+          47.3907422
+        ]
+      ],
+      [
+        [
+          8.6892638,
+          47.3905215
+        ],
+        [
+          8.6893453,
+          47.3905266
+        ],
+        [
+          8.6893575,
+          47.3904374
+        ],
+        [
+          8.6892409,
+          47.3904328
+        ],
+        [
+          8.6892638,
+          47.3905215
+        ]
+      ],
+      [
+        [
+          8.6892501,
+          47.3902976
+        ],
+        [
+          8.6893407,
+          47.3902878
+        ],
+        [
+          8.6893438,
+          47.3902456
+        ],
+        [
+          8.6892409,
+          47.3902389
+        ],
+        [
+          8.6892501,
+          47.3902976
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/10743329",
   "properties": {
     "addr:city": "Niederglatt",
@@ -25071,34 +25259,6 @@
     "coordinates": [
       8.5283638,
       47.3718636
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10961069461",
-  "properties": {
-    "addr:city": "Volketswil",
-    "addr:country": "CH",
-    "addr:housenumber": "6",
-    "addr:postcode": "8604",
-    "addr:street": "In der Au",
-    "alt_name": "Pflegezentrum VitaFutura; Altersheim VitraFutura",
-    "amenity": "social_facility",
-    "email": "info@vitafutura.ch",
-    "name": "Leben & Wohnen VitaFutura",
-    "operator": "Volketswil",
-    "phone": "+41 43 399 36 00",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "website": "https://www.vitafutura.ch/",
-    "id": "node/10961069461"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6892678,
-      47.3903845
     ]
   }
 }

@@ -11,6 +11,7 @@
     "addr:street": "Kamorstrasse",
     "amenity": "childcare",
     "building": "yes",
+    "check_date": "2023-07-06",
     "name": "Spielhuus Emmersberg",
     "id": "way/172233194"
   },
