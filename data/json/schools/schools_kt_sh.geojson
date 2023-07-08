@@ -1340,8 +1340,9 @@
   "id": "way/159146505",
   "properties": {
     "addr:city": "Dörflingen",
+    "addr:country": "CH",
     "addr:housenumber": "6",
-    "addr:postcode": "8293",
+    "addr:postcode": "8239",
     "addr:street": "Schulstrasse",
     "amenity": "school",
     "building": "school",
@@ -4413,47 +4414,6 @@
         [
           8.8142671,
           47.7091235
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/275717172",
-  "properties": {
-    "addr:city": "Beringen",
-    "addr:housenumber": "1",
-    "addr:postcode": "8222",
-    "addr:street": "Schützeweg",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Schützeweg 2 (Primar Mittelstufe)",
-    "id": "way/275717172"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5755474,
-          47.7020046
-        ],
-        [
-          8.5756314,
-          47.7018086
-        ],
-        [
-          8.5759415,
-          47.7018694
-        ],
-        [
-          8.5758561,
-          47.7020645
-        ],
-        [
-          8.5755474,
-          47.7020046
         ]
       ]
     ]

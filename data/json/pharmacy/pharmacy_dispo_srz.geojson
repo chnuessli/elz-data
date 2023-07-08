@@ -713,6 +713,7 @@
     "addr:postcode": "8400",
     "addr:street": "Steiggasse",
     "amenity": "pharmacy",
+    "check_date": "2023-07-07",
     "dispensing": "yes",
     "name": "Steinberg-Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
