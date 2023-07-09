@@ -10478,9 +10478,11 @@
     "addr:street": "Rudolfstrasse",
     "amenity": "clinic",
     "check_date": "2023-06-27",
+    "check_date:opening_hours": "2023-07-08",
     "healthcare": "clinic",
     "healthcare:speciality": "psychiatry",
     "name": "IPW Akut-Tagesklinik",
+    "opening_hours:signed": "no",
     "operator": "Integrierte Psychiatrie Winterthur - Zürcher Unterland",
     "id": "node/5507116089"
   },
