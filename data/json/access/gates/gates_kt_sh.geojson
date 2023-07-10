@@ -3109,6 +3109,70 @@
       47.6992874
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11035513208",
+  "properties": {
+    "barrier": "gate",
+    "maxwidth": "1.2",
+    "id": "node/11035513208"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.600134,
+      47.6794681
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11035513209",
+  "properties": {
+    "barrier": "gate",
+    "maxwidth": "3.0",
+    "id": "node/11035513209"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6001118,
+      47.6794967
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11035513210",
+  "properties": {
+    "barrier": "gate",
+    "maxwidth": "1.0",
+    "id": "node/11035513210"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5999834,
+      47.6796694
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11035513211",
+  "properties": {
+    "barrier": "gate",
+    "maxwidth": "2.5",
+    "id": "node/11035513211"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5999536,
+      47.6797092
+    ]
+  }
 }
 ]
 }

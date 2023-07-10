@@ -2270,6 +2270,7 @@
     "maxspeed": "100",
     "oneway": "yes",
     "ref": "A4",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/4772936"
   },
@@ -4986,6 +4987,7 @@
     "maxspeed:variable": "yes",
     "oneway": "yes",
     "ref": "A4",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "merge_to_right|",
     "id": "way/25018634"
@@ -5019,6 +5021,7 @@
     "maxspeed:variable": "yes",
     "oneway": "yes",
     "ref": "A4",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "merge_to_right|",
     "id": "way/25018635"
@@ -5388,6 +5391,7 @@
     "oneway": "no",
     "ref": "A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/26495349"
   },
@@ -6328,6 +6332,7 @@
     "oneway": "no",
     "ref": "A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes",
     "tunnel:name": "Mositunnel",
@@ -13921,6 +13926,7 @@
     "maxspeed": "100",
     "oneway": "yes",
     "ref": "A4",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/260349432"
   },
@@ -13950,6 +13956,7 @@
     "maxspeed": "80",
     "oneway": "yes",
     "ref": "A4",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/260349433"
   },
@@ -13978,6 +13985,7 @@
     "maxspeed": "100",
     "oneway": "yes",
     "ref": "A4",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/260349434"
   },
@@ -14011,6 +14019,7 @@
     "oneway": "yes",
     "ref": "A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/260349435"
   },
@@ -17295,6 +17304,7 @@
     "maxspeed:variable": "yes",
     "oneway": "yes",
     "ref": "A4",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/304209209"
   },
@@ -17605,6 +17615,7 @@
     "oneway": "yes",
     "ref": "A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/304385961"
   },
@@ -17649,6 +17660,7 @@
     "maxspeed:variable": "yes",
     "oneway": "yes",
     "ref": "A4",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/304385962"
   },
@@ -17689,6 +17701,7 @@
     "oneway": "no",
     "ref": "A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes:backward": "|merge_to_left",
     "id": "way/304386773"
@@ -17726,6 +17739,7 @@
     "oneway": "no",
     "ref": "A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes:backward": "|merge_to_left",
     "id": "way/304386774"
@@ -17792,6 +17806,7 @@
     "oneway": "no",
     "ref": "A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/309734007"
   },
@@ -17956,6 +17971,7 @@
     "oneway": "no",
     "ref": "A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/360408260"
   },
@@ -20777,6 +20793,7 @@
     "maxspeed": "100",
     "oneway": "yes",
     "ref": "A4",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "none|none|slight_right",
     "id": "way/643495161"

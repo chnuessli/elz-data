@@ -27841,15 +27841,16 @@
   "type": "Feature",
   "id": "node/3211349950",
   "properties": {
-    "barrier": "gate",
+    "barrier": "lift_gate",
+    "lift_gate:type": "single",
     "motor_vehicle": "private",
     "id": "node/3211349950"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8449544,
-      47.2598936
+      8.8449452,
+      47.2598949
     ]
   }
 },
@@ -32545,6 +32546,7 @@
   "id": "node/3907585793",
   "properties": {
     "barrier": "gate",
+    "gate:type": "rolling",
     "id": "node/3907585793"
   },
   "geometry": {
@@ -51219,6 +51221,22 @@
     "coordinates": [
       8.6606469,
       47.2645712
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7181121841",
+  "properties": {
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/7181121841"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8443666,
+      47.4100955
     ]
   }
 },
@@ -72437,6 +72455,88 @@
     "coordinates": [
       8.5339223,
       47.3611069
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11035290314",
+  "properties": {
+    "barrier": "lift_gate",
+    "lift_gate:type": "double",
+    "id": "node/11035290314"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8358848,
+      47.3034234
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11035363034",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "wood",
+    "id": "node/11035363034"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7533722,
+      47.3933546
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11035774707",
+  "properties": {
+    "barrier": "gate",
+    "vehicle": "customer",
+    "id": "node/11035774707"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7762674,
+      47.2920306
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11035774708",
+  "properties": {
+    "barrier": "gate",
+    "vehicle": "customer",
+    "id": "node/11035774708"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7759742,
+      47.2920682
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11036308790",
+  "properties": {
+    "access": "yes",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/11036308790"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8457947,
+      47.4190992
     ]
   }
 }

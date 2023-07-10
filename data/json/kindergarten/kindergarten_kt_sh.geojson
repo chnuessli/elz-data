@@ -3063,7 +3063,7 @@
   "type": "Feature",
   "id": "node/4429402703",
   "properties": {
-    "addr:city": "Lohn (SH)",
+    "addr:city": "Lohn SH",
     "addr:country": "CH",
     "addr:housenumber": "5",
     "addr:postcode": "8235",

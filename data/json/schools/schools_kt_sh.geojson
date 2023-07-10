@@ -3998,7 +3998,7 @@
   "type": "Feature",
   "id": "way/256578036",
   "properties": {
-    "addr:city": "Lohn",
+    "addr:city": "Lohn SH",
     "addr:country": "CH",
     "addr:housename": "Schulhaus Lohn",
     "addr:housenumber": "17",
@@ -4956,7 +4956,7 @@
   "type": "Feature",
   "id": "way/277666529",
   "properties": {
-    "addr:city": "Stetten (SH)",
+    "addr:city": "Stetten SH",
     "addr:country": "CH",
     "addr:housenumber": "22",
     "addr:postcode": "8234",

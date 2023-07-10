@@ -52962,6 +52962,27 @@
       46.8508481
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11036150986",
+  "properties": {
+    "amenity": "clinic",
+    "branch": "Chur",
+    "healthcare": "clinic",
+    "healthcare:speciality": "ophthalmology",
+    "name": "Augenzentrum Grischun",
+    "phone": "+41 81 410 60 70",
+    "website": "https://augenzentrum-grischun.ch/standorte/chur/",
+    "id": "node/11036150986"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5301892,
+      46.8528379
+    ]
+  }
 }
 ]
 }
