@@ -956,17 +956,19 @@
     "addr:housenumber": "6",
     "addr:postcode": "8604",
     "addr:street": "In der Au",
-    "alt_name": "Pflegezentrum VitaFutura; Altersheim VitraFutura",
+    "alt_name": "Pflegezentrum VitaFutura;Altersheim VitraFutura",
     "amenity": "social_facility",
     "building": "yes",
     "email": "info@vitafutura.ch",
-    "name": "Leben & Wohnen VitaFutura",
-    "operator": "Volketswil",
+    "name": "Leben und Wohnen \"In der Au\"",
+    "operator": "Volketswil (VitaFutura AG)",
+    "operator:type": "government",
     "phone": "+41 43 399 36 00",
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "type": "multipolygon",
     "website": "https://www.vitafutura.ch/",
+    "wheelchair": "yes",
     "id": "relation/15021789"
   },
   "geometry": {
@@ -974,8 +976,8 @@
     "coordinates": [
       [
         [
-          8.6891271,
-          47.3908199
+          8.6890966,
+          47.3908639
         ],
         [
           8.6891327,
@@ -1050,20 +1052,20 @@
           47.3906732
         ],
         [
-          8.6895737,
-          47.3907752
+          8.6896022,
+          47.3908192
         ],
         [
-          8.6893058,
-          47.3908088
+          8.6893973,
+          47.3908267
         ],
         [
-          8.6893047,
-          47.3908281
+          8.6892844,
+          47.3908377
         ],
         [
-          8.6891271,
-          47.3908199
+          8.6890966,
+          47.3908639
         ]
       ],
       [

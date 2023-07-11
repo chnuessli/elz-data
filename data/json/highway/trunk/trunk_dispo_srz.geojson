@@ -6497,6 +6497,7 @@
   "type": "Feature",
   "id": "way/46494132",
   "properties": {
+    "alt_name": "Schönenberg Galerie",
     "bicycle": "no",
     "foot": "no",
     "highway": "trunk",
@@ -6522,8 +6523,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6407886,
-        47.710272
+        8.6407751,
+        47.7102791
       ],
       [
         8.6405332,
@@ -12913,8 +12914,8 @@
         47.7103784
       ],
       [
-        8.6407886,
-        47.710272
+        8.6407751,
+        47.7102791
       ]
     ]
   }
@@ -22348,6 +22349,7 @@
   "type": "Feature",
   "id": "way/884095855",
   "properties": {
+    "alt_name": "Schönenberg Galerie",
     "bicycle": "no",
     "foot": "no",
     "highway": "trunk",

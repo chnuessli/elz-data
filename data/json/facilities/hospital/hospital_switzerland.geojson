@@ -4660,6 +4660,53 @@
 },
 {
   "type": "Feature",
+  "id": "way/29450319",
+  "properties": {
+    "addr:city": "Volketswil",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "8604",
+    "addr:street": "In der Au",
+    "amenity": "clinic",
+    "building": "office",
+    "healthcare": "clinic",
+    "healthcare:speciality": "pflege",
+    "name": "Spitex Volketswil - Pflege zu Hause",
+    "operator": "Leben und Wohnen \"In der Au\"",
+    "operator:type": "government",
+    "source": "Yahoo",
+    "id": "way/29450319"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6892693,
+          47.3897424
+        ],
+        [
+          8.689411,
+          47.3897446
+        ],
+        [
+          8.6894028,
+          47.389986
+        ],
+        [
+          8.6892611,
+          47.3899838
+        ],
+        [
+          8.6892693,
+          47.3897424
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/31966721",
   "properties": {
     "addr:city": "Zürich",
@@ -16603,61 +16650,6 @@
         [
           7.6843878,
           47.5695679
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/244603385",
-  "properties": {
-    "addr:city": "Volketswil",
-    "addr:country": "CH",
-    "addr:housenumber": "4",
-    "addr:postcode": "8604",
-    "addr:street": "In der Au",
-    "amenity": "clinic",
-    "building": "yes",
-    "healthcare": "clinic",
-    "name": "Spitex",
-    "id": "way/244603385"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6886873,
-          47.390251
-        ],
-        [
-          8.6887709,
-          47.3901913
-        ],
-        [
-          8.6889334,
-          47.3901851
-        ],
-        [
-          8.6889429,
-          47.3903129
-        ],
-        [
-          8.688838,
-          47.3903168
-        ],
-        [
-          8.6888361,
-          47.3902962
-        ],
-        [
-          8.6886892,
-          47.3902987
-        ],
-        [
-          8.6886873,
-          47.390251
         ]
       ]
     ]
