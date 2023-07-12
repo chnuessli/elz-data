@@ -7979,21 +7979,16 @@
   "type": "Feature",
   "id": "way/59272809",
   "properties": {
-    "addr:city": "Bern",
-    "addr:housenumber": "8",
-    "addr:postcode": "3010",
-    "addr:street": "Freiburgstrasse",
     "amenity": "clinic",
     "building": "hospital",
-    "contact:addr:full": "Freiburgstrasse 8, 3010 Bern",
     "contact:email": "augenheilkunde@insel.ch",
-    "contact:fax": "+41 31 3824779",
-    "contact:phone": "+41 31 6322501",
+    "contact:fax": "+41 31 382 47 79",
+    "contact:phone": "+41 31 632 25 01",
     "healthcare": "clinic",
     "internet_access": "wlan",
     "internet_access:fee": "no",
     "name": "Augenklinik Inselspital",
-    "website": "http://www.augenheilkunde.insel.ch",
+    "website": "https://www.augenheilkunde.insel.ch/de/",
     "wheelchair": "yes",
     "id": "way/59272809"
   },
@@ -8044,6 +8039,10 @@
         [
           7.4262347,
           46.9480906
+        ],
+        [
+          7.4262217,
+          46.9480866
         ],
         [
           7.4261305,
@@ -8188,6 +8187,10 @@
         [
           7.426155,
           46.9482164
+        ],
+        [
+          7.4262013,
+          46.9482308
         ],
         [
           7.4262476,

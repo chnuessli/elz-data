@@ -12066,20 +12066,21 @@
   "type": "Feature",
   "id": "node/7928182492",
   "properties": {
-    "defibrillator:location": "Feuerwehr",
-    "description": "während Öffnungszeiten verfügbar",
+    "access": "yes",
+    "defibrillator:location": "An der Wand des Feuerwehrgebäudes, beim Seiteneingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "level": "0",
-    "name": "Feuerwehr Cham",
-    "wheelchair": "yes",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Cham",
+    "wheelchair": "no",
     "id": "node/7928182492"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4559348,
-      47.18519
+      8.4558819,
+      47.1850371
     ]
   }
 },
@@ -66807,6 +66808,54 @@
     "coordinates": [
       8.5248542,
       47.0252426
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11038763006",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Shop",
+    "description": "Während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Di. bis Fr. 13:00Uhr bis 18:30Uhr Samstag 8:00Uhr bis 15:00Uhr.",
+    "operator": "Adventuresports AG",
+    "phone": "+41 52 721 39 69",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11038763006"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7233806,
+      47.507425
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11039283405",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Badeplatz Tellenörtli",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
+    "phone": "+41 58 723 90 63",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11039283405"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5076827,
+      47.1495018
     ]
   }
 }
