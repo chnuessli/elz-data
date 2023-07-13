@@ -4230,7 +4230,7 @@
     "addr:street": "Leeweg",
     "amenity": "school",
     "building": "yes",
-    "name": "Allmend",
+    "name": "Turnhalle Allmend",
     "id": "way/25639863"
   },
   "geometry": {
@@ -96746,12 +96746,8 @@
           47.3885538
         ],
         [
-          8.466331,
-          47.3886649
-        ],
-        [
-          8.4660675,
-          47.3889526
+          8.4660334,
+          47.3889537
         ],
         [
           8.4658444,

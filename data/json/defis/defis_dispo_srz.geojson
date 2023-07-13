@@ -1105,7 +1105,8 @@
   "type": "Feature",
   "id": "node/5831745723",
   "properties": {
-    "defibrillator:location": "Hinter den beiden Aufzügen, gegenüber vom Empfang. / Behind the two elevators, opposite the reception.",
+    "access": "yes",
+    "defibrillator:location": "Empfangsbereich neben Liftanlage",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -8278,6 +8279,7 @@
     "description": "nur zugänglich wenn Gebäude geöffnet sind",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "id": "node/7644008617"
   },
   "geometry": {
@@ -8297,6 +8299,7 @@
     "description": "nur zugänglich wenn Gebäude geöffnet sind",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "id": "node/7644008618"
   },
   "geometry": {
@@ -27510,8 +27513,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5403332,
-      47.3199596
+      8.5403353,
+      47.3199586
     ]
   }
 },
@@ -66856,6 +66859,50 @@
     "coordinates": [
       8.5076827,
       47.1495018
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11042277105",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Poststelle, Pfäffikonerstrasse 3, 8834 Schindellegi",
+    "description": "bei Postbriefkasten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Feusisberg",
+    "phone": "+41554169476",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11042277105"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7127614,
+      47.1750084
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11043368085",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "2 Stock",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "ewz",
+    "id": "node/11043368085"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5492671,
+      47.4089829
     ]
   }
 }

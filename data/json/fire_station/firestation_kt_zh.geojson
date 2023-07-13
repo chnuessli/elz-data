@@ -3,6 +3,52 @@
 "features": [
 {
   "type": "Feature",
+  "id": "relation/16084378",
+  "properties": {
+    "addr:city": "Kilchberg ZH",
+    "addr:housenumber": "166",
+    "addr:postcode": "8802",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Feuerwehr Kilchberg-Rüschlikon",
+    "type": "multipolygon",
+    "id": "relation/16084378"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5453334,
+          47.3192761
+        ],
+        [
+          8.545496,
+          47.3192949
+        ],
+        [
+          8.5454565,
+          47.3194526
+        ],
+        [
+          8.5454457,
+          47.3194937
+        ],
+        [
+          8.5452846,
+          47.3194756
+        ],
+        [
+          8.5453334,
+          47.3192761
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/22453371",
   "properties": {
     "addr:housenumber": "60",
@@ -2010,51 +2056,6 @@
         [
           8.4617604,
           47.4097021
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/99241886",
-  "properties": {
-    "addr:city": "Kilchberg ZH",
-    "addr:housenumber": "166",
-    "addr:postcode": "8802",
-    "addr:street": "Alte Landstrasse",
-    "amenity": "fire_station",
-    "building": "yes",
-    "name": "Feuerwehr Kilchberg-Rüschlikon",
-    "id": "way/99241886"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5452696,
-          47.3194757
-        ],
-        [
-          8.5453136,
-          47.3192754
-        ],
-        [
-          8.5454891,
-          47.3192931
-        ],
-        [
-          8.5454543,
-          47.319452
-        ],
-        [
-          8.5454452,
-          47.3194934
-        ],
-        [
-          8.5452696,
-          47.3194757
         ]
       ]
     ]
@@ -6282,6 +6283,23 @@
     "coordinates": [
       8.5453977,
       47.3194304
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11041941318",
+  "properties": {
+    "amenity": "fire_station",
+    "name": "Betriebsfeuerwehr Givaudan",
+    "website": "https://lodur-zh.ch/givaudan/",
+    "id": "node/11041941318"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6110994,
+      47.400669
     ]
   }
 }

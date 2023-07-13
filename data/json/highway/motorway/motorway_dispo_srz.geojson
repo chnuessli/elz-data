@@ -8193,6 +8193,7 @@
     "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/17126280"
   },
@@ -8219,6 +8220,7 @@
     "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "none|none|slight_right",
     "id": "way/17126285"
@@ -8248,6 +8250,7 @@
     "maxspeed": "100",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "none|none|merge_to_left",
     "id": "way/17126293"
@@ -34454,6 +34457,7 @@
     "maxspeed": "100",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/164497752"
   },
@@ -34564,6 +34568,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/165489003"
   },
@@ -48590,6 +48595,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "none|none|merge_to_left",
     "id": "way/306293041"
@@ -48726,6 +48732,7 @@
     "maxspeed": "100",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "none|none|slight_right",
     "id": "way/306293047"
@@ -48780,6 +48787,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/306293049"
   },
@@ -48808,6 +48816,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/306293050"
   },
@@ -48836,6 +48845,7 @@
     "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "none|none|slight_right",
     "id": "way/306293051"
@@ -48918,6 +48928,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "none|none|merge_to_left",
     "id": "way/306293054"
@@ -48947,6 +48958,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/306293055"
   },
@@ -48974,6 +48986,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/306293056"
   },
@@ -49109,6 +49122,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/306293057"
   },
@@ -49243,6 +49257,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "none|none|slight_right",
     "id": "way/306293058"
@@ -49274,6 +49289,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/306293059"
   },
@@ -49731,6 +49747,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "none|none|slight_right",
     "id": "way/306293070"
@@ -49907,6 +49924,7 @@
     "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/306293075"
   },
@@ -49941,6 +49959,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "none|none|merge_to_left",
     "id": "way/306293077"
@@ -50151,6 +50170,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "none|none|merge_to_left",
     "id": "way/306293083"
@@ -50277,6 +50297,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/306293087"
   },
@@ -50486,6 +50507,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/306293094"
   },
@@ -64772,6 +64794,7 @@
     "cs_dir:forward": "2",
     "highway": "motorway",
     "lanes": "2",
+    "layer": "1",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -64903,6 +64926,7 @@
     "cs_dir:forward": "1",
     "highway": "motorway",
     "lanes": "2",
+    "layer": "1",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
