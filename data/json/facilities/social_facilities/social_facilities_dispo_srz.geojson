@@ -19621,7 +19621,9 @@
   "type": "Feature",
   "id": "way/155815759",
   "properties": {
+    "addr:city": "Adliswil",
     "addr:housenumber": "4",
+    "addr:postcode": "8134",
     "addr:street": "Badstrasse",
     "amenity": "social_facility",
     "building": "yes",
