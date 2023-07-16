@@ -44361,6 +44361,7 @@
     "old_name": "A51",
     "oneway": "yes",
     "ref": "A11",
+    "source:maxspeed": "sign",
     "toll": "yes",
     "id": "way/257163002"
   },

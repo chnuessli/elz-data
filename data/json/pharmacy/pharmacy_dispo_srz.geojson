@@ -2237,6 +2237,7 @@
     "addr:street": "Albisriederplatz",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date:opening_hours": "2023-07-15",
     "name": "Pilgerbrunnen Apotheke",
     "old_name": "Apotheke zum Pilgerbrunnen",
     "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-17:00",
