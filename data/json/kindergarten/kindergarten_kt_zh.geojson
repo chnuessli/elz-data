@@ -35691,7 +35691,8 @@
   "id": "node/4408280436",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Bambolina",
+    "check_date": "2023-07-16",
+    "name": "Bambola",
     "id": "node/4408280436"
   },
   "geometry": {
@@ -41569,8 +41570,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5075164,
-      47.3804588
+      8.507053,
+      47.3799835
     ]
   }
 },

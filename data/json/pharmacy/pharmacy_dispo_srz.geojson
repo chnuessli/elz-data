@@ -285,6 +285,7 @@
     "amenity": "pharmacy",
     "branch": "Zug Bahnhof",
     "brand": "Achillea Apotheke",
+    "check_date:opening_hours": "2023-07-16",
     "healthcare": "pharmacy",
     "indoor": "yes",
     "level": "0",
