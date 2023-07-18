@@ -8682,6 +8682,7 @@
     "addr:housenumber": "5",
     "addr:postcode": "8004",
     "addr:street": "Gustav-Gull-Platz",
+    "alt_name": "Ambulantes Zentrum Europaallee; Ambulatorium Europaallee",
     "amenity": "clinic",
     "name": "Stadtspital Zürich Europaallee",
     "operator": "Stadtspital Zürich",

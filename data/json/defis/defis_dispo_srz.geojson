@@ -22444,12 +22444,11 @@
   "id": "node/8560769140",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Erdgeschoss, an der Wand rechts",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Beim Eingang an der rechten Seite",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-We 08:30-12:00,13:30-16:00; Th 08:30-12:00,13:30-18:30; Fr 07:30-14:00",
+    "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Gemeindeverwaltung Urdorf",
     "phone": "+41 44 736 51 11",
     "id": "node/8560769140"
@@ -22457,8 +22456,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4274531,
-      47.3865117
+      8.4276303,
+      47.3865566
     ]
   }
 },
@@ -22490,11 +22489,10 @@
   "id": "node/8560811261",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Bachschulhaus, Eingang Bachschulhaus, nach oben führende Treppen, rechts an der Wand oder Eingang Bibliothek, durch Notausgang, links an der Wand",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Bachschulhaus, Eingang Friedhofstrasse, Öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
     "operator": "Gemeindeverwaltung Urdorf",
     "phone": "+41 44 736 51 11",
     "id": "node/8560811261"
@@ -22502,8 +22500,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4225816,
-      47.3825978
+      8.4226243,
+      47.3826473
     ]
   }
 },
@@ -63471,23 +63469,23 @@
   "type": "Feature",
   "id": "node/10883718905",
   "properties": {
-    "access": "yes",
-    "defibrillator:location": "Ökopower AG, Kiesgrube Mühlibach, 8913 Ottenbach",
+    "access": "customers",
+    "defibrillator:location": "Wiegehäuschen Ökopower AG, Kiesgrube Mühlibach, 8913 Ottenbach",
     "description": "nur während Öffnungszeiten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "level": "EG",
+    "level": "0",
     "opening_hours": "Mo-Fr 07:00-17:00",
     "operator": "Ökopower AG",
-    "phone": "+41447603177",
+    "phone": "+41 44 760 31 77",
     "id": "node/10883718905"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4059059,
-      47.2714683
+      8.4058913,
+      47.2714555
     ]
   }
 },
@@ -66226,31 +66224,6 @@
     "coordinates": [
       8.5386781,
       47.5236531
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11038063732",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Agir: Eingangskontrolle Waage, Riekenbachstrasse ",
-    "description": "Öffnungszeiten",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "0",
-    "opening_hours": "Mo-Fr: 7-17 Uhr",
-    "operator": "Agir AG",
-    "phone": "+41 44 762 44 88",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/11038063732"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4058982,
-      47.2714074
     ]
   }
 },
