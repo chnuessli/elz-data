@@ -8236,6 +8236,7 @@
     "name": "Schule Albisriederplatz",
     "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
     "roof:levels": "0",
+    "roof:shape": "flat",
     "start_date": "2009",
     "website": "https://www.stadt-zuerich.ch/schulen/de/albisriederplatz.html",
     "id": "way/144161904"
