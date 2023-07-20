@@ -25710,6 +25710,10 @@
   "properties": {
     "amenity": "social_facility",
     "capacity": "151",
+    "contact:city": "Zürich",
+    "contact:housenumber": "2",
+    "contact:postcode": "8053",
+    "contact:street": "Kienastenwiesweg",
     "name": "Gesundheitszentrum für das Alter Witikon",
     "old_name": "Krankenheim Witikon",
     "operator": "Stadt Zürich, GUD",

@@ -14729,6 +14729,73 @@
 },
 {
   "type": "Feature",
+  "id": "way/114025820",
+  "properties": {
+    "addr:city": "Schlieren",
+    "addr:housenumber": "5",
+    "addr:postcode": "8952",
+    "addr:street": "Gartenstrasse",
+    "alt_name": "Pflegeheim Smaily",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Pflege-Wohn-Heim Smaily",
+    "social_facility": "assisted_living",
+    "id": "way/114025820"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4428567,
+          47.3962557
+        ],
+        [
+          8.4429762,
+          47.3962711
+        ],
+        [
+          8.4429707,
+          47.396291
+        ],
+        [
+          8.443175,
+          47.3963173
+        ],
+        [
+          8.4431499,
+          47.396407
+        ],
+        [
+          8.4430704,
+          47.3963968
+        ],
+        [
+          8.4430627,
+          47.3964244
+        ],
+        [
+          8.4428984,
+          47.3964033
+        ],
+        [
+          8.4429038,
+          47.3963841
+        ],
+        [
+          8.4428236,
+          47.3963738
+        ],
+        [
+          8.4428567,
+          47.3962557
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/114160763",
   "properties": {
     "addr:city": "Zürich",
@@ -34865,48 +34932,48 @@
     "coordinates": [
       [
         [
-          8.5323437,
-          47.3697198
+          8.5323476,
+          47.3697191
         ],
         [
-          8.5322437,
-          47.3697773
+          8.5322487,
+          47.3697753
         ],
         [
-          8.5321447,
-          47.3698342
+          8.5321442,
+          47.3698348
         ],
         [
-          8.5320289,
-          47.3697418
+          8.5320276,
+          47.3697409
         ],
         [
-          8.5320972,
-          47.3697024
+          8.5321034,
+          47.3696977
         ],
         [
-          8.5321437,
-          47.3697395
+          8.5321484,
+          47.369734
         ],
         [
-          8.5323066,
-          47.3696459
+          8.5323056,
+          47.3696445
         ],
         [
-          8.5322596,
-          47.3696085
+          8.5322608,
+          47.3696084
         ],
         [
-          8.5323305,
-          47.3695677
+          8.5323358,
+          47.3695657
         ],
         [
-          8.5324468,
-          47.3696605
+          8.5324522,
+          47.3696596
         ],
         [
-          8.5323437,
-          47.3697198
+          8.5323476,
+          47.3697191
         ]
       ]
     ]
@@ -40192,6 +40259,10 @@
   "properties": {
     "amenity": "social_facility",
     "capacity": "151",
+    "contact:city": "Zürich",
+    "contact:housenumber": "2",
+    "contact:postcode": "8053",
+    "contact:street": "Kienastenwiesweg",
     "name": "Gesundheitszentrum für das Alter Witikon",
     "old_name": "Krankenheim Witikon",
     "operator": "Stadt Zürich, GUD",
@@ -46611,9 +46682,11 @@
     "addr:street": "Dorfstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "name": "Casa Solaris",
     "roof:shape": "gabled",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
+    "website": "https://casa-solaris.ch/de/kollbrunn/",
     "id": "way/1070674111"
   },
   "geometry": {
@@ -47900,8 +47973,12 @@
   "id": "way/1157849229",
   "properties": {
     "amenity": "social_facility",
+    "contact:city": "Richterswil",
     "contact:email": "etzelblick@tertianum.ch",
+    "contact:housenumber": "17",
     "contact:phone": "+41 43 544 01 01",
+    "contact:postcode": "8805",
+    "contact:street": "Gartenstrasse",
     "contact:website": "https://www.tertianum.ch/de/tertianum-etzelblick-richterswil_url-correct",
     "name": "Tertianum Etzelblick",
     "operator": "Tertianum Etzelblick",
