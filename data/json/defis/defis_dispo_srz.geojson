@@ -66836,6 +66836,56 @@
       47.5056456
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11056334005",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Eingangsbereich des Reha-Zentrum Papieri auf die linke Seite ",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Do 07.30 - 19.30 Uhr, Fr 07.30 - 17.00 Uhr",
+    "operator": "Reha-Zentrum Papieri AG",
+    "phone": "+41 41 781 40 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11056334005"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4569567,
+      47.1864241
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11056810805",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Riethofstrasse 3, 8152 Glattbrugg",
+    "description": "Der Defibrillator befindet sich am Ende der fensterlosen Wand im linken Raum, wenn man vom Lift herausläuft.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr: 08:00-17:30",
+    "operator": "Unternehmen",
+    "phone": "+41 44 592 79 79",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11056810805"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5676193,
+      47.4360852
+    ]
+  }
 }
 ]
 }

@@ -26664,21 +26664,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2972105200",
-  "properties": {
-    "barrier": "lift_gate",
-    "id": "node/2972105200"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.811403,
-      47.28902
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2984208837",
   "properties": {
     "barrier": "lift_gate",
@@ -72934,6 +72919,59 @@
     "coordinates": [
       8.849984,
       47.4183891
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11056270777",
+  "properties": {
+    "barrier": "gate",
+    "locked": "yes",
+    "service": "emergency_access",
+    "vehicle": "private",
+    "id": "node/11056270777"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4986517,
+      47.3922149
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11057523959",
+  "properties": {
+    "access": "yes",
+    "barrier": "lift_gate",
+    "lift_gate:type": "single",
+    "material": "metal",
+    "id": "node/11057523959"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8112959,
+      47.2891059
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11057524095",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/11057524095"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8113166,
+      47.2864045
     ]
   }
 }
