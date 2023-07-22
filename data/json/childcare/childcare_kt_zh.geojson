@@ -4255,6 +4255,7 @@
   "id": "node/3775034283",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2023-07-21",
     "name": "Kinderkrippe \"Storchennest\"",
     "phone": "+41 55 243 46 57",
     "website": "http://www.chinderchrippe.ch/",
@@ -4375,6 +4376,7 @@
   "id": "node/4081379789",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2023-07-21",
     "email": "info@familienzentrum-winterthur.ch",
     "name": "Familienzentrum Winterthur",
     "phone": "+41 52 212 15 12",
