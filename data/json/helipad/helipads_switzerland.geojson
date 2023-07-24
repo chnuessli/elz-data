@@ -16233,6 +16233,9 @@
   "id": "node/4377572108",
   "properties": {
     "aeroway": "helipad",
+    "ele": "2944",
+    "icao": "LSVD",
+    "name": "Clariden-Hüfifirn",
     "id": "node/4377572108"
   },
   "geometry": {
@@ -16934,6 +16937,7 @@
   "properties": {
     "aeroway": "helipad",
     "ele": "2696",
+    "icao": "LSVO",
     "name": "Gebirgslandeplatz HEL Madrisahorn",
     "id": "node/9831344316"
   },
@@ -16951,6 +16955,7 @@
   "properties": {
     "aeroway": "helipad",
     "ele": "2267",
+    "icao": "LSYA",
     "name": "Gebirgslandeplatz HEL Alp Trida",
     "id": "node/9831378031"
   },
@@ -18054,6 +18059,78 @@
     "coordinates": [
       8.9730691,
       46.1881757
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11063474681",
+  "properties": {
+    "aeroway": "helipad",
+    "ele": "2972",
+    "icao": "LSYI",
+    "name": "Limmerenfirn",
+    "id": "node/11063474681"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9677405,
+      46.8106197
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11063474682",
+  "properties": {
+    "aeroway": "helipad",
+    "ele": "2516",
+    "icao": "LSVK",
+    "name": "Glärnischfirn",
+    "id": "node/11063474682"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9916873,
+      47.0040655
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11063474683",
+  "properties": {
+    "aeroway": "helipad",
+    "ele": "2967",
+    "icao": "LSVV",
+    "name": "Vorabgletscher",
+    "id": "node/11063474683"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1520083,
+      46.8784513
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11063474684",
+  "properties": {
+    "aeroway": "helipad",
+    "ele": "2235",
+    "icao": "LSYC",
+    "name": "Crap Sogn Gion",
+    "id": "node/11063474684"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2151663,
+      46.8359487
     ]
   }
 }

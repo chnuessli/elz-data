@@ -5237,6 +5237,7 @@
     "defibrillator:location": "Museum für Urgeschichte",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Kanton Zug",
     "id": "node/7568739428"
@@ -5244,8 +5245,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5155785,
-      47.1598424
+      8.5155999,
+      47.1598364
     ]
   }
 },
@@ -36446,8 +36447,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6297897,
-      47.4235447
+      8.6297855,
+      47.4235459
     ]
   }
 },
@@ -66871,10 +66872,11 @@
   "type": "Feature",
   "id": "node/11059278582",
   "properties": {
-    "access": "öffentlich_24h",
+    "access": "yes",
     "defibrillator:location": "Aussenwand Eingang",
     "emergency": "defibrillator",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Einwohnergemeinde Cham",
     "id": "node/11059278582"
   },
@@ -66902,6 +66904,23 @@
     "coordinates": [
       8.4514092,
       47.1784289
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11063400232",
+  "properties": {
+    "access": "yes",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "id": "node/11063400232"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5911444,
+      47.3587581
     ]
   }
 }

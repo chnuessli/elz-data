@@ -24895,6 +24895,7 @@
   "id": "way/410328301",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2023-07-23",
     "name": "Kindergarten Emil-Klöti",
     "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
     "id": "way/410328301"
@@ -33047,6 +33048,7 @@
     "addr:postcode": "8406",
     "addr:street": "Rebwiesenstrasse",
     "amenity": "kindergarten",
+    "check_date": "2023-07-23",
     "name": "Betreuung Rebwiesen",
     "id": "node/673782757"
   },
