@@ -5809,6 +5809,73 @@
 },
 {
   "type": "Feature",
+  "id": "way/52975850",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "261",
+    "addr:postcode": "8047",
+    "addr:street": "Altstetterstrasse",
+    "alt_name": "Alterszentrum Mathysweg",
+    "amenity": "social_facility",
+    "building": "yes",
+    "capacity": "74+5",
+    "email": "asz-mathysweg@zuerich.ch",
+    "name": "Gesundheitszentrum für das Alter Mathysweg",
+    "note": "Ersatzstandort ist an der Birmensdorferstrasse 489;Für Schutz & Rettung u.a einsatzrelevant.",
+    "operator": "Stadt Zürich, GUD",
+    "phone": "+41 44 414 30 30",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "website": "https://www.stadt-zuerich.ch/az-mathysweg",
+    "id": "way/52975850"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.484285,
+          47.3801796
+        ],
+        [
+          8.4844561,
+          47.3800475
+        ],
+        [
+          8.4843142,
+          47.3798994
+        ],
+        [
+          8.4846591,
+          47.3797124
+        ],
+        [
+          8.4849258,
+          47.3799071
+        ],
+        [
+          8.4847549,
+          47.3800373
+        ],
+        [
+          8.4848971,
+          47.3801869
+        ],
+        [
+          8.4845516,
+          47.3803737
+        ],
+        [
+          8.484285,
+          47.3801796
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/53016124",
   "properties": {
     "addr:housenumber": "2",
@@ -30514,36 +30581,6 @@
     "coordinates": [
       8.5572722,
       47.3573797
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4937236842",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "267",
-    "addr:postcode": "8047",
-    "addr:street": "Altstetterstrasse",
-    "alt_name": "Alterszentrum Mathysweg",
-    "amenity": "social_facility",
-    "capacity": "74+5",
-    "email": "asz-mathysweg@zuerich.ch",
-    "name": "Gesundheitszentrum für das Alter Mathysweg",
-    "note": "Ersatzstandort ist an der Birmensdorferstrasse 489;Für Schutz & Rettung u.a einsatzrelevant.",
-    "operator": "Stadt Zürich, GUD",
-    "phone": "+41 44 414 30 30",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "website": "https://www.stadt-zuerich.ch/az-mathysweg",
-    "id": "node/4937236842"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4847263,
-      47.3799517
     ]
   }
 },

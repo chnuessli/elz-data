@@ -49963,6 +49963,7 @@
   "id": "node/6346720475",
   "properties": {
     "addr:city": "Weissbad",
+    "addr:country": "CH",
     "addr:housenumber": "1",
     "addr:postcode": "9057",
     "addr:street": "Im Park",
@@ -53082,6 +53083,30 @@
     "coordinates": [
       6.8301668,
       46.555841
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11064246921",
+  "properties": {
+    "addr:city": "Steinach",
+    "addr:housenumber": "6",
+    "addr:postcode": "9323",
+    "addr:street": "Hafenstrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general",
+    "name": "Polipraxis Steinach",
+    "opening_hours": "Mo-Fr 07:30-12:00; 13:30-18:00",
+    "operator": "Polipraxis Gruppe",
+    "id": "node/11064246921"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4459602,
+      47.5013582
     ]
   }
 }

@@ -30400,7 +30400,7 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Gemeine Dürnten",
+    "operator": "Gemeinde Dürnten",
     "id": "node/9790922417"
   },
   "geometry": {
@@ -31386,6 +31386,7 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Im Treppenhaus",
+    "description": "am 01.09.2023 bleibt der Defi geschlossen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -50534,6 +50535,74 @@
     "coordinates": [
       8.5911444,
       47.3587581
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11064450505",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Freibad Obfelden",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "vor Büro Bademeister",
+    "operator": "Gemeinde",
+    "id": "node/11064450505"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4227178,
+      47.2593638
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11065087805",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Bürogebäude",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "AOZ - Asylorganisation Zürich",
+    "phone": "+41 44 415 60 90",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11065087805"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4909672,
+      47.3930801
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11065089006",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Eingangsbereich des Bürogebäudes",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: 09:00-12:00 und 14:00-16:00 Uhr, Do: 14:00-16:00 Uhr",
+    "operator": "AOZ - Asylorganisation Zürich",
+    "phone": "+41 44 415 64 70",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11065089006"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7940085,
+      47.31513
     ]
   }
 }

@@ -1473,6 +1473,91 @@
 },
 {
   "type": "Feature",
+  "id": "relation/16124690",
+  "properties": {
+    "addr:city": "Turbenthal",
+    "addr:housenumber": "1",
+    "addr:postcode": "8488",
+    "addr:street": "Feldstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "gehoerlosendorf@schlosst.ch",
+    "name": "Stiftung Schloss Turbenthal Gehörlosendorf - Bewohner",
+    "operator": "Stiftung Schloss Turbenthal Gehörlosendorf",
+    "phone": "+41 52 396 26 26",
+    "social_facility": "assisted_living",
+    "type": "multipolygon",
+    "website": "https://www.gehoerlosendorf.ch/index.php?id=97",
+    "id": "relation/16124690"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.849251,
+          47.4364746
+        ],
+        [
+          8.8492419,
+          47.4364154
+        ],
+        [
+          8.8492381,
+          47.4363929
+        ],
+        [
+          8.8491889,
+          47.4360653
+        ],
+        [
+          8.8495358,
+          47.4360422
+        ],
+        [
+          8.8496018,
+          47.4364471
+        ],
+        [
+          8.8495387,
+          47.4364539
+        ],
+        [
+          8.8494398,
+          47.4364606
+        ],
+        [
+          8.849251,
+          47.4364746
+        ]
+      ],
+      [
+        [
+          8.8493018,
+          47.4363862
+        ],
+        [
+          8.8494571,
+          47.4363745
+        ],
+        [
+          8.8494269,
+          47.4361904
+        ],
+        [
+          8.8492716,
+          47.4362021
+        ],
+        [
+          8.8493018,
+          47.4363862
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/10743329",
   "properties": {
     "addr:city": "Niederglatt",
@@ -8512,6 +8597,73 @@
         [
           8.4751599,
           47.389596
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/52975850",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "261",
+    "addr:postcode": "8047",
+    "addr:street": "Altstetterstrasse",
+    "alt_name": "Alterszentrum Mathysweg",
+    "amenity": "social_facility",
+    "building": "yes",
+    "capacity": "74+5",
+    "email": "asz-mathysweg@zuerich.ch",
+    "name": "Gesundheitszentrum für das Alter Mathysweg",
+    "note": "Ersatzstandort ist an der Birmensdorferstrasse 489;Für Schutz & Rettung u.a einsatzrelevant.",
+    "operator": "Stadt Zürich, GUD",
+    "phone": "+41 44 414 30 30",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "website": "https://www.stadt-zuerich.ch/az-mathysweg",
+    "id": "way/52975850"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.484285,
+          47.3801796
+        ],
+        [
+          8.4844561,
+          47.3800475
+        ],
+        [
+          8.4843142,
+          47.3798994
+        ],
+        [
+          8.4846591,
+          47.3797124
+        ],
+        [
+          8.4849258,
+          47.3799071
+        ],
+        [
+          8.4847549,
+          47.3800373
+        ],
+        [
+          8.4848971,
+          47.3801869
+        ],
+        [
+          8.4845516,
+          47.3803737
+        ],
+        [
+          8.484285,
+          47.3801796
         ]
       ]
     ]
@@ -32836,72 +32988,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/297752932",
-  "properties": {
-    "addr:city": "Turbenthal",
-    "addr:housenumber": "1",
-    "addr:postcode": "8488",
-    "addr:street": "Feldstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "email": "gehoerlosendorf@schlosst.ch",
-    "name": "Stiftung Schloss Turbenthal Gehörlosendorf - Bewohner",
-    "operator": "Stiftung Schloss Turbenthal Gehörlosendorf",
-    "phone": "+41 52 396 26 26",
-    "social_facility": "assisted_living",
-    "website": "https://www.gehoerlosendorf.ch/index.php?id=97",
-    "id": "way/297752932"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.8492351,
-          47.4364573
-        ],
-        [
-          8.8491737,
-          47.4360599
-        ],
-        [
-          8.8495358,
-          47.4360343
-        ],
-        [
-          8.8495971,
-          47.4364317
-        ],
-        [
-          8.8495743,
-          47.4364333
-        ],
-        [
-          8.8495324,
-          47.4364363
-        ],
-        [
-          8.8495382,
-          47.4364737
-        ],
-        [
-          8.8494305,
-          47.4364813
-        ],
-        [
-          8.8494247,
-          47.4364439
-        ],
-        [
-          8.8492351,
-          47.4364573
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/297971894",
   "properties": {
     "addr:city": "Schlatt ZH",
@@ -49331,36 +49417,6 @@
     "coordinates": [
       8.5572722,
       47.3573797
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4937236842",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "267",
-    "addr:postcode": "8047",
-    "addr:street": "Altstetterstrasse",
-    "alt_name": "Alterszentrum Mathysweg",
-    "amenity": "social_facility",
-    "capacity": "74+5",
-    "email": "asz-mathysweg@zuerich.ch",
-    "name": "Gesundheitszentrum für das Alter Mathysweg",
-    "note": "Ersatzstandort ist an der Birmensdorferstrasse 489;Für Schutz & Rettung u.a einsatzrelevant.",
-    "operator": "Stadt Zürich, GUD",
-    "phone": "+41 44 414 30 30",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "website": "https://www.stadt-zuerich.ch/az-mathysweg",
-    "id": "node/4937236842"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4847263,
-      47.3799517
     ]
   }
 },
