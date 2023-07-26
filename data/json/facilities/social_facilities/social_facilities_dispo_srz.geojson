@@ -49235,6 +49235,7 @@
     "social_facility": "food_bank",
     "social_facility:for": "underprivileged",
     "website": "https://www.caritas-zuerich.ch/markt",
+    "wheelchair": "yes",
     "id": "node/4143671992"
   },
   "geometry": {

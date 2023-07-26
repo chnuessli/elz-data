@@ -3831,6 +3831,57 @@
 },
 {
   "type": "Feature",
+  "id": "way/48452985",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "8003",
+    "addr:street": "Zentralstrasse",
+    "amenity": "school",
+    "building": "yes",
+    "email": "info@sanarena.ch",
+    "name": "SanArena Rettungsschule",
+    "operator": "SanArena Rettungsschule",
+    "phone": "+41 44 461 61 61",
+    "website": "https://www.sanarena.ch/lageplan-zuerich",
+    "wheelchair": "limited",
+    "id": "way/48452985"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5209193,
+          47.3709455
+        ],
+        [
+          8.5209488,
+          47.3709136
+        ],
+        [
+          8.5210015,
+          47.3708564
+        ],
+        [
+          8.5212495,
+          47.3709612
+        ],
+        [
+          8.5211673,
+          47.3710504
+        ],
+        [
+          8.5209193,
+          47.3709455
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/52348496",
   "properties": {
     "addr:city": "Zürich",
