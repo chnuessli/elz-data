@@ -11754,6 +11754,24 @@
       47.3552798
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11069092338",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "ABC Ärzteberatung",
+    "website": "https://a-b-c.ch/",
+    "id": "node/11069092338"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4572255,
+      47.1792524
+    ]
+  }
 }
 ]
 }

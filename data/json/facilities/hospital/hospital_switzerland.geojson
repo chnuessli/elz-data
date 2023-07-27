@@ -14367,9 +14367,17 @@
   "type": "Feature",
   "id": "way/181977663",
   "properties": {
-    "amenity": "hospital",
+    "amenity": "clinic",
+    "contact:city": "Münsterlingen",
+    "contact:email": "aaz.pdt@stgag.ch",
+    "contact:housenumber": "3",
+    "contact:phone": "+41 848 41 41 41",
+    "contact:postcode": "8596",
+    "contact:street": "Seeblickstrasse",
+    "contact:website": "https://www.stgag.ch/fachbereiche/psychiatrische-klinik/psychiatrische-klinik-muensterlingen/",
     "healthcare": "psychotherapist",
-    "name": "Psychiatrische Klinik",
+    "name": "Psychiatrische Klinik Münsterlingen",
+    "short_name": "PKM",
     "wheelchair": "limited",
     "id": "way/181977663"
   },
@@ -53107,6 +53115,24 @@
     "coordinates": [
       9.4459602,
       47.5013582
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11069092338",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "ABC Ärzteberatung",
+    "website": "https://a-b-c.ch/",
+    "id": "node/11069092338"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4572255,
+      47.1792524
     ]
   }
 }
