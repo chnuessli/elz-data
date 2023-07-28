@@ -27788,8 +27788,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4471077,
-      47.3959344
+      8.4471118,
+      47.3959208
     ]
   }
 },
@@ -67035,6 +67035,54 @@
     "coordinates": [
       8.7996056,
       47.0580374
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11070879605",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Seestrasse 39",
+    "description": "24 Std. zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Samariterverein Gersau",
+    "phone": "+41 79 783 16 83",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11070879605"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5232931,
+      46.9922371
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11070952705",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Sunnäfang ",
+    "description": "24 Std. zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Bezirksschule Gersau/ Bezirk Gersau",
+    "phone": "+41418298011",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11070952705"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5280889,
+      46.9922408
     ]
   }
 }

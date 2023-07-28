@@ -1767,6 +1767,7 @@
     "amenity": "social_facility",
     "building": "yes",
     "building:roof": "tile",
+    "check_date": "2023-07-27",
     "name": "Integrierte Suchthilfe Winterthur",
     "short_name": "ISW",
     "social_facility": "ambulatory_care",

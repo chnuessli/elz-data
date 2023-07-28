@@ -53135,6 +53135,23 @@
       47.1792524
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11071629226",
+  "properties": {
+    "amenity": "clinic",
+    "name": "Physiozentrum",
+    "website": "https://www.physiozentrum.ch/basel-sbb/",
+    "id": "node/11071629226"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5884045,
+      47.548492
+    ]
+  }
 }
 ]
 }
