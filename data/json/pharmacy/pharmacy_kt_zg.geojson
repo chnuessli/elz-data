@@ -351,6 +351,7 @@
     "dispensing": "yes",
     "healthcare": "pharmacy",
     "name": "Herti Apotheke und Drogerie",
+    "opening_hours": "Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 08:00-17:00",
     "phone": "+41 41 711 85 00",
     "shop": "chemist",
     "website": "http://www.hertiapotheke.ch/",
