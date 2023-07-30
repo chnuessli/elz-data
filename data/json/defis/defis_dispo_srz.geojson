@@ -3579,29 +3579,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6976938433",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Schiffstation Gersau",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "location": "In covered walkway through schiffstation building",
-    "opening_hours": "24/7",
-    "operator": "Samariterverein Gersau, Frau Camenzind",
-    "phone": "+41 41 828 14 80",
-    "id": "node/6976938433"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5258423,
-      46.9906829
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6976938434",
   "properties": {
     "access": "yes",
@@ -25936,29 +25913,6 @@
     "coordinates": [
       8.7275941,
       47.5020188
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8605102717",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Waagtalstrassenseite, Hausmitte\nIn einer Nische (ehem. Hauseingang).",
-    "description": "24h verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "Gemeinde Unteriberg",
-    "phone": "+4178317023",
-    "id": "node/8605102717"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8016048,
-      47.0583142
     ]
   }
 },
