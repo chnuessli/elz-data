@@ -3541,14 +3541,10 @@
     "addr:street": "Paulstrasse",
     "amenity": "kindergarten",
     "building": "yes",
-    "name": "Kinderkrippe Leuehöhli",
-    "operator": "pop e poppa servicefamille sàrl",
-    "operator:type": "private",
-    "preschool": "yes",
+    "name": "kita pop e popa leuehöli",
     "roof:levels": "1",
     "roof:orientation": "across",
     "roof:shape": "gabled",
-    "website": "https://www.popepoppa.ch/de/einrichtungen/kita-in-winterthur/",
     "id": "way/39358555"
   },
   "geometry": {
