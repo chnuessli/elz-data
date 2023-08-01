@@ -1038,10 +1038,6 @@
   "type": "Feature",
   "id": "relation/9056474",
   "properties": {
-    "addr:city": "Bern",
-    "addr:housenumber": "15",
-    "addr:postcode": "3010",
-    "addr:street": "Freiburgstrasse",
     "amenity": "hospital",
     "contact:phone": "+41 316322111",
     "contact:website": "http://www.kinderkliniken.insel.ch/",
@@ -8105,6 +8101,10 @@
         [
           7.4264476,
           46.9482138
+        ],
+        [
+          7.4264772,
+          46.9481688
         ],
         [
           7.4264839,
@@ -19223,11 +19223,6 @@
   "type": "Feature",
   "id": "way/281247933",
   "properties": {
-    "addr:city": "Bern",
-    "addr:country": "CH",
-    "addr:housenumber": "34",
-    "addr:postcode": "3010",
-    "addr:street": "Freiburgstrasse",
     "amenity": "clinic",
     "building": "hospital",
     "healthcare": "clinic",

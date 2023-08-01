@@ -30239,9 +30239,16 @@
   "type": "Feature",
   "id": "node/845207315",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "63",
+    "addr:postcode": "8004",
+    "addr:street": "Engelstrasse",
     "amenity": "social_facility",
+    "contact:email": "info@qah-aussersihl.ch",
+    "contact:phone": "+41 44 298 60 60",
+    "contact:website": "https://www.qah-aussersihl.ch/kontakt/",
     "name": "Quartieraltersheim Aussersihl",
-    "social_facility": "group_home",
+    "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "id": "node/845207315"
   },
