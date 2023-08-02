@@ -3246,6 +3246,7 @@
     "addr:street": "Badenerstrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date:opening_hours": "2023-08-02",
     "dispensing": "yes",
     "name": "Lochergut Apotheke",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-18:00",
