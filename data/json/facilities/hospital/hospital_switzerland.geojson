@@ -11953,6 +11953,51 @@
 },
 {
   "type": "Feature",
+  "id": "way/125667230",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "36",
+    "addr:postcode": "8008",
+    "addr:street": "Witellikerstrasse",
+    "amenity": "hospital",
+    "building": "yes",
+    "email": "herzzentrum@herzzentrum.ch",
+    "name": "Hirslanden Herzzentrum",
+    "phone": "+41 44 387 37 11",
+    "website": "https://www.herzzentrum.ch/",
+    "id": "way/125667230"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5759214,
+          47.3519019
+        ],
+        [
+          8.5759717,
+          47.3517942
+        ],
+        [
+          8.5763908,
+          47.351884
+        ],
+        [
+          8.5763405,
+          47.3519917
+        ],
+        [
+          8.5759214,
+          47.3519019
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/128032694",
   "properties": {
     "addr:city": "Riaz",
