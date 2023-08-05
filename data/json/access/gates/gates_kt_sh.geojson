@@ -3326,6 +3326,26 @@
       47.689869
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11089132244",
+  "properties": {
+    "access": "customers",
+    "barrier": "gate",
+    "material": "metal",
+    "maxwidth": "2",
+    "vehicle": "no",
+    "wheelchair": "yes",
+    "id": "node/11089132244"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5927644,
+      47.6748638
+    ]
+  }
 }
 ]
 }
