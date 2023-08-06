@@ -217,9 +217,11 @@
     "addr:street": "Gänzilooweg",
     "amenity": "police",
     "building": "yes",
+    "building:levels": "3",
     "name": "Diensthundeabteilung Stadtpolizei Zürich",
     "opening_hours": "24/7",
     "operator": "Stadtpolizei Zürich",
+    "roof:shape": "gabled",
     "id": "way/39652667"
   },
   "geometry": {

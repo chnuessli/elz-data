@@ -38627,7 +38627,7 @@
   "id": "node/3862413835",
   "properties": {
     "barrier": "gate",
-    "locked:conditional": "no @ (Mo-Sa 07:00-19:00)",
+    "locked:conditional": "no @ (Mo-Sa 06:00-20:30)",
     "id": "node/3862413835"
   },
   "geometry": {
@@ -77692,6 +77692,7 @@
   "id": "node/10240734073",
   "properties": {
     "barrier": "gate",
+    "locked:conditional": "no @ (Mo-Sa 06:00-20:30)",
     "id": "node/10240734073"
   },
   "geometry": {

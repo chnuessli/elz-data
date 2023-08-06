@@ -4269,6 +4269,10 @@
   "type": "Feature",
   "id": "way/297976439",
   "properties": {
+    "addr:city": "Schlatt ZH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8418",
+    "addr:street": "Schützenhausstrasse",
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Elsau-Schlatt",
@@ -4920,8 +4924,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.540418,
-      47.2914327
+      8.5403458,
+      47.2913806
     ]
   }
 },
