@@ -4721,8 +4721,14 @@
   "type": "Feature",
   "id": "node/7545103097",
   "properties": {
+    "access": "yes",
+    "defibrillator:location": "Zur Dorfstrasse hin in der ehemaligen Telefonkabine im grünen Kasten an der Wand.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "wheelchair": "limited",
     "id": "node/7545103097"
   },
   "geometry": {
@@ -62758,8 +62764,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7260091,
-      47.4982419
+      8.7260304,
+      47.498255
     ]
   }
 },
@@ -67105,6 +67111,27 @@
     "coordinates": [
       8.7930253,
       47.2214804
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11093491104",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Haupthaus des Begegnungszentrum unter dem rechten Dachvorsprung an der Hausecke im grünen Kasten.",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Rüdlingen",
+    "wheelchair": "yes",
+    "id": "node/11093491104"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5681123,
+      47.5880844
     ]
   }
 }
