@@ -49635,6 +49635,32 @@
 },
 {
   "type": "Feature",
+  "id": "node/6247925952",
+  "properties": {
+    "addr:city": "Gampel",
+    "addr:housenumber": "1",
+    "addr:postcode": "3945",
+    "addr:street": "Weri",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general",
+    "level": "0",
+    "name": "Regionales Gesundheitszentrum Gampel",
+    "operator": "Dr. Philipp Brunner",
+    "operator:type": "public",
+    "website": "https://www.arztpraxis-loetschberg.ch",
+    "id": "node/6247925952"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7435955,
+      46.3169418
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6295834100",
   "properties": {
     "amenity": "clinic",

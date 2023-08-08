@@ -448,30 +448,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8707583231",
-  "properties": {
-    "addr:city": "Jona",
-    "addr:housenumber": "120",
-    "addr:postcode": "8645",
-    "addr:street": "St. Gallerstrasse",
-    "healthcare": "vaccination_centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum Jona",
-    "operator": "Kanton St.Gallen",
-    "vaccination": "covid19",
-    "website": "https://sg.ch/coronavirus/impfen",
-    "id": "node/8707583231"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8488494,
-      47.2298606
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8712147047",
   "properties": {
     "healthcare": "vaccination_centre",
@@ -562,27 +538,6 @@
     "coordinates": [
       7.4917958,
       47.0171201
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9770635305",
-  "properties": {
-    "amenity": "doctors",
-    "healthcare": "vaccination_centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum Rapperswil-Jona",
-    "operator": "Gesundheitsdirektion Kanton SG",
-    "vaccination": "COVID-19",
-    "website": "https://www.sg-impft.ch/standort/impfzentrum-rapperswil-jona/",
-    "id": "node/9770635305"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8486525,
-      47.2299032
     ]
   }
 },

@@ -7998,7 +7998,7 @@
   "type": "Feature",
   "id": "way/28289635",
   "properties": {
-    "addr:city": "Langnau am ALbis",
+    "addr:city": "Langnau am Albis",
     "addr:housenumber": "6",
     "addr:postcode": "8135",
     "addr:street": "Widmerstrasse",
@@ -31976,6 +31976,7 @@
     "addr:street": "Steinbüelweg",
     "amenity": "school",
     "building": "school",
+    "grades": "7-9",
     "name": "Schulhaus Wettstein",
     "id": "way/91932646"
   },
@@ -83277,6 +83278,7 @@
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Bürgli",
+    "roof:shape": "gabled",
     "id": "way/281234297"
   },
   "geometry": {

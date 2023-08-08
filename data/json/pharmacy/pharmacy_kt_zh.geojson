@@ -6761,6 +6761,10 @@
   "type": "Feature",
   "id": "node/8078091318",
   "properties": {
+    "addr:city": "Langnau am Albis",
+    "addr:housenumber": "20a",
+    "addr:postcode": "8135",
+    "addr:street": "Neue Dorfstrasse",
     "amenity": "pharmacy",
     "healthcare": "pharmacy",
     "name": "Albis Drogerie",
